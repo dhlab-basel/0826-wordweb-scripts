@@ -13,32 +13,46 @@ try:
     results = cursor.fetchall()
 
     for row in results:
-        # print(row["description"])
 
-        birth = re.search("(?<=b\.\s)\d{4}(.*)", row["description"])
-        death = re.search("(?<=d\.\s)\d{4}(.*)", row["description"])
-        florid = re.search("(?<=fl\.\s)\d{4}(?!\-)(.*)", row["description"])
+        if row["description"]:
 
-        # if (birth):
-        #     print("Only Birth: " + birth.group(0), row, birth.group(1))
+            birth = re.search("(?<=b\.\s)\d{4}(.*)", row["description"])
+            death = re.search("(?<=d\.\s)\d{4}(.*)", row["description"])
+            florid = re.search("(?<=fl\.\s)\d{4}(?!\-)(.*)", row["description"])
+            birthDeath = re.search("(.*)(\d{4})-(\d{4})(.*)", row["description"])
 
-        # if (death):
-        #     print("Only Death: " + death.group(0), row, death.group(1))
+            # if (birth):
+            #     print("Only Birth: " + birth.group(0), row, birth.group(1))
 
-        birdDeath = re.search("(.*)(\d{4})-(\d{4})(.*)", row["description"])
+            # if (death):
+            #     print("Only Death: " + death.group(0), row, death.group(1))
 
-        if (birdDeath):
-            florid_span = re.search("(.*)(fl\.\s)", birdDeath.group(1))
-            if (florid_span):
-                print("Floridspan - " + "Birth: " + birdDeath.group(2) + " | Death: " + birdDeath.group(3) + " || " + florid_span.group(1) + "::" + birdDeath.group(4), row)
-            else:
-                print("Normalspan - " + "Birth: " + birdDeath.group(2) + " | Death: " + birdDeath.group(3) + " || " + birdDeath.group(1) + "::" + birdDeath.group(4), row)
+            # if (florid):
+            #     print("Florid - ", florid.group(1), florid.group(1), row)
 
-        # if (florid):
-        #     print("Florid - ", florid.group(1), florid.group(1), row)
+            # if (birthDeath):
+            #     florid_span = re.search("(.*)(fl\.\s)", birthDeath.group(1))
+            #     if (florid_span):
+            #         print("Floridspan - " + "Birth: " + birthDeath.group(2) + " | Death: " + birthDeath.group(3) + " || " + florid_span.group(1) + "::" + birthDeath.group(4), row)
+            #     else:
+            #         print("Normalspan - " + "Birth: " + birthDeath.group(2) + " | Death: " + birthDeath.group(3) + " || " + birthDeath.group(1) + "::" + birthDeath.group(4), row)
 
-        # if birth and death:
-        #     print("Same")
+
+            # Test if all are not the same
+            # if (birth and death):
+            #     print("Birth and Death")
+            # elif (birth and florid):
+            #     print("Birth and Flourid", row["description"], florid)
+            # elif (death and florid):
+            #     print("Death and Flourid")
+            # elif (birth and birthDeath):
+            #     print("Birth and BirthDeath")
+            # elif (death and birthDeath):
+            #     print("Death and BirthDeath")
+            # elif (florid and birthDeath):
+            #     print("Flourid and BirthDeath", row["description"], florid)
+            # else:
+            #     print("Not Same")
 
     conn.close()
     cursor.close()
