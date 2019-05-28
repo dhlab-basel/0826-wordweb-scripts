@@ -6,55 +6,89 @@ try:
 
     cursor = conn.cursor(pymysql.cursors.DictCursor)
 
-    sql = "SELECT * FROM authors"
+    # sql = "SELECT COUNT(*) FROM authors WHERE description LIKE '%b. %'"
+    sql = "SELECT * FROM authors ORDER BY lastname"
 
     cursor.execute(sql)
 
     results = cursor.fetchall()
 
+    count = 0
+
     for row in results:
 
         if row["description"]:
 
-            birth = re.search("(?<=b\.\s)\d{4}(.*)", row["description"])
-            death = re.search("(?<=d\.\s)\d{4}(.*)", row["description"])
-            florid = re.search("(?<=fl\.\s)\d{4}(?!\-)(.*)", row["description"])
-            birthDeath = re.search("(.*)(\d{4})-(\d{4})(.*)", row["description"])
+            # birth = re.search("(?<=b\.\s)\d{4}(.*)", row["description"])
+            birth = re.search("(.*)b\.\s(.*)", row["description"])
+            # death = re.search("(?<=d\.\s)\d{4}(.*)", row["description"])
+            death = re.search("(.*)d\.\s(.*)", row["description"])
+            # floruit = re.search("(?<=fl\.\s)\d{4}(?!\-)(.*)", row["description"])
+            floruit = re.search("(.*)fl\.\s(.*)", row["description"])
+            # birthDeath = re.search("(.*)(\d{4})-(\d{4})(.*)", row["description"])
+            birthDeath = re.search("(.*?)(\[(\d{4})-(\d{4})\]|(\d{4}))-(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", row["description"])
 
-            # if (birth):
-            #     print("Only Birth: " + birth.group(0), row, birth.group(1))
+            if birth:
 
-            # if (death):
-            #     print("Only Death: " + death.group(0), row, death.group(1))
+                birth_span = re.search("(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", birth.group(2))
 
-            # if (florid):
-            #     print("Florid - ", florid.group(1), florid.group(1), row)
+                if birth_span.group(4) is None:
+                    print("Not Exact Birth", row["description"])
+                else:
+                    print("Exact Birth", row["description"])
 
-            # if (birthDeath):
-            #     florid_span = re.search("(.*)(fl\.\s)", birthDeath.group(1))
-            #     if (florid_span):
-            #         print("Floridspan - " + "Birth: " + birthDeath.group(2) + " | Death: " + birthDeath.group(3) + " || " + florid_span.group(1) + "::" + birthDeath.group(4), row)
-            #     else:
-            #         print("Normalspan - " + "Birth: " + birthDeath.group(2) + " | Death: " + birthDeath.group(3) + " || " + birthDeath.group(1) + "::" + birthDeath.group(4), row)
+            elif death:
+
+                death_span = re.search("(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", death.group(2))
+
+                if death_span.group(4) is None:
+                    print("Not Exact Death", row["description"])
+                else:
+                    print("Exact Death", row["description"])
+
+            elif floruit:
+
+                floruit_span = re.search("((\d{4})-(\d{4})|(\d{4}))(.*)", floruit.group(2))
+
+                if floruit_span is not None:
+
+                    print(floruit_span.groups())
+                    if floruit_span.group(4) is None:
+                        print("Not Exact Floruit", row["description"])
+                    else:
+                        print("Exact Flourit", row["description"])
+
+            elif birthDeath:
+
+                if birthDeath.group(3):
+                    print("Span Birth: ", birthDeath.group(3), birthDeath.group(4), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+                else:
+                    print("Exact Birth: ", birthDeath.group(5), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+
+                if birthDeath.group(7):
+                    print("Span Death: ", birthDeath.group(7), birthDeath.group(8), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+                else:
+                    print("Exact Death: ", birthDeath.group(9), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
 
 
             # Test if all are not the same
             # if (birth and death):
             #     print("Birth and Death")
-            # elif (birth and florid):
-            #     print("Birth and Flourid", row["description"], florid)
-            # elif (death and florid):
+            # elif (birth and floruit):
+            #     print("Birth and Flourid", row["description"], floruit)
+            # elif (death and floruit):
             #     print("Death and Flourid")
             # elif (birth and birthDeath):
             #     print("Birth and BirthDeath")
             # elif (death and birthDeath):
             #     print("Death and BirthDeath")
-            # elif (florid and birthDeath):
-            #     print("Flourid and BirthDeath", row["description"], florid)
+            # elif (floruit and birthDeath):
+            #     print("Flourid and BirthDeath", row["description"], floruit)
             # else:
             #     print("Not Same")
 
     conn.close()
     cursor.close()
+
 except Exception as err:
     print(err)
