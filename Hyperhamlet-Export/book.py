@@ -6,7 +6,8 @@ try:
 
     cursor = conn.cursor(pymysql.cursors.DictCursor)
 
-    sql = "SELECT * FROM authors"
+    # sql = "SELECT authors_citations.id, authors_citations.author_id, citations.title FROM authors_citations INNER JOIN citations ON authors_citations.citation_id = citations.id"
+    sql = "SELECT authors.firstname, authors.lastname, citations.title FROM authors, authors_citations, citations WHERE authors.id = authors_citations.author_id AND citations.id = authors_citations.citation_id"
 
     cursor.execute(sql)
 
