@@ -20,9 +20,13 @@ args = parser.parse_args()
 con = knora(args.server, args.user, args.password)
 schema = con.create_schema(args.projectcode, args.ontoname)
 
-res_info = con.create_resource(schema, 'person', 'test-person', {
-    'firstname': "William",
-    'lastname': "Spakespeare"
+res_info = con.create_resource(schema, "person", "test-person", {
+    "internalID": "&000001",
+    "firstName": "William",
+    "lastName": "Shakespeare",
+    "description": "English Dramatist",
+    "birthDate": "GREGORIAN:1564",
+    "deathDate": "GREGORIAN:1616"
 })
 
 pprint(res_info)

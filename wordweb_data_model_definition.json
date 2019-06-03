@@ -32,7 +32,25 @@
           },
           "properties": [
             {
-              "name": "firstname",
+              "name": "internalID",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "InternalID",
+
+                "de": "Interne ID"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=32"
+              ],
+              "cardinality": "1"
+            },
+            {
+              "name": "firstName",
               "super": [
                 "hasValue",
                 "foaf:givenName"
@@ -51,7 +69,7 @@
               "cardinality": "1"
             },
             {
-              "name": "lastname",
+              "name": "lastName",
               "super": [
                 "hasValue",
                 "foaf:familyName"
@@ -67,6 +85,62 @@
                 "maxlength=64"
               ],
               "cardinality": "1"
+            },
+            {
+              "name": "description",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Description",
+                "de": "Beschreibung"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
+            },
+            {
+              "name": "birthDate",
+              "super": [
+                "hasValue"
+              ],
+              "object": "DateValue",
+              "labels": {
+                "en": "Birth Date",
+                "de": "Geburtsdatum"
+              },
+              "gui_element": "Date",
+              "cardinality": "1"
+            },
+            {
+              "name": "deathDate",
+              "super": [
+                "hasValue"
+              ],
+              "object": "DateValue",
+              "labels": {
+                "en": "Death Date",
+                "de": "Todesdatum"
+              },
+              "gui_element": "Date",
+              "cardinality": "1"
+            },
+            {
+              "name": "activeDate",
+              "super": [
+                "hasValue"
+              ],
+              "object": "DateValue",
+              "labels": {
+                "en": "Active Date",
+                "de": "Aktivitätsdatum"
+              },
+              "gui_element": "Date",
+              "cardinality": "0-1"
             }
           ]
         }
