@@ -20,6 +20,38 @@
       "label": "Test Import WordWeb",
       "resources": [
         {
+          "name":  "book",
+          "super": "Resource",
+          "labels": {
+            "en": "Book",
+            "de": "Buch"
+          },
+          "comments": {
+            "en": "Represents a book",
+            "de": "Repräsentiert ein Buch"
+          },
+          "properties": [
+            {
+              "name": "title",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Title",
+
+                "de": "Titel"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=32"
+              ],
+              "cardinality": "1"
+            }
+          ]
+        },
+        {
           "name": "person",
           "super": "Resource",
           "labels": {
@@ -31,6 +63,17 @@
             "de": "Repräsentiert eine Person/Menschen"
           },
           "properties": [
+            {
+              "name":"isAuthorOf",
+              "super": ["hasLinkTo"],
+              "object": "teimww:book",
+              "labels": {
+                "en": "is author of",
+                "de": "ist Autor von"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
             {
               "name": "internalID",
               "super": [
@@ -47,7 +90,7 @@
                 "size=24",
                 "maxlength=32"
               ],
-              "cardinality": "1"
+              "cardinality": "0-1"
             },
             {
               "name": "firstName",
@@ -101,7 +144,7 @@
                 "size=24",
                 "maxlength=64"
               ],
-              "cardinality": "1"
+              "cardinality": "0-1"
             },
             {
               "name": "birthDate",
@@ -114,7 +157,7 @@
                 "de": "Geburtsdatum"
               },
               "gui_element": "Date",
-              "cardinality": "1"
+              "cardinality": "0-1"
             },
             {
               "name": "deathDate",
@@ -127,7 +170,7 @@
                 "de": "Todesdatum"
               },
               "gui_element": "Date",
-              "cardinality": "1"
+              "cardinality": "0-1"
             },
             {
               "name": "activeDate",

@@ -20,13 +20,28 @@ args = parser.parse_args()
 con = knora(args.server, args.user, args.password)
 schema = con.create_schema(args.projectcode, args.ontoname)
 
-res_info = con.create_resource(schema, "person", "test-person", {
-    "internalID": "&000001",
-    "firstName": "William",
-    "lastName": "Shakespeare",
-    "description": "English Dramatist",
-    "birthDate": "GREGORIAN:1564",
-    "deathDate": "GREGORIAN:1616"
+res_info1 = con.create_resource(schema, "book", "test-book", {
+    "title": "Romeo und Julia"
 })
 
-pprint(res_info)
+pprint(res_info1)
+
+# res_info2 = con.create_resource(schema, "person", "test-person", {
+#     "internalID": "&000001",
+#     "firstName": "William",
+#     "lastName": "Shakespeare",
+#     "description": "English Dramatist",
+#     "birthDate": "GREGORIAN:1564",
+#     "deathDate": "GREGORIAN:1616",
+#     "isAuthorOf": "http://rdfh.ch/0826/ErPFeUnJSOKce3M3Tl73dw"
+# })
+#
+# pprint(res_info2)
+#
+# res_info3 = con.create_resource(schema, "person", "test-person", {
+#     "internalID": "@000001",
+#     "firstName": "Regula",
+#     "lastName": "Hohl",
+# })
+#
+# pprint(res_info3)
