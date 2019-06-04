@@ -15,12 +15,141 @@
       "intertextuality",
       "shakespeare"
     ],
+    "lists": [
+      {
+        "name": "sex",
+        "labels": {
+          "de": "Geschlecht",
+          "en": "sex"
+        },
+        "nodes": [
+          {
+            "name": "male",
+            "labels": {
+              "de": "männlich",
+              "en": "male"
+            }
+          },
+          {
+            "name": "female",
+            "labels": {
+              "de": "weiblich",
+              "en": "female"
+            }
+          }
+        ]
+      },
+      {
+        "name": "genre",
+        "labels": {
+          "de": "Genre",
+          "en": "genre"
+        },
+        "nodes": [
+          {
+            "name": "fiction",
+            "labels": {
+              "de": "Fiktion",
+              "en": "fiction"
+            },
+            "nodes": [
+              {
+                "name": "prose",
+                "labels": {
+                "de": "Prosa",
+                "en": "prose"
+                },
+                "nodes": [
+                  {
+                    "name": "unspecified",
+                    "labels": {
+                    "de": "Unspezifiziert",
+                    "en": "unspecified"
+                    }
+                  },
+                  {
+                    "name": "crime fiction",
+                    "labels": {
+                    "de": "Kriminalfiktion",
+                    "en": "crime fiction"
+                    }
+                  },
+                  {
+                    "name": "Biographical or historicizing",
+                    "labels": {
+                    "de": "Bibliografisch oder historisch",
+                    "en": "Biographical or historicizing"
+                    }
+                  },
+                  {
+                    "name": "gothic",
+                    "labels": {
+                    "de": "Gothik",
+                    "en": "gothic"
+                    }
+                  },
+                  {
+                    "name": "science fiction or fantasy",
+                    "labels": {
+                    "de": "Science Fiction oder Fantasy",
+                    "en": "science fiction or fantasy"
+                    }
+                  },
+                  {
+                    "name": "romance",
+                    "labels": {
+                    "de": "Romantik",
+                    "en": "romance"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "poetry including songs",
+                "labels": {
+                "de": "Poesie mit Songs",
+                "en": "poetry including songs"
+                }
+              },
+              {
+                "name": "drama: theatre",
+                "labels": {
+                "de": "Drama: Theater",
+                "en": "drama: theatre"
+                }
+              },
+              {
+                "name": "drama: TV, film, radio, games",
+                "labels": {
+                "de": "Drama: TV, Film, Radio, Spiele",
+                "en": "drama: TV, film, radio, games"
+                }
+              }
+            ]
+          },
+          {
+            "name": "non-fiction",
+            "labels": {
+              "de": "Nicht-Fiktion",
+              "en": "non-fiction"
+            }
+          },
+                    {
+            "name": "other",
+            "labels": {
+              "de": "Andere",
+              "en": "other"
+            }
+          }
+        ]
+      }
+    ],
     "ontology": {
       "name": "teimww",
       "label": "Test Import WordWeb",
       "resources": [
         {
-          "name":  "book",
+          "name": "book",
           "super": "Resource",
           "labels": {
             "en": "Book",
@@ -39,7 +168,6 @@
               "object": "TextValue",
               "labels": {
                 "en": "Title",
-
                 "de": "Titel"
               },
               "gui_element": "SimpleText",
@@ -64,7 +192,19 @@
           },
           "properties": [
             {
-              "name":"isAuthorOf",
+              "name": "hasSex",
+              "super": ["hasValue"],
+              "object": "ListValue",
+              "labels": {
+                "en": "sex",
+                "de": "Geschlecht"
+              },
+              "gui_element": "Pulldown",
+              "gui_attributes": ["hlist=sex"],
+              "cardinality": "1"
+            },
+            {
+              "name": "isAuthorOf",
               "super": ["hasLinkTo"],
               "object": "teimww:book",
               "labels": {
@@ -82,7 +222,6 @@
               "object": "TextValue",
               "labels": {
                 "en": "InternalID",
-
                 "de": "Interne ID"
               },
               "gui_element": "SimpleText",
@@ -101,7 +240,6 @@
               "object": "TextValue",
               "labels": {
                 "en": "Firstname",
-
                 "de": "Vorname"
               },
               "gui_element": "SimpleText",
@@ -184,6 +322,71 @@
               },
               "gui_element": "Date",
               "cardinality": "0-1"
+            }
+          ]
+        },
+        {
+          "name": "edition",
+          "super": "Resource",
+          "labels": {
+            "en": "edition",
+            "de": "Edition"
+          },
+          "comments": {
+            "en": "Represents an edition of a book",
+            "de": "Repräsentiert eine Edition eines Buches"
+          },
+          "properties": [
+            {
+              "name": "isWrittenIn",
+              "super": ["hasLinkTo"],
+              "object": "teimww:language",
+              "labels": {
+                "en": "language",
+                "de": "Sprache"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+                        {
+              "name": "isEditionOf",
+              "super": ["hasLinkTo"],
+              "object": "teimww:book",
+              "labels": {
+                "en": "is edition of",
+                "de": "ist Edition von"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            }
+          ]
+        },
+        {
+          "name": "language",
+          "super": "Resource",
+          "labels": {
+            "en": "language",
+            "de": "Edition"
+          },
+          "comments": {
+            "en": "Represents an edition of a book",
+            "de": "Repräsentiert eine Edition eines Buches"
+          },
+          "properties": [
+            {
+              "name": "languageName",
+              "super": ["hasValue"],
+              "object": "TextValue",
+              "labels": {
+                "en": "language name",
+                "de": "Sprachname"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
             }
           ]
         }
