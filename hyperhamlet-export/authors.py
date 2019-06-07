@@ -33,18 +33,18 @@ try:
                 birth_span = re.search("(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", birth.group(2))
 
                 if birth_span.group(4) is None:
-                    print("Not Exact Birth", row["description"])
+                    print("Not Exact Birth", birth_span.groups(), row)
                 else:
-                    print("Exact Birth", row["description"])
+                    print("Exact Birth", birth_span.groups(), row)
 
             elif death:
 
                 death_span = re.search("(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", death.group(2))
 
                 if death_span.group(4) is None:
-                    print("Not Exact Death", row["description"])
+                    print("Not Exact Death", death_span.groups(), row)
                 else:
-                    print("Exact Death", row["description"])
+                    print("Exact Death", death_span.groups(), row)
 
             elif floruit:
 
@@ -52,23 +52,26 @@ try:
 
                 if floruit_span is not None:
 
-                    print(floruit_span.groups())
                     if floruit_span.group(4) is None:
-                        print("Not Exact Floruit", row["description"])
+                        print("Not Exact Floruit", floruit_span.groups(), row["description"])
                     else:
-                        print("Exact Flourit", row["description"])
+                        print("Exact Floruit", floruit_span.groups(), row["description"])
 
             elif birthDeath:
 
                 if birthDeath.group(3):
-                    print("Span Birth: ", birthDeath.group(3), birthDeath.group(4), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+                    # print("Span Birth: ", birthDeath.group(3), birthDeath.group(4), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+                    print("Span Birth: ", birthDeath.groups(), row)
                 else:
-                    print("Exact Birth: ", birthDeath.group(5), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+                    # print("Exact Birth: ", birthDeath.group(5), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+                    print("Exact Birth in Span: ", birthDeath.groups(), row)
 
                 if birthDeath.group(7):
-                    print("Span Death: ", birthDeath.group(7), birthDeath.group(8), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+                    # print("Span Death: ", birthDeath.group(7), birthDeath.group(8), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+                    print("Span Death: ", birthDeath.groups(), row)
                 else:
-                    print("Exact Death: ", birthDeath.group(9), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+                    # print("Exact Death: ", birthDeath.group(9), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
+                    print("Exact Death in Span: ", birthDeath.groups(), row)
 
 
             # Test if all are not the same

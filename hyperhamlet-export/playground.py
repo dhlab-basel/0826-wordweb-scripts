@@ -1,5 +1,5 @@
 obj = {
-    "a": [1,2,3,4,5],
+    "a": [1, 2, 3, 4, 5],
     1: ["Arianne", "Sarah", "Mara", "Alessandra", "Kim"]
 }
 
