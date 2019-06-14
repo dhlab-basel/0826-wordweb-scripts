@@ -9,24 +9,52 @@ with open('export.csv') as csv_file:
     pi = {}
     for row in csv_reader:
 
-        publicationInfo = re.search("(.*)\s\s(.*)\s\s(.*)", row[4])
+        publicationInfo = re.search("(.+)\s\s(.+)\s\s(.+)", row[4])
         if publicationInfo:
-            # print(publicationInfo.group(2))
-            if publicationInfo.group(2) in pi:
-                print("here")
+            # print(line_count, publicationInfo.groups())
+            letterName = re.search("\"(.+)\"\s(.*)", publicationInfo.group(2))
+            if letterName:
+                print(line_count, "author: " + publicationInfo.group(1) + " | lettername: " + letterName.group(1) + " | pubInfo: " + letterName.group(2) + " | page: " + publicationInfo.group(3))
             else:
-                print("not here")
-                copied +=1
-                pi[publicationInfo.group(2)] = row[1]
-
-            if publicationInfo.group(2) in pi:
-                print("2 here")
+                print(line_count, "author: " + publicationInfo.group(1) + " | pubInfo: " + publicationInfo.group(2) + " | page: " + publicationInfo.group(3))
+            # if publicationInfo.group(2) in pi:
+            #     cla = 0
+            # else:
+            #     copied +=1
+            #     pi[publicationInfo.group(2)] = row[1]
+            #
+            # if publicationInfo.group(2) in pi:
+            #     cla = 0
+            # else:
+            #     print(" 2 not here")
+        else:
+            onlyPubInfo = re.search("(.+)\s\s(.+)", row[4])
+            if onlyPubInfo:
+                print(line_count, "author: " + onlyPubInfo.group(1) + " | pubInfo: " + onlyPubInfo.group(2))
             else:
-                print(" 2 not here")
-
+                print(line_count, "FAIL")
         line_count += 1
     print("line count", line_count)
-    print("copied", copied)
 
-    for b in pi:
-        print(b)
+    # Print all the values in the object
+    # for b in pi:
+    #     print(b)
+
+
+# Output file
+# with open('bla.csv', mode='w') as write_file:
+#     writer = csv.writer(write_file, delimiter=';')
+#     for b in pi:
+#         writer.writerow([b])
+
+
+# Check each character of string
+# user_score = 0
+# simon_pattern = "RRGBRYYBGY"
+# user_pattern  = "RRGBBRYBGY"
+#
+# for i in range(len(user_pattern)):
+#     if user_pattern[i] is simon_pattern[i]:
+#        user_score += 1
+#
+# print("User score:", user_score, len(simon_pattern))
