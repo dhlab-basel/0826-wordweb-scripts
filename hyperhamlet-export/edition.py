@@ -30,7 +30,11 @@ with open('export.csv') as csv_file:
         else:
             onlyPubInfo = re.search("(.+)\s\s(.+)", row[4])
             if onlyPubInfo:
-                print(line_count, "author: " + onlyPubInfo.group(1) + " | pubInfo: " + onlyPubInfo.group(2))
+                lName = re.search("\"(.+)\"\s(.*)", onlyPubInfo.group(2))
+                if lName:
+                    print(line_count, "author: " + onlyPubInfo.group(1) + " | lettername: " + lName.group(1) + " | pubInfo: " + lName.group(2))
+                else:
+                    print(line_count, "author: " + onlyPubInfo.group(1) + " | pubInfo: " + onlyPubInfo.group(2))
             else:
                 print(line_count, "FAIL")
         line_count += 1
