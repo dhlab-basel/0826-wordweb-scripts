@@ -1,5 +1,6 @@
 import pymysql
 import re
+import csv
 
 try:
     conn = pymysql.connect(host='localhost', user='vitsch', password='test', database='HAMLET')
@@ -14,8 +15,27 @@ try:
     results = cursor.fetchall()
 
     count = 0
+    authors = {}
 
     for row in results:
+
+        # Example of author object
+        # author = {
+        #     "firstName": "William",
+        #     "lastName": "Shakespeare",
+        #     "description": "English Dramatist",
+        #     "birthExact": "",
+        #     "birthSpanStart": "",
+        #     "birthSpanEnd": "",
+        #     "deathExact": "",
+        #     "deathSpanStart": "",
+        #     "deathSpanEnd": "",
+        #     "floruitExact": "",
+        #     "floruitSpanStart": "",
+        #     "floruitSpanEnd": ""
+        # }
+
+        author = {'firstName': row['firstname'], "lastName": row["lastname"]}
 
         if row["description"]:
 
@@ -33,18 +53,24 @@ try:
                 birth_span = re.search("(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", birth.group(2))
 
                 if birth_span.group(4) is None:
-                    print("Not Exact Birth", birth_span.groups(), row)
+                    author["birthSpanStart"] = birth_span.group(2)
+                    author["birthSpanEnd"] = birth_span.group(3)
+                    # print("Not Exact Birth", birth_span.groups(), row)
                 else:
-                    print("Exact Birth", birth_span.groups(), row)
+                    author["birthExact"]= birth_span.group(1)
+                    # print("Exact Birth", birth_span.groups(), row)
 
             elif death:
 
                 death_span = re.search("(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", death.group(2))
 
                 if death_span.group(4) is None:
-                    print("Not Exact Death", death_span.groups(), row)
+                    author["deathSpanStart"] = death_span.group(2)
+                    author["deathSpanEnd"] = death_span.group(3)
+                    # print("Not Exact Death", death_span.groups(), row)
                 else:
-                    print("Exact Death", death_span.groups(), row)
+                    author["deathExact"] = death_span.group(1)
+                    # print("Exact Death", death_span.groups(), row)
 
             elif floruit:
 
@@ -53,25 +79,30 @@ try:
                 if floruit_span is not None:
 
                     if floruit_span.group(4) is None:
-                        print("Not Exact Floruit", floruit_span.groups(), row["description"])
+                        author["floruitSpanStart"] = floruit_span.group(2)
+                        author["floruitSpanEnd"] = floruit_span.group(3)
+                        # print("Not Exact Floruit", floruit_span.groups(), row["description"])
                     else:
-                        print("Exact Floruit", floruit_span.groups(), row["description"])
+                        author["floruitExact"] = floruit_span.group(1)
+                        # print("Exact Floruit", floruit_span.groups(), row["description"])
 
             elif birthDeath:
 
                 if birthDeath.group(3):
-                    # print("Span Birth: ", birthDeath.group(3), birthDeath.group(4), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
-                    print("Span Birth: ", birthDeath.groups(), row)
+                    author["birthSpanStart"] = birthDeath.group(3)
+                    author["birthSpanEnd"] = birthDeath.group(4)
+                    # print("Span Birth: ", birthDeath.groups(), row)
                 else:
-                    # print("Exact Birth: ", birthDeath.group(5), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
-                    print("Exact Birth in Span: ", birthDeath.groups(), row)
+                    author["birthExact"] = birthDeath.group(5)
+                    # print("Exact Birth in Span: ", birthDeath.groups(), row)
 
                 if birthDeath.group(7):
-                    # print("Span Death: ", birthDeath.group(7), birthDeath.group(8), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
-                    print("Span Death: ", birthDeath.groups(), row)
+                    author["deathSpanStart"] = birthDeath.group(7)
+                    author["deathSpanEnd"] = birthDeath.group(8)
+                    # print("Span Death: ", birthDeath.groups(), row)
                 else:
-                    # print("Exact Death: ", birthDeath.group(9), "Beginning: ", birthDeath.group(1), "Ending: ", birthDeath.group(10), row["description"])
-                    print("Exact Death in Span: ", birthDeath.groups(), row)
+                    author["deathExact"] = birthDeath.group(9)
+                    # print("Exact Death in Span: ", birthDeath.groups(), row)
 
 
             # Test if all are not the same
@@ -90,8 +121,25 @@ try:
             # else:
             #     print("Not Same")
 
+        # Add the author to the key value object
+        if author["firstName"] and author["lastName"]:
+            # print("full name", author["firstName"] + " " + author["lastName"])
+            authors[author["firstName"] + " " + author["lastName"]] = author
+        elif not author["firstName"] and author["lastName"]:
+            # print("last name", author["lastName"])
+            authors[author["lastName"]] = author
+        elif not author["lastName"] and author["firstName"]:
+            # print("first name", author["firstName"])
+            authors[author["firstName"]] = author
+        else:
+            print("FAIL")
+
     conn.close()
     cursor.close()
+
+    # Print all the values in the object
+    # for author in authors:
+    #     print(author, authors[author])
 
 except Exception as err:
     print(err)
