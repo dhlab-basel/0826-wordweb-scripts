@@ -37,6 +37,9 @@ try:
 
         author = {'firstName': row['firstname'], "lastName": row["lastname"]}
 
+        # Start with empty description
+        description = ""
+
         if row["description"]:
 
             # birth = re.search("(?<=b\.\s)\d{4}(.*)", row["description"])
@@ -60,6 +63,9 @@ try:
                     author["birthExact"]= birth_span.group(1)
                     # print("Exact Birth", birth_span.groups(), row)
 
+                # add description
+                description = birth.group(1) + birth_span.group(5)
+
             elif death:
 
                 death_span = re.search("(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", death.group(2))
@@ -72,11 +78,16 @@ try:
                     author["deathExact"] = death_span.group(1)
                     # print("Exact Death", death_span.groups(), row)
 
+                # add description
+                description = death.group(1) + death_span.group(5)
+
             elif floruit:
 
                 floruit_span = re.search("((\d{4})-(\d{4})|(\d{4}))(.*)", floruit.group(2))
 
                 if floruit_span is not None:
+
+                    # print(floruit_span.groups())
 
                     if floruit_span.group(4) is None:
                         author["floruitSpanStart"] = floruit_span.group(2)
@@ -85,6 +96,9 @@ try:
                     else:
                         author["floruitExact"] = floruit_span.group(1)
                         # print("Exact Floruit", floruit_span.groups(), row["description"])
+
+                    # add description
+                    description = floruit.group(1) + floruit_span.group(5)
 
             elif birthDeath:
 
@@ -104,6 +118,11 @@ try:
                     author["deathExact"] = birthDeath.group(9)
                     # print("Exact Death in Span: ", birthDeath.groups(), row)
 
+                # add description
+                description = birthDeath.group(1) + birthDeath.group(10)
+
+            # add description to author after it has trimmed the string
+            author["description"] = description.rstrip()
 
             # Test if all are not the same
             # if (birth and death):
@@ -166,7 +185,7 @@ try:
     # Print all the values in the object
     # line = 0
     # for author in allAuthors:
-    #     if (line < 5):
+    #     if (line < 500):
     #         print(author, allAuthors[author])
     #     line += 1
 
