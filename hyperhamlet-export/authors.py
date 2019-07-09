@@ -15,7 +15,7 @@ try:
     results = cursor.fetchall()
 
     count = 0
-    authors = {}
+    allAuthors = {}
 
     for row in results:
 
@@ -121,25 +121,54 @@ try:
             # else:
             #     print("Not Same")
 
-        # Add the author to the key value object
-        if author["firstName"] and author["lastName"]:
-            # print("full name", author["firstName"] + " " + author["lastName"])
-            authors[author["firstName"] + " " + author["lastName"]] = author
-        elif not author["firstName"] and author["lastName"]:
-            # print("last name", author["lastName"])
-            authors[author["lastName"]] = author
-        elif not author["lastName"] and author["firstName"]:
-            # print("first name", author["firstName"])
-            authors[author["firstName"]] = author
-        else:
-            print("FAIL")
+        # Create a key and add the author to the object
+        key = "{} {}".format(author["firstName"], author["lastName"])
+        allAuthors[key] = author
 
     conn.close()
     cursor.close()
 
+    # Open csv sheet with the entries
+    with open('let-them-come.csv') as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=';')
+        names = []
+        createdAuthors = {}
+        line = 0
+
+        for row in csv_reader:
+            # Skip first row because of column title in excel sheet
+            if line != 0:
+                names = row[2].split(" / ")
+
+            line += 1
+
+            # Iterates through the names per entry
+            for name in names:
+
+                if name in createdAuthors:
+                    blabla = {}
+                else:
+                    # CREATE RESOURCE
+
+                    key = "{} {}".format(allAuthors[name]["firstName"], allAuthors[name]["lastName"])
+                    createdAuthors[key] = allAuthors[name]
+
+                # if name in allAuthors:
+                #     print(allAuthors[name])
+                # else:
+                #     print("NO", "|" + name + "|")
+
+        countOfAuthors = 1
+        for author in createdAuthors:
+            print(createdAuthors[author], countOfAuthors)
+            countOfAuthors += 1
+
     # Print all the values in the object
-    # for author in authors:
-    #     print(author, authors[author])
+    # line = 0
+    # for author in allAuthors:
+    #     if (line < 5):
+    #         print(author, allAuthors[author])
+    #     line += 1
 
 except Exception as err:
     print(err)

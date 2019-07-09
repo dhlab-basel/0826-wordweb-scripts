@@ -6,10 +6,16 @@ with open('let-them-come.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=';')
     line_count = 0
     copied = 0
-    pi = {}
+    names = []
     for row in csv_reader:
 
-        print(row[2])
+        names = row[2].split(" / ")
+        print(names)
+        # names = re.search("(.*)\s\/\s(.*)", row[2])
+
+        # if names:
+        #     print(names.groups())
 
         line_count += 1
+    # print(names)
     print("line count", line_count)
