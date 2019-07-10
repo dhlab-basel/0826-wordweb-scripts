@@ -155,7 +155,7 @@ try:
         for row in csv_reader:
 
             # Skip first row because of column title in excel sheet
-            if line is not 0 and line < 10:
+            if line is not 0:
                 names = row[2].split(" / ")
 
                 # Iterates through the names per entry
@@ -216,18 +216,17 @@ try:
         #     print(createdAuthors[author], countOfAuthors)
         #     countOfAuthors += 1
 
+    print("bear")
+
+    BULKIMPORT_API_ENDPOINT = "http://localhost:3333/v1/resources/xmlimport/http%3A%2F%2Frdfh.ch%2Fprojects%2F0826"
+    headers = {"Content-Type": "application/xml"}
+
+    ww_bulk_object.write_xml(ww_bulk_xml)
+    ww_bulk_xml_string = open(ww_bulk_xml).read().encode("utf-8")
+    r = requests.post(BULKIMPORT_API_ENDPOINT, data=ww_bulk_xml_string, headers=headers, auth=(args.user, args.password))
+    pprint(r.json())
+
 except Exception as err:
     print("turtles", err)
 
 #####################
-
-
-print("bear")
-
-BULKIMPORT_API_ENDPOINT="http://localhost:3333/v1/resources/xmlimport/http%3A%2F%2Frdfh.ch%2Fprojects%2F0826"
-headers = {"Content-Type": "application/xml"}
-
-ww_bulk_object.write_xml(ww_bulk_xml)
-ww_bulk_xml_string = open(ww_bulk_xml).read().encode("utf-8")
-r = requests.post(BULKIMPORT_API_ENDPOINT, data=ww_bulk_xml_string, headers=headers, auth=(args.user, args.password))
-pprint(r.json())
