@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<knoraXmlImport:resources xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0826-teimww="http://api.knora.org/ontology/0826/teimww/xml-import/v1#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://api.knora.org/ontology/0826/teimww/xml-import/v1#">
+  <p0826-teimww:person id="P01_2">
+    <knoraXmlImport:label>person label</knoraXmlImport:label>
+    <p0826-teimww:description knoraType="richtext_value"></p0826-teimww:description>
+    <p0826-teimww:firstName knoraType="richtext_value"></p0826-teimww:firstName>
+    <p0826-teimww:lastName knoraType="richtext_value"> Anon</p0826-teimww:lastName>
+  </p0826-teimww:person>
+  <p0826-teimww:person id="P01_3">
+    <knoraXmlImport:label>person label</knoraXmlImport:label>
+    <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1388</p0826-teimww:deathDate>
+    <p0826-teimww:description knoraType="richtext_value">English writer</p0826-teimww:description>
+    <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:lastName knoraType="richtext_value">Usk</p0826-teimww:lastName>
+  </p0826-teimww:person>
+  <p0826-teimww:person id="P01_4">
+    <knoraXmlImport:label>person label</knoraXmlImport:label>
+    <p0826-teimww:birthDate knoraType="date_value">GREGORIAN:1343</p0826-teimww:birthDate>
+    <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1400</p0826-teimww:deathDate>
+    <p0826-teimww:description knoraType="richtext_value">English poet  &amp;005134</p0826-teimww:description>
+    <p0826-teimww:firstName knoraType="richtext_value">Geoffrey</p0826-teimww:firstName>
+    <p0826-teimww:lastName knoraType="richtext_value">Chaucer</p0826-teimww:lastName>
+  </p0826-teimww:person>
+  <p0826-teimww:person id="P01_5">
+    <knoraXmlImport:label>person label</knoraXmlImport:label>
+    <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1470</p0826-teimww:deathDate>
+    <p0826-teimww:description knoraType="richtext_value">English divine</p0826-teimww:description>
+    <p0826-teimww:firstName knoraType="richtext_value">Henry</p0826-teimww:firstName>
+    <p0826-teimww:lastName knoraType="richtext_value">Parker</p0826-teimww:lastName>
+  </p0826-teimww:person>
+  <p0826-teimww:person id="P01_6">
+    <knoraXmlImport:label>person label</knoraXmlImport:label>
+    <p0826-teimww:birthDate knoraType="date_value">GREGORIAN:1510</p0826-teimww:birthDate>
+    <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1556</p0826-teimww:deathDate>
+    <p0826-teimww:description knoraType="richtext_value">English poet</p0826-teimww:description>
+    <p0826-teimww:firstName knoraType="richtext_value">Thomas, Lord</p0826-teimww:firstName>
+    <p0826-teimww:lastName knoraType="richtext_value">Vaux</p0826-teimww:lastName>
+  </p0826-teimww:person>
+  <p0826-teimww:person id="P01_7">
+    <knoraXmlImport:label>person label</knoraXmlImport:label>
+    <p0826-teimww:birthDate knoraType="date_value">GREGORIAN:1538:1542</p0826-teimww:birthDate>
+    <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1594</p0826-teimww:deathDate>
+    <p0826-teimww:description knoraType="richtext_value">English writer</p0826-teimww:description>
+    <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
+    <p0826-teimww:lastName knoraType="richtext_value">Painter</p0826-teimww:lastName>
+  </p0826-teimww:person>
+  <p0826-teimww:person id="P01_8">
+    <knoraXmlImport:label>person label</knoraXmlImport:label>
+    <p0826-teimww:birthDate knoraType="date_value">GREGORIAN:1518</p0826-teimww:birthDate>
+    <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1562:1564</p0826-teimww:deathDate>
+    <p0826-teimww:description knoraType="richtext_value">English anthologist</p0826-teimww:description>
+    <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
+    <p0826-teimww:lastName knoraType="richtext_value">Baldwin</p0826-teimww:lastName>
+  </p0826-teimww:person>
+  <p0826-teimww:person id="P01_9">
+    <knoraXmlImport:label>person label</knoraXmlImport:label>
+    <p0826-teimww:birthDate knoraType="date_value">GREGORIAN:1540</p0826-teimww:birthDate>
+    <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1607</p0826-teimww:deathDate>
+    <p0826-teimww:description knoraType="richtext_value">Polish bishop and philosopher 1530 to , Latin version of Wawrzyniec Grzymała Goślicki</p0826-teimww:description>
+    <p0826-teimww:firstName knoraType="richtext_value">Laurentius Grimaldius</p0826-teimww:firstName>
+    <p0826-teimww:lastName knoraType="richtext_value">Goslicius</p0826-teimww:lastName>
+  </p0826-teimww:person>
+  <p0826-teimww:person id="P01_10">
+    <knoraXmlImport:label>person label</knoraXmlImport:label>
+    <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1606</p0826-teimww:deathDate>
+    <p0826-teimww:description knoraType="richtext_value">English merchant and translator</p0826-teimww:description>
+    <p0826-teimww:firstName knoraType="richtext_value">Sir Henry</p0826-teimww:firstName>
+    <p0826-teimww:lastName knoraType="richtext_value">Billingsley</p0826-teimww:lastName>
+  </p0826-teimww:person>
+</knoraXmlImport:resources>
