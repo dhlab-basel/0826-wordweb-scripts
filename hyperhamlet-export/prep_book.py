@@ -59,13 +59,16 @@ try:
             # Every book has an unique internal ID
             book["id"] = id
 
+            # Adding ID of SQL table
+            book["SQL"] = row["id"]
+
             # Adding the book to the allBooks object
             allBooks[key] = book
 
     conn.close()
     cursor.close()
 
-    # Write all the authors into json
+    # Write all the books into json
     with open('json/book.json', 'w') as outfile:
         json.dump(allBooks, outfile)
 

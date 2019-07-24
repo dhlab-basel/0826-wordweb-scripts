@@ -7,7 +7,6 @@ import json
 # hash library
 import hashlib
 
-
 try:
     conn = pymysql.connect(host='localhost', user='vitsch', password='test', database='HAMLET')
 
@@ -125,6 +124,9 @@ try:
         # Every author has an unique internal ID
         author["id"] = id
 
+        # Adding ID of SQL table
+        author["SQL"] = row["id"]
+
         # Adding the author to the allAuthor object
         allAuthors[key] = author
 
@@ -137,4 +139,3 @@ try:
 
 except Exception as err:
     print("turtles", err)
-

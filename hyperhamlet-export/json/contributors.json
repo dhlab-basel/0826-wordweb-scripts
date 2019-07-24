@@ -1,0 +1,947 @@
+{
+  "Antonia Hesse A.": {
+    "firstname": "Antonia",
+    "lastname": "Hesse A.",
+    "email": "antoniahesse@hotmail.com",
+    "id": "contributor_28aa8cac2aba3722",
+    "SQL": 1
+  },
+  "Martin Lutz": {
+    "firstname": "Martin",
+    "lastname": "Lutz",
+    "email": "lutzmartin@hotmail.com",
+    "id": "contributor_febc6a035e30585c",
+    "SQL": 2
+  },
+  "Simone Meier": {
+    "firstname": "Simone",
+    "lastname": "Meier",
+    "email": "simone.meier@stud.unibas.ch",
+    "id": "contributor_df4ea9497eeaac81",
+    "SQL": 3
+  },
+  "Sonja Grieder": {
+    "firstname": "Sonja",
+    "lastname": "Grieder",
+    "email": "Sonja-Irene.Grieder@stud.unibas.ch",
+    "id": "contributor_8a82b2cbc13b8373",
+    "SQL": 4
+  },
+  "Claudia Biedert": {
+    "firstname": "Claudia",
+    "lastname": "Biedert",
+    "email": "cbiedert@gmx.ch, C.Biedert@sussex.ac.uk",
+    "id": "contributor_0168ec4ea25e09fc",
+    "SQL": 5
+  },
+  "Jan Gr\u00f6ssinger": {
+    "firstname": "Jan",
+    "lastname": "Gr\u00f6ssinger",
+    "email": "ambiguum@hotmail.com",
+    "id": "contributor_b08d5431e30e7a0d",
+    "SQL": 6
+  },
+  "Simon Gisler": {
+    "firstname": "Simon",
+    "lastname": "Gisler",
+    "email": "gislersimon@hotmail.com",
+    "id": "contributor_d0e18d87f9737243",
+    "SQL": 8
+  },
+  "Eftychia Fountoulakis": {
+    "firstname": "Eftychia",
+    "lastname": "Fountoulakis",
+    "email": "E.Fountoulakis@stud.unibas.ch",
+    "id": "contributor_685bc79255dbb335",
+    "SQL": 9
+  },
+  "Stefan Kristmann": {
+    "firstname": "Stefan",
+    "lastname": "Kristmann",
+    "email": "Stefan.Kristmann@stud.unibas.ch",
+    "id": "contributor_1c39456bbb4fc427",
+    "SQL": 10
+  },
+  "Andreia Grisch": {
+    "firstname": "Andreia",
+    "lastname": "Grisch",
+    "email": "andreia_grisch@hotmail.com",
+    "id": "contributor_c7cae05f1d54c4e4",
+    "SQL": 11
+  },
+  "Franziska M\u00fcller": {
+    "firstname": "Franziska",
+    "lastname": "M\u00fcller",
+    "email": "mueller.f@datacomm.ch",
+    "id": "contributor_7a5a136b5ccda8ee",
+    "SQL": 12
+  },
+  "Dorte Hering": {
+    "firstname": "Dorte",
+    "lastname": "Hering",
+    "email": "dorte30@hotmail.com",
+    "id": "contributor_242f2657fda1bf20",
+    "SQL": 13
+  },
+  "Isabelle Fl\u00fcckiger": {
+    "firstname": "Isabelle",
+    "lastname": "Fl\u00fcckiger",
+    "email": "isaflueckiger@gmx.net",
+    "id": "contributor_f50f586bc5432f44",
+    "SQL": 14
+  },
+  "Gabriel Br\u00f6nnimann": {
+    "firstname": "Gabriel",
+    "lastname": "Br\u00f6nnimann",
+    "email": "Gabriel.Broennimann@stud.unibas.ch",
+    "id": "contributor_90b120dcf6948a51",
+    "SQL": 15
+  },
+  "Kalliopi Kitsiou": {
+    "firstname": "Kalliopi",
+    "lastname": "Kitsiou",
+    "email": "kalliopi71@hotmail.com",
+    "id": "contributor_f690c65a75eef88c",
+    "SQL": 16
+  },
+  "Ania Karlsen": {
+    "firstname": "Ania",
+    "lastname": "Karlsen",
+    "email": "ania_saw@hotmail.com",
+    "id": "contributor_1a8eaa5797d6552b",
+    "SQL": 17
+  },
+  "David Appel": {
+    "firstname": "David",
+    "lastname": "Appel",
+    "email": "David.Appel@stud.unibas.ch",
+    "id": "contributor_2f3edb4158746073",
+    "SQL": 18
+  },
+  "Antonio Politano": {
+    "firstname": "Antonio",
+    "lastname": "Politano",
+    "email": "Antonio.Politano@stud.unibas.ch",
+    "id": "contributor_c33ae1be75287ffb",
+    "SQL": 19
+  },
+  "Sibylle Hunziker": {
+    "firstname": "Sibylle",
+    "lastname": "Hunziker",
+    "email": "sibu@gmx.ch",
+    "id": "contributor_cdc8267a2e47d6d0",
+    "SQL": 21
+  },
+  "Philipp Hottinger": {
+    "firstname": "Philipp",
+    "lastname": "Hottinger",
+    "email": "Philipp.Hottinger@stud.unibas.ch",
+    "id": "contributor_250567155f2bd03a",
+    "SQL": 22
+  },
+  "Karin Stettler": {
+    "firstname": "Karin",
+    "lastname": "Stettler",
+    "email": "Karin.Stettler@stud.unibas.ch",
+    "id": "contributor_c1a28c317dc151dd",
+    "SQL": 23
+  },
+  "Chantal Morand": {
+    "firstname": "Chantal",
+    "lastname": "Morand",
+    "email": "Chantal.Morand@stud.unibas.ch",
+    "id": "contributor_883709772271ff27",
+    "SQL": 25
+  },
+  "Sebastian Refardt": {
+    "firstname": "Sebastian",
+    "lastname": "Refardt",
+    "email": "Sebastian.Refardt@stud.unibas.ch",
+    "id": "contributor_e7734d48435cc111",
+    "SQL": 26
+  },
+  "Markus Marti": {
+    "firstname": "Markus",
+    "lastname": "Marti",
+    "email": "Markus.Marti@unibas.ch",
+    "id": "contributor_213c19a05ac94fd4",
+    "SQL": 29
+  },
+  "Balz Engler B.": {
+    "firstname": "Balz",
+    "lastname": "Engler B.",
+    "email": "Balz.Engler@unibas.ch",
+    "id": "contributor_f0e5dda9e854fa02",
+    "SQL": 30
+  },
+  "J. Scott Holt": {
+    "firstname": "J. Scott",
+    "lastname": "Holt",
+    "email": "j-holt@cornellcollege.edu",
+    "id": "contributor_afcec72030714a58",
+    "SQL": 31
+  },
+  "Tanya Gough": {
+    "firstname": "Tanya",
+    "lastname": "Gough",
+    "email": "yorick@bardcentral.com",
+    "id": "contributor_7ffd47fe483679cd",
+    "SQL": 32
+  },
+  "Regula Hohl Trillini": {
+    "firstname": "Regula",
+    "lastname": "Hohl Trillini",
+    "email": "r.hohl@unibas.ch",
+    "id": "contributor_8f10037a060488a1",
+    "SQL": 33
+  },
+  "Christian Gebhard": {
+    "firstname": "Christian",
+    "lastname": "Gebhard",
+    "email": "christian.gebhard@stud.unibas.ch",
+    "id": "contributor_dc89a2530cadaed3",
+    "SQL": 35
+  },
+  "Lukas Rosenthaler": {
+    "firstname": "Lukas",
+    "lastname": "Rosenthaler",
+    "email": "lukas.rosenthaler@unibas.ch",
+    "id": "contributor_cd133d55cd110ed4",
+    "SQL": 36
+  },
+  "Toby Malone": {
+    "firstname": "Toby",
+    "lastname": "Malone",
+    "email": "tobymalone@rogers.com",
+    "id": "contributor_dd3b339029a3d976",
+    "SQL": 37
+  },
+  "Christian Eichenberger": {
+    "firstname": "Christian",
+    "lastname": "Eichenberger",
+    "email": "christianmarkus.eichenberger@unifr.ch",
+    "id": "contributor_af8931bfbd950f32",
+    "SQL": 38
+  },
+  "Gabriele Henkel": {
+    "firstname": "Gabriele",
+    "lastname": "Henkel",
+    "email": "Gabriele.Henkel@braunschweig.de",
+    "id": "contributor_74d9190f5b2e33d0",
+    "SQL": 40
+  },
+  "Andreas H\u00e4gler": {
+    "firstname": "Andreas",
+    "lastname": "H\u00e4gler",
+    "email": "korova81@hotmail.com",
+    "id": "contributor_87e940679302e0e7",
+    "SQL": 42
+  },
+  "Judith Wieser": {
+    "firstname": "Judith",
+    "lastname": "Wieser",
+    "email": "judith.wieser@unibas.ch",
+    "id": "contributor_0add72f221d72215",
+    "SQL": 43
+  },
+  "Marc Sommer": {
+    "firstname": "Marc",
+    "lastname": "Sommer",
+    "email": "Marc.Sommer@stud.unibas.ch",
+    "id": "contributor_95fe1b58131a092e",
+    "SQL": 44
+  },
+  "Savitri de Sousa": {
+    "firstname": "Savitri",
+    "lastname": "de Sousa",
+    "email": "desousas@bluewin.ch",
+    "id": "contributor_479a05bed41f0055",
+    "SQL": 45
+  },
+  "Ren\u00e9 Wallrodt": {
+    "firstname": "Ren\u00e9",
+    "lastname": "Wallrodt",
+    "email": "rene.wallrodt@stud.unibas.ch",
+    "id": "contributor_065b4cd54ecaecfa",
+    "SQL": 46
+  },
+  "Helen Flury": {
+    "firstname": "Helen",
+    "lastname": "Flury",
+    "email": "helen.flury@stud.unibas.ch",
+    "id": "contributor_13b428c114fe249e",
+    "SQL": 47
+  },
+  "Tatyana Khytrova": {
+    "firstname": "Tatyana",
+    "lastname": "Khytrova",
+    "email": "T.Khytrova@stud.unibas.ch",
+    "id": "contributor_3b51bd53af214946",
+    "SQL": 48
+  },
+  "Anja Groenvold": {
+    "firstname": "Anja",
+    "lastname": "Groenvold",
+    "email": "A.Groenvold@stud.unibas.ch",
+    "id": "contributor_f0327e9a1f8f8d12",
+    "SQL": 49
+  },
+  "Martin Jost": {
+    "firstname": "Martin",
+    "lastname": "Jost",
+    "email": "mj13@uranus.uni-freiburg.de",
+    "id": "contributor_ef65d975a35bf1a9",
+    "SQL": 50
+  },
+  "Kathrin Pavic": {
+    "firstname": "Kathrin",
+    "lastname": "Pavic",
+    "email": "kath_pav@hotmail.com",
+    "id": "contributor_1ba7f311f415e45d",
+    "SQL": 51
+  },
+  "Charlotte J\u00e4ggi": {
+    "firstname": "Charlotte",
+    "lastname": "J\u00e4ggi",
+    "email": "charlottejaeggi@yahoo.com",
+    "id": "contributor_aa0faaca53359dc2",
+    "SQL": 52
+  },
+  "Caroline Kaufmann": {
+    "firstname": "Caroline",
+    "lastname": "Kaufmann",
+    "email": "Caroline.Kaufmann@stud.unibas.ch",
+    "id": "contributor_2b5301a083a08607",
+    "SQL": 53
+  },
+  "Jasmin Gremper": {
+    "firstname": "Jasmin",
+    "lastname": "Gremper",
+    "email": "jasmin.gremper@stud.unibas.ch",
+    "id": "contributor_04b65257cadeee6f",
+    "SQL": 54
+  },
+  "David Tissot": {
+    "firstname": "David",
+    "lastname": "Tissot",
+    "email": "David.Tissot@stud.unibas.ch",
+    "id": "contributor_067dc7937a8799c5",
+    "SQL": 55
+  },
+  "Sabina Horber": {
+    "firstname": "Sabina",
+    "lastname": "Horber",
+    "email": "sabina.horber@unibas.ch",
+    "id": "contributor_efe319f0d469ad14",
+    "SQL": 56
+  },
+  "Susan Barton Young": {
+    "firstname": "Susan",
+    "lastname": "Barton Young",
+    "email": "csyoung@suscom-maine.net",
+    "id": "contributor_7658566c6332dc2e",
+    "SQL": 57
+  },
+  "Tanja Duncker": {
+    "firstname": "Tanja",
+    "lastname": "Duncker",
+    "email": "tduncker@freesurf.ch",
+    "id": "contributor_87afd399efda08c7",
+    "SQL": 58
+  },
+  "Verena Binder": {
+    "firstname": "Verena",
+    "lastname": "Binder",
+    "email": "binder.verena@web.de",
+    "id": "contributor_854953edef088be0",
+    "SQL": 59
+  },
+  "Adolphe Haberer": {
+    "firstname": "Adolphe",
+    "lastname": "Haberer",
+    "email": "Adolphe.Haberer@univ-lyon2.fr",
+    "id": "contributor_68362c78b9f11060",
+    "SQL": 60
+  },
+  "Mark Hunter": {
+    "firstname": "Mark",
+    "lastname": "Hunter",
+    "email": "hardguenni@gmx.de, hyperhamlet@boriskuehne.net",
+    "id": "contributor_3b9481a4b32d855a",
+    "SQL": 61
+  },
+  "Madleina Barandun": {
+    "firstname": "Madleina",
+    "lastname": "Barandun",
+    "email": "Madleina.Barandun@stud.unibas.ch",
+    "id": "contributor_586cefafc5ad48d7",
+    "SQL": 63
+  },
+  "Christoph Ribbat": {
+    "firstname": "Christoph",
+    "lastname": "Ribbat",
+    "email": "christoph.ribbat@unibas.ch",
+    "id": "contributor_605e7c6ca16a111e",
+    "SQL": 64
+  },
+  "Dani\u00e8le Klapproth": {
+    "firstname": "Dani\u00e8le",
+    "lastname": "Klapproth",
+    "email": "daniele.klapproth@unibas.ch",
+    "id": "contributor_f8f3c82368d48195",
+    "SQL": 65
+  },
+  "Anna Schaub": {
+    "firstname": "Anna",
+    "lastname": "Schaub",
+    "email": "anna.schaub@stud.unibas.ch",
+    "id": "contributor_a80ee11b98a40828",
+    "SQL": 66
+  },
+  "Olivia Rottmann": {
+    "firstname": "Olivia",
+    "lastname": "Rottmann",
+    "email": "olivia.rottmann@unibas.ch",
+    "id": "contributor_07a99685d933db51",
+    "SQL": 67
+  },
+  "Thierry Spampinato": {
+    "firstname": "Thierry",
+    "lastname": "Spampinato",
+    "email": "thierry.spampinato@unibas.ch",
+    "id": "contributor_42f46508f8fd470a",
+    "SQL": 68
+  },
+  "Jennifer Whitebread": {
+    "firstname": "Jennifer",
+    "lastname": "Whitebread",
+    "email": "J.Whitebread@stud.unibas.ch",
+    "id": "contributor_d00b93d89cbe40a2",
+    "SQL": 69
+  },
+  "Sophie Kerkhoven": {
+    "firstname": "Sophie",
+    "lastname": "Kerkhoven",
+    "email": "sophie.kerkhoven@stud.unibas.ch",
+    "id": "contributor_cb02126fb4391109",
+    "SQL": 71
+  },
+  "Jake Sapir": {
+    "firstname": "Jake",
+    "lastname": "Sapir",
+    "email": "unknownwarrior33@gmail.com",
+    "id": "contributor_7191303c56ef8784",
+    "SQL": 72
+  },
+  "Philippe Roesle": {
+    "firstname": "Philippe",
+    "lastname": "Roesle",
+    "email": "philippe.roesle@stud.unibas.ch",
+    "id": "contributor_57b45a11de4c6e98",
+    "SQL": 73
+  },
+  "Doris Kunz": {
+    "firstname": "Doris",
+    "lastname": "Kunz",
+    "email": null,
+    "id": "contributor_a9746b8ee9dd008e",
+    "SQL": 75
+  },
+  "Sixta Quassdorf": {
+    "firstname": "Sixta",
+    "lastname": "Quassdorf",
+    "email": "sixta.quassdorf@unibas.ch",
+    "id": "contributor_156e5728e5c469e2",
+    "SQL": 76
+  },
+  "Anton Fuchs": {
+    "firstname": "Anton",
+    "lastname": "Fuchs",
+    "email": "fuchs.anton@bluewin.ch",
+    "id": "contributor_ef42677161093dc0",
+    "SQL": 77
+  },
+  "Kurt Rahm": {
+    "firstname": "Kurt",
+    "lastname": "Rahm",
+    "email": null,
+    "id": "contributor_670d7655aa5e9c3a",
+    "SQL": 78
+  },
+  "Lena Steveker": {
+    "firstname": "Lena",
+    "lastname": "Steveker",
+    "email": "lena.steveker@gmx.de",
+    "id": "contributor_4fe78eaea03d64de",
+    "SQL": 80
+  },
+  "Matthias Benz": {
+    "firstname": "Matthias",
+    "lastname": "Benz",
+    "email": "mdbenz@tiscali.net",
+    "id": "contributor_fff202dc6358210b",
+    "SQL": 81
+  },
+  "Richard Boenzli": {
+    "firstname": "Richard",
+    "lastname": "Boenzli",
+    "email": null,
+    "id": "contributor_099fd6ed75a2ef1e",
+    "SQL": 82
+  },
+  "Dieter Hartmann": {
+    "firstname": "Dieter",
+    "lastname": "Hartmann",
+    "email": null,
+    "id": "contributor_4cca27082ce8e65e",
+    "SQL": 83
+  },
+  "Paola Cimino": {
+    "firstname": "Paola",
+    "lastname": "Cimino",
+    "email": "paola.cimino@unibas.ch",
+    "id": "contributor_c302c9341f8c680a",
+    "SQL": 84
+  },
+  "Ulrich Blumenbach": {
+    "firstname": "Ulrich",
+    "lastname": "Blumenbach",
+    "email": "blumenbach@magnet.ch",
+    "id": "contributor_1a4737012717f7e0",
+    "SQL": 85
+  },
+  "Andrew Shields": {
+    "firstname": "Andrew",
+    "lastname": "Shields",
+    "email": "andrew.shields@unibas.ch",
+    "id": "contributor_c431382739fd6e1b",
+    "SQL": 86
+  },
+  "Martin Stern": {
+    "firstname": "Martin",
+    "lastname": "Stern",
+    "email": null,
+    "id": "contributor_4cd59021b6207a2f",
+    "SQL": 88
+  },
+  "Chris De Angelis": {
+    "firstname": "Chris",
+    "lastname": "De Angelis",
+    "email": "c.deangelis@stud.unibas.ch",
+    "id": "contributor_abb58bdeaf05d16f",
+    "SQL": 90
+  },
+  "Claire Hoffmann C.": {
+    "firstname": "Claire",
+    "lastname": "Hoffmann C.",
+    "email": "claire.hoffmann@stud.unibas.ch",
+    "id": "contributor_7127715626f63125",
+    "SQL": 91
+  },
+  "Sabine Wyss": {
+    "firstname": "Sabine",
+    "lastname": "Wyss",
+    "email": "sabine.wyss@stud.unibas.ch",
+    "id": "contributor_c7b27a93b7c59c87",
+    "SQL": 93
+  },
+  "Graham Nelson": {
+    "firstname": "Graham",
+    "lastname": "Nelson",
+    "email": "graham.nelson@mod-langs.ox.ac.uk",
+    "id": "contributor_ca30f870c09bba37",
+    "SQL": 94
+  },
+  "Petra Schultheiss": {
+    "firstname": "Petra",
+    "lastname": "Schultheiss",
+    "email": "petra.schultheiss@stud.unibas.ch",
+    "id": "contributor_e40648ad7fa410a9",
+    "SQL": 95
+  },
+  "Kristina Engler K.": {
+    "firstname": "Kristina",
+    "lastname": "Engler K.",
+    "email": "",
+    "id": "contributor_580bd504c5214e29",
+    "SQL": 96
+  },
+  "Sarah Ebner-Walton": {
+    "firstname": "Sarah",
+    "lastname": "Ebner-Walton",
+    "email": null,
+    "id": "contributor_243b6efddc294973",
+    "SQL": 98
+  },
+  "Andreas Langlotz": {
+    "firstname": "Andreas",
+    "lastname": "Langlotz",
+    "email": "andreas.langlotz@unil.ch",
+    "id": "contributor_cca32ec53413ffe3",
+    "SQL": 100
+  },
+  "David Marc Hoffmann D. M.": {
+    "firstname": "David Marc",
+    "lastname": "Hoffmann D. M.",
+    "email": "d.hoffmann@schwabe.ch",
+    "id": "contributor_647ffb81b28724c8",
+    "SQL": 101
+  },
+  "Carol Leininger": {
+    "firstname": "Carol",
+    "lastname": "Leininger",
+    "email": "",
+    "id": "contributor_2826963e690aaa70",
+    "SQL": 103
+  },
+  "Eva Sternk\u00fcker": {
+    "firstname": "Eva",
+    "lastname": "Sternk\u00fcker",
+    "email": "eva.sternkueker@unibas.ch",
+    "id": "contributor_65e8e500191afe77",
+    "SQL": 104
+  },
+  "John Lavagnino": {
+    "firstname": "John",
+    "lastname": "Lavagnino",
+    "email": "John.Lavagnino@kcl.ac.uk",
+    "id": "contributor_d97781c5821c201b",
+    "SQL": 106
+  },
+  "Martin Lopez": {
+    "firstname": "Martin",
+    "lastname": "Lopez",
+    "email": "martin.lopez@stud.unibas.ch",
+    "id": "contributor_144d3c906a528fc1",
+    "SQL": 107
+  },
+  "Kimiko Leibnitz": {
+    "firstname": "Kimiko",
+    "lastname": "Leibnitz",
+    "email": null,
+    "id": "contributor_5a5e155938cd8ded",
+    "SQL": 108
+  },
+  "Nick Eminger": {
+    "firstname": "Nick",
+    "lastname": "Eminger",
+    "email": null,
+    "id": "contributor_924e4b3a8f1e9137",
+    "SQL": 109
+  },
+  "Kate Rumbold": {
+    "firstname": "Kate",
+    "lastname": "Rumbold",
+    "email": null,
+    "id": "contributor_e1f66db1dbda0e42",
+    "SQL": 111
+  },
+  "Hannes Veraguth": {
+    "firstname": "Hannes",
+    "lastname": "Veraguth",
+    "email": null,
+    "id": "contributor_3d595a17907b1257",
+    "SQL": 112
+  },
+  "Lucia Michalcak": {
+    "firstname": "Lucia",
+    "lastname": "Michalcak",
+    "email": null,
+    "id": "contributor_289bad0fdd403092",
+    "SQL": 113
+  },
+  "Jonathan Goddard": {
+    "firstname": "Jonathan",
+    "lastname": "Goddard",
+    "email": "jnthn-thor@hotmail.co.uk",
+    "id": "contributor_1d1aad70a80249aa",
+    "SQL": 114
+  },
+  "Thomas Forrer": {
+    "firstname": "Thomas",
+    "lastname": "Forrer",
+    "email": "thforrer@ds.uzh.ch",
+    "id": "contributor_2ffebcb59a387522",
+    "SQL": 115
+  },
+  "Sylvie Felber": {
+    "firstname": "Sylvie",
+    "lastname": "Felber",
+    "email": "sylvie.felber@unu",
+    "id": "contributor_e72bae05e1b23740",
+    "SQL": 117
+  },
+  "Marianne Hofstetter": {
+    "firstname": "Marianne",
+    "lastname": "Hofstetter",
+    "email": "marianne.hofstetter@stud.unibas.ch",
+    "id": "contributor_737fe064c8c609cb",
+    "SQL": 118
+  },
+  "Johanna Sch\u00fcpbach": {
+    "firstname": "Johanna",
+    "lastname": "Sch\u00fcpbach",
+    "email": "johanna.schuepbach@stud.unibas.ch",
+    "id": "contributor_c31f5b00795fb1bb",
+    "SQL": 119
+  },
+  "Anna Sioutis": {
+    "firstname": "Anna",
+    "lastname": "Sioutis",
+    "email": "annaphilia@hotmail.com",
+    "id": "contributor_0ee4f8b3a460ff15",
+    "SQL": 120
+  },
+  "Heidi Haas": {
+    "firstname": "Heidi",
+    "lastname": "Haas",
+    "email": "heidi.haas@stud.unibas.ch",
+    "id": "contributor_6531065e95d5e925",
+    "SQL": 121
+  },
+  "andreas gehringer": {
+    "firstname": "andreas",
+    "lastname": "gehringer",
+    "email": "andreas.gehringer@stud.unibas.ch",
+    "id": "contributor_b27820fd94f9d344",
+    "SQL": 123
+  },
+  "Shana Paradis": {
+    "firstname": "Shana",
+    "lastname": "Paradis",
+    "email": "parads@portlandschools.org",
+    "id": "contributor_24ac8908d0103d68",
+    "SQL": 124
+  },
+  "Maria Tranter": {
+    "firstname": "Maria",
+    "lastname": "Tranter",
+    "email": "M.Tranter@stud.unibas.ch",
+    "id": "contributor_621089ad47701a50",
+    "SQL": 125
+  },
+  "Florian Blasum": {
+    "firstname": "Florian",
+    "lastname": "Blasum",
+    "email": "fiepschi@yahoo.de",
+    "id": "contributor_9358e8eae8a1ea0c",
+    "SQL": 126
+  },
+  "Chantal Battilana": {
+    "firstname": "Chantal",
+    "lastname": "Battilana",
+    "email": "chantal.battilana@stud.unibas.ch",
+    "id": "contributor_16f6b4d1df7cca0c",
+    "SQL": 128
+  },
+  "Patty Rich": {
+    "firstname": "Patty",
+    "lastname": "Rich",
+    "email": "patty.rich@union-psce.edu",
+    "id": "contributor_07567e5e56ac0230",
+    "SQL": 129
+  },
+  "Michael Schmid": {
+    "firstname": "Michael",
+    "lastname": "Schmid",
+    "email": "jskvbinmv@googlemail.com",
+    "id": "contributor_7b496377246d6d3e",
+    "SQL": 131
+  },
+  "Alan Brissenden": {
+    "firstname": "Alan",
+    "lastname": "Brissenden",
+    "email": "alan@brissenden.org",
+    "id": "contributor_14cdaebec957797b",
+    "SQL": 134
+  },
+  "Nathalie Crouau": {
+    "firstname": "Nathalie",
+    "lastname": "Crouau",
+    "email": "annewent@yahoo.fr",
+    "id": "contributor_c8264dde021e7ddc",
+    "SQL": 135
+  },
+  "Ursula Caci": {
+    "firstname": "Ursula",
+    "lastname": "Caci",
+    "email": "ursula.caci@unibas.ch",
+    "id": "contributor_686106df486fa873",
+    "SQL": 136
+  },
+  "Philipp Schweighauser": {
+    "firstname": "Philipp",
+    "lastname": "Schweighauser",
+    "email": "ph.schweighauser@unibas.ch",
+    "id": "contributor_4cd93aff4f1677ae",
+    "SQL": 137
+  },
+  "Tom Cheesman": {
+    "firstname": "Tom",
+    "lastname": "Cheesman",
+    "email": "t.cheesman@swansea.ac.uk",
+    "id": "contributor_a6cdb2f8bc8b9e54",
+    "SQL": 138
+  },
+  "Noam Melamed": {
+    "firstname": "Noam",
+    "lastname": "Melamed",
+    "email": "noam.melamed@gmail.com",
+    "id": "contributor_2ecdfc6997befa45",
+    "SQL": 139
+  },
+  "Anja Hohl": {
+    "firstname": "Anja",
+    "lastname": "Hohl",
+    "email": "",
+    "id": "contributor_7774134ee5b50bed",
+    "SQL": 140
+  },
+  "Ga\u00eblle Ginestet": {
+    "firstname": "Ga\u00eblle",
+    "lastname": "Ginestet",
+    "email": "gaelle.ginestet@univ-montp3.fr",
+    "id": "contributor_fe76bef34812f53d",
+    "SQL": 142
+  },
+  "Andrew Westerhaus": {
+    "firstname": "Andrew",
+    "lastname": "Westerhaus",
+    "email": "westeraj@uchicago.edu",
+    "id": "contributor_342dd09ac8d37797",
+    "SQL": 143
+  },
+  "Bernd Hunger": {
+    "firstname": "Bernd",
+    "lastname": "Hunger",
+    "email": "bernd.hunger@gmx.de",
+    "id": "contributor_e20913b07c3d133c",
+    "SQL": 145
+  },
+  "Ina Habermann": {
+    "firstname": "Ina",
+    "lastname": "Habermann",
+    "email": "",
+    "id": "contributor_ec32b0214cd5c5d8",
+    "SQL": 147
+  },
+  "Pauline Sallis": {
+    "firstname": "Pauline",
+    "lastname": "Sallis",
+    "email": "pjsallis@yahoo.co.uk",
+    "id": "contributor_c10328fe7ea4ec34",
+    "SQL": 148
+  },
+  "Gianpietro Melone": {
+    "firstname": "Gianpietro",
+    "lastname": "Melone",
+    "email": "",
+    "id": "contributor_bcf297a5c8c5b8e6",
+    "SQL": 149
+  },
+  "Gustavo Grandi de Souza": {
+    "firstname": "Gustavo",
+    "lastname": "Grandi de Souza",
+    "email": "",
+    "id": "contributor_ad1521b1f1313bee",
+    "SQL": 152
+  },
+  "No\u00e9mie Anja Augustin": {
+    "firstname": "No\u00e9mie Anja",
+    "lastname": "Augustin",
+    "email": "",
+    "id": "contributor_57987eabd5348525",
+    "SQL": 154
+  },
+  "Martin Danneck": {
+    "firstname": "Martin",
+    "lastname": "Danneck",
+    "email": "",
+    "id": "contributor_3229fe320c833cf2",
+    "SQL": 156
+  },
+  "Werner Br\u00f6nnimann": {
+    "firstname": "Werner",
+    "lastname": "Br\u00f6nnimann",
+    "email": "",
+    "id": "contributor_c35f4b520167ce2a",
+    "SQL": 157
+  },
+  "Wendy Eastaway": {
+    "firstname": "Wendy",
+    "lastname": "Eastaway",
+    "email": "",
+    "id": "contributor_0c0a562b8384e823",
+    "SQL": 158
+  },
+  "Susan Robson": {
+    "firstname": "Susan",
+    "lastname": "Robson",
+    "email": "suze_rob@yahoo.co.uk",
+    "id": "contributor_1656745ed2b7e679",
+    "SQL": 159
+  },
+  "Michael Smart": {
+    "firstname": "Michael",
+    "lastname": "Smart",
+    "email": "majsmart@live.co.uk",
+    "id": "contributor_92626064f246232c",
+    "SQL": 160
+  },
+  "Tina Bieri": {
+    "firstname": "Tina",
+    "lastname": "Bieri",
+    "email": "tina.bieri@stud.unibas.ch",
+    "id": "contributor_c89b0a583f02aa0b",
+    "SQL": 164
+  },
+  "Manuel Sturdy": {
+    "firstname": "Manuel",
+    "lastname": "Sturdy",
+    "email": "",
+    "id": "contributor_d149a0e0ad292c38",
+    "SQL": 165
+  },
+  "Sophie Christe": {
+    "firstname": "Sophie",
+    "lastname": "Christe",
+    "email": "",
+    "id": "contributor_f2d489e6c5eb3211",
+    "SQL": 166
+  },
+  "Joe Penczak": {
+    "firstname": "Joe",
+    "lastname": "Penczak",
+    "email": "jpenczak99@gmail.com",
+    "id": "contributor_f3c54f4850793481",
+    "SQL": 167
+  },
+  "Barry Shelton": {
+    "firstname": "Barry",
+    "lastname": "Shelton",
+    "email": "bshelton@uga.edu",
+    "id": "contributor_ea91cb195062303c",
+    "SQL": 168
+  },
+  "Alessandro Lattanzi": {
+    "firstname": "Alessandro",
+    "lastname": "Lattanzi",
+    "email": "",
+    "id": "contributor_c3432c04ab36db59",
+    "SQL": 169
+  },
+  "Elliot Reitzer": {
+    "firstname": "Elliot",
+    "lastname": "Reitzer",
+    "email": "",
+    "id": "contributor_9d6029ea0eee27e2",
+    "SQL": 170
+  },
+  "Stefanie Heeg": {
+    "firstname": "Stefanie",
+    "lastname": "Heeg",
+    "email": "",
+    "id": "contributor_31457830b56dc316",
+    "SQL": 171
+  }
+}
