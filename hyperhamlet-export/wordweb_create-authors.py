@@ -11,6 +11,7 @@ import requests
 import pymysql
 import re
 import csv
+import hashlib
 
 ####################
 
@@ -45,6 +46,8 @@ try:
     results = cursor.fetchall()
 
     count = 0
+
+    # Contains all the authors from hyperhamlet. Key of the author object is {firstName lastName}
     allAuthors = {}
 
     for row in results:
@@ -138,8 +141,16 @@ try:
             # add description to author after it has trimmed the string
             author["description"] = description.rstrip()
 
-        # Create a key and add the author to the object
+        # Create a key which has the following format{firstName lastName}
         key = "{} {}".format(author["firstName"], author["lastName"])
+
+        # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
+        id = "person_" + str(hashlib.sha256(key.encode('utf-8')).hexdigest())[:16]
+
+        # Every author has an unique internal ID
+        author["id"] = id
+
+        # Adding the author to the allAuthor object
         allAuthors[key] = author
 
     conn.close()
@@ -162,7 +173,7 @@ try:
                 for name in names:
 
                     if name in createdAuthors:
-                        blabla = {}
+                        print("doublication")
                     else:
                         # CREATE RESOURCE
                         line += 1
@@ -194,7 +205,7 @@ try:
 
                         ww_bulk_object.add_resource(
                             "person",
-                            "P01_" + str(line),
+                            allAuthors[name]["id"],
                             "person label",
                             person
                         )
