@@ -1,0 +1,91 @@
+{
+   "genre": {
+      "id": "http://rdfh.ch/lists/0826/NUlzgKvTQgu1mpUSSfueyg",
+      "nodes": [
+         {
+            "fiction": {
+               "id": "http://rdfh.ch/lists/0826/BWC1rjwmSOyw3hUA9i7eyg",
+               "nodes": [
+                  {
+                     "prose": {
+                        "id": "http://rdfh.ch/lists/0826/sX7mrm_VQoqAbcL0Px5SKw",
+                        "nodes": [
+                           {
+                              "unspecified": {
+                                 "id": "http://rdfh.ch/lists/0826/gXILY2UnQluGMpxAFyzISw"
+                              }
+                           },
+                           {
+                              "crime fiction": {
+                                 "id": "http://rdfh.ch/lists/0826/QqdcnSmhQkKTh04NANIeZQ"
+                              }
+                           },
+                           {
+                              "Biographical or historicizing": {
+                                 "id": "http://rdfh.ch/lists/0826/IxlPahCWSh-NJy_TEEITpw"
+                              }
+                           },
+                           {
+                              "gothic": {
+                                 "id": "http://rdfh.ch/lists/0826/yAGn6ZX5T_Owh8r0tBB-tw"
+                              }
+                           },
+                           {
+                              "science fiction or fantasy": {
+                                 "id": "http://rdfh.ch/lists/0826/Cv5G_illT-mCxx92fNHM8w"
+                              }
+                           },
+                           {
+                              "romance": {
+                                 "id": "http://rdfh.ch/lists/0826/WC0yDNSsRwSaYeO_hMI_SA"
+                              }
+                           }
+                        ]
+                     }
+                  },
+                  {
+                     "poetry including songs": {
+                        "id": "http://rdfh.ch/lists/0826/amPTfwLTRIGxo1K8drAthA"
+                     }
+                  },
+                  {
+                     "drama: theatre": {
+                        "id": "http://rdfh.ch/lists/0826/inNC0_t4SY6W3kC2ssarug"
+                     }
+                  },
+                  {
+                     "drama: TV, film, radio, games": {
+                        "id": "http://rdfh.ch/lists/0826/S3jfnUjbQWiIbQcCquAbkw"
+                     }
+                  }
+               ]
+            }
+         },
+         {
+            "non-fiction": {
+               "id": "http://rdfh.ch/lists/0826/Zd33pjbSQM67SZgQfUBBGQ"
+            }
+         },
+         {
+            "other": {
+               "id": "http://rdfh.ch/lists/0826/VnrHQOv8RGyWCnF5AjU_rA"
+            }
+         }
+      ]
+   },
+   "sex": {
+      "id": "http://rdfh.ch/lists/0826/Ij0LGPjlTYKjKLKpO8idyQ",
+      "nodes": [
+         {
+            "male": {
+               "id": "http://rdfh.ch/lists/0826/tgOBTF4hQKicGoQJEmAkdg"
+            }
+         },
+         {
+            "female": {
+               "id": "http://rdfh.ch/lists/0826/wtkcsADgTseo36L4j6dVnQ"
+            }
+         }
+      ]
+   }
+}

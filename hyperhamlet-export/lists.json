@@ -1,0 +1,17 @@
+{
+   "sex": {
+      "id": "http://rdfh.ch/lists/0826/E-z6XFgMQwaPO19VwaR1hw",
+      "nodes": [
+         {
+            "male": {
+               "id": "http://rdfh.ch/lists/0826/reLZaH2yS3-ibqAjlSzyDQ"
+            }
+         },
+         {
+            "female": {
+               "id": "http://rdfh.ch/lists/0826/h2OuhE_aS_6PmmhkoyyaCQ"
+            }
+         }
+      ]
+   }
+}
