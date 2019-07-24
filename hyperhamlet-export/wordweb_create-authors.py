@@ -180,9 +180,12 @@ try:
 
                         key = "{} {}".format(allAuthors[name]["firstName"], allAuthors[name]["lastName"])
 
+                        # Object which will be added to Knora.
+                        # It contains all the information needed which was defined in the data_model_definition_authors
                         person = {
                             "firstName": allAuthors[name]["firstName"],
-                            "lastName": allAuthors[name]["lastName"]
+                            "lastName": allAuthors[name]["lastName"],
+                            "hasSex": "male"
                         }
 
                         if "description" in allAuthors[name]:
@@ -210,8 +213,6 @@ try:
                             person
                         )
 
-                        print("EifelTurm", person)
-
                         createdAuthors[key] = allAuthors[name]
 
                     # if name in allAuthors:
@@ -219,7 +220,6 @@ try:
                     # else:
                     #     print("NO", "|" + name + "|")
             else:
-                print("erste Zeile")
                 line += 1
 
         # countOfAuthors = 1

@@ -3,6 +3,7 @@
   <p0826-teimww:person id="person_4069a169e0434e24">
     <knoraXmlImport:label>person label</knoraXmlImport:label>
     <p0826-teimww:firstName knoraType="richtext_value">(male)</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">0_Anon</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_394742d5146e6fd1">
@@ -10,6 +11,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1388</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English writer</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Usk</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_830c5cd6a3a44ca4">
@@ -18,6 +20,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1400</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet  &amp;005134</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Geoffrey</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Chaucer</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_13695de2bd4043e0">
@@ -25,6 +28,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1470</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English divine</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Henry</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Parker</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_bff81a320b8342f4">
@@ -33,6 +37,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1556</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas, Lord</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Vaux</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_42eb905bc6e4053a">
@@ -41,6 +46,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1594</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English writer</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Painter</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_17923856f3fcac86">
@@ -49,6 +55,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1562:1564</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English anthologist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Baldwin</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_2b5b422d9bd3e711">
@@ -57,6 +64,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1607</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">Polish bishop and philosopher 1530 to , Latin version of Wawrzyniec Grzymała Goślicki</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Laurentius Grimaldius</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Goslicius</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_4d46ba6d44081aae">
@@ -64,6 +72,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1606</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English merchant and translator</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Sir Henry</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Billingsley</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_93393d7338f8a258">
@@ -71,6 +80,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1594</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English translator</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Laurence</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Twyne</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_a5663d4a9069f35d">
@@ -79,6 +89,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1613</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English translator</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Twyne</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_20c2963f1665d325">
@@ -87,6 +98,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1571</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English divine</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Jewel</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_8110581a51ac8d0a">
@@ -95,6 +107,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1604</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">Archbishop of Canterbury</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Whitgift</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_0e82de631d672dcc">
@@ -102,6 +115,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1584</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English rhetorician</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Ralph</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Lever</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_9ffeb7ca95cd18da">
@@ -109,6 +123,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1616</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English  theologian and translator</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Rogers</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_61ea5c613f71ac23">
@@ -116,6 +131,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1578</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English poet</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Proctor</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_4b2c2c667ace067b">
@@ -123,6 +139,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1577</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English theological writer</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Henry</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Bull</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_63d5fe36ffac5d32">
@@ -131,6 +148,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1593</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet, dramatist and translator</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Christopher</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Marlowe</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_7468c79b15d734b3">
@@ -139,6 +157,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1596</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English translator, poet and dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">George</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Peele</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_fb2f6ac664533d01">
@@ -147,6 +166,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1599</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Edmund</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Spenser</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_684176b58bc762f6">
@@ -155,6 +175,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1616</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist and poet  &amp;005085</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Shakespeare</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_9b2d545e20d62482">
@@ -163,6 +184,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1637</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist and poet</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Ben</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Jonson</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_8501ec457f433848">
@@ -171,6 +193,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1634</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet, dramatist and translator</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">George</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Chapman</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_ad03d7c87e5b9c24">
@@ -179,6 +202,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1634</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist and poet</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Marston</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_d888f97beb7a5e1c">
@@ -186,6 +210,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1605</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Haughton</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_ce94987303de0652">
@@ -193,6 +218,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1599</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Henry</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Porter</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_87dbd52f1c5b813b">
@@ -201,6 +227,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1632</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist ca.</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Dekker</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_7b88afb3c96d748f">
@@ -209,6 +236,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1610</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English anthologist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Bodenham</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_7e08b5fab4c10b55">
@@ -216,6 +244,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1600</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English (?) poet</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Sam</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Nicholson</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_5cb3d6fa23800e74">
@@ -224,6 +253,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1626</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Rowley</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_f10aec8cfe5ff90d">
@@ -232,6 +262,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1641</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Heywood</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_d78940f8a8554ca3">
@@ -240,6 +271,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1603:1606</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Henry</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Chettle</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_9594c85bc48d3759">
@@ -248,6 +280,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1616</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Webster</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_947a2e721f016a03">
@@ -256,6 +289,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1637:1639</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Day</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_c298754546b2500e">
@@ -264,6 +298,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1627</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Middleton</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_f1b3b2adeeb3e86f">
@@ -271,6 +306,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1605</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English poet</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Peter</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Woodhouse</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_ecd33a52caec339f">
@@ -279,6 +315,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1616</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Francis</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Beaumont</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_3cc0cce5b6bf554a">
@@ -287,6 +324,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1625</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Fletcher</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_9186050dfac2d550">
@@ -294,6 +332,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1604:1615</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Tomkis</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_986dd93d2d794ff5">
@@ -301,6 +340,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1618</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist and pamphleteer</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">George</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Wilkins</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_79c674f9ee6b5a7c">
@@ -309,6 +349,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1608</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Edward</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Sharpham</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_9b3aca5e1fbd9b33">
@@ -317,6 +358,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1629</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Lording or Lodovic</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Barry</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_8926bbeaa7c56023">
@@ -325,6 +367,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1620</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Nathan</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Field</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_5350e0c0cddb3400">
@@ -333,6 +376,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1615</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English actor and dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Robert</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Armin</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_883324fc3b8b8dba">
@@ -340,6 +384,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1626</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet and dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Cyril</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Tourneur</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_2afeb85181d58ed3">
@@ -348,6 +393,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1618</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">Anglo-Welsh poet</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Sir John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Davies of Hereford</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_a4e45e7b381d6e89">
@@ -355,6 +401,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1612:1614</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Cooke</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_7c9389d75703bf3a">
@@ -363,6 +410,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1627</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English historian</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Sir John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Hayward</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_31fd4cfea1a56eb2">
@@ -370,6 +418,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1628</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet Christopher Brooke</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Christopher</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Brooke</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_cbc2c3284144573a">
@@ -378,6 +427,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1640</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Philip</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Massinger</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_2d4add490de5218d">
@@ -386,6 +436,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1640</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English essayist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Robert</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Burton</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_6a8b2b14d4099ec9">
@@ -393,6 +444,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1623:1639</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Robert</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Davenport</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_d8f1d08e1ca080b7">
@@ -401,6 +453,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1668</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Sir William</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">D'Avenant</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_53c2f0bb43b1f960">
@@ -409,6 +462,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1636:1637</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Sampson</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_96f70a96968da33d">
@@ -417,6 +471,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1635</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet and dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Randolph</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_a7bda6e4ea9d6266">
@@ -424,6 +479,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1633</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English physician</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">James</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Hart</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_e97f8919dc99b209">
@@ -431,6 +487,7 @@
     <p0826-teimww:birthDate knoraType="date_value">GREGORIAN:1602</p0826-teimww:birthDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Hemings</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_68dae2dd3ee5eaa3">
@@ -439,6 +496,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1666</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">James</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Shirley</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_6caa1b04d6f95548">
@@ -446,6 +504,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1612:1653</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English writer</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Adams</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_e92e9dc9d65ade56">
@@ -453,6 +512,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1614</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English translator</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">W.</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">B.</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_87547eb3eadc52d8">
@@ -461,6 +521,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1232:1234</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">Scottish (?) philosopher</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Michael</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Scot</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_edc1093f53e0bc8a">
@@ -469,6 +530,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1660</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English devotional writer 1587–[]</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Anthony</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Stafford</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_7179a7437437988e">
@@ -477,6 +539,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1660</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Nathaniel</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Richards</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_33fc0870e5a0fbcf">
@@ -484,6 +547,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1638</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English writer ,  real name Richard E. Younge</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">R.</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Junius</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_296a7b9f6d21cde7">
@@ -491,6 +555,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1640</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Samuel</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Harding</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_bae7c2e690c9caaa">
@@ -499,6 +564,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1642</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet and dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Suckling</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_6f4a80592c6c793c">
@@ -506,11 +572,13 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1639</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">British poet and dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Henry</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Glapthorne</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_da5a5f8bc94ad571">
     <knoraXmlImport:label>person label</knoraXmlImport:label>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Killigrew</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_cce3785f9f0b7c67">
@@ -518,6 +586,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1650:1652</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">Anglo-Italian dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Cosmo</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Manuche</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_56af0f484de673fe">
@@ -525,6 +594,7 @@
     <p0826-teimww:activeDate knoraType="date_value">GREGORIAN:1655</p0826-teimww:activeDate>
     <p0826-teimww:description knoraType="richtext_value">English (?) dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Richard</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Faber</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_023482909a532caf">
@@ -533,6 +603,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1664</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">Welsh poet.</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Katherine</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Philips</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_ed5b7d7b5b4ff788">
@@ -541,6 +612,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1700</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English poet</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Dryden</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_fb786ed957e3108e">
@@ -549,6 +621,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1711</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Caryll</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_0449cf1b66c3867d">
@@ -557,6 +630,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1681</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Lacy</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_1013ee760af86e0f">
@@ -565,6 +639,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1689</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist and novelist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Aphra</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Behn</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_0fdd672af19515af">
@@ -573,6 +648,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1710</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Henry Neville</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Payne</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_99b03817dc566412">
@@ -581,11 +657,13 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1707</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">British dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Edward</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Ravenscroft</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_9830d46f027273df">
     <knoraXmlImport:label>person label</knoraXmlImport:label>
     <p0826-teimww:firstName knoraType="richtext_value">William Cavendish, Duke of</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Newcastle</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_0fa63d0ba5908460">
@@ -593,6 +671,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1702</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English (?) dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">John</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Banks</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_2fbef537c50f1433">
@@ -601,6 +680,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1685</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Otway</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_12f7d2e19bfcb92f">
@@ -609,6 +689,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1692</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Nathaniel</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Lee</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_1f1f38544516a902">
@@ -617,6 +698,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1746</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">Irish dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Thomas</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Southerne</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_aea6ce6ca036608b">
@@ -625,6 +707,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1715</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">Irish poet and dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">Nahum</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Tate</p0826-teimww:lastName>
   </p0826-teimww:person>
   <p0826-teimww:person id="person_ae2d914875625509">
@@ -633,6 +716,7 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1687</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">George Villiers, Duke of</p0826-teimww:firstName>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/a7ncXFszTAe8V1VHUdadTw</p0826-teimww:hasSex>
     <p0826-teimww:lastName knoraType="richtext_value">Buckingham</p0826-teimww:lastName>
   </p0826-teimww:person>
 </knoraXmlImport:resources>
