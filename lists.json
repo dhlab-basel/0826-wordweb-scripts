@@ -1,43 +1,43 @@
 {
    "genre": {
-      "id": "http://rdfh.ch/lists/0826/NUlzgKvTQgu1mpUSSfueyg",
+      "id": "http://rdfh.ch/lists/0826/NqgoCZd2QMqyzqeKrrVS4w",
       "nodes": [
          {
             "fiction": {
-               "id": "http://rdfh.ch/lists/0826/BWC1rjwmSOyw3hUA9i7eyg",
+               "id": "http://rdfh.ch/lists/0826/MWDuAKOfQOum86CZdAOkWQ",
                "nodes": [
                   {
                      "prose": {
-                        "id": "http://rdfh.ch/lists/0826/sX7mrm_VQoqAbcL0Px5SKw",
+                        "id": "http://rdfh.ch/lists/0826/D5FMNGZCQJW_r8ZVYgSwaQ",
                         "nodes": [
                            {
                               "unspecified": {
-                                 "id": "http://rdfh.ch/lists/0826/gXILY2UnQluGMpxAFyzISw"
+                                 "id": "http://rdfh.ch/lists/0826/BjkWzguISEePDg4AV3Tscg"
                               }
                            },
                            {
                               "crime fiction": {
-                                 "id": "http://rdfh.ch/lists/0826/QqdcnSmhQkKTh04NANIeZQ"
+                                 "id": "http://rdfh.ch/lists/0826/EDMSSX7qTZCLh6m4XVLlxA"
                               }
                            },
                            {
                               "Biographical or historicizing": {
-                                 "id": "http://rdfh.ch/lists/0826/IxlPahCWSh-NJy_TEEITpw"
+                                 "id": "http://rdfh.ch/lists/0826/AMupKg5vS2uHLp2SIX32wQ"
                               }
                            },
                            {
                               "gothic": {
-                                 "id": "http://rdfh.ch/lists/0826/yAGn6ZX5T_Owh8r0tBB-tw"
+                                 "id": "http://rdfh.ch/lists/0826/LbCpzD5mQvOSX94R5ep5oA"
                               }
                            },
                            {
                               "science fiction or fantasy": {
-                                 "id": "http://rdfh.ch/lists/0826/Cv5G_illT-mCxx92fNHM8w"
+                                 "id": "http://rdfh.ch/lists/0826/WmkGmIF-RSGFTr37yddMwA"
                               }
                            },
                            {
                               "romance": {
-                                 "id": "http://rdfh.ch/lists/0826/WC0yDNSsRwSaYeO_hMI_SA"
+                                 "id": "http://rdfh.ch/lists/0826/LAT8odSNRcicXewRy6gXIQ"
                               }
                            }
                         ]
@@ -45,17 +45,17 @@
                   },
                   {
                      "poetry including songs": {
-                        "id": "http://rdfh.ch/lists/0826/amPTfwLTRIGxo1K8drAthA"
+                        "id": "http://rdfh.ch/lists/0826/aDEkjS1OSfq2Pk5xCiSu1w"
                      }
                   },
                   {
                      "drama: theatre": {
-                        "id": "http://rdfh.ch/lists/0826/inNC0_t4SY6W3kC2ssarug"
+                        "id": "http://rdfh.ch/lists/0826/RF3TCGfMSeiEmVPiilbNzw"
                      }
                   },
                   {
                      "drama: TV, film, radio, games": {
-                        "id": "http://rdfh.ch/lists/0826/S3jfnUjbQWiIbQcCquAbkw"
+                        "id": "http://rdfh.ch/lists/0826/4X0Z8QBURXaJAqk8kdQYYA"
                      }
                   }
                ]
@@ -63,27 +63,27 @@
          },
          {
             "non-fiction": {
-               "id": "http://rdfh.ch/lists/0826/Zd33pjbSQM67SZgQfUBBGQ"
+               "id": "http://rdfh.ch/lists/0826/CqZoQncHTBqfBjhIXRy82Q"
             }
          },
          {
             "other": {
-               "id": "http://rdfh.ch/lists/0826/VnrHQOv8RGyWCnF5AjU_rA"
+               "id": "http://rdfh.ch/lists/0826/uBef6Kf0R9unZNh5FyB8IQ"
             }
          }
       ]
    },
    "sex": {
-      "id": "http://rdfh.ch/lists/0826/Ij0LGPjlTYKjKLKpO8idyQ",
+      "id": "http://rdfh.ch/lists/0826/XcaHSugATNWIIXvOJtlt4w",
       "nodes": [
          {
             "male": {
-               "id": "http://rdfh.ch/lists/0826/tgOBTF4hQKicGoQJEmAkdg"
+               "id": "http://rdfh.ch/lists/0826/SF9lC7txT5aBxK9rO7EXGA"
             }
          },
          {
             "female": {
-               "id": "http://rdfh.ch/lists/0826/wtkcsADgTseo36L4j6dVnQ"
+               "id": "http://rdfh.ch/lists/0826/JWTkZaEbRzWzFIUJkVuwhQ"
             }
          }
       ]

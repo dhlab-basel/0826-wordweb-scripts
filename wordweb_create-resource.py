@@ -51,8 +51,11 @@ schema = con.create_schema(args.projectcode, args.ontoname)
 ww_bulk_xml = "./test-bulk-output.xml"
 ww_bulk_object = BulkImport(schema)
 
-buch = {}
-buch["title"] = "Romeo und Julia"
+buch1 = {}
+buch1["title"] = "Romeo und Julia"
+
+buch2 = {}
+buch2["title"] = "Hamlet"
 
 person = {
     "internalID": "&000001",
@@ -75,17 +78,17 @@ language = {
 }
 
 ww_bulk_object.add_resource(
-    "language",
-    "L_01",
-    "sprache label",
-    language
+    "book",
+    "B_01",
+    "buch label",
+    buch1
 )
 
 ww_bulk_object.add_resource(
     "book",
-    "B_01",
+    "B_02",
     "buch label",
-    buch
+    buch2
 )
 
 ww_bulk_object.add_resource(
@@ -93,6 +96,13 @@ ww_bulk_object.add_resource(
     "P_01",
     "person label",
     person
+)
+
+ww_bulk_object.add_resource(
+    "language",
+    "L_01",
+    "sprache label",
+    language
 )
 
 ww_bulk_object.add_resource(
