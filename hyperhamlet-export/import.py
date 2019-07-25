@@ -22,6 +22,14 @@ with open('json/author.json', 'r') as a:
 with open('json/book.json', 'r') as b:
     allBooks = json.load(b)
 
+# Gets editions data from json
+with open('json/edition.json', 'r') as e:
+    allEditions = json.load(e)
+
+# Gets editions data from json
+with open('json/contributors.json', 'r') as c:
+    allContributors = json.load(c)
+
 ####################
 
 parser = argparse.ArgumentParser()
