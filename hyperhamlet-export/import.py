@@ -51,26 +51,65 @@ ww_bulk_object = BulkImport(schema)
 # Open csv sheet with the entries
 with open('let-them-come.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=';')
+    line = 0
+
+    # ------------- AUTHORS
     names = []
     createdAuthors = {}
-    line = 0
+    # ------------- AUTHORS
+
+    # ------------- BOOKS
+    createdBooks = {}
+    # ------------- BOOKS
+
 
     for row in csv_reader:
 
         # Skip first row because of column title in excel sheet
         if line is not 0:
+            # ------------- BOOKS
+            bookName = row[13]
+
+            if bookName in createdBooks:
+                print("doublication book")
+            else:
+
+                # CREATE RESOURCE
+                book = {
+                    "internalID": allBooks[bookName]["internalID"],
+                    "title": allBooks[bookName]["title"],
+                    "createdDate": row[5],
+                    "publishDate": row[6],
+                    "licenseDate": row[7],
+                    "firstPerformanceDate": row[8]
+                }
+
+                # Creating Knora resource with data and ID
+                ww_bulk_object.add_resource(
+                    "book",
+                    allBooks[bookName]["id"],
+                    "book label",
+                    book
+                )
+
+                # Adding the created authors to the object
+                createdBooks[bookName] = allBooks[bookName]
+
+            # ------------- BOOKS
+
+            # ------------- AUTHORS
+
+            # Multiple names of authors
             names = row[2].split(" / ")
 
             # Iterates through the names per entry
             for name in names:
 
                 if name in createdAuthors:
-                    print("doublication")
+                    print("doublication author")
                 else:
                     # CREATE RESOURCE
                     line += 1
-
-                    key = "{} {}".format(allAuthors[name]["firstName"], allAuthors[name]["lastName"])
 
                     # Object which will be added to Knora.
                     # It contains all the information needed which was defined in the data_model_definition_authors
@@ -101,6 +140,7 @@ with open('let-them-come.csv') as csv_file:
                         person["activeDate"] = "GREGORIAN:{}:{}".format(allAuthors[name]["floruitSpanStart"],
                                                                         allAuthors[name]["floruitSpanEnd"])
 
+                    # Creating Knora resource with data and ID
                     ww_bulk_object.add_resource(
                         "person",
                         allAuthors[name]["id"],
@@ -108,12 +148,18 @@ with open('let-them-come.csv') as csv_file:
                         person
                     )
 
+                    # Key for the createdAuthor object
+                    key = "{} {}".format(allAuthors[name]["firstName"], allAuthors[name]["lastName"])
+                    # Adding the created authors to the object
                     createdAuthors[key] = allAuthors[name]
 
                 # if name in allAuthors:
                 #     print(allAuthors[name])
                 # else:
                 #     print("NO", "|" + name + "|")
+
+            # ------------- AUTHORS
+
         else:
             line += 1
 

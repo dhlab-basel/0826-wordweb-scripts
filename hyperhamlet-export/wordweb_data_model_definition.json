@@ -161,6 +161,106 @@
               "cardinality": "1"
             }
           ]
+        },
+        {
+          "name": "book",
+          "super": "Resource",
+          "labels": {
+            "en": "Book",
+            "de": "Buch"
+          },
+          "comments": {
+            "en": "Represents a book",
+            "de": "Repräsentiert ein Buch"
+          },
+          "properties": [
+            {
+              "name": "internalID",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Internal ID",
+                "de": "Interne ID"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
+            },
+            {
+              "name": "title",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Title",
+                "de": "Titel"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "0-1"
+            },
+            {
+              "name": "createdDate",
+              "super": [
+                "hasValue"
+              ],
+              "object": "DateValue",
+              "labels": {
+                "en": "Birth Date",
+                "de": "Geburtsdatum"
+              },
+              "gui_element": "Date",
+              "cardinality": "0-1"
+            },
+            {
+              "name": "publishDate",
+              "super": [
+                "hasValue"
+              ],
+              "object": "DateValue",
+              "labels": {
+                "en": "Death Date",
+                "de": "Todesdatum"
+              },
+              "gui_element": "Date",
+              "cardinality": "0-1"
+            },
+            {
+              "name": "licenseDate",
+              "super": [
+                "hasValue"
+              ],
+              "object": "DateValue",
+              "labels": {
+                "en": "Active Date",
+                "de": "Aktivitätsdatum"
+              },
+              "gui_element": "Date",
+              "cardinality": "0-1"
+            },
+            {
+              "name": "firstPerformanceDate",
+              "super": [
+                "hasValue"
+              ],
+              "object": "DateValue",
+              "labels": {
+                "en": "Active Date",
+                "de": "Aktivitätsdatum"
+              },
+              "gui_element": "Date",
+              "cardinality": "0-1"
+            }
+          ]
         }
       ]
     }
