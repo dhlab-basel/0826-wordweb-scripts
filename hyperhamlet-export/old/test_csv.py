@@ -1,7 +1,3 @@
-import csv
-import re
-import pymysql
-
 # Regex library
 import re
 # csv library

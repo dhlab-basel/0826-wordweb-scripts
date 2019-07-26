@@ -116,7 +116,8 @@ with open('let-them-come.csv') as csv_file:
                     person = {
                         "firstName": allAuthors[name]["firstName"],
                         "lastName": allAuthors[name]["lastName"],
-                        "hasSex": "male"
+                        "hasSex": "male",
+                        "isAuthorOf": allBooks[bookName]["id"]
                     }
 
                     if "description" in allAuthors[name]:

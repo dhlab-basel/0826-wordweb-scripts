@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <knoraXmlImport:resources xmlns:knoraXmlImport="http://api.knora.org/ontology/knoraXmlImport/v1#" xmlns:p0826-teimww="http://api.knora.org/ontology/0826/teimww/xml-import/v1#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://api.knora.org/ontology/0826/teimww/xml-import/v1#">
-  <p0826-teimww:language id="L_01">
-    <knoraXmlImport:label>sprache label</knoraXmlImport:label>
-    <p0826-teimww:languageName knoraType="richtext_value">Deutsch</p0826-teimww:languageName>
-  </p0826-teimww:language>
   <p0826-teimww:book id="B_01">
     <knoraXmlImport:label>buch label</knoraXmlImport:label>
     <p0826-teimww:title knoraType="richtext_value">Romeo und Julia</p0826-teimww:title>
+  </p0826-teimww:book>
+  <p0826-teimww:book id="B_02">
+    <knoraXmlImport:label>buch label</knoraXmlImport:label>
+    <p0826-teimww:title knoraType="richtext_value">Hamlet</p0826-teimww:title>
   </p0826-teimww:book>
   <p0826-teimww:person id="P_01">
     <knoraXmlImport:label>person label</knoraXmlImport:label>
@@ -14,20 +14,10 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1616</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English Dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
-    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/tgOBTF4hQKicGoQJEmAkdg</p0826-teimww:hasSex>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/nkQOx-tlRqSMY_APe6YsQQ</p0826-teimww:hasSex>
     <p0826-teimww:internalID knoraType="richtext_value">&amp;000001</p0826-teimww:internalID>
-    <p0826-teimww:isAuthorOf>
-      <p0826-teimww:book knoraType="link_value" linkType="ref" target="B_01"/>
-    </p0826-teimww:isAuthorOf>
+    <p0826-teimww:isAuthorOf knoraType="link_value" linkType="ref" target="B_01"/>
+    <p0826-teimww:isAuthorOf knoraType="link_value" linkType="ref" target="B_02"/>
     <p0826-teimww:lastName knoraType="richtext_value">Shakespeare</p0826-teimww:lastName>
   </p0826-teimww:person>
-  <p0826-teimww:edition id="E_01">
-    <knoraXmlImport:label>edition label</knoraXmlImport:label>
-    <p0826-teimww:isEditionOf>
-      <p0826-teimww:book knoraType="link_value" linkType="ref" target="B_01"/>
-    </p0826-teimww:isEditionOf>
-    <p0826-teimww:isWrittenIn>
-      <p0826-teimww:language knoraType="link_value" linkType="ref" target="L_01"/>
-    </p0826-teimww:isWrittenIn>
-  </p0826-teimww:edition>
 </knoraXmlImport:resources>

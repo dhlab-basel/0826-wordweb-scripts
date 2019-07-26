@@ -64,17 +64,8 @@ person = {
     "description": "English Dramatist",
     "birthDate": "GREGORIAN:1564",
     "deathDate": "GREGORIAN:1616",
-    "isAuthorOf": "B_01",
+    "isAuthorOf": ["B_01", "B_02"],
     "hasSex": "male"
-}
-
-edition = {
-    "isEditionOf": "B_01",
-    "isWrittenIn": "L_01"
-}
-
-language = {
-    "languageName": "Deutsch"
 }
 
 ww_bulk_object.add_resource(
@@ -98,19 +89,28 @@ ww_bulk_object.add_resource(
     person
 )
 
-ww_bulk_object.add_resource(
-    "language",
-    "L_01",
-    "sprache label",
-    language
-)
-
-ww_bulk_object.add_resource(
-    "edition",
-    "E_01",
-    "edition label",
-    edition
-)
+# edition = {
+#     "isEditionOf": "B_01",
+#     "isWrittenIn": "L_01"
+# }
+#
+# language = {
+#     "languageName": "Deutsch"
+# }
+#
+# ww_bulk_object.add_resource(
+#     "language",
+#     "L_01",
+#     "sprache label",
+#     language
+# )
+#
+# ww_bulk_object.add_resource(
+#     "edition",
+#     "E_01",
+#     "edition label",
+#     edition
+# )
 
 
 BULKIMPORT_API_ENDPOINT="http://localhost:3333/v1/resources/xmlimport/http%3A%2F%2Frdfh.ch%2Fprojects%2F0826"

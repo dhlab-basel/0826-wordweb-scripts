@@ -57,6 +57,17 @@
           },
           "properties": [
             {
+              "name": "isAuthorOf",
+              "super": ["hasLinkTo"],
+              "object": "teimww:book",
+              "labels": {
+                "en": "is author of",
+                "de": "ist Autor von"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
               "name": "firstName",
               "super": [
                 "hasValue",
