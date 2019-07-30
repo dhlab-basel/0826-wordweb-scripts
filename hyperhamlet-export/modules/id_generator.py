@@ -3,4 +3,4 @@ import hashlib
 
 
 def generate(key):
-    return str(hashlib.sha256(key.encode('utf-8')).hexdigest())[:16]
+    return "ww_" + str(hashlib.sha256(key.encode('utf-8')).hexdigest())[:16]
