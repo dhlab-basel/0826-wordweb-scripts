@@ -27,7 +27,7 @@ with open('json/edition.json', 'r') as e:
     allEditions = json.load(e)
 
 # Gets editions data from json
-with open('json/contributors.json', 'r') as c:
+with open('json/contributor.json', 'r') as c:
     allContributors = json.load(c)
 
 ####################
@@ -71,7 +71,7 @@ with open('let-them-come.csv') as csv_file:
             bookName = row[13]
 
             if bookName in createdBooks:
-                print("doublication book")
+                print("duplication book")
             else:
 
                 # CREATE RESOURCE

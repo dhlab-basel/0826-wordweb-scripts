@@ -50,7 +50,7 @@ try:
     cursor.close()
 
     # Write all the editions into json
-    with open('json/contributors.json', 'w') as outfile:
+    with open('json/contributor.json', 'w') as outfile:
         json.dump(allContributors, outfile)
 
 except Exception as err:
