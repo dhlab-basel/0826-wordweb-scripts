@@ -4,9 +4,8 @@ import pymysql
 import re
 # JSON library
 import json
-# system library
-import sys
-sys.path.append("modules/")
+
+# my id generator
 import id_generator as id
 
 
@@ -22,14 +21,15 @@ def prepare():
 
         results = cursor.fetchall()
 
-        count = 0
-
         # Contains all the authors from hyperhamlet. Key of the author object is {firstName lastName}
         all_authors = {}
 
         for row in results:
 
-            author = {'firstName': row['firstname'], "lastName": row["lastname"]}
+            author = {
+                "firstName": row["firstname"],
+                "lastName": row["lastname"]
+            }
 
             # Start with empty description
             description = ""
@@ -122,13 +122,13 @@ def prepare():
             unique_key = "{} {}".format(author["firstName"], author["lastName"])
 
             # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
-            authorID = "person_" + id.generate(unique_key)
+            author_id = id.generate(unique_key)
 
             # Adding ID of SQL table
             author["sql"] = row["id"]
 
             # Adding the author to the all_author object
-            all_authors[authorID] = author
+            all_authors[author_id] = author
 
         conn.close()
         cursor.close()
