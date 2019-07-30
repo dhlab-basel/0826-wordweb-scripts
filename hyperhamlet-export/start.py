@@ -3,6 +3,7 @@ import csv
 
 # system library
 import sys
+
 # defining path for module imports
 sys.path.append("modules/")
 
@@ -16,19 +17,6 @@ import prep_authors
 import prep_books
 # preparation for contributors
 import prep_contributors
-
-
-def create_author():
-    print("")
-
-
-def update_author():
-    print("")
-
-
-def create_book():
-    print("")
-
 
 json_files = [
     "json/author.json",
@@ -44,23 +32,74 @@ csv_files = [
 ]
 
 
+def create_book(id, data_row):
+    book = {
+        "internalID": allBooks[id]["internalID"],
+        "title": allBooks[id]["title"],
+        "createdDate": data_row[5],
+        "publishDate": data_row[6],
+        "licenseDate": data_row[7],
+        "firstPerformanceDate": data_row[8]
+    }
+
+    books[id] = book
+
+
+def create_author(id):
+    # Object which will be added to Knora.
+    # It contains all the information needed which was defined in the data_model_definition_authors
+    person = {
+        "firstName": allAuthors[id]["firstName"],
+        "lastName": allAuthors[id]["lastName"],
+        "hasSex": "male",
+        "isAuthorOf": []
+        # "isAuthorOf": allBooks[bookName]["id"]
+    }
+
+    if "description" in allAuthors[id]:
+        person["description"] = allAuthors[id]["description"]
+
+    if "birthExact" in allAuthors[id]:
+        person["birthDate"] = "GREGORIAN:{}".format(allAuthors[id]["birthExact"])
+    elif "birthSpanStart" in allAuthors[author_id]:
+        person["birthDate"] = "GREGORIAN:{}:{}".format(allAuthors[id]["birthSpanStart"],
+                                                       allAuthors[id]["birthSpanEnd"])
+
+    if "deathExact" in allAuthors[id]:
+        person["deathDate"] = "GREGORIAN:{}".format(allAuthors[id]["deathExact"])
+    elif "deathSpanStart" in allAuthors[author_id]:
+        person["deathDate"] = "GREGORIAN:{}:{}".format(allAuthors[id]["deathSpanStart"],
+                                                       allAuthors[id]["deathSpanEnd"])
+
+    if "floruitExact" in allAuthors[id]:
+        person["activeDate"] = "GREGORIAN:{}".format(allAuthors[id]["floruitExact"])
+    elif "floruitSpanStart" in allAuthors[id]:
+        person["activeDate"] = "GREGORIAN:{}:{}".format(allAuthors[id]["floruitSpanStart"],
+                                                        allAuthors[id]["floruitSpanEnd"])
+
+    # Adding the new authors to the list of authors
+    authors[id] = person
+
+
+def update_author(auth_id, data_row):
+    temp = set(authors[auth_id]["isAuthorOf"])
+    book_key = id.generate(data_row[13])
+    temp.add(book_key)
+    authors[auth_id]["isAuthorOf"] = list(temp)
+
+
 # Clears all json files
 for file in json_files:
     json.clear(file)
-
 
 # Prepare all authors
 allAuthors = prep_authors.prepare()
 allBooks = prep_books.prepare()
 allContributors = prep_contributors.prepare()
 
-json.save(json_files[0], allAuthors)
-
-
 # Loads the jsons and creates objects
 authors = json.load(json_files[0])
 books = json.load(json_files[1])
-
 
 # Reads the csv files
 for csv_file in csv_files:
@@ -77,6 +116,8 @@ for csv_file in csv_files:
                 # Skip first row with column title
                 if line is not 0:
 
+                    # ---------- BOOK
+                    # generates book id
                     book_id = id.generate(row[13])
 
                     # Checks if book_id is valid
@@ -86,18 +127,9 @@ for csv_file in csv_files:
 
                     # Checks if book already exists
                     if book_id not in books:
+                        create_book(book_id, row)
 
-                        # Create book resource
-                        book = {
-                            "internalID": allBooks[book_id]["internalID"],
-                            "title": allBooks[book_id]["title"],
-                            "createdDate": row[5],
-                            "publishDate": row[6],
-                            "licenseDate": row[7],
-                            "firstPerformanceDate": row[8]
-                        }
-
-                        books[book_id] = book
+                    # ---------- AUTHOR
 
                     # Multiple names of authors
                     names = row[2].split(" / ")
@@ -105,6 +137,7 @@ for csv_file in csv_files:
                     # Iterates through the names per entry
                     for name in names:
 
+                        # Generates author id
                         author_id = id.generate(name)
 
                         # Checks if author_id is valid
@@ -115,46 +148,16 @@ for csv_file in csv_files:
                         # Checks if author already exists
                         if author_id not in authors:
 
-                            # create author resource
-                            # Object which will be added to Knora.
-                            # It contains all the information needed which was defined in the data_model_definition_authors
-                            person = {
-                                "firstName": allAuthors[author_id]["firstName"],
-                                "lastName": allAuthors[author_id]["lastName"],
-                                "hasSex": "male",
-                                # "isAuthorOf": allBooks[bookName]["id"]
-                            }
+                            create_author(author_id)
 
-                            if "description" in allAuthors[author_id]:
-                                person["description"] = allAuthors[author_id]["description"]
-
-                            if "birthExact" in allAuthors[author_id]:
-                                person["birthDate"] = "GREGORIAN:{}".format(allAuthors[author_id]["birthExact"])
-                            elif "birthSpanStart" in allAuthors[author_id]:
-                                person["birthDate"] = "GREGORIAN:{}:{}".format(allAuthors[author_id]["birthSpanStart"],
-                                                                               allAuthors[author_id]["birthSpanEnd"])
-
-                            if "deathExact" in allAuthors[author_id]:
-                                person["deathDate"] = "GREGORIAN:{}".format(allAuthors[author_id]["deathExact"])
-                            elif "deathSpanStart" in allAuthors[author_id]:
-                                person["deathDate"] = "GREGORIAN:{}:{}".format(allAuthors[author_id]["deathSpanStart"],
-                                                                               allAuthors[author_id]["deathSpanEnd"])
-
-                            if "floruitExact" in allAuthors[author_id]:
-                                person["activeDate"] = "GREGORIAN:{}".format(allAuthors[author_id]["floruitExact"])
-                            elif "floruitSpanStart" in allAuthors[author_id]:
-                                person["activeDate"] = "GREGORIAN:{}:{}".format(allAuthors[author_id]["floruitSpanStart"],
-                                                                                allAuthors[author_id]["floruitSpanEnd"])
-
-                            # Adding the new authors to the list of authors
-                            authors[author_id] = person
+                        else:
+                            update_author(author_id, row)
 
                 line += 1
 
     except Exception as err:
         print(err)
         raise SystemExit(0)
-
 
 # Saves the objects in to json files
 json.save(json_files[0], authors)

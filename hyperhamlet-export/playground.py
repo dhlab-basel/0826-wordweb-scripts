@@ -35,3 +35,23 @@ print(str(int(hashlib.sha256(s.encode('utf-8')).hexdigest(), 16))[:15])
 # print(hash(key))
 # print(hash(key) % (10 ** 8))
 # print(hash(key) % (10 ** 10))
+
+gustav = []
+
+bla = set(gustav)
+bla.add("3")
+gustav = list(bla)
+print(gustav)
+
+
+bla = set(gustav)
+bla.add("-3")
+gustav = list(bla)
+print(gustav)
+
+
+bla = set(gustav)
+bla.add("3")
+gustav = list(bla)
+print(gustav)
+
