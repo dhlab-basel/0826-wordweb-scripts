@@ -5,7 +5,10 @@
     "createdDate": "1300",
     "publishDate": "1550",
     "licenseDate": "1300",
-    "firstPerformanceDate": "1550"
+    "firstPerformanceDate": "1550",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_2b4823c56c35d79a": {
     "internalID": "@005201",
@@ -13,7 +16,10 @@
     "createdDate": "1300",
     "publishDate": "1400",
     "licenseDate": "1300",
-    "firstPerformanceDate": "1400"
+    "firstPerformanceDate": "1400",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_8978dcdc508955b8": {
     "internalID": "@005202",
@@ -21,7 +27,10 @@
     "createdDate": "1384",
     "publishDate": "1389",
     "licenseDate": "1384",
-    "firstPerformanceDate": "1387"
+    "firstPerformanceDate": "1387",
+    "isWrittenBy": [
+      "ww_394742d5146e6fd1"
+    ]
   },
   "ww_32438a1cef3a2781": {
     "internalID": "@005200",
@@ -29,7 +38,10 @@
     "createdDate": "1387",
     "publishDate": "1387",
     "licenseDate": "1390",
-    "firstPerformanceDate": "1390"
+    "firstPerformanceDate": "1390",
+    "isWrittenBy": [
+      "ww_830c5cd6a3a44ca4"
+    ]
   },
   "ww_b901ceb315466c3f": {
     "internalID": "@005203",
@@ -37,7 +49,10 @@
     "createdDate": "1470",
     "publishDate": "1470",
     "licenseDate": "1493",
-    "firstPerformanceDate": "1493"
+    "firstPerformanceDate": "1493",
+    "isWrittenBy": [
+      "ww_13695de2bd4043e0"
+    ]
   },
   "ww_873e4d980083d886": {
     "internalID": "@005657",
@@ -45,7 +60,10 @@
     "createdDate": "1557",
     "publishDate": "1557",
     "licenseDate": "1557",
-    "firstPerformanceDate": "1557"
+    "firstPerformanceDate": "1557",
+    "isWrittenBy": [
+      "ww_bff81a320b8342f4"
+    ]
   },
   "ww_b93e86ee915469ae": {
     "internalID": "@005660",
@@ -53,7 +71,10 @@
     "createdDate": "1567",
     "publishDate": "1567",
     "licenseDate": "1567",
-    "firstPerformanceDate": "1567"
+    "firstPerformanceDate": "1567",
+    "isWrittenBy": [
+      "ww_42eb905bc6e4053a"
+    ]
   },
   "ww_b19b575dfa6c41b9": {
     "internalID": "@005661",
@@ -61,7 +82,10 @@
     "createdDate": "1567",
     "publishDate": "1567",
     "licenseDate": "1567",
-    "firstPerformanceDate": "1567"
+    "firstPerformanceDate": "1567",
+    "isWrittenBy": [
+      "ww_17923856f3fcac86"
+    ]
   },
   "ww_d178a62199647e8b": {
     "internalID": "@005662",
@@ -69,7 +93,10 @@
     "createdDate": "1568",
     "publishDate": "1568",
     "licenseDate": "1568",
-    "firstPerformanceDate": "1568"
+    "firstPerformanceDate": "1568",
+    "isWrittenBy": [
+      "ww_2b5b422d9bd3e711"
+    ]
   },
   "ww_9256f2880070a870": {
     "internalID": "@005642",
@@ -77,7 +104,10 @@
     "createdDate": "1570",
     "publishDate": "1570",
     "licenseDate": "1570",
-    "firstPerformanceDate": "1570"
+    "firstPerformanceDate": "1570",
+    "isWrittenBy": [
+      "ww_4d46ba6d44081aae"
+    ]
   },
   "ww_ce689c96abf273eb": {
     "internalID": "@005643",
@@ -85,7 +115,11 @@
     "createdDate": "1570",
     "publishDate": "1579",
     "licenseDate": "1594",
-    "firstPerformanceDate": "1594"
+    "firstPerformanceDate": "1594",
+    "isWrittenBy": [
+      "ww_93393d7338f8a258",
+      "ww_a5663d4a9069f35d"
+    ]
   },
   "ww_9e5c2e9be2d59c76": {
     "internalID": "@005017",
@@ -93,7 +127,10 @@
     "createdDate": "1571",
     "publishDate": "1571",
     "licenseDate": "1571",
-    "firstPerformanceDate": "1571"
+    "firstPerformanceDate": "1571",
+    "isWrittenBy": [
+      "ww_20c2963f1665d325"
+    ]
   },
   "ww_62c23f4b843843ff": {
     "internalID": "@005644",
@@ -101,7 +138,10 @@
     "createdDate": "1572",
     "publishDate": "1573",
     "licenseDate": "1572",
-    "firstPerformanceDate": "1573"
+    "firstPerformanceDate": "1573",
+    "isWrittenBy": [
+      "ww_8110581a51ac8d0a"
+    ]
   },
   "ww_b908dc610f9089ff": {
     "internalID": "@005645",
@@ -109,7 +149,10 @@
     "createdDate": "1573",
     "publishDate": "1573",
     "licenseDate": "1573",
-    "firstPerformanceDate": "1573"
+    "firstPerformanceDate": "1573",
+    "isWrittenBy": [
+      "ww_0e82de631d672dcc"
+    ]
   },
   "ww_cf2c475414853bfd": {
     "internalID": "@005649",
@@ -117,7 +160,10 @@
     "createdDate": "1576",
     "publishDate": "1576",
     "licenseDate": "1576",
-    "firstPerformanceDate": "1576"
+    "firstPerformanceDate": "1576",
+    "isWrittenBy": [
+      "ww_9ffeb7ca95cd18da"
+    ]
   },
   "ww_7e5197c760c02e13": {
     "internalID": "@005650",
@@ -125,7 +171,10 @@
     "createdDate": "1578",
     "publishDate": "1578",
     "licenseDate": "1578",
-    "firstPerformanceDate": "1578"
+    "firstPerformanceDate": "1578",
+    "isWrittenBy": [
+      "ww_61ea5c613f71ac23"
+    ]
   },
   "ww_92a01c485433bee0": {
     "internalID": "@005651",
@@ -133,7 +182,10 @@
     "createdDate": "1578",
     "publishDate": "1578",
     "licenseDate": "1578",
-    "firstPerformanceDate": "1578"
+    "firstPerformanceDate": "1578",
+    "isWrittenBy": [
+      "ww_4b2c2c667ace067b"
+    ]
   },
   "ww_215bf6a3075a440e": {
     "internalID": "@000810",
@@ -141,7 +193,10 @@
     "createdDate": "1588",
     "publishDate": "1588",
     "licenseDate": "1588",
-    "firstPerformanceDate": "1588"
+    "firstPerformanceDate": "1588",
+    "isWrittenBy": [
+      "ww_45be553df97310f3"
+    ]
   },
   "ww_0351e98cd25a1522": {
     "internalID": "@000824",
@@ -149,7 +204,10 @@
     "createdDate": "1589",
     "publishDate": "1589",
     "licenseDate": "1589",
-    "firstPerformanceDate": "1589"
+    "firstPerformanceDate": "1589",
+    "isWrittenBy": [
+      "ww_fe5e9a49399dadb3"
+    ]
   },
   "ww_e9169de357d0ad33": {
     "internalID": "@000838",
@@ -157,7 +215,10 @@
     "createdDate": "1589",
     "publishDate": "1589",
     "licenseDate": "1589",
-    "firstPerformanceDate": "1589"
+    "firstPerformanceDate": "1589",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_8dce43c17b4fa85b": {
     "internalID": "@000839",
@@ -165,7 +226,10 @@
     "createdDate": "1589",
     "publishDate": "1589",
     "licenseDate": "1589",
-    "firstPerformanceDate": "1589"
+    "firstPerformanceDate": "1589",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_4e5c1c1959818562": {
     "internalID": "@000828",
@@ -173,7 +237,10 @@
     "createdDate": "1589",
     "publishDate": "1589",
     "licenseDate": "1589",
-    "firstPerformanceDate": "1589"
+    "firstPerformanceDate": "1589",
+    "isWrittenBy": [
+      "ww_45be553df97310f3"
+    ]
   },
   "ww_fe42526a34d40cd9": {
     "internalID": "@000846",
@@ -181,7 +248,10 @@
     "createdDate": "1590",
     "publishDate": "1590",
     "licenseDate": "1590",
-    "firstPerformanceDate": "1590"
+    "firstPerformanceDate": "1590",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_83f1a0a692d63180": {
     "internalID": "@005010",
@@ -189,7 +259,10 @@
     "createdDate": "1590",
     "publishDate": "1590",
     "licenseDate": "1590",
-    "firstPerformanceDate": "1590"
+    "firstPerformanceDate": "1590",
+    "isWrittenBy": [
+      "ww_1e6c36ba7876d96c"
+    ]
   },
   "ww_e44bf30c33d6ff4d": {
     "internalID": "@000902",
@@ -197,7 +270,10 @@
     "createdDate": "1591",
     "publishDate": "1591",
     "licenseDate": "1591",
-    "firstPerformanceDate": "1591"
+    "firstPerformanceDate": "1591",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_4c4554d594e35a1d": {
     "internalID": "@000888a",
@@ -205,7 +281,10 @@
     "createdDate": "1591",
     "publishDate": "1591",
     "licenseDate": "1591",
-    "firstPerformanceDate": "1591"
+    "firstPerformanceDate": "1591",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_898b0b7ff390f5fb": {
     "internalID": "@000888",
@@ -213,7 +292,10 @@
     "createdDate": "1591",
     "publishDate": "1591",
     "licenseDate": "1591",
-    "firstPerformanceDate": "1591"
+    "firstPerformanceDate": "1591",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_28e2635e5ac1776c": {
     "internalID": "@000881",
@@ -221,7 +303,10 @@
     "createdDate": "1591",
     "publishDate": "1591",
     "licenseDate": "1591",
-    "firstPerformanceDate": "1591"
+    "firstPerformanceDate": "1591",
+    "isWrittenBy": [
+      "ww_fe5e9a49399dadb3"
+    ]
   },
   "ww_0d4732e83985c063": {
     "internalID": "@000927",
@@ -229,7 +314,10 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_45be553df97310f3"
+    ]
   },
   "ww_7f5e9141d1116e89": {
     "internalID": "@000928",
@@ -237,7 +325,11 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_fe5e9a49399dadb3",
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_26138dfe777ca825": {
     "internalID": "@000916",
@@ -245,7 +337,10 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_d7a24ba647d4819e": {
     "internalID": "@003009",
@@ -253,7 +348,10 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_a70c78f7c2563c1d": {
     "internalID": "@000950",
@@ -261,7 +359,10 @@
     "createdDate": "1593",
     "publishDate": "1593",
     "licenseDate": "1593",
-    "firstPerformanceDate": "1593"
+    "firstPerformanceDate": "1593",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_4699bce2e8308213": {
     "internalID": "@000947",
@@ -269,7 +370,10 @@
     "createdDate": "1593",
     "publishDate": "1593",
     "licenseDate": "1593",
-    "firstPerformanceDate": "1593"
+    "firstPerformanceDate": "1593",
+    "isWrittenBy": [
+      "ww_45be553df97310f3"
+    ]
   },
   "ww_740f720d37d984d2": {
     "internalID": "@001593",
@@ -277,7 +381,10 @@
     "createdDate": "1593",
     "publishDate": "1593",
     "licenseDate": "1593",
-    "firstPerformanceDate": "1593"
+    "firstPerformanceDate": "1593",
+    "isWrittenBy": [
+      "ww_462a1d6d567b0377"
+    ]
   },
   "ww_a97f692ed045759b": {
     "internalID": "@000952",
@@ -285,7 +392,10 @@
     "createdDate": "1593",
     "publishDate": "1593",
     "licenseDate": "1593",
-    "firstPerformanceDate": "1593"
+    "firstPerformanceDate": "1593",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_7c6dc2f52fef22bc": {
     "internalID": "@000970",
@@ -293,7 +403,10 @@
     "createdDate": "1594",
     "publishDate": "1594",
     "licenseDate": "1594",
-    "firstPerformanceDate": "1594"
+    "firstPerformanceDate": "1594",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_5c5127969f9832c1": {
     "internalID": "@000955",
@@ -301,7 +414,10 @@
     "createdDate": "1594",
     "publishDate": "1594",
     "licenseDate": "1594",
-    "firstPerformanceDate": "1594"
+    "firstPerformanceDate": "1594",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_0d665e488e8f55e8": {
     "internalID": "@005555",
@@ -309,7 +425,10 @@
     "createdDate": "1594",
     "publishDate": "1594",
     "licenseDate": "1594",
-    "firstPerformanceDate": "1594"
+    "firstPerformanceDate": "1594",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_1e4f95f951f2169f": {
     "internalID": "@001012",
@@ -317,7 +436,10 @@
     "createdDate": "1595",
     "publishDate": "1595",
     "licenseDate": "1595",
-    "firstPerformanceDate": "1595"
+    "firstPerformanceDate": "1595",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_dfd8d9b13312aac6": {
     "internalID": "@000987",
@@ -325,7 +447,10 @@
     "createdDate": "1595",
     "publishDate": "1595",
     "licenseDate": "1595",
-    "firstPerformanceDate": "1595"
+    "firstPerformanceDate": "1595",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_c8e25bef891b5536": {
     "internalID": "@001002",
@@ -333,7 +458,10 @@
     "createdDate": "1595",
     "publishDate": "1595",
     "licenseDate": "1595",
-    "firstPerformanceDate": "1595"
+    "firstPerformanceDate": "1595",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_aa90313aec1ff25e": {
     "internalID": "@001047",
@@ -341,7 +469,10 @@
     "createdDate": "1596",
     "publishDate": "1596",
     "licenseDate": "1596",
-    "firstPerformanceDate": "1596"
+    "firstPerformanceDate": "1596",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_dbb95fa0c476e400": {
     "internalID": "@001043",
@@ -349,7 +480,10 @@
     "createdDate": "1596",
     "publishDate": "1596",
     "licenseDate": "1596",
-    "firstPerformanceDate": "1596"
+    "firstPerformanceDate": "1596",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_a8c8f9a292e6c950": {
     "internalID": "@001031",
@@ -357,7 +491,10 @@
     "createdDate": "1596",
     "publishDate": "1596",
     "licenseDate": "1596",
-    "firstPerformanceDate": "1596"
+    "firstPerformanceDate": "1596",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_56f51ee20f36f654": {
     "internalID": "@001059",
@@ -365,7 +502,10 @@
     "createdDate": "1597",
     "publishDate": "1597",
     "licenseDate": "1597",
-    "firstPerformanceDate": "1597"
+    "firstPerformanceDate": "1597",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_663bc260dc952b96": {
     "internalID": "@001083",
@@ -373,7 +513,10 @@
     "createdDate": "1597",
     "publishDate": "1597",
     "licenseDate": "1597",
-    "firstPerformanceDate": "1597"
+    "firstPerformanceDate": "1597",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_5196ea0769532431": {
     "internalID": "@001079",
@@ -381,7 +524,10 @@
     "createdDate": "1597",
     "publishDate": "1597",
     "licenseDate": "1597",
-    "firstPerformanceDate": "1597"
+    "firstPerformanceDate": "1597",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_ac906654199b4d49": {
     "internalID": "@001073",
@@ -389,7 +535,10 @@
     "createdDate": "1597",
     "publishDate": "1597",
     "licenseDate": "1597",
-    "firstPerformanceDate": "1597"
+    "firstPerformanceDate": "1597",
+    "isWrittenBy": [
+      "ww_ef163bfd29b60717"
+    ]
   },
   "ww_161558fb03c4cb80": {
     "internalID": "@006005",
@@ -397,7 +546,10 @@
     "createdDate": "1598",
     "publishDate": "1598",
     "licenseDate": "1598",
-    "firstPerformanceDate": "1598"
+    "firstPerformanceDate": "1598",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_f1c17de7eaa78bcc": {
     "internalID": "@001120",
@@ -405,7 +557,10 @@
     "createdDate": "1598",
     "publishDate": "1598",
     "licenseDate": "1598",
-    "firstPerformanceDate": "1598"
+    "firstPerformanceDate": "1598",
+    "isWrittenBy": [
+      "ww_d888f97beb7a5e1c"
+    ]
   },
   "ww_a8549c12c9507c4b": {
     "internalID": "@001148",
@@ -413,7 +568,10 @@
     "createdDate": "1598",
     "publishDate": "1598",
     "licenseDate": "1598",
-    "firstPerformanceDate": "1598"
+    "firstPerformanceDate": "1598",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_3a4eba573ee422c4": {
     "internalID": "@001151",
@@ -421,7 +579,10 @@
     "createdDate": "1598",
     "publishDate": "1598",
     "licenseDate": "1598",
-    "firstPerformanceDate": "1598"
+    "firstPerformanceDate": "1598",
+    "isWrittenBy": [
+      "ww_ce94987303de0652"
+    ]
   },
   "ww_c068d7733749f819": {
     "internalID": "@001188",
@@ -429,7 +590,10 @@
     "createdDate": "1599",
     "publishDate": "1599",
     "licenseDate": "1599",
-    "firstPerformanceDate": "1599"
+    "firstPerformanceDate": "1599",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7"
+    ]
   },
   "ww_3c135d434850a738": {
     "internalID": "@001198",
@@ -437,7 +601,10 @@
     "createdDate": "1599",
     "publishDate": "1599",
     "licenseDate": "1599",
-    "firstPerformanceDate": "1599"
+    "firstPerformanceDate": "1599",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_0c928f9e751dabbf": {
     "internalID": "@001183",
@@ -445,7 +612,10 @@
     "createdDate": "1599",
     "publishDate": "1599",
     "licenseDate": "1599",
-    "firstPerformanceDate": "1599"
+    "firstPerformanceDate": "1599",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_4a0afee9ece50ddb": {
     "internalID": "@001217",
@@ -453,7 +623,10 @@
     "createdDate": "1599",
     "publishDate": "1599",
     "licenseDate": "1599",
-    "firstPerformanceDate": "1599"
+    "firstPerformanceDate": "1599",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7"
+    ]
   },
   "ww_5cb4c35da9f3b9dd": {
     "internalID": "@001259",
@@ -461,7 +634,10 @@
     "createdDate": "1600",
     "publishDate": "1600",
     "licenseDate": "1600",
-    "firstPerformanceDate": "1600"
+    "firstPerformanceDate": "1600",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_5c3ae833a8aaf03d": {
     "internalID": "@001237",
@@ -469,7 +645,10 @@
     "createdDate": "1600",
     "publishDate": "1600",
     "licenseDate": "1600",
-    "firstPerformanceDate": "1600"
+    "firstPerformanceDate": "1600",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_897067f9ec23fa0d": {
     "internalID": "@005581",
@@ -477,7 +656,10 @@
     "createdDate": "1600",
     "publishDate": "1600",
     "licenseDate": "1600",
-    "firstPerformanceDate": "1600"
+    "firstPerformanceDate": "1600",
+    "isWrittenBy": [
+      "ww_7b88afb3c96d748f"
+    ]
   },
   "ww_e48f8eb2eda19a17": {
     "internalID": "@001580",
@@ -485,7 +667,10 @@
     "createdDate": "1600",
     "publishDate": "1600",
     "licenseDate": "1600",
-    "firstPerformanceDate": "1600"
+    "firstPerformanceDate": "1600",
+    "isWrittenBy": [
+      "ww_7e08b5fab4c10b55"
+    ]
   },
   "ww_88f07d1ccce14bdc": {
     "internalID": "@001239",
@@ -493,7 +678,10 @@
     "createdDate": "1600",
     "publishDate": "1600",
     "licenseDate": "1600",
-    "firstPerformanceDate": "1600"
+    "firstPerformanceDate": "1600",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_50b5fed06f012747": {
     "internalID": "@001297",
@@ -501,7 +689,10 @@
     "createdDate": "1601",
     "publishDate": "1601",
     "licenseDate": "1601",
-    "firstPerformanceDate": "1601"
+    "firstPerformanceDate": "1601",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_7e27a16308bd00fc": {
     "internalID": "@001304",
@@ -509,7 +700,10 @@
     "createdDate": "1601",
     "publishDate": "1601",
     "licenseDate": "1601",
-    "firstPerformanceDate": "1601"
+    "firstPerformanceDate": "1601",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7"
+    ]
   },
   "ww_e94b33ac99cc5615": {
     "internalID": "@001296",
@@ -517,7 +711,10 @@
     "createdDate": "1601",
     "publishDate": "1601",
     "licenseDate": "1601",
-    "firstPerformanceDate": "1601"
+    "firstPerformanceDate": "1601",
+    "isWrittenBy": [
+      "ww_462a1d6d567b0377"
+    ]
   },
   "ww_f6b0a0a6caabc2ad": {
     "internalID": "@001311",
@@ -525,7 +722,10 @@
     "createdDate": "1601",
     "publishDate": "1601",
     "licenseDate": "1601",
-    "firstPerformanceDate": "1601"
+    "firstPerformanceDate": "1601",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7"
+    ]
   },
   "ww_573381af1170e2c9": {
     "internalID": "@001325",
@@ -533,7 +733,10 @@
     "createdDate": "1602",
     "publishDate": "1602",
     "licenseDate": "1602",
-    "firstPerformanceDate": "1602"
+    "firstPerformanceDate": "1602",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_3b149092050ca583": {
     "internalID": "@001321",
@@ -541,7 +744,10 @@
     "createdDate": "1602",
     "publishDate": "1602",
     "licenseDate": "1602",
-    "firstPerformanceDate": "1602"
+    "firstPerformanceDate": "1602",
+    "isWrittenBy": [
+      "ww_99e6fed8aa6a961d"
+    ]
   },
   "ww_05caae816d47ff11": {
     "internalID": "@001326",
@@ -549,7 +755,10 @@
     "createdDate": "1602",
     "publishDate": "1602",
     "licenseDate": "1602",
-    "firstPerformanceDate": "1602"
+    "firstPerformanceDate": "1602",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_bb90da7c699e38e8": {
     "internalID": "@001351",
@@ -557,7 +766,10 @@
     "createdDate": "1602",
     "publishDate": "1602",
     "licenseDate": "1602",
-    "firstPerformanceDate": "1602"
+    "firstPerformanceDate": "1602",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_ae241404822b51fa": {
     "internalID": "@001369",
@@ -565,7 +777,13 @@
     "createdDate": "1602",
     "publishDate": "1602",
     "licenseDate": "1602",
-    "firstPerformanceDate": "1602"
+    "firstPerformanceDate": "1602",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7",
+      "ww_77db8cfe0448db33",
+      "ww_0f64a38bdb124397",
+      "ww_d78940f8a8554ca3"
+    ]
   },
   "ww_aff3e1e0ec71023e": {
     "internalID": "@001413",
@@ -573,7 +791,10 @@
     "createdDate": "1603",
     "publishDate": "1603",
     "licenseDate": "1603",
-    "firstPerformanceDate": "1603"
+    "firstPerformanceDate": "1603",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_b39e765e82b19cd8": {
     "internalID": "@005154",
@@ -581,7 +802,10 @@
     "createdDate": "1603",
     "publishDate": "1603",
     "licenseDate": "1603",
-    "firstPerformanceDate": "1603"
+    "firstPerformanceDate": "1603",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_9b67ca7f120fc425": {
     "internalID": "@001437",
@@ -589,7 +813,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_ad7af8eb91622840": {
     "internalID": "@001450",
@@ -597,7 +824,11 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7",
+      "ww_77db8cfe0448db33"
+    ]
   },
   "ww_f38099d24a8f82da": {
     "internalID": "@001428",
@@ -605,7 +836,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_ef163bfd29b60717"
+    ]
   },
   "ww_7ce8c060adcb001c": {
     "internalID": "@001436",
@@ -613,7 +847,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_947a2e721f016a03"
+    ]
   },
   "ww_9878ac4728900ba4": {
     "internalID": "@001439",
@@ -621,7 +858,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_ef163bfd29b60717"
+    ]
   },
   "ww_2904e9f7b34ab517": {
     "internalID": "@001433",
@@ -629,7 +869,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_c7017a2fd4b1ff37": {
     "internalID": "@001448",
@@ -637,7 +880,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_ef163bfd29b60717"
+    ]
   },
   "ww_ad87a567c9aa933d": {
     "internalID": "@001431",
@@ -645,7 +891,11 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7",
+      "ww_5f289ce079b92a82"
+    ]
   },
   "ww_a9ac3afc4eca7d49": {
     "internalID": "@001486",
@@ -653,7 +903,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_98330de6bfd83dd4": {
     "internalID": "@005177",
@@ -661,7 +914,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_f1b3b2adeeb3e86f"
+    ]
   },
   "ww_c021f9c6c9cb807d": {
     "internalID": "@001473",
@@ -669,7 +925,12 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_ef163bfd29b60717",
+      "ww_462a1d6d567b0377",
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_2f9b1b0a9d86ff6d": {
     "internalID": "@001483",
@@ -677,7 +938,11 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7",
+      "ww_77db8cfe0448db33"
+    ]
   },
   "ww_9ccfd1aca399310c": {
     "internalID": "@001479",
@@ -685,7 +950,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_5f289ce079b92a82"
+    ]
   },
   "ww_17675e9418dc9f39": {
     "internalID": "@001457",
@@ -693,7 +961,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_d0babbfaa4407bfc": {
     "internalID": "@001461",
@@ -701,7 +972,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_7c3febaec4e5aacf": {
     "internalID": "@001522",
@@ -709,7 +983,11 @@
     "createdDate": "1606",
     "publishDate": "1606",
     "licenseDate": "1606",
-    "firstPerformanceDate": "1606"
+    "firstPerformanceDate": "1606",
+    "isWrittenBy": [
+      "ww_b09eafe632cd528a",
+      "ww_0842cea2d2c52a7c"
+    ]
   },
   "ww_7114631e1c7c2d84": {
     "internalID": "@001496",
@@ -717,7 +995,10 @@
     "createdDate": "1606",
     "publishDate": "1606",
     "licenseDate": "1606",
-    "firstPerformanceDate": "1606"
+    "firstPerformanceDate": "1606",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_e47749f03b5fb074": {
     "internalID": "@001517",
@@ -725,7 +1006,10 @@
     "createdDate": "1606",
     "publishDate": "1606",
     "licenseDate": "1606",
-    "firstPerformanceDate": "1606"
+    "firstPerformanceDate": "1606",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_bdee35cd9360b47f": {
     "internalID": "@001524",
@@ -733,7 +1017,10 @@
     "createdDate": "1606",
     "publishDate": "1606",
     "licenseDate": "1606",
-    "firstPerformanceDate": "1606"
+    "firstPerformanceDate": "1606",
+    "isWrittenBy": [
+      "ww_9186050dfac2d550"
+    ]
   },
   "ww_b8eaca27cf9698df": {
     "internalID": "@001555",
@@ -741,7 +1028,11 @@
     "createdDate": "1607",
     "publishDate": "1607",
     "licenseDate": "1607",
-    "firstPerformanceDate": "1607"
+    "firstPerformanceDate": "1607",
+    "isWrittenBy": [
+      "ww_986dd93d2d794ff5",
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_6129dfa4528ff009": {
     "internalID": "@001528",
@@ -749,7 +1040,10 @@
     "createdDate": "1607",
     "publishDate": "1607",
     "licenseDate": "1607",
-    "firstPerformanceDate": "1607"
+    "firstPerformanceDate": "1607",
+    "isWrittenBy": [
+      "ww_5f289ce079b92a82"
+    ]
   },
   "ww_abbc162fcc9b8163": {
     "internalID": "@001527",
@@ -757,7 +1051,10 @@
     "createdDate": "1607",
     "publishDate": "1607",
     "licenseDate": "1607",
-    "firstPerformanceDate": "1607"
+    "firstPerformanceDate": "1607",
+    "isWrittenBy": [
+      "ww_44affb1d1f20ab03"
+    ]
   },
   "ww_8129680c1895eb54": {
     "internalID": "@001558",
@@ -765,7 +1062,10 @@
     "createdDate": "1607",
     "publishDate": "1607",
     "licenseDate": "1607",
-    "firstPerformanceDate": "1607"
+    "firstPerformanceDate": "1607",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_ad347c17c733512d": {
     "internalID": "@001559",
@@ -773,7 +1073,10 @@
     "createdDate": "1607",
     "publishDate": "1607",
     "licenseDate": "1607",
-    "firstPerformanceDate": "1607"
+    "firstPerformanceDate": "1607",
+    "isWrittenBy": [
+      "ww_947a2e721f016a03"
+    ]
   },
   "ww_1bfa3812390e9c05": {
     "internalID": "@001589",
@@ -781,7 +1084,10 @@
     "createdDate": "1608",
     "publishDate": "1608",
     "licenseDate": "1608",
-    "firstPerformanceDate": "1608"
+    "firstPerformanceDate": "1608",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_606a583dffc5ec3a": {
     "internalID": "@001575",
@@ -789,7 +1095,10 @@
     "createdDate": "1608",
     "publishDate": "1608",
     "licenseDate": "1608",
-    "firstPerformanceDate": "1608"
+    "firstPerformanceDate": "1608",
+    "isWrittenBy": [
+      "ww_ef163bfd29b60717"
+    ]
   },
   "ww_a95fc6769d25de8a": {
     "internalID": "@001576",
@@ -797,7 +1106,10 @@
     "createdDate": "1608",
     "publishDate": "1608",
     "licenseDate": "1608",
-    "firstPerformanceDate": "1608"
+    "firstPerformanceDate": "1608",
+    "isWrittenBy": [
+      "ww_ef163bfd29b60717"
+    ]
   },
   "ww_d07c9febda3841a4": {
     "internalID": "@001572",
@@ -805,7 +1117,10 @@
     "createdDate": "1608",
     "publishDate": "1608",
     "licenseDate": "1608",
-    "firstPerformanceDate": "1608"
+    "firstPerformanceDate": "1608",
+    "isWrittenBy": [
+      "ww_bf33a3a7fcb4cbaf"
+    ]
   },
   "ww_6e666f6effc63da3": {
     "internalID": "@001599",
@@ -813,7 +1128,10 @@
     "createdDate": "1609",
     "publishDate": "1609",
     "licenseDate": "1609",
-    "firstPerformanceDate": "1609"
+    "firstPerformanceDate": "1609",
+    "isWrittenBy": [
+      "ww_a9962f2e1714bfe3"
+    ]
   },
   "ww_b4db10dc37b83233": {
     "internalID": "@004160",
@@ -821,7 +1139,10 @@
     "createdDate": "1609",
     "publishDate": "1609",
     "licenseDate": "1609",
-    "firstPerformanceDate": "1609"
+    "firstPerformanceDate": "1609",
+    "isWrittenBy": [
+      "ww_5350e0c0cddb3400"
+    ]
   },
   "ww_2d0eea6c7b8afc36": {
     "internalID": "@001625",
@@ -829,7 +1150,10 @@
     "createdDate": "1610",
     "publishDate": "1610",
     "licenseDate": "1610",
-    "firstPerformanceDate": "1610"
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_15d1541c8eac2a43"
+    ]
   },
   "ww_0103dc75cd6d8928": {
     "internalID": "@001623",
@@ -837,7 +1161,10 @@
     "createdDate": "1610",
     "publishDate": "1610",
     "licenseDate": "1610",
-    "firstPerformanceDate": "1610"
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_90bb6791f9507246": {
     "internalID": "@001615",
@@ -845,7 +1172,10 @@
     "createdDate": "1610",
     "publishDate": "1610",
     "licenseDate": "1610",
-    "firstPerformanceDate": "1610"
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_a9962f2e1714bfe3"
+    ]
   },
   "ww_80345b61ea7ec44a": {
     "internalID": "@001609",
@@ -853,7 +1183,10 @@
     "createdDate": "1610",
     "publishDate": "1610",
     "licenseDate": "1610",
-    "firstPerformanceDate": "1610"
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_0842cea2d2c52a7c"
+    ]
   },
   "ww_d96c27106919cc24": {
     "internalID": "@001621",
@@ -861,7 +1194,10 @@
     "createdDate": "1610",
     "publishDate": "1610",
     "licenseDate": "1610",
-    "firstPerformanceDate": "1610"
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_462a1d6d567b0377"
+    ]
   },
   "ww_b076e5b94e4771b8": {
     "internalID": "@005122",
@@ -869,7 +1205,10 @@
     "createdDate": "1611",
     "publishDate": "1611",
     "licenseDate": "1611",
-    "firstPerformanceDate": "1611"
+    "firstPerformanceDate": "1611",
+    "isWrittenBy": [
+      "ww_2afeb85181d58ed3"
+    ]
   },
   "ww_0466ed69bf4a50be": {
     "internalID": "@001652",
@@ -877,7 +1216,10 @@
     "createdDate": "1611",
     "publishDate": "1611",
     "licenseDate": "1611",
-    "firstPerformanceDate": "1611"
+    "firstPerformanceDate": "1611",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_10467667a0394967": {
     "internalID": "@001631",
@@ -885,7 +1227,10 @@
     "createdDate": "1611",
     "publishDate": "1611",
     "licenseDate": "1611",
-    "firstPerformanceDate": "1611"
+    "firstPerformanceDate": "1611",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_5350aa8f1cdc7d01": {
     "internalID": "@001637",
@@ -893,7 +1238,10 @@
     "createdDate": "1611",
     "publishDate": "1611",
     "licenseDate": "1611",
-    "firstPerformanceDate": "1611"
+    "firstPerformanceDate": "1611",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_04bc086989bd8c81": {
     "internalID": "@001649",
@@ -901,7 +1249,10 @@
     "createdDate": "1611",
     "publishDate": "1611",
     "licenseDate": "1611",
-    "firstPerformanceDate": "1611"
+    "firstPerformanceDate": "1611",
+    "isWrittenBy": [
+      "ww_a4e45e7b381d6e89"
+    ]
   },
   "ww_51a308c9b1ba699d": {
     "internalID": "@001689",
@@ -909,7 +1260,10 @@
     "createdDate": "1612",
     "publishDate": "1612",
     "licenseDate": "1612",
-    "firstPerformanceDate": "1612"
+    "firstPerformanceDate": "1612",
+    "isWrittenBy": [
+      "ww_77db8cfe0448db33"
+    ]
   },
   "ww_dbd5db889d39fd5c": {
     "internalID": "@001674",
@@ -917,7 +1271,11 @@
     "createdDate": "1612",
     "publishDate": "1612",
     "licenseDate": "1612",
-    "firstPerformanceDate": "1612"
+    "firstPerformanceDate": "1612",
+    "isWrittenBy": [
+      "ww_0842cea2d2c52a7c",
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_daecaee38c79925b": {
     "internalID": "@001726",
@@ -925,7 +1283,10 @@
     "createdDate": "1612",
     "publishDate": "1612",
     "licenseDate": "1612",
-    "firstPerformanceDate": "1612"
+    "firstPerformanceDate": "1612",
+    "isWrittenBy": [
+      "ww_77db8cfe0448db33"
+    ]
   },
   "ww_b67be63a94c57f53": {
     "internalID": "@015124",
@@ -933,7 +1294,10 @@
     "createdDate": "1612",
     "publishDate": "1612",
     "licenseDate": "1612",
-    "firstPerformanceDate": "1612"
+    "firstPerformanceDate": "1612",
+    "isWrittenBy": [
+      "ww_7c9389d75703bf3a"
+    ]
   },
   "ww_384598056518c080": {
     "internalID": "@001724",
@@ -941,7 +1305,11 @@
     "createdDate": "1613",
     "publishDate": "1613",
     "licenseDate": "1613",
-    "firstPerformanceDate": "1613"
+    "firstPerformanceDate": "1613",
+    "isWrittenBy": [
+      "ww_0842cea2d2c52a7c",
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_e1098baffd80a53c": {
     "internalID": "@004163",
@@ -949,7 +1317,10 @@
     "createdDate": "1614",
     "publishDate": "1614",
     "licenseDate": "1614",
-    "firstPerformanceDate": "1614"
+    "firstPerformanceDate": "1614",
+    "isWrittenBy": [
+      "ww_31fd4cfea1a56eb2"
+    ]
   },
   "ww_bd4833a9064eaee2": {
     "internalID": "@001805",
@@ -957,7 +1328,10 @@
     "createdDate": "1616",
     "publishDate": "1616",
     "licenseDate": "1616",
-    "firstPerformanceDate": "1616"
+    "firstPerformanceDate": "1616",
+    "isWrittenBy": [
+      "ww_5f289ce079b92a82"
+    ]
   },
   "ww_7da5186d0ba71c05": {
     "internalID": "@001798",
@@ -965,7 +1339,11 @@
     "createdDate": "1616",
     "publishDate": "1616",
     "licenseDate": "1616",
-    "firstPerformanceDate": "1616"
+    "firstPerformanceDate": "1616",
+    "isWrittenBy": [
+      "ww_99e6fed8aa6a961d",
+      "ww_5f289ce079b92a82"
+    ]
   },
   "ww_1e8eac0ecb7f6a95": {
     "internalID": "@001875",
@@ -973,7 +1351,10 @@
     "createdDate": "1618",
     "publishDate": "1618",
     "licenseDate": "1618",
-    "firstPerformanceDate": "1618"
+    "firstPerformanceDate": "1618",
+    "isWrittenBy": [
+      "ww_77db8cfe0448db33"
+    ]
   },
   "ww_6318ed97b9193504": {
     "internalID": "@001883",
@@ -981,7 +1362,11 @@
     "createdDate": "1619",
     "publishDate": "1619",
     "licenseDate": "1619",
-    "firstPerformanceDate": "1619"
+    "firstPerformanceDate": "1619",
+    "isWrittenBy": [
+      "ww_a9962f2e1714bfe3",
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_21998f3517e8979a": {
     "internalID": "@005557",
@@ -989,7 +1374,11 @@
     "createdDate": "1619",
     "publishDate": "1619",
     "licenseDate": "1619",
-    "firstPerformanceDate": "1619"
+    "firstPerformanceDate": "1619",
+    "isWrittenBy": [
+      "ww_0842cea2d2c52a7c",
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_e7c84f709b583d5f": {
     "internalID": "@001957",
@@ -997,7 +1386,11 @@
     "createdDate": "1620",
     "publishDate": "1620",
     "licenseDate": "1620",
-    "firstPerformanceDate": "1620"
+    "firstPerformanceDate": "1620",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7",
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_518300e10a2ce48a": {
     "internalID": "@001950",
@@ -1005,7 +1398,10 @@
     "createdDate": "1620",
     "publishDate": "1620",
     "licenseDate": "1620",
-    "firstPerformanceDate": "1620"
+    "firstPerformanceDate": "1620",
+    "isWrittenBy": [
+      "ww_5f289ce079b92a82"
+    ]
   },
   "ww_a30bbb1b8d836e24": {
     "internalID": "@003161",
@@ -1013,7 +1409,10 @@
     "createdDate": "1621",
     "publishDate": "1621",
     "licenseDate": "1621",
-    "firstPerformanceDate": "1621"
+    "firstPerformanceDate": "1621",
+    "isWrittenBy": [
+      "ww_2d4add490de5218d"
+    ]
   },
   "ww_ba414031d5e5f20b": {
     "internalID": "@002013",
@@ -1021,7 +1420,11 @@
     "createdDate": "1622",
     "publishDate": "1622",
     "licenseDate": "1622",
-    "firstPerformanceDate": "1622"
+    "firstPerformanceDate": "1622",
+    "isWrittenBy": [
+      "ww_0842cea2d2c52a7c",
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_791d02b9b4f75414": {
     "internalID": "@002017",
@@ -1029,7 +1432,10 @@
     "createdDate": "1622",
     "publishDate": "1622",
     "licenseDate": "1622",
-    "firstPerformanceDate": "1622"
+    "firstPerformanceDate": "1622",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7"
+    ]
   },
   "ww_da6c4be720d849ae": {
     "internalID": "@002074",
@@ -1037,7 +1443,10 @@
     "createdDate": "1623",
     "publishDate": "1623",
     "licenseDate": "1623",
-    "firstPerformanceDate": "1623"
+    "firstPerformanceDate": "1623",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_ead2e8abb60ac530": {
     "internalID": "@002144",
@@ -1045,7 +1454,10 @@
     "createdDate": "1624",
     "publishDate": "1624",
     "licenseDate": "1624",
-    "firstPerformanceDate": "1624"
+    "firstPerformanceDate": "1624",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_a3664b59bd3c46ae": {
     "internalID": "@002139",
@@ -1053,7 +1465,10 @@
     "createdDate": "1624",
     "publishDate": "1624",
     "licenseDate": "1624",
-    "firstPerformanceDate": "1624"
+    "firstPerformanceDate": "1624",
+    "isWrittenBy": [
+      "ww_6a8b2b14d4099ec9"
+    ]
   },
   "ww_f619b6b1cf5ba6c8": {
     "internalID": "@002186",
@@ -1061,7 +1476,11 @@
     "createdDate": "1626",
     "publishDate": "1626",
     "licenseDate": "1626",
-    "firstPerformanceDate": "1626"
+    "firstPerformanceDate": "1626",
+    "isWrittenBy": [
+      "ww_77db8cfe0448db33",
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_23f1e9365cf10239": {
     "internalID": "@002179",
@@ -1069,7 +1488,10 @@
     "createdDate": "1626",
     "publishDate": "1626",
     "licenseDate": "1626",
-    "firstPerformanceDate": "1626"
+    "firstPerformanceDate": "1626",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   },
   "ww_c0565d6dc5476bc1": {
     "internalID": "@002185",
@@ -1077,7 +1499,10 @@
     "createdDate": "1626",
     "publishDate": "1626",
     "licenseDate": "1626",
-    "firstPerformanceDate": "1626"
+    "firstPerformanceDate": "1626",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_82dc5dad51a3f21d": {
     "internalID": "@002190",
@@ -1085,7 +1510,10 @@
     "createdDate": "1626",
     "publishDate": "1626",
     "licenseDate": "1626",
-    "firstPerformanceDate": "1626"
+    "firstPerformanceDate": "1626",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_90e51c7d8dde43b0": {
     "internalID": "@002172",
@@ -1093,7 +1521,10 @@
     "createdDate": "1626",
     "publishDate": "1626",
     "licenseDate": "1626",
-    "firstPerformanceDate": "1626"
+    "firstPerformanceDate": "1626",
+    "isWrittenBy": [
+      "ww_0842cea2d2c52a7c"
+    ]
   },
   "ww_0a181b40f9edb85e": {
     "internalID": "@002202",
@@ -1101,7 +1532,10 @@
     "createdDate": "1627",
     "publishDate": "1627",
     "licenseDate": "1627",
-    "firstPerformanceDate": "1627"
+    "firstPerformanceDate": "1627",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   },
   "ww_4f3a6c946a2fcd1e": {
     "internalID": "@002214",
@@ -1109,7 +1543,10 @@
     "createdDate": "1627",
     "publishDate": "1627",
     "licenseDate": "1636",
-    "firstPerformanceDate": "1636"
+    "firstPerformanceDate": "1636",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_ac3676ebd4fd4919": {
     "internalID": "@002260",
@@ -1117,7 +1554,10 @@
     "createdDate": "1628",
     "publishDate": "1628",
     "licenseDate": "1628",
-    "firstPerformanceDate": "1628"
+    "firstPerformanceDate": "1628",
+    "isWrittenBy": [
+      "ww_53c2f0bb43b1f960"
+    ]
   },
   "ww_fde3a71f41183980": {
     "internalID": "@002282",
@@ -1125,7 +1565,10 @@
     "createdDate": "1629",
     "publishDate": "1629",
     "licenseDate": "1629",
-    "firstPerformanceDate": "1629"
+    "firstPerformanceDate": "1629",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   },
   "ww_929a719a55a63af2": {
     "internalID": "@002291",
@@ -1133,7 +1576,10 @@
     "createdDate": "1630",
     "publishDate": "1630",
     "licenseDate": "1630",
-    "firstPerformanceDate": "1630"
+    "firstPerformanceDate": "1630",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_800919bc37e2d114": {
     "internalID": "@002320",
@@ -1141,7 +1587,10 @@
     "createdDate": "1630",
     "publishDate": "1630",
     "licenseDate": "1630",
-    "firstPerformanceDate": "1630"
+    "firstPerformanceDate": "1630",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_f25717752145938c": {
     "internalID": "@002338",
@@ -1149,7 +1598,10 @@
     "createdDate": "1631",
     "publishDate": "1631",
     "licenseDate": "1631",
-    "firstPerformanceDate": "1631"
+    "firstPerformanceDate": "1631",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_485a54b3b41dff9b": {
     "internalID": "@002333",
@@ -1157,7 +1609,10 @@
     "createdDate": "1631",
     "publishDate": "1631",
     "licenseDate": "1631",
-    "firstPerformanceDate": "1631"
+    "firstPerformanceDate": "1631",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_cf1407d337262e2b": {
     "internalID": "@002365",
@@ -1165,7 +1620,10 @@
     "createdDate": "1632",
     "publishDate": "1632",
     "licenseDate": "1632",
-    "firstPerformanceDate": "1632"
+    "firstPerformanceDate": "1632",
+    "isWrittenBy": [
+      "ww_cb8a239b578d50aa"
+    ]
   },
   "ww_0b8688f5e75237a9": {
     "internalID": "@006022",
@@ -1173,7 +1631,10 @@
     "createdDate": "1633",
     "publishDate": "1633",
     "licenseDate": "1633",
-    "firstPerformanceDate": "1633"
+    "firstPerformanceDate": "1633",
+    "isWrittenBy": [
+      "ww_a7bda6e4ea9d6266"
+    ]
   },
   "ww_c8ca0bdc1413defb": {
     "internalID": "@002412",
@@ -1181,7 +1642,10 @@
     "createdDate": "1633",
     "publishDate": "1633",
     "licenseDate": "1633",
-    "firstPerformanceDate": "1633"
+    "firstPerformanceDate": "1633",
+    "isWrittenBy": [
+      "ww_e93816f9193146bf"
+    ]
   },
   "ww_e04a109f879d52d9": {
     "internalID": "@002410",
@@ -1189,7 +1653,10 @@
     "createdDate": "1633",
     "publishDate": "1633",
     "licenseDate": "1633",
-    "firstPerformanceDate": "1633"
+    "firstPerformanceDate": "1633",
+    "isWrittenBy": [
+      "ww_ec99ffba67a7fb5e"
+    ]
   },
   "ww_3099d6a308853605": {
     "internalID": "@005002",
@@ -1197,7 +1664,10 @@
     "createdDate": "1633",
     "publishDate": "1633",
     "licenseDate": "1633",
-    "firstPerformanceDate": "1633"
+    "firstPerformanceDate": "1633",
+    "isWrittenBy": [
+      "ww_6caa1b04d6f95548"
+    ]
   },
   "ww_f1d46e7ae80368bd": {
     "internalID": "@002417",
@@ -1205,7 +1675,10 @@
     "createdDate": "1633",
     "publishDate": "1633",
     "licenseDate": "1633",
-    "firstPerformanceDate": "1633"
+    "firstPerformanceDate": "1633",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_d35dc820f15d3e44": {
     "internalID": "@005107",
@@ -1213,7 +1686,11 @@
     "createdDate": "1633",
     "publishDate": "1633",
     "licenseDate": "1633",
-    "firstPerformanceDate": "1633"
+    "firstPerformanceDate": "1633",
+    "isWrittenBy": [
+      "ww_e92e9dc9d65ade56",
+      "ww_87547eb3eadc52d8"
+    ]
   },
   "ww_d5382e88160d5533": {
     "internalID": "@002453",
@@ -1221,7 +1698,10 @@
     "createdDate": "1634",
     "publishDate": "1634",
     "licenseDate": "1634",
-    "firstPerformanceDate": "1634"
+    "firstPerformanceDate": "1634",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   },
   "ww_523948c4964405e9": {
     "internalID": "@002437",
@@ -1229,7 +1709,10 @@
     "createdDate": "1634",
     "publishDate": "1634",
     "licenseDate": "1634",
-    "firstPerformanceDate": "1634"
+    "firstPerformanceDate": "1634",
+    "isWrittenBy": [
+      "ww_ec99ffba67a7fb5e"
+    ]
   },
   "ww_e798efc53c0d661b": {
     "internalID": "@002519",
@@ -1237,7 +1720,10 @@
     "createdDate": "1635",
     "publishDate": "1635",
     "licenseDate": "1635",
-    "firstPerformanceDate": "1635"
+    "firstPerformanceDate": "1635",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   },
   "ww_f820be86ce1c69cf": {
     "internalID": "@002515",
@@ -1245,7 +1731,10 @@
     "createdDate": "1635",
     "publishDate": "1635",
     "licenseDate": "1635",
-    "firstPerformanceDate": "1635"
+    "firstPerformanceDate": "1635",
+    "isWrittenBy": [
+      "ww_ec99ffba67a7fb5e"
+    ]
   },
   "ww_f600369619d836c6": {
     "internalID": "@005056",
@@ -1253,7 +1742,10 @@
     "createdDate": "1635",
     "publishDate": "1635",
     "licenseDate": "1635",
-    "firstPerformanceDate": "1635"
+    "firstPerformanceDate": "1635",
+    "isWrittenBy": [
+      "ww_edc1093f53e0bc8a"
+    ]
   },
   "ww_cd047776ecc0f21c": {
     "internalID": "@002472",
@@ -1261,7 +1753,10 @@
     "createdDate": "1635",
     "publishDate": "1635",
     "licenseDate": "1635",
-    "firstPerformanceDate": "1635"
+    "firstPerformanceDate": "1635",
+    "isWrittenBy": [
+      "ww_987218055feb717b"
+    ]
   },
   "ww_d67aa0d57e6ca1d5": {
     "internalID": "@005673",
@@ -1269,7 +1764,10 @@
     "createdDate": "1638",
     "publishDate": "1638",
     "licenseDate": "1638",
-    "firstPerformanceDate": "1638"
+    "firstPerformanceDate": "1638",
+    "isWrittenBy": [
+      "ww_33fc0870e5a0fbcf"
+    ]
   },
   "ww_fca85ff87c98f237": {
     "internalID": "@002634",
@@ -1277,7 +1775,10 @@
     "createdDate": "1638",
     "publishDate": "1638",
     "licenseDate": "1638",
-    "firstPerformanceDate": "1638"
+    "firstPerformanceDate": "1638",
+    "isWrittenBy": [
+      "ww_296a7b9f6d21cde7"
+    ]
   },
   "ww_642b2e2b3af470fd": {
     "internalID": "@002666",
@@ -1285,7 +1786,10 @@
     "createdDate": "1638",
     "publishDate": "1638",
     "licenseDate": "1638",
-    "firstPerformanceDate": "1638"
+    "firstPerformanceDate": "1638",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   },
   "ww_c354c8aa7bc6d63e": {
     "internalID": "@002592",
@@ -1293,7 +1797,10 @@
     "createdDate": "1638",
     "publishDate": "1638",
     "licenseDate": "1638",
-    "firstPerformanceDate": "1638"
+    "firstPerformanceDate": "1638",
+    "isWrittenBy": [
+      "ww_97f4fd8fb27e7a77"
+    ]
   },
   "ww_3f5747bce6d798fe": {
     "internalID": "@002824",
@@ -1301,7 +1808,11 @@
     "createdDate": "1642",
     "publishDate": "1642",
     "licenseDate": "1642",
-    "firstPerformanceDate": "1642"
+    "firstPerformanceDate": "1642",
+    "isWrittenBy": [
+      "ww_6f4a80592c6c793c",
+      "ww_ef163bfd29b60717"
+    ]
   },
   "ww_faab680e79f823c3": {
     "internalID": "@005215",
@@ -1309,7 +1820,10 @@
     "createdDate": "1650",
     "publishDate": "1650",
     "licenseDate": "1650",
-    "firstPerformanceDate": "1650"
+    "firstPerformanceDate": "1650",
+    "isWrittenBy": [
+      "ww_da5a5f8bc94ad571"
+    ]
   },
   "ww_4ec990bf4885faf0": {
     "internalID": "@005216",
@@ -1317,7 +1831,10 @@
     "createdDate": "1650",
     "publishDate": "1650",
     "licenseDate": "1649",
-    "firstPerformanceDate": "1650"
+    "firstPerformanceDate": "1650",
+    "isWrittenBy": [
+      "ww_da5a5f8bc94ad571"
+    ]
   },
   "ww_302fb9237874258f": {
     "internalID": "@005217",
@@ -1325,7 +1842,10 @@
     "createdDate": "1652",
     "publishDate": "1652",
     "licenseDate": "1652",
-    "firstPerformanceDate": "1652"
+    "firstPerformanceDate": "1652",
+    "isWrittenBy": [
+      "ww_cce3785f9f0b7c67"
+    ]
   },
   "ww_2774c07140c40620": {
     "internalID": "@005228",
@@ -1333,7 +1853,10 @@
     "createdDate": "1655",
     "publishDate": "1655",
     "licenseDate": "1655",
-    "firstPerformanceDate": "1655"
+    "firstPerformanceDate": "1655",
+    "isWrittenBy": [
+      "ww_56af0f484de673fe"
+    ]
   },
   "ww_1d1e4a88851e1bfc": {
     "internalID": "@005162",
@@ -1341,7 +1864,10 @@
     "createdDate": "1659",
     "publishDate": "1659",
     "licenseDate": "1659",
-    "firstPerformanceDate": "1659"
+    "firstPerformanceDate": "1659",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_342226daaf5794f5": {
     "internalID": "@005209",
@@ -1349,7 +1875,10 @@
     "createdDate": "1663",
     "publishDate": "1663",
     "licenseDate": "1663",
-    "firstPerformanceDate": "1663"
+    "firstPerformanceDate": "1663",
+    "isWrittenBy": [
+      "ww_023482909a532caf"
+    ]
   },
   "ww_11d14cc3d47896d6": {
     "internalID": "@005204",
@@ -1357,7 +1886,10 @@
     "createdDate": "1663",
     "publishDate": "1663",
     "licenseDate": "1669",
-    "firstPerformanceDate": "1669"
+    "firstPerformanceDate": "1669",
+    "isWrittenBy": [
+      "ww_b4c5b090a822a138"
+    ]
   },
   "ww_462d195bdc02dbef": {
     "internalID": "@005222",
@@ -1365,7 +1897,10 @@
     "createdDate": "1664",
     "publishDate": "1664",
     "licenseDate": "1674",
-    "firstPerformanceDate": "1674"
+    "firstPerformanceDate": "1674",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   },
   "ww_5f491318bcd9d326": {
     "internalID": "@005208",
@@ -1373,7 +1908,10 @@
     "createdDate": "1666",
     "publishDate": "1666",
     "licenseDate": "1667",
-    "firstPerformanceDate": "1667"
+    "firstPerformanceDate": "1667",
+    "isWrittenBy": [
+      "ww_fb786ed957e3108e"
+    ]
   },
   "ww_ec6a0a5d5423cc4d": {
     "internalID": "@003004",
@@ -1381,7 +1919,10 @@
     "createdDate": "1667",
     "publishDate": "1667",
     "licenseDate": "1667",
-    "firstPerformanceDate": "1667"
+    "firstPerformanceDate": "1667",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   },
   "ww_f63838fac7b9bec6": {
     "internalID": "@005218",
@@ -1389,7 +1930,10 @@
     "createdDate": "1669",
     "publishDate": "1669",
     "licenseDate": "1669",
-    "firstPerformanceDate": "1669"
+    "firstPerformanceDate": "1669",
+    "isWrittenBy": [
+      "ww_0449cf1b66c3867d"
+    ]
   },
   "ww_a74a445d23ff1ff2": {
     "internalID": "@005219",
@@ -1397,7 +1941,10 @@
     "createdDate": "1671",
     "publishDate": "1671",
     "licenseDate": "1671",
-    "firstPerformanceDate": "1671"
+    "firstPerformanceDate": "1671",
+    "isWrittenBy": [
+      "ww_1013ee760af86e0f"
+    ]
   },
   "ww_ab9b03580f4140d8": {
     "internalID": "@005210",
@@ -1405,7 +1952,10 @@
     "createdDate": "1671",
     "publishDate": "1671",
     "licenseDate": "1671",
-    "firstPerformanceDate": "1671"
+    "firstPerformanceDate": "1671",
+    "isWrittenBy": [
+      "ww_1013ee760af86e0f"
+    ]
   },
   "ww_2302e398030e9ddf": {
     "internalID": "@005604",
@@ -1413,7 +1963,10 @@
     "createdDate": "1672",
     "publishDate": "1672",
     "licenseDate": "1672",
-    "firstPerformanceDate": "1672"
+    "firstPerformanceDate": "1672",
+    "isWrittenBy": [
+      "ww_0fdd672af19515af"
+    ]
   },
   "ww_1ea0156cf9be958c": {
     "internalID": "@005211",
@@ -1421,7 +1974,10 @@
     "createdDate": "1672",
     "publishDate": "1672",
     "licenseDate": "1672",
-    "firstPerformanceDate": "1672"
+    "firstPerformanceDate": "1672",
+    "isWrittenBy": [
+      "ww_99b03817dc566412"
+    ]
   },
   "ww_fa206996550e1252": {
     "internalID": "@005212",
@@ -1429,7 +1985,10 @@
     "createdDate": "1674",
     "publishDate": "1674",
     "licenseDate": "1674",
-    "firstPerformanceDate": "1674"
+    "firstPerformanceDate": "1674",
+    "isWrittenBy": [
+      "ww_9830d46f027273df"
+    ]
   },
   "ww_34f6680a5ed3328f": {
     "internalID": "@005198",
@@ -1437,7 +1996,10 @@
     "createdDate": "1677",
     "publishDate": "1677",
     "licenseDate": "1677",
-    "firstPerformanceDate": "1677"
+    "firstPerformanceDate": "1677",
+    "isWrittenBy": [
+      "ww_0fa63d0ba5908460"
+    ]
   },
   "ww_0b80290e20216583": {
     "internalID": "@005149",
@@ -1445,7 +2007,10 @@
     "createdDate": "1678",
     "publishDate": "1678",
     "licenseDate": "1678",
-    "firstPerformanceDate": "1678"
+    "firstPerformanceDate": "1678",
+    "isWrittenBy": [
+      "ww_2fbef537c50f1433"
+    ]
   },
   "ww_5acd80c1e58166ea": {
     "internalID": "@005220",
@@ -1453,7 +2018,10 @@
     "createdDate": "1678",
     "publishDate": "1678",
     "licenseDate": "1678",
-    "firstPerformanceDate": "1678"
+    "firstPerformanceDate": "1678",
+    "isWrittenBy": [
+      "ww_1013ee760af86e0f"
+    ]
   },
   "ww_da24e779a482efd0": {
     "internalID": "@005205",
@@ -1461,7 +2029,11 @@
     "createdDate": "1678",
     "publishDate": "1678",
     "licenseDate": "1678",
-    "firstPerformanceDate": "1678"
+    "firstPerformanceDate": "1678",
+    "isWrittenBy": [
+      "ww_b4c5b090a822a138",
+      "ww_12f7d2e19bfcb92f"
+    ]
   },
   "ww_6dbd696fbcd9005d": {
     "internalID": "@005207",
@@ -1469,7 +2041,10 @@
     "createdDate": "1678",
     "publishDate": "1678",
     "licenseDate": "1678",
-    "firstPerformanceDate": "1678"
+    "firstPerformanceDate": "1678",
+    "isWrittenBy": [
+      "ww_b4c5b090a822a138"
+    ]
   },
   "ww_e95e10472e122744": {
     "internalID": "@005221",
@@ -1477,7 +2052,10 @@
     "createdDate": "1681",
     "publishDate": "1682",
     "licenseDate": "1682",
-    "firstPerformanceDate": "1682"
+    "firstPerformanceDate": "1682",
+    "isWrittenBy": [
+      "ww_1f1f38544516a902"
+    ]
   },
   "ww_fafacaceace47d73": {
     "internalID": "@005556",
@@ -1485,7 +2063,11 @@
     "createdDate": "1682",
     "publishDate": "1682",
     "licenseDate": "1682",
-    "firstPerformanceDate": "1682"
+    "firstPerformanceDate": "1682",
+    "isWrittenBy": [
+      "ww_b4c5b090a822a138",
+      "ww_12f7d2e19bfcb92f"
+    ]
   },
   "ww_d3d306a3e22d0da0": {
     "internalID": "@005163",
@@ -1493,7 +2075,10 @@
     "createdDate": "1682",
     "publishDate": "1682",
     "licenseDate": "1682",
-    "firstPerformanceDate": "1682"
+    "firstPerformanceDate": "1682",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_9e4880a3607bfe49": {
     "internalID": "@005182",
@@ -1501,7 +2086,10 @@
     "createdDate": "1682",
     "publishDate": "1682",
     "licenseDate": "1682",
-    "firstPerformanceDate": "1682"
+    "firstPerformanceDate": "1682",
+    "isWrittenBy": [
+      "ww_1013ee760af86e0f"
+    ]
   },
   "ww_822f6044491b63e7": {
     "internalID": "@005153",
@@ -1509,7 +2097,10 @@
     "createdDate": "1684",
     "publishDate": "1684",
     "licenseDate": "1684",
-    "firstPerformanceDate": "1684"
+    "firstPerformanceDate": "1684",
+    "isWrittenBy": [
+      "ww_1f1f38544516a902"
+    ]
   },
   "ww_c7a44da93c43593a": {
     "internalID": "@005139",
@@ -1517,7 +2108,10 @@
     "createdDate": "1685",
     "publishDate": "1695",
     "licenseDate": "1685",
-    "firstPerformanceDate": "1685"
+    "firstPerformanceDate": "1685",
+    "isWrittenBy": [
+      "ww_aea6ce6ca036608b"
+    ]
   },
   "ww_522f59ae73a17dc8": {
     "internalID": "@005213",
@@ -1525,7 +2119,10 @@
     "createdDate": "1687",
     "publishDate": "1687",
     "licenseDate": "1714",
-    "firstPerformanceDate": "1714"
+    "firstPerformanceDate": "1714",
+    "isWrittenBy": [
+      "ww_ae2d914875625509"
+    ]
   },
   "ww_f4067d3fc89b0b63": {
     "internalID": "@005214",
@@ -1533,7 +2130,10 @@
     "createdDate": "1687",
     "publishDate": "1687",
     "licenseDate": "1687",
-    "firstPerformanceDate": "1687"
+    "firstPerformanceDate": "1687",
+    "isWrittenBy": [
+      "ww_1013ee760af86e0f"
+    ]
   },
   "ww_284d2177eb64e32c": {
     "internalID": "@005647",
@@ -1541,7 +2141,10 @@
     "createdDate": "1574",
     "publishDate": "1574",
     "licenseDate": "1574",
-    "firstPerformanceDate": "1602"
+    "firstPerformanceDate": "1602",
+    "isWrittenBy": [
+      "ww_7aab59631f22d17e"
+    ]
   },
   "ww_4e659f2729d3f407": {
     "internalID": "@005620",
@@ -1549,7 +2152,10 @@
     "createdDate": "1580",
     "publishDate": "1580",
     "licenseDate": "1580",
-    "firstPerformanceDate": "1580"
+    "firstPerformanceDate": "1580",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_8ef2513a8af6874b": {
     "internalID": "@000000",
@@ -1557,7 +2163,10 @@
     "createdDate": "1587",
     "publishDate": "1587",
     "licenseDate": "1587",
-    "firstPerformanceDate": "1587"
+    "firstPerformanceDate": "1587",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_c5484deb94302464": {
     "internalID": "@000814",
@@ -1565,7 +2174,10 @@
     "createdDate": "1588",
     "publishDate": "1588",
     "licenseDate": "1588",
-    "firstPerformanceDate": "1588"
+    "firstPerformanceDate": "1588",
+    "isWrittenBy": [
+      "ww_1d8680c7347813a9"
+    ]
   },
   "ww_3970bc7a75eddc11": {
     "internalID": "@000941",
@@ -1573,7 +2185,10 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_f53f46e467a3c815"
+    ]
   },
   "ww_0c07954b270e348c": {
     "internalID": "@005265",
@@ -1581,7 +2196,10 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_2e81405af6457448"
+    ]
   },
   "ww_5caf2a980352ed3f": {
     "internalID": "@005055",
@@ -1589,7 +2207,10 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_f53f46e467a3c815"
+    ]
   },
   "ww_f535cbebb5943d78": {
     "internalID": "@000919",
@@ -1597,7 +2218,10 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_0266d9e8398c6ca3": {
     "internalID": "@005606",
@@ -1605,7 +2229,10 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_ce2fb5bd491a4d2e"
+    ]
   },
   "ww_8a65b181cea50159": {
     "internalID": "@005565",
@@ -1613,7 +2240,10 @@
     "createdDate": "1593",
     "publishDate": "1593",
     "licenseDate": "1593",
-    "firstPerformanceDate": "1593"
+    "firstPerformanceDate": "1593",
+    "isWrittenBy": [
+      "ww_2e80ef314f6d0fdc"
+    ]
   },
   "ww_6f0ade1dfe5ee541": {
     "internalID": "@003007",
@@ -1621,7 +2251,10 @@
     "createdDate": "1593",
     "publishDate": "1593",
     "licenseDate": "1593",
-    "firstPerformanceDate": "1593"
+    "firstPerformanceDate": "1593",
+    "isWrittenBy": [
+      "ww_45be553df97310f3"
+    ]
   },
   "ww_2eb8f65559e88209": {
     "internalID": "@003008",
@@ -1629,7 +2262,11 @@
     "createdDate": "1593",
     "publishDate": "1593",
     "licenseDate": "1593",
-    "firstPerformanceDate": "1593"
+    "firstPerformanceDate": "1593",
+    "isWrittenBy": [
+      "ww_45be553df97310f3",
+      "ww_ef163bfd29b60717"
+    ]
   },
   "ww_fe0b28179c821ce7": {
     "internalID": "@005590",
@@ -1637,7 +2274,10 @@
     "createdDate": "1594",
     "publishDate": "1594",
     "licenseDate": "1594",
-    "firstPerformanceDate": "1594"
+    "firstPerformanceDate": "1594",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_bafc06a3c141cb25": {
     "internalID": "@005591",
@@ -1645,7 +2285,10 @@
     "createdDate": "1594",
     "publishDate": "1594",
     "licenseDate": "1594",
-    "firstPerformanceDate": "1594"
+    "firstPerformanceDate": "1594",
+    "isWrittenBy": [
+      "ww_d4ab524c831a2992"
+    ]
   },
   "ww_36210f298b9bbc6f": {
     "internalID": "@005165",
@@ -1653,7 +2296,10 @@
     "createdDate": "1596",
     "publishDate": "1596",
     "licenseDate": "1596",
-    "firstPerformanceDate": "1596"
+    "firstPerformanceDate": "1596",
+    "isWrittenBy": [
+      "ww_f53f46e467a3c815"
+    ]
   },
   "ww_8cd00151071e8080": {
     "internalID": "@005580",
@@ -1661,7 +2307,10 @@
     "createdDate": "1596",
     "publishDate": "1596",
     "licenseDate": "1596",
-    "firstPerformanceDate": "1596"
+    "firstPerformanceDate": "1596",
+    "isWrittenBy": [
+      "ww_31ef7df7935b492f"
+    ]
   },
   "ww_8bc9ee57cff30396": {
     "internalID": "@005706",
@@ -1669,7 +2318,10 @@
     "createdDate": "1598",
     "publishDate": "1598",
     "licenseDate": "1598",
-    "firstPerformanceDate": "1598"
+    "firstPerformanceDate": "1598",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_a466e78302462627": {
     "internalID": "@001218",
@@ -1677,7 +2329,10 @@
     "createdDate": "1599",
     "publishDate": "1599",
     "licenseDate": "1599",
-    "firstPerformanceDate": "1599"
+    "firstPerformanceDate": "1599",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_0d47d04341ff3e0d": {
     "internalID": "@001220",
@@ -1685,7 +2340,10 @@
     "createdDate": "1599",
     "publishDate": "1599",
     "licenseDate": "1599",
-    "firstPerformanceDate": "1599"
+    "firstPerformanceDate": "1599",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_436db7d05fb0f0f6": {
     "internalID": "@001271",
@@ -1693,7 +2351,10 @@
     "createdDate": "1600",
     "publishDate": "1600",
     "licenseDate": "1600",
-    "firstPerformanceDate": "1600"
+    "firstPerformanceDate": "1600",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_5daf3834744322ae": {
     "internalID": "@001269",
@@ -1701,7 +2362,10 @@
     "createdDate": "1600",
     "publishDate": "1600",
     "licenseDate": "1600",
-    "firstPerformanceDate": "1600"
+    "firstPerformanceDate": "1600",
+    "isWrittenBy": [
+      "ww_462a1d6d567b0377"
+    ]
   },
   "ww_a1039af008502e5f": {
     "internalID": "@000783a",
@@ -1709,7 +2373,10 @@
     "createdDate": "1602",
     "publishDate": "1602",
     "licenseDate": "1602",
-    "firstPerformanceDate": "1602"
+    "firstPerformanceDate": "1602",
+    "isWrittenBy": [
+      "ww_462a1d6d567b0377"
+    ]
   },
   "ww_7f949bbd8df542c3": {
     "internalID": "@001391",
@@ -1717,7 +2384,10 @@
     "createdDate": "1603",
     "publishDate": "1603",
     "licenseDate": "1603",
-    "firstPerformanceDate": "1603"
+    "firstPerformanceDate": "1603",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_75ea66b2f428cc3e": {
     "internalID": "@001434",
@@ -1725,7 +2395,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_bc78559657a822d9": {
     "internalID": "@005594",
@@ -1733,7 +2406,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_970a44cddbbbe8d2"
+    ]
   },
   "ww_850c6f2b24767d61": {
     "internalID": "@001419",
@@ -1741,7 +2417,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_462a1d6d567b0377"
+    ]
   },
   "ww_d77664dc4673002e": {
     "internalID": "@001455",
@@ -1749,7 +2428,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_a33f58dca1fc90c4": {
     "internalID": "@001484a",
@@ -1757,7 +2439,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_5f289ce079b92a82"
+    ]
   },
   "ww_aba8d90916ae3714": {
     "internalID": "@001485",
@@ -1765,7 +2450,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_c63e16da2763dd6d": {
     "internalID": "@001520",
@@ -1773,7 +2461,11 @@
     "createdDate": "1606",
     "publishDate": "1606",
     "licenseDate": "1606",
-    "firstPerformanceDate": "1606"
+    "firstPerformanceDate": "1606",
+    "isWrittenBy": [
+      "ww_5f289ce079b92a82",
+      "ww_15d1541c8eac2a43"
+    ]
   },
   "ww_4c03575c94189fa0": {
     "internalID": "@001495",
@@ -1781,7 +2473,10 @@
     "createdDate": "1606",
     "publishDate": "1606",
     "licenseDate": "1606",
-    "firstPerformanceDate": "1606"
+    "firstPerformanceDate": "1606",
+    "isWrittenBy": [
+      "ww_44affb1d1f20ab03"
+    ]
   },
   "ww_65a8b466f961261c": {
     "internalID": "@001529",
@@ -1789,7 +2484,10 @@
     "createdDate": "1607",
     "publishDate": "1607",
     "licenseDate": "1607",
-    "firstPerformanceDate": "1607"
+    "firstPerformanceDate": "1607",
+    "isWrittenBy": [
+      "ww_bf33a3a7fcb4cbaf"
+    ]
   },
   "ww_15ed05beffe3ef00": {
     "internalID": "@005166",
@@ -1797,7 +2495,10 @@
     "createdDate": "1607",
     "publishDate": "1607",
     "licenseDate": "1607",
-    "firstPerformanceDate": "1607"
+    "firstPerformanceDate": "1607",
+    "isWrittenBy": [
+      "ww_e005e74f6af8f88e"
+    ]
   },
   "ww_4664b15bdb9400ec": {
     "internalID": "@001557",
@@ -1805,7 +2506,10 @@
     "createdDate": "1607",
     "publishDate": "1607",
     "licenseDate": "1607",
-    "firstPerformanceDate": "1607"
+    "firstPerformanceDate": "1607",
+    "isWrittenBy": [
+      "ww_255b598e0ee7f9d1"
+    ]
   },
   "ww_56e2bc4eb5abe25b": {
     "internalID": "@001605",
@@ -1813,7 +2517,12 @@
     "createdDate": "1610",
     "publishDate": "1610",
     "licenseDate": "1610",
-    "firstPerformanceDate": "1610"
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_2192b18454f3ec57",
+      "ww_16760e866594d0dc",
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_dcc738a50b5db68f": {
     "internalID": "@001612",
@@ -1821,7 +2530,10 @@
     "createdDate": "1610",
     "publishDate": "1610",
     "licenseDate": "1610",
-    "firstPerformanceDate": "1610"
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_ef163bfd29b60717"
+    ]
   },
   "ww_aae46d6606af08c5": {
     "internalID": "@001653",
@@ -1829,7 +2541,10 @@
     "createdDate": "1611",
     "publishDate": "1611",
     "licenseDate": "1611",
-    "firstPerformanceDate": "1611"
+    "firstPerformanceDate": "1611",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_9ad87c450d3c00aa": {
     "internalID": "@001650",
@@ -1837,7 +2552,11 @@
     "createdDate": "1611",
     "publishDate": "1611",
     "licenseDate": "1611",
-    "firstPerformanceDate": "1611"
+    "firstPerformanceDate": "1611",
+    "isWrittenBy": [
+      "ww_b09eafe632cd528a",
+      "ww_0842cea2d2c52a7c"
+    ]
   },
   "ww_ff044156426e708d": {
     "internalID": "@001701",
@@ -1845,7 +2564,10 @@
     "createdDate": "1613",
     "publishDate": "1613",
     "licenseDate": "1613",
-    "firstPerformanceDate": "1613"
+    "firstPerformanceDate": "1613",
+    "isWrittenBy": [
+      "ww_9865bf07634965e0"
+    ]
   },
   "ww_83f40524c281e8de": {
     "internalID": "@001706",
@@ -1853,7 +2575,11 @@
     "createdDate": "1613",
     "publishDate": "1613",
     "licenseDate": "1613",
-    "firstPerformanceDate": "1613"
+    "firstPerformanceDate": "1613",
+    "isWrittenBy": [
+      "ww_a9962f2e1714bfe3",
+      "ww_0842cea2d2c52a7c"
+    ]
   },
   "ww_b70c78ad34ac9ba9": {
     "internalID": "@001704",
@@ -1861,7 +2587,10 @@
     "createdDate": "1613",
     "publishDate": "1613",
     "licenseDate": "1613",
-    "firstPerformanceDate": "1613"
+    "firstPerformanceDate": "1613",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_b7cc3dc17b06bc1d": {
     "internalID": "@001823",
@@ -1869,7 +2598,10 @@
     "createdDate": "1617",
     "publishDate": "1617",
     "licenseDate": "1617",
-    "firstPerformanceDate": "1617"
+    "firstPerformanceDate": "1617",
+    "isWrittenBy": [
+      "ww_ef3a38fd3962bb10"
+    ]
   },
   "ww_e6393757bde56f88": {
     "internalID": "@005120",
@@ -1877,7 +2609,10 @@
     "createdDate": "1619",
     "publishDate": "1619",
     "licenseDate": "1619",
-    "firstPerformanceDate": "1619"
+    "firstPerformanceDate": "1619",
+    "isWrittenBy": [
+      "ww_16cc8f76837b9146"
+    ]
   },
   "ww_c3a47e920e07f537": {
     "internalID": "@001990",
@@ -1885,7 +2620,10 @@
     "createdDate": "1621",
     "publishDate": "1621",
     "licenseDate": "1621",
-    "firstPerformanceDate": "1621"
+    "firstPerformanceDate": "1621",
+    "isWrittenBy": [
+      "ww_0842cea2d2c52a7c"
+    ]
   },
   "ww_6b9bc6143aac54e5": {
     "internalID": "@002027",
@@ -1893,7 +2631,10 @@
     "createdDate": "1622",
     "publishDate": "1622",
     "licenseDate": "1622",
-    "firstPerformanceDate": "1622"
+    "firstPerformanceDate": "1622",
+    "isWrittenBy": [
+      "ww_99e6fed8aa6a961d"
+    ]
   },
   "ww_5da40143cf2a7516": {
     "internalID": "@005105",
@@ -1901,7 +2642,10 @@
     "createdDate": "1624",
     "publishDate": "1624",
     "licenseDate": "1624",
-    "firstPerformanceDate": "1624"
+    "firstPerformanceDate": "1624",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_7970b85d2ad84965": {
     "internalID": "@002158",
@@ -1909,7 +2653,10 @@
     "createdDate": "1625",
     "publishDate": "1625",
     "licenseDate": "1625",
-    "firstPerformanceDate": "1625"
+    "firstPerformanceDate": "1625",
+    "isWrittenBy": [
+      "ww_ec99ffba67a7fb5e"
+    ]
   },
   "ww_7d392b46fd787fce": {
     "internalID": "@002180",
@@ -1917,7 +2664,10 @@
     "createdDate": "1626",
     "publishDate": "1626",
     "licenseDate": "1626",
-    "firstPerformanceDate": "1626"
+    "firstPerformanceDate": "1626",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_53ea056cdc03928d": {
     "internalID": "@002224",
@@ -1925,7 +2675,10 @@
     "createdDate": "1627",
     "publishDate": "1627",
     "licenseDate": "1627",
-    "firstPerformanceDate": "1627"
+    "firstPerformanceDate": "1627",
+    "isWrittenBy": [
+      "ww_bfd9ef2217378964"
+    ]
   },
   "ww_ae5a361b7f786e79": {
     "internalID": "@002289",
@@ -1933,7 +2686,10 @@
     "createdDate": "1629",
     "publishDate": "1629",
     "licenseDate": "1629",
-    "firstPerformanceDate": "1629"
+    "firstPerformanceDate": "1629",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_80d15f244b120eda": {
     "internalID": "@002329",
@@ -1941,7 +2697,10 @@
     "createdDate": "1631",
     "publishDate": "1631",
     "licenseDate": "1631",
-    "firstPerformanceDate": "1631"
+    "firstPerformanceDate": "1631",
+    "isWrittenBy": [
+      "ww_bfd9ef2217378964"
+    ]
   },
   "ww_e16edd49585b8434": {
     "internalID": "@002360",
@@ -1949,7 +2708,10 @@
     "createdDate": "1632",
     "publishDate": "1632",
     "licenseDate": "1632",
-    "firstPerformanceDate": "1632"
+    "firstPerformanceDate": "1632",
+    "isWrittenBy": [
+      "ww_bfd9ef2217378964"
+    ]
   },
   "ww_963340b1a61d0d62": {
     "internalID": "@006024",
@@ -1957,7 +2719,10 @@
     "createdDate": "1633",
     "publishDate": "1633",
     "licenseDate": "1633",
-    "firstPerformanceDate": "1633"
+    "firstPerformanceDate": "1633",
+    "isWrittenBy": [
+      "ww_e92e9dc9d65ade56"
+    ]
   },
   "ww_e0b03ee292ddfc15": {
     "internalID": "@002421",
@@ -1965,7 +2730,10 @@
     "createdDate": "1634",
     "publishDate": "1634",
     "licenseDate": "1634",
-    "firstPerformanceDate": "1634"
+    "firstPerformanceDate": "1634",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   },
   "ww_f46dacc14c087bc2": {
     "internalID": "@002480",
@@ -1973,7 +2741,10 @@
     "createdDate": "1635",
     "publishDate": "1635",
     "licenseDate": "1635",
-    "firstPerformanceDate": "1635"
+    "firstPerformanceDate": "1635",
+    "isWrittenBy": [
+      "ww_d0a72ec0a44b283d"
+    ]
   },
   "ww_55ab4059c87d0c3d": {
     "internalID": "@002458",
@@ -1981,7 +2752,10 @@
     "createdDate": "1635",
     "publishDate": "1635",
     "licenseDate": "1635",
-    "firstPerformanceDate": "1635"
+    "firstPerformanceDate": "1635",
+    "isWrittenBy": [
+      "ww_cc76df07de512c5c"
+    ]
   },
   "ww_96ea9a9110850b53": {
     "internalID": "@005685",
@@ -1989,7 +2763,10 @@
     "createdDate": "1635",
     "publishDate": "1635",
     "licenseDate": "1635",
-    "firstPerformanceDate": "1635"
+    "firstPerformanceDate": "1635",
+    "isWrittenBy": [
+      "ww_e3629c2300452bc6"
+    ]
   },
   "ww_103921d4089e2ff4": {
     "internalID": "@002545",
@@ -1997,7 +2774,10 @@
     "createdDate": "1636",
     "publishDate": "1636",
     "licenseDate": "1636",
-    "firstPerformanceDate": "1636"
+    "firstPerformanceDate": "1636",
+    "isWrittenBy": [
+      "ww_7e307ca0456d09ac"
+    ]
   },
   "ww_60a60dc6ecad70c0": {
     "internalID": "@002684",
@@ -2005,7 +2785,10 @@
     "createdDate": "1639",
     "publishDate": "1639",
     "licenseDate": "1639",
-    "firstPerformanceDate": "1639"
+    "firstPerformanceDate": "1639",
+    "isWrittenBy": [
+      "ww_dea3b56289f47fb2"
+    ]
   },
   "ww_af6b24b9904dbf6b": {
     "internalID": "@005672",
@@ -2013,7 +2796,10 @@
     "createdDate": "1639",
     "publishDate": "1639",
     "licenseDate": "1639",
-    "firstPerformanceDate": "1639"
+    "firstPerformanceDate": "1639",
+    "isWrittenBy": [
+      "ww_e219a52388289dd8"
+    ]
   },
   "ww_d69e66070a4d6a19": {
     "internalID": "@002730",
@@ -2021,7 +2807,10 @@
     "createdDate": "1640",
     "publishDate": "1640",
     "licenseDate": "1640",
-    "firstPerformanceDate": "1640"
+    "firstPerformanceDate": "1640",
+    "isWrittenBy": [
+      "ww_6f4a80592c6c793c"
+    ]
   },
   "ww_cb694f4439c4e72d": {
     "internalID": "@002851",
@@ -2029,7 +2818,10 @@
     "createdDate": "1642",
     "publishDate": "1642",
     "licenseDate": "1642",
-    "firstPerformanceDate": "1642"
+    "firstPerformanceDate": "1642",
+    "isWrittenBy": [
+      "ww_ec99ffba67a7fb5e"
+    ]
   },
   "ww_f99a72278aa6b17a": {
     "internalID": "@005173",
@@ -2037,7 +2829,10 @@
     "createdDate": "1647",
     "publishDate": "1647",
     "licenseDate": "1647",
-    "firstPerformanceDate": "1647"
+    "firstPerformanceDate": "1647",
+    "isWrittenBy": [
+      "ww_787e0c8864df7063"
+    ]
   },
   "ww_5695d495f555ab63": {
     "internalID": "@005229",
@@ -2045,7 +2840,10 @@
     "createdDate": "1654",
     "publishDate": "1654",
     "licenseDate": "1654",
-    "firstPerformanceDate": "1654"
+    "firstPerformanceDate": "1654",
+    "isWrittenBy": [
+      "ww_49457e542cea105a"
+    ]
   },
   "ww_ae445c827885ad63": {
     "internalID": "@002069",
@@ -2053,7 +2851,11 @@
     "createdDate": "1655",
     "publishDate": "1655",
     "licenseDate": "1655",
-    "firstPerformanceDate": "1655"
+    "firstPerformanceDate": "1655",
+    "isWrittenBy": [
+      "ww_99e6fed8aa6a961d",
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_29b0883a7c47410f": {
     "internalID": "@005168",
@@ -2061,7 +2863,10 @@
     "createdDate": "1658",
     "publishDate": "1658",
     "licenseDate": "1658",
-    "firstPerformanceDate": "1658"
+    "firstPerformanceDate": "1658",
+    "isWrittenBy": [
+      "ww_470aa71e11b82d67"
+    ]
   },
   "ww_fd50221676a625a8": {
     "internalID": "@005206",
@@ -2069,7 +2874,10 @@
     "createdDate": "1672",
     "publishDate": "1672",
     "licenseDate": "1672",
-    "firstPerformanceDate": "1672"
+    "firstPerformanceDate": "1672",
+    "isWrittenBy": [
+      "ww_b4c5b090a822a138"
+    ]
   },
   "ww_2e2f43dcbe1bf6ef": {
     "internalID": "@005226",
@@ -2077,7 +2885,10 @@
     "createdDate": "1678",
     "publishDate": "1678",
     "licenseDate": "1679",
-    "firstPerformanceDate": "1679"
+    "firstPerformanceDate": "1679",
+    "isWrittenBy": [
+      "ww_0fa63d0ba5908460"
+    ]
   },
   "ww_817d6b82af7fc826": {
     "internalID": "@005224",
@@ -2085,7 +2896,10 @@
     "createdDate": "1681",
     "publishDate": "1681",
     "licenseDate": "1681",
-    "firstPerformanceDate": "1681"
+    "firstPerformanceDate": "1681",
+    "isWrittenBy": [
+      "ww_b4c5b090a822a138"
+    ]
   },
   "ww_a36c017b75063fe1": {
     "internalID": "@005223",
@@ -2093,7 +2907,10 @@
     "createdDate": "1684",
     "publishDate": "1684",
     "licenseDate": "1684",
-    "firstPerformanceDate": "1684"
+    "firstPerformanceDate": "1684",
+    "isWrittenBy": [
+      "ww_0fa63d0ba5908460"
+    ]
   },
   "ww_ace9e1e138735755": {
     "internalID": "@005225",
@@ -2101,7 +2918,10 @@
     "createdDate": "1686",
     "publishDate": "1686",
     "licenseDate": "1686",
-    "firstPerformanceDate": "1686"
+    "firstPerformanceDate": "1686",
+    "isWrittenBy": [
+      "ww_99b03817dc566412"
+    ]
   },
   "ww_8370dfd26f56e74d": {
     "internalID": "@005561",
@@ -2109,7 +2929,10 @@
     "createdDate": "1531",
     "publishDate": "1531",
     "licenseDate": "1531",
-    "firstPerformanceDate": "1531"
+    "firstPerformanceDate": "1531",
+    "isWrittenBy": [
+      "ww_55497d26971913d2"
+    ]
   },
   "ww_5d1545778124ee33": {
     "internalID": "@005583",
@@ -2117,7 +2940,11 @@
     "createdDate": "1549",
     "publishDate": "1549",
     "licenseDate": "1549",
-    "firstPerformanceDate": "1549"
+    "firstPerformanceDate": "1549",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5",
+      "ww_ac21c8585ae8d224"
+    ]
   },
   "ww_662026e87e8e4f6d": {
     "internalID": "@000234",
@@ -2125,7 +2952,10 @@
     "createdDate": "1552",
     "publishDate": "1552",
     "licenseDate": "1552",
-    "firstPerformanceDate": "1552"
+    "firstPerformanceDate": "1552",
+    "isWrittenBy": [
+      "ww_220a73def979f4a4"
+    ]
   },
   "ww_23b1c6dd41bb53d0": {
     "internalID": "@005577",
@@ -2133,7 +2963,10 @@
     "createdDate": "1553",
     "publishDate": "1553",
     "licenseDate": "1553",
-    "firstPerformanceDate": "1553"
+    "firstPerformanceDate": "1553",
+    "isWrittenBy": [
+      "ww_edab9e0477ad7401"
+    ]
   },
   "ww_40bf667f37d87577": {
     "internalID": "@005570",
@@ -2141,7 +2974,11 @@
     "createdDate": "1561",
     "publishDate": "1561",
     "licenseDate": "1561",
-    "firstPerformanceDate": "1561"
+    "firstPerformanceDate": "1561",
+    "isWrittenBy": [
+      "ww_6b7b6aabda5c7c6b",
+      "ww_af5f4038598fb547"
+    ]
   },
   "ww_bb9f2d8a42b833c0": {
     "internalID": "@005018",
@@ -2149,7 +2986,10 @@
     "createdDate": "1563",
     "publishDate": "1563",
     "licenseDate": "1563",
-    "firstPerformanceDate": "1563"
+    "firstPerformanceDate": "1563",
+    "isWrittenBy": [
+      "ww_144d49d7e9724c99"
+    ]
   },
   "ww_1498e206f1d8071e": {
     "internalID": "@005584",
@@ -2157,7 +2997,10 @@
     "createdDate": "1565",
     "publishDate": "1565",
     "licenseDate": "1565",
-    "firstPerformanceDate": "1565"
+    "firstPerformanceDate": "1565",
+    "isWrittenBy": [
+      "ww_0b287f59292b10a7"
+    ]
   },
   "ww_a1d5cd59c36d2503": {
     "internalID": "@000439",
@@ -2165,7 +3008,10 @@
     "createdDate": "1566",
     "publishDate": "1566",
     "licenseDate": "1566",
-    "firstPerformanceDate": "1566"
+    "firstPerformanceDate": "1566",
+    "isWrittenBy": [
+      "ww_771659144d06dcdf"
+    ]
   },
   "ww_26d7297a6051272d": {
     "internalID": "@000426",
@@ -2173,7 +3019,10 @@
     "createdDate": "1566",
     "publishDate": "1566",
     "licenseDate": "1566",
-    "firstPerformanceDate": "1566"
+    "firstPerformanceDate": "1566",
+    "isWrittenBy": [
+      "ww_a00dfc9e63a5d0fe"
+    ]
   },
   "ww_4d19db8fc336ca4f": {
     "internalID": "@005573",
@@ -2181,7 +3030,10 @@
     "createdDate": "1566",
     "publishDate": "1566",
     "licenseDate": "1566",
-    "firstPerformanceDate": "1566"
+    "firstPerformanceDate": "1566",
+    "isWrittenBy": [
+      "ww_42eb905bc6e4053a"
+    ]
   },
   "ww_6799f18cbe1cde61": {
     "internalID": "@005708",
@@ -2189,7 +3041,11 @@
     "createdDate": "1567",
     "publishDate": "1567",
     "licenseDate": "1567",
-    "firstPerformanceDate": "1567"
+    "firstPerformanceDate": "1567",
+    "isWrittenBy": [
+      "ww_0adab3e3a15ca99c",
+      "ww_ead92b40726b9049"
+    ]
   },
   "ww_91c38edf48f9276e": {
     "internalID": "@005576",
@@ -2197,7 +3053,11 @@
     "createdDate": "1567",
     "publishDate": "1567",
     "licenseDate": "1567",
-    "firstPerformanceDate": "1567"
+    "firstPerformanceDate": "1567",
+    "isWrittenBy": [
+      "ww_0adab3e3a15ca99c",
+      "ww_ead92b40726b9049"
+    ]
   },
   "ww_f0311f6cc16cd154": {
     "internalID": "@005588",
@@ -2205,7 +3065,10 @@
     "createdDate": "1568",
     "publishDate": "1568",
     "licenseDate": "1568",
-    "firstPerformanceDate": "1568"
+    "firstPerformanceDate": "1568",
+    "isWrittenBy": [
+      "ww_7dad315c91c456fb"
+    ]
   },
   "ww_bea266e3cdec2d97": {
     "internalID": "@005640",
@@ -2213,7 +3076,10 @@
     "createdDate": "1568",
     "publishDate": "1570",
     "licenseDate": "1568",
-    "firstPerformanceDate": "1570"
+    "firstPerformanceDate": "1570",
+    "isWrittenBy": [
+      "ww_71583f09e4b9cd17"
+    ]
   },
   "ww_168c3a63f50c4e37": {
     "internalID": "@005004",
@@ -2221,7 +3087,10 @@
     "createdDate": "1570",
     "publishDate": "1591",
     "licenseDate": "1677",
-    "firstPerformanceDate": "1677"
+    "firstPerformanceDate": "1677",
+    "isWrittenBy": [
+      "ww_5fe3b5dcb00b7162"
+    ]
   },
   "ww_3eec017f9226dac5": {
     "internalID": "@005646",
@@ -2229,7 +3098,10 @@
     "createdDate": "1573",
     "publishDate": "1573",
     "licenseDate": "1573",
-    "firstPerformanceDate": "1573"
+    "firstPerformanceDate": "1573",
+    "isWrittenBy": [
+      "ww_e963a8b58028d76a"
+    ]
   },
   "ww_f422144843f37f21": {
     "internalID": "@005033",
@@ -2237,7 +3109,10 @@
     "createdDate": "1578",
     "publishDate": "1578",
     "licenseDate": "1578",
-    "firstPerformanceDate": "1578"
+    "firstPerformanceDate": "1578",
+    "isWrittenBy": [
+      "ww_ba0230e7fbb5fd0d"
+    ]
   },
   "ww_e6c18fc757ca3844": {
     "internalID": "@005613",
@@ -2245,7 +3120,10 @@
     "createdDate": "1579",
     "publishDate": "1579",
     "licenseDate": "1579",
-    "firstPerformanceDate": "1579"
+    "firstPerformanceDate": "1579",
+    "isWrittenBy": [
+      "ww_d78940f8a8554ca3"
+    ]
   },
   "ww_dd68990f2d6f32ef": {
     "internalID": "@005619",
@@ -2253,7 +3131,10 @@
     "createdDate": "1580",
     "publishDate": "1580",
     "licenseDate": "1580",
-    "firstPerformanceDate": "1580"
+    "firstPerformanceDate": "1580",
+    "isWrittenBy": [
+      "ww_ba0230e7fbb5fd0d"
+    ]
   },
   "ww_2ee4d5a8fd63e825": {
     "internalID": "@005621",
@@ -2261,7 +3142,10 @@
     "createdDate": "1580",
     "publishDate": "1580",
     "licenseDate": "1580",
-    "firstPerformanceDate": "1580"
+    "firstPerformanceDate": "1580",
+    "isWrittenBy": [
+      "ww_6fbd1bd26280846d"
+    ]
   },
   "ww_dc03dedd8d618997": {
     "internalID": "@005622",
@@ -2269,7 +3153,10 @@
     "createdDate": "1581",
     "publishDate": "1581",
     "licenseDate": "1581",
-    "firstPerformanceDate": "1581"
+    "firstPerformanceDate": "1581",
+    "isWrittenBy": [
+      "ww_0a2ae5bb07b64969"
+    ]
   },
   "ww_834f273f6d971ca7": {
     "internalID": "@005623",
@@ -2277,7 +3164,10 @@
     "createdDate": "1581",
     "publishDate": "1581",
     "licenseDate": "1581",
-    "firstPerformanceDate": "1581"
+    "firstPerformanceDate": "1581",
+    "isWrittenBy": [
+      "ww_9fc186f153594d59"
+    ]
   },
   "ww_026505509118e73d": {
     "internalID": "@005624",
@@ -2285,7 +3175,10 @@
     "createdDate": "1582",
     "publishDate": "1582",
     "licenseDate": "1582",
-    "firstPerformanceDate": "1582"
+    "firstPerformanceDate": "1582",
+    "isWrittenBy": [
+      "ww_2754f19921c8bd2b"
+    ]
   },
   "ww_57b3b0aeb319dbf6": {
     "internalID": "@005625",
@@ -2293,7 +3186,10 @@
     "createdDate": "1582",
     "publishDate": "1582",
     "licenseDate": "1582",
-    "firstPerformanceDate": "1582"
+    "firstPerformanceDate": "1582",
+    "isWrittenBy": [
+      "ww_8f477c6051e158af"
+    ]
   },
   "ww_d00e0f4b3541b720": {
     "internalID": "@005251",
@@ -2301,7 +3197,11 @@
     "createdDate": "1582",
     "publishDate": "1582",
     "licenseDate": "1582",
-    "firstPerformanceDate": "1582"
+    "firstPerformanceDate": "1582",
+    "isWrittenBy": [
+      "ww_1a3350c92dc1c186",
+      "ww_81a0be98745dd98b"
+    ]
   },
   "ww_899bf0923492e1d6": {
     "internalID": "@005627",
@@ -2309,7 +3209,10 @@
     "createdDate": "1582",
     "publishDate": "1582",
     "licenseDate": "1582",
-    "firstPerformanceDate": "1582"
+    "firstPerformanceDate": "1582",
+    "isWrittenBy": [
+      "ww_2a3b4daed2941136"
+    ]
   },
   "ww_488005370a580904": {
     "internalID": "@005628",
@@ -2317,7 +3220,10 @@
     "createdDate": "1583",
     "publishDate": "1583",
     "licenseDate": "1583",
-    "firstPerformanceDate": "1583"
+    "firstPerformanceDate": "1583",
+    "isWrittenBy": [
+      "ww_2580f4cea0614ff5"
+    ]
   },
   "ww_bd8cd5712d6c7094": {
     "internalID": "@005629",
@@ -2325,7 +3231,10 @@
     "createdDate": "1583",
     "publishDate": "1583",
     "licenseDate": "1583",
-    "firstPerformanceDate": "1583"
+    "firstPerformanceDate": "1583",
+    "isWrittenBy": [
+      "ww_ce2fb5bd491a4d2e"
+    ]
   },
   "ww_bba03041f3be17f3": {
     "internalID": "@000754",
@@ -2333,7 +3242,10 @@
     "createdDate": "1584",
     "publishDate": "1584",
     "licenseDate": "1584",
-    "firstPerformanceDate": "1584"
+    "firstPerformanceDate": "1584",
+    "isWrittenBy": [
+      "ww_ba0230e7fbb5fd0d"
+    ]
   },
   "ww_1c5e84bba083d2c9": {
     "internalID": "@005630",
@@ -2341,7 +3253,10 @@
     "createdDate": "1584",
     "publishDate": "1584",
     "licenseDate": "1584",
-    "firstPerformanceDate": "1584"
+    "firstPerformanceDate": "1584",
+    "isWrittenBy": [
+      "ww_ce2fb5bd491a4d2e"
+    ]
   },
   "ww_f44b01cba1dbbd53": {
     "internalID": "@005631",
@@ -2349,7 +3264,10 @@
     "createdDate": "1584",
     "publishDate": "1584",
     "licenseDate": "1584",
-    "firstPerformanceDate": "1584"
+    "firstPerformanceDate": "1584",
+    "isWrittenBy": [
+      "ww_e746ef3ff7ed65a8"
+    ]
   },
   "ww_e4ae7f89b0f55caf": {
     "internalID": "@005632",
@@ -2357,7 +3275,10 @@
     "createdDate": "1584",
     "publishDate": "1584",
     "licenseDate": "1584",
-    "firstPerformanceDate": "1584"
+    "firstPerformanceDate": "1584",
+    "isWrittenBy": [
+      "ww_1e0958dae3ce7ad4"
+    ]
   },
   "ww_45236b051a657058": {
     "internalID": "@005605",
@@ -2365,7 +3286,10 @@
     "createdDate": "1585",
     "publishDate": "1613",
     "licenseDate": "1657",
-    "firstPerformanceDate": "1657"
+    "firstPerformanceDate": "1657",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_99c58762296b12b6": {
     "internalID": "@005633",
@@ -2373,7 +3297,10 @@
     "createdDate": "1585",
     "publishDate": "1585",
     "licenseDate": "1585",
-    "firstPerformanceDate": "1585"
+    "firstPerformanceDate": "1585",
+    "isWrittenBy": [
+      "ww_14800c7eb75cfa9a"
+    ]
   },
   "ww_62691e6b381caa28": {
     "internalID": "@005634",
@@ -2381,7 +3308,10 @@
     "createdDate": "1585",
     "publishDate": "1585",
     "licenseDate": "1585",
-    "firstPerformanceDate": "1585"
+    "firstPerformanceDate": "1585",
+    "isWrittenBy": [
+      "ww_16d31ca4a1f787bf"
+    ]
   },
   "ww_a05e9fa3e5abb86c": {
     "internalID": "@000773",
@@ -2389,7 +3319,10 @@
     "createdDate": "1586",
     "publishDate": "1586",
     "licenseDate": "1586",
-    "firstPerformanceDate": "1586"
+    "firstPerformanceDate": "1586",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_4367686b70b93963": {
     "internalID": "@005618",
@@ -2397,7 +3330,10 @@
     "createdDate": "1586",
     "publishDate": "1586",
     "licenseDate": "1586",
-    "firstPerformanceDate": "1586"
+    "firstPerformanceDate": "1586",
+    "isWrittenBy": [
+      "ww_4d90bb08c3de976b"
+    ]
   },
   "ww_04a69cb6dbc88db4": {
     "internalID": "@005019",
@@ -2405,7 +3341,10 @@
     "createdDate": "1586",
     "publishDate": "1586",
     "licenseDate": "1586",
-    "firstPerformanceDate": "1586"
+    "firstPerformanceDate": "1586",
+    "isWrittenBy": [
+      "ww_1d171ca3a3740f14"
+    ]
   },
   "ww_207b1333656832c3": {
     "internalID": "@000789",
@@ -2413,7 +3352,10 @@
     "createdDate": "1587",
     "publishDate": "1587",
     "licenseDate": "1590",
-    "firstPerformanceDate": "1590"
+    "firstPerformanceDate": "1590",
+    "isWrittenBy": [
+      "ww_45be553df97310f3"
+    ]
   },
   "ww_16aa75011d029064": {
     "internalID": "@000784",
@@ -2421,7 +3363,10 @@
     "createdDate": "1587",
     "publishDate": "1587",
     "licenseDate": "1587",
-    "firstPerformanceDate": "1587"
+    "firstPerformanceDate": "1587",
+    "isWrittenBy": [
+      "ww_45be553df97310f3"
+    ]
   },
   "ww_96f58f18ba880f24": {
     "internalID": "@000783",
@@ -2429,7 +3374,10 @@
     "createdDate": "1587",
     "publishDate": "1587",
     "licenseDate": "1587",
-    "firstPerformanceDate": "1587"
+    "firstPerformanceDate": "1587",
+    "isWrittenBy": [
+      "ww_1d8680c7347813a9"
+    ]
   },
   "ww_10ccfff324728f4d": {
     "internalID": "@000799",
@@ -2437,7 +3385,10 @@
     "createdDate": "1588",
     "publishDate": "1588",
     "licenseDate": "1588",
-    "firstPerformanceDate": "1588"
+    "firstPerformanceDate": "1588",
+    "isWrittenBy": [
+      "ww_1d8680c7347813a9"
+    ]
   },
   "ww_f052ab291abd7898": {
     "internalID": "@000820",
@@ -2445,7 +3396,11 @@
     "createdDate": "1588",
     "publishDate": "1588",
     "licenseDate": "1588",
-    "firstPerformanceDate": "1588"
+    "firstPerformanceDate": "1588",
+    "isWrittenBy": [
+      "ww_f53f46e467a3c815",
+      "ww_45be553df97310f3"
+    ]
   },
   "ww_dde817ac993ab4da": {
     "internalID": "@000803",
@@ -2453,7 +3408,10 @@
     "createdDate": "1588",
     "publishDate": "1588",
     "licenseDate": "1588",
-    "firstPerformanceDate": "1588"
+    "firstPerformanceDate": "1588",
+    "isWrittenBy": [
+      "ww_fe5e9a49399dadb3"
+    ]
   },
   "ww_42666ba64eaac864": {
     "internalID": "@000813",
@@ -2461,7 +3419,10 @@
     "createdDate": "1588",
     "publishDate": "1588",
     "licenseDate": "1588",
-    "firstPerformanceDate": "1588"
+    "firstPerformanceDate": "1588",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_7fdb5d1a8d96cea5": {
     "internalID": "@000794",
@@ -2469,7 +3430,10 @@
     "createdDate": "1588",
     "publishDate": "1588",
     "licenseDate": "1588",
-    "firstPerformanceDate": "1588"
+    "firstPerformanceDate": "1588",
+    "isWrittenBy": [
+      "ww_ba0230e7fbb5fd0d"
+    ]
   },
   "ww_d86c9cc196e7be35": {
     "internalID": "@005617",
@@ -2477,7 +3441,10 @@
     "createdDate": "1588",
     "publishDate": "1588",
     "licenseDate": "1588",
-    "firstPerformanceDate": "1588"
+    "firstPerformanceDate": "1588",
+    "isWrittenBy": [
+      "ww_40f087f3ecb3aa75"
+    ]
   },
   "ww_100fa85792453de4": {
     "internalID": "@005616",
@@ -2485,7 +3452,10 @@
     "createdDate": "1589",
     "publishDate": "1589",
     "licenseDate": "1589",
-    "firstPerformanceDate": "1589"
+    "firstPerformanceDate": "1589",
+    "isWrittenBy": [
+      "ww_f53f46e467a3c815"
+    ]
   },
   "ww_6f73f74667982896": {
     "internalID": "@005615",
@@ -2493,7 +3463,10 @@
     "createdDate": "1589",
     "publishDate": "1589",
     "licenseDate": "1589",
-    "firstPerformanceDate": "1589"
+    "firstPerformanceDate": "1589",
+    "isWrittenBy": [
+      "ww_f53f46e467a3c815"
+    ]
   },
   "ww_79b4f04c648b74db": {
     "internalID": "@005614",
@@ -2501,7 +3474,10 @@
     "createdDate": "1589",
     "publishDate": "1589",
     "licenseDate": "1589",
-    "firstPerformanceDate": "1589"
+    "firstPerformanceDate": "1589",
+    "isWrittenBy": [
+      "ww_4120af7a4ce22c71"
+    ]
   },
   "ww_6537b55ae5d5d08e": {
     "internalID": "@005001",
@@ -2509,7 +3485,10 @@
     "createdDate": "1590",
     "publishDate": "1590",
     "licenseDate": "1590",
-    "firstPerformanceDate": "1590"
+    "firstPerformanceDate": "1590",
+    "isWrittenBy": [
+      "ww_29c676ae27f37864"
+    ]
   },
   "ww_368ebdd946db4900": {
     "internalID": "@005608",
@@ -2517,7 +3496,10 @@
     "createdDate": "1590",
     "publishDate": "1590",
     "licenseDate": "1590",
-    "firstPerformanceDate": "1590"
+    "firstPerformanceDate": "1590",
+    "isWrittenBy": [
+      "ww_246e8bda427107c8"
+    ]
   },
   "ww_a45f897238d7e5f0": {
     "internalID": "@000884",
@@ -2525,7 +3507,10 @@
     "createdDate": "1591",
     "publishDate": "1591",
     "licenseDate": "1591",
-    "firstPerformanceDate": "1591"
+    "firstPerformanceDate": "1591",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_95fb4400d1818339": {
     "internalID": "@005586",
@@ -2533,7 +3518,10 @@
     "createdDate": "1591",
     "publishDate": "1591",
     "licenseDate": "1591",
-    "firstPerformanceDate": "1591"
+    "firstPerformanceDate": "1591",
+    "isWrittenBy": [
+      "ww_0b287f59292b10a7"
+    ]
   },
   "ww_74c4db8372c7293c": {
     "internalID": "@005610",
@@ -2541,7 +3529,10 @@
     "createdDate": "1591",
     "publishDate": "1591",
     "licenseDate": "1591",
-    "firstPerformanceDate": "1591"
+    "firstPerformanceDate": "1591",
+    "isWrittenBy": [
+      "ww_788d53fded4c5751"
+    ]
   },
   "ww_a08995e1e6833cea": {
     "internalID": "@005566",
@@ -2549,7 +3540,10 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_ce2fb5bd491a4d2e"
+    ]
   },
   "ww_7dd1c602e9ccfe3b": {
     "internalID": "@000944",
@@ -2557,7 +3551,10 @@
     "createdDate": "1592",
     "publishDate": "1592",
     "licenseDate": "1592",
-    "firstPerformanceDate": "1592"
+    "firstPerformanceDate": "1592",
+    "isWrittenBy": [
+      "ww_887cb1c89b21245e"
+    ]
   },
   "ww_c81f995a09baa142": {
     "internalID": "@005564",
@@ -2565,7 +3562,10 @@
     "createdDate": "1593",
     "publishDate": "1593",
     "licenseDate": "1593",
-    "firstPerformanceDate": "1593"
+    "firstPerformanceDate": "1593",
+    "isWrittenBy": [
+      "ww_f53f46e467a3c815"
+    ]
   },
   "ww_9d0b02a61888dad4": {
     "internalID": "@005589",
@@ -2573,7 +3573,10 @@
     "createdDate": "1594",
     "publishDate": "1594",
     "licenseDate": "1594",
-    "firstPerformanceDate": "1594"
+    "firstPerformanceDate": "1594",
+    "isWrittenBy": [
+      "ww_dc3833f217f24ffb"
+    ]
   },
   "ww_9f7146452fc1243e": {
     "internalID": "@005587",
@@ -2581,7 +3584,10 @@
     "createdDate": "1594",
     "publishDate": "1594",
     "licenseDate": "1594",
-    "firstPerformanceDate": "1594"
+    "firstPerformanceDate": "1594",
+    "isWrittenBy": [
+      "ww_bb511f296416b258"
+    ]
   },
   "ww_2df21bfefce592b6": {
     "internalID": "@005574",
@@ -2589,7 +3595,10 @@
     "createdDate": "1594",
     "publishDate": "1594",
     "licenseDate": "1594",
-    "firstPerformanceDate": "1594"
+    "firstPerformanceDate": "1594",
+    "isWrittenBy": [
+      "ww_f53f46e467a3c815"
+    ]
   },
   "ww_576a3b5a9726890a": {
     "internalID": "@005563",
@@ -2597,7 +3606,10 @@
     "createdDate": "1596",
     "publishDate": "1596",
     "licenseDate": "1596",
-    "firstPerformanceDate": "1596"
+    "firstPerformanceDate": "1596",
+    "isWrittenBy": [
+      "ww_2afeb85181d58ed3"
+    ]
   },
   "ww_f3b680a00afe6716": {
     "internalID": "@005585",
@@ -2605,7 +3617,10 @@
     "createdDate": "1596",
     "publishDate": "1596",
     "licenseDate": "1596",
-    "firstPerformanceDate": "1596"
+    "firstPerformanceDate": "1596",
+    "isWrittenBy": [
+      "ww_14800c7eb75cfa9a"
+    ]
   },
   "ww_70b35f176c9ceb49": {
     "internalID": "@005592",
@@ -2613,7 +3628,10 @@
     "createdDate": "1596",
     "publishDate": "1596",
     "licenseDate": "1596",
-    "firstPerformanceDate": "1596"
+    "firstPerformanceDate": "1596",
+    "isWrittenBy": [
+      "ww_3bba108f51aa8607"
+    ]
   },
   "ww_13d1b8c099bf8583": {
     "internalID": "@005611",
@@ -2621,7 +3639,10 @@
     "createdDate": "1596",
     "publishDate": "1596",
     "licenseDate": "1596",
-    "firstPerformanceDate": "1596"
+    "firstPerformanceDate": "1596",
+    "isWrittenBy": [
+      "ww_84ff74beb4a95aa1"
+    ]
   },
   "ww_b2ee01ef371c8ee8": {
     "internalID": "@001080",
@@ -2629,7 +3650,10 @@
     "createdDate": "1597",
     "publishDate": "1597",
     "licenseDate": "1597",
-    "firstPerformanceDate": "1597"
+    "firstPerformanceDate": "1597",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_e28d0c710c7d6851": {
     "internalID": "@001143",
@@ -2637,7 +3661,10 @@
     "createdDate": "1598",
     "publishDate": "1598",
     "licenseDate": "1598",
-    "firstPerformanceDate": "1598"
+    "firstPerformanceDate": "1598",
+    "isWrittenBy": [
+      "ww_462a1d6d567b0377"
+    ]
   },
   "ww_4300396a5efb95d0": {
     "internalID": "@005038",
@@ -2645,7 +3672,10 @@
     "createdDate": "1598",
     "publishDate": "1598",
     "licenseDate": "1598",
-    "firstPerformanceDate": "1598"
+    "firstPerformanceDate": "1598",
+    "isWrittenBy": [
+      "ww_9ffeb7ca95cd18da"
+    ]
   },
   "ww_44d1ba9fad9a06b8": {
     "internalID": "@005051",
@@ -2653,7 +3683,10 @@
     "createdDate": "1598",
     "publishDate": "1600",
     "licenseDate": "1628",
-    "firstPerformanceDate": "1628"
+    "firstPerformanceDate": "1628",
+    "isWrittenBy": [
+      "ww_866098e504e55c18"
+    ]
   },
   "ww_068f59ef3e3a298f": {
     "internalID": "@005049",
@@ -2661,7 +3694,10 @@
     "createdDate": "1598",
     "publishDate": "1598",
     "licenseDate": "1598",
-    "firstPerformanceDate": "1598"
+    "firstPerformanceDate": "1598",
+    "isWrittenBy": [
+      "ww_bba79dead28fbb93"
+    ]
   },
   "ww_f90b16594829b119": {
     "internalID": "@001208",
@@ -2669,7 +3705,10 @@
     "createdDate": "1599",
     "publishDate": "1599",
     "licenseDate": "1599",
-    "firstPerformanceDate": "1599"
+    "firstPerformanceDate": "1599",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_2e87bad72d73252f": {
     "internalID": "@005175",
@@ -2677,7 +3716,10 @@
     "createdDate": "1600",
     "publishDate": "1600",
     "licenseDate": "1600",
-    "firstPerformanceDate": "1600"
+    "firstPerformanceDate": "1600",
+    "isWrittenBy": [
+      "ww_8ff183e9c3dd0d6b"
+    ]
   },
   "ww_16c087672a41350c": {
     "internalID": "@001314",
@@ -2685,7 +3727,10 @@
     "createdDate": "1600",
     "publishDate": "1603",
     "licenseDate": "1610",
-    "firstPerformanceDate": "1610"
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_88503e400f411e81": {
     "internalID": "@001283",
@@ -2693,7 +3738,10 @@
     "createdDate": "1601",
     "publishDate": "1601",
     "licenseDate": "1601",
-    "firstPerformanceDate": "1601"
+    "firstPerformanceDate": "1601",
+    "isWrittenBy": [
+      "ww_57e317a39a38c42b"
+    ]
   },
   "ww_e862771dd315c342": {
     "internalID": "@001303",
@@ -2701,7 +3749,10 @@
     "createdDate": "1601",
     "publishDate": "1601",
     "licenseDate": "1601",
-    "firstPerformanceDate": "1601"
+    "firstPerformanceDate": "1601",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_6adb24d62eec2e3f": {
     "internalID": "@005558",
@@ -2709,7 +3760,11 @@
     "createdDate": "1601",
     "publishDate": "1601",
     "licenseDate": "1601",
-    "firstPerformanceDate": "1601"
+    "firstPerformanceDate": "1601",
+    "isWrittenBy": [
+      "ww_6189bca8bbb55fc5",
+      "ww_fba1842c561811bb"
+    ]
   },
   "ww_086e4157598b0352": {
     "internalID": "@005558",
@@ -2717,7 +3772,10 @@
     "createdDate": "1602",
     "publishDate": "1602",
     "licenseDate": "1602",
-    "firstPerformanceDate": "1602"
+    "firstPerformanceDate": "1602",
+    "isWrittenBy": [
+      "ww_5eda50e71c74828b"
+    ]
   },
   "ww_c06d85b9feeb268d": {
     "internalID": "@001427",
@@ -2725,7 +3783,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_dc4114e044024471": {
     "internalID": "@001391a",
@@ -2733,7 +3794,10 @@
     "createdDate": "1604",
     "publishDate": "1604",
     "licenseDate": "1604",
-    "firstPerformanceDate": "1604"
+    "firstPerformanceDate": "1604",
+    "isWrittenBy": [
+      "ww_77db8cfe0448db33"
+    ]
   },
   "ww_c8d3132c49ef7e45": {
     "internalID": "@001467",
@@ -2741,7 +3805,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_5f289ce079b92a82"
+    ]
   },
   "ww_d4412fbd862e35de": {
     "internalID": "@001481",
@@ -2749,7 +3816,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_a15d1ad784ef65c3"
+    ]
   },
   "ww_256a0b26f23e3730": {
     "internalID": "@005582",
@@ -2757,7 +3827,10 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_77b4cd08eebf6e6c"
+    ]
   },
   "ww_cc822907a2bf276a": {
     "internalID": "@001459",
@@ -2765,7 +3838,11 @@
     "createdDate": "1605",
     "publishDate": "1605",
     "licenseDate": "1605",
-    "firstPerformanceDate": "1605"
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7",
+      "ww_5f289ce079b92a82"
+    ]
   },
   "ww_b862d16992c45442": {
     "internalID": "@005132",
@@ -2773,7 +3850,10 @@
     "createdDate": "1608",
     "publishDate": "1608",
     "licenseDate": "1608",
-    "firstPerformanceDate": "1608"
+    "firstPerformanceDate": "1608",
+    "isWrittenBy": [
+      "ww_c62da289e0e58107"
+    ]
   },
   "ww_130444632fa8c6c9": {
     "internalID": "@001598",
@@ -2781,7 +3861,11 @@
     "createdDate": "1609",
     "publishDate": "1609",
     "licenseDate": "1609",
-    "firstPerformanceDate": "1609"
+    "firstPerformanceDate": "1609",
+    "isWrittenBy": [
+      "ww_b09eafe632cd528a",
+      "ww_0842cea2d2c52a7c"
+    ]
   },
   "ww_1e80f9a92e3a09cc": {
     "internalID": "@001603",
@@ -2789,7 +3873,10 @@
     "createdDate": "1610",
     "publishDate": "1610",
     "licenseDate": "1610",
-    "firstPerformanceDate": "1610"
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_462a1d6d567b0377"
+    ]
   },
   "ww_78616e66e6b9adab": {
     "internalID": "@001626",
@@ -2797,7 +3884,11 @@
     "createdDate": "1610",
     "publishDate": "1610",
     "licenseDate": "1610",
-    "firstPerformanceDate": "1610"
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_b09eafe632cd528a",
+      "ww_0842cea2d2c52a7c"
+    ]
   },
   "ww_c94b6adc809cb229": {
     "internalID": "@001642",
@@ -2805,7 +3896,10 @@
     "createdDate": "1611",
     "publishDate": "1611",
     "licenseDate": "1611",
-    "firstPerformanceDate": "1611"
+    "firstPerformanceDate": "1611",
+    "isWrittenBy": [
+      "ww_ba2bed49492fef13"
+    ]
   },
   "ww_580eeaca92b9d6d8": {
     "internalID": "@005613",
@@ -2813,7 +3907,10 @@
     "createdDate": "1611",
     "publishDate": "1611",
     "licenseDate": "1611",
-    "firstPerformanceDate": "1611"
+    "firstPerformanceDate": "1611",
+    "isWrittenBy": [
+      "ww_2192b18454f3ec57"
+    ]
   },
   "ww_1a758b01f866d758": {
     "internalID": "@005117",
@@ -2821,7 +3918,10 @@
     "createdDate": "1615",
     "publishDate": "1615",
     "licenseDate": "1615",
-    "firstPerformanceDate": "1615"
+    "firstPerformanceDate": "1615",
+    "isWrittenBy": [
+      "ww_e677b0c54662da19"
+    ]
   },
   "ww_c385ab8330981bbe": {
     "internalID": "@005007",
@@ -2829,7 +3929,12 @@
     "createdDate": "1619",
     "publishDate": "1619",
     "licenseDate": "1619",
-    "firstPerformanceDate": "1619"
+    "firstPerformanceDate": "1619",
+    "isWrittenBy": [
+      "ww_02a32352c63afb30",
+      "ww_39384a524a7bafbe",
+      "ww_060fb51fdafb3cc5"
+    ]
   },
   "ww_592f491781fff319": {
     "internalID": "@001929",
@@ -2837,7 +3942,10 @@
     "createdDate": "1620",
     "publishDate": "1620",
     "licenseDate": "1620",
-    "firstPerformanceDate": "1620"
+    "firstPerformanceDate": "1620",
+    "isWrittenBy": [
+      "ww_ef3a38fd3962bb10"
+    ]
   },
   "ww_9cef169b0b560107": {
     "internalID": "@002023",
@@ -2845,7 +3953,11 @@
     "createdDate": "1622",
     "publishDate": "1622",
     "licenseDate": "1622",
-    "firstPerformanceDate": "1622"
+    "firstPerformanceDate": "1622",
+    "isWrittenBy": [
+      "ww_5f289ce079b92a82",
+      "ww_0842cea2d2c52a7c"
+    ]
   },
   "ww_c34a5f8646a015b0": {
     "internalID": "@002259",
@@ -2853,7 +3965,10 @@
     "createdDate": "1628",
     "publishDate": "1628",
     "licenseDate": "1628",
-    "firstPerformanceDate": "1628"
+    "firstPerformanceDate": "1628",
+    "isWrittenBy": [
+      "ww_bfd9ef2217378964"
+    ]
   },
   "ww_130e7e0e3430594d": {
     "internalID": "@002281",
@@ -2861,7 +3976,10 @@
     "createdDate": "1629",
     "publishDate": "1629",
     "licenseDate": "1629",
-    "firstPerformanceDate": "1629"
+    "firstPerformanceDate": "1629",
+    "isWrittenBy": [
+      "ww_bfd9ef2217378964"
+    ]
   },
   "ww_9ffbafacac4416c9": {
     "internalID": "@002268",
@@ -2869,7 +3987,10 @@
     "createdDate": "1629",
     "publishDate": "1629",
     "licenseDate": "1629",
-    "firstPerformanceDate": "1629"
+    "firstPerformanceDate": "1629",
+    "isWrittenBy": [
+      "ww_e93816f9193146bf"
+    ]
   },
   "ww_ada3895646f810c7": {
     "internalID": "@002263",
@@ -2877,7 +3998,10 @@
     "createdDate": "1629",
     "publishDate": "1629",
     "licenseDate": "1631",
-    "firstPerformanceDate": "1631"
+    "firstPerformanceDate": "1631",
+    "isWrittenBy": [
+      "ww_462a1d6d567b0377"
+    ]
   },
   "ww_0124cc8bb8f88f65": {
     "internalID": "@005609",
@@ -2885,7 +4009,10 @@
     "createdDate": "1631",
     "publishDate": "1631",
     "licenseDate": "1631",
-    "firstPerformanceDate": "1631"
+    "firstPerformanceDate": "1631",
+    "isWrittenBy": [
+      "ww_3a8aed7d4df9e7de"
+    ]
   },
   "ww_503d95ad1db4cb83": {
     "internalID": "@005597",
@@ -2893,7 +4020,10 @@
     "createdDate": "1632",
     "publishDate": "1632",
     "licenseDate": "1632",
-    "firstPerformanceDate": "1632"
+    "firstPerformanceDate": "1632",
+    "isWrittenBy": [
+      "ww_987218055feb717b"
+    ]
   },
   "ww_8507a0ad9e67f1a4": {
     "internalID": "@002445",
@@ -2901,7 +4031,10 @@
     "createdDate": "1634",
     "publishDate": "1634",
     "licenseDate": "1637",
-    "firstPerformanceDate": "1637"
+    "firstPerformanceDate": "1637",
+    "isWrittenBy": [
+      "ww_03ff2c790cb2bb03"
+    ]
   },
   "ww_7a900ec81c04c54a": {
     "internalID": "@002516",
@@ -2909,7 +4042,10 @@
     "createdDate": "1635",
     "publishDate": "1635",
     "licenseDate": "1635",
-    "firstPerformanceDate": "1635"
+    "firstPerformanceDate": "1635",
+    "isWrittenBy": [
+      "ww_6f4a80592c6c793c"
+    ]
   },
   "ww_dae5dcd8a7fc9bcd": {
     "internalID": "@005595",
@@ -2917,7 +4053,10 @@
     "createdDate": "1635",
     "publishDate": "1635",
     "licenseDate": "1635",
-    "firstPerformanceDate": "1635"
+    "firstPerformanceDate": "1635",
+    "isWrittenBy": [
+      "ww_0f64a38bdb124397"
+    ]
   },
   "ww_e0f93a0d9ae8bb84": {
     "internalID": "@002528",
@@ -2925,7 +4064,10 @@
     "createdDate": "1636",
     "publishDate": "1636",
     "licenseDate": "1636",
-    "firstPerformanceDate": "1636"
+    "firstPerformanceDate": "1636",
+    "isWrittenBy": [
+      "ww_bfd9ef2217378964"
+    ]
   },
   "ww_af544de913b0885b": {
     "internalID": "@002567",
@@ -2933,7 +4075,10 @@
     "createdDate": "1637",
     "publishDate": "1637",
     "licenseDate": "1638",
-    "firstPerformanceDate": "1638"
+    "firstPerformanceDate": "1638",
+    "isWrittenBy": [
+      "ww_97f4fd8fb27e7a77"
+    ]
   },
   "ww_36728f124fde1a07": {
     "internalID": "@005559",
@@ -2941,7 +4086,10 @@
     "createdDate": "1642",
     "publishDate": "1642",
     "licenseDate": "1642",
-    "firstPerformanceDate": "1642"
+    "firstPerformanceDate": "1642",
+    "isWrittenBy": [
+      "ww_9f01235f5f2e6fff"
+    ]
   },
   "ww_19945219a7c5599a": {
     "internalID": "@005171",
@@ -2949,7 +4097,10 @@
     "createdDate": "1649",
     "publishDate": "1649",
     "licenseDate": "1649",
-    "firstPerformanceDate": "1649"
+    "firstPerformanceDate": "1649",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
   },
   "ww_d97d76c6a1fac50d": {
     "internalID": "@005567",
@@ -2957,7 +4108,10 @@
     "createdDate": "1650",
     "publishDate": "1650",
     "licenseDate": "1673",
-    "firstPerformanceDate": "1673"
+    "firstPerformanceDate": "1673",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   },
   "ww_79fe5ccacfa2bc91": {
     "internalID": "@015227",
@@ -2965,7 +4119,10 @@
     "createdDate": "1657",
     "publishDate": "1657",
     "licenseDate": "1657",
-    "firstPerformanceDate": "1657"
+    "firstPerformanceDate": "1657",
+    "isWrittenBy": [
+      "ww_5e2853e3f87f7ec9"
+    ]
   },
   "ww_0b4c366e4e5bc9b9": {
     "internalID": "@005138",
@@ -2973,6 +4130,310 @@
     "createdDate": "1688",
     "publishDate": "1688",
     "licenseDate": "1688",
-    "firstPerformanceDate": "1688"
+    "firstPerformanceDate": "1688",
+    "isWrittenBy": [
+      "ww_b2f00cf3ae93a32b"
+    ]
+  },
+  "ww_f3d7312515e5ff87": {
+    "internalID": "@000351",
+    "title": "Gorboduc",
+    "createdDate": "1561",
+    "publishDate": "1561",
+    "licenseDate": "1565",
+    "firstPerformanceDate": "1565",
+    "isWrittenBy": [
+      "ww_3d7f30bfa784adbc",
+      "ww_7af335e6c892a8d0"
+    ]
+  },
+  "ww_16de53f169f7d7d7": {
+    "internalID": "@005612",
+    "title": "A Nosegay Always Sweet",
+    "createdDate": "1584",
+    "publishDate": "1584",
+    "licenseDate": "1584",
+    "firstPerformanceDate": "1584",
+    "isWrittenBy": [
+      "ww_1e249fc82c1de780"
+    ]
+  },
+  "ww_0062af28cf1872e1": {
+    "internalID": "@000811",
+    "title": "The Battle of Alcazar",
+    "createdDate": "1588",
+    "publishDate": "1588",
+    "licenseDate": "1588",
+    "firstPerformanceDate": "1588",
+    "isWrittenBy": [
+      "ww_fe5e9a49399dadb3"
+    ]
+  },
+  "ww_be9af191e6dc9863": {
+    "internalID": "@005579",
+    "title": "Wits Misery and the Worlds Madness ",
+    "createdDate": "1596",
+    "publishDate": "1596",
+    "licenseDate": "1596",
+    "firstPerformanceDate": "1596",
+    "isWrittenBy": [
+      "ww_31ef7df7935b492f"
+    ]
+  },
+  "ww_9cfbf2557c0bd6a1": {
+    "internalID": "@005607",
+    "title": "Palladis Tamia ",
+    "createdDate": "1598",
+    "publishDate": "1598",
+    "licenseDate": "1598",
+    "firstPerformanceDate": "1598",
+    "isWrittenBy": [
+      "ww_96e72412ce67888e"
+    ]
+  },
+  "ww_30e430b5304e3a2a": {
+    "internalID": "@001216",
+    "title": "Every Man Out of His Humour",
+    "createdDate": "1599",
+    "publishDate": "1599",
+    "licenseDate": "1599",
+    "firstPerformanceDate": "1599",
+    "isWrittenBy": [
+      "ww_462a1d6d567b0377"
+    ]
+  },
+  "ww_940f28e35b0dd6d0": {
+    "internalID": "@001235",
+    "title": "Lusts Dominon, or The Spanish Moors Tragedy",
+    "createdDate": "1600",
+    "publishDate": "1600",
+    "licenseDate": "1600",
+    "firstPerformanceDate": "1600",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7",
+      "ww_947a2e721f016a03",
+      "ww_d888f97beb7a5e1c"
+    ]
+  },
+  "ww_1119cb42e0133631": {
+    "internalID": "@005593",
+    "title": "The Massacre of Money",
+    "createdDate": "1602",
+    "publishDate": "1602",
+    "licenseDate": "1602",
+    "firstPerformanceDate": "1602",
+    "isWrittenBy": [
+      "ww_22f6e503d59ca03b"
+    ]
+  },
+  "ww_55082a41763c1d8b": {
+    "internalID": "@005635",
+    "title": "Voyage and Entertainment in Russia",
+    "createdDate": "1605",
+    "publishDate": "1605",
+    "licenseDate": "1605",
+    "firstPerformanceDate": "1605",
+    "isWrittenBy": [
+      "ww_83e21e7a9246faa2"
+    ]
+  },
+  "ww_9d64f79445831f4a": {
+    "internalID": "@005599",
+    "title": "Dolarnys Primrose",
+    "createdDate": "1606",
+    "publishDate": "1606",
+    "licenseDate": "1606",
+    "firstPerformanceDate": "1606",
+    "isWrittenBy": [
+      "ww_54e7c8428ba6024c"
+    ]
+  },
+  "ww_bb778743185401c7": {
+    "internalID": "@005600",
+    "title": "The Cuckoo",
+    "createdDate": "1607",
+    "publishDate": "1607",
+    "licenseDate": "1607",
+    "firstPerformanceDate": "1607",
+    "isWrittenBy": [
+      "ww_f32bede8ddcef974"
+    ]
+  },
+  "ww_9d62e7b28d3a5fa1": {
+    "internalID": "@005636",
+    "title": "The History of Hamblet",
+    "createdDate": "1608",
+    "publishDate": "1608",
+    "licenseDate": "1608",
+    "firstPerformanceDate": "1608",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
+  },
+  "ww_e5b271060a8d1d96": {
+    "internalID": "@005121",
+    "title": "Poems (Donne)",
+    "createdDate": "1609",
+    "publishDate": "1610",
+    "licenseDate": "1609",
+    "firstPerformanceDate": "1610",
+    "isWrittenBy": [
+      "ww_16c1195bda020eff"
+    ]
+  },
+  "ww_788e82a14edb5a17": {
+    "internalID": "@001708",
+    "title": "Royal Entertainment at Caversham",
+    "createdDate": "1613",
+    "publishDate": "1613",
+    "licenseDate": "1613",
+    "firstPerformanceDate": "1613",
+    "isWrittenBy": [
+      "ww_1ba44aa9c8c5ae62"
+    ]
+  },
+  "ww_e584e5eb1d9461dd": {
+    "internalID": "@005024",
+    "title": "A Funeral Elegy on the Death of the Famous Actor Richard",
+    "createdDate": "1618",
+    "publishDate": "1618",
+    "licenseDate": "1618",
+    "firstPerformanceDate": "1618",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
+  },
+  "ww_91178a0de7db383a": {
+    "internalID": "@005598",
+    "title": "Of Two Evils Choose the Least",
+    "createdDate": "1618",
+    "publishDate": "1618",
+    "licenseDate": "1620",
+    "firstPerformanceDate": "1620",
+    "isWrittenBy": [
+      "ww_993a2c8b25ef3953"
+    ]
+  },
+  "ww_dbc39cf74839a823": {
+    "internalID": "@001941",
+    "title": "The Little French Lawyer",
+    "createdDate": "1620",
+    "publishDate": "1620",
+    "licenseDate": "1620",
+    "firstPerformanceDate": "1620",
+    "isWrittenBy": [
+      "ww_0842cea2d2c52a7c",
+      "ww_7e307ca0456d09ac"
+    ]
+  },
+  "ww_21490f13daef2089": {
+    "internalID": "@001997",
+    "title": "Match Me In London",
+    "createdDate": "1621",
+    "publishDate": "1621",
+    "licenseDate": "1621",
+    "firstPerformanceDate": "1621",
+    "isWrittenBy": [
+      "ww_74635c241e3383b7"
+    ]
+  },
+  "ww_c1a8ef34e6012321": {
+    "internalID": "@002191",
+    "title": "Dick of Devonshire",
+    "createdDate": "1626",
+    "publishDate": "1626",
+    "licenseDate": "1626",
+    "firstPerformanceDate": "1626",
+    "isWrittenBy": [
+      "ww_212c78497ddc32c5"
+    ]
+  },
+  "ww_8732be209e0db3a3": {
+    "internalID": "@002189",
+    "title": "The Valiant Scot",
+    "createdDate": "1626",
+    "publishDate": "1626",
+    "licenseDate": "1626",
+    "firstPerformanceDate": "1626",
+    "isWrittenBy": [
+      "ww_ee50ed245a0dc04f"
+    ]
+  },
+  "ww_c7ed9e19d73910af": {
+    "internalID": "@002285",
+    "title": "The Drinking Academy",
+    "createdDate": "1629",
+    "publishDate": "1629",
+    "licenseDate": "1629",
+    "firstPerformanceDate": "1629",
+    "isWrittenBy": [
+      "ww_cb8a239b578d50aa"
+    ]
+  },
+  "ww_73c69f73b623166a": {
+    "internalID": "@005596",
+    "title": "The Devil",
+    "createdDate": "1630",
+    "publishDate": "1630",
+    "licenseDate": "1630",
+    "firstPerformanceDate": "1630",
+    "isWrittenBy": [
+      "ww_987218055feb717b"
+    ]
+  },
+  "ww_ce95d11ad066ef61": {
+    "internalID": "@005639",
+    "title": "Elegy 3 - Jealousy",
+    "createdDate": "1633",
+    "publishDate": "1633",
+    "licenseDate": "1633",
+    "firstPerformanceDate": "1633",
+    "isWrittenBy": [
+      "ww_16c1195bda020eff"
+    ]
+  },
+  "ww_a978b0806dc8a39c": {
+    "internalID": "@005652",
+    "title": "Natures Assize",
+    "createdDate": "1638",
+    "publishDate": "1638",
+    "licenseDate": "1638",
+    "firstPerformanceDate": "1638",
+    "isWrittenBy": [
+      "ww_20abdf6ad9bd61dc"
+    ]
+  },
+  "ww_cc36a50722b4f55d": {
+    "internalID": "@002606",
+    "title": "The Unfortunate Lovers",
+    "createdDate": "1638",
+    "publishDate": "1638",
+    "licenseDate": "1638",
+    "firstPerformanceDate": "1638",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
+  },
+  "ww_3bf574aaea5a76e8": {
+    "internalID": "@005638",
+    "title": "Pareomiologia Anglo-Latina",
+    "createdDate": "1639",
+    "publishDate": "1639",
+    "licenseDate": "1639",
+    "firstPerformanceDate": "1639",
+    "isWrittenBy": [
+      "ww_11b6d4be322d75f4"
+    ]
+  },
+  "ww_b21d0ca00a1e7038": {
+    "internalID": "@002715",
+    "title": "The Spanish Lovers, or The Distresses",
+    "createdDate": "1639",
+    "publishDate": "1639",
+    "licenseDate": "1639",
+    "firstPerformanceDate": "1639",
+    "isWrittenBy": [
+      "ww_28d42d424b888d8d"
+    ]
   }
 }

@@ -26,8 +26,6 @@ def prepare():
 
         results = cursor.fetchall()
 
-        count = 0
-
         # Contains all the contributors from hyperhamlet. Key of the contributor object is {firstname lastname}
         all_contributors = {}
 

@@ -1,9 +1,7 @@
 # csv library
 import csv
-
 # system library
 import sys
-
 # defining path for module imports
 sys.path.append("modules/")
 
@@ -17,10 +15,16 @@ import prep_authors
 import prep_books
 # preparation for contributors
 import prep_contributors
+# preparation for editions
+import prep_editions
+# helper for edition
+import helper_edition as ed
+
 
 json_files = [
     "json/author.json",
     "json/book.json",
+    "json/edition.json",
     "json/contributor.json"
 ]
 
@@ -32,60 +36,80 @@ csv_files = [
 ]
 
 
-def create_book(id, data_row):
+def create_edition(ed_id, edition_data):
+    edition_data["isEditionOf"] = []
+    editions[ed_id] = edition_data
+
+
+def update_edition(ed_id, b_id):
+    temp = set(editions[ed_id]["isEditionOf"])
+    temp.add(b_id)
+    editions[ed_id]["isEditionOf"] = list(temp)
+
+
+def create_book(b_id, data_row):
     book = {
-        "internalID": allBooks[id]["internalID"],
-        "title": allBooks[id]["title"],
+        "internalID": allBooks[b_id]["internalID"],
+        "title": allBooks[b_id]["title"],
         "createdDate": data_row[5],
         "publishDate": data_row[6],
         "licenseDate": data_row[7],
-        "firstPerformanceDate": data_row[8]
+        "firstPerformanceDate": data_row[8],
+        "isWrittenBy": []
     }
 
-    books[id] = book
+    books[b_id] = book
 
 
-def create_author(id):
+def update_book(b_id, auth_names):
+    # Iterates through the names per entry
+    for auth_name in auth_names:
+
+        # Generates author id
+        auth_id = id.generate(auth_name)
+
+        # Checks if author already exists
+        if auth_id not in authors:
+            print("Strange UPDATE BOOK")
+            create_author(auth_id)
+        else:
+            temp = set(books[b_id]["isWrittenBy"])
+            temp.add(auth_id)
+            books[b_id]["isWrittenBy"] = list(temp)
+
+
+def create_author(auth_id):
     # Object which will be added to Knora.
     # It contains all the information needed which was defined in the data_model_definition_authors
     person = {
-        "firstName": allAuthors[id]["firstName"],
-        "lastName": allAuthors[id]["lastName"],
-        "hasSex": "male",
-        "isAuthorOf": []
-        # "isAuthorOf": allBooks[bookName]["id"]
+        "firstName": allAuthors[auth_id]["firstName"],
+        "lastName": allAuthors[auth_id]["lastName"],
+        "hasSex": "male"
     }
 
-    if "description" in allAuthors[id]:
-        person["description"] = allAuthors[id]["description"]
+    if "description" in allAuthors[auth_id]:
+        person["description"] = allAuthors[auth_id]["description"]
 
-    if "birthExact" in allAuthors[id]:
-        person["birthDate"] = "GREGORIAN:{}".format(allAuthors[id]["birthExact"])
-    elif "birthSpanStart" in allAuthors[author_id]:
-        person["birthDate"] = "GREGORIAN:{}:{}".format(allAuthors[id]["birthSpanStart"],
-                                                       allAuthors[id]["birthSpanEnd"])
+    if "birthExact" in allAuthors[auth_id]:
+        person["birthDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["birthExact"])
+    elif "birthSpanStart" in allAuthors[auth_id]:
+        person["birthDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["birthSpanStart"],
+                                                       allAuthors[auth_id]["birthSpanEnd"])
 
-    if "deathExact" in allAuthors[id]:
-        person["deathDate"] = "GREGORIAN:{}".format(allAuthors[id]["deathExact"])
-    elif "deathSpanStart" in allAuthors[author_id]:
-        person["deathDate"] = "GREGORIAN:{}:{}".format(allAuthors[id]["deathSpanStart"],
-                                                       allAuthors[id]["deathSpanEnd"])
+    if "deathExact" in allAuthors[auth_id]:
+        person["deathDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["deathExact"])
+    elif "deathSpanStart" in allAuthors[auth_id]:
+        person["deathDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["deathSpanStart"],
+                                                       allAuthors[auth_id]["deathSpanEnd"])
 
-    if "floruitExact" in allAuthors[id]:
-        person["activeDate"] = "GREGORIAN:{}".format(allAuthors[id]["floruitExact"])
-    elif "floruitSpanStart" in allAuthors[id]:
-        person["activeDate"] = "GREGORIAN:{}:{}".format(allAuthors[id]["floruitSpanStart"],
-                                                        allAuthors[id]["floruitSpanEnd"])
+    if "floruitExact" in allAuthors[auth_id]:
+        person["activeDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["floruitExact"])
+    elif "floruitSpanStart" in allAuthors[auth_id]:
+        person["activeDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["floruitSpanStart"],
+                                                        allAuthors[auth_id]["floruitSpanEnd"])
 
     # Adding the new authors to the list of authors
-    authors[id] = person
-
-
-def update_author(auth_id, data_row):
-    temp = set(authors[auth_id]["isAuthorOf"])
-    book_key = id.generate(data_row[13])
-    temp.add(book_key)
-    authors[auth_id]["isAuthorOf"] = list(temp)
+    authors[auth_id] = person
 
 
 # Clears all json files
@@ -95,11 +119,13 @@ for file in json_files:
 # Prepare all authors
 allAuthors = prep_authors.prepare()
 allBooks = prep_books.prepare()
+allEditions = prep_editions.prepare()
 allContributors = prep_contributors.prepare()
 
 # Loads the jsons and creates objects
 authors = json.load(json_files[0])
 books = json.load(json_files[1])
+editions = json.load(json_files[2])
 
 # Reads the csv files
 for csv_file in csv_files:
@@ -115,19 +141,6 @@ for csv_file in csv_files:
 
                 # Skip first row with column title
                 if line is not 0:
-
-                    # ---------- BOOK
-                    # generates book id
-                    book_id = id.generate(row[13])
-
-                    # Checks if book_id is valid
-                    if book_id not in allBooks:
-                        print("FAIL Book", book_id)
-                        raise SystemExit(0)
-
-                    # Checks if book already exists
-                    if book_id not in books:
-                        create_book(book_id, row)
 
                     # ---------- AUTHOR
 
@@ -147,11 +160,39 @@ for csv_file in csv_files:
 
                         # Checks if author already exists
                         if author_id not in authors:
-
                             create_author(author_id)
 
-                        else:
-                            update_author(author_id, row)
+                    # ---------- BOOK
+                    # generates book id
+                    book_id = id.generate(row[13])
+
+                    # Checks if book_id is valid
+                    if book_id not in allBooks:
+                        print("FAIL Book", book_id)
+                        raise SystemExit(0)
+
+                    # Checks if book already exists
+                    if book_id not in books:
+                        create_book(book_id, row)
+                        update_book(book_id, names)
+                    else:
+                        update_book(book_id, names)
+
+                    # ---------- EDITION
+                    edition = ed.info(row[4], None)
+                    edition_id = id.generate(edition["pubInfo"])
+
+                    # Checks if edition_id is valid
+                    if edition_id not in allEditions:
+                        print("FAIL Edition", edition_id, edition, csv_file)
+                        raise SystemExit(0)
+
+                    # Checks if edition already exists
+                    if edition_id not in editions:
+                        create_edition(edition_id, edition)
+                        update_edition(edition_id, book_id)
+                    else:
+                        update_edition(edition_id, book_id)
 
                 line += 1
 
@@ -162,4 +203,5 @@ for csv_file in csv_files:
 # Saves the objects in to json files
 json.save(json_files[0], authors)
 json.save(json_files[1], books)
-# json.save(json_files[2], allContributors)
+json.save(json_files[2], editions)
+json.save(json_files[3], allContributors)
