@@ -17,6 +17,8 @@ import prep_books
 import prep_contributors
 # preparation for editions
 import prep_editions
+# preparation for editions original
+import prep_editions_original
 # helper for edition
 import helper_edition as ed
 
@@ -25,6 +27,7 @@ json_files = [
     "json/author.json",
     "json/book.json",
     "json/edition.json",
+    "json/edition_original.json",
     "json/contributor.json"
 ]
 
@@ -34,6 +37,17 @@ csv_files = [
     "csv/export_3.csv",
     "csv/export_4.csv"
 ]
+
+
+def create_edition_original(ed_or_id, edition_original_data):
+    edition_original_data["isFirstEditionOf"] = []
+    editionsOriginal[ed_or_id] = edition_original_data
+
+
+def update_edition_original(ed_or_id, b_id):
+    temp = set(editionsOriginal[ed_or_id]["isFirstEditionOf"])
+    temp.add(b_id)
+    editionsOriginal[ed_or_id]["isFirstEditionOf"] = list(temp)
 
 
 def create_edition(ed_id, edition_data):
@@ -120,12 +134,14 @@ for file in json_files:
 allAuthors = prep_authors.prepare()
 allBooks = prep_books.prepare()
 allEditions = prep_editions.prepare()
+allEditionsOriginal = prep_editions_original.prepare()
 allContributors = prep_contributors.prepare()
 
 # Loads the jsons and creates objects
 authors = json.load(json_files[0])
 books = json.load(json_files[1])
 editions = json.load(json_files[2])
+editionsOriginal = json.load(json_files[3])
 
 # Reads the csv files
 for csv_file in csv_files:
@@ -194,14 +210,33 @@ for csv_file in csv_files:
                     else:
                         update_edition(edition_id, book_id)
 
+                    # ----------- EDITION ORIGINAL
+                    edition_original = ed.info(row[26], None)
+                    if edition_original:
+                        edition_original_id = id.generate(edition_original["pubInfo"])
+
+                        # Checks if edition_id is valid
+                        if edition_original_id not in allEditionsOriginal:
+                            print("FAIL Edition Original", edition_original_id, edition_original, csv_file, line)
+                            raise SystemExit(0)
+
+                        if edition_original_id not in edition_original:
+                            create_edition_original(edition_original_id, edition_original)
+                            update_edition_original(edition_original_id, book_id)
+                        else:
+                            update_edition_original(edition_original_id, book_id)
+
                 line += 1
 
     except Exception as err:
-        print(err)
+        print("FAIL: start.py", err)
         raise SystemExit(0)
 
 # Saves the objects in to json files
 json.save(json_files[0], authors)
 json.save(json_files[1], books)
 json.save(json_files[2], editions)
-json.save(json_files[3], allContributors)
+json.save(json_files[3], editionsOriginal)
+
+# TODO
+json.save(json_files[4], allContributors)

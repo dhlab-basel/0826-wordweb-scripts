@@ -117,6 +117,12 @@
       "ww_215bf6a3075a440e"
     ]
   },
+  "ww_b104f1f46ca7aabf": {
+    "pubInfo": "The Battell Of Alcazar. London: Edwarde Allde for Richard Bankworth, 1594.",
+    "isEditionOf": [
+      "ww_0062af28cf1872e1"
+    ]
+  },
   "ww_a8805770f70c9fc5": {
     "pubInfo": "The Troublesome Raigne of Iohn King of England, with the discouerie of King Richard Cordelions Base sonne (vulgarly named, The Bastard Fawconbridge): also the death of King Iohn at Swinstead Abbey. As it was (sundry times) publikely acted by the Queenes Maiesties Players, in the honourable Citie of London. London: Sampson Clarke, 1591.",
     "isEditionOf": [
@@ -1414,8 +1420,8 @@
     "letter": "The Malcontent.",
     "pubInfo": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 1:135-218.",
     "isEditionOf": [
-      "ww_7f949bbd8df542c3",
-      "ww_dc4114e044024471"
+      "ww_dc4114e044024471",
+      "ww_7f949bbd8df542c3"
     ]
   },
   "ww_7ad98dcbb8be0302": {
@@ -2445,13 +2451,6 @@
       "ww_1e80f9a92e3a09cc"
     ]
   },
-  "ww_c1ce7460f8869f52": {
-    "letter": "The Scornful Ladie.",
-    "pubInfo": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. F. Bowers. 10 vols. Cambridge: Cambridge University Press, 1970. 2:449-565.",
-    "isEditionOf": [
-      "ww_78616e66e6b9adab"
-    ]
-  },
   "ww_7b2b60780a8e6629": {
     "letter": "The Scornful Ladie.",
     "pubInfo": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. F. Bowers. 10 vols. Cambridge: Cambridge University Press, 1970.",
@@ -2631,6 +2630,12 @@
       "ww_f3d7312515e5ff87"
     ]
   },
+  "ww_9108d9b568901c05": {
+    "pubInfo": "A right excellent and famous Comoedy called the three Ladies of London. [...] London: Printed by Roger Warde 1584.",
+    "isEditionOf": [
+      "ww_75159bf6f5fdb9bc"
+    ]
+  },
   "ww_096b62112f43c970": {
     "letter": "A Nosegay Always Sweet.",
     "pubInfo": "\"A Nosegaie alvvaies sweet, for Louers to send for Tokens, of loue, at Newyeres tide, or for fairings, as they in their minds shall be disposed to write.\" A Handefull of pleasant delites. London: Richard Ihones et al., 1584.",
@@ -2643,12 +2648,6 @@
     "pubInfo": "English Renaissance Drama: A Norton Anthology. Gen. ed. David Bevington. New York and London: W. W. Norton, 2002.",
     "isEditionOf": [
       "ww_96f58f18ba880f24"
-    ]
-  },
-  "ww_b104f1f46ca7aabf": {
-    "pubInfo": "The Battell Of Alcazar. London: Edwarde Allde for Richard Bankworth, 1594.",
-    "isEditionOf": [
-      "ww_0062af28cf1872e1"
     ]
   },
   "ww_2550f5d42ea2bf3e": {
@@ -2694,6 +2693,12 @@
       "ww_940f28e35b0dd6d0"
     ]
   },
+  "ww_2713d72e648c38e2": {
+    "pubInfo": "The Maydes Metamorphosis. As it hath bene sundrie times Acted by the Children of Powles. London: Printed by Thomas Creede, for Richard Oliue 1600.",
+    "isEditionOf": [
+      "ww_ff23e2b53094740e"
+    ]
+  },
   "ww_aa0374e353c3ef51": {
     "pubInfo": "The massacre of money. London: Thomas Creede for Thomas Bushell 1602.",
     "isEditionOf": [
@@ -2710,6 +2715,12 @@
     "pubInfo": "Dolarnys Primerose, or The First Part of the Passionate Hermit. London: G. Eld, 1606.",
     "isEditionOf": [
       "ww_9d64f79445831f4a"
+    ]
+  },
+  "ww_b1b0dd47f686a27b": {
+    "pubInfo": "The Royall King, and The Loyall Subject, As it hath beene Acted with great Applause by the Queenes Maiesties Servants. London: Nich. and John Okes for James Becket 1637.",
+    "isEditionOf": [
+      "ww_231a164bb5b9d142"
     ]
   },
   "ww_f0a1aae3b5bd2a94": {
