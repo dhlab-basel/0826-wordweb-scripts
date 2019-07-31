@@ -172,12 +172,12 @@ allEditionsOriginal = prep_editions_original.prepare()
 allContributors = prep_contributors.prepare()
 
 # Loads the jsons and creates objects
-authors = json.load(json_files[0])
-books = json.load(json_files[1])
-editions = json.load(json_files[2])
-editionsOriginal = json.load(json_files[3])
-passages = json.load(json_files[4])
-passagesOriginal = json.load(json_files[5])
+authors = {}
+books = {}
+editions = {}
+editionsOriginal = {}
+passages = {}
+passagesOriginal = {}
 
 # Reads the csv files
 for csv_file in csv_files:
