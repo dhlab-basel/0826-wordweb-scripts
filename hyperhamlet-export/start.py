@@ -28,6 +28,7 @@ json_files = [
     "json/book.json",
     "json/edition.json",
     "json/edition_original.json",
+    "json/passage.json",
     "json/contributor.json"
 ]
 
@@ -37,6 +38,23 @@ csv_files = [
     "csv/export_3.csv",
     "csv/export_4.csv"
 ]
+
+
+def create_passage(pa_id, text):
+    passage = {
+        "text": text,
+        "occursIn": []
+    }
+
+    passages[pa_id] = passage
+
+
+def update_passage(pa_id, ed_id):
+    print(pa_id, ed_id)
+
+    temp = set(passages[pa_id]["occursIn"])
+    temp.add(ed_id)
+    passages[pa_id]["occursIn"] = list(temp)
 
 
 def create_edition_original(ed_or_id, edition_original_data):
@@ -142,6 +160,7 @@ authors = json.load(json_files[0])
 books = json.load(json_files[1])
 editions = json.load(json_files[2])
 editionsOriginal = json.load(json_files[3])
+passages = json.load(json_files[4])
 
 # Reads the csv files
 for csv_file in csv_files:
@@ -226,6 +245,16 @@ for csv_file in csv_files:
                         else:
                             update_edition_original(edition_original_id, book_id)
 
+                    # ------------- PASSAGE
+
+                    passage_id = id.generate(row[10])
+
+                    if passage_id not in passages:
+                        create_passage(passage_id, row[10])
+                        update_passage(passage_id, edition_id)
+                    else:
+                        update_passage(passage_id, edition_id)
+
                 line += 1
 
     except Exception as err:
@@ -237,6 +266,7 @@ json.save(json_files[0], authors)
 json.save(json_files[1], books)
 json.save(json_files[2], editions)
 json.save(json_files[3], editionsOriginal)
+json.save(json_files[4], passages)
 
 # TODO
-json.save(json_files[4], allContributors)
+json.save(json_files[5], allContributors)
