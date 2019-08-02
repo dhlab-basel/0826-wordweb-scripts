@@ -272,6 +272,66 @@
               "cardinality": "0-1"
             }
           ]
+        },
+        {"name":  "edition",
+          "super": "Resource",
+          "labels": {
+            "en": "Edition",
+            "de": "Edition"
+          },
+          "comments": {
+            "en": "Represents an edition",
+            "de": "Repräsentiert eine Edition"
+          },
+          "properties": [
+            {
+              "name": "publicationInfo",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Publication Info",
+                "de": "Publication Info"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=1024"
+              ],
+              "cardinality": "1"
+            }
+          ]
+        },
+        {"name":  "firstEdition",
+          "super": "Resource",
+          "labels": {
+            "en": "First Edition",
+            "de": "Erste Edition"
+          },
+          "comments": {
+            "en": "Represents the first edition",
+            "de": "Repräsentiert die erste Edition"
+          },
+          "properties": [
+            {
+              "name": "publicationInfo",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Publication Info",
+                "de": "Publication Info"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=1024"
+              ],
+              "cardinality": "1"
+            }
+          ]
         }
       ]
     }

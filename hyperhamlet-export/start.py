@@ -21,7 +21,8 @@ import prep_editions
 import prep_editions_original
 # helper for edition
 import helper_edition as ed
-
+# helper for page
+import helper_page
 
 json_files = [
     "json/author.json",
@@ -30,6 +31,7 @@ json_files = [
     "json/edition_original.json",
     "json/passage.json",
     "json/passage_original.json",
+    "json/page.json",
     "json/contributor.json"
 ]
 
@@ -60,12 +62,23 @@ def create_passage_original(pa_or_id, text):
     passagesOriginal[pa_or_id] = passage_or
 
 
-def update_passage_original(pa_or_id, ed_or_id):
+def update_passage_original(pa_or_id, ed_or_id, pag_id):
     # Checks if editionOriginal id is not None
     if ed_or_id:
         temp = set(passagesOriginal[pa_or_id]["occursIn"])
         temp.add(ed_or_id)
         passagesOriginal[pa_or_id]["occursIn"] = list(temp)
+
+    if pag_id:
+        passagesOriginal[pa_or_id]["hasPage"] = pag_id
+
+
+def create_page(pag_id, text):
+    page = {
+        "page": text
+    }
+
+    pages[pag_id] = page
 
 
 def create_passage(pa_id, text):
@@ -77,7 +90,7 @@ def create_passage(pa_id, text):
     passages[pa_id] = passage
 
 
-def update_passage(pa_id, ed_id, co_or_id, pa_or_id):
+def update_passage(pa_id, ed_id, co_or_id, pa_or_id, pag_id):
     if ed_id:
         temp = set(passages[pa_id]["occursIn"])
         temp.add(ed_id)
@@ -88,6 +101,9 @@ def update_passage(pa_id, ed_id, co_or_id, pa_or_id):
 
     if pa_or_id:
         passages[pa_id]["isNormalisedVersionOf"] = pa_or_id
+
+    if pag_id:
+        passages[pa_id]["hasPage"] = pag_id
 
 
 def create_edition_original(ed_or_id, edition_original_data):
@@ -195,6 +211,7 @@ editions = {}
 editionsOriginal = {}
 passages = {}
 passagesOriginal = {}
+pages = {}
 contributors = {}
 
 # Reads the csv files
@@ -289,9 +306,21 @@ for csv_file in csv_files:
                     # Creates the passage and updates the edition reference
                     if passage_id not in passages:
                         create_passage(passage_id, row[10])
-                        update_passage(passage_id, edition_id, None, None)
+                        update_passage(passage_id, edition_id, None, None, None)
                     else:
-                        update_passage(passage_id, edition_id, None, None)
+                        update_passage(passage_id, edition_id, None, None, None)
+
+                    # ------------- PAGE
+                    # extract page from bibliography
+                    page_info_for_passage = helper_page.info(row[4])
+
+                    # Checks if page was found in bibliography
+                    if page_info_for_passage:
+                        # add prefix to passage id to create page id
+                        page_id = "page_" + passage_id
+                        # Creates page and updates the passage reference
+                        create_page(page_id, page_info_for_passage)
+                        update_passage(passage_id, None, None, None, page_id)
 
                     # ------------- PASSAGE ORIGINAL
                     # Checks if there is a passage original
@@ -301,11 +330,23 @@ for csv_file in csv_files:
                         # Creates the original passage and updates edition and passage references
                         if passage_original_id not in passagesOriginal:
                             create_passage_original(passage_original_id, row[25])
-                            update_passage_original(passage_original_id, edition_original_id)
-                            update_passage(passage_id, None, None, passage_original_id)
+                            update_passage_original(passage_original_id, edition_original_id, None)
+                            update_passage(passage_id, None, None, passage_original_id, None)
                         else:
-                            update_passage_original(passage_original_id, edition_original_id)
-                            update_passage(passage_id, None, None, passage_original_id)
+                            update_passage_original(passage_original_id, edition_original_id, None)
+                            update_passage(passage_id, None, None, passage_original_id, None)
+
+                        # ------------- PAGE FOR PASSAGE ORIGINAL
+                        # extract page from bibliography
+                        page_info_for_passage_or = helper_page.info(row[26])
+
+                        # Checks if page was found in bibliography
+                        if page_info_for_passage_or:
+                            # add prefix to passage original id to create page id
+                            page_id_for_passage_or = "page_" + passage_original_id
+                            # Creates page and updates the passage original reference
+                            create_page(page_id_for_passage_or, page_info_for_passage_or)
+                            update_passage_original(passage_original_id, None, page_id_for_passage_or)
 
                     # ------------- CONTRIBUTOR
                     # generates contributor id
@@ -319,9 +360,9 @@ for csv_file in csv_files:
                     # Creates the contributor and updates the passage reference
                     if contributor_id not in contributors:
                         create_contributor(contributor_id)
-                        update_passage(passage_id, None, contributor_id, None)
+                        update_passage(passage_id, None, contributor_id, None, None)
                     else:
-                        update_passage(passage_id, None, contributor_id, None)
+                        update_passage(passage_id, None, contributor_id, None, None)
 
                 line += 1
 
@@ -336,4 +377,5 @@ json.save(json_files[2], editions)
 json.save(json_files[3], editionsOriginal)
 json.save(json_files[4], passages)
 json.save(json_files[5], passagesOriginal)
-json.save(json_files[6], contributors)
+json.save(json_files[6], pages)
+json.save(json_files[7], contributors)
