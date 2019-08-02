@@ -29,6 +29,7 @@ json_files = [
     "json/book.json",
     "json/edition.json",
     "json/edition_original.json",
+    "json/publication_info.json",
     "json/passage.json",
     "json/passage_original.json",
     "json/page.json",
@@ -107,25 +108,52 @@ def update_passage(pa_id, ed_id, co_or_id, pa_or_id, pag_id):
 
 
 def create_edition_original(ed_or_id, edition_original_data):
-    edition_original_data["isFirstEditionOf"] = []
-    editionsOriginal[ed_or_id] = edition_original_data
+    ed_or = {
+        "isFirstEditionOf": []
+    }
+
+    if "letter" in edition_original_data:
+        ed_or["letter"] = edition_original_data["letter"]
+
+    editionsOriginal[ed_or_id] = ed_or
 
 
-def update_edition_original(ed_or_id, b_id):
-    temp = set(editionsOriginal[ed_or_id]["isFirstEditionOf"])
-    temp.add(b_id)
-    editionsOriginal[ed_or_id]["isFirstEditionOf"] = list(temp)
+def update_edition_original(ed_or_id, b_id, pub_id):
+    if b_id:
+        temp = set(editionsOriginal[ed_or_id]["isFirstEditionOf"])
+        temp.add(b_id)
+        editionsOriginal[ed_or_id]["isFirstEditionOf"] = list(temp)
+
+    if pub_id:
+        editionsOriginal[ed_or_id]["isRepresentedBy"] = pub_id
+
+
+def create_publication_info(pub_id, text):
+    publication = {
+        "pubInfo": text
+    }
+
+    publicationInfos[pub_id] = publication
 
 
 def create_edition(ed_id, edition_data):
-    edition_data["isEditionOf"] = []
-    editions[ed_id] = edition_data
+    ed = {
+        "isEditionOf": []
+    }
+    if "letter" in edition_data:
+        ed["letter"] = edition_data["letter"]
+
+    editions[ed_id] = ed
 
 
-def update_edition(ed_id, b_id):
-    temp = set(editions[ed_id]["isEditionOf"])
-    temp.add(b_id)
-    editions[ed_id]["isEditionOf"] = list(temp)
+def update_edition(ed_id, b_id, pub_id):
+    if b_id:
+        temp = set(editions[ed_id]["isEditionOf"])
+        temp.add(b_id)
+        editions[ed_id]["isEditionOf"] = list(temp)
+
+    if pub_id:
+        editions[ed_id]["isRepresentedBy"] = pub_id
 
 
 def create_book(b_id, data_row):
@@ -209,6 +237,7 @@ authors = {}
 books = {}
 editions = {}
 editionsOriginal = {}
+publicationInfos = {}
 passages = {}
 passagesOriginal = {}
 pages = {}
@@ -277,9 +306,16 @@ for csv_file in csv_files:
                     # Creates the edition and updates the book reference
                     if edition_id not in editions:
                         create_edition(edition_id, edition)
-                        update_edition(edition_id, book_id)
+                        update_edition(edition_id, book_id, None)
                     else:
-                        update_edition(edition_id, book_id)
+                        update_edition(edition_id, book_id, None)
+
+                    # ----------- PUBLICATION INFO FOR EDITION
+                    # generates publication info id
+                    pub_info = "pub_" + edition_id
+                    # Creates publication info and updates publication reference
+                    create_publication_info(pub_info, edition["pubInfo"])
+                    update_edition(edition_id, None, pub_info)
 
                     # ----------- EDITION ORIGINAL
                     edition_original = ed.info(row[26], None)
@@ -295,9 +331,16 @@ for csv_file in csv_files:
                         # Creates the original edition and updates the book reference
                         if edition_original_id not in edition_original:
                             create_edition_original(edition_original_id, edition_original)
-                            update_edition_original(edition_original_id, book_id)
+                            update_edition_original(edition_original_id, book_id, None)
                         else:
-                            update_edition_original(edition_original_id, book_id)
+                            update_edition_original(edition_original_id, book_id, None)
+
+                        # ----------- PUBLICATION INFO FOR EDITION ORIGINAL
+                        # generates publication info id
+                        pub_info_for_ed_or = "pub_" + edition_original_id
+                        # Creates publication info and updates publication reference
+                        create_publication_info(pub_info_for_ed_or, edition_original["pubInfo"])
+                        update_edition_original(edition_original_id, None, pub_info_for_ed_or)
 
                     # ------------- PASSAGE
                     # generates passage id
@@ -318,7 +361,7 @@ for csv_file in csv_files:
                     if page_info_for_passage:
                         # add prefix to passage id to create page id
                         page_id = "page_" + passage_id
-                        # Creates page and updates the passage reference
+                        # Creates page and updates the page reference
                         create_page(page_id, page_info_for_passage)
                         update_passage(passage_id, None, None, None, page_id)
 
@@ -344,7 +387,7 @@ for csv_file in csv_files:
                         if page_info_for_passage_or:
                             # add prefix to passage original id to create page id
                             page_id_for_passage_or = "page_" + passage_original_id
-                            # Creates page and updates the passage original reference
+                            # Creates page and updates the page reference
                             create_page(page_id_for_passage_or, page_info_for_passage_or)
                             update_passage_original(passage_original_id, None, page_id_for_passage_or)
 
@@ -375,7 +418,8 @@ json.save(json_files[0], authors)
 json.save(json_files[1], books)
 json.save(json_files[2], editions)
 json.save(json_files[3], editionsOriginal)
-json.save(json_files[4], passages)
-json.save(json_files[5], passagesOriginal)
-json.save(json_files[6], pages)
-json.save(json_files[7], contributors)
+json.save(json_files[4], publicationInfos)
+json.save(json_files[5], passages)
+json.save(json_files[6], passagesOriginal)
+json.save(json_files[7], pages)
+json.save(json_files[8], contributors)
