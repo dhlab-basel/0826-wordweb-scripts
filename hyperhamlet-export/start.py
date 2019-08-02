@@ -241,7 +241,7 @@ for csv_file in csv_files:
                         print("FAIL Book", book_id)
                         raise SystemExit(0)
 
-                    # Checks if book already exists
+                    # Creates the book and updates the author references
                     if book_id not in books:
                         create_book(book_id, row)
                         update_book(book_id, names)
@@ -257,7 +257,7 @@ for csv_file in csv_files:
                         print("FAIL Edition", edition_id, edition, csv_file)
                         raise SystemExit(0)
 
-                    # Checks if edition already exists
+                    # Creates the edition and updates the book reference
                     if edition_id not in editions:
                         create_edition(edition_id, edition)
                         update_edition(edition_id, book_id)
@@ -275,6 +275,7 @@ for csv_file in csv_files:
                             print("FAIL Edition Original", edition_original_id, edition_original, csv_file, line)
                             raise SystemExit(0)
 
+                        # Creates the original edition and updates the book reference
                         if edition_original_id not in edition_original:
                             create_edition_original(edition_original_id, edition_original)
                             update_edition_original(edition_original_id, book_id)
@@ -285,6 +286,7 @@ for csv_file in csv_files:
                     # generates passage id
                     passage_id = id.generate(row[10])
 
+                    # Creates the passage and updates the edition reference
                     if passage_id not in passages:
                         create_passage(passage_id, row[10])
                         update_passage(passage_id, edition_id, None, None)
@@ -296,6 +298,7 @@ for csv_file in csv_files:
                     if row[25]:
                         passage_original_id = id.generate(row[25])
 
+                        # Creates the original passage and updates edition and passage references
                         if passage_original_id not in passagesOriginal:
                             create_passage_original(passage_original_id, row[25])
                             update_passage_original(passage_original_id, edition_original_id)
@@ -313,6 +316,7 @@ for csv_file in csv_files:
                         print("FAIL Contributor", contributor_id, csv_file, line)
                         raise SystemExit(0)
 
+                    # Creates the contributor and updates the passage reference
                     if contributor_id not in contributors:
                         create_contributor(contributor_id)
                         update_passage(passage_id, None, contributor_id, None)
