@@ -41,6 +41,16 @@ csv_files = [
 ]
 
 
+def create_contributor(co_id):
+    contributor = {
+        "firstName": allContributors[co_id]["firstName"],
+        "lastName": allContributors[co_id]["lastName"],
+        "email": allContributors[co_id]["email"]
+    }
+
+    contributors[co_id] = contributor
+
+
 def create_passage_original(pa_or_id, text):
     passage_or = {
         "text": text,
@@ -67,10 +77,14 @@ def create_passage(pa_id, text):
     passages[pa_id] = passage
 
 
-def update_passage(pa_id, ed_id):
-    temp = set(passages[pa_id]["occursIn"])
-    temp.add(ed_id)
-    passages[pa_id]["occursIn"] = list(temp)
+def update_passage(pa_id, ed_id, co_or_id):
+    if ed_id:
+        temp = set(passages[pa_id]["occursIn"])
+        temp.add(ed_id)
+        passages[pa_id]["occursIn"] = list(temp)
+
+    if co_or_id:
+        passages[pa_id]["wasContributedBy"] = co_or_id
 
 
 def create_edition_original(ed_or_id, edition_original_data):
@@ -178,6 +192,7 @@ editions = {}
 editionsOriginal = {}
 passages = {}
 passagesOriginal = {}
+contributors = {}
 
 # Reads the csv files
 for csv_file in csv_files:
@@ -264,14 +279,14 @@ for csv_file in csv_files:
                             update_edition_original(edition_original_id, book_id)
 
                     # ------------- PASSAGE
-
+                    # generates passage id
                     passage_id = id.generate(row[10])
 
                     if passage_id not in passages:
                         create_passage(passage_id, row[10])
-                        update_passage(passage_id, edition_id)
+                        update_passage(passage_id, edition_id, None)
                     else:
-                        update_passage(passage_id, edition_id)
+                        update_passage(passage_id, edition_id, None)
 
                     # ------------- PASSAGE ORIGINAL
                     # Checks if there is a passage original
@@ -283,6 +298,21 @@ for csv_file in csv_files:
                             update_passage_original(passage_original_id, edition_original_id)
                         else:
                             update_passage_original(passage_original_id, edition_original_id)
+
+                    # ------------- CONTRIBUTOR
+                    # generates contributor id
+                    contributor_id = id.generate(row[27].strip())
+
+                    # Checks if contributor_id is valid
+                    if contributor_id not in allContributors:
+                        print("FAIL Contributor", contributor_id, csv_file, line)
+                        raise SystemExit(0)
+
+                    if contributor_id not in contributors:
+                        create_contributor(contributor_id)
+                        update_passage(passage_id, None, contributor_id)
+                    else:
+                        update_passage(passage_id, None, contributor_id)
 
                 line += 1
 
@@ -297,6 +327,4 @@ json.save(json_files[2], editions)
 json.save(json_files[3], editionsOriginal)
 json.save(json_files[4], passages)
 json.save(json_files[5], passagesOriginal)
-
-# TODO
-json.save(json_files[6], allContributors)
+json.save(json_files[6], contributors)

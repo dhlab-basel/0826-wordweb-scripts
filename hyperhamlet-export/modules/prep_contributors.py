@@ -38,7 +38,7 @@ def prepare():
             }
 
             # Create a key which has the following format{firstName lastName}
-            unique_key = "{} {}".format(contributor["firstName"], contributor["lastName"])
+            unique_key = "{} {}".format(contributor["lastName"], contributor["firstName"])
 
             # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
             contributor_id = id.generate(unique_key)
