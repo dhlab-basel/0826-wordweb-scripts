@@ -77,7 +77,7 @@ def create_passage(pa_id, text):
     passages[pa_id] = passage
 
 
-def update_passage(pa_id, ed_id, co_or_id):
+def update_passage(pa_id, ed_id, co_or_id, pa_or_id):
     if ed_id:
         temp = set(passages[pa_id]["occursIn"])
         temp.add(ed_id)
@@ -85,6 +85,9 @@ def update_passage(pa_id, ed_id, co_or_id):
 
     if co_or_id:
         passages[pa_id]["wasContributedBy"] = co_or_id
+
+    if pa_or_id:
+        passages[pa_id]["isNormalisedVersionOf"] = pa_or_id
 
 
 def create_edition_original(ed_or_id, edition_original_data):
@@ -284,9 +287,9 @@ for csv_file in csv_files:
 
                     if passage_id not in passages:
                         create_passage(passage_id, row[10])
-                        update_passage(passage_id, edition_id, None)
+                        update_passage(passage_id, edition_id, None, None)
                     else:
-                        update_passage(passage_id, edition_id, None)
+                        update_passage(passage_id, edition_id, None, None)
 
                     # ------------- PASSAGE ORIGINAL
                     # Checks if there is a passage original
@@ -296,8 +299,10 @@ for csv_file in csv_files:
                         if passage_original_id not in passagesOriginal:
                             create_passage_original(passage_original_id, row[25])
                             update_passage_original(passage_original_id, edition_original_id)
+                            update_passage(passage_id, None, None, passage_original_id)
                         else:
                             update_passage_original(passage_original_id, edition_original_id)
+                            update_passage(passage_id, None, None, passage_original_id)
 
                     # ------------- CONTRIBUTOR
                     # generates contributor id
@@ -310,9 +315,9 @@ for csv_file in csv_files:
 
                     if contributor_id not in contributors:
                         create_contributor(contributor_id)
-                        update_passage(passage_id, None, contributor_id)
+                        update_passage(passage_id, None, contributor_id, None)
                     else:
-                        update_passage(passage_id, None, contributor_id)
+                        update_passage(passage_id, None, contributor_id, None)
 
                 line += 1
 
