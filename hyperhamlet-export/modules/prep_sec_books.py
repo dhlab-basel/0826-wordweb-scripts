@@ -4,7 +4,16 @@ import pymysql
 import re
 # JSON library
 import json
+# csv library
+import csv
+# system library
+import sys
 
+# defining path for module imports
+sys.path.append("modules/")
+
+# helper for edition
+import helper_edition as ed
 # my id generator
 import id_generator as id
 
@@ -46,7 +55,7 @@ def prepare():
                     book_id = id.generate(unique_key)
 
                     # Adding ID of SQL table
-                    book["sql"] = row["id"]
+                    # book["sql"] = row["id"]
 
                     # Adding the book to the allBooks object
                     all_sec_books[book_id] = book
@@ -58,3 +67,68 @@ def prepare():
 
     except Exception as err:
         print(err)
+
+
+def prepare_csv():
+    try:
+        with open( "csv/sec.csv") as f:
+            csv_reader = csv.reader(f, delimiter=';')
+
+            # line number in csv file
+            line = 0
+
+            # Contains all the secondary books from hyperhamlet. Key of the book object is {internalID}
+            all_sec_books = {}
+
+            for row in csv_reader:
+
+                # Skip first row with column title
+                if line is not 0:
+                    sec_book = {}
+                    # print(row[13], row[2])
+                    sec_books = re.search("(@\d{6})\sSEC\s\-\s(.*)", row[13])
+                    if sec_books:
+                        sec_book["internalID"] = sec_books.group(1)
+                        sec_book["title"] = sec_books.group(2)
+
+                        s = ed.info(row[4])
+
+                        sec_book["pubInfo"] = s["pubInfo"]
+
+                        if "letter" in s:
+                            sec_book["letter"] = s["letter"]
+
+                        # ---------- AUTHOR
+                        # Multiple names of authors
+                        names = row[2].split(" / ")
+
+                        authors = []
+
+                        # Iterates through the names per row/ entry
+                        for name in names:
+
+                            # Checks if author name is invalid
+                            if not name:
+                                print("FAIL Author in SEC", line)
+                                raise SystemExit(0)
+
+                            authors.append(name.strip())
+
+                        sec_book["authors"] = authors
+
+                        # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
+                        sec_book_id = id.generate(sec_book["internalID"])
+
+                        # Adding the book to the allBooks object
+                        all_sec_books[sec_book_id] = sec_book
+                    else:
+                        print("FAIL prep_sec_books.py")
+                        raise SystemExit(0)
+
+                line += 1
+
+        return all_sec_books
+
+    except Exception as err:
+        print("FAIL: prep_sec_books.py", err)
+        raise SystemExit(0)

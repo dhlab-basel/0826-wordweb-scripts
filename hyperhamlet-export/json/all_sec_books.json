@@ -1,882 +1,1460 @@
 {
-  "ww_1140c36ab545b6d8": {
-    "internalID": "@010000",
-    "title": "The Shakspere Allusion Book",
-    "sql": 586
-  },
-  "ww_e81f44945dfa651c": {
-    "internalID": "@010080",
-    "title": "Koeppel QS Chapman Massinger Ford",
-    "sql": 587
-  },
-  "ww_e256bd14313d2841": {
-    "internalID": "@010085",
-    "title": "Koeppel Shps Wirkung zeitgenoess Dramatiker",
-    "sql": 588
-  },
-  "ww_7ae298843ecbdbed": {
-    "internalID": "@010011",
-    "title": "Chambers Facts and Problems",
-    "sql": 589
-  },
-  "ww_c0bb45384c6abc1f": {
-    "internalID": "@010200",
-    "title": "Hohl Trillini Casual Shakespeare",
-    "sql": 590
-  },
-  "ww_fcbf6cb53d663d95": {
-    "internalID": "@010201",
-    "title": "Shakespeare and Ovid",
-    "sql": 592
-  },
-  "ww_ce6d233a20f2b70f": {
-    "internalID": "@010003",
-    "title": "Literary Genetics",
-    "sql": 593
-  },
-  "ww_160b060adc5c12bf": {
-    "internalID": "@010152",
-    "title": "Shakesperes Small Latine",
-    "sql": 595
-  },
-  "ww_2f65899f08b5bb71": {
-    "internalID": "@010046",
-    "title": "Memoranda on the Tragedy of Hamlet",
-    "sql": 596
-  },
-  "ww_aee75c33920a3b79": {
-    "internalID": "@010008",
-    "title": "Thorn-Drury More 17th-Century Allusions ",
-    "sql": 612
-  },
-  "ww_500038787dd6587d": {
-    "internalID": "@010022",
-    "title": "Thorn-Drury Shp Allusions 16-01-190",
-    "sql": 613
-  },
-  "ww_1c8a25fac02f85a7": {
-    "internalID": "@010086",
-    "title": "Thorn-Drury Some 17th-Century Allusions 1920",
-    "sql": 614
-  },
-  "ww_1346944d637cbc76": {
-    "internalID": "@010088",
-    "title": "Thorn-Drury Shp Allusions 30-11-1912",
-    "sql": 616
-  },
-  "ww_bd61ff243a1c12bf": {
-    "internalID": "@010074",
-    "title": "What Happens in Hamlet",
-    "sql": 618
-  },
-  "ww_9ec767d44e3a36f8": {
-    "internalID": "@010032",
-    "title": "The Fleire (Nibbe edition)",
-    "sql": 648
-  },
-  "ww_15dba62495527dd5": {
-    "internalID": "@010045",
-    "title": "Sources of Shakespeares Plays",
-    "sql": 650
-  },
-  "ww_47c84395b30bd53b": {
-    "internalID": "@010092",
-    "title": "Pictures in Hamlet III-iv",
-    "sql": 651
-  },
-  "ww_24f605f971c246ae": {
-    "internalID": "@010093",
-    "title": "Polonius -Another Postscript",
-    "sql": 652
-  },
-  "ww_703eb3f3a9bf6d41": {
-    "internalID": "@010073",
-    "title": "Shakespearean Burlesques (Wells edition)",
-    "sql": 653
-  },
-  "ww_a0b03d8338a97753": {
-    "internalID": "@010146",
-    "title": "Memoirs of the Principal Actors",
-    "sql": 681
-  },
-  "ww_9d75b3d3235b2834": {
-    "internalID": "@010100",
-    "title": "Farther Particulars regarding Shakespeare",
-    "sql": 682
-  },
-  "ww_f6685305b5e15919": {
-    "internalID": "@010014",
-    "title": "Henry Swinburne and Shakespeare",
-    "sql": 683
-  },
-  "ww_f4b1a8fa8f784028": {
-    "internalID": "@010112",
-    "title": "Shakespeares Ghost Writers",
-    "sql": 684
-  },
-  "ww_01a2557ffc81f6ca": {
-    "internalID": "@010145",
-    "title": "Specimen of a Commentary ",
-    "sql": 685
-  },
-  "ww_599e3b499932059f": {
-    "internalID": "@010066",
-    "title": "Shakespeares Testimentary Language",
-    "sql": 702
-  },
-  "ww_ede42cb1c3c1d408": {
-    "internalID": "@010027",
-    "title": "Shakespeares Euphuism",
-    "sql": 703
-  },
   "ww_3e15ab6c612eadae": {
     "internalID": "@010001",
     "title": "LION - Literature Online",
-    "sql": 704
-  },
-  "ww_68caf0be92d6d9a9": {
-    "internalID": "@010104",
-    "title": "Hamlet Before Its Time",
-    "sql": 835
-  },
-  "ww_a4d935e148cb86d4": {
-    "internalID": "@010034",
-    "title": "Shakespeare in Quotation Marks",
-    "sql": 836
-  },
-  "ww_df2b8c2f18df151a": {
-    "internalID": "@010049",
-    "title": "The Plays of Nathan Field",
-    "sql": 837
-  },
-  "ww_601ea37650b7df8c": {
-    "internalID": "@010063",
-    "title": "Eastward Ho and A Woman Is a Weather-Cock",
-    "sql": 838
-  },
-  "ww_b5ea9b35c899d367": {
-    "internalID": "@010087",
-    "title": "Shakespeare and Nathan Field",
-    "sql": 839
-  },
-  "ww_45ad96cc388a46fd": {
-    "internalID": "@010033",
-    "title": "Shakespeare and Jonson Their Reputations",
-    "sql": 862
+    "pubInfo": "LION - Literature Online. http://lion.chadwyck.com.",
+    "authors": [
+      "_ 0_Anon"
+    ]
   },
   "ww_d1faedb423154f39": {
     "internalID": "@010054",
     "title": "ECCO - Eighteenth-Century Collections Online",
-    "sql": 863
+    "pubInfo": "ECCO - Eighteenth Century Collections Online. http://infotrac.galegroup.com/itweb?db=ECCO. 2003.",
+    "authors": [
+      "_ 0_Anon"
+    ]
   },
   "ww_fb9509be352bd917": {
     "internalID": "@010048",
     "title": "EEBO - Early English Books Online",
-    "sql": 864
-  },
-  "ww_d50c2ba82fdc30ae": {
-    "internalID": "@010149",
-    "title": "BRITP - British Periodicals ",
-    "sql": 865
-  },
-  "ww_5af91280461707f1": {
-    "internalID": "@005134",
-    "title": "The Plays of John Marston (Wood edition)",
-    "sql": 875
-  },
-  "ww_841e89ba43cd414c": {
-    "internalID": "@005247",
-    "title": "The Broken Heart (Spencer edition)",
-    "sql": 902
-  },
-  "ww_5eeeb3e78e8b0bc3": {
-    "internalID": "@010002",
-    "title": "The Atheists Tragedy (Ribner edition)",
-    "sql": 903
-  },
-  "ww_bc577a06e5bb54c7": {
-    "internalID": "@010021",
-    "title": "The Works of Thomas Southerne (Jordan edition)",
-    "sql": 927
-  },
-  "ww_3e70301e1c6b8013": {
-    "internalID": "@010019",
-    "title": "Hamlets Horatio as an Allusion to Horace",
-    "sql": 928
-  },
-  "ww_66c4283b87c123dd": {
-    "internalID": "@010025",
-    "title": "Hamlet Then Till Now",
-    "sql": 944
-  },
-  "ww_a3bdfb5ec0f62f6f": {
-    "internalID": "@020005",
-    "title": "Hamlet (Jenkins edition)",
-    "sql": 945
-  },
-  "ww_10d1735a57c373ef": {
-    "internalID": "@010141",
-    "title": "The Works of Cyril Tourneur (Nicholl edition)",
-    "sql": 946
-  },
-  "ww_0b28ed19a0540e1d": {
-    "internalID": "@010030",
-    "title": "Biblical References in Shakespeares Tragedies",
-    "sql": 947
-  },
-  "ww_7589cfaa41b21699": {
-    "internalID": "@010020",
-    "title": "Biblical References in Shakespeares Plays",
-    "sql": 948
-  },
-  "ww_f3b3659c26b68006": {
-    "internalID": "@010076",
-    "title": "A Dictionary of the Proverbs ",
-    "sql": 949
-  },
-  "ww_e14966f62e338b68": {
-    "internalID": "@010137",
-    "title": "The Real Shakespeare",
-    "sql": 950
-  },
-  "ww_bcc975a9199bde49": {
-    "internalID": "@010199",
-    "title": "The Works of John Marston (Bullen edition)",
-    "sql": 951
-  },
-  "ww_ce8da2e3a260a394": {
-    "internalID": "@010062",
-    "title": "More Shakspere Allusions",
-    "sql": 952
-  },
-  "ww_91e0dc4c671938fa": {
-    "internalID": "@010005",
-    "title": "Quoting Hamlet in the Early 17th Century",
-    "sql": 953
-  },
-  "ww_f0b8d4220bfdd308": {
-    "internalID": "@010077",
-    "title": "OED - Oxford English Dictionary",
-    "sql": 954
-  },
-  "ww_e9b2a04d2a7fd579": {
-    "internalID": "@010043",
-    "title": "Hamlet and Cicero",
-    "sql": 955
-  },
-  "ww_3f86f30540de15b8": {
-    "internalID": "@010052",
-    "title": "Hamlet and Glorianas Knights",
-    "sql": 956
-  },
-  "ww_e9dd31d2f114bcc9": {
-    "internalID": "@010038",
-    "title": "Antonios Revenge (Gair edition)",
-    "sql": 957
-  },
-  "ww_d750e1e440e536e5": {
-    "internalID": "@010091",
-    "title": "The Complete Works of John Lyly (Bond edition)",
-    "sql": 958
-  },
-  "ww_a3cda7e114a57aa4": {
-    "internalID": "@010017",
-    "title": "Edward II (Charlton edition)",
-    "sql": 959
-  },
-  "ww_666d1ca3ab9bc2ea": {
-    "internalID": "@010125",
-    "title": "The Roaring Girl (Cook edition)",
-    "sql": 960
-  },
-  "ww_c8ba21232e68b85f": {
-    "internalID": "@010039",
-    "title": "Paradise Regained (Dunster edition)",
-    "sql": 961
-  },
-  "ww_8580b38f9dc94f0b": {
-    "internalID": "@010148",
-    "title": "The Anatomy of Melancholy (Faulkner  edition)",
-    "sql": 962
-  },
-  "ww_ce04b562ca5c764b": {
-    "internalID": "@010097",
-    "title": "Hudibras (Grey edition)",
-    "sql": 963
-  },
-  "ww_0f0f2ccb24fa3b96": {
-    "internalID": "@010047",
-    "title": "The Selected Plays of John Marston (Jackson editio",
-    "sql": 964
-  },
-  "ww_49d40eeadeef05fb": {
-    "internalID": "@010129",
-    "title": "Milton Poems (Warton edition)",
-    "sql": 965
-  },
-  "ww_17854cef6ca6f944": {
-    "internalID": "@010108",
-    "title": "Shakespeare in the 17th Century",
-    "sql": 967
-  },
-  "ww_27efae6f396668e8": {
-    "internalID": "@010109",
-    "title": "The Influence of Shakespeare on English Drama 1600",
-    "sql": 968
-  },
-  "ww_5868d5560bdfc062": {
-    "internalID": "@010083",
-    "title": "William Heminge and Shakespeare",
-    "sql": 969
-  },
-  "ww_fc0ed4bc4ee837dd": {
-    "internalID": "@010081",
-    "title": "The Turk (Adams edition)",
-    "sql": 970
-  },
-  "ww_c8b9905743513fbf": {
-    "internalID": "@010222",
-    "title": "Shp and Nashes Pierce Pennilesse 1",
-    "sql": 971
-  },
-  "ww_c8f5dee9c32a4636": {
-    "internalID": "@010107",
-    "title": "DLCPP - Digital Library of Classic Protestant Text",
-    "sql": 972
-  },
-  "ww_ba8a8fc764e851b4": {
-    "internalID": "@001581",
-    "title": "Shp Allusions (1904)",
-    "sql": 973
-  },
-  "ww_b3931845d54b98d5": {
-    "internalID": "@010082",
-    "title": "Hamlet (Hibbard edition)",
-    "sql": 974
+    "pubInfo": "EEBO - Early English Books Online. https://eebo.chadwyck.com/home. 1999. ",
+    "authors": [
+      "_ 0_Anon"
+    ]
   },
   "ww_55bc1a3b04bf8a8d": {
     "internalID": "@010084",
     "title": "FDT - Folger Digital Texts",
-    "sql": 979
+    "pubInfo": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts.",
+    "authors": [
+      "tbe (female) 0_Author",
+      "tbe (male) 0_Author"
+    ]
   },
-  "ww_c85d746358e196e6": {
-    "internalID": "@010089",
-    "title": "The Annual Register",
-    "sql": 980
+  "ww_f0b8d4220bfdd308": {
+    "internalID": "@010077",
+    "title": "OED - Oxford English Dictionary",
+    "pubInfo": "OED - Oxford English Dictionary. http:/dictionary.oed.com/entrance.dtl.",
+    "authors": [
+      "_ 0_Anon"
+    ]
   },
-  "ww_a712f959230131ce": {
-    "internalID": "@010122",
-    "title": "Some Further Shakspere Allusions or Parallels",
-    "sql": 981
-  },
-  "ww_7153ee1643dbad3b": {
-    "internalID": "@010094",
-    "title": "Nathan Field, The Actor-Playwright",
-    "sql": 982
-  },
-  "ww_eba183d996a233a5": {
-    "internalID": "@010024",
-    "title": "Shakespeares Living Sources",
-    "sql": 983
-  },
-  "ww_71f9553b2f54e1b1": {
-    "internalID": "@010090",
-    "title": "The Genesis of Shakespeare Idolatry 1766-1799",
-    "sql": 984
-  },
-  "ww_a779d6e5235e610e": {
-    "internalID": "@010106",
-    "title": "A Possible 1594 Reference to Hamlet",
-    "sql": 985
-  },
-  "ww_4899784ecc7f3845": {
-    "internalID": "@010031",
-    "title": "Shaksperes Silences",
-    "sql": 986
-  },
-  "ww_e45c23b640bedb8f": {
-    "internalID": "@010111",
-    "title": "An Unreported Hamlet Allusion",
-    "sql": 987
-  },
-  "ww_0dd45e53b3b0b09c": {
-    "internalID": "@010124",
-    "title": "Acting and Violence",
-    "sql": 988
-  },
-  "ww_3dd50e3c55b75ee6": {
-    "internalID": "@010101",
-    "title": "The Collected Works of Abraham Cowley",
-    "sql": 989
-  },
-  "ww_444e694490140e28": {
-    "internalID": "@010102",
-    "title": "Some by Stenography",
-    "sql": 990
-  },
-  "ww_1397c4b67db5b86a": {
-    "internalID": "@010055",
-    "title": "There is Nothing Like a Dane",
-    "sql": 991
-  },
-  "ww_0de19bd63a1c9142": {
-    "internalID": "@010079",
-    "title": "Against Thinking",
-    "sql": 992
-  },
-  "ww_81aaaefa494a8184": {
-    "internalID": "@010098",
-    "title": "Marston, Rivalry, Rapprochement and Jonson",
-    "sql": 993
-  },
-  "ww_0dd5e309103973fb": {
-    "internalID": "@010151",
-    "title": "Shakespeares Books",
-    "sql": 994
-  },
-  "ww_d0062b214b9d3402": {
-    "internalID": "@010004",
-    "title": "Quellenstudien zu den Dramen Thomas Middletons",
-    "sql": 995
-  },
-  "ww_cbd79ec87899a40d": {
-    "internalID": "@010072",
-    "title": "The Classical Element in the Shakespeare Plays",
-    "sql": 996
-  },
-  "ww_9bd2a51773668ca5": {
-    "internalID": "@010116",
-    "title": "Hamlets Book",
-    "sql": 997
-  },
-  "ww_827e02d710d2920e": {
-    "internalID": "@010095",
-    "title": "Narrative and Dramatic Sources of Shakespeare",
-    "sql": 998
-  },
-  "ww_cd1e70f8e2cd8c82": {
-    "internalID": "@010050",
-    "title": "Shakespeares Proverb Lore",
-    "sql": 999
-  },
-  "ww_0b652d0c80d7227e": {
-    "internalID": "@010013",
-    "title": "Five Shakespeare Allusions",
-    "sql": 1000
-  },
-  "ww_babb5a4d66fa5459": {
-    "internalID": "@010117",
-    "title": "Shakespeare and the History of Soliloquies",
-    "sql": 1001
-  },
-  "ww_08a130e81db8a98f": {
-    "internalID": "@010059",
-    "title": "Three Shakespearean Echoes",
-    "sql": 1002
-  },
-  "ww_6a0b1e5914da6bee": {
-    "internalID": "@010036",
-    "title": "Looking for Hamlet",
-    "sql": 1003
-  },
-  "ww_7b4aa85a9a3a75f4": {
-    "internalID": "@010119",
-    "title": "Das Verhaeltnis Thomas Middletons zu Shak",
-    "sql": 1005
-  },
-  "ww_6f8bba60983f33d9": {
-    "internalID": "@010026",
-    "title": "A Survey of Burlesques and Parody in English",
-    "sql": 1006
-  },
-  "ww_adfdbd7c6a7b7a62": {
-    "internalID": "@010060",
-    "title": "Shakespeare and Shorthand Once Again",
-    "sql": 1007
-  },
-  "ww_45707432cc4f2876": {
-    "internalID": "@010123",
-    "title": "Hamlets Last Words",
-    "sql": 1008
-  },
-  "ww_2fa5a9bb2a67257a": {
-    "internalID": "@010131",
-    "title": "The Homiletic Tradition in Shakespeares Plays",
-    "sql": 1009
-  },
-  "ww_a5f16976f0185875": {
-    "internalID": "@010128",
-    "title": "Paradise Lost (Newton edition)",
-    "sql": 1010
-  },
-  "ww_c1ca40b688cca87f": {
-    "internalID": "@010007",
-    "title": "The Works of John Dryden (Roper edition)",
-    "sql": 1011
-  },
-  "ww_5c89e8fa112ee4e8": {
-    "internalID": "@010135",
-    "title": "Shakespeares Sayings",
-    "sql": 1012
-  },
-  "ww_67e1fbe9bd0f1b9d": {
-    "internalID": "@010153",
-    "title": "Imitation of Shakespeare in Middletons The Family",
-    "sql": 1013
-  },
-  "ww_ec27b2270cfe4c10": {
-    "internalID": "@010114",
-    "title": "After Shakespeare",
-    "sql": 1015
-  },
-  "ww_73cdd390f6e92cbe": {
-    "internalID": "@010132",
-    "title": "Titles from Hamlet",
-    "sql": 1016
-  },
-  "ww_450c8e303d46eae2": {
-    "internalID": "@010064",
-    "title": "Hamlet and the Homilies",
-    "sql": 1017
-  },
-  "ww_d9c80276851682da": {
-    "internalID": "@010037",
-    "title": "Hamlet (Mueller edition)",
-    "sql": 1018
-  },
-  "ww_d2b6a1468adfe82f": {
-    "internalID": "@010127",
-    "title": "Complete Prose Works of John Milton (Wolfe edition",
-    "sql": 1019
-  },
-  "ww_de6299bae9b985ee": {
-    "internalID": "@010051",
-    "title": "Gleichnisse und Metaphern in Shps Dramen",
-    "sql": 1020
+  "ww_c8f5dee9c32a4636": {
+    "internalID": "@010107",
+    "title": "DLCPP - Digital Library of Classic Protestant Text",
+    "pubInfo": "DLCPP - Digital Library of Classic Protestant Texts. http://solomon.tcpt.alexanderstreet.com. ",
+    "authors": [
+      "_ 0_Anon"
+    ]
   },
   "ww_c7c5349f902de2b8": {
     "internalID": "@010113",
     "title": "Google Books",
-    "sql": 1021
+    "pubInfo": "Google Books. https://books.google.com/.",
+    "authors": [
+      "_ 0_Anon"
+    ]
   },
-  "ww_dad475a43f1ff2eb": {
-    "internalID": "@010057",
-    "title": "The source of the Seven Ages",
-    "sql": 1022
-  },
-  "ww_e7b10e483d5cee49": {
-    "internalID": "@010118",
-    "title": "A Milton Encyclopedia",
-    "sql": 1023
-  },
-  "ww_d87c5e9530010d35": {
-    "internalID": "@010139",
-    "title": "The Problem of Authorship of Eastward Ho",
-    "sql": 1025
-  },
-  "ww_c4dd28c52431d7a3": {
-    "internalID": "@010041",
-    "title": "Shakespeare and Jonson Pamphleteers",
-    "sql": 1026
-  },
-  "ww_5603853ee308e6b5": {
-    "internalID": "@010015",
-    "title": "Tragedy of Messallina (Skemp edition)",
-    "sql": 1027
-  },
-  "ww_d96cf3715d049fff": {
-    "internalID": "@010223",
-    "title": "The Revengers Tragedy (Ross edition)",
-    "sql": 1028
-  },
-  "ww_ca15500e7036f16e": {
-    "internalID": "@010154",
-    "title": "Shp and Nashes Pierce Pennilesse 2",
-    "sql": 1032
-  },
-  "ww_804d2b9aec6637b2": {
-    "internalID": "@010224",
-    "title": "Latinized Greek Drama",
-    "sql": 1035
-  },
-  "ww_ce9e48c1ecd24728": {
-    "internalID": "@010056",
-    "title": "John Marstons Drama ",
-    "sql": 1036
-  },
-  "ww_0c5550692d30fd91": {
-    "internalID": "@005194",
-    "title": "The Poems of John Marston (Davenport edition)",
-    "sql": 1042
-  },
-  "ww_28f35f82c1cad8dd": {
-    "internalID": "@005195",
-    "title": "Thomas Mays tragedy of Julia Agrippina (Schmid edi",
-    "sql": 1043
-  },
-  "ww_afbf7a5ea45be9ae": {
-    "internalID": "@005196",
-    "title": "Reliques of Ancient English Poetry",
-    "sql": 1044
-  },
-  "ww_c1dc3766e623c1fd": {
-    "internalID": "@005235",
-    "title": "Latin Aphorisms and Proverbs",
-    "sql": 1082
-  },
-  "ww_db0e9fa009aad7b3": {
-    "internalID": "@010070",
-    "title": "Word and Image Clusters in Shakespeare",
-    "sql": 1087
-  },
-  "ww_12b8cda82738e9e2": {
-    "internalID": "@010006",
-    "title": "Sir William Davenants relation to Shakespeare",
-    "sql": 1088
-  },
-  "ww_be27b70b20ad49b3": {
-    "internalID": "@005697",
-    "title": "The Turk (Lagarde edition)",
-    "sql": 1106
-  },
-  "ww_7ad6024748f5b7ef": {
-    "internalID": "@005698",
-    "title": "Parasitaster (Blostein edition)",
-    "sql": 1107
-  },
-  "ww_b448a8b1df6fffa0": {
-    "internalID": "@005699",
-    "title": "The Malcontent (Hunter edition)",
-    "sql": 1108
-  },
-  "ww_e38a56a7efbf9723": {
-    "internalID": "@005700",
-    "title": "The Insatiate Countess (Melchiori edition)",
-    "sql": 1109
-  },
-  "ww_38319ddb82fae050": {
-    "internalID": "@010018",
-    "title": "Eastward Ho (Van Fossen edition)",
-    "sql": 1110
-  },
-  "ww_c376526546624e12": {
-    "internalID": "@010155",
-    "title": "How a Man May Choose a Good Wife from a Bad",
-    "sql": 1112
-  },
-  "ww_e1e81a86f35b59e9": {
-    "internalID": "@010044",
-    "title": "Allusions to Shp in The Tragedy Of Messalina",
-    "sql": 1113
-  },
-  "ww_9412fba12ddffaa6": {
-    "internalID": "@010156",
-    "title": "Shps Life (Malone)",
-    "sql": 1114
-  },
-  "ww_1be266244661ebbf": {
-    "internalID": "@005704",
-    "title": "The Making of the National Poet",
-    "sql": 1120
-  },
-  "ww_84a8155c55c3c1e2": {
-    "internalID": "@010009",
-    "title": "The Vow-Breaker (Wallrath edition)",
-    "sql": 1127
-  },
-  "ww_b908ae26c4f3afcf": {
-    "internalID": "@010010",
-    "title": "Collaborative Plays",
-    "sql": 1128
-  },
-  "ww_2f767c233db0ba89": {
-    "internalID": "@010012",
-    "title": "Congreve as a Shakespearean",
-    "sql": 1129
-  },
-  "ww_55406532e3cd0a84": {
-    "internalID": "@010147",
-    "title": "Dismember Me",
-    "sql": 1130
-  },
-  "ww_0a299f4a7aded36a": {
-    "internalID": "@010096",
-    "title": "Fictions of Collaboration",
-    "sql": 1131
-  },
-  "ww_f034fa6f545e0122": {
-    "internalID": "@010065",
-    "title": "The Madrigal the Lute and Elizabethan Politics",
-    "sql": 1132
-  },
-  "ww_57b895420c0ddd3e": {
-    "internalID": "@010042",
-    "title": "Shp and the Classical Tradition",
-    "sql": 1133
-  },
-  "ww_227cc36a19286ccd": {
-    "internalID": "@010023",
-    "title": "Early Responses to Renaissance Drama",
-    "sql": 1134
-  },
-  "ww_42a6c34f5f492571": {
-    "internalID": "@010016",
-    "title": "Characterization in Polonius Advice",
-    "sql": 1135
-  },
-  "ww_359edd0d37d00410": {
-    "internalID": "@010028",
-    "title": "The Language of Sir Walter Scott",
-    "sql": 1136
-  },
-  "ww_97955539c83b9cc3": {
-    "internalID": "@010029",
-    "title": "The Marlowe-Shp Continuum",
-    "sql": 1137
-  },
-  "ww_bbccb861f731b4ac": {
-    "internalID": "@010035",
-    "title": "Rewriting Shp, Rewriting Ourselves",
-    "sql": 1138
-  },
-  "ww_f1fa280c821d334c": {
-    "internalID": "@010068",
-    "title": "An Early Hamlet Allusion",
-    "sql": 1139
-  },
-  "ww_94da1c067c3069f6": {
-    "internalID": "@010069",
-    "title": "Ophelias Version of the Walsingham Song",
-    "sql": 1140
-  },
-  "ww_7c79793591d10a0c": {
-    "internalID": "@010071",
-    "title": "Shp, Studley and Golding",
-    "sql": 1141
-  },
-  "ww_cd4449a9f288f0d1": {
-    "internalID": "@010099",
-    "title": "The Works of George Chapman (Shepherd edition)",
-    "sql": 1142
-  },
-  "ww_e95d4765a7973201": {
-    "internalID": "@010103",
-    "title": "William Shakespeare and Edmund Burke",
-    "sql": 1143
-  },
-  "ww_2e08ba1bdf49c8dc": {
-    "internalID": "@010105",
-    "title": "The Pleasant Comedie of old Fortunatus (Schere edi",
-    "sql": 1144
-  },
-  "ww_4ecd91ff283420a1": {
-    "internalID": "@010126",
-    "title": "The Collected Works of Thomas Middleton (Taylor ed",
-    "sql": 1145
-  },
-  "ww_7fd56e641bb573d4": {
-    "internalID": "@010130",
-    "title": " The Poetical Works of John Milton (Todd edition)",
-    "sql": 1146
-  },
-  "ww_842318fc1c593591": {
-    "internalID": "@010136",
-    "title": "His Collaborator George Wilkins",
-    "sql": 1147
-  },
-  "ww_5f5b3c7201cf830f": {
-    "internalID": "@010138",
-    "title": "Pepys and Shakespeare",
-    "sql": 1148
-  },
-  "ww_b18439026fdf86c5": {
-    "internalID": "@010140",
-    "title": "Shakespeare and the Classics",
-    "sql": 1149
-  },
-  "ww_ae88354a1d70cefb": {
-    "internalID": "@010143",
-    "title": "The Complete Works of John Webster (Lucas edition)",
-    "sql": 1151
-  },
-  "ww_14b8a85ddb603cdf": {
-    "internalID": "@005230",
-    "title": "Isocrates, Shakespeare and Calderon",
-    "sql": 1153
+  "ww_a5f16976f0185875": {
+    "internalID": "@010128",
+    "title": "Paradise Lost (Newton edition)",
+    "pubInfo": "ed. Paradise Lost: A Poem in Twelve Books. A New Edition with Notes of Various Authors. 2 vols. London: J. and R. Tonson et al., 1749.",
+    "authors": [
+      "Thomas Newton"
+    ]
   },
   "ww_d9e0f6327d6f1f7b": {
     "internalID": "@005246",
     "title": "Q Horatii Flacci epistola ad Augustum",
-    "sql": 1154
+    "pubInfo": "ed. Q. Horatii Flacci epistola ad Augustum. With an English commentary and notes. To which is added, a discourse concerning poetical imitation [...]. London: W. Thurlbourn and R. Dodsley, 1751.",
+    "authors": [
+      "Richard Hurd"
+    ]
   },
-  "ww_c8b578536e231f48": {
-    "internalID": "@005248",
-    "title": "Shakespeare as Collaborator",
-    "sql": 1155
+  "ww_afbf7a5ea45be9ae": {
+    "internalID": "@005196",
+    "title": "Reliques of Ancient English Poetry",
+    "pubInfo": "ed. Reliques of Ancient English Poetry: consisting of Old Heroic Ballads, Songs, and other Pieces of our earlier Poets, (Chiefly of the Lyric kind.) Together with some few of later Date. Second Edition. Ed. Thomas Percy. London: J. Dodsley, 1767.",
+    "authors": [
+      "Thomas Percy"
+    ]
   },
-  "ww_8b579df902809521": {
-    "internalID": "@005249",
-    "title": "An Early Hamlet Echo",
-    "sql": 1156
+  "ww_c85d746358e196e6": {
+    "internalID": "@010089",
+    "title": "The Annual Register",
+    "pubInfo": "The Annual Register or, A View of the History, Politics, and Literature, for the Year 1767. London: J. Dodsley, 1779.",
+    "authors": [
+      "_ 0_Anon"
+    ]
   },
-  "ww_295f83922412b588": {
-    "internalID": "@005260",
-    "title": "Shakespeare and Edmund Ironside",
-    "sql": 1157
+  "ww_ce04b562ca5c764b": {
+    "internalID": "@010097",
+    "title": "Hudibras (Grey edition)",
+    "pubInfo": "ed. Butler, Samuel. Hudibras, in three parts, Written in the Tome of the late Wars, by Samuel Butler, Esq. with large annotations and a preface by Zachary Grey, LL. D. 2 vols. Edinburgh: Bell and Murray, 1779.",
+    "authors": [
+      "Zachary Grey"
+    ]
   },
-  "ww_d57fe99db4adc1d0": {
-    "internalID": "@010144",
-    "title": "Thorn-Dury Shakespeare Allusion April 1909",
-    "sql": 1159
+  "ww_49d40eeadeef05fb": {
+    "internalID": "@010129",
+    "title": "Milton Poems (Warton edition)",
+    "pubInfo": "ed. Poems upon several occasions, English, Italian and Latin, with translations, by John Milton [...]. With Notes, critical and explanatory, and other illustrations. London: James Dodsley, 1785.",
+    "authors": [
+      "Thomas Warton"
+    ]
   },
-  "ww_376041155cee86ea": {
-    "internalID": "@005263",
-    "title": "Koeppel QS Ben Jonson, Marston, Beaumont und Fletc",
-    "sql": 1167
+  "ww_01a2557ffc81f6ca": {
+    "internalID": "@010145",
+    "title": "Specimen of a Commentary ",
+    "pubInfo": "A Specimen of a Commentary on Shakespeare: being the text of the first (1794) edition revised by the author and never previously published. Eds. Alan Over and Mary Bell. 2nd ed. London: Methuen, 1967.",
+    "authors": [
+      "Walter Whiter"
+    ]
   },
-  "ww_e5c5130f309e279d": {
-    "internalID": "@005264",
-    "title": "Diary of Samuel Pepys (Latham edition)",
-    "sql": 1168
+  "ww_c8ba21232e68b85f": {
+    "internalID": "@010039",
+    "title": "Paradise Regained (Dunster edition)",
+    "pubInfo": "ed. Paradise Regained: A Poem by John Milton, with Notes of Various Authors. London: George Stafford, 1800.",
+    "authors": [
+      "Charles Dunster"
+    ]
   },
-  "ww_4562787863853d66": {
-    "internalID": "@010168",
-    "title": "Shakespeareana",
-    "sql": 1175
+  "ww_7fd56e641bb573d4": {
+    "internalID": "@010130",
+    "title": " The Poetical Works of John Milton (Todd edition)",
+    "pubInfo": "ed. The Poetical Works of John Milton. 6 vols. London: Johnson et al., 1801.",
+    "authors": [
+      "Henry John Todd"
+    ]
   },
-  "ww_e9a54aab3c4c1154": {
-    "internalID": "@010169",
-    "title": "Francis Beaumonts Allusions to Shakespeare in The ",
-    "sql": 1176
+  "ww_9412fba12ddffaa6": {
+    "internalID": "@010156",
+    "title": "Shps Life (Malone)",
+    "pubInfo": "The Life of Shakespeare.",
+    "authors": [
+      "Edmond Malone"
+    ]
+  },
+  "ww_9d75b3d3235b2834": {
+    "internalID": "@010100",
+    "title": "Farther Particulars regarding Shakespeare",
+    "pubInfo": "Farther Particulars regarding Shakespeare and His Works. In A Letter to The Rev. Joseph Hunter, F.S.A. [...] London: Thomas Rodd, 1839.",
+    "authors": [
+      "John Payne Collier"
+    ]
+  },
+  "ww_a0b03d8338a97753": {
+    "internalID": "@010146",
+    "title": "Memoirs of the Principal Actors",
+    "pubInfo": "Memoirs of the Principal Actors of Shakespeare. London: Printed for the Shakespeare Society, 1846.",
+    "authors": [
+      "John Payne Collier"
+    ]
+  },
+  "ww_599e3b499932059f": {
+    "internalID": "@010066",
+    "title": "Shakespeares Testimentary Language",
+    "pubInfo": "Shakespeare's Testamentary Language. London: Longmans, Green and Co., 1869. ",
+    "authors": [
+      "William Lowes Rushton"
+    ]
+  },
+  "ww_ede42cb1c3c1d408": {
+    "internalID": "@010027",
+    "title": "Shakespeares Euphuism",
+    "pubInfo": "Shakespeare's Euphuism. London: Longmans, Green, and Co., 1871.",
+    "authors": [
+      "William Lowes Rushton"
+    ]
+  },
+  "ww_c1dc3766e623c1fd": {
+    "internalID": "@005235",
+    "title": "Latin Aphorisms and Proverbs",
+    "pubInfo": "Transactions of the Royal Historical Society (1872): 82-103.",
+    "letter": "Latin Aphorisms and Proverbs",
+    "authors": [
+      "Sir John Bowring"
+    ]
   },
   "ww_6397c37d39125a7f": {
     "internalID": "@010170",
     "title": "The Female Rebellion (Glasgow edition)",
-    "sql": 1181
+    "pubInfo": "The Female Rebelion A Tragicomedy From A MS. In The Hunterian Museum University of Glasgow. Glasgow: Printed for Private Circulation, 1872.",
+    "authors": [
+      "_ 0_Anon"
+    ]
+  },
+  "ww_cd4449a9f288f0d1": {
+    "internalID": "@010099",
+    "title": "The Works of George Chapman (Shepherd edition)",
+    "pubInfo": "ed. Chapman, George. The Works of George Chapman: Plays. London: Chatto and Windus, 1874.",
+    "authors": [
+      "Richard Herne Shepherd"
+    ]
+  },
+  "ww_2f65899f08b5bb71": {
+    "internalID": "@010046",
+    "title": "Memoranda on the Tragedy of Hamlet",
+    "pubInfo": "Memoranda on the Tragedy of Hamlet. London: James Evan Adlard, 1879.",
+    "authors": [
+      "James Orchard Halliwell-Phillipps"
+    ]
+  },
+  "ww_bcc975a9199bde49": {
+    "internalID": "@010199",
+    "title": "The Works of John Marston (Bullen edition)",
+    "pubInfo": "ed. The Works of John Marston. 3 vols. London: Nimmo, 1887.",
+    "authors": [
+      "A. H.  Bullen"
+    ]
+  },
+  "ww_376041155cee86ea": {
+    "internalID": "@005263",
+    "title": "Koeppel QS Ben Jonson, Marston, Beaumont und Fletc",
+    "pubInfo": "Quellen-Studien zu den Dramen Ben Jonson', John Marston's, und Beaumont's und Fletcher's. Erlangen und Leipzig: Deichertsche Verlagsbuchhandlung, 1895. ",
+    "authors": [
+      "Emil Koeppel"
+    ]
+  },
+  "ww_e81f44945dfa651c": {
+    "internalID": "@010080",
+    "title": "Koeppel QS Chapman Massinger Ford",
+    "pubInfo": "Quellen-Studien zu den Dramen George Chapman's, Philip Massinger's, und John Ford's. Karl J. Tr\u00fcbner: Strassburg 1897.",
+    "authors": [
+      "Emil Koeppel"
+    ]
+  },
+  "ww_4562787863853d66": {
+    "internalID": "@010168",
+    "title": "Shakespeareana",
+    "pubInfo": "The Athenaeum 3671 (5 March 1898): 320.",
+    "letter": "Shakespeareana",
+    "authors": [
+      "Edward J. L. Scott"
+    ]
+  },
+  "ww_2e08ba1bdf49c8dc": {
+    "internalID": "@010105",
+    "title": "The Pleasant Comedie of old Fortunatus (Schere edi",
+    "pubInfo": "ed. Thomas Dekker. The Pleasant Comedie of old Fortunatus. Erlangen and Leipzig: 1901.",
+    "authors": [
+      "Hans Schere"
+    ]
+  },
+  "ww_dad475a43f1ff2eb": {
+    "internalID": "@010057",
+    "title": "The source of the Seven Ages",
+    "pubInfo": "Notes and Queries 9:212 (18 January 1902): 46-47. ",
+    "letter": "The source of the 'Seven Ages'",
+    "authors": [
+      "Charles A. Herpich"
+    ]
+  },
+  "ww_d750e1e440e536e5": {
+    "internalID": "@010091",
+    "title": "The Complete Works of John Lyly (Bond edition)",
+    "pubInfo": "ed. John Lyly. The Complete Works of John Lyly. Oxford: The Clarendon Press, 1902.",
+    "authors": [
+      "R. W. Bond"
+    ]
   },
   "ww_a8abcb46bdb829e4": {
     "internalID": "@010202",
     "title": "Gefluegelte Worte",
-    "sql": 1185
+    "pubInfo": "Gefl\u00fcgelte Worte: der Citatenschatz des deutschen Volkes, gesammelt und erl\u00e4utert von Georg B\u00fcchmann. Fortgesetzt von Walter Robert-tornow. 21. vermehrte und verbesserte Auflage bearbeitet von Eduard Ippel. Berlin: Verlag der Hande und Spenerschen Buchhandlung, 1903. ",
+    "authors": [
+      "Georg B\u00fcchmann"
+    ]
   },
-  "ww_70b396a03a28da11": {
-    "internalID": "@010157",
-    "title": "Hamlet&#039;s Mice, Motes, Moles, and Minching Mal",
-    "sql": 1190
+  "ww_0dd5e309103973fb": {
+    "internalID": "@010151",
+    "title": "Shakespeares Books",
+    "pubInfo": "Shakespeare's Books: A Dissertation on Shakespeare's Reading and the Immediate Sources of his Words. Berlin: Georg Reimer, 1904.",
+    "authors": [
+      "Heinrich R. D.  Anders"
+    ]
   },
-  "ww_1b231152ba6c63ce": {
-    "internalID": "@010158",
-    "title": "The Stukeley plays",
-    "sql": 1191
+  "ww_ba8a8fc764e851b4": {
+    "internalID": "@001581",
+    "title": "Shp Allusions (1904)",
+    "pubInfo": "Notes and Queries. 10.1 (16 January 1904): 44.",
+    "letter": "Shakespearian Allusions",
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
+  "ww_7b4aa85a9a3a75f4": {
+    "internalID": "@010119",
+    "title": "Das Verhaeltnis Thomas Middletons zu Shak",
+    "pubInfo": "Das Verh\u00e4ltnis Thomas Middletons zu Shakspere. M\u00fcnchner Beitr\u00e4ge 29. Leipzig: 1904.",
+    "authors": [
+      "H. Jung"
+    ]
+  },
+  "ww_12b8cda82738e9e2": {
+    "internalID": "@010006",
+    "title": "Sir William Davenants relation to Shakespeare",
+    "pubInfo": "Sir William Davenant's relation to Shakespeare: With an analysis of the Chief Characters of Davenant's Plays. PhD Strassburg 1905.",
+    "authors": [
+      "John Davis Ellis Williams"
+    ]
+  },
+  "ww_e256bd14313d2841": {
+    "internalID": "@010085",
+    "title": "Koeppel Shps Wirkung zeitgenoess Dramatiker",
+    "pubInfo": "Studien \u00fcber Shakespeare's Wirkung auf zeitgen\u00f6ssische Dramatiker. Louvain: Uystpruyst, 1905.",
+    "authors": [
+      "Emil Koeppel"
+    ]
+  },
+  "ww_d0062b214b9d3402": {
+    "internalID": "@010004",
+    "title": "Quellenstudien zu den Dramen Thomas Middletons",
+    "pubInfo": "Quellenstudien zu den Dramen Thomas Middletons. PhD Strassburg 1905. ",
+    "authors": [
+      "Karl Christ"
+    ]
+  },
+  "ww_5f5b3c7201cf830f": {
+    "internalID": "@010138",
+    "title": "Pepys and Shakespeare",
+    "pubInfo": "Fortnightly Review 79.469 (January 1906): 104-120. ",
+    "letter": "Pepys and Shakespeare",
+    "authors": [
+      "Sir Sidney Lee"
+    ]
+  },
+  "ww_de6299bae9b985ee": {
+    "internalID": "@010051",
+    "title": "Gleichnisse und Metaphern in Shps Dramen",
+    "pubInfo": "Gleichnisse und Metaphern in Shakespeare's Dramen und in seinen Quellenschriften. PhD. Strassburg: Elsass-Lothringische Druckerei, 1908. ",
+    "authors": [
+      "Hermann Voigt"
+    ]
+  },
+  "ww_1140c36ab545b6d8": {
+    "internalID": "@010000",
+    "title": "The Shakspere Allusion Book",
+    "pubInfo": "The Shakspere Allusion Book: A Collection of Allusions to Shakspere from 1591 to 1700 [...]. London: Chatto and Windus; New York: Duffield and Co., 1909.",
+    "authors": [
+      "Frederick James Furnivall",
+      "Clement Mansfield Ingleby",
+      "John Munro",
+      "Lucy Toulmin Smith"
+    ]
+  },
+  "ww_cbd79ec87899a40d": {
+    "internalID": "@010072",
+    "title": "The Classical Element in the Shakespeare Plays",
+    "pubInfo": "The Classical Element in the Shakespeare Plays. London: Robert Banks, 1909. ",
+    "authors": [
+      "W. M. Theobald"
+    ]
+  },
+  "ww_d57fe99db4adc1d0": {
+    "internalID": "@010144",
+    "title": "Thorn-Dury Shakespeare Allusion April 1909",
+    "pubInfo": "Notes and Queries 40 (17 April 1909): 305.",
+    "letter": "Shakespeare Allusion",
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
+  "ww_28f35f82c1cad8dd": {
+    "internalID": "@005195",
+    "title": "Thomas Mays tragedy of Julia Agrippina (Schmid edi",
+    "pubInfo": "Thomas May's tragedy of Julia Agrippina, empresse of Rome. Louvain: A. Uytspruyst, 1914. Printed version of Schmid, F. Ernst. Thomas May's tragedy of Julia Agrippina, empresse of Rome. PhD Strassburg, 1910. ",
+    "authors": [
+      "F. Ernst Schmid"
+    ]
+  },
+  "ww_5603853ee308e6b5": {
+    "internalID": "@010015",
+    "title": "Tragedy of Messallina (Skemp edition)",
+    "pubInfo": "ed. Nathanael Richards' tragedy of Messallina the Roman emperesse. Louvain: A. Uystpruyst, 1910. ",
+    "authors": [
+      "Arthur Rowland Skemp"
+    ]
+  },
+  "ww_1346944d637cbc76": {
+    "internalID": "@010088",
+    "title": "Thorn-Drury Shp Allusions 30-11-1912",
+    "pubInfo": "Notes and Queries 11-6:153, 30 November 1912): 426-427.",
+    "letter": "Shakespeare Allusions",
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
+  "ww_9ec767d44e3a36f8": {
+    "internalID": "@010032",
+    "title": "The Fleire (Nibbe edition)",
+    "pubInfo": "ed. The Fleire by Edward Sharpham nach der Quarto 1607 herausgegeben. Louvain: A. Uystpruyst, 1912. Print edition of Hunold Nibbe. The Fleire by Edward Sharpham: kritische Neuausgabe mit Einleitung und Anmerkungen. PhD Strassburg 1911. ",
+    "authors": [
+      "Hunold Nibbe"
+    ]
+  },
+  "ww_c376526546624e12": {
+    "internalID": "@010155",
+    "title": "How a Man May Choose a Good Wife from a Bad",
+    "pubInfo": "ed. How a Man May Choose a Good Wife from a Bad von Thomas Heywood nach der Quarto 1608 herausgegeben. Louvain: A. Uystpruyst, 1912.",
+    "authors": [
+      "A. E. H. Swaen"
+    ]
   },
   "ww_f3582e478658b162": {
     "internalID": "@006000",
     "title": "The Insatiate Countess (Ernst edition)",
-    "sql": 1198
+    "pubInfo": "ed. The Insatiate Countess. 1913.",
+    "authors": [
+      "Friedrich Ernst"
+    ]
+  },
+  "ww_fc0ed4bc4ee837dd": {
+    "internalID": "@010081",
+    "title": "The Turk (Adams edition)",
+    "pubInfo": "ed. John Mason's The Turke edited from the Quartos of 1610 and 1632. Louvain: A. Uytpruyst, 1913.",
+    "authors": [
+      "Joseph Quincy Jr. Adams"
+    ]
+  },
+  "ww_5868d5560bdfc062": {
+    "internalID": "@010083",
+    "title": "William Heminge and Shakespeare",
+    "pubInfo": "Modern Philology 12:1 (May, 1914): 51-64.",
+    "letter": "William Heminge and Shakespeare",
+    "authors": [
+      "Joseph Quincy Jr. Adams"
+    ]
+  },
+  "ww_84a8155c55c3c1e2": {
+    "internalID": "@010009",
+    "title": "The Vow-Breaker (Wallrath edition)",
+    "pubInfo": "ed. William Sampson's The Vow-Breaker. Louvain: A. Uytpruyst, 1914. ",
+    "authors": [
+      "Hans Wallrath"
+    ]
+  },
+  "ww_ce8da2e3a260a394": {
+    "internalID": "@010062",
+    "title": "More Shakspere Allusions",
+    "pubInfo": "Modern Philology 13.9 (1916): 497-544.",
+    "letter": "More Shakspere Allusions",
+    "authors": [
+      "John Munro"
+    ]
+  },
+  "ww_a712f959230131ce": {
+    "internalID": "@010122",
+    "title": "Some Further Shakspere Allusions or Parallels",
+    "pubInfo": "Modern Language Notes 33:4 (April 1918): 204-208. ",
+    "letter": "Some Further Shakspere Allusions or Parallels",
+    "authors": [
+      "Lawrence Mason"
+    ]
+  },
+  "ww_1c8a25fac02f85a7": {
+    "internalID": "@010086",
+    "title": "Thorn-Drury Some 17th-Century Allusions 1920",
+    "pubInfo": "Some Seventeenth-Century Allusions to Shakespeare and His Works, Not Hitherto Collected. London: P. J. and A. E. Dobell, 1920.",
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
+  "ww_aee75c33920a3b79": {
+    "internalID": "@010008",
+    "title": "Thorn-Drury More 17th-Century Allusions ",
+    "pubInfo": "More Seventeenth-Century Allusions to Shakespeare and His Works. London: Dobell, 1924.",
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
+  "ww_ae88354a1d70cefb": {
+    "internalID": "@010143",
+    "title": "The Complete Works of John Webster (Lucas edition)",
+    "pubInfo": "ed. The Complete Works of John Webster. 4 vols. London: Chatto and Windus, 1927. ",
+    "authors": [
+      "F. L. Lucas"
+    ]
+  },
+  "ww_7153ee1643dbad3b": {
+    "internalID": "@010094",
+    "title": "Nathan Field, The Actor-Playwright",
+    "pubInfo": "Nathan Field, The Actor-Playwright. New Haven: Yale University Press, 1928.",
+    "authors": [
+      "Roberta Florence Brinkley"
+    ]
   },
   "ww_4e091746c9370e38": {
     "internalID": "@010061",
     "title": "The Life of Marlowe",
-    "sql": 1199
+    "pubInfo": "ed. The Life of Marlowe and The Tragedy of Dido Queen of Carthage. London: Methuen and Co., 1930.",
+    "authors": [
+      "C. F. Tucker Brooke"
+    ]
+  },
+  "ww_7ae298843ecbdbed": {
+    "internalID": "@010011",
+    "title": "Chambers Facts and Problems",
+    "pubInfo": "Shakespeare: A Study of Facts and Problems. Oxford: Clarendon Press, 1930.",
+    "authors": [
+      "Edward Kerchever Chambers"
+    ]
+  },
+  "ww_6f8bba60983f33d9": {
+    "internalID": "@010026",
+    "title": "A Survey of Burlesques and Parody in English",
+    "pubInfo": "A Survey of Burlesques and Parody in English. Edinburgh: Oliver and Boyd, 1931.",
+    "authors": [
+      "George Kitchin"
+    ]
+  },
+  "ww_a3cda7e114a57aa4": {
+    "internalID": "@010017",
+    "title": "Edward II (Charlton edition)",
+    "pubInfo": "eds. Christopher Marlowe. Edward II. Eds. Charlton, H. B. and London: Methuen, 1933.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_9bd2a51773668ca5": {
+    "internalID": "@010116",
+    "title": "Hamlets Book",
+    "pubInfo": "Huntington Library Bulletin 6 (1934): 17-37.",
+    "letter": "Hamlet's Book",
+    "authors": [
+      "Craig Hardin"
+    ]
+  },
+  "ww_5af91280461707f1": {
+    "internalID": "@005134",
+    "title": "The Plays of John Marston (Wood edition)",
+    "pubInfo": "ed. The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939.",
+    "authors": [
+      "Harvey Wood"
+    ]
+  },
+  "ww_bd61ff243a1c12bf": {
+    "internalID": "@010074",
+    "title": "What Happens in Hamlet",
+    "pubInfo": "What Happens in Hamlet? Cambridge: Cambridge University Press, 2003.",
+    "authors": [
+      "John Dover Wilson"
+    ]
+  },
+  "ww_f1fa280c821d334c": {
+    "internalID": "@010068",
+    "title": "An Early Hamlet Allusion",
+    "pubInfo": "The Shakespeare Association Bulletin 16.1 (1941): 50-1.",
+    "letter": "An Early Hamlet Allusion",
+    "authors": [
+      "Howard Schultz"
+    ]
+  },
+  "ww_160b060adc5c12bf": {
+    "internalID": "@010152",
+    "title": "Shakesperes Small Latine",
+    "pubInfo": "William Shakspere's Small Latine and Lesse Greeke. 2 vols. Urbana: University of Illinois Press, 1944.",
+    "authors": [
+      "Thomas Whitfield Baldwin"
+    ]
+  },
+  "ww_d87c5e9530010d35": {
+    "internalID": "@010139",
+    "title": "The Problem of Authorship of Eastward Ho",
+    "pubInfo": "PMLA 59.3 (September 1944): 715-725. ",
+    "letter": "The Problem of Authorship of Eastward Ho",
+    "authors": [
+      "Percy Simpson"
+    ]
+  },
+  "ww_45ad96cc388a46fd": {
+    "internalID": "@010033",
+    "title": "Shakespeare and Jonson Their Reputations",
+    "pubInfo": "Shakespeare and Jonson: Their Reputations in the Seventeenth Century Compared. Chicago: University of Chicago Press, 1945.",
+    "authors": [
+      "Gerald Eades Bentley"
+    ]
+  },
+  "ww_601ea37650b7df8c": {
+    "internalID": "@010063",
+    "title": "Eastward Ho and A Woman Is a Weather-Cock",
+    "pubInfo": "Modern Language Notes 62:2 (February 1947): 131-132.",
+    "letter": "Eastward Ho! and A Woman is a Weathercock",
+    "authors": [
+      "William Peery"
+    ]
+  },
+  "ww_df2b8c2f18df151a": {
+    "internalID": "@010049",
+    "title": "The Plays of Nathan Field",
+    "pubInfo": "ed. The Plays of Nathan Field: Edited from the Original Quartos with Introduction and Notes. Austin: The University of Texas Press, 1950. ",
+    "authors": [
+      "William Peery"
+    ]
+  },
+  "ww_b5ea9b35c899d367": {
+    "internalID": "@010087",
+    "title": "Shakespeare and Nathan Field",
+    "pubInfo": "Neophilologus 34.4 (October 1950): 238-245. ",
+    "letter": "Shakespeare and Nathan Field",
+    "authors": [
+      "William Peery"
+    ]
+  },
+  "ww_f3b3659c26b68006": {
+    "internalID": "@010076",
+    "title": "A Dictionary of the Proverbs ",
+    "pubInfo": "A Dictionary of the Proverbs in England in the Sixteenth and Seventeenth Centuries [...]. Ann Arbor 1950.",
+    "authors": [
+      "Morris Palmer Tilley"
+    ]
+  },
+  "ww_67e1fbe9bd0f1b9d": {
+    "internalID": "@010153",
+    "title": "Imitation of Shakespeare in Middletons The Family",
+    "pubInfo": "Philological Quarterly 29 (1 January 1950): 75-78. ",
+    "letter": "Imitation of Shakespeare in Middleton's The Family of Love",
+    "authors": [
+      "J. W.  Olive"
+    ]
+  },
+  "ww_47c84395b30bd53b": {
+    "internalID": "@010092",
+    "title": "Pictures in Hamlet III-iv",
+    "pubInfo": "Shakespeare Quarterly 3:3 (July 1952): 280-281. ",
+    "letter": "The Pictures in Hamlet III. iv: A Possible Contemporary",
+    "authors": [
+      "Fredson Thayer Bowers"
+    ]
+  },
+  "ww_b18439026fdf86c5": {
+    "internalID": "@010140",
+    "title": "Shakespeare and the Classics",
+    "pubInfo": "Shakespeare and the Classics. London: George Allen and Unwin, 1952.",
+    "authors": [
+      "J. A. K.  Thomson"
+    ]
+  },
+  "ww_ca15500e7036f16e": {
+    "internalID": "@010154",
+    "title": "Shp and Nashes Pierce Pennilesse 2",
+    "pubInfo": "Notes and Queries 198 (September 1953): 371-374.",
+    "letter": "Shakespeare and Nashe's Pierce Pennilesse",
+    "authors": [
+      "Arnold Davenport"
+    ]
+  },
+  "ww_24f605f971c246ae": {
+    "internalID": "@010093",
+    "title": "Polonius -Another Postscript",
+    "pubInfo": "Shakespeare Quarterly 4 (1953): 362-364.",
+    "letter": "Polonius: Another Postscript",
+    "authors": [
+      "R. H.  Bowers"
+    ]
+  },
+  "ww_c8b9905743513fbf": {
+    "internalID": "@010222",
+    "title": "Shp and Nashes Pierce Pennilesse 1",
+    "pubInfo": "Notes and Queries (September 1953): 272-274.",
+    "letter": "Shakespeare and Nashe's 'Pierce Pennilesse'",
+    "authors": [
+      "Arnold Davenport"
+    ]
+  },
+  "ww_42a6c34f5f492571": {
+    "internalID": "@010016",
+    "title": "Characterization in Polonius Advice",
+    "pubInfo": "SQ 4.1 (January 1953): 3-9.",
+    "letter": "Characterization in Polonius' Advice to Laertes",
+    "authors": [
+      "tbe (female) 0_Author"
+    ]
+  },
+  "ww_d2b6a1468adfe82f": {
+    "internalID": "@010127",
+    "title": "Complete Prose Works of John Milton (Wolfe edition",
+    "pubInfo": "ed. Complete Prose Works of John Milton. 8 vols. New Haven and London: Oxford University Press and Yale University Press, 1953.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_3f86f30540de15b8": {
+    "internalID": "@010052",
+    "title": "Hamlet and Glorianas Knights",
+    "pubInfo": "Shakespeare Quarterly 6:1 (Winter 1955): 31-43.",
+    "letter": "Hamlet and Gloriana's Knights",
+    "authors": [
+      "Abbie Findlay Potts"
+    ]
+  },
+  "ww_c4dd28c52431d7a3": {
+    "internalID": "@010041",
+    "title": "Shakespeare and Jonson Pamphleteers",
+    "pubInfo": "Modern Philology 53.2 (November 1955): 88-99.",
+    "letter": "Shakespeare and Jonson among the Pamphleteers of the First Civil War: Some Unreported Seventeenth-Century Allusions",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_c1ca40b688cca87f": {
+    "internalID": "@010007",
+    "title": "The Works of John Dryden (Roper edition)",
+    "pubInfo": "ed. The Works of John Dryden. 20 vols. Berkeley: University of California Press, 1956-1989.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_f6685305b5e15919": {
+    "internalID": "@010014",
+    "title": "Henry Swinburne and Shakespeare",
+    "pubInfo": "Notes and Queries 202 (1957): 285-286. <br>",
+    "letter": "Henry Swinburne and Shakespeare",
+    "authors": [
+      "Kenneth Arthur Muir"
+    ]
+  },
+  "ww_827e02d710d2920e": {
+    "internalID": "@010095",
+    "title": "Narrative and Dramatic Sources of Shakespeare",
+    "pubInfo": "ed. Narrative and Dramatic Sources of Shakespeare. London 1957-1975.",
+    "authors": [
+      "Geoffrey Bullough"
+    ]
+  },
+  "ww_eba183d996a233a5": {
+    "internalID": "@010024",
+    "title": "Shakespeares Living Sources",
+    "pubInfo": "Queen's Quarterly 65 (1 January 1958): 239-250.",
+    "letter": "Shakespeare's Living Sources",
+    "authors": [
+      "G. P. V.  Akrigg"
+    ]
+  },
+  "ww_ce6d233a20f2b70f": {
+    "internalID": "@010003",
+    "title": "Literary Genetics",
+    "pubInfo": "On the Literary Genetics of Shakspere's Plays 1592-1594. Urbana: University of Illinois Press, 1959.",
+    "authors": [
+      "Thomas Whitfield Baldwin"
+    ]
+  },
+  "ww_c8b578536e231f48": {
+    "internalID": "@005248",
+    "title": "Shakespeare as Collaborator",
+    "pubInfo": "Shakespeare as a Collaborator. London: Methuen, 1960.",
+    "authors": [
+      "Kenneth Arthur Muir"
+    ]
+  },
+  "ww_0c5550692d30fd91": {
+    "internalID": "@005194",
+    "title": "The Poems of John Marston (Davenport edition)",
+    "pubInfo": "ed. The poems of John Marston. Edited by Arnold Davenport. Liverpool University Press 1961.",
+    "authors": [
+      "Arnold Davenport"
+    ]
+  },
+  "ww_cd1e70f8e2cd8c82": {
+    "internalID": "@010050",
+    "title": "Shakespeares Proverb Lore",
+    "pubInfo": "Shakespeare's Proverb Lore: His Use of the Sententiae of Leonard Culman and Publilius Syrus. Cambridge (Mass.): Harvard University Press, 1963.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_8b579df902809521": {
+    "internalID": "@005249",
+    "title": "An Early Hamlet Echo",
+    "pubInfo": "Shakespeare Quarterly 14 (1963): 87\u201389.",
+    "letter": "An Early Hamlet Echo?",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_295f83922412b588": {
+    "internalID": "@005260",
+    "title": "Shakespeare and Edmund Ironside",
+    "pubInfo": "Notes and Queries (September 1963): 331-332. ",
+    "letter": "Shakespeare and Edmund Ironside",
+    "authors": [
+      "MacDonald P. Jackson"
+    ]
+  },
+  "ww_10d1735a57c373ef": {
+    "internalID": "@010141",
+    "title": "The Works of Cyril Tourneur (Nicholl edition)",
+    "pubInfo": "ed. The Works of Cyril Tourneur. New York: Russell and Russell, 1963.",
+    "authors": [
+      "John Ramsay Allardyce Nicholl"
+    ]
+  },
+  "ww_5eeeb3e78e8b0bc3": {
+    "internalID": "@010002",
+    "title": "The Atheists Tragedy (Ribner edition)",
+    "pubInfo": "ed. Cyril Tourneur. The Atheist's Tragedy, or The Honest Man's Revenge. London: The Broadwater Press, 1964.",
+    "authors": [
+      "Irving Ribner"
+    ]
+  },
+  "ww_71f9553b2f54e1b1": {
+    "internalID": "@010090",
+    "title": "The Genesis of Shakespeare Idolatry 1766-1799",
+    "pubInfo": "The Genesis of Shakespeare Idolatry, 1766-1799: A Study in English Criticism of the Late Eighteenth Century. New York: Russell and Russell, 1964.",
+    "authors": [
+      "Robert Witback Babcock"
+    ]
+  },
+  "ww_a779d6e5235e610e": {
+    "internalID": "@010106",
+    "title": "A Possible 1594 Reference to Hamlet",
+    "pubInfo": "Shakespeare Quarterly 15:4 (Autumn 1964): 446-447. ",
+    "letter": "A Possible 1594 Reference to Hamlet",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_94da1c067c3069f6": {
+    "internalID": "@010069",
+    "title": "Ophelias Version of the Walsingham Song",
+    "pubInfo": "Music and Letters 45:2 (April 1964): 108-113.",
+    "letter": "Ophelia's Version of the Walsingham Song",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_17854cef6ca6f944": {
+    "internalID": "@010108",
+    "title": "Shakespeare in the 17th Century",
+    "pubInfo": "Shakespeare Quarterly 16.1 (Winter 1965): 81-89.",
+    "letter": "Shakespeare in the Seventeenth Century",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_d96cf3715d049fff": {
+    "internalID": "@010223",
+    "title": "The Revengers Tragedy (Ross edition)",
+    "pubInfo": "ed. Tourneur. The Revenger's Tragedy. Regents Renaissance Drama Series. London: Edward Arnold, 1967. ",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_2fa5a9bb2a67257a": {
+    "internalID": "@010131",
+    "title": "The Homiletic Tradition in Shakespeares Plays",
+    "pubInfo": "Shakespeare Studies 5 (1966-1967): 72-87.",
+    "letter": "The Homiletic Tradition in Shakespeare's Plays",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_27efae6f396668e8": {
+    "internalID": "@010109",
+    "title": "The Influence of Shakespeare on English Drama 1600",
+    "pubInfo": "The Influence of Shakespeare on English Drama 1600-1642. Cambridge: Cambridge University Press, 1968.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_57b895420c0ddd3e": {
+    "internalID": "@010042",
+    "title": "Shp and the Classical Tradition",
+    "pubInfo": "Shakespeare and the Classical Tradition: A Critical Guide to Commentary, 1660-1960. Minneapolis: University of Minnesota Press, 1968.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_0b652d0c80d7227e": {
+    "internalID": "@010013",
+    "title": "Five Shakespeare Allusions",
+    "pubInfo": "Shakespeare Quarterly 20.1 (Winter 1969): 81-83.",
+    "letter": "Five Shakespeare Allusions: 1621-1630",
+    "authors": [
+      "Roland Mushat Frye"
+    ]
+  },
+  "ww_f034fa6f545e0122": {
+    "internalID": "@010065",
+    "title": "The Madrigal the Lute and Elizabethan Politics",
+    "pubInfo": "Past and Present 44 (August 1969): 3-51.",
+    "letter": "The Madrigal, the Lute Song and Elizabethan Politics",
+    "authors": [
+      "Lilian M. Ruff",
+      "D. Arnold Wilson"
+    ]
+  },
+  "ww_4899784ecc7f3845": {
+    "internalID": "@010031",
+    "title": "Shaksperes Silences",
+    "pubInfo": "Shakspere's Silences. Library of Shakespearean Biography and Criticism. New York: Books for Libraries Press, 1970. ",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_14b8a85ddb603cdf": {
+    "internalID": "@005230",
+    "title": "Isocrates, Shakespeare and Calderon",
+    "pubInfo": "Hispanic Review 42.2 (Spring 1974): 185-198.",
+    "letter": "Isocrates, Shakespeare, and Calder\u00f3n: Advice to a Young Man",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_b448a8b1df6fffa0": {
+    "internalID": "@005699",
+    "title": "The Malcontent (Hunter edition)",
+    "pubInfo": "ed. The Malcontent. Manchester: Manchester University Press, 1975, repr. 1999.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_08a130e81db8a98f": {
+    "internalID": "@010059",
+    "title": "Three Shakespearean Echoes",
+    "pubInfo": "Notes and Queries April 220 (1975): 175.",
+    "letter": "Three Shakespearean Echoes",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_450c8e303d46eae2": {
+    "internalID": "@010064",
+    "title": "Hamlet and the Homilies",
+    "pubInfo": "Shakespeare Quarterly 26.3 (Summer 1975): 299-301.",
+    "letter": "Hamlet and the Homilies",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_15dba62495527dd5": {
+    "internalID": "@010045",
+    "title": "Sources of Shakespeares Plays",
+    "pubInfo": "The Sources of Shakespeare's Plays. London: Methuen, 1977. ",
+    "authors": [
+      "Kenneth Arthur Muir"
+    ]
+  },
+  "ww_703eb3f3a9bf6d41": {
+    "internalID": "@010073",
+    "title": "Shakespearean Burlesques (Wells edition)",
+    "pubInfo": "ed. Shakespearean Burlesques. 3 vols. London: Diploma Press, Ltd., 1977. ",
+    "authors": [
+      "Sir Stanley William Wells"
+    ]
+  },
+  "ww_e7b10e483d5cee49": {
+    "internalID": "@010118",
+    "title": "A Milton Encyclopedia",
+    "pubInfo": "ed. A Milton Encyclopedia. Lewisburg: Bucknell University Press and London: Associated University Presses, 1978-1983. ",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_7ad6024748f5b7ef": {
+    "internalID": "@005698",
+    "title": "Parasitaster (Blostein edition)",
+    "pubInfo": "ed. Parasitaster or The Fawn. Manchester: macnhester University Press, 1978.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_e9dd31d2f114bcc9": {
+    "internalID": "@010038",
+    "title": "Antonios Revenge (Gair edition)",
+    "pubInfo": "ed. John Marston. Antonio's Revenge. The Revels Plays. Manchester: Manchester University Press, 1978, repr. 1999.",
+    "authors": [
+      "Reavley Gair"
+    ]
+  },
+  "ww_be27b70b20ad49b3": {
+    "internalID": "@005697",
+    "title": "The Turk (Lagarde edition)",
+    "pubInfo": "ed. John Mason. The Turk. Edited from the earliest texts with a textual introduction. Salzburg: Institut f\u00fcr Anglistik und Amerikanistik, 1979.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_38319ddb82fae050": {
+    "internalID": "@010018",
+    "title": "Eastward Ho (Van Fossen edition)",
+    "pubInfo": "ed. Eastward Ho. Manchester: Manchester University Press, 1979, repr. 1999.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_ce9e48c1ecd24728": {
+    "internalID": "@010056",
+    "title": "John Marstons Drama ",
+    "pubInfo": "John Marston's Drama: Themes, Images, Sources. Rutherford et al.: Associated Unversity Presses, 1980. ",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_841e89ba43cd414c": {
+    "internalID": "@005247",
+    "title": "The Broken Heart (Spencer edition)",
+    "pubInfo": "ed. John Ford. The Broken Heart. Manchester: Manchester University Press, 1980. ",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_359edd0d37d00410": {
+    "internalID": "@010028",
+    "title": "The Language of Sir Walter Scott",
+    "pubInfo": "The Language of Sir Walter Scott: A Study of His Scottish and Period Language. London: Andre Deutsch, 1980.",
+    "authors": [
+      "Graham Tulloch"
+    ]
+  },
+  "ww_2f767c233db0ba89": {
+    "internalID": "@010012",
+    "title": "Congreve as a Shakespearean",
+    "pubInfo": "Poetry and Drama 1570-1700: Essays in Honour of Harold F. Brooks. Eds. Antony Coleman and Antony Hammond. London and New York: Methuen, 1981. 186-199.",
+    "letter": "Congreve as a Shakespearean",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_a3bdfb5ec0f62f6f": {
+    "internalID": "@020005",
+    "title": "Hamlet (Jenkins edition)",
+    "pubInfo": "ed. William Shakespeare. Hamlet. New Arden Shakespeare. London: Methuen, 1982.",
+    "authors": [
+      "Harold Jenkins"
+    ]
+  },
+  "ww_e38a56a7efbf9723": {
+    "internalID": "@005700",
+    "title": "The Insatiate Countess (Melchiori edition)",
+    "pubInfo": "ed. John Marston. The Insatiate Countess. Manchester: Manchester University Press, 1984.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_e45c23b640bedb8f": {
+    "internalID": "@010111",
+    "title": "An Unreported Hamlet Allusion",
+    "pubInfo": "Notes and Queries 124 (1984): 220-21.",
+    "letter": "An Unreported Hamlet Allusion",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_0dd45e53b3b0b09c": {
+    "internalID": "@010124",
+    "title": "Acting and Violence",
+    "pubInfo": "Studies in English Literature 1500-1900 24:2 \"Elizabethan and Jacobean Drama\" Spring 1984): 275-291.",
+    "letter": "Acting and Violence: The Revenger's Tragedy and Its Departures from Hamlet",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_0f0f2ccb24fa3b96": {
+    "internalID": "@010047",
+    "title": "The Selected Plays of John Marston (Jackson editio",
+    "pubInfo": "eds. The Selected Plays of John Marston. Eds. Cambridge: Cambridge University Press, 1986.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_f4b1a8fa8f784028": {
+    "internalID": "@010112",
+    "title": "Shakespeares Ghost Writers",
+    "pubInfo": "Shakespeare's Ghost Writers: Literature as Uncanny Causality. New York and London: Methuen, 1987. ",
+    "authors": [
+      "Marjorie Garber"
+    ]
+  },
+  "ww_db0e9fa009aad7b3": {
+    "internalID": "@010070",
+    "title": "Word and Image Clusters in Shakespeare",
+    "pubInfo": "Swiss Papers in English Language and Literature (SPELL) 3 The Structure of Texts (1987): 133-157.",
+    "letter": "Word and Image Clusters in Shakespeare",
+    "authors": [
+      "Barbara Str\u00e4uli"
+    ]
+  },
+  "ww_0b28ed19a0540e1d": {
+    "internalID": "@010030",
+    "title": "Biblical References in Shakespeares Tragedies",
+    "pubInfo": "Biblical References in Shakespeare's Tragedies. Newark: University of Delaware Press, 1987. ",
+    "authors": [
+      "Naseeb Azeez Shaheen"
+    ]
+  },
+  "ww_bc577a06e5bb54c7": {
+    "internalID": "@010021",
+    "title": "The Works of Thomas Southerne (Jordan edition)",
+    "pubInfo": "eds. The Works of Thomas Southerne. 2 vols. Oxford: Clarendon Press, 1988.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_7c79793591d10a0c": {
+    "internalID": "@010071",
+    "title": "Shp, Studley and Golding",
+    "pubInfo": "The Review of English Studies 39.156 (1988): 522-527. ",
+    "letter": "Shakespeare, Studley, and Golding",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_3dd50e3c55b75ee6": {
+    "internalID": "@010101",
+    "title": "The Collected Works of Abraham Cowley",
+    "pubInfo": "eds. The Collected Works of Abraham Cowley. 3 vols. Newark: University of Delaware Press, 1989.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_804d2b9aec6637b2": {
+    "internalID": "@010224",
+    "title": "Latinized Greek Drama",
+    "pubInfo": "SQ 41.1 (Spring 1990): 29-48. ",
+    "letter": "Latinized Greek Drama in Shakespeares Writing of Hamlet",
+    "authors": [
+      "Louise Schleiner"
+    ]
+  },
+  "ww_a4d935e148cb86d4": {
+    "internalID": "@010034",
+    "title": "Shakespeare in Quotation Marks",
+    "pubInfo": "The Appropriation of Shakespeare. Ed. Jean Marsden. New York: Harvester Wheatsheaf, 1991.",
+    "letter": "Shakespeare in Quotation Marks",
+    "authors": [
+      "Margreta de Grazia"
+    ]
+  },
+  "ww_bbccb861f731b4ac": {
+    "internalID": "@010035",
+    "title": "Rewriting Shp, Rewriting Ourselves",
+    "pubInfo": "Rewriting Shakespeare, Rewriting Ourselves. Berkeley: University of California Press, 1991.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_1be266244661ebbf": {
+    "internalID": "@005704",
+    "title": "The Making of the National Poet",
+    "pubInfo": "The Making of the National Poet: Shakespeare, Adaptation and Authorship. Oxford: Clarendon Press, 1992.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_66c4283b87c123dd": {
+    "internalID": "@010025",
+    "title": "Hamlet Then Till Now",
+    "pubInfo": "Shakespeare Survey 18: Shakespeare Then Till Now. Ed. Stanley Wells. Cambridge: Cambridge University Press, 1993. 1-14.",
+    "letter": "'Hamlet' Then Till Now",
+    "authors": [
+      "Harold Jenkins"
+    ]
+  },
+  "ww_fcbf6cb53d663d95": {
+    "internalID": "@010201",
+    "title": "Shakespeare and Ovid",
+    "pubInfo": "Shakespeare and Ovid. Oxford: Clarendon Paperbacks, 1994.",
+    "authors": [
+      "Sir Andrew Jonathan Bate"
+    ]
+  },
+  "ww_8580b38f9dc94f0b": {
+    "internalID": "@010148",
+    "title": "The Anatomy of Melancholy (Faulkner  edition)",
+    "pubInfo": "ed. Robert Burton. The Anatomy of Melancholy. 6 vols. Oxford: Clarendon Press, 1994. ",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_b3931845d54b98d5": {
+    "internalID": "@010082",
+    "title": "Hamlet (Hibbard edition)",
+    "pubInfo": "ed. William Shakespeare. Hamlet. The Oxford Shakespeare. Oxforad and New York: Oxford University Press, 1994.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_e14966f62e338b68": {
+    "internalID": "@010137",
+    "title": "The Real Shakespeare",
+    "pubInfo": "The Real Shakespeare: Retrieving the Early Years, 1564-1594. New Haven and London: Yale University Press, 1995. ",
+    "authors": [
+      "Eric Sams"
+    ]
+  },
+  "ww_45707432cc4f2876": {
+    "internalID": "@010123",
+    "title": "Hamlets Last Words",
+    "pubInfo": "Shakespeare Survey 48: Shakespeare and Cultural Exchange. Ed. Stanley Wells. Cambridge: Cambridge University Press, 1995. 113-122.",
+    "letter": "Hamlet's Last Words",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_444e694490140e28": {
+    "internalID": "@010102",
+    "title": "Some by Stenography",
+    "pubInfo": "'\"Some by Stenography\"? Stationers, Shorthand, and the Early Shakespearean Quartos.' Papers of the Bibliographical Society of America 90.4 (1996): 417-449.",
+    "authors": [
+      "tbe (female) 0_Author"
+    ]
+  },
+  "ww_666d1ca3ab9bc2ea": {
+    "internalID": "@010125",
+    "title": "The Roaring Girl (Cook edition)",
+    "pubInfo": "ed. Thomas Middleton and Thomas Dekker. The Roaring Girl. New Mermaids. London: A and C. Black, 1997.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_55406532e3cd0a84": {
+    "internalID": "@010147",
+    "title": "Dismember Me",
+    "pubInfo": "Shakespeare Quarterly 48.1 (Spring 1997): 1-16.",
+    "letter": "Dismember Me: Shakespeare, Paranoia, and the Logic of Mass Culture",
+    "authors": [
+      "Linda M. Charnes"
+    ]
+  },
+  "ww_1397c4b67db5b86a": {
+    "internalID": "@010055",
+    "title": "There is Nothing Like a Dane",
+    "pubInfo": "There is Nothing Like a Dane! The Lighter Side of Hamlet. London: Nick Hern Books, 1998.",
+    "authors": [
+      "Clive Francis"
+    ]
+  },
+  "ww_7589cfaa41b21699": {
+    "internalID": "@010020",
+    "title": "Biblical References in Shakespeares Plays",
+    "pubInfo": "Biblical References in Shakespeare's Plays. Newark: University of Delaware Press, 1999. ",
+    "authors": [
+      "Naseeb Azeez Shaheen"
+    ]
+  },
+  "ww_73cdd390f6e92cbe": {
+    "internalID": "@010132",
+    "title": "Titles from Hamlet",
+    "pubInfo": "2000. http://www.barbarapaul.com/shake/hamlet.html. 22 October 2011.",
+    "letter": "Titles from HAMLET",
+    "authors": [
+      "tbe (female) 0_Author"
+    ]
+  },
+  "ww_68caf0be92d6d9a9": {
+    "internalID": "@010104",
+    "title": "Hamlet Before Its Time",
+    "pubInfo": "Modern Language Quarterly 62.4 (December 2001): 355-375.",
+    "letter": "Hamlet Before Its Time",
+    "authors": [
+      "Margreta de Grazia"
+    ]
+  },
+  "ww_ec27b2270cfe4c10": {
+    "internalID": "@010114",
+    "title": "After Shakespeare",
+    "pubInfo": "After Shakespeare: An Anthology. Oxford: Oxford University Press, 2002.",
+    "authors": [
+      "John Gross"
+    ]
+  },
+  "ww_70b396a03a28da11": {
+    "internalID": "@010157",
+    "title": "Hamlets Mice, Motes, Moles, and Miching Malecho",
+    "pubInfo": "NLH 33.3 (2002): 435-459.",
+    "letter": "Hamlet's Mice, Motes, Moles, and Miching Malecho",
+    "authors": [
+      "tbe (female) 0_Author"
+    ]
+  },
+  "ww_babb5a4d66fa5459": {
+    "internalID": "@010117",
+    "title": "Shakespeare and the History of Soliloquies",
+    "pubInfo": "Shakespeare and the History of Soliloquies. Madison and Teaneck: Fairleigh Dickinson University Press, 2003.<br>",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_d50c2ba82fdc30ae": {
+    "internalID": "@010149",
+    "title": "BRITP - British Periodicals ",
+    "pubInfo": "British Periodicals. https://search.proquest.com/britishperiodicals?accountid=14616. 2005.",
+    "authors": [
+      "_ 0_Anon"
+    ]
+  },
+  "ww_e9b2a04d2a7fd579": {
+    "internalID": "@010043",
+    "title": "Hamlet and Cicero",
+    "pubInfo": "Unpublished manuscript.",
+    "letter": "Hamlet and Cicero",
+    "authors": [
+      "Sir Brian William  Vickers"
+    ]
+  },
+  "ww_1b231152ba6c63ce": {
+    "internalID": "@010158",
+    "title": "The Stukeley plays",
+    "pubInfo": "ed. The Stukeley Plays. The Battle of Alcazar by George Peele, The Famous History of the Life and Death of Captain Stukeley. Manchester: Manchester University Press 2005.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_5c89e8fa112ee4e8": {
+    "internalID": "@010135",
+    "title": "Shakespeares Sayings",
+    "pubInfo": "\"Shakespeare's Sayings\". Shakespeare and Elizabethan Popular Culture. Ed. Stuart Gillespie and Neil Rhodes. London: The Arden Shakespeare, 2006. 155-173.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_d9c80276851682da": {
+    "internalID": "@010037",
+    "title": "Hamlet (Mueller edition)",
+    "pubInfo": "ed. William Shakespeare. Hamlet. Englisch-deutsche Studienausgabe. T\u00fcbingen: Stauffenberg, 2006. ",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_227cc36a19286ccd": {
+    "internalID": "@010023",
+    "title": "Early Responses to Renaissance Drama",
+    "pubInfo": "Early Responses to Renaissance Drama. Cambridge: Cambridge University Press, 2006.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_0de19bd63a1c9142": {
+    "internalID": "@010079",
+    "title": "Against Thinking",
+    "pubInfo": "PMLA 122.5 (2007):1580-1587. ",
+    "letter": "Against Thinking",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_e9a54aab3c4c1154": {
+    "internalID": "@010169",
+    "title": "Francis Beaumonts Allusions to Shakespeare in The ",
+    "pubInfo": "Notes and Queries (2007): 320-321.",
+    "letter": "Francis Beaumont's Allusions to Shakespeare in The Woman Hater",
+    "authors": [
+      "Katherine Dorothea Duncan-Jones"
+    ]
+  },
+  "ww_6a0b1e5914da6bee": {
+    "internalID": "@010036",
+    "title": "Looking for Hamlet",
+    "pubInfo": "Looking for Hamlet. Basingstoke: Palgrave Macmillan, 2007.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_4ecd91ff283420a1": {
+    "internalID": "@010126",
+    "title": "The Collected Works of Thomas Middleton (Taylor ed",
+    "pubInfo": "eds. The Collected Works of Thomas Middleton. Oxford: Clarendon Press, 2007.",
+    "authors": [
+      "tbe (male) 0_Author",
+      "Gary Taylor"
+    ]
+  },
+  "ww_81aaaefa494a8184": {
+    "internalID": "@010098",
+    "title": "Marston, Rivalry, Rapprochement and Jonson",
+    "pubInfo": "Marston, Rivalry, Rapprochement and Jonson. Aldershot: Ashgate, 2008.",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_e95d4765a7973201": {
+    "internalID": "@010103",
+    "title": "William Shakespeare and Edmund Burke",
+    "pubInfo": "Peter Sabor and Paul Yachnin. Shakespeare and the Eighteenth Century. London: Ashgate, 2008. 85-102.",
+    "letter": "William Shakespeare and Edmund Burke: Literary Allusion in Eighteenth-Century British Political Rhetoric",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_91e0dc4c671938fa": {
+    "internalID": "@010005",
+    "title": "Quoting Hamlet in the Early 17th Century",
+    "pubInfo": "Modern Philology 105.3 (2008): 510-534.",
+    "letter": "Quoting Hamlet in the Early Seventeenth Century",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_adfdbd7c6a7b7a62": {
+    "internalID": "@010060",
+    "title": "Shakespeare and Shorthand Once Again",
+    "pubInfo": "PBSA 104 (2010): 141-180.",
+    "letter": "Shakespeare and Shorthand Once Again",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_0a299f4a7aded36a": {
+    "internalID": "@010096",
+    "title": "Fictions of Collaboration",
+    "pubInfo": "Medieval and Early Modern Authorship. Eds. G. Bolens and Lukas Erne. T\u00fcbingen: Gunter Narr, 2011. 175-198.",
+    "letter": "Fictions of Collaboration: Authors and Editors in the Sixteenth Century",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_3e70301e1c6b8013": {
+    "internalID": "@010019",
+    "title": "Hamlets Horatio as an Allusion to Horace",
+    "pubInfo": "Notes and Queries 59.1 (2012): 76-77.",
+    "letter": "Hamlet's Horatio as an Allusion to Horace's Odes",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_b908ae26c4f3afcf": {
+    "internalID": "@010010",
+    "title": "Collaborative Plays",
+    "pubInfo": "eds. William Shakespeare and Others: Collaborative Plays. Basingstoke: Palgrave Macmillan, 2013.  ",
+    "authors": [
+      "tbe (male) 0_Author",
+      "Sir Andrew Jonathan Bate"
+    ]
+  },
+  "ww_97955539c83b9cc3": {
+    "internalID": "@010029",
+    "title": "The Marlowe-Shp Continuum",
+    "pubInfo": "The Marlowe-Shakespeare Continuum: Christopher Marlowe, Thomas Nashe, and Authorship of Early Shakespeare and Anonymous Plays. Newcastle, 2013.",
+    "authors": [
+      "Donna M. Murphy"
+    ]
+  },
+  "ww_e1e81a86f35b59e9": {
+    "internalID": "@010044",
+    "title": "Allusions to Shp in The Tragedy Of Messalina",
+    "pubInfo": "Notes and Queries (2013): 43-45.",
+    "letter": "Allusions to Shakespeare in Nathaniel Richards's The Tragedy Of Messalina",
+    "authors": [
+      "Kate Wilkinson"
+    ]
+  },
+  "ww_842318fc1c593591": {
+    "internalID": "@010136",
+    "title": "His Collaborator George Wilkins",
+    "pubInfo": "The Shakespeare Circle: An Alternative Biography. Eds. Paul Edmondson and Stanley Wells. Cambridge: Cambridge University Press, 2015. 289-296.",
+    "letter": "His Collaborator George Wilkins",
+    "authors": [
+      "tbe (male) 0_Author"
+    ]
+  },
+  "ww_c0bb45384c6abc1f": {
+    "internalID": "@010200",
+    "title": "Hohl Trillini Casual Shakespeare",
+    "pubInfo": "Casual Shakespeare: Three Centuries of Verbal Echoes. London: Routledge, 2018.",
+    "authors": [
+      "(female) 0_Anon"
+    ]
   }
 }

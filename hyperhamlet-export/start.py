@@ -112,12 +112,37 @@ def update_book(b_id, auth_names):
             temp.add(auth_id)
             books[b_id]["isWrittenBy"] = list(temp)
 
+
 def create_sec_book(sec_b_id, pub_info):
     book = {
         "internalID": allSecBooks[sec_b_id]["internalID"],
         "edition": pub_info["pubInfo"],
         "isWrittenBy": []
     }
+
+    if "letter" in pub_info:
+        book["title"] = pub_info["letter"]
+    else:
+        book["title"] = allSecBooks[sec_b_id]["title"]
+
+    secBooks[sec_b_id] = book
+
+
+def update_sec_book(sec_b_id, auth_names):
+    # Iterates through the names per entry
+    for auth_name in auth_names:
+
+        # Generates author id
+        auth_id = id.generate(auth_name)
+
+        # Checks if author already exists
+        if auth_id not in authors:
+            create_author(auth_id)
+
+        temp = set(secBooks[sec_b_id]["isWrittenBy"])
+        temp.add(auth_id)
+        secBooks[sec_b_id]["isWrittenBy"] = list(temp)
+
 
 def create_passage(pa_id, text, text_or):
     passage = {
@@ -159,7 +184,7 @@ for file in json_files:
 # Prepare all authors
 allAuthors = prep_authors.prepare()
 allBooks = prep_books.prepare()
-allSecBooks = prep_sec_books.prepare()
+allSecBooks = prep_sec_books.prepare_csv()
 allContributors = prep_contributors.prepare()
 
 # Loads the jsons and creates objects
@@ -252,9 +277,9 @@ for csv_file in csv_files:
                         update_passage(passage_id, None, contributor_id)
 
                     # -------------- SECONDARY BOOK
-                    second_infos = sec.info(row[24], line, csv_file)
+                    sec_books = sec.info(row[24], line, csv_file)
 
-                    for sec_book in second_infos:
+                    for sec_book in sec_books:
                         sec_book_id = id.generate(sec_book["id"])
 
                         # Checks if sec book id is valid
@@ -262,7 +287,13 @@ for csv_file in csv_files:
                             print("FAIL Secondary Book", sec_book["id"], csv_file, line, row[24])
                             raise SystemExit(0)
 
-                        # if sec_book_id not in secBooks:
+                        s_book = allSecBooks[sec_book_id]
+
+                        if sec_book_id not in secBooks:
+                            create_sec_book(sec_book_id, s_book)
+                            update_sec_book(sec_book_id, s_book["authors"])
+                        else:
+                            update_sec_book(sec_book_id, s_book["authors"])
 
                 line += 1
 
@@ -271,6 +302,7 @@ for csv_file in csv_files:
         raise SystemExit(0)
 
 # Saves the complete objects into json files
+json.save("json/all_authors.json", allAuthors)
 json.save("json/all_books.json", allBooks)
 json.save("json/all_sec_books.json", allSecBooks)
 

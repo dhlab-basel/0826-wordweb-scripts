@@ -1378,8 +1378,8 @@
     "wasMentionedIn": [],
     "wasContributedBy": "ww_c4063e9c72a3ffd2"
   },
-  "ww_71dbef5361e1e6a4": {
-    "text": "[Mathea:] <span class=\"quote\">Who's there below? <br></span>\n[Walgrave:]  <span class=\"quote\">Thy Ned , kind Ned , thine honest trusty Ned. <br></span>\n[...] <br>\n<I> Enter above Marina </I> <br>\n[Marina:] <span class=\"quote\">Who speak you to? Mathea who's below? </span><br>\n<I> Enter Laurentia </I> <br> [Laurentia:] \n<span class=\"quote\">Speak sister Matt, is not my true love there? </span>",
+  "ww_deb4a860f61ddeae": {
+    "text": "[Mathea:] <span class=\"quote\">Who's there below? <br></span>\n[Walgrave:]  <span class=\"quote\">Thy Ned, kind Ned , thine honest trusty Ned. <br></span>\n[...] <br>\n<I> Enter above Marina </I> <br>\n[Marina:] <span class=\"quote\">Who speak you to? Mathea who's below? </span><br>\n<I> Enter Laurentia </I> <br> [Laurentia:] \n<span class=\"quote\">Speak sister Matt, is not my true love there? </span>",
     "occursIn": [
       "ww_f1c17de7eaa78bcc"
     ],
@@ -1577,6 +1577,14 @@
     ],
     "wasMentionedIn": [],
     "wasContributedBy": "ww_c4063e9c72a3ffd2"
+  },
+  "ww_9da624ada50dcbf7": {
+    "text": "[Hamlet:] [...] <span class=\"quote\">Oft breaking down the pales and forts of reason </span>[...].",
+    "occursIn": [
+      "ww_5cb4c35da9f3b9dd"
+    ],
+    "wasMentionedIn": [],
+    "wasContributedBy": "ww_b604df587d93b768"
   },
   "ww_48b1566c33fab699": {
     "text": "[Hamlet:] [...] Or by some habit that <span class=\"quote\">too much o'erleavens <br></span>\nThe form of plausive manners [...].",
@@ -4959,14 +4967,6 @@
     "textOriginal": "[Andrugio:] Andrugio liues, and a faire cause of armes, <br/>\nWhy that's an armie all inuincible. <br/>\nHe who hath that, hath a battalion <br/>\nRoyal, armour of proofe, huge troups of barbed steeds, <br/>\nMaine squares of pikes, millions of harguebush.",
     "wasContributedBy": "ww_b604df587d93b768"
   },
-  "ww_9da624ada50dcbf7": {
-    "text": "[Hamlet:] [...] <span class=\"quote\">Oft breaking down the pales and forts of reason </span>[...].",
-    "occursIn": [
-      "ww_5cb4c35da9f3b9dd"
-    ],
-    "wasMentionedIn": [],
-    "wasContributedBy": "ww_b604df587d93b768"
-  },
   "ww_4d9dc1ac346162df": {
     "text": "[Hamlet:] [...]<span class=\"quote\"> The dram of evil <br></span>\nDoth all the noble substance of a doubt <br>\nTo his own scandal.",
     "occursIn": [
@@ -5407,6 +5407,14 @@
     ],
     "wasMentionedIn": [],
     "wasContributedBy": "ww_c4063e9c72a3ffd2"
+  },
+  "ww_00ba48b22df0a157": {
+    "text": "[Hamlet:] [...] <span class=\"quote\">let not ever<br>\nThe soul of Nero enter this firm bosom.</span>",
+    "occursIn": [
+      "ww_5cb4c35da9f3b9dd"
+    ],
+    "wasMentionedIn": [],
+    "wasContributedBy": "ww_7f35f6802efd910d"
   },
   "ww_135babe521b075bd": {
     "text": "[Ghost:] [...] <span class=\"quote\">The glowworm shows the matin to be near</span> [...].",
@@ -6910,7 +6918,7 @@
       "ww_4c03575c94189fa0"
     ],
     "wasMentionedIn": [],
-    "textOriginal": "[Fleire:]\nHis loue to her? what Signior, in loue with my Ladies Antient?<br>\n\n[Sparke:]\nWhy her Ancient?<br>\n[Fleire:]\nBecause shee carries her colours for her, but tis in a <br>\nbox: but signior you shall haue a good match on't, though she be not rich, yet shee's an ancient woman and is able to get her liuing, by midwiferie, and I can tell yee tis not the worst trade going, considering how young and olde, and all doe their good wils to set them a worke, and tis a good hearing, better they gette then the Lawyers, for your midwiues liue by the agreement betweene partie and partie, & the falling in of louers, but the Lawyers liue by the falling out of friendes.<br>\n\n[Petoune:]\nI pray sir what may she be worth?<br>\n\n[Fleire:]\nWorth? let me see, shee hath three yellowe perewigs of her own: she hath a Pan with a short siluer handle about the length of a Barbors siringe: she has a Looking-glasse too, but that has plaid the prodigall Cittizen with lier, tis broken, and much other goods of the same nature.<br>\n\n[Sparke:]\nBut come Signior, how will you woe her?<br>\n\n[Petoune:]\nI will tell her she is so wise, that neither age nor time could cousen her of beautie.<br>\n\n[Fleire:]\nAnd by my faith that will doe well.<br>\n\n[Petoune:]\nI will tell her that I loue her most for the whitenes of her skin.<br>\n\n[Fleire:]\nBut you may not say the sweetnes of her breath, for that stinks.\n<br>\n\n[Petoune:]\nI will praise the smalnes of her fingars.<br>\n\n[Fleire:]\nBut I assure you, you may better praise the length of her nailes.<br>\n\n[Petoune:]\nI am affraide that being olde shee has a drye hand.<br>\n\n[Fleire:]\nThats certaine, but she has a very moiste nose, you may praise her for that[...]",
+    "textOriginal": "[Fleire:] His loue to her? what Signior, in loue with my Ladies Antient?<br>\n[Sparke:] Why her Ancient?<br>\n[Fleire:] Because shee carries her colours for her, but tis in a <br>\nbox: but signior you shall haue a good match on't, though she be not rich, yet shee's an ancient woman and is able to get her liuing, by midwiferie, and I can tell yee tis not the worst trade going, considering how young and olde, and all doe their good wils to set them a worke, and tis a good hearing, better they gette then the Lawyers, for your midwiues liue by the agreement betweene partie and partie, & the falling in of louers, but the Lawyers liue by the falling out of friendes.<br>\n[Petoune:] I pray sir what may she be worth?<br>\n[Fleire:] Worth? let me see, shee hath three yellowe perewigs of her own: she hath a Pan with a short siluer handle about the length of a Barbors siringe: she has a Looking-glasse too, but that has plaid the prodigall Cittizen with lier, tis broken, and much other goods of the same nature.<br>\n[Sparke:] But come Signior, how will you woe her?<br>\n[Petoune:] I will tell her she is so wise, that neither age nor time could cousen her of beautie.<br>\n[Fleire:] And by my faith that will doe well.<br>\n[Petoune:] I will tell her that I loue her most for the whitenes of her skin.<br>\n[Fleire:] But you may not say the sweetnes of her breath, for that stinks.<br>\n[Petoune:] I will praise the smalnes of her fingars.<br>\n[Fleire:] But I assure you, you may better praise the length of her nailes.<br>\n[Petoune:] I am affraide that being olde shee has a drye hand.<br>\n[Fleire:] Thats certaine, but she has a very moiste nose, you may praise her for that [...].",
     "wasContributedBy": "ww_c4063e9c72a3ffd2"
   },
   "ww_f94ab2af50afc266": {
@@ -10442,14 +10450,6 @@
     "textOriginal": "[Antonio:] Resolued hearts, time curtals night, opportunity shakes us his foretop. Steel your thoughts, sharp your resolve, imbolden your spirit, grasp your swords; alarum mischief, & with an undated brow, out scout the grim opposition<br>\nOf most menacing perill.<br>\nHarke here, proud pomp shoots mounting tryumph vp,<br>\nBorne in lowde accents to <span class=\"quote\">the front of <i>Jove.</i></span> ",
     "wasContributedBy": "ww_c4063e9c72a3ffd2"
   },
-  "ww_00ba48b22df0a157": {
-    "text": "[Hamlet:] [...] <span class=\"quote\">let not ever<br>\nThe soul of Nero enter this firm bosom.</span>",
-    "occursIn": [
-      "ww_5cb4c35da9f3b9dd"
-    ],
-    "wasMentionedIn": [],
-    "wasContributedBy": "ww_7f35f6802efd910d"
-  },
   "ww_e0def251066bde0d": {
     "text": "[Hamlet:] [...] <span class=\"quote\">Roasted in wrath and fire,\nAnd thus o'ersiz\u00e8d with coagulate gore </span>[...].",
     "occursIn": [
@@ -13197,13 +13197,13 @@
     "textOriginal": "[Count:] Long maist thou wear thy Knights-hood and thy Spurs<br>\nPricke thee to Honor on, and pricke off Curs [.].",
     "wasContributedBy": "ww_c4063e9c72a3ffd2"
   },
-  "ww_aaaecb6ffa1f9f2a": {
-    "text": "Joy at the uprising of this <span class=\"quote\">Sun, and Son</span> ",
+  "ww_a633855346ca9449": {
+    "text": "Joy at the uprising of this <span class=\"quote\">Sun, and Son</span> [...].",
     "occursIn": [
       "ww_e5b271060a8d1d96"
     ],
     "wasMentionedIn": [],
-    "textOriginal": "Joy at the uprising of this Sunne, and Sonne, ",
+    "textOriginal": "Joy at the uprising of this Sunne, and Sonne [...].",
     "wasContributedBy": "ww_7f35f6802efd910d"
   },
   "ww_08602a6d338c8d7b": {

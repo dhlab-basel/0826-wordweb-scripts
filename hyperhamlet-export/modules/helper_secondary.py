@@ -24,8 +24,8 @@ def info(text, line, csv_file):
                     }
 
                     books.append(book)
-                else:
-                    print(csv_file, line, text)
+                # else:
+                #     print(csv_file, line, text)
             else:
                 book = {
                     "id": id.group(1),
@@ -48,8 +48,8 @@ def info(text, line, csv_file):
                     }
 
                     books.append(book)
-                else:
-                    print(csv_file, line, text)
+                # else:
+                #     print(csv_file, line, text)
             else:
                 book = {
                     "id": id.group(1),
