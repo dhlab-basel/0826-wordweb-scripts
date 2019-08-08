@@ -1,1 +1,1372 @@
-{"ww_684176b58bc762f6": {"firstName": "William", "lastName": "Shakespeare", "hasSex": "male", "description": "English dramatist and poet  @007000", "birthDate": "GREGORIAN:1564", "deathDate": "GREGORIAN:1616"}, "ww_212c78497ddc32c5": {"firstName": "_", "lastName": "0_Anon", "hasSex": "male"}, "ww_394742d5146e6fd1": {"firstName": "Thomas", "lastName": "Usk", "hasSex": "male", "description": "English writer", "deathDate": "GREGORIAN:1388"}, "ww_830c5cd6a3a44ca4": {"firstName": "Geoffrey", "lastName": "Chaucer", "hasSex": "male", "description": "English poet  @007005", "birthDate": "GREGORIAN:1343", "deathDate": "GREGORIAN:1400"}, "ww_13695de2bd4043e0": {"firstName": "Henry", "lastName": "Parker", "hasSex": "male", "description": "English divine", "deathDate": "GREGORIAN:1470"}, "ww_bff81a320b8342f4": {"firstName": "Thomas, Lord", "lastName": "Vaux", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1510", "deathDate": "GREGORIAN:1556"}, "ww_42eb905bc6e4053a": {"firstName": "William", "lastName": "Painter", "hasSex": "male", "description": "English writer", "birthDate": "GREGORIAN:1538:1542", "deathDate": "GREGORIAN:1594"}, "ww_17923856f3fcac86": {"firstName": "William", "lastName": "Baldwin", "hasSex": "male", "description": "English anthologist", "birthDate": "GREGORIAN:1518", "deathDate": "GREGORIAN:1562:1564"}, "ww_4d46ba6d44081aae": {"firstName": "Sir Henry", "lastName": "Billingsley", "hasSex": "male", "description": "English merchant and translator", "deathDate": "GREGORIAN:1606"}, "ww_93393d7338f8a258": {"firstName": "Laurence", "lastName": "Twyne", "hasSex": "male", "description": "English translator", "activeDate": "GREGORIAN:1594"}, "ww_a5663d4a9069f35d": {"firstName": "Thomas", "lastName": "Twyne", "hasSex": "male", "description": "English translator", "birthDate": "GREGORIAN:1543", "deathDate": "GREGORIAN:1613"}, "ww_20c2963f1665d325": {"firstName": "John", "lastName": "Jewel", "hasSex": "male", "description": "English divine", "birthDate": "GREGORIAN:1522", "deathDate": "GREGORIAN:1571"}, "ww_8110581a51ac8d0a": {"firstName": "John", "lastName": "Whitgift", "hasSex": "male", "description": "Archbishop of Canterbury", "birthDate": "GREGORIAN:1530:1533", "deathDate": "GREGORIAN:1604"}, "ww_0e82de631d672dcc": {"firstName": "Ralph", "lastName": "Lever", "hasSex": "male", "description": "English rhetorician", "deathDate": "GREGORIAN:1584"}, "ww_9ffeb7ca95cd18da": {"firstName": "Thomas", "lastName": "Rogers", "hasSex": "male", "description": "English  theologian and translator", "deathDate": "GREGORIAN:1616"}, "ww_61ea5c613f71ac23": {"firstName": "Thomas", "lastName": "Proctor", "hasSex": "male", "description": "English poet", "activeDate": "GREGORIAN:1578"}, "ww_4b2c2c667ace067b": {"firstName": "Henry", "lastName": "Bull", "hasSex": "male", "description": "English theological writer", "deathDate": "GREGORIAN:1577"}, "ww_63d5fe36ffac5d32": {"firstName": "Christopher", "lastName": "Marlowe", "hasSex": "male", "description": "English poet, dramatist and translator", "birthDate": "GREGORIAN:1564", "deathDate": "GREGORIAN:1593"}, "ww_7468c79b15d734b3": {"firstName": "George", "lastName": "Peele", "hasSex": "male", "description": "English translator, poet and dramatist", "birthDate": "GREGORIAN:1556", "deathDate": "GREGORIAN:1596"}, "ww_fb2f6ac664533d01": {"firstName": "Edmund", "lastName": "Spenser", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1552", "deathDate": "GREGORIAN:1599"}, "ww_9b2d545e20d62482": {"firstName": "Ben", "lastName": "Jonson", "hasSex": "male", "description": "English dramatist and poet", "birthDate": "GREGORIAN:1573", "deathDate": "GREGORIAN:1637"}, "ww_8501ec457f433848": {"firstName": "George", "lastName": "Chapman", "hasSex": "male", "description": "English poet, dramatist and translator", "birthDate": "GREGORIAN:1558:1560", "deathDate": "GREGORIAN:1634"}, "ww_ad03d7c87e5b9c24": {"firstName": "John", "lastName": "Marston", "hasSex": "male", "description": "English dramatist and poet", "birthDate": "GREGORIAN:1576", "deathDate": "GREGORIAN:1634"}, "ww_d888f97beb7a5e1c": {"firstName": "William", "lastName": "Haughton", "hasSex": "male", "description": "English dramatist", "deathDate": "GREGORIAN:1605"}, "ww_ce94987303de0652": {"firstName": "Henry", "lastName": "Porter", "hasSex": "male", "description": "English dramatist", "deathDate": "GREGORIAN:1599"}, "ww_87dbd52f1c5b813b": {"firstName": "Thomas", "lastName": "Dekker", "hasSex": "male", "description": "English dramatist ca.", "birthDate": "GREGORIAN:1572", "deathDate": "GREGORIAN:1632"}, "ww_7b88afb3c96d748f": {"firstName": "John", "lastName": "Bodenham", "hasSex": "male", "description": "English anthologist", "birthDate": "GREGORIAN:1559", "deathDate": "GREGORIAN:1610"}, "ww_7e08b5fab4c10b55": {"firstName": "Sam", "lastName": "Nicholson", "hasSex": "male", "description": "English (?) poet", "activeDate": "GREGORIAN:1600"}, "ww_5cb3d6fa23800e74": {"firstName": "William", "lastName": "Rowley", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1584:1586", "deathDate": "GREGORIAN:1626"}, "ww_f10aec8cfe5ff90d": {"firstName": "Thomas", "lastName": "Heywood", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1570:1574", "deathDate": "GREGORIAN:1641"}, "ww_d78940f8a8554ca3": {"firstName": "Henry", "lastName": "Chettle", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1564", "deathDate": "GREGORIAN:1603:1606"}, "ww_9594c85bc48d3759": {"firstName": "John", "lastName": "Webster", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1584", "deathDate": "GREGORIAN:1616"}, "ww_947a2e721f016a03": {"firstName": "John", "lastName": "Day", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1574", "deathDate": "GREGORIAN:1637:1639"}, "ww_c298754546b2500e": {"firstName": "Thomas", "lastName": "Middleton", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1580", "deathDate": "GREGORIAN:1627"}, "ww_f1b3b2adeeb3e86f": {"firstName": "Peter", "lastName": "Woodhouse", "hasSex": "male", "description": "English poet", "activeDate": "GREGORIAN:1605"}, "ww_ecd33a52caec339f": {"firstName": "Francis", "lastName": "Beaumont", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1584", "deathDate": "GREGORIAN:1616"}, "ww_3cc0cce5b6bf554a": {"firstName": "John", "lastName": "Fletcher", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1579", "deathDate": "GREGORIAN:1625"}, "ww_9186050dfac2d550": {"firstName": "Thomas", "lastName": "Tomkis", "hasSex": "male", "description": "English dramatist", "activeDate": "GREGORIAN:1604:1615"}, "ww_986dd93d2d794ff5": {"firstName": "George", "lastName": "Wilkins", "hasSex": "male", "description": "English dramatist and pamphleteer", "deathDate": "GREGORIAN:1618"}, "ww_79c674f9ee6b5a7c": {"firstName": "Edward", "lastName": "Sharpham", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1576", "deathDate": "GREGORIAN:1608"}, "ww_9b3aca5e1fbd9b33": {"firstName": "Lording or Lodovic", "lastName": "Barry", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1580", "deathDate": "GREGORIAN:1629"}, "ww_8926bbeaa7c56023": {"firstName": "Nathan", "lastName": "Field", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1587", "deathDate": "GREGORIAN:1620"}, "ww_5350e0c0cddb3400": {"firstName": "Robert", "lastName": "Armin", "hasSex": "male", "description": "English actor and dramatist", "birthDate": "GREGORIAN:1562:1564", "deathDate": "GREGORIAN:1615"}, "ww_883324fc3b8b8dba": {"firstName": "Cyril", "lastName": "Tourneur", "hasSex": "male", "description": "English poet and dramatist", "deathDate": "GREGORIAN:1626"}, "ww_2afeb85181d58ed3": {"firstName": "Sir John", "lastName": "Davies of Hereford", "hasSex": "male", "description": "Anglo-Welsh poet", "birthDate": "GREGORIAN:1563:1567", "deathDate": "GREGORIAN:1618"}, "ww_a4e45e7b381d6e89": {"firstName": "John", "lastName": "Cooke", "hasSex": "male", "description": "English dramatist", "activeDate": "GREGORIAN:1612:1614"}, "ww_7c9389d75703bf3a": {"firstName": "Sir John", "lastName": "Hayward", "hasSex": "male", "description": "English historian", "birthDate": "GREGORIAN:1563:1565", "deathDate": "GREGORIAN:1627"}, "ww_31fd4cfea1a56eb2": {"firstName": "Christopher", "lastName": "Brooke", "hasSex": "male", "description": "English poet Christopher Brooke", "deathDate": "GREGORIAN:1628"}, "ww_cbc2c3284144573a": {"firstName": "Philip", "lastName": "Massinger", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1583", "deathDate": "GREGORIAN:1640"}, "ww_2d4add490de5218d": {"firstName": "Robert", "lastName": "Burton", "hasSex": "male", "description": "English essayist", "birthDate": "GREGORIAN:1577", "deathDate": "GREGORIAN:1640"}, "ww_6a8b2b14d4099ec9": {"firstName": "Robert", "lastName": "Davenport", "hasSex": "male", "description": "English dramatist", "activeDate": "GREGORIAN:1623:1639"}, "ww_d8f1d08e1ca080b7": {"firstName": "Sir William", "lastName": "D'Avenant", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1606", "deathDate": "GREGORIAN:1668"}, "ww_53c2f0bb43b1f960": {"firstName": "William", "lastName": "Sampson", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1589:1591", "deathDate": "GREGORIAN:1636:1637"}, "ww_96f70a96968da33d": {"firstName": "Thomas", "lastName": "Randolph", "hasSex": "male", "description": "English poet and dramatist", "birthDate": "GREGORIAN:1605", "deathDate": "GREGORIAN:1635"}, "ww_a7bda6e4ea9d6266": {"firstName": "James", "lastName": "Hart", "hasSex": "male", "description": "English physician", "activeDate": "GREGORIAN:1633"}, "ww_e97f8919dc99b209": {"firstName": "William", "lastName": "Hemings", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1602"}, "ww_68dae2dd3ee5eaa3": {"firstName": "James", "lastName": "Shirley", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1596", "deathDate": "GREGORIAN:1666"}, "ww_6caa1b04d6f95548": {"firstName": "Thomas", "lastName": "Adams", "hasSex": "male", "description": "English writer", "activeDate": "GREGORIAN:1612:1653"}, "ww_e92e9dc9d65ade56": {"firstName": "W.", "lastName": "B.", "hasSex": "male", "description": "English translator", "activeDate": "GREGORIAN:1614"}, "ww_87547eb3eadc52d8": {"firstName": "Michael", "lastName": "Scot", "hasSex": "male", "description": "Scottish (?) philosopher", "birthDate": "GREGORIAN:1175", "deathDate": "GREGORIAN:1232:1234"}, "ww_edc1093f53e0bc8a": {"firstName": "Anthony", "lastName": "Stafford", "hasSex": "male", "description": "English devotional writer 1587\u2013[]", "birthDate": "GREGORIAN:1645", "deathDate": "GREGORIAN:1660"}, "ww_7179a7437437988e": {"firstName": "Nathaniel", "lastName": "Richards", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1611", "deathDate": "GREGORIAN:1660"}, "ww_33fc0870e5a0fbcf": {"firstName": "R.", "lastName": "Junius", "hasSex": "male", "description": "English writer ,  real name Richard E. Younge", "activeDate": "GREGORIAN:1638"}, "ww_296a7b9f6d21cde7": {"firstName": "Samuel", "lastName": "Harding", "hasSex": "male", "description": "English dramatist", "activeDate": "GREGORIAN:1640"}, "ww_bae7c2e690c9caaa": {"firstName": "John", "lastName": "Suckling", "hasSex": "male", "description": "English poet and dramatist", "birthDate": "GREGORIAN:1609", "deathDate": "GREGORIAN:1642"}, "ww_6f4a80592c6c793c": {"firstName": "Henry", "lastName": "Glapthorne", "hasSex": "male", "description": "British poet and dramatist", "activeDate": "GREGORIAN:1639"}, "ww_da5a5f8bc94ad571": {"firstName": "Thomas", "lastName": "Killigrew", "hasSex": "male"}, "ww_cce3785f9f0b7c67": {"firstName": "Cosmo", "lastName": "Manuche", "hasSex": "male", "description": "Anglo-Italian dramatist", "activeDate": "GREGORIAN:1650:1652"}, "ww_56af0f484de673fe": {"firstName": "Richard", "lastName": "Faber", "hasSex": "male", "description": "English (?) dramatist", "activeDate": "GREGORIAN:1655"}, "ww_023482909a532caf": {"firstName": "Katherine", "lastName": "Philips", "hasSex": "male", "description": "Welsh poet.", "birthDate": "GREGORIAN:1631", "deathDate": "GREGORIAN:1664"}, "ww_ed5b7d7b5b4ff788": {"firstName": "John", "lastName": "Dryden", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1631", "deathDate": "GREGORIAN:1700"}, "ww_fb786ed957e3108e": {"firstName": "John", "lastName": "Caryll", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1625", "deathDate": "GREGORIAN:1711"}, "ww_0449cf1b66c3867d": {"firstName": "John", "lastName": "Lacy", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1613:1618", "deathDate": "GREGORIAN:1681"}, "ww_1013ee760af86e0f": {"firstName": "Aphra", "lastName": "Behn", "hasSex": "male", "description": "English dramatist and novelist", "birthDate": "GREGORIAN:1640", "deathDate": "GREGORIAN:1689"}, "ww_0fdd672af19515af": {"firstName": "Henry Neville", "lastName": "Payne", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1672", "deathDate": "GREGORIAN:1710"}, "ww_99b03817dc566412": {"firstName": "Edward", "lastName": "Ravenscroft", "hasSex": "male", "description": "British dramatist", "birthDate": "GREGORIAN:1652:1654", "deathDate": "GREGORIAN:1707"}, "ww_9830d46f027273df": {"firstName": "William Cavendish, Duke of", "lastName": "Newcastle", "hasSex": "male"}, "ww_0fa63d0ba5908460": {"firstName": "John", "lastName": "Banks", "hasSex": "male", "description": "English (?) dramatist", "deathDate": "GREGORIAN:1702"}, "ww_2fbef537c50f1433": {"firstName": "Thomas", "lastName": "Otway", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1652", "deathDate": "GREGORIAN:1685"}, "ww_12f7d2e19bfcb92f": {"firstName": "Nathaniel", "lastName": "Lee", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1652:1654", "deathDate": "GREGORIAN:1692"}, "ww_1f1f38544516a902": {"firstName": "Thomas", "lastName": "Southerne", "hasSex": "male", "description": "Irish dramatist", "birthDate": "GREGORIAN:1660", "deathDate": "GREGORIAN:1746"}, "ww_aea6ce6ca036608b": {"firstName": "Nahum", "lastName": "Tate", "hasSex": "male", "description": "Irish poet and dramatist", "birthDate": "GREGORIAN:1652", "deathDate": "GREGORIAN:1715"}, "ww_ae2d914875625509": {"firstName": "George Villiers, Duke of", "lastName": "Buckingham", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1628", "deathDate": "GREGORIAN:1687"}, "ww_7aab59631f22d17e": {"firstName": "John", "lastName": "Higgins", "hasSex": "male", "description": "English poet", "activeDate": "GREGORIAN:1570:1602"}, "ww_116917d934be52dd": {"firstName": "Thomas", "lastName": "Kyd", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1558", "deathDate": "GREGORIAN:1594"}, "ww_9e2e58504b5d3de8": {"firstName": "Thomas", "lastName": "Nashe", "hasSex": "male", "description": "English pamphleteer and dramatist", "birthDate": "GREGORIAN:1567", "deathDate": "GREGORIAN:1601"}, "ww_2e81405af6457448": {"firstName": "Samuel", "lastName": "Daniel", "hasSex": "male", "description": "English poet and dramatist", "birthDate": "GREGORIAN:1562", "deathDate": "GREGORIAN:1619"}, "ww_ce2fb5bd491a4d2e": {"firstName": "Robert", "lastName": "Greene", "hasSex": "male", "description": "English dramatist and pamphleteer", "birthDate": "GREGORIAN:1558", "deathDate": "GREGORIAN:1592"}, "ww_2e80ef314f6d0fdc": {"firstName": "Thomas", "lastName": "Churchyard", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1520", "deathDate": "GREGORIAN:1604"}, "ww_d4ab524c831a2992": {"firstName": "Robert", "lastName": "Southwell", "hasSex": "male", "description": "English Jesuit priest and poet", "birthDate": "GREGORIAN:1560:1562", "deathDate": "GREGORIAN:1595"}, "ww_31ef7df7935b492f": {"firstName": "Thomas", "lastName": "Lodge", "hasSex": "male", "description": "English poet and dramatist", "birthDate": "GREGORIAN:1556:1559", "deathDate": "GREGORIAN:1625"}, "ww_970a44cddbbbe8d2": {"firstName": "An.", "lastName": "Sc.", "hasSex": "male", "description": "English dramatist , full name Anthony Scoloker?", "activeDate": "GREGORIAN:1604"}, "ww_e005e74f6af8f88e": {"firstName": "T.", "lastName": "Walkington", "hasSex": "male", "description": "English (?) poet", "activeDate": "GREGORIAN:1607"}, "ww_255b598e0ee7f9d1": {"firstName": "John (1)", "lastName": "Mason", "hasSex": "male", "description": "English dramatist", "activeDate": "GREGORIAN:1609"}, "ww_4165dddf64bc6da3": {"firstName": "William", "lastName": "Barksted", "hasSex": "male", "description": "English poet and dramatist", "activeDate": "GREGORIAN:1611"}, "ww_18abf85e413e5632": {"firstName": "Lewis", "lastName": "Mackin", "hasSex": "male", "description": "English dramatist", "activeDate": "GREGORIAN:1698"}, "ww_9865bf07634965e0": {"firstName": "Robert", "lastName": "Tailor", "hasSex": "male", "description": "English dramatist", "activeDate": "GREGORIAN:1613:1614"}, "ww_ef3a38fd3962bb10": {"firstName": "Thomas", "lastName": "Goffe", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1591", "deathDate": "GREGORIAN:1629"}, "ww_16cc8f76837b9146": {"firstName": "John", "lastName": "Heath", "hasSex": "male", "description": "English poet", "activeDate": "GREGORIAN:1615"}, "ww_c1c75e8b202bbbee": {"firstName": "John (1)", "lastName": "Ford", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1586", "deathDate": "GREGORIAN:1639:1640"}, "ww_d0a72ec0a44b283d": {"firstName": "Thomas", "lastName": "Nabbes", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1605", "deathDate": "GREGORIAN:1641"}, "ww_cc76df07de512c5c": {"firstName": "Shackerley", "lastName": "Marmion", "hasSex": "male", "description": "English dramatist and poet", "birthDate": "GREGORIAN:1603", "deathDate": "GREGORIAN:1639"}, "ww_e3629c2300452bc6": {"firstName": "John", "lastName": "Swan", "hasSex": "male", "description": "English (?) poet", "activeDate": "GREGORIAN:1635"}, "ww_dea3b56289f47fb2": {"firstName": "Sir Ralph", "lastName": "Freeman", "hasSex": "male", "description": "English dramatist", "activeDate": "GREGORIAN:1610:1655"}, "ww_e219a52388289dd8": {"firstName": "Samuel", "lastName": "Pick", "hasSex": "male", "description": "British anthologist", "activeDate": "GREGORIAN:1639"}, "ww_787e0c8864df7063": {"firstName": "Samuel ", "lastName": "Sheppard", "hasSex": "male", "description": "English poet and prose writer", "birthDate": "GREGORIAN:1624", "deathDate": "GREGORIAN:1655"}, "ww_49457e542cea105a": {"firstName": "Sir Richard", "lastName": "Fanshawe", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1608", "deathDate": "GREGORIAN:1666"}, "ww_470aa71e11b82d67": {"firstName": "Gilbert", "lastName": "Swinhoe", "hasSex": "male", "description": "English dramatist", "activeDate": "GREGORIAN:1658"}, "ww_55497d26971913d2": {"firstName": "William", "lastName": "Tyndale", "hasSex": "male", "description": "English scholar and translator )", "birthDate": "GREGORIAN:1494", "deathDate": "GREGORIAN:1536"}, "ww_ac21c8585ae8d224": {"firstName": "Thomas", "lastName": "Cranmer", "hasSex": "male", "description": "English theologian and bishop Thomas Cranmer", "birthDate": "GREGORIAN:1489", "deathDate": "GREGORIAN:1556"}, "ww_220a73def979f4a4": {"firstName": "Nicholas", "lastName": "Udall", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1504", "deathDate": "GREGORIAN:1556"}, "ww_edab9e0477ad7401": {"firstName": "Thomas", "lastName": "Wilson", "hasSex": "male", "description": ""}, "ww_2328c74af1f27243": {"firstName": "Marcus Tullius", "lastName": "Cicero", "hasSex": "male", "description": ""}, "ww_6b7b6aabda5c7c6b": {"firstName": "John", "lastName": "Dolman", "hasSex": "male", "description": "English translator", "activeDate": "GREGORIAN:1561"}, "ww_144d49d7e9724c99": {"firstName": "Richard", "lastName": "Rainolde", "hasSex": "male", "description": "English (?) rhetorician and historian", "activeDate": "GREGORIAN:1563:1571"}, "ww_0b287f59292b10a7": {"firstName": "Henry ", "lastName": "Smith", "hasSex": "male", "description": "English divine", "birthDate": "GREGORIAN:1559:1561", "deathDate": "GREGORIAN:1591:1613"}, "ww_771659144d06dcdf": {"firstName": "George", "lastName": "Buchanan", "hasSex": "male", "description": "Scottish poet and dramatist", "birthDate": "GREGORIAN:1506", "deathDate": "GREGORIAN:1582"}, "ww_a00dfc9e63a5d0fe": {"firstName": "Lucius Annaeus", "lastName": "Seneca", "hasSex": "male", "description": ""}, "ww_0adab3e3a15ca99c": {"firstName": "Arthur", "lastName": "Golding", "hasSex": "male", "description": "English translator", "birthDate": "GREGORIAN:1536", "deathDate": "GREGORIAN:1606"}, "ww_ead92b40726b9049": {"firstName": "Publius", "lastName": "Ovidius Naso", "hasSex": "male", "description": ""}, "ww_7dad315c91c456fb": {"firstName": "John", "lastName": "Skelton", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1463", "deathDate": "GREGORIAN:1529"}, "ww_71583f09e4b9cd17": {"firstName": "Queen of England", "lastName": "Elizabeth I", "hasSex": "male", "description": "", "birthDate": "GREGORIAN:1533", "deathDate": "GREGORIAN:1603"}, "ww_5fe3b5dcb00b7162": {"firstName": "Sir Christopher", "lastName": "Hatton", "hasSex": "male", "description": "English politician", "birthDate": "GREGORIAN:1540", "deathDate": "GREGORIAN:1591"}, "ww_e963a8b58028d76a": {"firstName": "Thomas", "lastName": "Bedingfield", "hasSex": "male", "description": ""}, "ww_ba0230e7fbb5fd0d": {"firstName": "John", "lastName": "Lyly", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1553:1554", "deathDate": "GREGORIAN:1606"}, "ww_6fbd1bd26280846d": {"firstName": "Thomas", "lastName": "Tusser", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1524", "deathDate": "GREGORIAN:1580"}, "ww_0a2ae5bb07b64969": {"firstName": "John ", "lastName": "Merbeck or Marbeck", "hasSex": "male", "description": "English theological writer", "birthDate": "GREGORIAN:1508:1512", "deathDate": "GREGORIAN:1583:1587"}, "ww_9fc186f153594d59": {"firstName": "George", "lastName": "Pettie", "hasSex": "male", "description": "English novelist and translator", "birthDate": "GREGORIAN:1548", "deathDate": "GREGORIAN:1589"}, "ww_2754f19921c8bd2b": {"firstName": "Richard", "lastName": "Mulcaster", "hasSex": "male", "description": "English educator", "birthDate": "GREGORIAN:1530:1531", "deathDate": "GREGORIAN:1611"}, "ww_8f477c6051e158af": {"firstName": "Robert", "lastName": "Persons", "hasSex": "male", "description": "English Jesuit missionary", "birthDate": "GREGORIAN:1546", "deathDate": "GREGORIAN:1610"}, "ww_1a3350c92dc1c186": {"firstName": "Richard", "lastName": "Stanyhurst", "hasSex": "male", "description": ""}, "ww_81a0be98745dd98b": {"firstName": "Publius", "lastName": "Vergilius Maro", "hasSex": "male", "description": ""}, "ww_2a3b4daed2941136": {"firstName": "James", "lastName": "Yates", "hasSex": "male", "description": "English poet", "activeDate": "GREGORIAN:1582"}, "ww_2580f4cea0614ff5": {"firstName": "Brian", "lastName": "Melbancke", "hasSex": "male", "description": ""}, "ww_e746ef3ff7ed65a8": {"firstName": "Dudley", "lastName": "Fenner", "hasSex": "male", "description": "English puritan writer", "birthDate": "GREGORIAN:1556:1360", "deathDate": "GREGORIAN:1587"}, "ww_1e0958dae3ce7ad4": {"firstName": "Reginald", "lastName": "Scot", "hasSex": "male", "description": "English politician", "birthDate": "GREGORIAN:1538", "deathDate": "GREGORIAN:1599"}, "ww_14800c7eb75cfa9a": {"firstName": "John", "lastName": "Norden", "hasSex": "male", "description": "English devotional writer", "birthDate": "GREGORIAN:1546:1549", "deathDate": "GREGORIAN:1625"}, "ww_16d31ca4a1f787bf": {"firstName": "Thomas", "lastName": "Bilson", "hasSex": "male", "description": "English bishop and final editor of the King James Bible", "birthDate": "GREGORIAN:1547", "deathDate": "GREGORIAN:1616"}, "ww_4d90bb08c3de976b": {"firstName": "Sir Philip", "lastName": "Sidney", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1554", "deathDate": "GREGORIAN:1586"}, "ww_1d171ca3a3740f14": {"firstName": "Timothy", "lastName": "Bright", "hasSex": "male", "description": "English physician and stenographer", "birthDate": "GREGORIAN:1550:1552", "deathDate": "GREGORIAN:1615"}, "ww_40f087f3ecb3aa75": {"firstName": "Abraham", "lastName": "Fraunce", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1558:1560", "deathDate": "GREGORIAN:1592:1593"}, "ww_4120af7a4ce22c71": {"firstName": "Thomas", "lastName": "Smith", "hasSex": "male", "description": "English philosopher", "activeDate": "GREGORIAN:1589"}, "ww_29c676ae27f37864": {"firstName": "Henry", "lastName": "Swinburne", "hasSex": "male", "description": "English jurist", "activeDate": "GREGORIAN:1590"}, "ww_246e8bda427107c8": {"firstName": "Sir Everard", "lastName": "Digby", "hasSex": "male", "description": "English Catholic activist", "birthDate": "GREGORIAN:1578", "deathDate": "GREGORIAN:1606"}, "ww_788d53fded4c5751": {"firstName": "John", "lastName": "Florio", "hasSex": "male", "description": "Anglo-Italian linguist and anthologist", "birthDate": "GREGORIAN:1553", "deathDate": "GREGORIAN:1625"}, "ww_dc3833f217f24ffb": {"firstName": "Richard", "lastName": "Barnfield", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1574", "deathDate": "GREGORIAN:1627"}, "ww_bb511f296416b258": {"firstName": "John", "lastName": "King", "hasSex": "male", "description": "English theologian", "activeDate": "GREGORIAN:1594"}, "ww_3bba108f51aa8607": {"firstName": "Anthony", "lastName": "Copley", "hasSex": "male"}, "ww_84ff74beb4a95aa1": {"firstName": "William", "lastName": "Perkins", "hasSex": "male", "description": "English Puritan theologian", "birthDate": "GREGORIAN:1558", "deathDate": "GREGORIAN:1602"}, "ww_866098e504e55c18": {"firstName": "Sir Francis", "lastName": "Hubert", "hasSex": "male", "description": "English poet", "deathDate": "GREGORIAN:1629"}, "ww_bba79dead28fbb93": {"firstName": "Josuah", "lastName": "Sylvester", "hasSex": "male", "description": "English translator", "birthDate": "GREGORIAN:1563", "deathDate": "GREGORIAN:1618"}, "ww_8ff183e9c3dd0d6b": {"firstName": "John", "lastName": "Dowland", "hasSex": "male", "description": "English composer and poet", "birthDate": "GREGORIAN:1563", "deathDate": "GREGORIAN:1626"}, "ww_6189bca8bbb55fc5": {"firstName": "John", "lastName": "Deacon", "hasSex": "male", "description": "English preacher", "activeDate": "GREGORIAN:1585:1616"}, "ww_fba1842c561811bb": {"firstName": "John (1)", "lastName": "Walker", "hasSex": "male", "description": "English preacher", "activeDate": "GREGORIAN:1601"}, "ww_5eda50e71c74828b": {"firstName": "John", "lastName": "Willis", "hasSex": "male", "description": "English clergyman and stenographer ca.", "birthDate": "GREGORIAN:1575", "deathDate": "GREGORIAN:1625"}, "ww_a15d1ad784ef65c3": {"firstName": "Elizabeth, Viscountess Falkland ", "lastName": "Cary", "hasSex": "male", "description": "English poet, dramatist and translator", "birthDate": "GREGORIAN:1585", "deathDate": "GREGORIAN:1639"}, "ww_77b4cd08eebf6e6c": {"firstName": "Samuel", "lastName": "Garey", "hasSex": "male", "description": "English", "activeDate": "GREGORIAN:1605"}, "ww_c62da289e0e58107": {"firstName": "Thomas", "lastName": "Pickering", "hasSex": "male", "description": ""}, "ww_ba2bed49492fef13": {"firstName": "Robert", "lastName": "Daborne", "hasSex": "male", "description": "English dramatist", "deathDate": "GREGORIAN:1628"}, "ww_e677b0c54662da19": {"firstName": "Alexander", "lastName": "Niccholes", "hasSex": "male", "description": "British poet", "activeDate": "GREGORIAN:1615"}, "ww_02a32352c63afb30": {"firstName": "William", "lastName": "Basse", "hasSex": "male", "description": "English anthologist", "activeDate": "GREGORIAN:1615:1653"}, "ww_060fb51fdafb3cc5": {"firstName": "Edward", "lastName": "Phillips", "hasSex": "male", "description": "British anthologist", "birthDate": "GREGORIAN:1630", "deathDate": "GREGORIAN:1696:1700"}, "ww_39384a524a7bafbe": {"firstName": "Edward", "lastName": "Pond", "hasSex": "male", "description": "British writer", "deathDate": "GREGORIAN:1629"}, "ww_3a8aed7d4df9e7de": {"firstName": "William", "lastName": "Twisse", "hasSex": "male", "description": "English Puritan divine", "birthDate": "GREGORIAN:1578", "deathDate": "GREGORIAN:1646"}, "ww_4972531db9405dfc": {"firstName": "John", "lastName": "Milton", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1608", "deathDate": "GREGORIAN:1674"}, "ww_04599c8d5b7e6be6": {"firstName": "Sir Thomas", "lastName": "Browne", "hasSex": "male", "description": "English physician, antiquarian and philosopher", "birthDate": "GREGORIAN:1605", "deathDate": "GREGORIAN:1682"}, "ww_5e2853e3f87f7ec9": {"firstName": "George Gerbier ", "lastName": "d'Ouvilly", "hasSex": "male", "description": "Dutch-born English dramatist", "activeDate": "GREGORIAN:1661"}, "ww_b2f00cf3ae93a32b": {"firstName": "Thomas", "lastName": "D'Urfey", "hasSex": "male", "description": "English dramatist and songwriter", "birthDate": "GREGORIAN:1653", "deathDate": "GREGORIAN:1723"}, "ww_7af335e6c892a8d0": {"firstName": "Thomas", "lastName": "Norton", "hasSex": "male", "description": "English dramatist and politician", "birthDate": "GREGORIAN:1532", "deathDate": "GREGORIAN:1584"}, "ww_3d7f30bfa784adbc": {"firstName": "Sir Thomas", "lastName": "Sackville", "hasSex": "male", "description": "English politician, poet and dramatist  @007009", "birthDate": "GREGORIAN:1536", "deathDate": "GREGORIAN:1608"}, "ww_25e6fd889f1e2401": {"firstName": "Robert", "lastName": "Wilson", "hasSex": "male", "description": ""}, "ww_1e249fc82c1de780": {"firstName": "Clement", "lastName": "Robinson", "hasSex": "male", "description": "British poet", "activeDate": "GREGORIAN:1566:1584"}, "ww_96e72412ce67888e": {"firstName": "Francis", "lastName": "Meres", "hasSex": "male", "description": "English anthologist", "birthDate": "GREGORIAN:1565:1566", "deathDate": "GREGORIAN:1647"}, "ww_22f6e503d59ca03b": {"firstName": "Thomas", "lastName": "Acheley or Achelow", "hasSex": "male", "description": "English poet", "activeDate": "GREGORIAN:1589:1602"}, "ww_83e21e7a9246faa2": {"firstName": "Sir Thomas", "lastName": "Smith", "hasSex": "male", "description": "English writer", "birthDate": "GREGORIAN:1558", "deathDate": "GREGORIAN:1625"}, "ww_54e7c8428ba6024c": {"firstName": "John", "lastName": "Reynolds", "hasSex": "male", "description": "English religious writer", "activeDate": "GREGORIAN:1621:1650"}, "ww_f32bede8ddcef974": {"firstName": "Richard", "lastName": "Niccols", "hasSex": "male", "description": ""}, "ww_16c1195bda020eff": {"firstName": "John", "lastName": "Donne", "hasSex": "male", "description": "English poet", "birthDate": "GREGORIAN:1572", "deathDate": "GREGORIAN:1631"}, "ww_1ba44aa9c8c5ae62": {"firstName": "Thomas", "lastName": "Campion", "hasSex": "male", "description": "English dramatist", "birthDate": "GREGORIAN:1567", "deathDate": "GREGORIAN:1620"}, "ww_993a2c8b25ef3953": {"firstName": "Samuel", "lastName": "Rowlands", "hasSex": "male", "description": "British dramatist", "birthDate": "GREGORIAN:1568:1872", "deathDate": "GREGORIAN:1630"}, "ww_ee50ed245a0dc04f": {"firstName": "J.", "lastName": "W.", "hasSex": "male", "description": "English dramatist", "activeDate": "GREGORIAN:1626"}, "ww_20abdf6ad9bd61dc": {"firstName": "Robert (2)", "lastName": "Abbot", "hasSex": "male", "description": "English Puritan theologian", "activeDate": "GREGORIAN:1616:1662"}, "ww_11b6d4be322d75f4": {"firstName": "John", "lastName": "Clarke", "hasSex": "male", "description": "English schoolmaster", "birthDate": "GREGORIAN:1596", "deathDate": "GREGORIAN:1658"}}
+{
+  "ww_684176b58bc762f6": {
+    "firstName": "William",
+    "lastName": "Shakespeare",
+    "hasSex": "male",
+    "description": "English dramatist and poet  @007000",
+    "birthDate": "GREGORIAN:1564",
+    "deathDate": "GREGORIAN:1616"
+  },
+  "ww_212c78497ddc32c5": {
+    "firstName": "_",
+    "lastName": "0_Anon",
+    "hasSex": "male"
+  },
+  "ww_394742d5146e6fd1": {
+    "firstName": "Thomas",
+    "lastName": "Usk",
+    "hasSex": "male",
+    "description": "English writer",
+    "deathDate": "GREGORIAN:1388"
+  },
+  "ww_830c5cd6a3a44ca4": {
+    "firstName": "Geoffrey",
+    "lastName": "Chaucer",
+    "hasSex": "male",
+    "description": "English poet  @007005",
+    "birthDate": "GREGORIAN:1343",
+    "deathDate": "GREGORIAN:1400"
+  },
+  "ww_13695de2bd4043e0": {
+    "firstName": "Henry",
+    "lastName": "Parker",
+    "hasSex": "male",
+    "description": "English divine",
+    "deathDate": "GREGORIAN:1470"
+  },
+  "ww_bff81a320b8342f4": {
+    "firstName": "Thomas, Lord",
+    "lastName": "Vaux",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1510",
+    "deathDate": "GREGORIAN:1556"
+  },
+  "ww_42eb905bc6e4053a": {
+    "firstName": "William",
+    "lastName": "Painter",
+    "hasSex": "male",
+    "description": "English writer",
+    "birthDate": "GREGORIAN:1538:1542",
+    "deathDate": "GREGORIAN:1594"
+  },
+  "ww_17923856f3fcac86": {
+    "firstName": "William",
+    "lastName": "Baldwin",
+    "hasSex": "male",
+    "description": "English anthologist",
+    "birthDate": "GREGORIAN:1518",
+    "deathDate": "GREGORIAN:1562:1564"
+  },
+  "ww_4d46ba6d44081aae": {
+    "firstName": "Sir Henry",
+    "lastName": "Billingsley",
+    "hasSex": "male",
+    "description": "English merchant and translator",
+    "deathDate": "GREGORIAN:1606"
+  },
+  "ww_93393d7338f8a258": {
+    "firstName": "Laurence",
+    "lastName": "Twyne",
+    "hasSex": "male",
+    "description": "English translator",
+    "activeDate": "GREGORIAN:1594"
+  },
+  "ww_a5663d4a9069f35d": {
+    "firstName": "Thomas",
+    "lastName": "Twyne",
+    "hasSex": "male",
+    "description": "English translator",
+    "birthDate": "GREGORIAN:1543",
+    "deathDate": "GREGORIAN:1613"
+  },
+  "ww_20c2963f1665d325": {
+    "firstName": "John",
+    "lastName": "Jewel",
+    "hasSex": "male",
+    "description": "English divine",
+    "birthDate": "GREGORIAN:1522",
+    "deathDate": "GREGORIAN:1571"
+  },
+  "ww_8110581a51ac8d0a": {
+    "firstName": "John",
+    "lastName": "Whitgift",
+    "hasSex": "male",
+    "description": "Archbishop of Canterbury",
+    "birthDate": "GREGORIAN:1530:1533",
+    "deathDate": "GREGORIAN:1604"
+  },
+  "ww_0e82de631d672dcc": {
+    "firstName": "Ralph",
+    "lastName": "Lever",
+    "hasSex": "male",
+    "description": "English rhetorician",
+    "deathDate": "GREGORIAN:1584"
+  },
+  "ww_9ffeb7ca95cd18da": {
+    "firstName": "Thomas",
+    "lastName": "Rogers",
+    "hasSex": "male",
+    "description": "English  theologian and translator",
+    "deathDate": "GREGORIAN:1616"
+  },
+  "ww_61ea5c613f71ac23": {
+    "firstName": "Thomas",
+    "lastName": "Proctor",
+    "hasSex": "male",
+    "description": "English poet",
+    "activeDate": "GREGORIAN:1578"
+  },
+  "ww_4b2c2c667ace067b": {
+    "firstName": "Henry",
+    "lastName": "Bull",
+    "hasSex": "male",
+    "description": "English theological writer",
+    "deathDate": "GREGORIAN:1577"
+  },
+  "ww_63d5fe36ffac5d32": {
+    "firstName": "Christopher",
+    "lastName": "Marlowe",
+    "hasSex": "male",
+    "description": "English poet, dramatist and translator",
+    "birthDate": "GREGORIAN:1564",
+    "deathDate": "GREGORIAN:1593"
+  },
+  "ww_7468c79b15d734b3": {
+    "firstName": "George",
+    "lastName": "Peele",
+    "hasSex": "male",
+    "description": "English translator, poet and dramatist",
+    "birthDate": "GREGORIAN:1556",
+    "deathDate": "GREGORIAN:1596"
+  },
+  "ww_fb2f6ac664533d01": {
+    "firstName": "Edmund",
+    "lastName": "Spenser",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1552",
+    "deathDate": "GREGORIAN:1599"
+  },
+  "ww_9b2d545e20d62482": {
+    "firstName": "Ben",
+    "lastName": "Jonson",
+    "hasSex": "male",
+    "description": "English dramatist and poet",
+    "birthDate": "GREGORIAN:1573",
+    "deathDate": "GREGORIAN:1637"
+  },
+  "ww_8501ec457f433848": {
+    "firstName": "George",
+    "lastName": "Chapman",
+    "hasSex": "male",
+    "description": "English poet, dramatist and translator",
+    "birthDate": "GREGORIAN:1558:1560",
+    "deathDate": "GREGORIAN:1634"
+  },
+  "ww_ad03d7c87e5b9c24": {
+    "firstName": "John",
+    "lastName": "Marston",
+    "hasSex": "male",
+    "description": "English dramatist and poet",
+    "birthDate": "GREGORIAN:1576",
+    "deathDate": "GREGORIAN:1634"
+  },
+  "ww_d888f97beb7a5e1c": {
+    "firstName": "William",
+    "lastName": "Haughton",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "deathDate": "GREGORIAN:1605"
+  },
+  "ww_ce94987303de0652": {
+    "firstName": "Henry",
+    "lastName": "Porter",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "deathDate": "GREGORIAN:1599"
+  },
+  "ww_87dbd52f1c5b813b": {
+    "firstName": "Thomas",
+    "lastName": "Dekker",
+    "hasSex": "male",
+    "description": "English dramatist ca.",
+    "birthDate": "GREGORIAN:1572",
+    "deathDate": "GREGORIAN:1632"
+  },
+  "ww_7b88afb3c96d748f": {
+    "firstName": "John",
+    "lastName": "Bodenham",
+    "hasSex": "male",
+    "description": "English anthologist",
+    "birthDate": "GREGORIAN:1559",
+    "deathDate": "GREGORIAN:1610"
+  },
+  "ww_7e08b5fab4c10b55": {
+    "firstName": "Sam",
+    "lastName": "Nicholson",
+    "hasSex": "male",
+    "description": "English (?) poet",
+    "activeDate": "GREGORIAN:1600"
+  },
+  "ww_5cb3d6fa23800e74": {
+    "firstName": "William",
+    "lastName": "Rowley",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1584:1586",
+    "deathDate": "GREGORIAN:1626"
+  },
+  "ww_f10aec8cfe5ff90d": {
+    "firstName": "Thomas",
+    "lastName": "Heywood",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1570:1574",
+    "deathDate": "GREGORIAN:1641"
+  },
+  "ww_d78940f8a8554ca3": {
+    "firstName": "Henry",
+    "lastName": "Chettle",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1564",
+    "deathDate": "GREGORIAN:1603:1606"
+  },
+  "ww_9594c85bc48d3759": {
+    "firstName": "John",
+    "lastName": "Webster",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1584",
+    "deathDate": "GREGORIAN:1616"
+  },
+  "ww_947a2e721f016a03": {
+    "firstName": "John",
+    "lastName": "Day",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1574",
+    "deathDate": "GREGORIAN:1637:1639"
+  },
+  "ww_c298754546b2500e": {
+    "firstName": "Thomas",
+    "lastName": "Middleton",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1580",
+    "deathDate": "GREGORIAN:1627"
+  },
+  "ww_f1b3b2adeeb3e86f": {
+    "firstName": "Peter",
+    "lastName": "Woodhouse",
+    "hasSex": "male",
+    "description": "English poet",
+    "activeDate": "GREGORIAN:1605"
+  },
+  "ww_ecd33a52caec339f": {
+    "firstName": "Francis",
+    "lastName": "Beaumont",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1584",
+    "deathDate": "GREGORIAN:1616"
+  },
+  "ww_3cc0cce5b6bf554a": {
+    "firstName": "John",
+    "lastName": "Fletcher",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1579",
+    "deathDate": "GREGORIAN:1625"
+  },
+  "ww_9186050dfac2d550": {
+    "firstName": "Thomas",
+    "lastName": "Tomkis",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "activeDate": "GREGORIAN:1604:1615"
+  },
+  "ww_986dd93d2d794ff5": {
+    "firstName": "George",
+    "lastName": "Wilkins",
+    "hasSex": "male",
+    "description": "English dramatist and pamphleteer",
+    "deathDate": "GREGORIAN:1618"
+  },
+  "ww_79c674f9ee6b5a7c": {
+    "firstName": "Edward",
+    "lastName": "Sharpham",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1576",
+    "deathDate": "GREGORIAN:1608"
+  },
+  "ww_9b3aca5e1fbd9b33": {
+    "firstName": "Lording or Lodovic",
+    "lastName": "Barry",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1580",
+    "deathDate": "GREGORIAN:1629"
+  },
+  "ww_8926bbeaa7c56023": {
+    "firstName": "Nathan",
+    "lastName": "Field",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1587",
+    "deathDate": "GREGORIAN:1620"
+  },
+  "ww_5350e0c0cddb3400": {
+    "firstName": "Robert",
+    "lastName": "Armin",
+    "hasSex": "male",
+    "description": "English actor and dramatist",
+    "birthDate": "GREGORIAN:1562:1564",
+    "deathDate": "GREGORIAN:1615"
+  },
+  "ww_883324fc3b8b8dba": {
+    "firstName": "Cyril",
+    "lastName": "Tourneur",
+    "hasSex": "male",
+    "description": "English poet and dramatist",
+    "deathDate": "GREGORIAN:1626"
+  },
+  "ww_2afeb85181d58ed3": {
+    "firstName": "Sir John",
+    "lastName": "Davies of Hereford",
+    "hasSex": "male",
+    "description": "Anglo-Welsh poet",
+    "birthDate": "GREGORIAN:1563:1567",
+    "deathDate": "GREGORIAN:1618"
+  },
+  "ww_a4e45e7b381d6e89": {
+    "firstName": "John",
+    "lastName": "Cooke",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "activeDate": "GREGORIAN:1612:1614"
+  },
+  "ww_7c9389d75703bf3a": {
+    "firstName": "Sir John",
+    "lastName": "Hayward",
+    "hasSex": "male",
+    "description": "English historian",
+    "birthDate": "GREGORIAN:1563:1565",
+    "deathDate": "GREGORIAN:1627"
+  },
+  "ww_31fd4cfea1a56eb2": {
+    "firstName": "Christopher",
+    "lastName": "Brooke",
+    "hasSex": "male",
+    "description": "English poet Christopher Brooke",
+    "deathDate": "GREGORIAN:1628"
+  },
+  "ww_cbc2c3284144573a": {
+    "firstName": "Philip",
+    "lastName": "Massinger",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1583",
+    "deathDate": "GREGORIAN:1640"
+  },
+  "ww_2d4add490de5218d": {
+    "firstName": "Robert",
+    "lastName": "Burton",
+    "hasSex": "male",
+    "description": "English essayist",
+    "birthDate": "GREGORIAN:1577",
+    "deathDate": "GREGORIAN:1640"
+  },
+  "ww_6a8b2b14d4099ec9": {
+    "firstName": "Robert",
+    "lastName": "Davenport",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "activeDate": "GREGORIAN:1623:1639"
+  },
+  "ww_d8f1d08e1ca080b7": {
+    "firstName": "Sir William",
+    "lastName": "D'Avenant",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1606",
+    "deathDate": "GREGORIAN:1668"
+  },
+  "ww_53c2f0bb43b1f960": {
+    "firstName": "William",
+    "lastName": "Sampson",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1589:1591",
+    "deathDate": "GREGORIAN:1636:1637"
+  },
+  "ww_96f70a96968da33d": {
+    "firstName": "Thomas",
+    "lastName": "Randolph",
+    "hasSex": "male",
+    "description": "English poet and dramatist",
+    "birthDate": "GREGORIAN:1605",
+    "deathDate": "GREGORIAN:1635"
+  },
+  "ww_a7bda6e4ea9d6266": {
+    "firstName": "James",
+    "lastName": "Hart",
+    "hasSex": "male",
+    "description": "English physician",
+    "activeDate": "GREGORIAN:1633"
+  },
+  "ww_e97f8919dc99b209": {
+    "firstName": "William",
+    "lastName": "Hemings",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1602"
+  },
+  "ww_68dae2dd3ee5eaa3": {
+    "firstName": "James",
+    "lastName": "Shirley",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1596",
+    "deathDate": "GREGORIAN:1666"
+  },
+  "ww_6caa1b04d6f95548": {
+    "firstName": "Thomas",
+    "lastName": "Adams",
+    "hasSex": "male",
+    "description": "English writer",
+    "activeDate": "GREGORIAN:1612:1653"
+  },
+  "ww_e92e9dc9d65ade56": {
+    "firstName": "W.",
+    "lastName": "B.",
+    "hasSex": "male",
+    "description": "English translator",
+    "activeDate": "GREGORIAN:1614"
+  },
+  "ww_87547eb3eadc52d8": {
+    "firstName": "Michael",
+    "lastName": "Scot",
+    "hasSex": "male",
+    "description": "Scottish (?) philosopher",
+    "birthDate": "GREGORIAN:1175",
+    "deathDate": "GREGORIAN:1232:1234"
+  },
+  "ww_edc1093f53e0bc8a": {
+    "firstName": "Anthony",
+    "lastName": "Stafford",
+    "hasSex": "male",
+    "description": "English devotional writer 1587\u2013[]",
+    "birthDate": "GREGORIAN:1645",
+    "deathDate": "GREGORIAN:1660"
+  },
+  "ww_7179a7437437988e": {
+    "firstName": "Nathaniel",
+    "lastName": "Richards",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1611",
+    "deathDate": "GREGORIAN:1660"
+  },
+  "ww_33fc0870e5a0fbcf": {
+    "firstName": "R.",
+    "lastName": "Junius",
+    "hasSex": "male",
+    "description": "English writer ,  real name Richard E. Younge",
+    "activeDate": "GREGORIAN:1638"
+  },
+  "ww_296a7b9f6d21cde7": {
+    "firstName": "Samuel",
+    "lastName": "Harding",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "activeDate": "GREGORIAN:1640"
+  },
+  "ww_bae7c2e690c9caaa": {
+    "firstName": "John",
+    "lastName": "Suckling",
+    "hasSex": "male",
+    "description": "English poet and dramatist",
+    "birthDate": "GREGORIAN:1609",
+    "deathDate": "GREGORIAN:1642"
+  },
+  "ww_6f4a80592c6c793c": {
+    "firstName": "Henry",
+    "lastName": "Glapthorne",
+    "hasSex": "male",
+    "description": "British poet and dramatist",
+    "activeDate": "GREGORIAN:1639"
+  },
+  "ww_da5a5f8bc94ad571": {
+    "firstName": "Thomas",
+    "lastName": "Killigrew",
+    "hasSex": "male"
+  },
+  "ww_cce3785f9f0b7c67": {
+    "firstName": "Cosmo",
+    "lastName": "Manuche",
+    "hasSex": "male",
+    "description": "Anglo-Italian dramatist",
+    "activeDate": "GREGORIAN:1650:1652"
+  },
+  "ww_56af0f484de673fe": {
+    "firstName": "Richard",
+    "lastName": "Faber",
+    "hasSex": "male",
+    "description": "English (?) dramatist",
+    "activeDate": "GREGORIAN:1655"
+  },
+  "ww_023482909a532caf": {
+    "firstName": "Katherine",
+    "lastName": "Philips",
+    "hasSex": "male",
+    "description": "Welsh poet.",
+    "birthDate": "GREGORIAN:1631",
+    "deathDate": "GREGORIAN:1664"
+  },
+  "ww_ed5b7d7b5b4ff788": {
+    "firstName": "John",
+    "lastName": "Dryden",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1631",
+    "deathDate": "GREGORIAN:1700"
+  },
+  "ww_fb786ed957e3108e": {
+    "firstName": "John",
+    "lastName": "Caryll",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1625",
+    "deathDate": "GREGORIAN:1711"
+  },
+  "ww_0449cf1b66c3867d": {
+    "firstName": "John",
+    "lastName": "Lacy",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1613:1618",
+    "deathDate": "GREGORIAN:1681"
+  },
+  "ww_1013ee760af86e0f": {
+    "firstName": "Aphra",
+    "lastName": "Behn",
+    "hasSex": "male",
+    "description": "English dramatist and novelist",
+    "birthDate": "GREGORIAN:1640",
+    "deathDate": "GREGORIAN:1689"
+  },
+  "ww_0fdd672af19515af": {
+    "firstName": "Henry Neville",
+    "lastName": "Payne",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1672",
+    "deathDate": "GREGORIAN:1710"
+  },
+  "ww_99b03817dc566412": {
+    "firstName": "Edward",
+    "lastName": "Ravenscroft",
+    "hasSex": "male",
+    "description": "British dramatist",
+    "birthDate": "GREGORIAN:1652:1654",
+    "deathDate": "GREGORIAN:1707"
+  },
+  "ww_9830d46f027273df": {
+    "firstName": "William Cavendish, Duke of",
+    "lastName": "Newcastle",
+    "hasSex": "male"
+  },
+  "ww_0fa63d0ba5908460": {
+    "firstName": "John",
+    "lastName": "Banks",
+    "hasSex": "male",
+    "description": "English (?) dramatist",
+    "deathDate": "GREGORIAN:1702"
+  },
+  "ww_2fbef537c50f1433": {
+    "firstName": "Thomas",
+    "lastName": "Otway",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1652",
+    "deathDate": "GREGORIAN:1685"
+  },
+  "ww_12f7d2e19bfcb92f": {
+    "firstName": "Nathaniel",
+    "lastName": "Lee",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1652:1654",
+    "deathDate": "GREGORIAN:1692"
+  },
+  "ww_1f1f38544516a902": {
+    "firstName": "Thomas",
+    "lastName": "Southerne",
+    "hasSex": "male",
+    "description": "Irish dramatist",
+    "birthDate": "GREGORIAN:1660",
+    "deathDate": "GREGORIAN:1746"
+  },
+  "ww_aea6ce6ca036608b": {
+    "firstName": "Nahum",
+    "lastName": "Tate",
+    "hasSex": "male",
+    "description": "Irish poet and dramatist",
+    "birthDate": "GREGORIAN:1652",
+    "deathDate": "GREGORIAN:1715"
+  },
+  "ww_ae2d914875625509": {
+    "firstName": "George Villiers, Duke of",
+    "lastName": "Buckingham",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1628",
+    "deathDate": "GREGORIAN:1687"
+  },
+  "ww_7aab59631f22d17e": {
+    "firstName": "John",
+    "lastName": "Higgins",
+    "hasSex": "male",
+    "description": "English poet",
+    "activeDate": "GREGORIAN:1570:1602"
+  },
+  "ww_116917d934be52dd": {
+    "firstName": "Thomas",
+    "lastName": "Kyd",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1558",
+    "deathDate": "GREGORIAN:1594"
+  },
+  "ww_9e2e58504b5d3de8": {
+    "firstName": "Thomas",
+    "lastName": "Nashe",
+    "hasSex": "male",
+    "description": "English pamphleteer and dramatist",
+    "birthDate": "GREGORIAN:1567",
+    "deathDate": "GREGORIAN:1601"
+  },
+  "ww_2e81405af6457448": {
+    "firstName": "Samuel",
+    "lastName": "Daniel",
+    "hasSex": "male",
+    "description": "English poet and dramatist",
+    "birthDate": "GREGORIAN:1562",
+    "deathDate": "GREGORIAN:1619"
+  },
+  "ww_ce2fb5bd491a4d2e": {
+    "firstName": "Robert",
+    "lastName": "Greene",
+    "hasSex": "male",
+    "description": "English dramatist and pamphleteer",
+    "birthDate": "GREGORIAN:1558",
+    "deathDate": "GREGORIAN:1592"
+  },
+  "ww_2e80ef314f6d0fdc": {
+    "firstName": "Thomas",
+    "lastName": "Churchyard",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1520",
+    "deathDate": "GREGORIAN:1604"
+  },
+  "ww_d4ab524c831a2992": {
+    "firstName": "Robert",
+    "lastName": "Southwell",
+    "hasSex": "male",
+    "description": "English Jesuit priest and poet",
+    "birthDate": "GREGORIAN:1560:1562",
+    "deathDate": "GREGORIAN:1595"
+  },
+  "ww_31ef7df7935b492f": {
+    "firstName": "Thomas",
+    "lastName": "Lodge",
+    "hasSex": "male",
+    "description": "English poet and dramatist",
+    "birthDate": "GREGORIAN:1556:1559",
+    "deathDate": "GREGORIAN:1625"
+  },
+  "ww_970a44cddbbbe8d2": {
+    "firstName": "An.",
+    "lastName": "Sc.",
+    "hasSex": "male",
+    "description": "English dramatist , full name Anthony Scoloker?",
+    "activeDate": "GREGORIAN:1604"
+  },
+  "ww_e005e74f6af8f88e": {
+    "firstName": "T.",
+    "lastName": "Walkington",
+    "hasSex": "male",
+    "description": "English (?) poet",
+    "activeDate": "GREGORIAN:1607"
+  },
+  "ww_255b598e0ee7f9d1": {
+    "firstName": "John (1)",
+    "lastName": "Mason",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "activeDate": "GREGORIAN:1609"
+  },
+  "ww_4165dddf64bc6da3": {
+    "firstName": "William",
+    "lastName": "Barksted",
+    "hasSex": "male",
+    "description": "English poet and dramatist",
+    "activeDate": "GREGORIAN:1611"
+  },
+  "ww_18abf85e413e5632": {
+    "firstName": "Lewis",
+    "lastName": "Mackin",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "activeDate": "GREGORIAN:1698"
+  },
+  "ww_9865bf07634965e0": {
+    "firstName": "Robert",
+    "lastName": "Tailor",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "activeDate": "GREGORIAN:1613:1614"
+  },
+  "ww_ef3a38fd3962bb10": {
+    "firstName": "Thomas",
+    "lastName": "Goffe",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1591",
+    "deathDate": "GREGORIAN:1629"
+  },
+  "ww_16cc8f76837b9146": {
+    "firstName": "John",
+    "lastName": "Heath",
+    "hasSex": "male",
+    "description": "English poet",
+    "activeDate": "GREGORIAN:1615"
+  },
+  "ww_c1c75e8b202bbbee": {
+    "firstName": "John (1)",
+    "lastName": "Ford",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1586",
+    "deathDate": "GREGORIAN:1639:1640"
+  },
+  "ww_d0a72ec0a44b283d": {
+    "firstName": "Thomas",
+    "lastName": "Nabbes",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1605",
+    "deathDate": "GREGORIAN:1641"
+  },
+  "ww_cc76df07de512c5c": {
+    "firstName": "Shackerley",
+    "lastName": "Marmion",
+    "hasSex": "male",
+    "description": "English dramatist and poet",
+    "birthDate": "GREGORIAN:1603",
+    "deathDate": "GREGORIAN:1639"
+  },
+  "ww_e3629c2300452bc6": {
+    "firstName": "John",
+    "lastName": "Swan",
+    "hasSex": "male",
+    "description": "English (?) poet",
+    "activeDate": "GREGORIAN:1635"
+  },
+  "ww_dea3b56289f47fb2": {
+    "firstName": "Sir Ralph",
+    "lastName": "Freeman",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "activeDate": "GREGORIAN:1610:1655"
+  },
+  "ww_e219a52388289dd8": {
+    "firstName": "Samuel",
+    "lastName": "Pick",
+    "hasSex": "male",
+    "description": "British anthologist",
+    "activeDate": "GREGORIAN:1639"
+  },
+  "ww_787e0c8864df7063": {
+    "firstName": "Samuel ",
+    "lastName": "Sheppard",
+    "hasSex": "male",
+    "description": "English poet and prose writer",
+    "birthDate": "GREGORIAN:1624",
+    "deathDate": "GREGORIAN:1655"
+  },
+  "ww_49457e542cea105a": {
+    "firstName": "Sir Richard",
+    "lastName": "Fanshawe",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1608",
+    "deathDate": "GREGORIAN:1666"
+  },
+  "ww_470aa71e11b82d67": {
+    "firstName": "Gilbert",
+    "lastName": "Swinhoe",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "activeDate": "GREGORIAN:1658"
+  },
+  "ww_55497d26971913d2": {
+    "firstName": "William",
+    "lastName": "Tyndale",
+    "hasSex": "male",
+    "description": "English scholar and translator )",
+    "birthDate": "GREGORIAN:1494",
+    "deathDate": "GREGORIAN:1536"
+  },
+  "ww_ac21c8585ae8d224": {
+    "firstName": "Thomas",
+    "lastName": "Cranmer",
+    "hasSex": "male",
+    "description": "English theologian and bishop Thomas Cranmer",
+    "birthDate": "GREGORIAN:1489",
+    "deathDate": "GREGORIAN:1556"
+  },
+  "ww_220a73def979f4a4": {
+    "firstName": "Nicholas",
+    "lastName": "Udall",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1504",
+    "deathDate": "GREGORIAN:1556"
+  },
+  "ww_edab9e0477ad7401": {
+    "firstName": "Thomas",
+    "lastName": "Wilson",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_2328c74af1f27243": {
+    "firstName": "Marcus Tullius",
+    "lastName": "Cicero",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_6b7b6aabda5c7c6b": {
+    "firstName": "John",
+    "lastName": "Dolman",
+    "hasSex": "male",
+    "description": "English translator",
+    "activeDate": "GREGORIAN:1561"
+  },
+  "ww_144d49d7e9724c99": {
+    "firstName": "Richard",
+    "lastName": "Rainolde",
+    "hasSex": "male",
+    "description": "English (?) rhetorician and historian",
+    "activeDate": "GREGORIAN:1563:1571"
+  },
+  "ww_0b287f59292b10a7": {
+    "firstName": "Henry ",
+    "lastName": "Smith",
+    "hasSex": "male",
+    "description": "English divine",
+    "birthDate": "GREGORIAN:1559:1561",
+    "deathDate": "GREGORIAN:1591:1613"
+  },
+  "ww_771659144d06dcdf": {
+    "firstName": "George",
+    "lastName": "Buchanan",
+    "hasSex": "male",
+    "description": "Scottish poet and dramatist",
+    "birthDate": "GREGORIAN:1506",
+    "deathDate": "GREGORIAN:1582"
+  },
+  "ww_a00dfc9e63a5d0fe": {
+    "firstName": "Lucius Annaeus",
+    "lastName": "Seneca",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_0adab3e3a15ca99c": {
+    "firstName": "Arthur",
+    "lastName": "Golding",
+    "hasSex": "male",
+    "description": "English translator",
+    "birthDate": "GREGORIAN:1536",
+    "deathDate": "GREGORIAN:1606"
+  },
+  "ww_ead92b40726b9049": {
+    "firstName": "Publius",
+    "lastName": "Ovidius Naso",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_7dad315c91c456fb": {
+    "firstName": "John",
+    "lastName": "Skelton",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1463",
+    "deathDate": "GREGORIAN:1529"
+  },
+  "ww_71583f09e4b9cd17": {
+    "firstName": "Queen of England",
+    "lastName": "Elizabeth I",
+    "hasSex": "male",
+    "description": "",
+    "birthDate": "GREGORIAN:1533",
+    "deathDate": "GREGORIAN:1603"
+  },
+  "ww_5fe3b5dcb00b7162": {
+    "firstName": "Sir Christopher",
+    "lastName": "Hatton",
+    "hasSex": "male",
+    "description": "English politician",
+    "birthDate": "GREGORIAN:1540",
+    "deathDate": "GREGORIAN:1591"
+  },
+  "ww_e963a8b58028d76a": {
+    "firstName": "Thomas",
+    "lastName": "Bedingfield",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_ba0230e7fbb5fd0d": {
+    "firstName": "John",
+    "lastName": "Lyly",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1553:1554",
+    "deathDate": "GREGORIAN:1606"
+  },
+  "ww_6fbd1bd26280846d": {
+    "firstName": "Thomas",
+    "lastName": "Tusser",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1524",
+    "deathDate": "GREGORIAN:1580"
+  },
+  "ww_0a2ae5bb07b64969": {
+    "firstName": "John ",
+    "lastName": "Merbeck or Marbeck",
+    "hasSex": "male",
+    "description": "English theological writer",
+    "birthDate": "GREGORIAN:1508:1512",
+    "deathDate": "GREGORIAN:1583:1587"
+  },
+  "ww_9fc186f153594d59": {
+    "firstName": "George",
+    "lastName": "Pettie",
+    "hasSex": "male",
+    "description": "English novelist and translator",
+    "birthDate": "GREGORIAN:1548",
+    "deathDate": "GREGORIAN:1589"
+  },
+  "ww_2754f19921c8bd2b": {
+    "firstName": "Richard",
+    "lastName": "Mulcaster",
+    "hasSex": "male",
+    "description": "English educator",
+    "birthDate": "GREGORIAN:1530:1531",
+    "deathDate": "GREGORIAN:1611"
+  },
+  "ww_8f477c6051e158af": {
+    "firstName": "Robert",
+    "lastName": "Persons",
+    "hasSex": "male",
+    "description": "English Jesuit missionary",
+    "birthDate": "GREGORIAN:1546",
+    "deathDate": "GREGORIAN:1610"
+  },
+  "ww_1a3350c92dc1c186": {
+    "firstName": "Richard",
+    "lastName": "Stanyhurst",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_81a0be98745dd98b": {
+    "firstName": "Publius",
+    "lastName": "Vergilius Maro",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_2a3b4daed2941136": {
+    "firstName": "James",
+    "lastName": "Yates",
+    "hasSex": "male",
+    "description": "English poet",
+    "activeDate": "GREGORIAN:1582"
+  },
+  "ww_2580f4cea0614ff5": {
+    "firstName": "Brian",
+    "lastName": "Melbancke",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_e746ef3ff7ed65a8": {
+    "firstName": "Dudley",
+    "lastName": "Fenner",
+    "hasSex": "male",
+    "description": "English puritan writer",
+    "birthDate": "GREGORIAN:1556:1360",
+    "deathDate": "GREGORIAN:1587"
+  },
+  "ww_1e0958dae3ce7ad4": {
+    "firstName": "Reginald",
+    "lastName": "Scot",
+    "hasSex": "male",
+    "description": "English politician",
+    "birthDate": "GREGORIAN:1538",
+    "deathDate": "GREGORIAN:1599"
+  },
+  "ww_14800c7eb75cfa9a": {
+    "firstName": "John",
+    "lastName": "Norden",
+    "hasSex": "male",
+    "description": "English devotional writer",
+    "birthDate": "GREGORIAN:1546:1549",
+    "deathDate": "GREGORIAN:1625"
+  },
+  "ww_16d31ca4a1f787bf": {
+    "firstName": "Thomas",
+    "lastName": "Bilson",
+    "hasSex": "male",
+    "description": "English bishop and final editor of the King James Bible",
+    "birthDate": "GREGORIAN:1547",
+    "deathDate": "GREGORIAN:1616"
+  },
+  "ww_4d90bb08c3de976b": {
+    "firstName": "Sir Philip",
+    "lastName": "Sidney",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1554",
+    "deathDate": "GREGORIAN:1586"
+  },
+  "ww_1d171ca3a3740f14": {
+    "firstName": "Timothy",
+    "lastName": "Bright",
+    "hasSex": "male",
+    "description": "English physician and stenographer",
+    "birthDate": "GREGORIAN:1550:1552",
+    "deathDate": "GREGORIAN:1615"
+  },
+  "ww_40f087f3ecb3aa75": {
+    "firstName": "Abraham",
+    "lastName": "Fraunce",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1558:1560",
+    "deathDate": "GREGORIAN:1592:1593"
+  },
+  "ww_4120af7a4ce22c71": {
+    "firstName": "Thomas",
+    "lastName": "Smith",
+    "hasSex": "male",
+    "description": "English philosopher",
+    "activeDate": "GREGORIAN:1589"
+  },
+  "ww_29c676ae27f37864": {
+    "firstName": "Henry",
+    "lastName": "Swinburne",
+    "hasSex": "male",
+    "description": "English jurist",
+    "activeDate": "GREGORIAN:1590"
+  },
+  "ww_246e8bda427107c8": {
+    "firstName": "Sir Everard",
+    "lastName": "Digby",
+    "hasSex": "male",
+    "description": "English Catholic activist",
+    "birthDate": "GREGORIAN:1578",
+    "deathDate": "GREGORIAN:1606"
+  },
+  "ww_788d53fded4c5751": {
+    "firstName": "John",
+    "lastName": "Florio",
+    "hasSex": "male",
+    "description": "Anglo-Italian linguist and anthologist",
+    "birthDate": "GREGORIAN:1553",
+    "deathDate": "GREGORIAN:1625"
+  },
+  "ww_dc3833f217f24ffb": {
+    "firstName": "Richard",
+    "lastName": "Barnfield",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1574",
+    "deathDate": "GREGORIAN:1627"
+  },
+  "ww_bb511f296416b258": {
+    "firstName": "John",
+    "lastName": "King",
+    "hasSex": "male",
+    "description": "English theologian",
+    "activeDate": "GREGORIAN:1594"
+  },
+  "ww_3bba108f51aa8607": {
+    "firstName": "Anthony",
+    "lastName": "Copley",
+    "hasSex": "male"
+  },
+  "ww_84ff74beb4a95aa1": {
+    "firstName": "William",
+    "lastName": "Perkins",
+    "hasSex": "male",
+    "description": "English Puritan theologian",
+    "birthDate": "GREGORIAN:1558",
+    "deathDate": "GREGORIAN:1602"
+  },
+  "ww_866098e504e55c18": {
+    "firstName": "Sir Francis",
+    "lastName": "Hubert",
+    "hasSex": "male",
+    "description": "English poet",
+    "deathDate": "GREGORIAN:1629"
+  },
+  "ww_bba79dead28fbb93": {
+    "firstName": "Josuah",
+    "lastName": "Sylvester",
+    "hasSex": "male",
+    "description": "English translator",
+    "birthDate": "GREGORIAN:1563",
+    "deathDate": "GREGORIAN:1618"
+  },
+  "ww_8ff183e9c3dd0d6b": {
+    "firstName": "John",
+    "lastName": "Dowland",
+    "hasSex": "male",
+    "description": "English composer and poet",
+    "birthDate": "GREGORIAN:1563",
+    "deathDate": "GREGORIAN:1626"
+  },
+  "ww_6189bca8bbb55fc5": {
+    "firstName": "John",
+    "lastName": "Deacon",
+    "hasSex": "male",
+    "description": "English preacher",
+    "activeDate": "GREGORIAN:1585:1616"
+  },
+  "ww_fba1842c561811bb": {
+    "firstName": "John (1)",
+    "lastName": "Walker",
+    "hasSex": "male",
+    "description": "English preacher",
+    "activeDate": "GREGORIAN:1601"
+  },
+  "ww_5eda50e71c74828b": {
+    "firstName": "John",
+    "lastName": "Willis",
+    "hasSex": "male",
+    "description": "English clergyman and stenographer ca.",
+    "birthDate": "GREGORIAN:1575",
+    "deathDate": "GREGORIAN:1625"
+  },
+  "ww_a15d1ad784ef65c3": {
+    "firstName": "Elizabeth, Viscountess Falkland ",
+    "lastName": "Cary",
+    "hasSex": "male",
+    "description": "English poet, dramatist and translator",
+    "birthDate": "GREGORIAN:1585",
+    "deathDate": "GREGORIAN:1639"
+  },
+  "ww_77b4cd08eebf6e6c": {
+    "firstName": "Samuel",
+    "lastName": "Garey",
+    "hasSex": "male",
+    "description": "English",
+    "activeDate": "GREGORIAN:1605"
+  },
+  "ww_c62da289e0e58107": {
+    "firstName": "Thomas",
+    "lastName": "Pickering",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_ba2bed49492fef13": {
+    "firstName": "Robert",
+    "lastName": "Daborne",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "deathDate": "GREGORIAN:1628"
+  },
+  "ww_e677b0c54662da19": {
+    "firstName": "Alexander",
+    "lastName": "Niccholes",
+    "hasSex": "male",
+    "description": "British poet",
+    "activeDate": "GREGORIAN:1615"
+  },
+  "ww_02a32352c63afb30": {
+    "firstName": "William",
+    "lastName": "Basse",
+    "hasSex": "male",
+    "description": "English anthologist",
+    "activeDate": "GREGORIAN:1615:1653"
+  },
+  "ww_060fb51fdafb3cc5": {
+    "firstName": "Edward",
+    "lastName": "Phillips",
+    "hasSex": "male",
+    "description": "British anthologist",
+    "birthDate": "GREGORIAN:1630",
+    "deathDate": "GREGORIAN:1696:1700"
+  },
+  "ww_39384a524a7bafbe": {
+    "firstName": "Edward",
+    "lastName": "Pond",
+    "hasSex": "male",
+    "description": "British writer",
+    "deathDate": "GREGORIAN:1629"
+  },
+  "ww_3a8aed7d4df9e7de": {
+    "firstName": "William",
+    "lastName": "Twisse",
+    "hasSex": "male",
+    "description": "English Puritan divine",
+    "birthDate": "GREGORIAN:1578",
+    "deathDate": "GREGORIAN:1646"
+  },
+  "ww_4972531db9405dfc": {
+    "firstName": "John",
+    "lastName": "Milton",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1608",
+    "deathDate": "GREGORIAN:1674"
+  },
+  "ww_04599c8d5b7e6be6": {
+    "firstName": "Sir Thomas",
+    "lastName": "Browne",
+    "hasSex": "male",
+    "description": "English physician, antiquarian and philosopher",
+    "birthDate": "GREGORIAN:1605",
+    "deathDate": "GREGORIAN:1682"
+  },
+  "ww_5e2853e3f87f7ec9": {
+    "firstName": "George Gerbier ",
+    "lastName": "d'Ouvilly",
+    "hasSex": "male",
+    "description": "Dutch-born English dramatist",
+    "activeDate": "GREGORIAN:1661"
+  },
+  "ww_b2f00cf3ae93a32b": {
+    "firstName": "Thomas",
+    "lastName": "D'Urfey",
+    "hasSex": "male",
+    "description": "English dramatist and songwriter",
+    "birthDate": "GREGORIAN:1653",
+    "deathDate": "GREGORIAN:1723"
+  },
+  "ww_7af335e6c892a8d0": {
+    "firstName": "Thomas",
+    "lastName": "Norton",
+    "hasSex": "male",
+    "description": "English dramatist and politician",
+    "birthDate": "GREGORIAN:1532",
+    "deathDate": "GREGORIAN:1584"
+  },
+  "ww_3d7f30bfa784adbc": {
+    "firstName": "Sir Thomas",
+    "lastName": "Sackville",
+    "hasSex": "male",
+    "description": "English politician, poet and dramatist  @007009",
+    "birthDate": "GREGORIAN:1536",
+    "deathDate": "GREGORIAN:1608"
+  },
+  "ww_25e6fd889f1e2401": {
+    "firstName": "Robert",
+    "lastName": "Wilson",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_1e249fc82c1de780": {
+    "firstName": "Clement",
+    "lastName": "Robinson",
+    "hasSex": "male",
+    "description": "British poet",
+    "activeDate": "GREGORIAN:1566:1584"
+  },
+  "ww_96e72412ce67888e": {
+    "firstName": "Francis",
+    "lastName": "Meres",
+    "hasSex": "male",
+    "description": "English anthologist",
+    "birthDate": "GREGORIAN:1565:1566",
+    "deathDate": "GREGORIAN:1647"
+  },
+  "ww_22f6e503d59ca03b": {
+    "firstName": "Thomas",
+    "lastName": "Acheley or Achelow",
+    "hasSex": "male",
+    "description": "English poet",
+    "activeDate": "GREGORIAN:1589:1602"
+  },
+  "ww_83e21e7a9246faa2": {
+    "firstName": "Sir Thomas",
+    "lastName": "Smith",
+    "hasSex": "male",
+    "description": "English writer",
+    "birthDate": "GREGORIAN:1558",
+    "deathDate": "GREGORIAN:1625"
+  },
+  "ww_54e7c8428ba6024c": {
+    "firstName": "John",
+    "lastName": "Reynolds",
+    "hasSex": "male",
+    "description": "English religious writer",
+    "activeDate": "GREGORIAN:1621:1650"
+  },
+  "ww_f32bede8ddcef974": {
+    "firstName": "Richard",
+    "lastName": "Niccols",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_16c1195bda020eff": {
+    "firstName": "John",
+    "lastName": "Donne",
+    "hasSex": "male",
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1572",
+    "deathDate": "GREGORIAN:1631"
+  },
+  "ww_1ba44aa9c8c5ae62": {
+    "firstName": "Thomas",
+    "lastName": "Campion",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "birthDate": "GREGORIAN:1567",
+    "deathDate": "GREGORIAN:1620"
+  },
+  "ww_993a2c8b25ef3953": {
+    "firstName": "Samuel",
+    "lastName": "Rowlands",
+    "hasSex": "male",
+    "description": "British dramatist",
+    "birthDate": "GREGORIAN:1568:1872",
+    "deathDate": "GREGORIAN:1630"
+  },
+  "ww_ee50ed245a0dc04f": {
+    "firstName": "J.",
+    "lastName": "W.",
+    "hasSex": "male",
+    "description": "English dramatist",
+    "activeDate": "GREGORIAN:1626"
+  },
+  "ww_20abdf6ad9bd61dc": {
+    "firstName": "Robert (2)",
+    "lastName": "Abbot",
+    "hasSex": "male",
+    "description": "English Puritan theologian",
+    "activeDate": "GREGORIAN:1616:1662"
+  },
+  "ww_11b6d4be322d75f4": {
+    "firstName": "John",
+    "lastName": "Clarke",
+    "hasSex": "male",
+    "description": "English schoolmaster",
+    "birthDate": "GREGORIAN:1596",
+    "deathDate": "GREGORIAN:1658"
+  }
+}
