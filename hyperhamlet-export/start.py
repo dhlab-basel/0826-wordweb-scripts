@@ -2,38 +2,34 @@
 import csv
 # system library
 import sys
+
 # defining path for module imports
 sys.path.append("modules/")
 
-# my json handler
-import json_handler as json
+# helper for edition
+import helper_edition as ed
+# helper for secondary literature
+import helper_secondary as sec
 # my id generator
 import id_generator as id
+# my json handler
+import json_handler as json
 # preparation for authors
 import prep_authors
 # preparation for books
 import prep_books
 # preparation for contributors
 import prep_contributors
-# preparation for editions
-import prep_editions
-# preparation for editions original
-import prep_editions_original
-# helper for edition
-import helper_edition as ed
-# helper for page
-import helper_page
+# preparation for secondary books
+import prep_sec_books
 
 json_files = [
     "json/author.json",
     "json/book.json",
-    "json/edition.json",
-    "json/edition_original.json",
-    "json/publication_info.json",
+    "json/sec_book.json",
     "json/passage.json",
-    "json/passage_original.json",
-    "json/page.json",
-    "json/contributor.json"
+    "json/contributor.json",
+    "json/lexia.json"
 ]
 
 csv_files = [
@@ -42,149 +38,6 @@ csv_files = [
     "csv/export_3.csv",
     "csv/export_4.csv"
 ]
-
-
-def create_contributor(co_id):
-    contributor = {
-        "firstName": allContributors[co_id]["firstName"],
-        "lastName": allContributors[co_id]["lastName"],
-        "email": allContributors[co_id]["email"]
-    }
-
-    contributors[co_id] = contributor
-
-
-def create_passage_original(pa_or_id, text):
-    passage_or = {
-        "text": text,
-        "occursIn": []
-    }
-
-    passagesOriginal[pa_or_id] = passage_or
-
-
-def update_passage_original(pa_or_id, ed_or_id, pag_id):
-    # Checks if editionOriginal id is not None
-    if ed_or_id:
-        temp = set(passagesOriginal[pa_or_id]["occursIn"])
-        temp.add(ed_or_id)
-        passagesOriginal[pa_or_id]["occursIn"] = list(temp)
-
-    if pag_id:
-        passagesOriginal[pa_or_id]["hasPage"] = pag_id
-
-
-def create_page(pag_id, text):
-    page = {
-        "page": text
-    }
-
-    pages[pag_id] = page
-
-
-def create_passage(pa_id, text):
-    passage = {
-        "text": text,
-        "occursIn": []
-    }
-
-    passages[pa_id] = passage
-
-
-def update_passage(pa_id, ed_id, co_or_id, pa_or_id, pag_id):
-    if ed_id:
-        temp = set(passages[pa_id]["occursIn"])
-        temp.add(ed_id)
-        passages[pa_id]["occursIn"] = list(temp)
-
-    if co_or_id:
-        passages[pa_id]["wasContributedBy"] = co_or_id
-
-    if pa_or_id:
-        passages[pa_id]["isNormalisedVersionOf"] = pa_or_id
-
-    if pag_id:
-        passages[pa_id]["hasPage"] = pag_id
-
-
-def create_edition_original(ed_or_id, edition_original_data):
-    ed_or = {
-        "isFirstEditionOf": []
-    }
-
-    if "letter" in edition_original_data:
-        ed_or["letter"] = edition_original_data["letter"]
-
-    editionsOriginal[ed_or_id] = ed_or
-
-
-def update_edition_original(ed_or_id, b_id, pub_id):
-    if b_id:
-        temp = set(editionsOriginal[ed_or_id]["isFirstEditionOf"])
-        temp.add(b_id)
-        editionsOriginal[ed_or_id]["isFirstEditionOf"] = list(temp)
-
-    if pub_id:
-        editionsOriginal[ed_or_id]["isRepresentedBy"] = pub_id
-
-
-def create_publication_info(pub_id, text):
-    publication = {
-        "pubInfo": text
-    }
-
-    publicationInfos[pub_id] = publication
-
-
-def create_edition(ed_id, edition_data):
-    ed = {
-        "isEditionOf": []
-    }
-    if "letter" in edition_data:
-        ed["letter"] = edition_data["letter"]
-
-    editions[ed_id] = ed
-
-
-def update_edition(ed_id, b_id, pub_id):
-    if b_id:
-        temp = set(editions[ed_id]["isEditionOf"])
-        temp.add(b_id)
-        editions[ed_id]["isEditionOf"] = list(temp)
-
-    if pub_id:
-        editions[ed_id]["isRepresentedBy"] = pub_id
-
-
-def create_book(b_id, data_row):
-    book = {
-        "internalID": allBooks[b_id]["internalID"],
-        "title": allBooks[b_id]["title"],
-        "createdDate": data_row[5],
-        "publishDate": data_row[6],
-        "licenseDate": data_row[7],
-        "firstPerformanceDate": data_row[8],
-        "isWrittenBy": []
-    }
-
-    books[b_id] = book
-
-
-def update_book(b_id, auth_names):
-    # Iterates through the names per entry
-    for auth_name in auth_names:
-
-        # Generates author id
-        auth_id = id.generate(auth_name)
-
-        # Checks if author already exists
-        if auth_id not in authors:
-            print("Strange UPDATE BOOK")
-            create_author(auth_id)
-        else:
-            temp = set(books[b_id]["isWrittenBy"])
-            temp.add(auth_id)
-            books[b_id]["isWrittenBy"] = list(temp)
 
 
 def create_author(auth_id):
@@ -221,6 +74,84 @@ def create_author(auth_id):
     authors[auth_id] = person
 
 
+def create_book(b_id, data_row, pub_info, pub_or_info):
+    book = {
+        "internalID": allBooks[b_id]["internalID"],
+        "edition": pub_info["pubInfo"],
+        "createdDate": data_row[5],
+        "publishDate": data_row[6],
+        "licenseDate": data_row[7],
+        "firstPerformanceDate": data_row[8],
+        "isWrittenBy": []
+    }
+
+    if "letter" in pub_info:
+        book["title"] = pub_info["letter"]
+    else:
+        book["title"] = allBooks[b_id]["title"]
+
+    if pub_or_info:
+        book["editionOriginal"] = pub_or_info["pubInfo"]
+
+    books[b_id] = book
+
+
+def update_book(b_id, auth_names):
+    # Iterates through the names per entry
+    for auth_name in auth_names:
+
+        # Generates author id
+        auth_id = id.generate(auth_name)
+
+        # Checks if author already exists
+        if auth_id not in authors:
+            print("Strange UPDATE BOOK")
+            create_author(auth_id)
+        else:
+            temp = set(books[b_id]["isWrittenBy"])
+            temp.add(auth_id)
+            books[b_id]["isWrittenBy"] = list(temp)
+
+def create_sec_book(sec_b_id, pub_info):
+    book = {
+        "internalID": allSecBooks[sec_b_id]["internalID"],
+        "edition": pub_info["pubInfo"],
+        "isWrittenBy": []
+    }
+
+def create_passage(pa_id, text, text_or):
+    passage = {
+        "text": text,
+        "occursIn": [],
+        "wasMentionedIn": []
+    }
+
+    if text_or:
+        passage["textOriginal"] = text_or
+
+    passages[pa_id] = passage
+
+
+def update_passage(pa_id, bo_id, co_or_id):
+    if bo_id:
+        temp = set(passages[pa_id]["occursIn"])
+        temp.add(bo_id)
+        passages[pa_id]["occursIn"] = list(temp)
+
+    if co_or_id:
+        passages[pa_id]["wasContributedBy"] = co_or_id
+
+
+def create_contributor(co_id):
+    contributor = {
+        "firstName": allContributors[co_id]["firstName"],
+        "lastName": allContributors[co_id]["lastName"],
+        "email": allContributors[co_id]["email"]
+    }
+
+    contributors[co_id] = contributor
+
+
 # Clears all json files
 for file in json_files:
     json.clear(file)
@@ -228,20 +159,16 @@ for file in json_files:
 # Prepare all authors
 allAuthors = prep_authors.prepare()
 allBooks = prep_books.prepare()
-allEditions = prep_editions.prepare()
-allEditionsOriginal = prep_editions_original.prepare()
+allSecBooks = prep_sec_books.prepare()
 allContributors = prep_contributors.prepare()
 
 # Loads the jsons and creates objects
 authors = {}
 books = {}
-editions = {}
-editionsOriginal = {}
-publicationInfos = {}
-passages = {}
-passagesOriginal = {}
-pages = {}
 contributors = {}
+lexia = {}
+passages = {}
+secBooks = {}
 
 # Reads the csv files
 for csv_file in csv_files:
@@ -259,7 +186,6 @@ for csv_file in csv_files:
                 if line is not 0:
 
                     # ---------- AUTHOR
-
                     # Multiple names of authors
                     names = row[2].split(" / ")
 
@@ -284,63 +210,19 @@ for csv_file in csv_files:
 
                     # Checks if book_id is valid
                     if book_id not in allBooks:
-                        print("FAIL Book", book_id)
+                        json.save("json/all_books.json", allBooks)
+                        print("FAIL Book", book_id, row[13], line, csv_file)
                         raise SystemExit(0)
+
+                    publication = ed.info(row[4])
+                    publication_original = ed.info(row[26])
 
                     # Creates the book and updates the author references
                     if book_id not in books:
-                        create_book(book_id, row)
+                        create_book(book_id, row, publication, publication_original)
                         update_book(book_id, names)
                     else:
                         update_book(book_id, names)
-
-                    # ---------- EDITION
-                    edition = ed.info(row[4], None)
-                    edition_id = id.generate(edition["pubInfo"])
-
-                    # Checks if edition_id is valid
-                    if edition_id not in allEditions:
-                        print("FAIL Edition", edition_id, edition, csv_file)
-                        raise SystemExit(0)
-
-                    # Creates the edition and updates the book reference
-                    if edition_id not in editions:
-                        create_edition(edition_id, edition)
-                        update_edition(edition_id, book_id, None)
-                    else:
-                        update_edition(edition_id, book_id, None)
-
-                    # ----------- PUBLICATION INFO FOR EDITION
-                    # generates publication info id
-                    pub_info = "pub_" + edition_id
-                    # Creates publication info and updates publication reference
-                    create_publication_info(pub_info, edition["pubInfo"])
-                    update_edition(edition_id, None, pub_info)
-
-                    # ----------- EDITION ORIGINAL
-                    edition_original = ed.info(row[26], None)
-                    edition_original_id = None
-                    if edition_original:
-                        edition_original_id = id.generate(edition_original["pubInfo"])
-
-                        # Checks if edition_id is valid
-                        if edition_original_id not in allEditionsOriginal:
-                            print("FAIL Edition Original", edition_original_id, edition_original, csv_file, line)
-                            raise SystemExit(0)
-
-                        # Creates the original edition and updates the book reference
-                        if edition_original_id not in edition_original:
-                            create_edition_original(edition_original_id, edition_original)
-                            update_edition_original(edition_original_id, book_id, None)
-                        else:
-                            update_edition_original(edition_original_id, book_id, None)
-
-                        # ----------- PUBLICATION INFO FOR EDITION ORIGINAL
-                        # generates publication info id
-                        pub_info_for_ed_or = "pub_" + edition_original_id
-                        # Creates publication info and updates publication reference
-                        create_publication_info(pub_info_for_ed_or, edition_original["pubInfo"])
-                        update_edition_original(edition_original_id, None, pub_info_for_ed_or)
 
                     # ------------- PASSAGE
                     # generates passage id
@@ -348,48 +230,10 @@ for csv_file in csv_files:
 
                     # Creates the passage and updates the edition reference
                     if passage_id not in passages:
-                        create_passage(passage_id, row[10])
-                        update_passage(passage_id, edition_id, None, None, None)
+                        create_passage(passage_id, row[10], row[25])
+                        update_passage(passage_id, book_id, None)
                     else:
-                        update_passage(passage_id, edition_id, None, None, None)
-
-                    # ------------- PAGE
-                    # extract page from bibliography
-                    page_info_for_passage = helper_page.info(row[4])
-
-                    # Checks if page was found in bibliography
-                    if page_info_for_passage:
-                        # add prefix to passage id to create page id
-                        page_id = "page_" + passage_id
-                        # Creates page and updates the page reference
-                        create_page(page_id, page_info_for_passage)
-                        update_passage(passage_id, None, None, None, page_id)
-
-                    # ------------- PASSAGE ORIGINAL
-                    # Checks if there is a passage original
-                    if row[25]:
-                        passage_original_id = id.generate(row[25])
-
-                        # Creates the original passage and updates edition and passage references
-                        if passage_original_id not in passagesOriginal:
-                            create_passage_original(passage_original_id, row[25])
-                            update_passage_original(passage_original_id, edition_original_id, None)
-                            update_passage(passage_id, None, None, passage_original_id, None)
-                        else:
-                            update_passage_original(passage_original_id, edition_original_id, None)
-                            update_passage(passage_id, None, None, passage_original_id, None)
-
-                        # ------------- PAGE FOR PASSAGE ORIGINAL
-                        # extract page from bibliography
-                        page_info_for_passage_or = helper_page.info(row[26])
-
-                        # Checks if page was found in bibliography
-                        if page_info_for_passage_or:
-                            # add prefix to passage original id to create page id
-                            page_id_for_passage_or = "page_" + passage_original_id
-                            # Creates page and updates the page reference
-                            create_page(page_id_for_passage_or, page_info_for_passage_or)
-                            update_passage_original(passage_original_id, None, page_id_for_passage_or)
+                        update_passage(passage_id, book_id, None)
 
                     # ------------- CONTRIBUTOR
                     # generates contributor id
@@ -403,9 +247,22 @@ for csv_file in csv_files:
                     # Creates the contributor and updates the passage reference
                     if contributor_id not in contributors:
                         create_contributor(contributor_id)
-                        update_passage(passage_id, None, contributor_id, None, None)
+                        update_passage(passage_id, None, contributor_id)
                     else:
-                        update_passage(passage_id, None, contributor_id, None, None)
+                        update_passage(passage_id, None, contributor_id)
+
+                    # -------------- SECONDARY BOOK
+                    second_infos = sec.info(row[24], line, csv_file)
+
+                    for sec_book in second_infos:
+                        sec_book_id = id.generate(sec_book["id"])
+
+                        # Checks if sec book id is valid
+                        if sec_book_id not in allSecBooks:
+                            print("FAIL Secondary Book", sec_book["id"], csv_file, line, row[24])
+                            raise SystemExit(0)
+
+                        # if sec_book_id not in secBooks:
 
                 line += 1
 
@@ -413,13 +270,14 @@ for csv_file in csv_files:
         print("FAIL: start.py", err)
         raise SystemExit(0)
 
-# Saves the objects in to json files
+# Saves the complete objects into json files
+json.save("json/all_books.json", allBooks)
+json.save("json/all_sec_books.json", allSecBooks)
+
+# Saves the objects which occures in the csv files in to json files
 json.save(json_files[0], authors)
 json.save(json_files[1], books)
-json.save(json_files[2], editions)
-json.save(json_files[3], editionsOriginal)
-json.save(json_files[4], publicationInfos)
-json.save(json_files[5], passages)
-json.save(json_files[6], passagesOriginal)
-json.save(json_files[7], pages)
-json.save(json_files[8], contributors)
+json.save(json_files[2], secBooks)
+json.save(json_files[3], passages)
+json.save(json_files[4], contributors)
+json.save(json_files[5], lexia)

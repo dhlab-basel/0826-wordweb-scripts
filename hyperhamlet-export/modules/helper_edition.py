@@ -4,7 +4,7 @@ import sys
 import re
 
 
-def info(text, id):
+def info(text):
 
     edition = {}
 
@@ -33,8 +33,6 @@ def info(text, id):
             else:
                 edition["pubInfo"] = pubInfo.group(2)
 
-        if id:
-            edition["sql"] = id
     # else:
     #     print("empty", id)
 

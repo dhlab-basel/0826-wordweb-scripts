@@ -16,7 +16,7 @@
       "shakespeare"
     ],
     "lists": [
-            {
+      {
         "name": "sex",
         "labels": {
           "de": "Geschlecht",
@@ -150,14 +150,18 @@
             },
             {
               "name": "hasSex",
-              "super": ["hasValue"],
+              "super": [
+                "hasValue"
+              ],
               "object": "ListValue",
               "labels": {
                 "en": "Sex",
                 "de": "Geschlecht"
               },
               "gui_element": "Pulldown",
-              "gui_attributes": ["hlist=sex"],
+              "gui_attributes": [
+                "hlist=sex"
+              ],
               "cardinality": "1"
             }
           ]
@@ -176,7 +180,9 @@
           "properties": [
             {
               "name": "isWrittenBy",
-              "super": ["hasLinkTo"],
+              "super": [
+                "hasLinkTo"
+              ],
               "object": "teimww:person",
               "labels": {
                 "en": "is written by",
@@ -273,7 +279,8 @@
             }
           ]
         },
-        {"name":  "edition",
+        {
+          "name": "edition",
           "super": "Resource",
           "labels": {
             "en": "Edition",
@@ -284,26 +291,10 @@
             "de": "Repräsentiert eine Edition"
           },
           "properties": [
-            {
-              "name": "publicationInfo",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Publication Info",
-                "de": "Publication Info"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=1024"
-              ],
-              "cardinality": "1"
-            }
           ]
         },
-        {"name":  "firstEdition",
+        {
+          "name": "firstEdition",
           "super": "Resource",
           "labels": {
             "en": "First Edition",
@@ -314,23 +305,6 @@
             "de": "Repräsentiert die erste Edition"
           },
           "properties": [
-            {
-              "name": "publicationInfo",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Publication Info",
-                "de": "Publication Info"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=1024"
-              ],
-              "cardinality": "1"
-            }
           ]
         }
       ]
