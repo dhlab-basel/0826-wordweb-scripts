@@ -2,6 +2,8 @@
 import csv
 # system library
 import sys
+# random library
+import random
 
 # defining path for module imports
 sys.path.append("modules/")
@@ -26,7 +28,6 @@ import prep_sec_books
 json_files = [
     "json/author.json",
     "json/book.json",
-    "json/sec_book.json",
     "json/passage.json",
     "json/contributor.json",
     "json/lexia.json"
@@ -117,7 +118,8 @@ def create_sec_book(sec_b_id, pub_info):
     book = {
         "internalID": allSecBooks[sec_b_id]["internalID"],
         "edition": pub_info["pubInfo"],
-        "isWrittenBy": []
+        "isWrittenBy": [],
+        "isSecondary": True
     }
 
     if "letter" in pub_info:
@@ -125,7 +127,7 @@ def create_sec_book(sec_b_id, pub_info):
     else:
         book["title"] = allSecBooks[sec_b_id]["title"]
 
-    secBooks[sec_b_id] = book
+    books[sec_b_id] = book
 
 
 def update_sec_book(sec_b_id, auth_names):
@@ -139,16 +141,16 @@ def update_sec_book(sec_b_id, auth_names):
         if auth_id not in authors:
             create_author(auth_id)
 
-        temp = set(secBooks[sec_b_id]["isWrittenBy"])
+        temp = set(books[sec_b_id]["isWrittenBy"])
         temp.add(auth_id)
-        secBooks[sec_b_id]["isWrittenBy"] = list(temp)
+        books[sec_b_id]["isWrittenBy"] = list(temp)
 
 
 def create_passage(pa_id, text, text_or):
     passage = {
         "text": text,
         "occursIn": [],
-        "wasMentionedIn": []
+        "isMentionedIn": []
     }
 
     if text_or:
@@ -157,7 +159,7 @@ def create_passage(pa_id, text, text_or):
     passages[pa_id] = passage
 
 
-def update_passage(pa_id, bo_id, co_or_id):
+def update_passage(pa_id, bo_id, co_or_id, sec_pa_id):
     if bo_id:
         temp = set(passages[pa_id]["occursIn"])
         temp.add(bo_id)
@@ -165,6 +167,28 @@ def update_passage(pa_id, bo_id, co_or_id):
 
     if co_or_id:
         passages[pa_id]["wasContributedBy"] = co_or_id
+
+    if sec_pa_id:
+        temp = set(passages[pa_id]["isMentionedIn"])
+        temp.add(sec_pa_id)
+        passages[pa_id]["isMentionedIn"] = list(temp)
+
+
+def create_sec_passage(sec_pa_id, pag):
+    passage = {
+        "page": pag,
+        "occursIn": [],
+        "isSecondaryPassage": True
+    }
+
+    passages[sec_pa_id] = passage
+
+
+def update_sec_passage(sec_pa_id, sec_bo_id):
+    if sec_bo_id:
+        temp = set(passages[sec_pa_id]["occursIn"])
+        temp.add(sec_bo_id)
+        passages[sec_pa_id]["occursIn"] = list(temp)
 
 
 def create_contributor(co_id):
@@ -193,7 +217,7 @@ books = {}
 contributors = {}
 lexia = {}
 passages = {}
-secBooks = {}
+# secBooks = {}
 
 # Reads the csv files
 for csv_file in csv_files:
@@ -256,9 +280,9 @@ for csv_file in csv_files:
                     # Creates the passage and updates the edition reference
                     if passage_id not in passages:
                         create_passage(passage_id, row[10], row[25])
-                        update_passage(passage_id, book_id, None)
+                        update_passage(passage_id, book_id, None, None)
                     else:
-                        update_passage(passage_id, book_id, None)
+                        update_passage(passage_id, book_id, None, None)
 
                     # ------------- CONTRIBUTOR
                     # generates contributor id
@@ -272,14 +296,15 @@ for csv_file in csv_files:
                     # Creates the contributor and updates the passage reference
                     if contributor_id not in contributors:
                         create_contributor(contributor_id)
-                        update_passage(passage_id, None, contributor_id)
+                        update_passage(passage_id, None, contributor_id, None)
                     else:
-                        update_passage(passage_id, None, contributor_id)
+                        update_passage(passage_id, None, contributor_id, None)
 
                     # -------------- SECONDARY BOOK
                     sec_books = sec.info(row[24], line, csv_file)
 
                     for sec_book in sec_books:
+
                         sec_book_id = id.generate(sec_book["id"])
 
                         # Checks if sec book id is valid
@@ -289,11 +314,21 @@ for csv_file in csv_files:
 
                         s_book = allSecBooks[sec_book_id]
 
-                        if sec_book_id not in secBooks:
+                        if sec_book_id not in books:
                             create_sec_book(sec_book_id, s_book)
                             update_sec_book(sec_book_id, s_book["authors"])
                         else:
                             update_sec_book(sec_book_id, s_book["authors"])
+
+                        if sec_book["page"] == "no page":
+                            unique_key = random.randint(100000, 999999)
+                        else:
+                            unique_key = "{} {}".format(sec_book["id"], sec_book["page"])
+
+                        sec_passage_id = id.generate(str(unique_key))
+                        create_sec_passage(sec_passage_id, sec_book["page"])
+                        update_sec_passage(sec_passage_id, sec_book_id)
+                        update_passage(passage_id, None, None, sec_passage_id)
 
                 line += 1
 
@@ -309,7 +344,6 @@ json.save("json/all_sec_books.json", allSecBooks)
 # Saves the objects which occures in the csv files in to json files
 json.save(json_files[0], authors)
 json.save(json_files[1], books)
-json.save(json_files[2], secBooks)
-json.save(json_files[3], passages)
-json.save(json_files[4], contributors)
-json.save(json_files[5], lexia)
+json.save(json_files[2], passages)
+json.save(json_files[3], contributors)
+json.save(json_files[4], lexia)

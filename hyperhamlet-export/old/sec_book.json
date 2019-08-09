@@ -3,12 +3,13 @@
     "internalID": "@010000",
     "edition": "The Shakspere Allusion Book: A Collection of Allusions to Shakspere from 1591 to 1700 [...]. London: Chatto and Windus; New York: Duffield and Co., 1909.",
     "isWrittenBy": [
-      "ww_a60ff4964db613ee",
       "ww_4c146e6d2ef23a03",
       "ww_26c25538fa69a566",
+      "ww_a60ff4964db613ee",
       "ww_fb550941e6e9db62"
     ],
-    "title": "The Shakspere Allusion Book"
+    "title": "The Shakspere Allusion Book",
+    "occursIn": "ww_9a8dd341ab709b29"
   },
   "ww_afbf7a5ea45be9ae": {
     "internalID": "@005196",
@@ -16,7 +17,8 @@
     "isWrittenBy": [
       "ww_cb891a49cd7b3fb7"
     ],
-    "title": "Reliques of Ancient English Poetry"
+    "title": "Reliques of Ancient English Poetry",
+    "occursIn": "ww_997171d7ad6691f5"
   },
   "ww_0b28ed19a0540e1d": {
     "internalID": "@010030",
@@ -24,7 +26,8 @@
     "isWrittenBy": [
       "ww_b417c05f2f7d59f9"
     ],
-    "title": "Biblical References in Shakespeares Tragedies"
+    "title": "Biblical References in Shakespeares Tragedies",
+    "occursIn": "ww_17d57ba63d4acb0f"
   },
   "ww_ca15500e7036f16e": {
     "internalID": "@010154",
@@ -32,7 +35,8 @@
     "isWrittenBy": [
       "ww_4aad8076b21701ae"
     ],
-    "title": "Shakespeare and Nashe's Pierce Pennilesse"
+    "title": "Shakespeare and Nashe's Pierce Pennilesse",
+    "occursIn": "ww_3f99d829fd59f350"
   },
   "ww_91e0dc4c671938fa": {
     "internalID": "@010005",
@@ -40,7 +44,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Quoting Hamlet in the Early Seventeenth Century"
+    "title": "Quoting Hamlet in the Early Seventeenth Century",
+    "occursIn": "ww_b00425ea5edd9ae2"
   },
   "ww_f0b8d4220bfdd308": {
     "internalID": "@010077",
@@ -48,7 +53,8 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "OED - Oxford English Dictionary"
+    "title": "OED - Oxford English Dictionary",
+    "occursIn": "ww_97ecae938d56a542"
   },
   "ww_fb9509be352bd917": {
     "internalID": "@010048",
@@ -56,7 +62,8 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "EEBO - Early English Books Online"
+    "title": "EEBO - Early English Books Online",
+    "occursIn": "ww_22d3bd864af1bf63"
   },
   "ww_359edd0d37d00410": {
     "internalID": "@010028",
@@ -64,7 +71,8 @@
     "isWrittenBy": [
       "ww_09f98d06c0bf228a"
     ],
-    "title": "The Language of Sir Walter Scott"
+    "title": "The Language of Sir Walter Scott",
+    "occursIn": "ww_d7196b373dbcdd77"
   },
   "ww_b3931845d54b98d5": {
     "internalID": "@010082",
@@ -72,7 +80,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Hamlet (Hibbard edition)"
+    "title": "Hamlet (Hibbard edition)",
+    "occursIn": "ww_7f63165cc5d85ab2"
   },
   "ww_0dd5e309103973fb": {
     "internalID": "@010151",
@@ -80,7 +89,8 @@
     "isWrittenBy": [
       "ww_6c137d4b04e9cbc4"
     ],
-    "title": "Shakespeares Books"
+    "title": "Shakespeares Books",
+    "occursIn": "ww_8412c253a80a4307"
   },
   "ww_6f8bba60983f33d9": {
     "internalID": "@010026",
@@ -88,7 +98,8 @@
     "isWrittenBy": [
       "ww_e6402f521ef2ee6e"
     ],
-    "title": "A Survey of Burlesques and Parody in English"
+    "title": "A Survey of Burlesques and Parody in English",
+    "occursIn": "ww_71455d027f63fdcd"
   },
   "ww_7589cfaa41b21699": {
     "internalID": "@010020",
@@ -96,7 +107,8 @@
     "isWrittenBy": [
       "ww_b417c05f2f7d59f9"
     ],
-    "title": "Biblical References in Shakespeares Plays"
+    "title": "Biblical References in Shakespeares Plays",
+    "occursIn": "ww_3a9373d70241d422"
   },
   "ww_160b060adc5c12bf": {
     "internalID": "@010152",
@@ -104,7 +116,8 @@
     "isWrittenBy": [
       "ww_00a3ea8b5afeaa37"
     ],
-    "title": "Shakesperes Small Latine"
+    "title": "Shakesperes Small Latine",
+    "occursIn": "ww_8155d7a03c6c9e5d"
   },
   "ww_3e15ab6c612eadae": {
     "internalID": "@010001",
@@ -112,7 +125,8 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "LION - Literature Online"
+    "title": "LION - Literature Online",
+    "occursIn": "ww_9f17732cef7fc0ad"
   },
   "ww_450c8e303d46eae2": {
     "internalID": "@010064",
@@ -120,7 +134,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Hamlet and the Homilies"
+    "title": "Hamlet and the Homilies",
+    "occursIn": "ww_2b66dd22e1a16898"
   },
   "ww_0de19bd63a1c9142": {
     "internalID": "@010079",
@@ -128,7 +143,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Against Thinking"
+    "title": "Against Thinking",
+    "occursIn": "ww_fa8cb99c3955e2ee"
   },
   "ww_97955539c83b9cc3": {
     "internalID": "@010029",
@@ -136,7 +152,8 @@
     "isWrittenBy": [
       "ww_d2baadbb11f92d24"
     ],
-    "title": "The Marlowe-Shp Continuum"
+    "title": "The Marlowe-Shp Continuum",
+    "occursIn": "ww_8134986f6f146b68"
   },
   "ww_1b231152ba6c63ce": {
     "internalID": "@010158",
@@ -144,7 +161,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Stukeley plays"
+    "title": "The Stukeley plays",
+    "occursIn": "ww_762c60d9ee2511e6"
   },
   "ww_de6299bae9b985ee": {
     "internalID": "@010051",
@@ -152,7 +170,8 @@
     "isWrittenBy": [
       "ww_4a2611f5113afb89"
     ],
-    "title": "Gleichnisse und Metaphern in Shps Dramen"
+    "title": "Gleichnisse und Metaphern in Shps Dramen",
+    "occursIn": "ww_3a70307bf6daa4dd"
   },
   "ww_5eeeb3e78e8b0bc3": {
     "internalID": "@010002",
@@ -160,7 +179,8 @@
     "isWrittenBy": [
       "ww_66491a37dd339103"
     ],
-    "title": "The Atheists Tragedy (Ribner edition)"
+    "title": "The Atheists Tragedy (Ribner edition)",
+    "occursIn": "ww_32aaf5cb209843ad"
   },
   "ww_a3cda7e114a57aa4": {
     "internalID": "@010017",
@@ -168,7 +188,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Edward II (Charlton edition)"
+    "title": "Edward II (Charlton edition)",
+    "occursIn": "ww_96d12c17f64f88ad"
   },
   "ww_3f86f30540de15b8": {
     "internalID": "@010052",
@@ -176,7 +197,8 @@
     "isWrittenBy": [
       "ww_e50a603b67ab7672"
     ],
-    "title": "Hamlet and Gloriana's Knights"
+    "title": "Hamlet and Gloriana's Knights",
+    "occursIn": "ww_66bbe322f44cb711"
   },
   "ww_e9dd31d2f114bcc9": {
     "internalID": "@010038",
@@ -184,7 +206,8 @@
     "isWrittenBy": [
       "ww_d20c9849f2078d70"
     ],
-    "title": "Antonios Revenge (Gair edition)"
+    "title": "Antonios Revenge (Gair edition)",
+    "occursIn": "ww_a91d08a5cc0939a9"
   },
   "ww_55bc1a3b04bf8a8d": {
     "internalID": "@010084",
@@ -193,7 +216,8 @@
       "ww_aced097ce058e38c",
       "ww_3cc4a40573cfe358"
     ],
-    "title": "FDT - Folger Digital Texts"
+    "title": "FDT - Folger Digital Texts",
+    "occursIn": "ww_ed85e54bbe4c89c7"
   },
   "ww_d96cf3715d049fff": {
     "internalID": "@010223",
@@ -201,7 +225,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Revengers Tragedy (Ross edition)"
+    "title": "The Revengers Tragedy (Ross edition)",
+    "occursIn": "ww_f817a3bad68c234d"
   },
   "ww_e256bd14313d2841": {
     "internalID": "@010085",
@@ -209,7 +234,8 @@
     "isWrittenBy": [
       "ww_71c35dc91de8b585"
     ],
-    "title": "Koeppel Shps Wirkung zeitgenoess Dramatiker"
+    "title": "Koeppel Shps Wirkung zeitgenoess Dramatiker",
+    "occursIn": "ww_0540abbd50a79d68"
   },
   "ww_5af91280461707f1": {
     "internalID": "@005134",
@@ -217,7 +243,8 @@
     "isWrittenBy": [
       "ww_a943388f673c7fa4"
     ],
-    "title": "The Plays of John Marston (Wood edition)"
+    "title": "The Plays of John Marston (Wood edition)",
+    "occursIn": "ww_74e52ccf971432d7"
   },
   "ww_12b8cda82738e9e2": {
     "internalID": "@010006",
@@ -225,7 +252,8 @@
     "isWrittenBy": [
       "ww_5d19ae76208b92a9"
     ],
-    "title": "Sir William Davenants relation to Shakespeare"
+    "title": "Sir William Davenants relation to Shakespeare",
+    "occursIn": "ww_58a67e667dc2c582"
   },
   "ww_d0062b214b9d3402": {
     "internalID": "@010004",
@@ -233,7 +261,8 @@
     "isWrittenBy": [
       "ww_d9d0c43743be62f7"
     ],
-    "title": "Quellenstudien zu den Dramen Thomas Middletons"
+    "title": "Quellenstudien zu den Dramen Thomas Middletons",
+    "occursIn": "ww_c761bc368f49daf4"
   },
   "ww_7b4aa85a9a3a75f4": {
     "internalID": "@010119",
@@ -241,7 +270,8 @@
     "isWrittenBy": [
       "ww_5c7d3fc631db2ef4"
     ],
-    "title": "Das Verhaeltnis Thomas Middletons zu Shak"
+    "title": "Das Verhaeltnis Thomas Middletons zu Shak",
+    "occursIn": "ww_e207798a3b3e37d5"
   },
   "ww_df2b8c2f18df151a": {
     "internalID": "@010049",
@@ -249,7 +279,8 @@
     "isWrittenBy": [
       "ww_5920a2f51df6bb9f"
     ],
-    "title": "The Plays of Nathan Field"
+    "title": "The Plays of Nathan Field",
+    "occursIn": "ww_93beedbaf466fc4c"
   },
   "ww_b5ea9b35c899d367": {
     "internalID": "@010087",
@@ -257,7 +288,8 @@
     "isWrittenBy": [
       "ww_5920a2f51df6bb9f"
     ],
-    "title": "Shakespeare and Nathan Field"
+    "title": "Shakespeare and Nathan Field",
+    "occursIn": "ww_0396320b1588839e"
   },
   "ww_67e1fbe9bd0f1b9d": {
     "internalID": "@010153",
@@ -265,7 +297,8 @@
     "isWrittenBy": [
       "ww_9cfcaaa5ca016199"
     ],
-    "title": "Imitation of Shakespeare in Middleton's The Family of Love"
+    "title": "Imitation of Shakespeare in Middleton's The Family of Love",
+    "occursIn": "ww_fb9ecfb540891da0"
   },
   "ww_bcc975a9199bde49": {
     "internalID": "@010199",
@@ -273,7 +306,8 @@
     "isWrittenBy": [
       "ww_4ea15fc920a6e8b6"
     ],
-    "title": "The Works of John Marston (Bullen edition)"
+    "title": "The Works of John Marston (Bullen edition)",
+    "occursIn": "ww_40a112d5daba226d"
   },
   "ww_0f0f2ccb24fa3b96": {
     "internalID": "@010047",
@@ -281,7 +315,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Selected Plays of John Marston (Jackson editio"
+    "title": "The Selected Plays of John Marston (Jackson editio",
+    "occursIn": "ww_a13d680ed1ea7f97"
   },
   "ww_e81f44945dfa651c": {
     "internalID": "@010080",
@@ -289,7 +324,8 @@
     "isWrittenBy": [
       "ww_71c35dc91de8b585"
     ],
-    "title": "Koeppel QS Chapman Massinger Ford"
+    "title": "Koeppel QS Chapman Massinger Ford",
+    "occursIn": "ww_45b00934b5db2d81"
   },
   "ww_2e08ba1bdf49c8dc": {
     "internalID": "@010105",
@@ -297,7 +333,8 @@
     "isWrittenBy": [
       "ww_631193418089c664"
     ],
-    "title": "The Pleasant Comedie of old Fortunatus (Schere edi"
+    "title": "The Pleasant Comedie of old Fortunatus (Schere edi",
+    "occursIn": "ww_a1f8e08b4a08b282"
   },
   "ww_e45c23b640bedb8f": {
     "internalID": "@010111",
@@ -305,7 +342,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "An Unreported Hamlet Allusion"
+    "title": "An Unreported Hamlet Allusion",
+    "occursIn": "ww_60a0cc2fe6f4cee4"
   },
   "ww_ba8a8fc764e851b4": {
     "internalID": "@001581",
@@ -313,7 +351,8 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Shakespearian Allusions"
+    "title": "Shakespearian Allusions",
+    "occursIn": "ww_4bccd87e5275bae7"
   },
   "ww_4899784ecc7f3845": {
     "internalID": "@010031",
@@ -321,7 +360,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Shaksperes Silences"
+    "title": "Shaksperes Silences",
+    "occursIn": "ww_00fa3460a7cb0a28"
   },
   "ww_c1ca40b688cca87f": {
     "internalID": "@010007",
@@ -329,7 +369,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Works of John Dryden (Roper edition)"
+    "title": "The Works of John Dryden (Roper edition)",
+    "occursIn": "ww_71a0058178d9e12d"
   },
   "ww_1c8a25fac02f85a7": {
     "internalID": "@010086",
@@ -337,7 +378,8 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Thorn-Drury Some 17th-Century Allusions 1920"
+    "title": "Thorn-Drury Some 17th-Century Allusions 1920",
+    "occursIn": "ww_ca066e7e7774e777"
   },
   "ww_cd1e70f8e2cd8c82": {
     "internalID": "@010050",
@@ -345,7 +387,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Shakespeares Proverb Lore"
+    "title": "Shakespeares Proverb Lore",
+    "occursIn": "ww_128717603f155bd6"
   },
   "ww_f3b3659c26b68006": {
     "internalID": "@010076",
@@ -353,7 +396,8 @@
     "isWrittenBy": [
       "ww_50c35f7aceaa6c9e"
     ],
-    "title": "A Dictionary of the Proverbs "
+    "title": "A Dictionary of the Proverbs ",
+    "occursIn": "ww_7a5098e28ae11eff"
   },
   "ww_8580b38f9dc94f0b": {
     "internalID": "@010148",
@@ -361,7 +405,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Anatomy of Melancholy (Faulkner  edition)"
+    "title": "The Anatomy of Melancholy (Faulkner  edition)",
+    "occursIn": "ww_92c883c68636fc86"
   },
   "ww_d1faedb423154f39": {
     "internalID": "@010054",
@@ -369,7 +414,8 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "ECCO - Eighteenth-Century Collections Online"
+    "title": "ECCO - Eighteenth-Century Collections Online",
+    "occursIn": "ww_7761d5091e97f073"
   },
   "ww_bc577a06e5bb54c7": {
     "internalID": "@010021",
@@ -377,7 +423,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Works of Thomas Southerne (Jordan edition)"
+    "title": "The Works of Thomas Southerne (Jordan edition)",
+    "occursIn": "ww_de84627c1c92e6bb"
   },
   "ww_38319ddb82fae050": {
     "internalID": "@010018",
@@ -385,7 +432,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Eastward Ho (Van Fossen edition)"
+    "title": "Eastward Ho (Van Fossen edition)",
+    "occursIn": "ww_1755c0706f180be8"
   },
   "ww_ce8da2e3a260a394": {
     "internalID": "@010062",
@@ -393,7 +441,8 @@
     "isWrittenBy": [
       "ww_fb550941e6e9db62"
     ],
-    "title": "More Shakspere Allusions"
+    "title": "More Shakspere Allusions",
+    "occursIn": "ww_d82ad1107fe8aaa2"
   },
   "ww_2f65899f08b5bb71": {
     "internalID": "@010046",
@@ -401,7 +450,8 @@
     "isWrittenBy": [
       "ww_f2c0f40020cbe48f"
     ],
-    "title": "Memoranda on the Tragedy of Hamlet"
+    "title": "Memoranda on the Tragedy of Hamlet",
+    "occursIn": "ww_9c2a11101bedef9d"
   },
   "ww_ce6d233a20f2b70f": {
     "internalID": "@010003",
@@ -409,7 +459,8 @@
     "isWrittenBy": [
       "ww_00a3ea8b5afeaa37"
     ],
-    "title": "Literary Genetics"
+    "title": "Literary Genetics",
+    "occursIn": "ww_b3c576b070ef088d"
   },
   "ww_d87c5e9530010d35": {
     "internalID": "@010139",
@@ -417,7 +468,8 @@
     "isWrittenBy": [
       "ww_12bcadd5ab9d3f8a"
     ],
-    "title": "The Problem of Authorship of Eastward Ho"
+    "title": "The Problem of Authorship of Eastward Ho",
+    "occursIn": "ww_af1cc9cf99c5573c"
   },
   "ww_68caf0be92d6d9a9": {
     "internalID": "@010104",
@@ -425,7 +477,8 @@
     "isWrittenBy": [
       "ww_aee1340a336646a7"
     ],
-    "title": "Hamlet Before Its Time"
+    "title": "Hamlet Before Its Time",
+    "occursIn": "ww_f105262a5b134b6d"
   },
   "ww_66c4283b87c123dd": {
     "internalID": "@010025",
@@ -433,7 +486,8 @@
     "isWrittenBy": [
       "ww_5630a28303424aa1"
     ],
-    "title": "'Hamlet' Then Till Now"
+    "title": "'Hamlet' Then Till Now",
+    "occursIn": "ww_a3dc94a8ac507cee"
   },
   "ww_601ea37650b7df8c": {
     "internalID": "@010063",
@@ -441,7 +495,8 @@
     "isWrittenBy": [
       "ww_5920a2f51df6bb9f"
     ],
-    "title": "Eastward Ho! and A Woman is a Weathercock"
+    "title": "Eastward Ho! and A Woman is a Weathercock",
+    "occursIn": "ww_ff6bbb1bfada97bd"
   },
   "ww_84a8155c55c3c1e2": {
     "internalID": "@010009",
@@ -449,7 +504,8 @@
     "isWrittenBy": [
       "ww_1d9ffbd1fde1bb58"
     ],
-    "title": "The Vow-Breaker (Wallrath edition)"
+    "title": "The Vow-Breaker (Wallrath edition)",
+    "occursIn": "ww_6a44a46cf9c0744f"
   },
   "ww_5868d5560bdfc062": {
     "internalID": "@010083",
@@ -457,7 +513,8 @@
     "isWrittenBy": [
       "ww_b32bc514b340f073"
     ],
-    "title": "William Heminge and Shakespeare"
+    "title": "William Heminge and Shakespeare",
+    "occursIn": "ww_ae5d4b8eed0db4c9"
   },
   "ww_c8f5dee9c32a4636": {
     "internalID": "@010107",
@@ -465,7 +522,8 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "DLCPP - Digital Library of Classic Protestant Text"
+    "title": "DLCPP - Digital Library of Classic Protestant Text",
+    "occursIn": "ww_a37553eb89927756"
   },
   "ww_5603853ee308e6b5": {
     "internalID": "@010015",
@@ -473,7 +531,8 @@
     "isWrittenBy": [
       "ww_0fbb6e273519df06"
     ],
-    "title": "Tragedy of Messallina (Skemp edition)"
+    "title": "Tragedy of Messallina (Skemp edition)",
+    "occursIn": "ww_7a35c3bbdf5cf3f8"
   },
   "ww_08a130e81db8a98f": {
     "internalID": "@010059",
@@ -481,7 +540,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Three Shakespearean Echoes"
+    "title": "Three Shakespearean Echoes",
+    "occursIn": "ww_d848d2071e650207"
   },
   "ww_73cdd390f6e92cbe": {
     "internalID": "@010132",
@@ -489,7 +549,8 @@
     "isWrittenBy": [
       "ww_aced097ce058e38c"
     ],
-    "title": "Titles from HAMLET"
+    "title": "Titles from HAMLET",
+    "occursIn": "ww_8ac8177f06c25bdc"
   },
   "ww_aee75c33920a3b79": {
     "internalID": "@010008",
@@ -497,7 +558,8 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Thorn-Drury More 17th-Century Allusions "
+    "title": "Thorn-Drury More 17th-Century Allusions ",
+    "occursIn": "ww_ce75597a20d4c554"
   },
   "ww_295f83922412b588": {
     "internalID": "@005260",
@@ -505,7 +567,8 @@
     "isWrittenBy": [
       "ww_b16f95073bb60d2f"
     ],
-    "title": "Shakespeare and Edmund Ironside"
+    "title": "Shakespeare and Edmund Ironside",
+    "occursIn": "ww_384b06d9d9703e1c"
   },
   "ww_15dba62495527dd5": {
     "internalID": "@010045",
@@ -513,7 +576,8 @@
     "isWrittenBy": [
       "ww_cfc974ec4e221d48"
     ],
-    "title": "Sources of Shakespeares Plays"
+    "title": "Sources of Shakespeares Plays",
+    "occursIn": "ww_3ba5308bc87ca954"
   },
   "ww_f4b1a8fa8f784028": {
     "internalID": "@010112",
@@ -521,7 +585,8 @@
     "isWrittenBy": [
       "ww_15b50ac49f9798c6"
     ],
-    "title": "Shakespeares Ghost Writers"
+    "title": "Shakespeares Ghost Writers",
+    "occursIn": "ww_dc14884d550b716a"
   },
   "ww_e7b10e483d5cee49": {
     "internalID": "@010118",
@@ -529,7 +594,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "A Milton Encyclopedia"
+    "title": "A Milton Encyclopedia",
+    "occursIn": "ww_f1e4689dc2ef8c6c"
   },
   "ww_f3582e478658b162": {
     "internalID": "@006000",
@@ -537,7 +603,8 @@
     "isWrittenBy": [
       "ww_d78431424289a522"
     ],
-    "title": "The Insatiate Countess (Ernst edition)"
+    "title": "The Insatiate Countess (Ernst edition)",
+    "occursIn": "ww_fa154b84be700251"
   },
   "ww_fc0ed4bc4ee837dd": {
     "internalID": "@010081",
@@ -545,7 +612,8 @@
     "isWrittenBy": [
       "ww_b32bc514b340f073"
     ],
-    "title": "The Turk (Adams edition)"
+    "title": "The Turk (Adams edition)",
+    "occursIn": "ww_c9c9b338289d29f7"
   },
   "ww_e1e81a86f35b59e9": {
     "internalID": "@010044",
@@ -553,7 +621,8 @@
     "isWrittenBy": [
       "ww_bb3b6ed200b7c591"
     ],
-    "title": "Allusions to Shakespeare in Nathaniel Richards's The Tragedy Of Messalina"
+    "title": "Allusions to Shakespeare in Nathaniel Richards's The Tragedy Of Messalina",
+    "occursIn": "ww_00f6fd6ae45592de"
   },
   "ww_4e091746c9370e38": {
     "internalID": "@010061",
@@ -561,7 +630,8 @@
     "isWrittenBy": [
       "ww_b33f1194b1177f69"
     ],
-    "title": "The Life of Marlowe"
+    "title": "The Life of Marlowe",
+    "occursIn": "ww_e9352ece91ef56e9"
   },
   "ww_dad475a43f1ff2eb": {
     "internalID": "@010057",
@@ -569,7 +639,8 @@
     "isWrittenBy": [
       "ww_669296d55624f6e0"
     ],
-    "title": "The source of the 'Seven Ages'"
+    "title": "The source of the 'Seven Ages'",
+    "occursIn": "ww_aea577a29131d2e9"
   },
   "ww_9ec767d44e3a36f8": {
     "internalID": "@010032",
@@ -577,7 +648,8 @@
     "isWrittenBy": [
       "ww_2c045bd15b626e88"
     ],
-    "title": "The Fleire (Nibbe edition)"
+    "title": "The Fleire (Nibbe edition)",
+    "occursIn": "ww_db9c979496d54976"
   },
   "ww_0c5550692d30fd91": {
     "internalID": "@005194",
@@ -585,7 +657,8 @@
     "isWrittenBy": [
       "ww_4aad8076b21701ae"
     ],
-    "title": "The Poems of John Marston (Davenport edition)"
+    "title": "The Poems of John Marston (Davenport edition)",
+    "occursIn": "ww_38277d320b8dd08e"
   },
   "ww_c0bb45384c6abc1f": {
     "internalID": "@010200",
@@ -593,7 +666,8 @@
     "isWrittenBy": [
       "ww_0989e07eda6de68c"
     ],
-    "title": "Hohl Trillini Casual Shakespeare"
+    "title": "Hohl Trillini Casual Shakespeare",
+    "occursIn": "ww_78233f6915e0ae18"
   },
   "ww_ce9e48c1ecd24728": {
     "internalID": "@010056",
@@ -601,7 +675,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "John Marstons Drama "
+    "title": "John Marstons Drama ",
+    "occursIn": "ww_ab2f49edf2ab199a"
   },
   "ww_b908ae26c4f3afcf": {
     "internalID": "@010010",
@@ -610,7 +685,8 @@
       "ww_3cc4a40573cfe358",
       "ww_360a194801e33346"
     ],
-    "title": "Collaborative Plays"
+    "title": "Collaborative Plays",
+    "occursIn": "ww_c37b0af8a1a5827c"
   },
   "ww_01a2557ffc81f6ca": {
     "internalID": "@010145",
@@ -618,7 +694,8 @@
     "isWrittenBy": [
       "ww_7873f39b651d99c4"
     ],
-    "title": "Specimen of a Commentary "
+    "title": "Specimen of a Commentary ",
+    "occursIn": "ww_17a0f7977b14d9e4"
   },
   "ww_71f9553b2f54e1b1": {
     "internalID": "@010090",
@@ -626,7 +703,8 @@
     "isWrittenBy": [
       "ww_6602bf84bc7e7d7f"
     ],
-    "title": "The Genesis of Shakespeare Idolatry 1766-1799"
+    "title": "The Genesis of Shakespeare Idolatry 1766-1799",
+    "occursIn": "ww_a39d2555e5dfb9e1"
   },
   "ww_703eb3f3a9bf6d41": {
     "internalID": "@010073",
@@ -634,16 +712,18 @@
     "isWrittenBy": [
       "ww_df21ac325632f060"
     ],
-    "title": "Shakespearean Burlesques (Wells edition)"
+    "title": "Shakespearean Burlesques (Wells edition)",
+    "occursIn": "ww_1ba1e04c8939f523"
   },
   "ww_f034fa6f545e0122": {
     "internalID": "@010065",
     "edition": "Past and Present 44 (August 1969): 3-51.",
     "isWrittenBy": [
-      "ww_c961f8c651ae6763",
-      "ww_9d448942a16583fe"
+      "ww_9d448942a16583fe",
+      "ww_c961f8c651ae6763"
     ],
-    "title": "The Madrigal, the Lute Song and Elizabethan Politics"
+    "title": "The Madrigal, the Lute Song and Elizabethan Politics",
+    "occursIn": "ww_88a6b8243ec38dc6"
   },
   "ww_27efae6f396668e8": {
     "internalID": "@010109",
@@ -651,7 +731,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Influence of Shakespeare on English Drama 1600"
+    "title": "The Influence of Shakespeare on English Drama 1600",
+    "occursIn": "ww_e70ba4bb5aa2fc19"
   },
   "ww_e38a56a7efbf9723": {
     "internalID": "@005700",
@@ -659,7 +740,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Insatiate Countess (Melchiori edition)"
+    "title": "The Insatiate Countess (Melchiori edition)",
+    "occursIn": "ww_89d556ff2832c1ee"
   },
   "ww_ae88354a1d70cefb": {
     "internalID": "@010143",
@@ -667,7 +749,8 @@
     "isWrittenBy": [
       "ww_ed8bb2273ef0878b"
     ],
-    "title": "The Complete Works of John Webster (Lucas edition)"
+    "title": "The Complete Works of John Webster (Lucas edition)",
+    "occursIn": "ww_a625a4cc4b66ec9a"
   },
   "ww_f1fa280c821d334c": {
     "internalID": "@010068",
@@ -675,7 +758,8 @@
     "isWrittenBy": [
       "ww_ac792c172bd4228f"
     ],
-    "title": "An Early Hamlet Allusion"
+    "title": "An Early Hamlet Allusion",
+    "occursIn": "ww_6ce680d6e4b455d2"
   },
   "ww_2f767c233db0ba89": {
     "internalID": "@010012",
@@ -683,7 +767,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Congreve as a Shakespearean"
+    "title": "Congreve as a Shakespearean",
+    "occursIn": "ww_38397e70ec4a0c46"
   },
   "ww_c4dd28c52431d7a3": {
     "internalID": "@010041",
@@ -691,7 +776,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Shakespeare and Jonson among the Pamphleteers of the First Civil War: Some Unreported Seventeenth-Century Allusions"
+    "title": "Shakespeare and Jonson among the Pamphleteers of the First Civil War: Some Unreported Seventeenth-Century Allusions",
+    "occursIn": "ww_88a8961e7c517259"
   },
   "ww_fcbf6cb53d663d95": {
     "internalID": "@010201",
@@ -699,7 +785,8 @@
     "isWrittenBy": [
       "ww_360a194801e33346"
     ],
-    "title": "Shakespeare and Ovid"
+    "title": "Shakespeare and Ovid",
+    "occursIn": "ww_4e5f37b90ded02be"
   },
   "ww_db0e9fa009aad7b3": {
     "internalID": "@010070",
@@ -707,7 +794,8 @@
     "isWrittenBy": [
       "ww_86c92244655c7f75"
     ],
-    "title": "Word and Image Clusters in Shakespeare"
+    "title": "Word and Image Clusters in Shakespeare",
+    "occursIn": "ww_2d39e5202343247a"
   },
   "ww_f6685305b5e15919": {
     "internalID": "@010014",
@@ -715,7 +803,8 @@
     "isWrittenBy": [
       "ww_cfc974ec4e221d48"
     ],
-    "title": "Henry Swinburne and Shakespeare"
+    "title": "Henry Swinburne and Shakespeare",
+    "occursIn": "ww_aef6b01f730b41ec"
   },
   "ww_599e3b499932059f": {
     "internalID": "@010066",
@@ -723,7 +812,8 @@
     "isWrittenBy": [
       "ww_920d3f0aede3598b"
     ],
-    "title": "Shakespeares Testimentary Language"
+    "title": "Shakespeares Testimentary Language",
+    "occursIn": "ww_ab86837dc102d308"
   },
   "ww_0b652d0c80d7227e": {
     "internalID": "@010013",
@@ -731,7 +821,8 @@
     "isWrittenBy": [
       "ww_9d444a0f923d7ac3"
     ],
-    "title": "Five Shakespeare Allusions: 1621-1630"
+    "title": "Five Shakespeare Allusions: 1621-1630",
+    "occursIn": "ww_96c4f189463ce46a"
   },
   "ww_49d40eeadeef05fb": {
     "internalID": "@010129",
@@ -739,7 +830,8 @@
     "isWrittenBy": [
       "ww_99768d9741fbce8b"
     ],
-    "title": "Milton Poems (Warton edition)"
+    "title": "Milton Poems (Warton edition)",
+    "occursIn": "ww_672fd84f794354c3"
   },
   "ww_bd61ff243a1c12bf": {
     "internalID": "@010074",
@@ -747,7 +839,8 @@
     "isWrittenBy": [
       "ww_e59f20507549cc08"
     ],
-    "title": "What Happens in Hamlet"
+    "title": "What Happens in Hamlet",
+    "occursIn": "ww_78e9a988b4fe4ce6"
   },
   "ww_17854cef6ca6f944": {
     "internalID": "@010108",
@@ -755,7 +848,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Shakespeare in the Seventeenth Century"
+    "title": "Shakespeare in the Seventeenth Century",
+    "occursIn": "ww_c9b404a8c97fdd8f"
   },
   "ww_1397c4b67db5b86a": {
     "internalID": "@010055",
@@ -763,7 +857,8 @@
     "isWrittenBy": [
       "ww_0579f1a78253c75c"
     ],
-    "title": "There is Nothing Like a Dane"
+    "title": "There is Nothing Like a Dane",
+    "occursIn": "ww_7ce5de371a2c281f"
   },
   "ww_a3bdfb5ec0f62f6f": {
     "internalID": "@020005",
@@ -771,7 +866,8 @@
     "isWrittenBy": [
       "ww_5630a28303424aa1"
     ],
-    "title": "Hamlet (Jenkins edition)"
+    "title": "Hamlet (Jenkins edition)",
+    "occursIn": "ww_7c62bed14bcb563b"
   },
   "ww_42a6c34f5f492571": {
     "internalID": "@010016",
@@ -779,7 +875,8 @@
     "isWrittenBy": [
       "ww_aced097ce058e38c"
     ],
-    "title": "Characterization in Polonius' Advice to Laertes"
+    "title": "Characterization in Polonius' Advice to Laertes",
+    "occursIn": "ww_f000f6d8d85c4c96"
   },
   "ww_ede42cb1c3c1d408": {
     "internalID": "@010027",
@@ -787,7 +884,8 @@
     "isWrittenBy": [
       "ww_920d3f0aede3598b"
     ],
-    "title": "Shakespeares Euphuism"
+    "title": "Shakespeares Euphuism",
+    "occursIn": "ww_ac3cf05c8641689b"
   },
   "ww_eba183d996a233a5": {
     "internalID": "@010024",
@@ -795,7 +893,8 @@
     "isWrittenBy": [
       "ww_b85b5bffc57af7f3"
     ],
-    "title": "Shakespeare's Living Sources"
+    "title": "Shakespeare's Living Sources",
+    "occursIn": "ww_3454b73d977975c7"
   },
   "ww_5c89e8fa112ee4e8": {
     "internalID": "@010135",
@@ -803,7 +902,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Shakespeares Sayings"
+    "title": "Shakespeares Sayings",
+    "occursIn": "ww_309cb44e3b0d03f1"
   },
   "ww_4ecd91ff283420a1": {
     "internalID": "@010126",
@@ -812,7 +912,8 @@
       "ww_3cc4a40573cfe358",
       "ww_b29f022218b6d47d"
     ],
-    "title": "The Collected Works of Thomas Middleton (Taylor ed"
+    "title": "The Collected Works of Thomas Middleton (Taylor ed",
+    "occursIn": "ww_98756484ec44951e"
   },
   "ww_0dd45e53b3b0b09c": {
     "internalID": "@010124",
@@ -820,7 +921,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Acting and Violence: The Revenger's Tragedy and Its Departures from Hamlet"
+    "title": "Acting and Violence: The Revenger's Tragedy and Its Departures from Hamlet",
+    "occursIn": "ww_eff4538221cd8ad7"
   },
   "ww_7153ee1643dbad3b": {
     "internalID": "@010094",
@@ -828,7 +930,8 @@
     "isWrittenBy": [
       "ww_baa26ba822bffa2f"
     ],
-    "title": "Nathan Field, The Actor-Playwright"
+    "title": "Nathan Field, The Actor-Playwright",
+    "occursIn": "ww_0f0931d3534a0a44"
   },
   "ww_94da1c067c3069f6": {
     "internalID": "@010069",
@@ -836,7 +939,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Ophelia's Version of the Walsingham Song"
+    "title": "Ophelia's Version of the Walsingham Song",
+    "occursIn": "ww_94054ad4f2e0bf1a"
   },
   "ww_e9b2a04d2a7fd579": {
     "internalID": "@010043",
@@ -844,7 +948,8 @@
     "isWrittenBy": [
       "ww_db1e3c417981cff4"
     ],
-    "title": "Hamlet and Cicero"
+    "title": "Hamlet and Cicero",
+    "occursIn": "ww_ce08fa1ce5930cc9"
   },
   "ww_57b895420c0ddd3e": {
     "internalID": "@010042",
@@ -852,7 +957,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Shp and the Classical Tradition"
+    "title": "Shp and the Classical Tradition",
+    "occursIn": "ww_1bf3c8891c9741ee"
   },
   "ww_804d2b9aec6637b2": {
     "internalID": "@010224",
@@ -860,7 +966,8 @@
     "isWrittenBy": [
       "ww_1b7c18ba49cef31d"
     ],
-    "title": "Latinized Greek Drama in Shakespeares Writing of Hamlet"
+    "title": "Latinized Greek Drama in Shakespeares Writing of Hamlet",
+    "occursIn": "ww_da929f4b57172dc6"
   },
   "ww_7c79793591d10a0c": {
     "internalID": "@010071",
@@ -868,7 +975,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Shakespeare, Studley, and Golding"
+    "title": "Shakespeare, Studley, and Golding",
+    "occursIn": "ww_e5f3ff3365f0f5e7"
   },
   "ww_9bd2a51773668ca5": {
     "internalID": "@010116",
@@ -876,7 +984,8 @@
     "isWrittenBy": [
       "ww_f1930a433a3b1444"
     ],
-    "title": "Hamlet's Book"
+    "title": "Hamlet's Book",
+    "occursIn": "ww_8c8392a948ca076f"
   },
   "ww_e95d4765a7973201": {
     "internalID": "@010103",
@@ -884,7 +993,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "William Shakespeare and Edmund Burke: Literary Allusion in Eighteenth-Century British Political Rhetoric"
+    "title": "William Shakespeare and Edmund Burke: Literary Allusion in Eighteenth-Century British Political Rhetoric",
+    "occursIn": "ww_1f06b8266cdf12bc"
   },
   "ww_d750e1e440e536e5": {
     "internalID": "@010091",
@@ -892,7 +1002,8 @@
     "isWrittenBy": [
       "ww_29ea702f67fa9c9d"
     ],
-    "title": "The Complete Works of John Lyly (Bond edition)"
+    "title": "The Complete Works of John Lyly (Bond edition)",
+    "occursIn": "ww_5c490a8e12d57674"
   },
   "ww_7ae298843ecbdbed": {
     "internalID": "@010011",
@@ -900,7 +1011,8 @@
     "isWrittenBy": [
       "ww_70fe0bbcf8eba76a"
     ],
-    "title": "Chambers Facts and Problems"
+    "title": "Chambers Facts and Problems",
+    "occursIn": "ww_22c43e3854c3afa5"
   },
   "ww_3e70301e1c6b8013": {
     "internalID": "@010019",
@@ -908,7 +1020,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Hamlet's Horatio as an Allusion to Horace's Odes"
+    "title": "Hamlet's Horatio as an Allusion to Horace's Odes",
+    "occursIn": "ww_86aad482344ebf2e"
   },
   "ww_c8b9905743513fbf": {
     "internalID": "@010222",
@@ -916,7 +1029,8 @@
     "isWrittenBy": [
       "ww_4aad8076b21701ae"
     ],
-    "title": "Shakespeare and Nashe's 'Pierce Pennilesse'"
+    "title": "Shakespeare and Nashe's 'Pierce Pennilesse'",
+    "occursIn": "ww_1ed66b3e6252d281"
   },
   "ww_1346944d637cbc76": {
     "internalID": "@010088",
@@ -924,7 +1038,8 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Shakespeare Allusions"
+    "title": "Shakespeare Allusions",
+    "occursIn": "ww_a3caa34320903353"
   },
   "ww_444e694490140e28": {
     "internalID": "@010102",
@@ -932,7 +1047,8 @@
     "isWrittenBy": [
       "ww_aced097ce058e38c"
     ],
-    "title": "Some by Stenography"
+    "title": "Some by Stenography",
+    "occursIn": "ww_6f4a7ae45bbab8ca"
   },
   "ww_adfdbd7c6a7b7a62": {
     "internalID": "@010060",
@@ -940,7 +1056,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Shakespeare and Shorthand Once Again"
+    "title": "Shakespeare and Shorthand Once Again",
+    "occursIn": "ww_063af652b0d19dbe"
   },
   "ww_cbd79ec87899a40d": {
     "internalID": "@010072",
@@ -948,7 +1065,8 @@
     "isWrittenBy": [
       "ww_330dc7a83f0d7fd6"
     ],
-    "title": "The Classical Element in the Shakespeare Plays"
+    "title": "The Classical Element in the Shakespeare Plays",
+    "occursIn": "ww_2947699c0d507106"
   },
   "ww_842318fc1c593591": {
     "internalID": "@010136",
@@ -956,7 +1074,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "His Collaborator George Wilkins"
+    "title": "His Collaborator George Wilkins",
+    "occursIn": "ww_ef9d07c11dd9f7f1"
   },
   "ww_3dd50e3c55b75ee6": {
     "internalID": "@010101",
@@ -964,7 +1083,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Collected Works of Abraham Cowley"
+    "title": "The Collected Works of Abraham Cowley",
+    "occursIn": "ww_032ae48f0be4ec3d"
   },
   "ww_8b579df902809521": {
     "internalID": "@005249",
@@ -972,7 +1092,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "An Early Hamlet Echo?"
+    "title": "An Early Hamlet Echo?",
+    "occursIn": "ww_8425400091500411"
   },
   "ww_47c84395b30bd53b": {
     "internalID": "@010092",
@@ -980,7 +1101,8 @@
     "isWrittenBy": [
       "ww_166f75ce43f038e3"
     ],
-    "title": "The Pictures in Hamlet III. iv: A Possible Contemporary"
+    "title": "The Pictures in Hamlet III. iv: A Possible Contemporary",
+    "occursIn": "ww_e1fc25b36f98a18f"
   },
   "ww_c376526546624e12": {
     "internalID": "@010155",
@@ -988,7 +1110,8 @@
     "isWrittenBy": [
       "ww_4eb3d59f66c6b3a5"
     ],
-    "title": "How a Man May Choose a Good Wife from a Bad"
+    "title": "How a Man May Choose a Good Wife from a Bad",
+    "occursIn": "ww_b43ca0b3697cb3f9"
   },
   "ww_841e89ba43cd414c": {
     "internalID": "@005247",
@@ -996,7 +1119,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Broken Heart (Spencer edition)"
+    "title": "The Broken Heart (Spencer edition)",
+    "occursIn": "ww_88f2fa65df43c96d"
   },
   "ww_227cc36a19286ccd": {
     "internalID": "@010023",
@@ -1004,7 +1128,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Early Responses to Renaissance Drama"
+    "title": "Early Responses to Renaissance Drama",
+    "occursIn": "ww_0f0ea7bd3428e344"
   },
   "ww_81aaaefa494a8184": {
     "internalID": "@010098",
@@ -1012,7 +1137,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Marston, Rivalry, Rapprochement and Jonson"
+    "title": "Marston, Rivalry, Rapprochement and Jonson",
+    "occursIn": "ww_106aeec7a5714dea"
   },
   "ww_0a299f4a7aded36a": {
     "internalID": "@010096",
@@ -1020,7 +1146,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Fictions of Collaboration: Authors and Editors in the Sixteenth Century"
+    "title": "Fictions of Collaboration: Authors and Editors in the Sixteenth Century",
+    "occursIn": "ww_3a84f7435ea361dc"
   },
   "ww_2fa5a9bb2a67257a": {
     "internalID": "@010131",
@@ -1028,7 +1155,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "The Homiletic Tradition in Shakespeare's Plays"
+    "title": "The Homiletic Tradition in Shakespeare's Plays",
+    "occursIn": "ww_d02aa5c9f5aa466a"
   },
   "ww_55406532e3cd0a84": {
     "internalID": "@010147",
@@ -1036,7 +1164,8 @@
     "isWrittenBy": [
       "ww_5292e9f9b3764075"
     ],
-    "title": "Dismember Me: Shakespeare, Paranoia, and the Logic of Mass Culture"
+    "title": "Dismember Me: Shakespeare, Paranoia, and the Logic of Mass Culture",
+    "occursIn": "ww_3635edafaad86d41"
   },
   "ww_6a0b1e5914da6bee": {
     "internalID": "@010036",
@@ -1044,7 +1173,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Looking for Hamlet"
+    "title": "Looking for Hamlet",
+    "occursIn": "ww_34639bb603c4fd1b"
   },
   "ww_a779d6e5235e610e": {
     "internalID": "@010106",
@@ -1052,7 +1182,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "A Possible 1594 Reference to Hamlet"
+    "title": "A Possible 1594 Reference to Hamlet",
+    "occursIn": "ww_48586bf70a930c42"
   },
   "ww_d57fe99db4adc1d0": {
     "internalID": "@010144",
@@ -1060,7 +1191,8 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Shakespeare Allusion"
+    "title": "Shakespeare Allusion",
+    "occursIn": "ww_57df487ff891d89a"
   },
   "ww_d9c80276851682da": {
     "internalID": "@010037",
@@ -1068,7 +1200,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Hamlet (Mueller edition)"
+    "title": "Hamlet (Mueller edition)",
+    "occursIn": "ww_1cadad147501ae54"
   },
   "ww_c85d746358e196e6": {
     "internalID": "@010089",
@@ -1076,7 +1209,8 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "The Annual Register"
+    "title": "The Annual Register",
+    "occursIn": "ww_379bb7689b7668cc"
   },
   "ww_e14966f62e338b68": {
     "internalID": "@010137",
@@ -1084,7 +1218,8 @@
     "isWrittenBy": [
       "ww_240bf4a7d8bc0162"
     ],
-    "title": "The Real Shakespeare"
+    "title": "The Real Shakespeare",
+    "occursIn": "ww_455c28f2c287ab15"
   },
   "ww_cd4449a9f288f0d1": {
     "internalID": "@010099",
@@ -1092,7 +1227,8 @@
     "isWrittenBy": [
       "ww_dad51991851a1bbf"
     ],
-    "title": "The Works of George Chapman (Shepherd edition)"
+    "title": "The Works of George Chapman (Shepherd edition)",
+    "occursIn": "ww_c8536c44934c5b27"
   },
   "ww_45707432cc4f2876": {
     "internalID": "@010123",
@@ -1100,7 +1236,8 @@
     "isWrittenBy": [
       "ww_3cc4a40573cfe358"
     ],
-    "title": "Hamlet's Last Words"
+    "title": "Hamlet's Last Words",
+    "occursIn": "ww_df510d7cc8a96716"
   },
   "ww_9d75b3d3235b2834": {
     "internalID": "@010100",
@@ -1108,6 +1245,7 @@
     "isWrittenBy": [
       "ww_8e7c5e1273330b8d"
     ],
-    "title": "Farther Particulars regarding Shakespeare"
+    "title": "Farther Particulars regarding Shakespeare",
+    "occursIn": "ww_7fae3cc39d6c14e6"
   }
 }

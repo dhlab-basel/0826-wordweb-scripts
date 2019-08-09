@@ -1,10 +1,12 @@
 # import hashlib
 
+import random
+
 import sys
 # defining path for module imports
 sys.path.append("modules/")
 
-import prep_editions
+# import prep_editions
 
 # -------------- Access objects and list
 # obj = {
@@ -66,9 +68,12 @@ import prep_editions
 
 # --------------- Test editions
 
-prep_editions.prepare()
+# prep_editions.prepare()
 
 # print(editions["ww_878987dd1466a525"]["sql"])
 
 # for ed in editions:
 #     print(ed)
+
+# ----------------- Random Number
+print(random.randint(100000, 999999))
