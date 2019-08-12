@@ -192,23 +192,6 @@
               "cardinality": "0-n"
             },
             {
-              "name": "internalID",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Internal ID",
-                "de": "Interne ID"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "1"
-            },
-            {
               "name": "title",
               "super": [
                 "hasValue"
@@ -280,31 +263,131 @@
           ]
         },
         {
-          "name": "edition",
+          "name": "passage",
           "super": "Resource",
           "labels": {
-            "en": "Edition",
-            "de": "Edition"
+            "en": "Passage",
+            "de": "Passage"
           },
           "comments": {
-            "en": "Represents an edition",
-            "de": "Repräsentiert eine Edition"
+            "en": "Represents a passage from a book",
+            "de": "Repräsentiert eine Passage aus einem Buch"
           },
           "properties": [
+            {
+              "name": "text",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "text passage",
+                "de": "Textpassage"
+              },
+              "gui_element": "Textarea",
+              "cardinality": "0-1"
+            },
+            {
+              "name": "occursIn",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:book",
+              "labels": {
+                "en": "occurs in",
+                "de": "kommt vor in"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "wasContributed",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:person",
+              "labels": {
+                "en": "was contributed by",
+                "de": "mitgewirkt von"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "cointains",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:lexia",
+              "labels": {
+                "en": "contains",
+                "de": "beinhaltet"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            }
           ]
         },
         {
-          "name": "firstEdition",
+          "name": "lexia",
           "super": "Resource",
           "labels": {
-            "en": "First Edition",
-            "de": "Erste Edition"
+            "en": "Lexia",
+            "de": "Lexia"
           },
           "comments": {
-            "en": "Represents the first edition",
-            "de": "Repräsentiert die erste Edition"
+            "en": "Represents a lexia",
+            "de": "Repräsentiert eine Lexia"
           },
           "properties": [
+            {
+              "name": "formalClass",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "formal class",
+                "de": "Formale Klasse"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "0-1"
+            }
+          ]
+        },
+        {
+          "name": "id",
+          "super": "Resource",
+          "labels": {
+            "en": "identifier",
+            "de": "Identifikator"
+          },
+          "comments": {
+            "en": "Represents an identifier",
+            "de": "Repräsentiert einen Identifikator"
+          },
+          "properties": [
+            {
+              "name": "internalID",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Internal ID",
+                "de": "Interne ID"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
+            }
           ]
         }
       ]
