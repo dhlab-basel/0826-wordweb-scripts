@@ -209,6 +209,32 @@
               "cardinality": "0-1"
             },
             {
+              "name": "edition",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "edition normalized",
+                "de": "Edition normalisiert"
+              },
+              "gui_element": "Textarea",
+              "cardinality": "0-1"
+            },
+                        {
+              "name": "editionHist",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "edition historical",
+                "de": "Edition historisch"
+              },
+              "gui_element": "Textarea",
+              "cardinality": "0-1"
+            },
+            {
               "name": "createdDate",
               "super": [
                 "hasValue"
