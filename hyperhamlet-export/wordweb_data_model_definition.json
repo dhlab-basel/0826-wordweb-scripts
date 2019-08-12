@@ -301,6 +301,19 @@
               "cardinality": "0-n"
             },
             {
+              "name": "mentionedIn",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:passage",
+              "labels": {
+                "en": "mentioned in",
+                "de": "erwähnt in"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
               "name": "wasContributed",
               "super": [
                 "hasLinkTo"
