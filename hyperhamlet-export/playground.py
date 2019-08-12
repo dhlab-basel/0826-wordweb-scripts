@@ -5,8 +5,12 @@ import random
 import sys
 # defining path for module imports
 sys.path.append("modules/")
+# preparation for lexias
+import prep_lexias
 
-# import prep_editions
+
+
+# import prep_edition
 
 # -------------- Access objects and list
 # obj = {
@@ -76,4 +80,6 @@ sys.path.append("modules/")
 #     print(ed)
 
 # ----------------- Random Number
-print(random.randint(100000, 999999))
+# print(random.randint(100000, 999999))
+
+allLexias = prep_lexias.prepare()

@@ -24,6 +24,8 @@ import prep_books
 import prep_contributors
 # preparation for secondary books
 import prep_sec_books
+# preparation for lexias
+import prep_lexias
 
 json_files = [
     "json/author.json",
@@ -212,6 +214,7 @@ allAuthors = prep_authors.prepare()
 allBooks = prep_books.prepare()
 allSecBooks = prep_sec_books.prepare_csv()
 allContributors = prep_contributors.prepare()
+allLexias = prep_lexias.prepare()
 
 # Saves the complete objects into json files
 json.save("json/all_authors.json", allAuthors)
