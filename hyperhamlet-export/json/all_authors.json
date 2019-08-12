@@ -1631,6 +1631,13 @@
     "description": "British poet",
     "sql": 215
   },
+  "ww_1640040af2cc3bf6": {
+    "firstName": "Theodore J.",
+    "lastName": "Beardsley Jr.",
+    "floruitExact": "1974",
+    "description": "U.S. (?) scholar",
+    "sql": 4250
+  },
   "ww_b6350031d9af5489": {
     "firstName": "The",
     "lastName": "Beatles",
@@ -1920,6 +1927,14 @@
     "deathExact": "1905",
     "description": "U.S. novelist",
     "sql": 3612
+  },
+  "ww_46b7abbd7f3bb8e7": {
+    "firstName": "Josephine Waters",
+    "lastName": "Bennett",
+    "birthExact": "1900",
+    "deathExact": "1976",
+    "description": "U.S. scholar",
+    "sql": 4229
   },
   "ww_89488d1fedb92d90": {
     "firstName": "Anna ",
@@ -2520,6 +2535,14 @@
     "deathExact": "1984",
     "description": "English novelist",
     "sql": 1010
+  },
+  "ww_924e9d6c1a0abf2b": {
+    "firstName": "David A.",
+    "lastName": "Blostein",
+    "floruitSpanStart": "1975",
+    "floruitSpanEnd": "1999",
+    "description": "Canadian (?) scholar",
+    "sql": 4256
   },
   "ww_244028e5d62223f0": {
     "firstName": "Patrick",
@@ -4111,6 +4134,14 @@
     "description": "English painter",
     "sql": 1517
   },
+  "ww_d5b779fffbf80505": {
+    "firstName": "Thomas O.",
+    "lastName": "Calhoun",
+    "floruitSpanStart": "1989",
+    "floruitSpanEnd": "1993",
+    "description": "U.S. (?) academic",
+    "sql": 4268
+  },
   "ww_76d88fdde10182b1": {
     "firstName": "Cory",
     "lastName": "Calhoun",
@@ -4613,6 +4644,13 @@
     "floruitExact": "2004",
     "description": "U.S. academic",
     "sql": 3224
+  },
+  "ww_f5bf6503bd4e3d9b": {
+    "firstName": "Charles",
+    "lastName": "Cathcart",
+    "floruitExact": "2008",
+    "description": "English scholar",
+    "sql": 4253
   },
   "ww_d0146ffdd0f5faa6": {
     "firstName": "Mark",
@@ -5530,6 +5568,14 @@
     "description": "British (?) theatre critic",
     "sql": 3334
   },
+  "ww_5e70e88aae58b65f": {
+    "firstName": "Elizabeth",
+    "lastName": "Cook",
+    "floruitSpanStart": "1997",
+    "floruitSpanEnd": "2003",
+    "description": "English (?) scholar",
+    "sql": 4272
+  },
   "ww_f15874e79d5f5918": {
     "firstName": "John Esten",
     "lastName": "Cooke",
@@ -5822,6 +5868,14 @@
     "deathExact": "1825",
     "description": "Scottish poet and novelist",
     "sql": 3958
+  },
+  "ww_4e2014cf7880cdc5": {
+    "firstName": "Thiomas Wallace",
+    "lastName": "Craik",
+    "floruitSpanStart": "1975",
+    "floruitSpanEnd": "2008",
+    "description": "English (?) scholar",
+    "sql": 4248
   },
   "ww_da28c09e382c638f": {
     "firstName": "Jim",
@@ -6328,6 +6382,12 @@
     "description": "English journalist and writer on finance",
     "sql": 3386
   },
+  "ww_352af22fad3f766f": {
+    "firstName": "Adele",
+    "lastName": "Davidson",
+    "description": "",
+    "sql": 4261
+  },
   "ww_9dbe210ac80122c5": {
     "firstName": "John",
     "lastName": "Davidson",
@@ -6722,6 +6782,13 @@
     "description": "U.S. scientist",
     "sql": 527
   },
+  "ww_0892ee27a956341b": {
+    "firstName": "Joseph W.",
+    "lastName": "DeMent",
+    "floruitExact": "1964",
+    "description": "U.S. (?( scholar",
+    "sql": 4238
+  },
   "ww_29269859c799916b": {
     "firstName": "Curt",
     "lastName": "Dempster",
@@ -6759,6 +6826,14 @@
     "deathExact": "1888",
     "description": "Canadian journalist, author and historian",
     "sql": 3906
+  },
+  "ww_46c46082234d6025": {
+    "firstName": "Robert William",
+    "lastName": "Dent",
+    "birthExact": "1917",
+    "deathExact": "2005",
+    "description": "U.S. scholar",
+    "sql": 4233
   },
   "ww_68a477120ce18204": {
     "firstName": "Marc",
@@ -6995,7 +7070,8 @@
   "ww_9cb12dabd79aaa48": {
     "firstName": "Michael",
     "lastName": "Dobson",
-    "description": "",
+    "birthExact": "1960",
+    "description": "British academic",
     "sql": 2933
   },
   "ww_18327c9d5f17cb13": {
@@ -7724,6 +7800,13 @@
     "description": "German comedian",
     "sql": 3257
   },
+  "ww_0e83049151ab9db5": {
+    "firstName": "Peter",
+    "lastName": "Erickson",
+    "floruitExact": "1991",
+    "description": "U.S. (?) academic",
+    "sql": 4269
+  },
   "ww_cef7b3110376684f": {
     "firstName": "Fredrik",
     "lastName": "Erixon",
@@ -7974,6 +8057,13 @@
     "deathExact": "1903",
     "description": "English novelist and philologist",
     "sql": 1760
+  },
+  "ww_344c59ba1ce1b8fd": {
+    "firstName": "Thomas C.",
+    "lastName": "Faulkner",
+    "floruitExact": "1989",
+    "description": "English (?) scholar",
+    "sql": 4270
   },
   "ww_47cca4290e4b3890": {
     "firstName": "Edgar",
@@ -8786,6 +8876,21 @@
     "description": "German actor and Shakespeare devotee",
     "sql": 38
   },
+  "ww_ffa5ab3de908dcd2": {
+    "firstName": "David L.",
+    "lastName": "Frost",
+    "floruitSpanStart": "1968",
+    "floruitSpanEnd": "1978",
+    "description": "U.S. (?) scholar",
+    "sql": 4236
+  },
+  "ww_a490794224ad2764": {
+    "firstName": "Kate G.",
+    "lastName": "Frost",
+    "floruitExact": "1984",
+    "description": "U.S. (?) scholar",
+    "sql": 4262
+  },
   "ww_30c7a678f2d8d496": {
     "firstName": "Mark",
     "lastName": "Frost",
@@ -9132,6 +9237,13 @@
     "birthExact": "1952",
     "description": "English fantasy novelist",
     "sql": 2496
+  },
+  "ww_ac85346a6a733ffa": {
+    "firstName": "George L.",
+    "lastName": "Geckle",
+    "floruitExact": "1980",
+    "description": "U.S. (?) scholar",
+    "sql": 4235
   },
   "ww_c3fd85dbde510e4e": {
     "firstName": "Gary",
@@ -11321,6 +11433,12 @@
     "description": "English dramatist",
     "sql": 466
   },
+  "ww_59ff380c6e105e8e": {
+    "firstName": "G. R.",
+    "lastName": "Hibbard",
+    "description": "",
+    "sql": 4271
+  },
   "ww_9e5001d208065a82": {
     "firstName": "Emily Henrietta ",
     "lastName": "Hickey",
@@ -11582,6 +11700,13 @@
     "birthExact": "1945",
     "description": "U.S. academic",
     "sql": 1692
+  },
+  "ww_c1bd14552f609afe": {
+    "firstName": "Jerome W.",
+    "lastName": "Hogan",
+    "floruitExact": "1975",
+    "description": "U.S. (?) academic",
+    "sql": 4244
   },
   "ww_0637aa22a5253594": {
     "firstName": "William",
@@ -12171,6 +12296,22 @@
     "description": "British writer",
     "sql": 407
   },
+  "ww_67ff3ba62bd10038": {
+    "firstName": "William B.",
+    "lastName": "HUnter",
+    "floruitSpanStart": "1978",
+    "floruitSpanEnd": "1983",
+    "description": "U.S. (?) scholar",
+    "sql": 4249
+  },
+  "ww_b03485399e74fd98": {
+    "firstName": "George K.",
+    "lastName": "Hunter",
+    "birthExact": "1920",
+    "deathExact": "2008",
+    "description": "Scottish-born U.S. academic",
+    "sql": 4254
+  },
   "ww_ca62cf853e38ff3a": {
     "firstName": "Tim",
     "lastName": "Hunter",
@@ -12485,12 +12626,12 @@
     "description": "British essayist",
     "sql": 3415
   },
-  "ww_b16f95073bb60d2f": {
-    "firstName": "MacDonald P.",
+  "ww_fdae751b03274cac": {
+    "firstName": "Macdonald P.",
     "lastName": "Jackson",
-    "floruitExact": "2007",
-    "description": "New Zealand academic",
-    "sql": 2499
+    "birthExact": "1938",
+    "description": "New Zealand scholar",
+    "sql": 4247
   },
   "ww_c3e6b787b6b635de": {
     "firstName": "Lilian",
@@ -12954,6 +13095,13 @@
     "deathExact": "1637",
     "description": "English dramatist and poet",
     "sql": 300
+  },
+  "ww_ea90e1c76029f901": {
+    "firstName": "Robert",
+    "lastName": "Jordan",
+    "floruitExact": "1988",
+    "description": "English (?) scholar",
+    "sql": 4259
   },
   "ww_2a21211b9d719546": {
     "firstName": "Neil",
@@ -14187,6 +14335,13 @@
     "description": "French poet",
     "sql": 309
   },
+  "ww_e8e72219ab483570": {
+    "firstName": "Ferdinand",
+    "lastName": "Lagarde",
+    "floruitExact": "1979",
+    "description": "Austrian (?) scholar",
+    "sql": 4246
+  },
   "ww_7a3bc903490ef875": {
     "firstName": "Gwen",
     "lastName": "Lally",
@@ -14407,6 +14562,14 @@
     "deathExact": "1870",
     "description": "French poet , real name Isidore Ducasse",
     "sql": 180
+  },
+  "ww_d97781c5821c201b": {
+    "firstName": "John",
+    "lastName": "Lavagnino",
+    "birthSpanStart": "1957",
+    "birthSpanEnd": "1959",
+    "description": "English scholar",
+    "sql": 4237
   },
   "ww_375419d970b64579": {
     "firstName": "Alex",
@@ -15263,6 +15426,13 @@
     "birthExact": "1954",
     "description": "Asian-U.S. novelist",
     "sql": 853
+  },
+  "ww_c11600e212e4417a": {
+    "firstName": "Harold",
+    "lastName": "Love",
+    "floruitExact": "1988",
+    "description": "English (?) scholar",
+    "sql": 4260
   },
   "ww_d815f05369cd7fa6": {
     "firstName": "Tom",
@@ -16180,6 +16350,14 @@
     "description": "U.S. writer",
     "sql": 652
   },
+  "ww_759d754d3536439c": {
+    "firstName": "Tom",
+    "lastName": "Matheson",
+    "birthExact": "1937",
+    "deathExact": "2006",
+    "description": "English academic",
+    "sql": 4273
+  },
   "ww_539ae1facee48fe3": {
     "firstName": "Charles James",
     "lastName": "Mathews",
@@ -16440,6 +16618,15 @@
     "description": "U.S. academic -",
     "sql": 2859
   },
+  "ww_fac481b50f8ffd3a": {
+    "firstName": "Harvey Scott",
+    "lastName": "McMillin",
+    "birthSpanStart": "1920",
+    "birthSpanEnd": "1921",
+    "deathExact": "2006",
+    "description": "U.S. scholar",
+    "sql": 4267
+  },
   "ww_305a306fd38dd16e": {
     "firstName": "Gemma",
     "lastName": "McMullan",
@@ -16537,6 +16724,14 @@
     "lastName": "Melbancke",
     "description": "",
     "sql": 1283
+  },
+  "ww_e651195b0e2d0014": {
+    "firstName": "Giorgio",
+    "lastName": "Melchiori",
+    "birthExact": "1920",
+    "deathExact": "2008",
+    "description": "Italian scholar",
+    "sql": 4257
   },
   "ww_6038557f9ef52d70": {
     "firstName": "Leonard",
@@ -16933,6 +17128,14 @@
     "deathExact": "1674",
     "description": "English poet",
     "sql": 42
+  },
+  "ww_d445647247f3f748": {
+    "firstName": "Peter",
+    "lastName": "Milward",
+    "birthExact": "1925",
+    "deathExact": "2017",
+    "description": "English Jesuit priest and scholar",
+    "sql": 4241
   },
   "ww_0314a7dd3746caf9": {
     "firstName": "Tim",
@@ -17466,6 +17669,14 @@
     "birthExact": "1939",
     "description": "English novelist , full name Sir William Robert Ferdinand Mount, 3rd Baronet",
     "sql": 2123
+  },
+  "ww_386448c09c02ba3f": {
+    "firstName": "Barbara",
+    "lastName": "Mowat",
+    "birthExact": "1934",
+    "deathExact": "2017",
+    "description": "U.S. academic",
+    "sql": 4263
   },
   "ww_274800d3cd59377a": {
     "firstName": "Anna Cora",
@@ -18081,6 +18292,12 @@
     "deathExact": "1972",
     "description": "Polish-born Russian  dance and choreographer , birth name",
     "sql": 2508
+  },
+  "ww_4d01a832f50d804e": {
+    "firstName": "Rebecca",
+    "lastName": "Niles",
+    "description": "",
+    "sql": 4266
   },
   "ww_5cfe4f49346ba61a": {
     "firstName": "Leonard",
@@ -19507,6 +19724,12 @@
     "description": "English gothic novelist",
     "sql": 365
   },
+  "ww_55f5e9f5fe14853f": {
+    "firstName": "Michael",
+    "lastName": "Poston",
+    "description": "",
+    "sql": 4265
+  },
   "ww_4125fa631a254bd1": {
     "firstName": "John",
     "lastName": "Potter",
@@ -20725,6 +20948,14 @@
     "description": "French dancer and choreographer",
     "sql": 2010
   },
+  "ww_b12a0d10cafaf078": {
+    "firstName": "Alan",
+    "lastName": "Roper",
+    "floruitSpanStart": "1956",
+    "floruitSpanEnd": "1989",
+    "description": "U.S. (?) academic",
+    "sql": 4245
+  },
   "ww_20d1d6555b1539f3": {
     "firstName": "Edith S.",
     "lastName": "Rorison",
@@ -20775,6 +21006,14 @@
     "description": "German journalist",
     "sql": 633
   },
+  "ww_1560a0ef495e2c1a": {
+    "firstName": "Lawrence",
+    "lastName": "Rosinger",
+    "floruitSpanStart": "1975",
+    "floruitSpanEnd": "1987",
+    "description": "U.S. (?) scholar",
+    "sql": 4255
+  },
   "ww_19275da784e2f237": {
     "firstName": "Walter",
     "lastName": "Ross",
@@ -20782,6 +21021,13 @@
     "deathExact": "1789",
     "description": "Scottish (?) writer on law",
     "sql": 3344
+  },
+  "ww_3003e40f8d22b593": {
+    "firstName": "Lawrence J.",
+    "lastName": "Ross",
+    "floruitExact": "1966",
+    "description": "English (?) scholar",
+    "sql": 4239
   },
   "ww_011b8b740d0d808d": {
     "firstName": "Alex",
@@ -21101,6 +21347,12 @@
     "deathExact": "1995",
     "description": "U.S. biologist and physician",
     "sql": 3307
+  },
+  "ww_0ddc123b822a1712": {
+    "firstName": "Duncan",
+    "lastName": "Salkeld",
+    "description": "",
+    "sql": 4243
   },
   "ww_6f7fe8add1bf9f2b": {
     "firstName": "Pauline J.",
@@ -22324,6 +22576,14 @@
     "description": "U.S. screenwriter and film director",
     "sql": 1020
   },
+  "ww_549b732020230ba1": {
+    "firstName": "Ernest",
+    "lastName": "Sirluck",
+    "birthExact": "1918",
+    "deathExact": "2013",
+    "description": "Canadian academic",
+    "sql": 4231
+  },
   "ww_0424ae4ca421fdf3": {
     "firstName": "Charles Hubert",
     "lastName": "Sisson",
@@ -22518,6 +22778,13 @@
     "deathExact": "1787",
     "description": "English academic",
     "sql": 3678
+  },
+  "ww_f31af6df8b4b0640": {
+    "firstName": "Charles G.",
+    "lastName": "Smith",
+    "floruitExact": "1963",
+    "description": "U.S. (?) scholar",
+    "sql": 4234
   },
   "ww_82aeb78ba344c3b0": {
     "firstName": "Elizabeth",
@@ -22784,6 +23051,13 @@
     "birthExact": "1944",
     "description": "English screenwriter",
     "sql": 128
+  },
+  "ww_db0f93eb54e77e5f": {
+    "firstName": "T. J. B.",
+    "lastName": "Spencer",
+    "floruitExact": "1980",
+    "description": "U.S. (?) schoalar",
+    "sql": 4251
   },
   "ww_e511282acb67243d": {
     "firstName": "William Browning",
@@ -23092,6 +23366,13 @@
     "birthExact": "1747",
     "description": "Daughter of Lawrence Sterne",
     "sql": 2353
+  },
+  "ww_09a5cd76696f88a5": {
+    "firstName": "F. W.",
+    "lastName": "Sternfeld",
+    "floruitExact": "1964",
+    "description": "U.S. (?) scholar",
+    "sql": 4232
   },
   "ww_2402f6d999cc5bdb": {
     "firstName": "John Alexander",
@@ -23728,6 +24009,14 @@
     "description": "English novelist",
     "sql": 3217
   },
+  "ww_25024aa23d16ec79": {
+    "firstName": "Anthony Brian",
+    "lastName": "Taylor",
+    "floruitSpanStart": "1988",
+    "floruitSpanEnd": "1999",
+    "description": "English academic",
+    "sql": 4252
+  },
   "ww_00d594663fe3f7f5": {
     "firstName": "Cecil P.",
     "lastName": "Taylor",
@@ -23845,7 +24134,7 @@
     "lastName": "Thaler",
     "birthExact": "1891",
     "deathExact": "1977",
-    "description": "U.S. academic",
+    "description": "German-born U.S. scholar",
     "sql": 2561
   },
   "ww_415d48e37636cb73": {
@@ -24755,6 +25044,14 @@
     "description": "US educator and clergyman",
     "sql": 3861
   },
+  "ww_37083d29746e75d4": {
+    "firstName": "R. W.",
+    "lastName": "van Fossen",
+    "birthExact": "1927",
+    "deathExact": "2009",
+    "description": "Canadian academic",
+    "sql": 4258
+  },
   "ww_6939fa153fa49e66": {
     "firstName": "Peter",
     "lastName": "Van Greenaway",
@@ -24798,6 +25095,13 @@
     "floruitExact": "1998",
     "description": "U.S. (?) film director",
     "sql": 325
+  },
+  "ww_9653a2d84d605ab3": {
+    "firstName": "John V.",
+    "lastName": "Velz",
+    "floruitExact": "1968",
+    "description": "U.S. (?) scholar",
+    "sql": 4240
   },
   "ww_56dabfc4a51dd76d": {
     "firstName": "John",
@@ -25576,6 +25880,14 @@
     "description": "German novelist",
     "sql": 1218
   },
+  "ww_c8fa0de8d0fc2fc4": {
+    "firstName": "Paul",
+    "lastName": "Werstine",
+    "birthSpanStart": "1950",
+    "birthSpanEnd": "1952",
+    "description": "U.S.-born Canadian academic",
+    "sql": 4264
+  },
   "ww_1590278c98c8c5d2": {
     "firstName": "Fredric",
     "lastName": "Wertham",
@@ -26289,6 +26601,14 @@
     "birthExact": "1931",
     "description": "U.S. journalist and novelist",
     "sql": 2340
+  },
+  "ww_e76f94e7ed1e6bc7": {
+    "firstName": "Don Marion",
+    "lastName": "Wolfe",
+    "birthExact": "1903",
+    "deathExact": "1976",
+    "description": "U.S. academic",
+    "sql": 4230
   },
   "ww_9c7b4569fff98623": {
     "firstName": "Mary",

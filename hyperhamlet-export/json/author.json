@@ -106,6 +106,12 @@
     "description": "Australian academic -",
     "activeDate": "GREGORIAN:1969"
   },
+  "ww_59ff380c6e105e8e": {
+    "firstName": "G. R.",
+    "lastName": "Hibbard",
+    "hasSex": "male",
+    "description": ""
+  },
   "ww_6c137d4b04e9cbc4": {
     "firstName": "Heinrich R. D.",
     "lastName": "Anders",
@@ -173,6 +179,13 @@
     "description": "English priest",
     "birthDate": "GREGORIAN:1522",
     "deathDate": "GREGORIAN:1571"
+  },
+  "ww_1560a0ef495e2c1a": {
+    "firstName": "Lawrence",
+    "lastName": "Rosinger",
+    "hasSex": "male",
+    "description": "U.S. (?) scholar",
+    "activeDate": "GREGORIAN:1975:1987"
   },
   "ww_8110581a51ac8d0a": {
     "firstName": "John",
@@ -270,10 +283,39 @@
     "birthDate": "GREGORIAN:1949",
     "deathDate": "GREGORIAN:1917"
   },
-  "ww_aced097ce058e38c": {
-    "firstName": "tbe (female)",
-    "lastName": "0_Author",
-    "hasSex": "male"
+  "ww_386448c09c02ba3f": {
+    "firstName": "Barbara",
+    "lastName": "Mowat",
+    "hasSex": "male",
+    "description": "U.S. academic",
+    "birthDate": "GREGORIAN:1934",
+    "deathDate": "GREGORIAN:2017"
+  },
+  "ww_4d01a832f50d804e": {
+    "firstName": "Rebecca",
+    "lastName": "Niles",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_55f5e9f5fe14853f": {
+    "firstName": "Michael",
+    "lastName": "Poston",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_c8fa0de8d0fc2fc4": {
+    "firstName": "Paul",
+    "lastName": "Werstine",
+    "hasSex": "male",
+    "description": "U.S.-born Canadian academic",
+    "birthDate": "GREGORIAN:1950:1952"
+  },
+  "ww_3003e40f8d22b593": {
+    "firstName": "Lawrence J.",
+    "lastName": "Ross",
+    "hasSex": "male",
+    "description": "English (?) scholar",
+    "activeDate": "GREGORIAN:1966"
   },
   "ww_71c35dc91de8b585": {
     "firstName": "Emil",
@@ -341,6 +383,13 @@
     "birthDate": "GREGORIAN:1857",
     "deathDate": "GREGORIAN:1920"
   },
+  "ww_fdae751b03274cac": {
+    "firstName": "Macdonald P.",
+    "lastName": "Jackson",
+    "hasSex": "male",
+    "description": "New Zealand scholar",
+    "birthDate": "GREGORIAN:1938"
+  },
   "ww_8501ec457f433848": {
     "firstName": "George",
     "lastName": "Chapman",
@@ -386,11 +435,40 @@
     "description": "German (?) scholar",
     "activeDate": "GREGORIAN:1901"
   },
+  "ww_a490794224ad2764": {
+    "firstName": "Kate G.",
+    "lastName": "Frost",
+    "hasSex": "male",
+    "description": "U.S. (?) scholar",
+    "activeDate": "GREGORIAN:1984"
+  },
   "ww_4cf2d2f81816aed2": {
     "firstName": "George",
     "lastName": "Thorn-Drury",
     "hasSex": "male",
     "description": ""
+  },
+  "ww_6479c34542b52165": {
+    "firstName": "Alwin",
+    "lastName": "Thaler",
+    "hasSex": "male",
+    "description": "German-born U.S. scholar",
+    "birthDate": "GREGORIAN:1891",
+    "deathDate": "GREGORIAN:1977"
+  },
+  "ww_b12a0d10cafaf078": {
+    "firstName": "Alan",
+    "lastName": "Roper",
+    "hasSex": "male",
+    "description": "U.S. (?) academic",
+    "activeDate": "GREGORIAN:1956:1989"
+  },
+  "ww_f31af6df8b4b0640": {
+    "firstName": "Charles G.",
+    "lastName": "Smith",
+    "hasSex": "male",
+    "description": "U.S. (?) scholar",
+    "activeDate": "GREGORIAN:1963"
   },
   "ww_50c35f7aceaa6c9e": {
     "firstName": "Morris Palmer",
@@ -399,6 +477,13 @@
     "description": "U.S. scholar",
     "birthDate": "GREGORIAN:1876",
     "deathDate": "GREGORIAN:1947"
+  },
+  "ww_344c59ba1ce1b8fd": {
+    "firstName": "Thomas C.",
+    "lastName": "Faulkner",
+    "hasSex": "male",
+    "description": "English (?) scholar",
+    "activeDate": "GREGORIAN:1989"
   },
   "ww_7b88afb3c96d748f": {
     "firstName": "John",
@@ -414,6 +499,28 @@
     "hasSex": "male",
     "description": "English (?) poet",
     "activeDate": "GREGORIAN:1600"
+  },
+  "ww_ea90e1c76029f901": {
+    "firstName": "Robert",
+    "lastName": "Jordan",
+    "hasSex": "male",
+    "description": "English (?) scholar",
+    "activeDate": "GREGORIAN:1988"
+  },
+  "ww_c11600e212e4417a": {
+    "firstName": "Harold",
+    "lastName": "Love",
+    "hasSex": "male",
+    "description": "English (?) scholar",
+    "activeDate": "GREGORIAN:1988"
+  },
+  "ww_37083d29746e75d4": {
+    "firstName": "R. W.",
+    "lastName": "van Fossen",
+    "hasSex": "male",
+    "description": "Canadian academic",
+    "birthDate": "GREGORIAN:1927",
+    "deathDate": "GREGORIAN:2009"
   },
   "ww_f2c0f40020cbe48f": {
     "firstName": "James Orchard",
@@ -742,6 +849,13 @@
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1640"
   },
+  "ww_c1bd14552f609afe": {
+    "firstName": "Jerome W.",
+    "lastName": "Hogan",
+    "hasSex": "male",
+    "description": "U.S. (?) academic",
+    "activeDate": "GREGORIAN:1975"
+  },
   "ww_bae7c2e690c9caaa": {
     "firstName": "John",
     "lastName": "Suckling",
@@ -775,6 +889,11 @@
     "hasSex": "male",
     "description": "English (?) dramatist",
     "activeDate": "GREGORIAN:1655"
+  },
+  "ww_aced097ce058e38c": {
+    "firstName": "tbe (female)",
+    "lastName": "0_Author",
+    "hasSex": "male"
   },
   "ww_023482909a532caf": {
     "firstName": "Katherine",
@@ -891,13 +1010,6 @@
     "description": "English poet",
     "activeDate": "GREGORIAN:1570:1602"
   },
-  "ww_b16f95073bb60d2f": {
-    "firstName": "MacDonald P.",
-    "lastName": "Jackson",
-    "hasSex": "male",
-    "description": "New Zealand academic",
-    "activeDate": "GREGORIAN:2007"
-  },
   "ww_116917d934be52dd": {
     "firstName": "Thomas",
     "lastName": "Kyd",
@@ -920,6 +1032,13 @@
     "hasSex": "male",
     "description": "U.S. academic",
     "birthDate": "GREGORIAN:1944"
+  },
+  "ww_67ff3ba62bd10038": {
+    "firstName": "William B.",
+    "lastName": "HUnter",
+    "hasSex": "male",
+    "description": "U.S. (?) scholar",
+    "activeDate": "GREGORIAN:1978:1983"
   },
   "ww_d78431424289a522": {
     "firstName": "Friedrich",
@@ -1009,6 +1128,13 @@
     "lastName": "0_Anon",
     "hasSex": "male"
   },
+  "ww_ac85346a6a733ffa": {
+    "firstName": "George L.",
+    "lastName": "Geckle",
+    "hasSex": "male",
+    "description": "U.S. (?) scholar",
+    "activeDate": "GREGORIAN:1980"
+  },
   "ww_360a194801e33346": {
     "firstName": "Sir Andrew Jonathan",
     "lastName": "Bate",
@@ -1052,6 +1178,21 @@
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1969"
   },
+  "ww_ffa5ab3de908dcd2": {
+    "firstName": "David L.",
+    "lastName": "Frost",
+    "hasSex": "male",
+    "description": "U.S. (?) scholar",
+    "activeDate": "GREGORIAN:1968:1978"
+  },
+  "ww_e651195b0e2d0014": {
+    "firstName": "Giorgio",
+    "lastName": "Melchiori",
+    "hasSex": "male",
+    "description": "Italian scholar",
+    "birthDate": "GREGORIAN:1920",
+    "deathDate": "GREGORIAN:2008"
+  },
   "ww_ed8bb2273ef0878b": {
     "firstName": "F. L.",
     "lastName": "Lucas",
@@ -1065,6 +1206,21 @@
     "hasSex": "male",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1941"
+  },
+  "ww_4e2014cf7880cdc5": {
+    "firstName": "Thiomas Wallace",
+    "lastName": "Craik",
+    "hasSex": "male",
+    "description": "English (?) scholar",
+    "activeDate": "GREGORIAN:1975:2008"
+  },
+  "ww_549b732020230ba1": {
+    "firstName": "Ernest",
+    "lastName": "Sirluck",
+    "hasSex": "male",
+    "description": "Canadian academic",
+    "birthDate": "GREGORIAN:1918",
+    "deathDate": "GREGORIAN:2013"
   },
   "ww_86c92244655c7f75": {
     "firstName": "Barbara",
@@ -1111,6 +1267,14 @@
     "description": "English actor",
     "birthDate": "GREGORIAN:1946"
   },
+  "ww_46b7abbd7f3bb8e7": {
+    "firstName": "Josephine Waters",
+    "lastName": "Bennett",
+    "hasSex": "male",
+    "description": "U.S. scholar",
+    "birthDate": "GREGORIAN:1900",
+    "deathDate": "GREGORIAN:1976"
+  },
   "ww_b85b5bffc57af7f3": {
     "firstName": "G. P. V. ",
     "lastName": "Akrigg",
@@ -1125,12 +1289,27 @@
     "description": "English dramatist , full name Anthony Scoloker?",
     "activeDate": "GREGORIAN:1604"
   },
+  "ww_d97781c5821c201b": {
+    "firstName": "John",
+    "lastName": "Lavagnino",
+    "hasSex": "male",
+    "description": "English scholar",
+    "birthDate": "GREGORIAN:1957:1959"
+  },
   "ww_b29f022218b6d47d": {
     "firstName": "Gary",
     "lastName": "Taylor",
     "hasSex": "male",
     "description": "U.S. academic",
     "birthDate": "GREGORIAN:1953"
+  },
+  "ww_fac481b50f8ffd3a": {
+    "firstName": "Harvey Scott",
+    "lastName": "McMillin",
+    "hasSex": "male",
+    "description": "U.S. scholar",
+    "birthDate": "GREGORIAN:1920:1921",
+    "deathDate": "GREGORIAN:2006"
   },
   "ww_e005e74f6af8f88e": {
     "firstName": "T.",
@@ -1257,6 +1436,13 @@
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1658"
   },
+  "ww_09a5cd76696f88a5": {
+    "firstName": "F. W.",
+    "lastName": "Sternfeld",
+    "hasSex": "male",
+    "description": "U.S. (?) scholar",
+    "activeDate": "GREGORIAN:1964"
+  },
   "ww_55497d26971913d2": {
     "firstName": "William",
     "lastName": "Tyndale",
@@ -1307,6 +1493,13 @@
     "description": "British academic",
     "birthDate": "GREGORIAN:1937"
   },
+  "ww_9653a2d84d605ab3": {
+    "firstName": "John V.",
+    "lastName": "Velz",
+    "hasSex": "male",
+    "description": "U.S. (?) scholar",
+    "activeDate": "GREGORIAN:1968"
+  },
   "ww_144d49d7e9724c99": {
     "firstName": "Richard",
     "lastName": "Rainolde",
@@ -1342,6 +1535,13 @@
     "lastName": "Seneca",
     "hasSex": "male",
     "description": ""
+  },
+  "ww_25024aa23d16ec79": {
+    "firstName": "Anthony Brian",
+    "lastName": "Taylor",
+    "hasSex": "male",
+    "description": "English academic",
+    "activeDate": "GREGORIAN:1988:1999"
   },
   "ww_0adab3e3a15ca99c": {
     "firstName": "Arthur",
@@ -1596,6 +1796,12 @@
     "birthDate": "GREGORIAN:1558",
     "deathDate": "GREGORIAN:1602"
   },
+  "ww_352af22fad3f766f": {
+    "firstName": "Adele",
+    "lastName": "Davidson",
+    "hasSex": "male",
+    "description": ""
+  },
   "ww_866098e504e55c18": {
     "firstName": "Sir Francis",
     "lastName": "Hubert",
@@ -1625,6 +1831,27 @@
     "hasSex": "male",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1909"
+  },
+  "ww_0ddc123b822a1712": {
+    "firstName": "Duncan",
+    "lastName": "Salkeld",
+    "hasSex": "male",
+    "description": ""
+  },
+  "ww_d5b779fffbf80505": {
+    "firstName": "Thomas O.",
+    "lastName": "Calhoun",
+    "hasSex": "male",
+    "description": "U.S. (?) academic",
+    "activeDate": "GREGORIAN:1989:1993"
+  },
+  "ww_46c46082234d6025": {
+    "firstName": "Robert William",
+    "lastName": "Dent",
+    "hasSex": "male",
+    "description": "U.S. scholar",
+    "birthDate": "GREGORIAN:1917",
+    "deathDate": "GREGORIAN:2005"
   },
   "ww_166f75ce43f038e3": {
     "firstName": "Fredson Thayer",
@@ -1663,6 +1890,13 @@
     "birthDate": "GREGORIAN:1575",
     "deathDate": "GREGORIAN:1625"
   },
+  "ww_db0f93eb54e77e5f": {
+    "firstName": "T. J. B.",
+    "lastName": "Spencer",
+    "hasSex": "male",
+    "description": "U.S. (?) schoalar",
+    "activeDate": "GREGORIAN:1980"
+  },
   "ww_a15d1ad784ef65c3": {
     "firstName": "Elizabeth, Viscountess Falkland ",
     "lastName": "Cary",
@@ -1677,6 +1911,13 @@
     "hasSex": "male",
     "description": "English",
     "activeDate": "GREGORIAN:1605"
+  },
+  "ww_f5bf6503bd4e3d9b": {
+    "firstName": "Charles",
+    "lastName": "Cathcart",
+    "hasSex": "male",
+    "description": "English scholar",
+    "activeDate": "GREGORIAN:2008"
   },
   "ww_c62da289e0e58107": {
     "firstName": "Thomas",
@@ -1775,6 +2016,14 @@
     "birthDate": "GREGORIAN:1536",
     "deathDate": "GREGORIAN:1608"
   },
+  "ww_d445647247f3f748": {
+    "firstName": "Peter",
+    "lastName": "Milward",
+    "hasSex": "male",
+    "description": "English Jesuit priest and scholar",
+    "birthDate": "GREGORIAN:1925",
+    "deathDate": "GREGORIAN:2017"
+  },
   "ww_25e6fd889f1e2401": {
     "firstName": "Robert",
     "lastName": "Wilson",
@@ -1794,6 +2043,13 @@
     "hasSex": "male",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1997"
+  },
+  "ww_0892ee27a956341b": {
+    "firstName": "Joseph W.",
+    "lastName": "DeMent",
+    "hasSex": "male",
+    "description": "U.S. (?( scholar",
+    "activeDate": "GREGORIAN:1964"
   },
   "ww_240bf4a7d8bc0162": {
     "firstName": "Eric",
@@ -1831,6 +2087,14 @@
     "description": "English writer",
     "birthDate": "GREGORIAN:1558",
     "deathDate": "GREGORIAN:1625"
+  },
+  "ww_759d754d3536439c": {
+    "firstName": "Tom",
+    "lastName": "Matheson",
+    "hasSex": "male",
+    "description": "English academic",
+    "birthDate": "GREGORIAN:1937",
+    "deathDate": "GREGORIAN:2006"
   },
   "ww_54e7c8428ba6024c": {
     "firstName": "John",

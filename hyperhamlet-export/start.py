@@ -37,7 +37,9 @@ csv_files = [
     "csv/export_1.csv",
     "csv/export_2.csv",
     "csv/export_3.csv",
-    "csv/export_4.csv"
+    "csv/export_4.csv",
+    # "csv/export_5.csv",
+    # "csv/export_6.csv",
 ]
 
 
@@ -211,13 +213,17 @@ allBooks = prep_books.prepare()
 allSecBooks = prep_sec_books.prepare_csv()
 allContributors = prep_contributors.prepare()
 
+# Saves the complete objects into json files
+json.save("json/all_authors.json", allAuthors)
+json.save("json/all_books.json", allBooks)
+json.save("json/all_sec_books.json", allSecBooks)
+
 # Loads the jsons and creates objects
 authors = {}
 books = {}
 contributors = {}
 lexia = {}
 passages = {}
-# secBooks = {}
 
 # Reads the csv files
 for csv_file in csv_files:
@@ -336,12 +342,7 @@ for csv_file in csv_files:
         print("FAIL: start.py", err)
         raise SystemExit(0)
 
-# Saves the complete objects into json files
-json.save("json/all_authors.json", allAuthors)
-json.save("json/all_books.json", allBooks)
-json.save("json/all_sec_books.json", allSecBooks)
-
-# Saves the objects which occures in the csv files in to json files
+# Saves the objects which occurs in the csv files in to json files
 json.save(json_files[0], authors)
 json.save(json_files[1], books)
 json.save(json_files[2], passages)

@@ -28,8 +28,10 @@
     "title": "FDT - Folger Digital Texts",
     "pubInfo": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts.",
     "authors": [
-      "tbe (female) 0_Author",
-      "tbe (male) 0_Author"
+      "Barbara Mowat",
+      "Rebecca Niles",
+      "Michael Poston",
+      "Paul Werstine"
     ]
   },
   "ww_f0b8d4220bfdd308": {
@@ -485,6 +487,14 @@
       "Roberta Florence Brinkley"
     ]
   },
+  "ww_4899784ecc7f3845": {
+    "internalID": "@010031",
+    "title": "Shaksperes Silences",
+    "pubInfo": "Shakspere's Silences. Library of Shakespearean Biography and Criticism. New York: Books for Libraries Press, 1970. 64; chapter 2 \"Shakspere and the Unhappy Happy Ending\".",
+    "authors": [
+      "Alwin Thaler"
+    ]
+  },
   "ww_4e091746c9370e38": {
     "internalID": "@010061",
     "title": "The Life of Marlowe",
@@ -669,7 +679,7 @@
     "pubInfo": "SQ 4.1 (January 1953): 3-9.",
     "letter": "Characterization in Polonius' Advice to Laertes",
     "authors": [
-      "tbe (female) 0_Author"
+      "Josephine Waters Bennett"
     ]
   },
   "ww_d2b6a1468adfe82f": {
@@ -677,7 +687,7 @@
     "title": "Complete Prose Works of John Milton (Wolfe edition",
     "pubInfo": "ed. Complete Prose Works of John Milton. 8 vols. New Haven and London: Oxford University Press and Yale University Press, 1953.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Don Marion Wolfe"
     ]
   },
   "ww_3f86f30540de15b8": {
@@ -695,7 +705,7 @@
     "pubInfo": "Modern Philology 53.2 (November 1955): 88-99.",
     "letter": "Shakespeare and Jonson among the Pamphleteers of the First Civil War: Some Unreported Seventeenth-Century Allusions",
     "authors": [
-      "tbe (male) 0_Author"
+      "Ernest Sirluck"
     ]
   },
   "ww_c1ca40b688cca87f": {
@@ -703,7 +713,7 @@
     "title": "The Works of John Dryden (Roper edition)",
     "pubInfo": "ed. The Works of John Dryden. 20 vols. Berkeley: University of California Press, 1956-1989.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Alan Roper"
     ]
   },
   "ww_f6685305b5e15919": {
@@ -761,7 +771,7 @@
     "title": "Shakespeares Proverb Lore",
     "pubInfo": "Shakespeare's Proverb Lore: His Use of the Sententiae of Leonard Culman and Publilius Syrus. Cambridge (Mass.): Harvard University Press, 1963.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Charles G. Smith"
     ]
   },
   "ww_8b579df902809521": {
@@ -770,7 +780,7 @@
     "pubInfo": "Shakespeare Quarterly 14 (1963): 87\u201389.",
     "letter": "An Early Hamlet Echo?",
     "authors": [
-      "tbe (male) 0_Author"
+      "Robert William Dent"
     ]
   },
   "ww_295f83922412b588": {
@@ -779,7 +789,7 @@
     "pubInfo": "Notes and Queries (September 1963): 331-332. ",
     "letter": "Shakespeare and Edmund Ironside",
     "authors": [
-      "MacDonald P. Jackson"
+      "Macdonald P. Jackson"
     ]
   },
   "ww_10d1735a57c373ef": {
@@ -812,7 +822,7 @@
     "pubInfo": "Shakespeare Quarterly 15:4 (Autumn 1964): 446-447. ",
     "letter": "A Possible 1594 Reference to Hamlet",
     "authors": [
-      "tbe (male) 0_Author"
+      "Joseph W. DeMent"
     ]
   },
   "ww_94da1c067c3069f6": {
@@ -821,7 +831,7 @@
     "pubInfo": "Music and Letters 45:2 (April 1964): 108-113.",
     "letter": "Ophelia's Version of the Walsingham Song",
     "authors": [
-      "tbe (male) 0_Author"
+      "F. W. Sternfeld"
     ]
   },
   "ww_17854cef6ca6f944": {
@@ -830,15 +840,15 @@
     "pubInfo": "Shakespeare Quarterly 16.1 (Winter 1965): 81-89.",
     "letter": "Shakespeare in the Seventeenth Century",
     "authors": [
-      "tbe (male) 0_Author"
+      "David L. Frost"
     ]
   },
   "ww_d96cf3715d049fff": {
     "internalID": "@010223",
     "title": "The Revengers Tragedy (Ross edition)",
-    "pubInfo": "ed. Tourneur. The Revenger's Tragedy. Regents Renaissance Drama Series. London: Edward Arnold, 1967. ",
+    "pubInfo": "ed. Cyril Tourneur. The Revenger's Tragedy. Regents Renaissance Drama Series. London: Edward Arnold, 1967. ",
     "authors": [
-      "tbe (male) 0_Author"
+      "Lawrence J. Ross"
     ]
   },
   "ww_2fa5a9bb2a67257a": {
@@ -847,7 +857,7 @@
     "pubInfo": "Shakespeare Studies 5 (1966-1967): 72-87.",
     "letter": "The Homiletic Tradition in Shakespeare's Plays",
     "authors": [
-      "tbe (male) 0_Author"
+      "Peter Milward"
     ]
   },
   "ww_27efae6f396668e8": {
@@ -855,7 +865,7 @@
     "title": "The Influence of Shakespeare on English Drama 1600",
     "pubInfo": "The Influence of Shakespeare on English Drama 1600-1642. Cambridge: Cambridge University Press, 1968.",
     "authors": [
-      "tbe (male) 0_Author"
+      "David L. Frost"
     ]
   },
   "ww_57b895420c0ddd3e": {
@@ -863,7 +873,7 @@
     "title": "Shp and the Classical Tradition",
     "pubInfo": "Shakespeare and the Classical Tradition: A Critical Guide to Commentary, 1660-1960. Minneapolis: University of Minnesota Press, 1968.",
     "authors": [
-      "tbe (male) 0_Author"
+      "John V. Velz"
     ]
   },
   "ww_0b652d0c80d7227e": {
@@ -885,21 +895,13 @@
       "D. Arnold Wilson"
     ]
   },
-  "ww_4899784ecc7f3845": {
-    "internalID": "@010031",
-    "title": "Shaksperes Silences",
-    "pubInfo": "Shakspere's Silences. Library of Shakespearean Biography and Criticism. New York: Books for Libraries Press, 1970. ",
-    "authors": [
-      "tbe (male) 0_Author"
-    ]
-  },
   "ww_14b8a85ddb603cdf": {
     "internalID": "@005230",
     "title": "Isocrates, Shakespeare and Calderon",
     "pubInfo": "Hispanic Review 42.2 (Spring 1974): 185-198.",
     "letter": "Isocrates, Shakespeare, and Calder\u00f3n: Advice to a Young Man",
     "authors": [
-      "tbe (male) 0_Author"
+      "Theodore J. Beardsley Jr."
     ]
   },
   "ww_b448a8b1df6fffa0": {
@@ -907,7 +909,7 @@
     "title": "The Malcontent (Hunter edition)",
     "pubInfo": "ed. The Malcontent. Manchester: Manchester University Press, 1975, repr. 1999.",
     "authors": [
-      "tbe (male) 0_Author"
+      "George K. Hunter"
     ]
   },
   "ww_08a130e81db8a98f": {
@@ -916,7 +918,7 @@
     "pubInfo": "Notes and Queries April 220 (1975): 175.",
     "letter": "Three Shakespearean Echoes",
     "authors": [
-      "tbe (male) 0_Author"
+      "Jerome W. Hogan"
     ]
   },
   "ww_450c8e303d46eae2": {
@@ -925,7 +927,7 @@
     "pubInfo": "Shakespeare Quarterly 26.3 (Summer 1975): 299-301.",
     "letter": "Hamlet and the Homilies",
     "authors": [
-      "tbe (male) 0_Author"
+      "Lawrence Rosinger"
     ]
   },
   "ww_15dba62495527dd5": {
@@ -949,15 +951,15 @@
     "title": "A Milton Encyclopedia",
     "pubInfo": "ed. A Milton Encyclopedia. Lewisburg: Bucknell University Press and London: Associated University Presses, 1978-1983. ",
     "authors": [
-      "tbe (male) 0_Author"
+      "William B. HUnter"
     ]
   },
   "ww_7ad6024748f5b7ef": {
     "internalID": "@005698",
     "title": "Parasitaster (Blostein edition)",
-    "pubInfo": "ed. Parasitaster or The Fawn. Manchester: macnhester University Press, 1978.",
+    "pubInfo": "ed. Parasitaster or The Fawn. Manchester: Manchester University Press, 1978.",
     "authors": [
-      "tbe (male) 0_Author"
+      "David A. Blostein"
     ]
   },
   "ww_e9dd31d2f114bcc9": {
@@ -971,9 +973,9 @@
   "ww_be27b70b20ad49b3": {
     "internalID": "@005697",
     "title": "The Turk (Lagarde edition)",
-    "pubInfo": "ed. John Mason. The Turk. Edited from the earliest texts with a textual introduction. Salzburg: Institut f\u00fcr Anglistik und Amerikanistik, 1979.",
+    "pubInfo": "ed. John Mason. The Turk - Edited from the earliest texts with a textual introduction. Salzburg: Institut f\u00fcr Anglistik und Amerikanistik, 1979.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Ferdinand Lagarde"
     ]
   },
   "ww_38319ddb82fae050": {
@@ -981,7 +983,7 @@
     "title": "Eastward Ho (Van Fossen edition)",
     "pubInfo": "ed. Eastward Ho. Manchester: Manchester University Press, 1979, repr. 1999.",
     "authors": [
-      "tbe (male) 0_Author"
+      "R. W. van Fossen"
     ]
   },
   "ww_ce9e48c1ecd24728": {
@@ -989,7 +991,7 @@
     "title": "John Marstons Drama ",
     "pubInfo": "John Marston's Drama: Themes, Images, Sources. Rutherford et al.: Associated Unversity Presses, 1980. ",
     "authors": [
-      "tbe (male) 0_Author"
+      "George L. Geckle"
     ]
   },
   "ww_841e89ba43cd414c": {
@@ -997,7 +999,7 @@
     "title": "The Broken Heart (Spencer edition)",
     "pubInfo": "ed. John Ford. The Broken Heart. Manchester: Manchester University Press, 1980. ",
     "authors": [
-      "tbe (male) 0_Author"
+      "T. J. B. Spencer"
     ]
   },
   "ww_359edd0d37d00410": {
@@ -1014,7 +1016,7 @@
     "pubInfo": "Poetry and Drama 1570-1700: Essays in Honour of Harold F. Brooks. Eds. Antony Coleman and Antony Hammond. London and New York: Methuen, 1981. 186-199.",
     "letter": "Congreve as a Shakespearean",
     "authors": [
-      "tbe (male) 0_Author"
+      "Thiomas Wallace Craik"
     ]
   },
   "ww_a3bdfb5ec0f62f6f": {
@@ -1030,7 +1032,7 @@
     "title": "The Insatiate Countess (Melchiori edition)",
     "pubInfo": "ed. John Marston. The Insatiate Countess. Manchester: Manchester University Press, 1984.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Giorgio Melchiori"
     ]
   },
   "ww_e45c23b640bedb8f": {
@@ -1039,7 +1041,7 @@
     "pubInfo": "Notes and Queries 124 (1984): 220-21.",
     "letter": "An Unreported Hamlet Allusion",
     "authors": [
-      "tbe (male) 0_Author"
+      "Kate G. Frost"
     ]
   },
   "ww_0dd45e53b3b0b09c": {
@@ -1048,7 +1050,7 @@
     "pubInfo": "Studies in English Literature 1500-1900 24:2 \"Elizabethan and Jacobean Drama\" Spring 1984): 275-291.",
     "letter": "Acting and Violence: The Revenger's Tragedy and Its Departures from Hamlet",
     "authors": [
-      "tbe (male) 0_Author"
+      "Harvey Scott McMillin"
     ]
   },
   "ww_0f0f2ccb24fa3b96": {
@@ -1056,7 +1058,7 @@
     "title": "The Selected Plays of John Marston (Jackson editio",
     "pubInfo": "eds. The Selected Plays of John Marston. Eds. Cambridge: Cambridge University Press, 1986.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Macdonald P. Jackson"
     ]
   },
   "ww_f4b1a8fa8f784028": {
@@ -1089,7 +1091,8 @@
     "title": "The Works of Thomas Southerne (Jordan edition)",
     "pubInfo": "eds. The Works of Thomas Southerne. 2 vols. Oxford: Clarendon Press, 1988.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Robert Jordan",
+      "Harold Love"
     ]
   },
   "ww_7c79793591d10a0c": {
@@ -1098,7 +1101,7 @@
     "pubInfo": "The Review of English Studies 39.156 (1988): 522-527. ",
     "letter": "Shakespeare, Studley, and Golding",
     "authors": [
-      "tbe (male) 0_Author"
+      "Anthony Brian Taylor"
     ]
   },
   "ww_3dd50e3c55b75ee6": {
@@ -1106,7 +1109,7 @@
     "title": "The Collected Works of Abraham Cowley",
     "pubInfo": "eds. The Collected Works of Abraham Cowley. 3 vols. Newark: University of Delaware Press, 1989.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Thomas O. Calhoun"
     ]
   },
   "ww_804d2b9aec6637b2": {
@@ -1132,15 +1135,15 @@
     "title": "Rewriting Shp, Rewriting Ourselves",
     "pubInfo": "Rewriting Shakespeare, Rewriting Ourselves. Berkeley: University of California Press, 1991.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Peter Erickson"
     ]
   },
-  "ww_1be266244661ebbf": {
-    "internalID": "@005704",
+  "ww_8cdaec1672ea3f81": {
+    "internalID": "@007504",
     "title": "The Making of the National Poet",
     "pubInfo": "The Making of the National Poet: Shakespeare, Adaptation and Authorship. Oxford: Clarendon Press, 1992.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Michael Dobson"
     ]
   },
   "ww_66c4283b87c123dd": {
@@ -1165,7 +1168,7 @@
     "title": "The Anatomy of Melancholy (Faulkner  edition)",
     "pubInfo": "ed. Robert Burton. The Anatomy of Melancholy. 6 vols. Oxford: Clarendon Press, 1994. ",
     "authors": [
-      "tbe (male) 0_Author"
+      "Thomas C. Faulkner"
     ]
   },
   "ww_b3931845d54b98d5": {
@@ -1173,7 +1176,7 @@
     "title": "Hamlet (Hibbard edition)",
     "pubInfo": "ed. William Shakespeare. Hamlet. The Oxford Shakespeare. Oxforad and New York: Oxford University Press, 1994.",
     "authors": [
-      "tbe (male) 0_Author"
+      "G. R. Hibbard"
     ]
   },
   "ww_e14966f62e338b68": {
@@ -1190,7 +1193,7 @@
     "pubInfo": "Shakespeare Survey 48: Shakespeare and Cultural Exchange. Ed. Stanley Wells. Cambridge: Cambridge University Press, 1995. 113-122.",
     "letter": "Hamlet's Last Words",
     "authors": [
-      "tbe (male) 0_Author"
+      "Tom Matheson"
     ]
   },
   "ww_444e694490140e28": {
@@ -1198,7 +1201,7 @@
     "title": "Some by Stenography",
     "pubInfo": "'\"Some by Stenography\"? Stationers, Shorthand, and the Early Shakespearean Quartos.' Papers of the Bibliographical Society of America 90.4 (1996): 417-449.",
     "authors": [
-      "tbe (female) 0_Author"
+      "Adele Davidson"
     ]
   },
   "ww_666d1ca3ab9bc2ea": {
@@ -1206,7 +1209,7 @@
     "title": "The Roaring Girl (Cook edition)",
     "pubInfo": "ed. Thomas Middleton and Thomas Dekker. The Roaring Girl. New Mermaids. London: A and C. Black, 1997.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Elizabeth Cook"
     ]
   },
   "ww_55406532e3cd0a84": {
@@ -1357,7 +1360,7 @@
     "title": "The Collected Works of Thomas Middleton (Taylor ed",
     "pubInfo": "eds. The Collected Works of Thomas Middleton. Oxford: Clarendon Press, 2007.",
     "authors": [
-      "tbe (male) 0_Author",
+      "John Lavagnino",
       "Gary Taylor"
     ]
   },
@@ -1366,7 +1369,7 @@
     "title": "Marston, Rivalry, Rapprochement and Jonson",
     "pubInfo": "Marston, Rivalry, Rapprochement and Jonson. Aldershot: Ashgate, 2008.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Charles Cathcart"
     ]
   },
   "ww_e95d4765a7973201": {
@@ -1446,7 +1449,7 @@
     "pubInfo": "The Shakespeare Circle: An Alternative Biography. Eds. Paul Edmondson and Stanley Wells. Cambridge: Cambridge University Press, 2015. 289-296.",
     "letter": "His Collaborator George Wilkins",
     "authors": [
-      "tbe (male) 0_Author"
+      "Duncan Salkeld"
     ]
   },
   "ww_c0bb45384c6abc1f": {
