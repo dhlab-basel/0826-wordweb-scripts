@@ -216,9 +216,9 @@ allContributors = prep_contributors.prepare()
 allLexias = prep_lexias.prepare()
 
 # Saves the complete objects into json files
-json.save("json/all_authors.json", allAuthors)
-json.save("json/all_books.json", allBooks)
-json.save("json/all_sec_books.json", allSecBooks)
+json.save("data/all_authors.json", allAuthors)
+json.save("data/all_books.json", allBooks)
+json.save("data/all_sec_books.json", allSecBooks)
 
 # Loads the jsons and creates objects
 authors = {}
@@ -267,7 +267,6 @@ for csv_file in csv_files:
 
                     # Checks if book_id is valid
                     if book_id not in allBooks:
-                        json.save("json/all_books.json", allBooks)
                         print("FAIL Book", book_id, row[13], line, csv_file)
                         raise SystemExit(0)
 
