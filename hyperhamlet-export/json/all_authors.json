@@ -2619,9 +2619,9 @@
     "description": "U.S. poet",
     "sql": 816
   },
-  "ww_bfb0a82439e6a4e7": {
+  "ww_32dca9fbc0b73e7d": {
     "firstName": "Henry",
-    "lastName": "Bold ",
+    "lastName": "Bold",
     "floruitExact": "1664",
     "description": "English poet",
     "sql": 4180
@@ -3912,8 +3912,10 @@
   "ww_d031de8fd298348b": {
     "firstName": "Colin",
     "lastName": "Burrow",
-    "description": "",
-    "sql": 4182
+    "birthSpanStart": "1963",
+    "birthSpanEnd": "1965",
+    "description": "English academic",
+    "sql": 4283
   },
   "ww_e3d8f7680dd8f42a": {
     "firstName": "Richard",
@@ -4833,6 +4835,13 @@
     "description": "U.K. novelist and poet",
     "sql": 3992
   },
+  "ww_40af4fdaa8bf7a1d": {
+    "firstName": "H. B.",
+    "lastName": "Charlton",
+    "floruitExact": "1933",
+    "description": "English (?) scholar",
+    "sql": 4287
+  },
   "ww_5292e9f9b3764075": {
     "firstName": "Linda M.",
     "lastName": "Charnes",
@@ -5174,6 +5183,14 @@
     "floruitExact": "1788",
     "description": "Italian composer",
     "sql": 2466
+  },
+  "ww_0a5d322c980bc944": {
+    "firstName": "John",
+    "lastName": "Cleveland",
+    "birthExact": "1613",
+    "deathExact": "1658",
+    "description": "English Royalist poet",
+    "sql": 4289
   },
   "ww_41613503d349bf66": {
     "firstName": "William",
@@ -6570,6 +6587,13 @@
     "description": "German novelist and short story writer",
     "sql": 1166
   },
+  "ww_52c61873bd0cfed4": {
+    "firstName": "Frans",
+    "lastName": "de Bruyn",
+    "floruitExact": "2008",
+    "description": "Canadian academic",
+    "sql": 4285
+  },
   "ww_9a33c1b415f75ac2": {
     "firstName": "John William",
     "lastName": "De Forest",
@@ -7556,6 +7580,12 @@
     "deathExact": "1993",
     "description": "U.S. hip-hop group",
     "sql": 2352
+  },
+  "ww_904a3011a92fb67c": {
+    "firstName": "Charles",
+    "lastName": "Edelman",
+    "description": "",
+    "sql": 4276
   },
   "ww_4600344d1c7618b9": {
     "firstName": "David",
@@ -10032,6 +10062,12 @@
     "description": "U.S. (?) novelist",
     "sql": 3795
   },
+  "ww_8448eedbac0df7d9": {
+    "firstName": "Sayre",
+    "lastName": "Greenfield",
+    "description": "",
+    "sql": 4284
+  },
   "ww_f90d14d02ddae75e": {
     "firstName": "Edward",
     "lastName": "Greenfield",
@@ -11598,6 +11634,12 @@
     "description": "U.S. educator and academic",
     "sql": 3859
   },
+  "ww_7d4f72755c62b272": {
+    "firstName": "James",
+    "lastName": "Hirsh",
+    "description": "",
+    "sql": 4275
+  },
   "ww_cd06381cd8d7bdcc": {
     "firstName": "Nicholas",
     "lastName": "Hirst",
@@ -13117,6 +13159,14 @@
     "description": "U.S. academic",
     "sql": 416
   },
+  "ww_5afc403ede1322a7": {
+    "firstName": "Jacob Sider",
+    "lastName": "Jost",
+    "birthSpanStart": "1979",
+    "birthSpanEnd": "1982",
+    "description": "U.S. academic",
+    "sql": 4281
+  },
   "ww_6854208988c98375": {
     "firstName": "Margaret",
     "lastName": "Jowett",
@@ -13975,6 +14025,13 @@
     "description": "Irish dramatist, actor and Baptist preacher",
     "sql": 900
   },
+  "ww_196318c17e1ae6d2": {
+    "firstName": "Richard",
+    "lastName": "Knowles",
+    "floruitExact": "2010",
+    "description": "U.S. academic",
+    "sql": 4286
+  },
   "ww_eec7b8371e37eb4a": {
     "firstName": "Oliver",
     "lastName": "Knussen",
@@ -14523,6 +14580,14 @@
     "deathExact": "2004",
     "description": "",
     "sql": 3828
+  },
+  "ww_7eeba8f5c3297504": {
+    "firstName": "Robert Clifford",
+    "lastName": "Latham",
+    "birthExact": "1912",
+    "deathExact": "1995",
+    "description": "English librarian and scholar",
+    "sql": 4290
   },
   "ww_fe496220283234ec": {
     "firstName": "Francis",
@@ -16406,6 +16471,14 @@
     "description": "English (?) dramatist",
     "sql": 836
   },
+  "ww_993c302bdd89aa39": {
+    "firstName": "William",
+    "lastName": "Matthews",
+    "floruitSpanStart": "1970",
+    "floruitSpanEnd": "1983",
+    "description": "British (?) scholar",
+    "sql": 4291
+  },
   "ww_9507b3d96a7908c9": {
     "firstName": "Charles Robert",
     "lastName": "Maturin",
@@ -17767,6 +17840,13 @@
     "floruitExact": "2006",
     "description": "Swiss journalist",
     "sql": 673
+  },
+  "ww_bee6ba91f2c450cd": {
+    "firstName": "Wolfgang",
+    "lastName": "M\u00fcller",
+    "floruitExact": "2006",
+    "description": "German scholar",
+    "sql": 4278
   },
   "ww_5ab6f2f080c2b4fc": {
     "firstName": "Hanspeter",
@@ -20177,6 +20257,14 @@
     "description": "U.S. (?) academic",
     "sql": 1914
   },
+  "ww_8fb09da2c31a2ddc": {
+    "firstName": "Eric",
+    "lastName": "Rasmussen",
+    "birthSpanStart": "1959",
+    "birthSpanEnd": "1963",
+    "description": "U.S. academic",
+    "sql": 4282
+  },
   "ww_66271341ffbece05": {
     "firstName": "Michael",
     "lastName": "Ratcliffe",
@@ -20506,6 +20594,12 @@
     "birthExact": "1970",
     "description": "U.S. television writer",
     "sql": 2740
+  },
+  "ww_e7afee78eca963f2": {
+    "firstName": "Neil",
+    "lastName": "Rhodes",
+    "description": "",
+    "sql": 4277
   },
   "ww_15a6172c2fcdbb1c": {
     "firstName": "Elvi",
@@ -23152,6 +23246,14 @@
     "description": "Scottish priest and scholar",
     "sql": 137
   },
+  "ww_196b962a617afbbd": {
+    "firstName": "Peter",
+    "lastName": "Stallybrass",
+    "birthSpanStart": "1950",
+    "birthSpanEnd": "1959",
+    "description": "British-born U.S. academic",
+    "sql": 4280
+  },
   "ww_87454cbdbea2a588": {
     "firstName": "Charles, Earl",
     "lastName": "Stanhope",
@@ -23396,6 +23498,13 @@
     "birthExact": "1892",
     "description": "English dramatist",
     "sql": 2202
+  },
+  "ww_4db497a9138e962c": {
+    "firstName": "Ruth",
+    "lastName": "Stevenson",
+    "floruitExact": "2002",
+    "description": "U.S. (?) academic",
+    "sql": 4274
   },
   "ww_e30cabf1b1d37be4": {
     "firstName": "Florence",
@@ -25452,6 +25561,13 @@
     "description": "English (?) fables writer",
     "sql": 3590
   },
+  "ww_30995ab4792b9a3f": {
+    "firstName": "R. D.",
+    "lastName": "Waller",
+    "floruitExact": "1933",
+    "description": "English (?) scholar",
+    "sql": 4288
+  },
   "ww_1d9ffbd1fde1bb58": {
     "firstName": "Hans",
     "lastName": "Wallrath",
@@ -26117,6 +26233,13 @@
     "deathExact": "1901",
     "description": "U.S. poet",
     "sql": 3835
+  },
+  "ww_4491e2ccf9b5d7e6": {
+    "firstName": "Charles",
+    "lastName": "Whitney",
+    "floruitExact": "2006",
+    "description": "U.S. academic",
+    "sql": 4279
   },
   "ww_13b4b2b4c73f7ee1": {
     "firstName": "John Greenleaf",

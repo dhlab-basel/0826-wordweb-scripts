@@ -156,7 +156,7 @@
   },
   "ww_599e3b499932059f": {
     "internalID": "@010066",
-    "title": "Shakespeares Testimentary Language",
+    "title": "Shakespeares Testamentary Language",
     "pubInfo": "Shakespeare's Testamentary Language. London: Longmans, Green and Co., 1869. ",
     "authors": [
       "William Lowes Rushton"
@@ -524,7 +524,8 @@
     "title": "Edward II (Charlton edition)",
     "pubInfo": "eds. Christopher Marlowe. Edward II. Eds. Charlton, H. B. and London: Methuen, 1933.",
     "authors": [
-      "tbe (male) 0_Author"
+      "H. B. Charlton",
+      "R. D. Waller"
     ]
   },
   "ww_9bd2a51773668ca5": {
@@ -895,6 +896,15 @@
       "D. Arnold Wilson"
     ]
   },
+  "ww_e5c5130f309e279d": {
+    "internalID": "@005264",
+    "title": "Diary of Samuel Pepys (Latham edition)",
+    "pubInfo": "eds. The Diary of Samuel Pepys. 11 vols. London: G. Bell and Sons, 1970-1983.",
+    "authors": [
+      "Robert Clifford Latham",
+      "William Matthews"
+    ]
+  },
   "ww_14b8a85ddb603cdf": {
     "internalID": "@005230",
     "title": "Isocrates, Shakespeare and Calderon",
@@ -992,6 +1002,14 @@
     "pubInfo": "John Marston's Drama: Themes, Images, Sources. Rutherford et al.: Associated Unversity Presses, 1980. ",
     "authors": [
       "George L. Geckle"
+    ]
+  },
+  "ww_180d7fcf961a85ac": {
+    "internalID": "@006070",
+    "title": "Unpublished notes (Straeuli)",
+    "pubInfo": "Unpublished notes.",
+    "authors": [
+      "Barbara Str\u00e4uli"
     ]
   },
   "ww_841e89ba43cd414c": {
@@ -1243,7 +1261,7 @@
     "pubInfo": "2000. http://www.barbarapaul.com/shake/hamlet.html. 22 October 2011.",
     "letter": "Titles from HAMLET",
     "authors": [
-      "tbe (female) 0_Author"
+      "Barbara Paul"
     ]
   },
   "ww_68caf0be92d6d9a9": {
@@ -1269,7 +1287,7 @@
     "pubInfo": "NLH 33.3 (2002): 435-459.",
     "letter": "Hamlet's Mice, Motes, Moles, and Miching Malecho",
     "authors": [
-      "tbe (female) 0_Author"
+      "Ruth Stevenson"
     ]
   },
   "ww_babb5a4d66fa5459": {
@@ -1277,7 +1295,7 @@
     "title": "Shakespeare and the History of Soliloquies",
     "pubInfo": "Shakespeare and the History of Soliloquies. Madison and Teaneck: Fairleigh Dickinson University Press, 2003.<br>",
     "authors": [
-      "tbe (male) 0_Author"
+      "James Hirsh"
     ]
   },
   "ww_d50c2ba82fdc30ae": {
@@ -1302,7 +1320,7 @@
     "title": "The Stukeley plays",
     "pubInfo": "ed. The Stukeley Plays. The Battle of Alcazar by George Peele, The Famous History of the Life and Death of Captain Stukeley. Manchester: Manchester University Press 2005.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Charles Edelman"
     ]
   },
   "ww_5c89e8fa112ee4e8": {
@@ -1310,7 +1328,7 @@
     "title": "Shakespeares Sayings",
     "pubInfo": "\"Shakespeare's Sayings\". Shakespeare and Elizabethan Popular Culture. Ed. Stuart Gillespie and Neil Rhodes. London: The Arden Shakespeare, 2006. 155-173.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Neil Rhodes"
     ]
   },
   "ww_d9c80276851682da": {
@@ -1318,7 +1336,7 @@
     "title": "Hamlet (Mueller edition)",
     "pubInfo": "ed. William Shakespeare. Hamlet. Englisch-deutsche Studienausgabe. T\u00fcbingen: Stauffenberg, 2006. ",
     "authors": [
-      "tbe (male) 0_Author"
+      "Wolfgang M\u00fcller"
     ]
   },
   "ww_227cc36a19286ccd": {
@@ -1326,7 +1344,7 @@
     "title": "Early Responses to Renaissance Drama",
     "pubInfo": "Early Responses to Renaissance Drama. Cambridge: Cambridge University Press, 2006.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Charles Whitney"
     ]
   },
   "ww_0de19bd63a1c9142": {
@@ -1335,7 +1353,7 @@
     "pubInfo": "PMLA 122.5 (2007):1580-1587. ",
     "letter": "Against Thinking",
     "authors": [
-      "tbe (male) 0_Author"
+      "Peter Stallybrass"
     ]
   },
   "ww_e9a54aab3c4c1154": {
@@ -1352,7 +1370,7 @@
     "title": "Looking for Hamlet",
     "pubInfo": "Looking for Hamlet. Basingstoke: Palgrave Macmillan, 2007.",
     "authors": [
-      "tbe (male) 0_Author"
+      "Marvin W. Hunt"
     ]
   },
   "ww_4ecd91ff283420a1": {
@@ -1378,7 +1396,7 @@
     "pubInfo": "Peter Sabor and Paul Yachnin. Shakespeare and the Eighteenth Century. London: Ashgate, 2008. 85-102.",
     "letter": "William Shakespeare and Edmund Burke: Literary Allusion in Eighteenth-Century British Political Rhetoric",
     "authors": [
-      "tbe (male) 0_Author"
+      "Frans de Bruyn"
     ]
   },
   "ww_91e0dc4c671938fa": {
@@ -1387,7 +1405,7 @@
     "pubInfo": "Modern Philology 105.3 (2008): 510-534.",
     "letter": "Quoting Hamlet in the Early Seventeenth Century",
     "authors": [
-      "tbe (male) 0_Author"
+      "Sayre Greenfield"
     ]
   },
   "ww_adfdbd7c6a7b7a62": {
@@ -1396,7 +1414,7 @@
     "pubInfo": "PBSA 104 (2010): 141-180.",
     "letter": "Shakespeare and Shorthand Once Again",
     "authors": [
-      "tbe (male) 0_Author"
+      "Richard Knowles"
     ]
   },
   "ww_0a299f4a7aded36a": {
@@ -1405,7 +1423,7 @@
     "pubInfo": "Medieval and Early Modern Authorship. Eds. G. Bolens and Lukas Erne. T\u00fcbingen: Gunter Narr, 2011. 175-198.",
     "letter": "Fictions of Collaboration: Authors and Editors in the Sixteenth Century",
     "authors": [
-      "tbe (male) 0_Author"
+      "Colin Burrow"
     ]
   },
   "ww_3e70301e1c6b8013": {
@@ -1414,7 +1432,7 @@
     "pubInfo": "Notes and Queries 59.1 (2012): 76-77.",
     "letter": "Hamlet's Horatio as an Allusion to Horace's Odes",
     "authors": [
-      "tbe (male) 0_Author"
+      "Jacob Sider Jost"
     ]
   },
   "ww_b908ae26c4f3afcf": {
@@ -1422,8 +1440,8 @@
     "title": "Collaborative Plays",
     "pubInfo": "eds. William Shakespeare and Others: Collaborative Plays. Basingstoke: Palgrave Macmillan, 2013.  ",
     "authors": [
-      "tbe (male) 0_Author",
-      "Sir Andrew Jonathan Bate"
+      "Sir Andrew Jonathan Bate",
+      "Eric Rasmussen"
     ]
   },
   "ww_97955539c83b9cc3": {

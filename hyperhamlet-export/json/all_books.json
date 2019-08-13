@@ -2349,11 +2349,6 @@
     "title": "The Playhouse",
     "sql": 901
   },
-  "ww_c27ccd7e86ddbc3b": {
-    "internalID": "@005155",
-    "title": "Pseudodoxia Epidemica",
-    "sql": 904
-  },
   "ww_66f4904e68ef8e77": {
     "internalID": "@005156",
     "title": "Fragmenta Aurea",
@@ -2374,9 +2369,9 @@
     "title": "The Mystery and Marrow of the Bible ",
     "sql": 908
   },
-  "ww_e89bf892a1dd9d4c": {
+  "ww_e84d1c1d6154142c": {
     "internalID": "@005160",
-    "title": "The silent soul",
+    "title": "The Silent Soul",
     "sql": 909
   },
   "ww_97132fccae612c76": {
@@ -2749,11 +2744,6 @@
     "title": "Twenty-Eight Sermons",
     "sql": 1081
   },
-  "ww_70111eab488b8bcc": {
-    "internalID": "@000000",
-    "title": "Unedited books",
-    "sql": 1083
-  },
   "ww_7a7f311401615b8e": {
     "internalID": "@005278",
     "title": "Additions to the Spanish Tragedy",
@@ -2919,8 +2909,8 @@
     "title": "Amandus and Sophronia",
     "sql": 1171
   },
-  "ww_5f4f44fc753ff815": {
-    "internalID": "@001100",
+  "ww_7fe0f76f34784ff5": {
+    "internalID": "@001064",
     "title": "Edmund Ironside",
     "sql": 1172
   },
@@ -3014,9 +3004,344 @@
     "title": "Captain Thomas Stukeley",
     "sql": 1196
   },
-  "ww_1c7f2a00f50af679": {
-    "internalID": "@010160",
-    "title": "Classical Graeco-Roman mythology",
-    "sql": 1197
+  "ww_1542bdcaf4e92049": {
+    "internalID": "@006001",
+    "title": "The Iliad",
+    "sql": 1200
+  },
+  "ww_c6303e42fd464348": {
+    "internalID": "@006002",
+    "title": "The Persians",
+    "sql": 1201
+  },
+  "ww_603b515e7c143de7": {
+    "internalID": "@006003",
+    "title": "Seven Against Thebes",
+    "sql": 1202
+  },
+  "ww_24f97723e644db8e": {
+    "internalID": "@006004",
+    "title": "Trachiniai",
+    "sql": 1203
+  },
+  "ww_7ac4aff268cca83d": {
+    "internalID": "@006005",
+    "title": "Hippolytus Crowned",
+    "sql": 1204
+  },
+  "ww_3d65268a2935a9da": {
+    "internalID": "@006006",
+    "title": "The Wasps",
+    "sql": 1205
+  },
+  "ww_1282035d8e17fdf0": {
+    "internalID": "@006007",
+    "title": "Herakles",
+    "sql": 1206
+  },
+  "ww_fc32d78361aec81a": {
+    "internalID": "@006009",
+    "title": "Orestes (Euripides)",
+    "sql": 1208
+  },
+  "ww_0047b41ff8ff5cf8": {
+    "internalID": "@006010",
+    "title": "Elektra (Sophocles)",
+    "sql": 1209
+  },
+  "ww_b1fd2e3a9b5ac30a": {
+    "internalID": "@006011",
+    "title": "Andromeda (Euripides)",
+    "sql": 1210
+  },
+  "ww_fe7b115c727a706a": {
+    "internalID": "@006012",
+    "title": "Ad Demonicum",
+    "sql": 1211
+  },
+  "ww_f21a9c63b1c5e791": {
+    "internalID": "@006013",
+    "title": "Eudemian Ethics",
+    "sql": 1212
+  },
+  "ww_21fc85400a5d9f1f": {
+    "internalID": "@006014",
+    "title": "Batrachomyomachia",
+    "sql": 1213
+  },
+  "ww_8315219a5be6a7fa": {
+    "internalID": "@006015",
+    "title": "Catonis Disticha",
+    "sql": 1214
+  },
+  "ww_546ef00f068cbdff": {
+    "internalID": "@006016",
+    "title": "Amphitruo",
+    "sql": 1215
+  },
+  "ww_fba694bbca6f4380": {
+    "internalID": "@006017",
+    "title": "Epidicus",
+    "sql": 1216
+  },
+  "ww_d54e54848bd47652": {
+    "internalID": "@006018",
+    "title": "De Oratore",
+    "sql": 1217
+  },
+  "ww_7f250db5b2f674e6": {
+    "internalID": "@006019",
+    "title": "Luctus de Morte Passeris",
+    "sql": 1218
+  },
+  "ww_6a59c62475843e4e": {
+    "internalID": "@006020",
+    "title": "De Beneficiis",
+    "sql": 1219
+  },
+  "ww_bf76f3bf04d133d6": {
+    "internalID": "@006021",
+    "title": "Epistulae Morales",
+    "sql": 1220
+  },
+  "ww_3f78f2fb55abd1eb": {
+    "internalID": "@006022",
+    "title": "Parallel Lives",
+    "sql": 1221
+  },
+  "ww_eb49fdc106752fbd": {
+    "internalID": "@006023",
+    "title": "Gesta Danorum",
+    "sql": 1222
+  },
+  "ww_3ebff57a38a0f6b9": {
+    "internalID": "@006024",
+    "title": "Der bestrafte Brudermord",
+    "sql": 1223
+  },
+  "ww_767bbb25cb5f2ee1": {
+    "internalID": "@006025",
+    "title": "On the Execution of Archbishop Laud",
+    "sql": 1224
+  },
+  "ww_755f662b5f5bf710": {
+    "internalID": "@006026",
+    "title": "A Vindication of Dr Hammonds Address",
+    "sql": 1225
+  },
+  "ww_3c8b749ced8a9412": {
+    "internalID": "@006027",
+    "title": "Clarastella",
+    "sql": 1226
+  },
+  "ww_f199cfde13151fb2": {
+    "internalID": "@006028",
+    "title": "Virginia",
+    "sql": 1227
+  },
+  "ww_431a6ab165ad4f22": {
+    "internalID": "@006029",
+    "title": "The Saints Everlasting Rest",
+    "sql": 1228
+  },
+  "ww_48416dc87795b969": {
+    "internalID": "@006030",
+    "title": "The Flower of Fidelity",
+    "sql": 1229
+  },
+  "ww_357f61b2476e862d": {
+    "internalID": "@006031",
+    "title": "Philosophical Rudiments Concerning Government and Societ",
+    "sql": 1230
+  },
+  "ww_a13a1658b3b4e0f2": {
+    "internalID": "@006032",
+    "title": "Select Discourses",
+    "sql": 1231
+  },
+  "ww_50252be95e444aa3": {
+    "internalID": "@006033",
+    "title": "The Commonwealth of Oceana",
+    "sql": 1232
+  },
+  "ww_7a83ff41ea7ade4f": {
+    "internalID": "@006034",
+    "title": "Davideis",
+    "sql": 1233
+  },
+  "ww_c8502cd466b5da72": {
+    "internalID": "@006035",
+    "title": "A Treatise on Conversion",
+    "sql": 1234
+  },
+  "ww_322f738c006a31d2": {
+    "internalID": "@006036",
+    "title": "To My Sister Ann King, Who Chid Me in Verse for Being An",
+    "sql": 1235
+  },
+  "ww_f206840240092837": {
+    "internalID": "@006037",
+    "title": "A Few Sighs From Hell",
+    "sql": 1236
+  },
+  "ww_de8b536374e2d437": {
+    "internalID": "@006038",
+    "title": "Pharonnida",
+    "sql": 1237
+  },
+  "ww_cf3570b2708cc102": {
+    "internalID": "@006039",
+    "title": "The Lord Henry Cromwells Speech in the House",
+    "sql": 1238
+  },
+  "ww_bd4dff842f8bc0f9": {
+    "internalID": "@006040",
+    "title": "Short Discourse",
+    "sql": 1239
+  },
+  "ww_d35968508e400c34": {
+    "internalID": "@006041",
+    "title": "History of the Worthies of England",
+    "sql": 1240
+  },
+  "ww_9f935384b4d905d4": {
+    "internalID": "@006042",
+    "title": "The Wits",
+    "sql": 1241
+  },
+  "ww_0a21b881126b70a2": {
+    "internalID": "@006043",
+    "title": "Poem (Henry Bold)",
+    "sql": 1242
+  },
+  "ww_53feab5ba0c6e832": {
+    "internalID": "@006044",
+    "title": "Diary (Pepys)",
+    "sql": 1243
+  },
+  "ww_4a1b85d6fb916c53": {
+    "internalID": "@006045",
+    "title": "Christian Morals",
+    "sql": 1244
+  },
+  "ww_8fec80861d9f582a": {
+    "internalID": "@006046",
+    "title": "Of Heroic Plays",
+    "sql": 1245
+  },
+  "ww_6997a0cc5cf5468c": {
+    "internalID": "@006047",
+    "title": "Of Adoration in Spirit and Truth",
+    "sql": 1246
+  },
+  "ww_2d8cfa06525c14b7": {
+    "internalID": "@006048",
+    "title": "Maronides",
+    "sql": 1247
+  },
+  "ww_9fd0d94ef5da3bd5": {
+    "internalID": "@006049",
+    "title": "The Rehearsal Transprosed Part 2",
+    "sql": 1248
+  },
+  "ww_15ef656910526d8c": {
+    "internalID": "@006050",
+    "title": "Notes and Observations on the Empress of Morocco",
+    "sql": 1249
+  },
+  "ww_d4c7ee49440b4f36": {
+    "internalID": "@006051",
+    "title": "An Essay Upon Satire",
+    "sql": 1250
+  },
+  "ww_9ad0f758f9796829": {
+    "internalID": "@006052",
+    "title": "Ballad of the New Married Couple",
+    "sql": 1251
+  },
+  "ww_ace31175b4f6f1b3": {
+    "internalID": "@006053",
+    "title": "A Sermon Preached at the Funeral of Mr. Henry Stubbs",
+    "sql": 1252
+  },
+  "ww_9ebbdd42f334ba36": {
+    "internalID": "@006054",
+    "title": "The Character of a Country-Committee-Man",
+    "sql": 1253
+  },
+  "ww_3c705be67b89bab8": {
+    "internalID": "@006055",
+    "title": "Hudibras",
+    "sql": 1254
+  },
+  "ww_5d1637107e119cf3": {
+    "internalID": "@006056",
+    "title": "A Dialogue between the Resolved Soul and Created Pleasur",
+    "sql": 1255
+  },
+  "ww_9261f8610dc1d694": {
+    "internalID": "@006057",
+    "title": "Five Love-Letters from a Nun to a Cavalier",
+    "sql": 1256
+  },
+  "ww_821518e323a90be4": {
+    "internalID": "@006058",
+    "title": "Troilus and Cressida (Dryden)",
+    "sql": 1257
+  },
+  "ww_b3515ed78c8dc8bd": {
+    "internalID": "@006059",
+    "title": "Psalm Thirty-One",
+    "sql": 1258
+  },
+  "ww_aac277609a23776a": {
+    "internalID": "@006060",
+    "title": "An Idea of Happiness",
+    "sql": 1259
+  },
+  "ww_eb7ee957e5733f4a": {
+    "internalID": "@006061",
+    "title": "The Observator",
+    "sql": 1260
+  },
+  "ww_5c60931b9852bed4": {
+    "internalID": "@006062",
+    "title": "Dives and Lazarus",
+    "sql": 1261
+  },
+  "ww_609c5fa79e727ebf": {
+    "internalID": "@006063",
+    "title": "Advice to an Old Man of Sixty-Three, about to Marry a Gi",
+    "sql": 1262
+  },
+  "ww_44dcfc7c3079b93f": {
+    "internalID": "@006064",
+    "title": "Letters of Sir George Etherege",
+    "sql": 1263
+  },
+  "ww_1a085ff30395d8ca": {
+    "internalID": "@006065",
+    "title": "Poems on Several Occasions (Cotton)",
+    "sql": 1264
+  },
+  "ww_836a5c15b395e964": {
+    "internalID": "@006066",
+    "title": "Cynthia",
+    "sql": 1265
+  },
+  "ww_a748dfac62273e2a": {
+    "internalID": "@006067",
+    "title": "To Alexis in Answer to His Poem against Fruition",
+    "sql": 1266
+  },
+  "ww_aa7341f1f0fa5583": {
+    "internalID": "@006068",
+    "title": "Caroloiades",
+    "sql": 1267
+  },
+  "ww_ae477e27104ae454": {
+    "internalID": "@006069",
+    "title": "To be or not to be (Pepys)",
+    "sql": 1268
   }
 }
