@@ -28,11 +28,11 @@ import prep_sec_books
 import prep_lexias
 
 json_files = [
-    "json/author.json",
-    "json/book.json",
-    "json/passage.json",
-    "json/contributor.json",
-    "json/lexia.json"
+    "../00_data_as_json/author.json",
+    "../00_data_as_json/book.json",
+    "../00_data_as_json/passage.json",
+    "../00_data_as_json/contributor.json",
+    "../00_data_as_json/lexia.json"
 ]
 
 csv_files = [
@@ -40,7 +40,7 @@ csv_files = [
     "csv/export_2.csv",
     "csv/export_3.csv",
     "csv/export_4.csv",
-    "csv/export_5.csv"
+    # "csv/export_5.csv"
 ]
 
 
@@ -216,9 +216,9 @@ allContributors = prep_contributors.prepare()
 allLexias = prep_lexias.prepare()
 
 # Saves the complete objects into json files
-json.save("data/all_authors.json", allAuthors)
-json.save("data/all_books.json", allBooks)
-json.save("data/all_sec_books.json", allSecBooks)
+json.save("all_data/all_authors.json", allAuthors)
+json.save("all_data/all_books.json", allBooks)
+json.save("all_data/all_sec_books.json", allSecBooks)
 
 # Loads the jsons and creates objects
 authors = {}
