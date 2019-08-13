@@ -64,9 +64,9 @@ def prepare():
         for row in results:
             lexias = re.search('(\w\w)(\w\w)#(\d{6})\s(.*)', row['name'])
 
-            if lexias:
-
-                print(structure.get(lexias.group(1), "fail " + lexias.group(1)))
+            # if lexias:
+            #
+            #     print(structure.get(lexias.group(1), "fail " + lexias.group(1)))
 
         conn.close()
         cursor.close()
