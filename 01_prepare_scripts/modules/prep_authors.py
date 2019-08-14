@@ -115,8 +115,9 @@ def prepare():
                     # add description
                     description = birthDeath.group(1) + birthDeath.group(10)
 
-                # add description to author after it has trimmed the string
-                author["description"] = description.rstrip()
+                if description.strip():
+                    # add description to author after it has trimmed the string
+                    author["description"] = description.rstrip()
 
             # Create a key which has the following format{firstName lastName}
             unique_key = "{} {}".format(author["firstName"], author["lastName"])

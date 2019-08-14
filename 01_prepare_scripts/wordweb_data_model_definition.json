@@ -57,6 +57,23 @@
           },
           "properties": [
             {
+              "name": "authorInternalId",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Internal ID",
+                "de": "Interne ID"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "0-1"
+            },
+            {
               "name": "firstName",
               "super": [
                 "hasValue",
@@ -179,6 +196,23 @@
           },
           "properties": [
             {
+              "name": "bookInternalId",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Internal ID",
+                "de": "Interne ID"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "0-1"
+            },
+            {
               "name": "isWrittenBy",
               "super": [
                 "hasLinkTo"
@@ -221,7 +255,7 @@
               "gui_element": "Textarea",
               "cardinality": "0-1"
             },
-                        {
+            {
               "name": "editionHist",
               "super": [
                 "hasValue"
@@ -380,6 +414,23 @@
           },
           "properties": [
             {
+              "name": "lexiaInternalId",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Internal ID",
+                "de": "Interne ID"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "0-1"
+            },
+            {
               "name": "formalClass",
               "super": [
                 "hasValue"
@@ -395,37 +446,6 @@
                 "maxlength=64"
               ],
               "cardinality": "0-1"
-            }
-          ]
-        },
-        {
-          "name": "id",
-          "super": "Resource",
-          "labels": {
-            "en": "identifier",
-            "de": "Identifikator"
-          },
-          "comments": {
-            "en": "Represents an identifier",
-            "de": "Repräsentiert einen Identifikator"
-          },
-          "properties": [
-            {
-              "name": "internalID",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Internal ID",
-                "de": "Interne ID"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "1"
             }
           ]
         }

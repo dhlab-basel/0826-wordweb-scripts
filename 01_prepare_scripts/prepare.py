@@ -80,12 +80,10 @@ def create_author(auth_id):
 
 def create_book(b_id, data_row, pub_info, pub_or_info):
     book = {
-        "internalID": allBooks[b_id]["internalID"],
+        "bookInternalId": allBooks[b_id]["bookInternalId"],
         "edition": pub_info["pubInfo"],
-        "createdDate": data_row[5],
-        "publishDate": data_row[6],
-        "licenseDate": data_row[7],
-        "firstPerformanceDate": data_row[8],
+        "createdDate": "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
+        "publishDate": "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
         "isWrittenBy": []
     }
 
@@ -119,10 +117,9 @@ def update_book(b_id, auth_names):
 
 def create_sec_book(sec_b_id, pub_info):
     book = {
-        "internalID": allSecBooks[sec_b_id]["internalID"],
+        "bookInternalId": allSecBooks[sec_b_id]["bookInternalId"],
         "edition": pub_info["pubInfo"],
-        "isWrittenBy": [],
-        "isSecondary": True
+        "isWrittenBy": []
     }
 
     if "letter" in pub_info:
@@ -180,8 +177,7 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id):
 def create_sec_passage(sec_pa_id, pag):
     passage = {
         "page": pag,
-        "occursIn": [],
-        "isSecondaryPassage": True
+        "occursIn": []
     }
 
     passages[sec_pa_id] = passage

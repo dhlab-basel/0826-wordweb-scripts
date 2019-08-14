@@ -45,11 +45,11 @@ def prepare():
                 if sec:
                     # id of the linecategory row in table
                     # print("SEC ID: " + books.group(1) + " | SEC TITLE: " + sec.group(1))
-                    book["internalID"] = books.group(1)
+                    book["bookInternalId"] = books.group(1)
                     book["title"] = sec.group(1)
 
                     # Create a key which has the following format {internalID}
-                    unique_key = book["internalID"]
+                    unique_key = book["bookInternalId"]
 
                     # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
                     book_id = id.generate(unique_key)
@@ -88,7 +88,7 @@ def prepare_csv():
                     # print(row[13], row[2])
                     sec_books = re.search("(@\d{6})\sSEC\s\-\s(.*)", row[13])
                     if sec_books:
-                        sec_book["internalID"] = sec_books.group(1)
+                        sec_book["bookInternalId"] = sec_books.group(1)
                         sec_book["title"] = sec_books.group(2)
 
                         s = ed.info(row[4])
@@ -117,7 +117,7 @@ def prepare_csv():
                         sec_book["authors"] = authors
 
                         # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
-                        sec_book_id = id.generate(sec_book["internalID"])
+                        sec_book_id = id.generate(sec_book["bookInternalId"])
 
                         # Adding the book to the allBooks object
                         all_sec_books[sec_book_id] = sec_book

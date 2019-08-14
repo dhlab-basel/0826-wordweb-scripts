@@ -35,11 +35,11 @@ def prepare():
 
                 if not sec:
                     # print("ID: " + books.group(1) + " | TITLE: " + books.group(2))
-                    book["internalID"] = books.group(1)
+                    book["bookInternalId"] = books.group(1)
                     book["title"] = books.group(2)
 
                     # Create a key which has the following format {internalID title}
-                    unique_key = "{} {}".format(book["internalID"], book["title"])
+                    unique_key = "{} {}".format(book["bookInternalId"], book["title"])
 
                     # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
                     book_id = id.generate(unique_key)
