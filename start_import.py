@@ -2,10 +2,8 @@
 import sys
 
 # defining path for module imports
-sys.path.append("01_prepare_scripts/modules/")
-# defining path for module imports
 sys.path.append("01_prepare_scripts/")
-# defining path for module imports
+sys.path.append("01_prepare_scripts/modules/")
 sys.path.append("02_import_scripts/")
 
 # module import for preparing data
