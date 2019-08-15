@@ -1,8 +1,3 @@
-# system library
-import sys
-# defining path for module imports
-sys.path.append("modules/")
-
 # mySQL library
 import pymysql
 # Regex library

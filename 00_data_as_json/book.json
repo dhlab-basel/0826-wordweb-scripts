@@ -452,8 +452,8 @@
     "edition": "The Shakspere Allusion Book: A Collection of Allusions to Shakspere from 1591 to 1700 [...]. London: Chatto and Windus; New York: Duffield and Co., 1909.",
     "isWrittenBy": [
       "ww_26c25538fa69a566",
-      "ww_a60ff4964db613ee",
       "ww_fb550941e6e9db62",
+      "ww_a60ff4964db613ee",
       "ww_4c146e6d2ef23a03"
     ],
     "title": "The Shakspere Allusion Book"
@@ -495,8 +495,8 @@
     "createdDate": "GREGORIAN:1592:1592",
     "publishDate": "GREGORIAN:1592:1592",
     "isWrittenBy": [
-      "ww_684176b58bc762f6",
-      "ww_7468c79b15d734b3"
+      "ww_7468c79b15d734b3",
+      "ww_684176b58bc762f6"
     ],
     "title": "Titus Andronicus"
   },
@@ -548,10 +548,10 @@
     "bookInternalId": "@010084",
     "edition": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts.",
     "isWrittenBy": [
-      "ww_c8fa0de8d0fc2fc4",
       "ww_386448c09c02ba3f",
-      "ww_55f5e9f5fe14853f",
-      "ww_4d01a832f50d804e"
+      "ww_c8fa0de8d0fc2fc4",
+      "ww_4d01a832f50d804e",
+      "ww_55f5e9f5fe14853f"
     ],
     "title": "FDT - Folger Digital Texts"
   },
@@ -1042,8 +1042,8 @@
     "bookInternalId": "@010021",
     "edition": "eds. The Works of Thomas Southerne. 2 vols. Oxford: Clarendon Press, 1988.",
     "isWrittenBy": [
-      "ww_ea90e1c76029f901",
-      "ww_c11600e212e4417a"
+      "ww_c11600e212e4417a",
+      "ww_ea90e1c76029f901"
     ],
     "title": "The Works of Thomas Southerne (Jordan edition)"
   },
@@ -1192,8 +1192,8 @@
     "isWrittenBy": [
       "ww_f10aec8cfe5ff90d",
       "ww_d78940f8a8554ca3",
-      "ww_87dbd52f1c5b813b",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_87dbd52f1c5b813b"
     ],
     "title": "Sir Thomas Wyatt",
     "editionOriginal": "The Famous History of Sir Thomas Wyat. With the Coronation of Queen Mary and the coming in of King Philip. As it was plaied by the Queens Maiesties Seruants. London: E. A. for Thomas Archer, 1607."
@@ -1234,8 +1234,8 @@
     "createdDate": "GREGORIAN:1604:1604",
     "publishDate": "GREGORIAN:1604:1604",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_87dbd52f1c5b813b"
     ],
     "title": "Westward Ho",
     "editionOriginal": "The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 2, 311-404."
@@ -1333,9 +1333,9 @@
     "createdDate": "GREGORIAN:1605:1605",
     "publishDate": "GREGORIAN:1605:1605",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
       "ww_8501ec457f433848",
-      "ww_9b2d545e20d62482"
+      "ww_9b2d545e20d62482",
+      "ww_ad03d7c87e5b9c24"
     ],
     "title": "Eastward Hoe",
     "editionOriginal": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 3:83-174."
@@ -1354,8 +1354,8 @@
     "createdDate": "GREGORIAN:1605:1605",
     "publishDate": "GREGORIAN:1605:1605",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_87dbd52f1c5b813b"
     ],
     "title": "North-Ward Hoe",
     "editionOriginal": "North-Ward Hoe, Sundry times Acted by the Children of Paules. By Thomas Decker, and Iohn Webster. London: G. Eld, 1607."
@@ -1449,8 +1449,8 @@
     "createdDate": "GREGORIAN:1607:1607",
     "publishDate": "GREGORIAN:1607:1607",
     "isWrittenBy": [
-      "ww_684176b58bc762f6",
-      "ww_986dd93d2d794ff5"
+      "ww_986dd93d2d794ff5",
+      "ww_684176b58bc762f6"
     ],
     "title": "Pericles"
   },
@@ -1781,8 +1781,8 @@
     "createdDate": "GREGORIAN:1619:1619",
     "publishDate": "GREGORIAN:1619:1619",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_8926bbeaa7c56023"
+      "ww_8926bbeaa7c56023",
+      "ww_cbc2c3284144573a"
     ],
     "title": "The Fatal Dowry",
     "editionOriginal": "The Fatall Dovvry: a Tragedy. As it hath beene often Acted at the Priuate House in Blackefryers, by his Maiesties Seruants. Written by P. M. and N. F. London: John Norton, for Francis Constable, 1632."
@@ -1805,8 +1805,8 @@
     "createdDate": "GREGORIAN:1620:1620",
     "publishDate": "GREGORIAN:1620:1620",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_cbc2c3284144573a"
     ],
     "title": "The Virgin Martyr",
     "editionOriginal": "The Virgin Martir, A Tragedie, As it hath bin divers times publickely Acted with great Applause, By the seruants of his Maiesties Reuels. Written by Phillip Messenger and Thomas Deker. London: B. A. for Thomas Jones, 1622."
@@ -2263,8 +2263,8 @@
     "createdDate": "GREGORIAN:1642:1642",
     "publishDate": "GREGORIAN:1642:1642",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
-      "ww_6f4a80592c6c793c"
+      "ww_6f4a80592c6c793c",
+      "ww_8501ec457f433848"
     ],
     "title": "Revenge for Honour: A Tragedy"
   },
@@ -2605,8 +2605,8 @@
     "createdDate": "GREGORIAN:1561:1561",
     "publishDate": "GREGORIAN:1561:1561",
     "isWrittenBy": [
-      "ww_3d7f30bfa784adbc",
-      "ww_7af335e6c892a8d0"
+      "ww_7af335e6c892a8d0",
+      "ww_3d7f30bfa784adbc"
     ],
     "title": "Gorboduc",
     "editionOriginal": "The Tragedie of Gorbodvc, where of three Actes were wrytten by Thomas Nortone, and the two laste by Thomas Sackuyle. Sett forthe as the same was shewed before the Qvenes most excellent Maiestie, in her highnes Court of Whitehall, the xviii. day of Ianuary, Anno Domini. 1561. London: William Griffith, 1565."
@@ -2773,8 +2773,8 @@
     "createdDate": "GREGORIAN:1593:1593",
     "publishDate": "GREGORIAN:1593:1593",
     "isWrittenBy": [
-      "ww_63d5fe36ffac5d32",
-      "ww_8501ec457f433848"
+      "ww_8501ec457f433848",
+      "ww_63d5fe36ffac5d32"
     ],
     "title": "Hero and Leander",
     "editionOriginal": "Hero and Leander: Begun by Christopher Marloe; and finished by George Chapman. London: Felix Kingston for Paule Linley, 1598."
@@ -2928,8 +2928,8 @@
     "bookInternalId": "@010010",
     "edition": "eds. William Shakespeare and Others: Collaborative Plays. Basingstoke: Palgrave Macmillan, 2013.  ",
     "isWrittenBy": [
-      "ww_360a194801e33346",
-      "ww_8fb09da2c31a2ddc"
+      "ww_8fb09da2c31a2ddc",
+      "ww_360a194801e33346"
     ],
     "title": "Collaborative Plays"
   },
@@ -3319,8 +3319,8 @@
     "createdDate": "GREGORIAN:1610:1610",
     "publishDate": "GREGORIAN:1610:1610",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
       "ww_4165dddf64bc6da3",
+      "ww_ad03d7c87e5b9c24",
       "ww_18abf85e413e5632"
     ],
     "title": "The Insatiate Countess"
@@ -3756,8 +3756,8 @@
     "createdDate": "GREGORIAN:1561:1561",
     "publishDate": "GREGORIAN:1561:1561",
     "isWrittenBy": [
-      "ww_6b7b6aabda5c7c6b",
-      "ww_2328c74af1f27243"
+      "ww_2328c74af1f27243",
+      "ww_6b7b6aabda5c7c6b"
     ],
     "title": "Those Five Questions (Tusculanae)"
   },
@@ -4275,8 +4275,8 @@
     "createdDate": "GREGORIAN:1588:1588",
     "publishDate": "GREGORIAN:1588:1588",
     "isWrittenBy": [
-      "ww_63d5fe36ffac5d32",
-      "ww_9e2e58504b5d3de8"
+      "ww_9e2e58504b5d3de8",
+      "ww_63d5fe36ffac5d32"
     ],
     "title": "Dido, Queen of Carthage"
   },
@@ -4700,8 +4700,8 @@
     "createdDate": "GREGORIAN:1601:1601",
     "publishDate": "GREGORIAN:1601:1601",
     "isWrittenBy": [
-      "ww_6189bca8bbb55fc5",
-      "ww_fba1842c561811bb"
+      "ww_fba1842c561811bb",
+      "ww_6189bca8bbb55fc5"
     ],
     "title": "A Summary Answer",
     "editionOriginal": "A summarie ansvvere to al the material points in any of Master Darel his bookes More especiallie to that one booke of his, intituled, the Doctrine of the possession and dispossession of demoniaks out of the word of God. By Iohn Deacon. Iohn Walker. Preachers. London: George Bishop, 1601."
@@ -4916,8 +4916,8 @@
     "createdDate": "GREGORIAN:1613:1613",
     "publishDate": "GREGORIAN:1613:1613",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
       "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a",
       "ww_ba2bed49492fef13",
       "ww_8926bbeaa7c56023"
     ],
@@ -4951,9 +4951,9 @@
     "createdDate": "GREGORIAN:1619:1619",
     "publishDate": "GREGORIAN:1619:1619",
     "isWrittenBy": [
+      "ww_060fb51fdafb3cc5",
       "ww_39384a524a7bafbe",
-      "ww_02a32352c63afb30",
-      "ww_060fb51fdafb3cc5"
+      "ww_02a32352c63afb30"
     ],
     "title": "Memento to Mortalitie",
     "editionOriginal": "A helpe to discourse. Or, A miscelany of merriment Consisting of wittie, philosophical and astronomicall questions and answers. As also, of epigrams, epitaphs, riddles, and iests [...]. London: Bernard Alsop for Leonard Becket, 1619. 187-190."
@@ -5237,9 +5237,9 @@
     "createdDate": "GREGORIAN:1510:1540",
     "publishDate": "GREGORIAN:1510:1540",
     "isWrittenBy": [
-      "ww_4f4a27981f1d2a14",
       "ww_2527046b014ff66d",
-      "ww_9a8e158285763a3c"
+      "ww_9a8e158285763a3c",
+      "ww_4f4a27981f1d2a14"
     ],
     "title": "Brevissima Institutio"
   },
@@ -5995,8 +5995,8 @@
     "bookInternalId": "@005264",
     "edition": "eds. The Diary of Samuel Pepys. 11 vols. London: G. Bell and Sons, 1970-1983.",
     "isWrittenBy": [
-      "ww_7eeba8f5c3297504",
-      "ww_993c302bdd89aa39"
+      "ww_993c302bdd89aa39",
+      "ww_7eeba8f5c3297504"
     ],
     "title": "Diary of Samuel Pepys (Latham edition)"
   },

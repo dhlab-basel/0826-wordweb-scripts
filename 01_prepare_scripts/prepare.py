@@ -5,9 +5,6 @@ import sys
 # random library
 import random
 
-# defining path for module imports
-sys.path.append("modules/")
-
 # helper for edition
 import helper_edition as ed
 # helper for secondary literature
@@ -27,21 +24,45 @@ import prep_sec_books
 # preparation for lexias
 import prep_lexias
 
-json_files = [
-    "../00_data_as_json/author.json",
-    "../00_data_as_json/book.json",
-    "../00_data_as_json/passage.json",
-    "../00_data_as_json/contributor.json",
-    "../00_data_as_json/lexia.json"
-]
 
 csv_files = [
-    "csv/export_1.csv",
-    "csv/export_2.csv",
-    "csv/export_3.csv",
-    "csv/export_4.csv",
-    # "csv/export_5.csv"
+    "01_prepare_scripts/csv/export_1.csv",
+    "01_prepare_scripts/csv/export_2.csv",
+    "01_prepare_scripts/csv/export_3.csv",
+    "01_prepare_scripts/csv/export_4.csv",
+    # "01_prepare_scripts/csv/export_5.csv"
 ]
+
+# Prepare all data
+allAuthors = prep_authors.prepare()
+allBooks = prep_books.prepare()
+allSecBooks = prep_sec_books.prepare_csv()
+allContributors = prep_contributors.prepare()
+allLexias = prep_lexias.prepare()
+
+# Saves all data the into json files
+json.save("01_prepare_scripts/all_data/all_authors.json", allAuthors)
+json.save("01_prepare_scripts/all_data/all_books.json", allBooks)
+json.save("01_prepare_scripts/all_data/all_sec_books.json", allSecBooks)
+
+json_files = [
+    "00_data_as_json/author.json",
+    "00_data_as_json/book.json",
+    "00_data_as_json/passage.json",
+    "00_data_as_json/contributor.json",
+    "00_data_as_json/lexia.json"
+]
+
+# Clears all json files
+for file in json_files:
+    json.clear(file)
+
+# Loads the jsons and creates objects
+authors = {}
+books = {}
+contributors = {}
+lexia = {}
+passages = {}
 
 
 def create_author(auth_id):
@@ -200,148 +221,126 @@ def create_contributor(co_id):
     contributors[co_id] = contributor
 
 
-# Clears all json files
-for file in json_files:
-    json.clear(file)
+def start():
+    # Reads the csv files
+    for csv_file in csv_files:
 
-# Prepare all authors
-allAuthors = prep_authors.prepare()
-allBooks = prep_books.prepare()
-allSecBooks = prep_sec_books.prepare_csv()
-allContributors = prep_contributors.prepare()
-allLexias = prep_lexias.prepare()
+        try:
+            with open(csv_file) as f:
+                csv_reader = csv.reader(f, delimiter=';')
 
-# Saves the complete objects into json files
-json.save("all_data/all_authors.json", allAuthors)
-json.save("all_data/all_books.json", allBooks)
-json.save("all_data/all_sec_books.json", allSecBooks)
+                # line number in csv file
+                line = 0
 
-# Loads the jsons and creates objects
-authors = {}
-books = {}
-contributors = {}
-lexia = {}
-passages = {}
+                for row in csv_reader:
 
-# Reads the csv files
-for csv_file in csv_files:
+                    # Skip first row with column title
+                    if line is not 0:
 
-    try:
-        with open(csv_file) as f:
-            csv_reader = csv.reader(f, delimiter=';')
+                        # ---------- AUTHOR
+                        # Multiple names of authors
+                        names = row[2].split(" / ")
 
-            # line number in csv file
-            line = 0
+                        # Iterates through the names per entry
+                        for name in names:
 
-            for row in csv_reader:
+                            # Generates author id
+                            author_id = id.generate(name)
 
-                # Skip first row with column title
-                if line is not 0:
+                            # Checks if author_id is valid
+                            if author_id not in allAuthors:
+                                print("FAIL Author", author_id)
+                                raise SystemExit(0)
 
-                    # ---------- AUTHOR
-                    # Multiple names of authors
-                    names = row[2].split(" / ")
+                            # Checks if author already exists
+                            if author_id not in authors:
+                                create_author(author_id)
 
-                    # Iterates through the names per entry
-                    for name in names:
+                        # ---------- BOOK
+                        # generates book id
+                        book_id = id.generate(row[13])
 
-                        # Generates author id
-                        author_id = id.generate(name)
-
-                        # Checks if author_id is valid
-                        if author_id not in allAuthors:
-                            print("FAIL Author", author_id)
+                        # Checks if book_id is valid
+                        if book_id not in allBooks:
+                            print("FAIL Book", book_id, row[13], line, csv_file)
                             raise SystemExit(0)
 
-                        # Checks if author already exists
-                        if author_id not in authors:
-                            create_author(author_id)
+                        publication = ed.info(row[4])
+                        publication_original = ed.info(row[26])
 
-                    # ---------- BOOK
-                    # generates book id
-                    book_id = id.generate(row[13])
+                        # Creates the book and updates the author references
+                        if book_id not in books:
+                            create_book(book_id, row, publication, publication_original)
+                            update_book(book_id, names)
+                        else:
+                            update_book(book_id, names)
 
-                    # Checks if book_id is valid
-                    if book_id not in allBooks:
-                        print("FAIL Book", book_id, row[13], line, csv_file)
-                        raise SystemExit(0)
+                        # ------------- PASSAGE
+                        # generates passage id
+                        passage_id = id.generate(row[10])
 
-                    publication = ed.info(row[4])
-                    publication_original = ed.info(row[26])
+                        # Creates the passage and updates the edition reference
+                        if passage_id not in passages:
+                            create_passage(passage_id, row[10], row[25])
+                            update_passage(passage_id, book_id, None, None)
+                        else:
+                            update_passage(passage_id, book_id, None, None)
 
-                    # Creates the book and updates the author references
-                    if book_id not in books:
-                        create_book(book_id, row, publication, publication_original)
-                        update_book(book_id, names)
-                    else:
-                        update_book(book_id, names)
+                        # ------------- CONTRIBUTOR
+                        # generates contributor id
+                        contributor_id = id.generate(row[27].strip())
 
-                    # ------------- PASSAGE
-                    # generates passage id
-                    passage_id = id.generate(row[10])
-
-                    # Creates the passage and updates the edition reference
-                    if passage_id not in passages:
-                        create_passage(passage_id, row[10], row[25])
-                        update_passage(passage_id, book_id, None, None)
-                    else:
-                        update_passage(passage_id, book_id, None, None)
-
-                    # ------------- CONTRIBUTOR
-                    # generates contributor id
-                    contributor_id = id.generate(row[27].strip())
-
-                    # Checks if contributor_id is valid
-                    if contributor_id not in allContributors:
-                        print("FAIL Contributor", contributor_id, csv_file, line)
-                        raise SystemExit(0)
-
-                    # Creates the contributor and updates the passage reference
-                    if contributor_id not in contributors:
-                        create_contributor(contributor_id)
-                        update_passage(passage_id, None, contributor_id, None)
-                    else:
-                        update_passage(passage_id, None, contributor_id, None)
-
-                    # -------------- SECONDARY BOOK
-                    sec_books = sec.info(row[24], line, csv_file)
-
-                    for sec_book in sec_books:
-
-                        sec_book_id = id.generate(sec_book["id"])
-
-                        # Checks if sec book id is valid
-                        if sec_book_id not in allSecBooks:
-                            print("FAIL Secondary Book", sec_book["id"], csv_file, line, row[24])
+                        # Checks if contributor_id is valid
+                        if contributor_id not in allContributors:
+                            print("FAIL Contributor", contributor_id, csv_file, line)
                             raise SystemExit(0)
 
-                        s_book = allSecBooks[sec_book_id]
-
-                        if sec_book_id not in books:
-                            create_sec_book(sec_book_id, s_book)
-                            update_sec_book(sec_book_id, s_book["authors"])
+                        # Creates the contributor and updates the passage reference
+                        if contributor_id not in contributors:
+                            create_contributor(contributor_id)
+                            update_passage(passage_id, None, contributor_id, None)
                         else:
-                            update_sec_book(sec_book_id, s_book["authors"])
+                            update_passage(passage_id, None, contributor_id, None)
 
-                        if sec_book["page"] == "no page":
-                            unique_key = random.randint(100000, 999999)
-                        else:
-                            unique_key = "{} {}".format(sec_book["id"], sec_book["page"])
+                        # -------------- SECONDARY BOOK
+                        sec_books = sec.info(row[24], line, csv_file)
 
-                        sec_passage_id = id.generate(str(unique_key))
-                        create_sec_passage(sec_passage_id, sec_book["page"])
-                        update_sec_passage(sec_passage_id, sec_book_id)
-                        update_passage(passage_id, None, None, sec_passage_id)
+                        for sec_book in sec_books:
 
-                line += 1
+                            sec_book_id = id.generate(sec_book["id"])
 
-    except Exception as err:
-        print("FAIL: start.py", err)
-        raise SystemExit(0)
+                            # Checks if sec book id is valid
+                            if sec_book_id not in allSecBooks:
+                                print("FAIL Secondary Book", sec_book["id"], csv_file, line, row[24])
+                                raise SystemExit(0)
 
-# Saves the objects which occurs in the csv files in to json files
-json.save(json_files[0], authors)
-json.save(json_files[1], books)
-json.save(json_files[2], passages)
-json.save(json_files[3], contributors)
-json.save(json_files[4], lexia)
+                            s_book = allSecBooks[sec_book_id]
+
+                            if sec_book_id not in books:
+                                create_sec_book(sec_book_id, s_book)
+                                update_sec_book(sec_book_id, s_book["authors"])
+                            else:
+                                update_sec_book(sec_book_id, s_book["authors"])
+
+                            if sec_book["page"] == "no page":
+                                unique_key = random.randint(100000, 999999)
+                            else:
+                                unique_key = "{} {}".format(sec_book["id"], sec_book["page"])
+
+                            sec_passage_id = id.generate(str(unique_key))
+                            create_sec_passage(sec_passage_id, sec_book["page"])
+                            update_sec_passage(sec_passage_id, sec_book_id)
+                            update_passage(passage_id, None, None, sec_passage_id)
+
+                    line += 1
+
+        except Exception as err:
+            print("FAIL: start.py", err)
+            raise SystemExit(0)
+
+    # Saves the objects which occurs in the csv files in to json files
+    json.save(json_files[0], authors)
+    json.save(json_files[1], books)
+    json.save(json_files[2], passages)
+    json.save(json_files[3], contributors)
+    json.save(json_files[4], lexia)

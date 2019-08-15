@@ -2,15 +2,8 @@
 import pymysql
 # Regex library
 import re
-# JSON library
-import json
 # csv library
 import csv
-# system library
-import sys
-
-# defining path for module imports
-sys.path.append("modules/")
 
 # helper for edition
 import helper_edition as ed
@@ -71,7 +64,7 @@ def prepare():
 
 def prepare_csv():
     try:
-        with open( "csv/sec.csv") as f:
+        with open("01_prepare_scripts/csv/sec.csv") as f:
             csv_reader = csv.reader(f, delimiter=';')
 
             # line number in csv file

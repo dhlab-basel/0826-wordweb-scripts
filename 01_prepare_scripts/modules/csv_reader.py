@@ -1,9 +1,5 @@
-# regex library
-import re
 # csv library
 import csv
-# system library
-import sys
 
 
 # Loading files

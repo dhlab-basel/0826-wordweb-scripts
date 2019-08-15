@@ -1,5 +1,3 @@
-# system library
-import sys
 # Regex library
 import re
 
