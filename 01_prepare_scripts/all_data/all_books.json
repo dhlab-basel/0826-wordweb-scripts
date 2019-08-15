@@ -164,9 +164,9 @@
     "title": "The Young Admiral",
     "sql": 399
   },
-  "ww_072e96a1d5daf891": {
+  "ww_38c906962ba7629a": {
     "bookInternalId": "@005456",
-    "title": "Divine and Philosophical Conference",
+    "title": "A Divine and Philosophical Conference",
     "sql": 400
   },
   "ww_485a54b3b41dff9b": {
@@ -834,9 +834,9 @@
     "title": "The Faerie Queene",
     "sql": 542
   },
-  "ww_6537b55ae5d5d08e": {
+  "ww_c373e74239c178a8": {
     "bookInternalId": "@005001",
-    "title": "Swinburne Last Testaments and Wills",
+    "title": "A Brief Treatise of Testaments and Last Wills",
     "sql": 543
   },
   "ww_7fdb5d1a8d96cea5": {
@@ -1049,9 +1049,9 @@
     "title": "Deaths Welcome",
     "sql": 594
   },
-  "ww_5d1545778124ee33": {
+  "ww_dc7d1d212ce7e04d": {
     "bookInternalId": "@005583",
-    "title": "Book of Common Prayer",
+    "title": "The Book of Common Prayer",
     "sql": 597
   },
   "ww_1498e206f1d8071e": {
@@ -2179,9 +2179,9 @@
     "title": "Tom o Lincoln",
     "sql": 859
   },
-  "ww_815d02de76530a0f": {
+  "ww_a098807155d60ffb": {
     "bookInternalId": "@005126",
-    "title": "The Philosophers Banquet",
+    "title": "The Philosophers Banquet, First edition",
     "sql": 860
   },
   "ww_dd97da09761ee8f2": {
@@ -2424,9 +2424,9 @@
     "title": "Ars Amatoria",
     "sql": 920
   },
-  "ww_764fb7ee10face7b": {
+  "ww_92ec47c98c627653": {
     "bookInternalId": "@005170",
-    "title": " Institutio Oratoria ",
+    "title": "Institutio Oratoria",
     "sql": 922
   },
   "ww_19945219a7c5599a": {
@@ -3344,14 +3344,19 @@
     "title": "To be or not to be (Pepys)",
     "sql": 1268
   },
-  "ww_9bc8ee3a75045e44": {
+  "ww_cb99cb0b515526a9": {
     "bookInternalId": "@000904",
-    "title": "Selimus",
+    "title": "The Tragical Reign of Selimus",
     "sql": 1271
   },
   "ww_131d2042080b33a4": {
     "bookInternalId": "@006072",
     "title": "The Scourge of Villany Corrected",
     "sql": 1273
+  },
+  "ww_140420bc4592a478": {
+    "bookInternalId": "@000000",
+    "title": "All non-author humans",
+    "sql": 1274
   }
 }

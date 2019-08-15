@@ -17,6 +17,9 @@ def start():
         with open('00_data_as_json/book.json') as books_file:
             books = json.load(books_file)
 
+        with open('00_data_as_json/contributor.json') as contributors_file:
+            contributors = json.load(contributors_file)
+
     except Exception as err:
         print(err, "Import Fail")
         raise SystemExit(0)
@@ -47,13 +50,22 @@ def start():
             authors[author]
         )
 
-    for book in books:
+    for contributor in contributors:
+
         ww_bulk_object.add_resource(
-            "book",
-            book,
-            "book label",
-            books[book]
+            "person",
+            contributor,
+            "person label",
+            contributors[contributor]
         )
+
+    # for book in books:
+    #     ww_bulk_object.add_resource(
+    #         "book",
+    #         book,
+    #         "book label",
+    #         books[book]
+    #     )
     #
     # buch1 = {}
     # buch1["title"] = "Romeo und Julia"

@@ -15,4 +15,4 @@ import import_to_knora as imp
 # preparing the data and storing them as jsons in folder 00_data_as_json
 prep.start()
 # importing the data from json to knora
-# imp.start()
+imp.start()

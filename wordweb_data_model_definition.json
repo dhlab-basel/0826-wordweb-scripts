@@ -179,7 +179,7 @@
               "gui_attributes": [
                 "hlist=sex"
               ],
-              "cardinality": "1"
+              "cardinality": "0-1"
             }
           ]
         },

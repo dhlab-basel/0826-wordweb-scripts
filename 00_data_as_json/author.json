@@ -43,7 +43,7 @@
     "firstName": "Geoffrey",
     "lastName": "Chaucer",
     "hasSex": "male",
-    "description": "English poet  @007005",
+    "description": "English poet  #007005",
     "birthDate": "GREGORIAN:1343",
     "deathDate": "GREGORIAN:1400"
   },
@@ -266,7 +266,7 @@
     "firstName": "William",
     "lastName": "Shakespeare",
     "hasSex": "male",
-    "description": "English dramatist and poet  @007000",
+    "description": "English dramatist and poet  #007000",
     "birthDate": "GREGORIAN:1564",
     "deathDate": "GREGORIAN:1616"
   },
@@ -1073,7 +1073,7 @@
     "firstName": "Sir Thomas",
     "lastName": "Sackville",
     "hasSex": "male",
-    "description": "English politician, poet and dramatist  @007009",
+    "description": "English politician, poet and dramatist  #007009",
     "birthDate": "GREGORIAN:1536",
     "deathDate": "GREGORIAN:1608"
   },
@@ -1598,6 +1598,14 @@
     "lastName": "Seneca",
     "hasSex": "male"
   },
+  "ww_a256d6059e2044ff": {
+    "firstName": "John",
+    "lastName": "Studley ",
+    "hasSex": "male",
+    "description": "English translator",
+    "birthDate": "GREGORIAN:1544:1546",
+    "deathDate": "GREGORIAN:1573:1595"
+  },
   "ww_25024aa23d16ec79": {
     "firstName": "Anthony Brian",
     "lastName": "Taylor",
@@ -2101,24 +2109,6 @@
     "description": "English dramatist and songwriter",
     "birthDate": "GREGORIAN:1653",
     "deathDate": "GREGORIAN:1723"
-  },
-  "ww_9d6793c88da79727": {
-    "firstName": "Publius",
-    "lastName": "Terentius Afer",
-    "hasSex": "male"
-  },
-  "ww_d8fac036ba8d11bb": {
-    "firstName": "Sir John",
-    "lastName": "Bowring",
-    "hasSex": "male",
-    "description": "English scholar and Governor of Hong Kong",
-    "birthDate": "GREGORIAN:1792",
-    "deathDate": "GREGORIAN:1872"
-  },
-  "ww_5b8458bfe144b4bf": {
-    "firstName": "Marcus Fabius",
-    "lastName": "Quintilianus",
-    "hasSex": "male"
   },
   "ww_9a8e158285763a3c": {
     "firstName": "Desiderius",

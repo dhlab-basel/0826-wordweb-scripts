@@ -1861,14 +1861,6 @@
     "description": "English dramatist and poet",
     "sql": 217
   },
-  "ww_c868c54371df6a09": {
-    "firstName": "Fran\u00e7ois de",
-    "lastName": "Belleforest",
-    "birthExact": "1530",
-    "deathExact": "1583",
-    "description": "French poet and translator",
-    "sql": 1860
-  },
   "ww_83c349a7b2c08d90": {
     "firstName": "Saul",
     "lastName": "Bellow",
@@ -3154,6 +3146,13 @@
     "description": "U.S. scholar",
     "sql": 4219
   },
+  "ww_fd0b3545953a41f0": {
+    "firstName": "John",
+    "lastName": "Brinsley the Elder",
+    "floruitExact": "1581",
+    "description": "English schoolmaster \u20131624",
+    "sql": 4292
+  },
   "ww_0570b0d92c4bcff5": {
     "firstName": "Margaret Sutton ",
     "lastName": "Briscoe ",
@@ -3759,7 +3758,7 @@
     "lastName": "Burbage",
     "birthExact": "1567",
     "deathExact": "1619",
-    "description": "English actor  @007012",
+    "description": "English actor  #007012",
     "sql": 4172
   },
   "ww_69ec2ecb753348b7": {
@@ -4864,7 +4863,7 @@
     "lastName": "Chaucer",
     "birthExact": "1343",
     "deathExact": "1400",
-    "description": "English poet  @007005",
+    "description": "English poet  #007005",
     "sql": 2329
   },
   "ww_7f79cc4b810078ad": {
@@ -5483,7 +5482,7 @@
     "lastName": "Condell",
     "birthExact": "1576",
     "deathExact": "1627",
-    "description": "English actor  @007010",
+    "description": "English actor  #007010",
     "sql": 4173
   },
   "ww_96df7728aadf9745": {
@@ -5899,14 +5898,6 @@
     "deathExact": "1932",
     "description": "U.S. poet",
     "sql": 2641
-  },
-  "ww_ac21c8585ae8d224": {
-    "firstName": "Thomas",
-    "lastName": "Cranmer",
-    "birthExact": "1489",
-    "deathExact": "1556",
-    "description": "English theologian and bishop Thomas Cranmer",
-    "sql": 4013
   },
   "ww_bc63500abf1713d9": {
     "firstName": "Wes",
@@ -13527,7 +13518,7 @@
     "firstName": "William",
     "lastName": "Kempe",
     "deathExact": "1603",
-    "description": "English comic actor , also known as Will Kemp @007014",
+    "description": "English comic actor , also known as Will Kemp #007014",
     "sql": 4134
   },
   "ww_f22323cdf8a7fef0": {
@@ -20561,7 +20552,7 @@
     "lastName": "Richard III",
     "birthExact": "1452",
     "deathExact": "1485",
-    "description": "King of England  @007004",
+    "description": "King of England  #007004",
     "sql": 4170
   },
   "ww_ab3b51902f11864a": {
@@ -21272,7 +21263,7 @@
     "lastName": "Sackville",
     "birthExact": "1536",
     "deathExact": "1608",
-    "description": "English politician, poet and dramatist  @007009",
+    "description": "English politician, poet and dramatist  #007009",
     "sql": 3041
   },
   "ww_6a3004c0c56f329c": {
@@ -21979,7 +21970,7 @@
     "lastName": "Shakespeare",
     "birthExact": "1564",
     "deathExact": "1616",
-    "description": "English dramatist and poet  @007000",
+    "description": "English dramatist and poet  #007000",
     "sql": 1282
   },
   "ww_b6a99c50126ffacb": {
@@ -23886,11 +23877,6 @@
     "description": "English poet",
     "sql": 3631
   },
-  "ww_bac027beb39f021b": {
-    "firstName": "Gaius Cornelius ",
-    "lastName": "Tacitus",
-    "sql": 4093
-  },
   "ww_6c949f9bbd3edad8": {
     "firstName": "Stella Esther Ortweiler",
     "lastName": "Tagnin",
@@ -23911,7 +23897,7 @@
     "lastName": "Talbot",
     "birthExact": "1387",
     "deathExact": "1453",
-    "description": "English military commander  @007011",
+    "description": "English military commander  #007011",
     "sql": 4178
   },
   "ww_8ed0f0315ce8fc6a": {
@@ -24997,14 +24983,6 @@
     "deathExact": "1957",
     "description": "English dramatist",
     "sql": 1677
-  },
-  "ww_73ed04c96f994524": {
-    "firstName": "Anthony",
-    "lastName": "Van Dyck",
-    "birthExact": "1599",
-    "deathExact": "1641",
-    "description": "Flemish painter",
-    "sql": 3869
   },
   "ww_ffda69614c20093e": {
     "firstName": "Henry",
@@ -26782,14 +26760,6 @@
     "birthExact": "1941",
     "description": "U.S. dramatist",
     "sql": 1094
-  },
-  "ww_787ee45e447ef65f": {
-    "firstName": "Andrew",
-    "lastName": "Yarranton",
-    "birthExact": "1616",
-    "deathExact": "1684",
-    "description": "English engineer",
-    "sql": 4014
   },
   "ww_2a3b4daed2941136": {
     "firstName": "James",
