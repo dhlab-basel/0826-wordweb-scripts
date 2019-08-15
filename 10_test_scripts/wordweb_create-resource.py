@@ -4,7 +4,7 @@ from pprint import pprint
 import argparse
 import json
 from jsonschema import validate
-from knora import KnoraError, knora, BulkImport
+from knora import KnoraError, Knora, BulkImport
 import requests
 
 
@@ -18,7 +18,8 @@ parser.add_argument("-O", "--ontoname", default="teimww", help="Shortname of ont
 args = parser.parse_args()
 
 
-con = knora(args.server, args.user, args.password)
+con = Knora(args.server)
+con.login(args.user, args.password)
 schema = con.create_schema(args.projectcode, args.ontoname)
 
 #res_info1 = con.create_resource(schema, "book", "test-book", {

@@ -44,6 +44,7 @@ allLexias = prep_lexias.prepare()
 json.save("01_prepare_scripts/all_data/all_authors.json", allAuthors)
 json.save("01_prepare_scripts/all_data/all_books.json", allBooks)
 json.save("01_prepare_scripts/all_data/all_sec_books.json", allSecBooks)
+json.save("01_prepare_scripts/all_data/all_lexias.json", allLexias)
 
 json_files = [
     "00_data_as_json/author.json",
@@ -105,7 +106,8 @@ def create_book(b_id, data_row, pub_info, pub_or_info):
         "edition": pub_info["pubInfo"],
         "createdDate": "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
         "publishDate": "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
-        "isWrittenBy": []
+        "isWrittenBy": [],
+        "hasLanguage": data_row[9]
     }
 
     if "letter" in pub_info:

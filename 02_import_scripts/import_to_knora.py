@@ -4,7 +4,7 @@ from pprint import pprint
 import argparse
 import json
 from jsonschema import validate
-from knora import KnoraError, knora, BulkImport
+from knora import KnoraError, Knora, BulkImport
 import requests
 import sys
 
@@ -17,14 +17,15 @@ def start():
         with open('00_data_as_json/book.json') as books_file:
             books = json.load(books_file)
 
+        with open('00_data_as_json/passage.json') as passages_file:
+            passages = json.load(passages_file)
+
         with open('00_data_as_json/contributor.json') as contributors_file:
             contributors = json.load(contributors_file)
 
     except Exception as err:
         print(err, "Import Fail")
         raise SystemExit(0)
-
-
 
     parser = argparse.ArgumentParser()
     parser.add_argument("-s", "--server", type=str, default="http://0.0.0.0:3333", help="URL of the Knora server")
@@ -35,7 +36,8 @@ def start():
 
     args = parser.parse_args()
 
-    con = knora(args.server, args.user, args.password)
+    con = Knora(args.server)
+    con.login(args.user, args.password)
     schema = con.create_schema(args.projectcode, args.ontoname)
 
     ww_bulk_xml = "./test-bulk-output.xml"
@@ -59,13 +61,22 @@ def start():
             contributors[contributor]
         )
 
-    # for book in books:
-    #     ww_bulk_object.add_resource(
-    #         "book",
-    #         book,
-    #         "book label",
-    #         books[book]
-    #     )
+    for book in books:
+        ww_bulk_object.add_resource(
+            "book",
+            book,
+            "book label",
+            books[book]
+        )
+
+    for passage in passages:
+        ww_bulk_object.add_resource(
+            "passage",
+            passage,
+            "passage label",
+            passages[passage]
+        )
+
     #
     # buch1 = {}
     # buch1["title"] = "Romeo und Julia"

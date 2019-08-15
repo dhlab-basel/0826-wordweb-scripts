@@ -14,10 +14,14 @@
     <p0826-teimww:deathDate knoraType="date_value">GREGORIAN:1616</p0826-teimww:deathDate>
     <p0826-teimww:description knoraType="richtext_value">English Dramatist</p0826-teimww:description>
     <p0826-teimww:firstName knoraType="richtext_value">William</p0826-teimww:firstName>
-    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/uoDpXZbkQ_65JktkIIcYMg</p0826-teimww:hasSex>
+    <p0826-teimww:hasSex knoraType="hlist_value">http://rdfh.ch/lists/0826/m7AlCbqxRGuTne3FPyhd_w</p0826-teimww:hasSex>
     <p0826-teimww:internalID knoraType="richtext_value">&amp;000001</p0826-teimww:internalID>
-    <p0826-teimww:isAuthorOf knoraType="link_value" linkType="ref" target="B_01"/>
-    <p0826-teimww:isAuthorOf knoraType="link_value" linkType="ref" target="B_02"/>
+    <p0826-teimww:isAuthorOf>
+      <p0826-teimww:book knoraType="link_value" linkType="ref" target="B_01"/>
+    </p0826-teimww:isAuthorOf>
+    <p0826-teimww:isAuthorOf>
+      <p0826-teimww:book knoraType="link_value" linkType="ref" target="B_02"/>
+    </p0826-teimww:isAuthorOf>
     <p0826-teimww:lastName knoraType="richtext_value">Shakespeare</p0826-teimww:lastName>
   </p0826-teimww:person>
 </knoraXmlImport:resources>

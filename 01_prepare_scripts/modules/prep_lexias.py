@@ -1,49 +1,10 @@
 # mySQL library
 import pymysql
-# Regex library
-import re
-# JSON library
-import json
 
+# helper for edition
+import helper_lexia as ed
 # my id generator
 import id_generator as id
-
-structure = {
-    "Wo": {
-        "value": "Woertlich",
-        "child": {
-            "Mo": "Word",
-            "Ph": "Phrase or sentence",
-            "Sn": "Snowclone",
-            "Pa": "Passage"
-        }
-    },
-    "Ve": {
-        "value": "Verbal",
-        "child": {
-            "Kw": "Keywords",
-            "Sp": "Setpiece"
-        }
-    },
-    "Na": {
-        "value": "Name",
-        "child": {
-            "Mo": "Motif with Name",
-            "Hu": "Human",
-            "Ca": "Character",
-            "Ve": "Venue or place",
-            "Bo": "Book"
-        }
-    },
-    "Su": {
-        "value": "Summarised",
-        "child": {
-            "Id": "Idea",
-            "Mo": "Motif",
-            "Pl": "Plot",
-            "Sc": "Scene"
-        }}
-}
 
 
 def prepare():
@@ -62,11 +23,12 @@ def prepare():
         all_lexia = {}
 
         for row in results:
-            lexias = re.search('(\w\w)(\w\w)#(\d{6})\s(.*)', row['name'])
 
-            # if lexias:
-            #
-            #     print(structure.get(lexias.group(1), "fail " + lexias.group(1)))
+            lexia = ed.info(row["name"], None, None)
+
+            if lexia:
+                lexia_id = id.generate(lexia["lexiaInternalId"])
+                all_lexia[lexia_id] = lexia
 
         conn.close()
         cursor.close()

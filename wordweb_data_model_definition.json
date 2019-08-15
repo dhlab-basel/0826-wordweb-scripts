@@ -269,6 +269,23 @@
               "cardinality": "0-1"
             },
             {
+              "name": "hasLanguage",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "language",
+                "de": "Sprache"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "0-1"
+            },
+            {
               "name": "createdDate",
               "super": [
                 "hasValue"
@@ -422,6 +439,23 @@
               "labels": {
                 "en": "Internal ID",
                 "de": "Interne ID"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
+            },
+            {
+              "name": "lexiaTitle",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Title",
+                "de": "Titel"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
