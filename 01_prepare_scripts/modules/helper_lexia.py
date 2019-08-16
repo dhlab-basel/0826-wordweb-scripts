@@ -54,13 +54,13 @@ def info(text, line, csv_file):
 
     lexia = {}
 
-    lexia_info = re.search("(\w\w)(\w\w)(#\d{6})\s(.*)", text)
+    lexia_info = re.search("^(\w\w)(\w\w)((#|@)\d{6})\s(.*)", text)
 
     if lexia_info:
 
         lexia = {
             "lexiaInternalId": lexia_info.group(3),
-            "lexiaTitle": lexia_info.group(4)
+            "lexiaTitle": lexia_info.group(5)
         }
 
         if structure.get(lexia_info.group(1)):

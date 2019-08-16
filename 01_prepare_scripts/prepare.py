@@ -9,6 +9,8 @@ import random
 import helper_edition as ed
 # helper for secondary literature
 import helper_secondary as sec
+# helper for lexia
+import helper_lexia as lex
 # my id generator
 import id_generator as id
 # my json handler
@@ -62,7 +64,7 @@ for file in json_files:
 authors = {}
 books = {}
 contributors = {}
-lexia = {}
+lexias = {}
 passages = {}
 
 
@@ -173,7 +175,8 @@ def create_passage(pa_id, text, text_or):
     passage = {
         "text": text,
         "occursIn": [],
-        "isMentionedIn": []
+        "isMentionedIn": [],
+        "contains": []
     }
 
     if text_or:
@@ -182,7 +185,7 @@ def create_passage(pa_id, text, text_or):
     passages[pa_id] = passage
 
 
-def update_passage(pa_id, bo_id, co_or_id, sec_pa_id):
+def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id):
     if bo_id:
         temp = set(passages[pa_id]["occursIn"])
         temp.add(bo_id)
@@ -195,6 +198,11 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id):
         temp = set(passages[pa_id]["isMentionedIn"])
         temp.add(sec_pa_id)
         passages[pa_id]["isMentionedIn"] = list(temp)
+
+    if lex_id:
+        temp = set(passages[pa_id]["contains"])
+        temp.add(lex_id)
+        passages[pa_id]["contains"] = list(temp)
 
 
 def create_sec_passage(sec_pa_id, pag):
@@ -221,6 +229,10 @@ def create_contributor(co_id):
     }
 
     contributors[co_id] = contributor
+
+
+def create_lexia(lex_id, le):
+    lexias[lex_id] = le
 
 
 def start():
@@ -284,9 +296,9 @@ def start():
                         # Creates the passage and updates the edition reference
                         if passage_id not in passages:
                             create_passage(passage_id, row[10], row[25])
-                            update_passage(passage_id, book_id, None, None)
+                            update_passage(passage_id, book_id, None, None, None)
                         else:
-                            update_passage(passage_id, book_id, None, None)
+                            update_passage(passage_id, book_id, None, None, None)
 
                         # ------------- CONTRIBUTOR
                         # generates contributor id
@@ -300,9 +312,9 @@ def start():
                         # Creates the contributor and updates the passage reference
                         if contributor_id not in contributors:
                             create_contributor(contributor_id)
-                            update_passage(passage_id, None, contributor_id, None)
+                            update_passage(passage_id, None, contributor_id, None, None)
                         else:
-                            update_passage(passage_id, None, contributor_id, None)
+                            update_passage(passage_id, None, contributor_id, None, None)
 
                         # -------------- SECONDARY BOOK
                         sec_books = sec.info(row[24], line, csv_file)
@@ -332,7 +344,26 @@ def start():
                             sec_passage_id = id.generate(str(unique_key))
                             create_sec_passage(sec_passage_id, sec_book["page"])
                             update_sec_passage(sec_passage_id, sec_book_id)
-                            update_passage(passage_id, None, None, sec_passage_id)
+                            update_passage(passage_id, None, None, sec_passage_id, None)
+
+                        # --------------- LEXIA
+                        # Multiple names of authors
+                        lex_names = row[15].split(" / ")
+
+                        for lex_name in lex_names:
+                            le = lex.info(lex_name, line, csv_file)
+
+                            lexia_id = id.generate(le["lexiaInternalId"])
+
+                            if lexia_id not in allLexias:
+                                print("FAIL Lexia", lexia_id, le, line, csv_file)
+                                raise SystemExit(0)
+
+                            if lexia_id not in lexias:
+                                create_lexia(lexia_id, le)
+                                update_passage(passage_id, None, None, None, lexia_id)
+                            else:
+                                update_passage(passage_id, None, None, None, lexia_id)
 
                     line += 1
 
@@ -345,4 +376,4 @@ def start():
     json.save(json_files[1], books)
     json.save(json_files[2], passages)
     json.save(json_files[3], contributors)
-    json.save(json_files[4], lexia)
+    json.save(json_files[4], lexias)

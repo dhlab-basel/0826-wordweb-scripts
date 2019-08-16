@@ -378,7 +378,7 @@
               "cardinality": "0-n"
             },
             {
-              "name": "mentionedIn",
+              "name": "isMentionedIn",
               "super": [
                 "hasLinkTo"
               ],
@@ -391,7 +391,7 @@
               "cardinality": "0-n"
             },
             {
-              "name": "wasContributed",
+              "name": "wasContributedBy",
               "super": [
                 "hasLinkTo"
               ],
@@ -404,7 +404,7 @@
               "cardinality": "0-n"
             },
             {
-              "name": "cointains",
+              "name": "contains",
               "super": [
                 "hasLinkTo"
               ],

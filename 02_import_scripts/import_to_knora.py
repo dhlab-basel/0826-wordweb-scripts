@@ -23,6 +23,9 @@ def start():
         with open('00_data_as_json/contributor.json') as contributors_file:
             contributors = json.load(contributors_file)
 
+        with open('00_data_as_json/lexia.json') as lexias_files:
+            lexias = json.load(lexias_files)
+
     except Exception as err:
         print(err, "Import Fail")
         raise SystemExit(0)
@@ -48,7 +51,7 @@ def start():
         ww_bulk_object.add_resource(
             "person",
             author,
-            "person label",
+            "person",
             authors[author]
         )
 
@@ -57,7 +60,7 @@ def start():
         ww_bulk_object.add_resource(
             "person",
             contributor,
-            "person label",
+            "person",
             contributors[contributor]
         )
 
@@ -65,7 +68,7 @@ def start():
         ww_bulk_object.add_resource(
             "book",
             book,
-            "book label",
+            "book",
             books[book]
         )
 
@@ -73,8 +76,16 @@ def start():
         ww_bulk_object.add_resource(
             "passage",
             passage,
-            "passage label",
+            "passage",
             passages[passage]
+        )
+
+    for lexia in lexias:
+        ww_bulk_object.add_resource(
+            "lexia",
+            lexia,
+            "lexia",
+            lexias[lexia]
         )
 
     #
