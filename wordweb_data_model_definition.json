@@ -352,16 +352,63 @@
           },
           "properties": [
             {
-              "name": "text",
+              "name": "hasText",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "text passage",
+                "en": "has text",
                 "de": "Textpassage"
               },
               "gui_element": "Textarea",
+              "cardinality": "0-1"
+            },
+            {
+              "name": "hasTextHist",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "has text hist",
+                "de": "Textpassage hist."
+              },
+              "gui_element": "Textarea",
+              "cardinality": "0-1"
+            },
+            {
+              "name": "hasPage",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "has page",
+                "de": "Seitenzahl"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "0-1"
+            },
+            {
+              "name": "hasPageHist",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "has page hist",
+                "de": "Seitenzahl hist."
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
               "cardinality": "0-1"
             },
             {

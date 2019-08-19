@@ -6,7 +6,6 @@ import json
 from jsonschema import validate
 from knora import KnoraError, Knora, BulkImport
 import requests
-import sys
 
 
 def start():
@@ -51,7 +50,7 @@ def start():
         ww_bulk_object.add_resource(
             "person",
             author,
-            "person",
+            "{} {}".format(authors[author]["firstName"], authors[author]["lastName"]),
             authors[author]
         )
 
@@ -68,7 +67,7 @@ def start():
         ww_bulk_object.add_resource(
             "book",
             book,
-            "book",
+            books[book]["title"][:16],
             books[book]
         )
 
@@ -84,49 +83,10 @@ def start():
         ww_bulk_object.add_resource(
             "lexia",
             lexia,
-            "lexia",
+            lexias[lexia]["lexiaTitle"][:16],
             lexias[lexia]
         )
 
-    #
-    # buch1 = {}
-    # buch1["title"] = "Romeo und Julia"
-    #
-    # buch2 = {}
-    # buch2["title"] = "Hamlet"
-    #
-    # person = {
-    #     "internalID": "&000001",
-    #     "firstName": "William",
-    #     "lastName": "Shakespeare",
-    #     "description": "English Dramatist",
-    #     "birthDate": "GREGORIAN:1564",
-    #     "deathDate": "GREGORIAN:1616",
-    #     "isAuthorOf": ["B_01", "B_02"],
-    #     "hasSex": "male"
-    # }
-    #
-    # ww_bulk_object.add_resource(
-    #     "book",
-    #     "B_01",
-    #     "buch label",
-    #     buch1
-    # )
-    #
-    # ww_bulk_object.add_resource(
-    #     "book",
-    #     "B_02",
-    #     "buch label",
-    #     buch2
-    # )
-    #
-    # ww_bulk_object.add_resource(
-    #     "person",
-    #     "P_01",
-    #     "person label",
-    #     person
-    # )
-    #
     BULKIMPORT_API_ENDPOINT="http://localhost:3333/v1/resources/xmlimport/http%3A%2F%2Frdfh.ch%2Fprojects%2F0826"
     headers = {"Content-Type": "application/xml"}
 

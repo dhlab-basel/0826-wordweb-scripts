@@ -14,6 +14,8 @@ def info(text):
 
         if bib:
 
+            edition["page"] = bib.group(3).strip()
+
             letter = re.search("\"(.+?)\.?\"\s(.+)", bib.group(2))
 
             if letter:
