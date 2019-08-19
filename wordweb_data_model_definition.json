@@ -38,6 +38,293 @@
             }
           }
         ]
+      },
+      {
+        "name": "language",
+        "labels": {
+          "de": "Sprache",
+          "en": "language"
+        },
+        "nodes": [
+          {
+            "name": "English",
+            "labels": {
+              "de": "Englisch",
+              "en": "English"
+            }
+          },
+          {
+            "name": "Latin",
+            "labels": {
+              "de": "Latein",
+              "en": "Latin"
+            }
+          },
+          {
+            "name": "German",
+            "labels": {
+              "de": "Deutsch",
+              "en": "German"
+            }
+          },
+          {
+            "name": "French",
+            "labels": {
+              "de": "Französisch",
+              "en": "French"
+            }
+          },
+          {
+            "name": "Russian",
+            "labels": {
+              "de": "Russisch",
+              "en": "Russian"
+            }
+          },
+          {
+            "name": "Italian",
+            "labels": {
+              "de": "Italienisch",
+              "en": "Italian"
+            }
+          },
+          {
+            "name": "Eastern and Northern European languages",
+            "labels": {
+              "de": "Ost- und Nordeuropäische Sprachen",
+              "en": "Eastern and Northern European languages"
+            }
+          },
+          {
+            "name": "Asian languages",
+            "labels": {
+              "de": "Asiatische Sprachen",
+              "en": "Asian languages"
+            }
+          },
+          {
+            "name": "Classical Greek",
+            "labels": {
+              "de": "Klassisch griechisch",
+              "en": "Classical Greek"
+            }
+          },
+          {
+            "name": "Hebrew",
+            "labels": {
+              "de": "Hebräisch",
+              "en": "Hebrew"
+            }
+          },
+          {
+            "name": "Portuguese and Spanish",
+            "labels": {
+              "de": "Portugisisch und Spanisch",
+              "en": "Portuguese and Spanish"
+            }
+          },
+          {
+            "name": "New Testament Greek",
+            "labels": {
+              "de": "Neues Testament griechisch",
+              "en": "New Testament Greek"
+            }
+          }
+        ]
+      },
+      {
+        "name": "formalClass",
+        "labels": {
+          "de": "Formale Klasse",
+          "en": "Formal class"
+        },
+        "nodes": [
+          {
+            "name": "Wörtlich",
+            "labels": {
+              "de": "Wörtlich",
+              "en": "Wordlike"
+            },
+            "nodes": [
+              {
+                "name": "Word",
+                "labels": {
+                  "de": "Wort",
+                  "en": "Word"
+                }
+              },
+              {
+                "name": "Phrase or sentence",
+                "labels": {
+                  "de": "Phrase oder Satz",
+                  "en": "Phrase or sentence"
+                }
+              },
+              {
+                "name": "Passage",
+                "labels": {
+                  "de": "Passage",
+                  "en": "Passage"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Verbal",
+            "labels": {
+              "de": "Verbal",
+              "en": "Verbal"
+            },
+            "nodes": [
+              {
+                "name": "Keywords",
+                "labels": {
+                  "de": "Schlüsselwort",
+                  "en": "Keywords"
+                }
+              },
+              {
+                "name": "Snowclone",
+                "labels": {
+                  "de": "???",
+                  "en": "Snowclone"
+                }
+              },
+              {
+                "name": "Setpiece",
+                "labels": {
+                  "de": "???",
+                  "en": "Setpiece"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Name",
+            "labels": {
+              "de": "Name",
+              "en": "Name"
+            },
+            "nodes": [
+              {
+                "name": "Motif with Name",
+                "labels": {
+                  "de": "Motive mit Name",
+                  "en": "Motif with Name"
+                }
+              },
+              {
+                "name": "Human",
+                "labels": {
+                  "de": "Mensch",
+                  "en": "Human"
+                }
+              },
+              {
+                "name": "Character",
+                "labels": {
+                  "de": "Character",
+                  "en": "Character"
+                }
+              },
+              {
+                "name": "Venue or place",
+                "labels": {
+                  "de": "???",
+                  "en": "Venue or place"
+                }
+              },
+              {
+                "name": "Book",
+                "labels": {
+                  "de": "Buch",
+                  "en": "Book"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Summarised",
+            "labels": {
+              "de": "???",
+              "en": "Summarised"
+            },
+            "nodes": [
+              {
+                "name": "Idea",
+                "labels": {
+                  "de": "Idee",
+                  "en": "Idea"
+                }
+              },
+              {
+                "name": "Motif (plot element)",
+                "labels": {
+                  "de": "???",
+                  "en": "Motif (plot element)"
+                }
+              },
+              {
+                "name": "Motif (visual image, needn't be a metaphor)",
+                "labels": {
+                  "de": "???",
+                  "en": "Motif (visual image, needn't be a metaphor)"
+                }
+              },
+              {
+                "name": "Plot (complete action)",
+                "labels": {
+                  "de": "???",
+                  "en": "Plot (complete action)"
+                }
+              },
+              {
+                "name": "Scene",
+                "labels": {
+                  "de": "Szene",
+                  "en": "Scene"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Cluster",
+            "labels": {
+              "de": "Cluster",
+              "en": "Cluster"
+            },
+            "nodes": [
+              {
+                "name": "Tiger",
+                "labels": {
+                  "de": "Tiger",
+                  "en": "Tiger"
+                }
+              },
+              {
+                "name": "Dog",
+                "labels": {
+                  "de": "Hund",
+                  "en": "Dog"
+                }
+              },
+              {
+                "name": "Pillow",
+                "labels": {
+                  "de": "Kissen",
+                  "en": "Pillow"
+                }
+              },
+              {
+                "name": "Blot",
+                "labels": {
+                  "de": "???",
+                  "en": "Blot"
+                }
+              }
+            ]
+          }
+        ]
       }
     ],
     "ontology": {
@@ -512,19 +799,18 @@
               "cardinality": "0-1"
             },
             {
-              "name": "formalClass",
+              "name": "hasFormalClass",
               "super": [
                 "hasValue"
               ],
-              "object": "TextValue",
+              "object": "ListValue",
               "labels": {
                 "en": "formal class",
                 "de": "Formale Klasse"
               },
-              "gui_element": "SimpleText",
+              "gui_element": "Pulldown",
               "gui_attributes": [
-                "size=24",
-                "maxlength=64"
+                "hlist=sex"
               ],
               "cardinality": "0-1"
             }

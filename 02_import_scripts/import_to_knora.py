@@ -46,7 +46,6 @@ def start():
     ww_bulk_object = BulkImport(schema)
 
     for author in authors:
-
         ww_bulk_object.add_resource(
             "person",
             author,
@@ -55,11 +54,10 @@ def start():
         )
 
     for contributor in contributors:
-
         ww_bulk_object.add_resource(
             "person",
             contributor,
-            "person",
+            "{} {}".format(contributors[contributor]["firstName"], contributors[contributor]["lastName"]),
             contributors[contributor]
         )
 
@@ -83,7 +81,7 @@ def start():
         ww_bulk_object.add_resource(
             "lexia",
             lexia,
-            lexias[lexia]["lexiaTitle"][:16],
+            "L: " + lexias[lexia]["lexiaTitle"][:16],
             lexias[lexia]
         )
 
