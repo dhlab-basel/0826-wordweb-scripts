@@ -93,14 +93,14 @@
   "ww_ce04b562ca5c764b": {
     "bookInternalId": "@010097",
     "title": "Hudibras (Grey edition)",
-    "pubInfo": "ed. Butler, Samuel. Hudibras, in three parts, Written in the Tome of the late Wars, by Samuel Butler, Esq. with large annotations and a preface by Zachary Grey, LL. D. 2 vols. Edinburgh: Bell and Murray, 1779.",
+    "pubInfo": "ed. Hudibras, in three parts, Written in the Tome of the late Wars, by Samuel Butler, Esq. with large annotations and a preface by Zachary Grey, LL. D. 2 vols. Edinburgh: Bell and Murray, 1779.",
     "authors": [
       "Zachary Grey"
     ]
   },
   "ww_49d40eeadeef05fb": {
     "bookInternalId": "@010129",
-    "title": "Milton Poems (Warton edition)",
+    "title": "Poems Upon Several Occasions",
     "pubInfo": "ed. Poems upon several occasions. English, Italian and Latin, with translations, by John Milton [...]. With Notes, critical and explanatory, and other illustrations. London: James Dodsley, 1785.",
     "authors": [
       "Thomas Warton"
@@ -109,7 +109,7 @@
   "ww_01a2557ffc81f6ca": {
     "bookInternalId": "@010145",
     "title": "Specimen of a Commentary ",
-    "pubInfo": "A Specimen of a Commentary on Shakespeare: being the text of the first (1794) edition revised by the author and never previously published. Eds. Alan Over and Mary Bell. 2nd ed. London: Methuen, 1967.",
+    "pubInfo": "ed. A Specimen of a Commentary on Shakespeare: being the text of the first (1794) edition revised by the author and never previously published. Eds. Alan Over and Mary Bell. 2nd ed. London: Methuen, 1967.",
     "authors": [
       "Walter Whiter"
     ]
@@ -213,8 +213,8 @@
   },
   "ww_376041155cee86ea": {
     "bookInternalId": "@005263",
-    "title": "Koeppel QS Ben Jonson, Marston, Beaumont und Fletc",
-    "pubInfo": "Quellen-Studien zu den Dramen Ben Jonson', John Marston's, und Beaumont's und Fletcher's. Erlangen und Leipzig: Deichertsche Verlagsbuchhandlung, 1895. ",
+    "title": "Quellenstudien Jonson, Marston, Beaumont, Fletcher",
+    "pubInfo": "Quellen-Studien zu den Dramen Ben Jonson', John Marston's, und Beaumont's und Fletcher's. Erlangen und Leipzig: Deichertsche Verlagsbuchhandlung, 1895.",
     "authors": [
       "Emil Koeppel"
     ]
@@ -297,7 +297,7 @@
   "ww_12b8cda82738e9e2": {
     "bookInternalId": "@010006",
     "title": "Sir William Davenants relation to Shakespeare",
-    "pubInfo": "Sir William Davenant's relation to Shakespeare. With an analysis of the Chief Characters of Davenant's Plays. PhD Strassburg 1905.",
+    "pubInfo": "Sir William Davenant's Relation to Shakespeare. With an Analysis of the Chief Characters of Davenant's Plays. PhD Strassburg 1905.",
     "authors": [
       "John Davis Ellis Williams"
     ]
@@ -316,6 +316,14 @@
     "pubInfo": "Quellenstudien zu den Dramen Thomas Middletons. PhD Strassburg 1905. ",
     "authors": [
       "Karl Christ"
+    ]
+  },
+  "ww_3f13eccce9d04424": {
+    "bookInternalId": "@006075",
+    "title": "Ben Jonsons Wirkung auf zeitgen Dramatiker",
+    "pubInfo": "Ben Jonson's Wirkung auf zeitgen\u00f6ssische Dramatiker und andere Studien zur \u00e4lteren Geschichte des englischen Dramas. Anglistische Forschungen. Heidelberg: Carl Winter, 1906.",
+    "authors": [
+      "Emil Koeppel"
     ]
   },
   "ww_5f5b3c7201cf830f": {
@@ -407,7 +415,7 @@
   "ww_f3582e478658b162": {
     "bookInternalId": "@006000",
     "title": "The Insatiate Countess (Ernst edition)",
-    "pubInfo": "ed. The Insatiate Countess, Verh\u00e4ltnis zu den Quellen, Charakterzeichung und Stil. PhD, K\u00f6nigsberg 1913.",
+    "pubInfo": "The Insatiate Countess, Verh\u00e4ltnis zu den Quellen, Charakterzeichung und Stil. PhD, K\u00f6nigsberg 1913.",
     "authors": [
       "Friedrich Ernst"
     ]
@@ -540,7 +548,7 @@
   "ww_5af91280461707f1": {
     "bookInternalId": "@005134",
     "title": "The Plays of John Marston (Wood edition)",
-    "pubInfo": "ed. The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939.",
+    "pubInfo": "ed. The Plays of John Marston in Three Volumes. Edinburgh and London: Oliver and Boyd, 1934-1939.",
     "authors": [
       "Harvey Wood"
     ]
@@ -616,7 +624,7 @@
   "ww_f3b3659c26b68006": {
     "bookInternalId": "@010076",
     "title": "A Dictionary of the Proverbs ",
-    "pubInfo": "A dictionary of the proverbs in England in the sixteenth and secenteenth centuries. A collection of the proverbs found in English literature and the dictionaries of the period. Ann Arbor: University of Michigan Press, 1950.",
+    "pubInfo": "A Dictionary of the Proverbs in England in the Sixteenth and Seventeenth Centuries. A Collection of the Proverbs Found in English Literature and the Dictionaries of the Period. Ann Arbor: University of Michigan Press, 1950.",
     "authors": [
       "Morris Palmer Tilley"
     ]
@@ -745,7 +753,7 @@
   },
   "ww_ce6d233a20f2b70f": {
     "bookInternalId": "@010003",
-    "title": "Literary Genetics",
+    "title": "On the Literary Genetics of Shakspere's Plays 1592",
     "pubInfo": "On the Literary Genetics of Shakspere's Plays 1592-1594. Urbana: University of Illinois Press, 1959.",
     "authors": [
       "Thomas Whitfield Baldwin"
@@ -778,7 +786,7 @@
   "ww_8b579df902809521": {
     "bookInternalId": "@005249",
     "title": "An Early Hamlet Echo",
-    "pubInfo": "Shakespeare Quarterly 14 (1963): 87\u201389.",
+    "pubInfo": "Shakespeare Quarterly 14 (1963): 87-89.",
     "letter": "An Early Hamlet Echo?",
     "authors": [
       "Robert William Dent"
@@ -925,7 +933,7 @@
   "ww_08a130e81db8a98f": {
     "bookInternalId": "@010059",
     "title": "Three Shakespearean Echoes",
-    "pubInfo": "Notes and Queries April 220 (1975): 175.",
+    "pubInfo": "Notes and Queries 220 (April 1975): 175.",
     "letter": "Three Shakespearean Echoes",
     "authors": [
       "Jerome W. Hogan"
@@ -980,14 +988,6 @@
       "Reavley Gair"
     ]
   },
-  "ww_be27b70b20ad49b3": {
-    "bookInternalId": "@005697",
-    "title": "The Turk (Lagarde edition)",
-    "pubInfo": "ed. John Mason. The Turk - Edited from the earliest texts with a textual introduction. Salzburg: Institut f\u00fcr Anglistik und Amerikanistik, 1979.",
-    "authors": [
-      "Ferdinand Lagarde"
-    ]
-  },
   "ww_38319ddb82fae050": {
     "bookInternalId": "@010018",
     "title": "Eastward Ho (Van Fossen edition)",
@@ -1006,8 +1006,8 @@
   },
   "ww_180d7fcf961a85ac": {
     "bookInternalId": "@006070",
-    "title": "Unpublished notes (Straeuli)",
-    "pubInfo": "Unpublished notes.",
+    "title": "Unpublished Notes on Shakespeares Image Clusters",
+    "pubInfo": "Unpublished Notes on Shakespeare's Image Clusters.",
     "authors": [
       "Barbara Str\u00e4uli"
     ]
@@ -1065,7 +1065,7 @@
   "ww_0dd45e53b3b0b09c": {
     "bookInternalId": "@010124",
     "title": "Acting and Violence",
-    "pubInfo": "Studies in English Literature 1500-1900 24:2 \"Elizabethan and Jacobean Drama\" Spring 1984): 275-291.",
+    "pubInfo": "Studies in English Literature 1500-1900 24:2 \"Elizabethan and Jacobean Drama\" (Spring 1984): 275-291.",
     "letter": "Acting and Violence: The Revenger's Tragedy and Its Departures from Hamlet",
     "authors": [
       "Harvey Scott McMillin"
@@ -1156,8 +1156,8 @@
       "Peter Erickson"
     ]
   },
-  "ww_8cdaec1672ea3f81": {
-    "bookInternalId": "@007504",
+  "ww_fa4f6a910617574c": {
+    "bookInternalId": "@002222",
     "title": "The Making of the National Poet",
     "pubInfo": "The Making of the National Poet: Shakespeare, Adaptation and Authorship. Oxford: Clarendon Press, 1992.",
     "authors": [
@@ -1326,7 +1326,7 @@
   "ww_5c89e8fa112ee4e8": {
     "bookInternalId": "@010135",
     "title": "Shakespeares Sayings",
-    "pubInfo": "\"Shakespeare's Sayings\". Shakespeare and Elizabethan Popular Culture. Ed. Stuart Gillespie and Neil Rhodes. London: The Arden Shakespeare, 2006. 155-173.",
+    "pubInfo": "\"Shakespeare's Sayings\". Shakespeare and Elizabethan Popular Culture. Eds. Stuart Gillespie and Neil Rhodes. London: The Arden Shakespeare, 2006. 155-173.",
     "authors": [
       "Neil Rhodes"
     ]
@@ -1393,7 +1393,7 @@
   "ww_e95d4765a7973201": {
     "bookInternalId": "@010103",
     "title": "William Shakespeare and Edmund Burke",
-    "pubInfo": "Peter Sabor and Paul Yachnin. Shakespeare and the Eighteenth Century. London: Ashgate, 2008. 85-102.",
+    "pubInfo": "Shakespeare and the Eighteenth Century. Eds. Peter Sabor and Paul Yachnin. London: Ashgate, 2008. 85-102.",
     "letter": "William Shakespeare and Edmund Burke: Literary Allusion in Eighteenth-Century British Political Rhetoric",
     "authors": [
       "Frans de Bruyn"

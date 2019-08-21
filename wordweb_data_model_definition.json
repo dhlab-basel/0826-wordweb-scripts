@@ -87,48 +87,198 @@
               "de": "Italienisch",
               "en": "Italian"
             }
-          },
+          }
+        ]
+      },
+      {
+        "name": "marking",
+        "labels": {
+          "de": "Marking",
+          "en": "Marking"
+        },
+        "nodes": [
           {
-            "name": "Eastern and Northern European languages",
+            "name": "Unmarked",
             "labels": {
-              "de": "Ost- und Nordeuropäische Sprachen",
-              "en": "Eastern and Northern European languages"
+              "de": "Unmarkiert",
+              "en": "Unmarked"
             }
           },
           {
-            "name": "Asian languages",
+            "name": "Marked",
             "labels": {
-              "de": "Asiatische Sprachen",
-              "en": "Asian languages"
-            }
-          },
-          {
-            "name": "Classical Greek",
-            "labels": {
-              "de": "Klassisch griechisch",
-              "en": "Classical Greek"
-            }
-          },
-          {
-            "name": "Hebrew",
-            "labels": {
-              "de": "Hebräisch",
-              "en": "Hebrew"
-            }
-          },
-          {
-            "name": "Portuguese and Spanish",
-            "labels": {
-              "de": "Portugisisch und Spanisch",
-              "en": "Portuguese and Spanish"
-            }
-          },
-          {
-            "name": "New Testament Greek",
-            "labels": {
-              "de": "Neues Testament griechisch",
-              "en": "New Testament Greek"
-            }
+              "de": "Markiert",
+              "en": "marked"
+            },
+            "nodes": [
+              {
+                "name": "Verbal",
+                "labels": {
+                  "de": "Verbal",
+                  "en": "Verbal"
+                },
+                "nodes": [
+                  {
+                    "name": "Verb to say",
+                    "labels": {
+                      "de": "",
+                      "en": "Verb to say"
+                    }
+                  },
+                  {
+                    "name": "Other verb",
+                    "labels": {
+                      "de": "",
+                      "en": "Other verb"
+                    }
+                  },
+                  {
+                    "name": "Metalinguistic noun",
+                    "labels": {
+                      "de": "",
+                      "en": "Metalinguistic noun"
+                    }
+                  },
+                  {
+                    "name": "Other verbal",
+                    "labels": {
+                      "de": "",
+                      "en": "Other verbal"
+                    }
+                  },
+                  {
+                    "name": "pending verbal",
+                    "labels": {
+                      "de": "",
+                      "en": "pending verbal"
+                    }
+                  },
+                  {
+                    "name": "like or as",
+                    "labels": {
+                      "de": "",
+                      "en": "like or as"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Typographie",
+                "labels": {
+                  "de": "Typographie",
+                  "en": "Typographie"
+                },
+                "nodes": [
+                  {
+                    "name": "Quotation marks",
+                    "labels": {
+                      "de": "",
+                      "en": "Quotation marks"
+                    }
+                  },
+                  {
+                    "name": "Set off",
+                    "labels": {
+                      "de": "",
+                      "en": "Set off"
+                    }
+                  },
+                  {
+                    "name": "Other typographie",
+                    "labels": {
+                      "de": "",
+                      "en": "Other typographie"
+                    }
+                  },
+                  {
+                    "name": "Italics",
+                    "labels": {
+                      "de": "",
+                      "en": "Italics"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Anomalie",
+                "labels": {
+                  "de": "Anomalie",
+                  "en": "Anomalie"
+                },
+                "nodes": [
+                  {
+                    "name": "Archaism",
+                    "labels": {
+                      "de": "",
+                      "en": "Archaism"
+                    }
+                  },
+                  {
+                    "name": "Language switch",
+                    "labels": {
+                      "de": "",
+                      "en": "Language switch"
+                    }
+                  },
+                  {
+                    "name": "Nominalisation",
+                    "labels": {
+                      "de": "",
+                      "en": "Nominalisation"
+                    }
+                  },
+                  {
+                    "name": "Grammar",
+                    "labels": {
+                      "de": "",
+                      "en": "Grammar"
+                    }
+                  },
+                  {
+                    "name": "Other or pending",
+                    "labels": {
+                      "de": "",
+                      "en": "Other or pending"
+                    }
+                  },
+                  {
+                    "name": "Prose-Poetry switch",
+                    "labels": {
+                      "de": "",
+                      "en": "Prose-Poetry switch"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "NAME",
+                "labels": {
+                  "de": "Name",
+                  "en": "Name"
+                }
+              },
+              {
+                "name": "Genre",
+                "labels": {
+                  "de": "Genre",
+                  "en": "Genre"
+                }
+              },
+              {
+                "name": "Context",
+                "labels": {
+                  "de": "Context",
+                  "en": "Context"
+                }
+              },
+              {
+                "name": "Pendings",
+                "labels": {
+                  "de": "Pendings",
+                  "en": "Pendings"
+                }
+              }
+            ]
           }
         ]
       },
@@ -170,10 +320,10 @@
             ]
           },
           {
-            "name": "Verbal",
+            "name": "Verb",
             "labels": {
-              "de": "Verbal",
-              "en": "Verbal"
+              "de": "Verb",
+              "en": "Verb"
             },
             "nodes": [
               {
@@ -513,14 +663,14 @@
               "cardinality": "0-n"
             },
             {
-              "name": "title",
+              "name": "bookTitle",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Title",
-                "de": "Titel"
+                "en": "Book title",
+                "de": "Buchtitel"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -528,6 +678,32 @@
                 "maxlength=64"
               ],
               "cardinality": "0-1"
+            },
+            {
+              "name": "performedBy",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:company",
+              "labels": {
+                "en": "is performed by",
+                "de": "wurde performed von"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "performedIn",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:venue",
+              "labels": {
+                "en": "is performed in",
+                "de": "wurde performed in"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
             },
             {
               "name": "edition",
@@ -560,15 +736,14 @@
               "super": [
                 "hasValue"
               ],
-              "object": "TextValue",
+              "object": "ListValue",
               "labels": {
                 "en": "language",
                 "de": "Sprache"
               },
-              "gui_element": "SimpleText",
+              "gui_element": "Pulldown",
               "gui_attributes": [
-                "size=24",
-                "maxlength=64"
+                "hlist=language"
               ],
               "cardinality": "0-1"
             },
@@ -699,6 +874,22 @@
               "cardinality": "0-1"
             },
             {
+              "name": "hasMarking",
+              "super": [
+                "hasValue"
+              ],
+              "object": "ListValue",
+              "labels": {
+                "en": "has marking",
+                "de": "hat Marking"
+              },
+              "gui_element": "Pulldown",
+              "gui_attributes": [
+                "hlist=marking"
+              ],
+              "cardinality": "0-1"
+            },
+            {
               "name": "occursIn",
               "super": [
                 "hasLinkTo"
@@ -788,8 +979,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Title",
-                "de": "Titel"
+                "en": "Lexia title",
+                "de": "Lexiatitel"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -810,9 +1001,105 @@
               },
               "gui_element": "Pulldown",
               "gui_attributes": [
-                "hlist=sex"
+                "hlist=formalClass"
               ],
               "cardinality": "0-1"
+            }
+          ]
+        },
+        {
+          "name": "company",
+          "super": "Resource",
+          "labels": {
+            "en": "Company",
+            "de": "Theatergruppe"
+          },
+          "comments": {
+            "en": "Represents a company",
+            "de": "Repräsentiert eine Theatergruppe"
+          },
+          "properties": [
+            {
+              "name": "companyInternalId",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Internal ID",
+                "de": "Interne ID"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
+            },
+            {
+              "name": "companyTitle",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Company title",
+                "de": "Theatergruppentitel"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
+            }
+          ]
+        },
+        {
+          "name": "venue",
+          "super": "Resource",
+          "labels": {
+            "en": "Venue",
+            "de": "Aufführungsort"
+          },
+          "comments": {
+            "en": "Represents a venue",
+            "de": "Repräsentiert einen Aufführungsort"
+          },
+          "properties": [
+            {
+              "name": "venueInternalId",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Internal ID",
+                "de": "Interne ID"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
+            },
+            {
+              "name": "venueTitle",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Venue title",
+                "de": "Aufführungsorttitel"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
             }
           ]
         }

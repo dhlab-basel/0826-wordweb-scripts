@@ -25,6 +25,12 @@ def start():
         with open('00_data_as_json/lexia.json') as lexias_files:
             lexias = json.load(lexias_files)
 
+        with open('00_data_as_json/company.json') as company_files:
+            companies = json.load(company_files)
+
+        with open('00_data_as_json/venue.json') as venue_files:
+            venues = json.load(venue_files)
+
     except Exception as err:
         print(err, "Import Fail")
         raise SystemExit(0)
@@ -83,6 +89,22 @@ def start():
             lexia,
             "L: " + lexias[lexia]["lexiaTitle"][:16],
             lexias[lexia]
+        )
+
+    for company in companies:
+        ww_bulk_object.add_resource(
+            "company",
+            company,
+            "company",
+            companies[company]
+        )
+
+    for venue in venues:
+        ww_bulk_object.add_resource(
+            "venue",
+            venue,
+            "venue",
+            venues[venue]
         )
 
     BULKIMPORT_API_ENDPOINT="http://localhost:3333/v1/resources/xmlimport/http%3A%2F%2Frdfh.ch%2Fprojects%2F0826"

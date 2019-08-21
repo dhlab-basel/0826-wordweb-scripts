@@ -11,6 +11,8 @@ import helper_edition as ed
 import helper_secondary as sec
 # helper for lexia
 import helper_lexia as lex
+# helper for company and venue
+import helper_comp_venue as comp_ven
 # my id generator
 import id_generator as id
 # my json handler
@@ -25,6 +27,10 @@ import prep_contributors
 import prep_sec_books
 # preparation for lexias
 import prep_lexias
+# preparation for companies
+import prep_companies
+# preparation for venues
+import prep_venues
 
 
 csv_files = [
@@ -32,7 +38,7 @@ csv_files = [
     "01_prepare_scripts/csv/export_2.csv",
     "01_prepare_scripts/csv/export_3.csv",
     "01_prepare_scripts/csv/export_4.csv",
-    # "01_prepare_scripts/csv/export_5.csv"
+    "01_prepare_scripts/csv/export_5.csv"
 ]
 
 # Prepare all data
@@ -41,19 +47,25 @@ allBooks = prep_books.prepare()
 allSecBooks = prep_sec_books.prepare_csv()
 allContributors = prep_contributors.prepare()
 allLexias = prep_lexias.prepare()
+allCompanies = prep_companies.prepare()
+allVenues = prep_venues.prepare()
 
 # Saves all data the into json files
 json.save("01_prepare_scripts/all_data/all_authors.json", allAuthors)
 json.save("01_prepare_scripts/all_data/all_books.json", allBooks)
 json.save("01_prepare_scripts/all_data/all_sec_books.json", allSecBooks)
 json.save("01_prepare_scripts/all_data/all_lexias.json", allLexias)
+json.save("01_prepare_scripts/all_data/all_companies.json", allCompanies)
+json.save("01_prepare_scripts/all_data/all_venues.json", allVenues)
 
 json_files = [
     "00_data_as_json/author.json",
     "00_data_as_json/book.json",
     "00_data_as_json/passage.json",
     "00_data_as_json/contributor.json",
-    "00_data_as_json/lexia.json"
+    "00_data_as_json/lexia.json",
+    "00_data_as_json/company.json",
+    "00_data_as_json/venue.json"
 ]
 
 # Clears all json files
@@ -66,6 +78,8 @@ books = {}
 contributors = {}
 lexias = {}
 passages = {}
+companies = {}
+venues = {}
 
 
 def create_author(auth_id):
@@ -109,6 +123,8 @@ def create_book(b_id, data_row, pub_info, pub_or_info):
         "createdDate": "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
         "publishDate": "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
         "isWrittenBy": [],
+        "performedIn": [],
+        "performedBy": [],
         "hasLanguage": data_row[9]
     }
 
@@ -123,21 +139,33 @@ def create_book(b_id, data_row, pub_info, pub_or_info):
     books[b_id] = book
 
 
-def update_book(b_id, auth_names):
-    # Iterates through the names per entry
-    for auth_name in auth_names:
+def update_book(b_id, auth_names, ven_id, comp_id):
+    if auth_names:
+        # Iterates through the names per entry
+        for auth_name in auth_names:
 
-        # Generates author id
-        auth_id = id.generate(auth_name)
+            # Generates author id
+            auth_id = id.generate(auth_name)
 
-        # Checks if author already exists
-        if auth_id not in authors:
-            print("Strange UPDATE BOOK")
-            create_author(auth_id)
-        else:
-            temp = set(books[b_id]["isWrittenBy"])
-            temp.add(auth_id)
-            books[b_id]["isWrittenBy"] = list(temp)
+            # Checks if author already exists
+            if auth_id not in authors:
+                print("Strange UPDATE BOOK")
+                create_author(auth_id)
+            else:
+                temp = set(books[b_id]["isWrittenBy"])
+                temp.add(auth_id)
+                books[b_id]["isWrittenBy"] = list(temp)
+
+    if ven_id:
+        temp = set(books[b_id]["performedIn"])
+        temp.add(ven_id)
+        books[b_id]["performedIn"] = list(temp)
+
+    if comp_id:
+        temp = set(books[b_id]["performedBy"])
+        temp.add(comp_id)
+        books[b_id]["performedBy"] = list(temp)
+
 
 
 def create_sec_book(sec_b_id, pub_info):
@@ -176,7 +204,8 @@ def create_passage(pa_id, text, text_or, pub, pub_or):
         "hasText": text,
         "occursIn": [],
         "isMentionedIn": [],
-        "contains": []
+        "contains": [],
+        "hasMarking": "Unmarked"
     }
 
     if text_or:
@@ -241,6 +270,14 @@ def create_lexia(lex_id, le):
     lexias[lex_id] = le
 
 
+def create_company(comp_id, comp):
+    companies[comp_id] = comp
+
+
+def create_venue(ven_id, ven):
+    venues[ven_id] = ven
+
+
 def start():
     # Reads the csv files
     for csv_file in csv_files:
@@ -269,7 +306,7 @@ def start():
 
                             # Checks if author_id is valid
                             if author_id not in allAuthors:
-                                print("FAIL Author", author_id)
+                                print("FAIL Author", author_id, line, csv_file)
                                 raise SystemExit(0)
 
                             # Checks if author already exists
@@ -291,14 +328,13 @@ def start():
                         # Creates the book and updates the author references
                         if book_id not in books:
                             create_book(book_id, row, publication, publication_original)
-                            update_book(book_id, names)
+                            update_book(book_id, names, None, None)
                         else:
-                            update_book(book_id, names)
+                            update_book(book_id, names, None, None)
 
                         # ------------- PASSAGE
                         # generates passage id
                         passage_id = id.generate(row[10])
-
 
                         # Creates the passage and updates the edition reference
                         if passage_id not in passages:
@@ -372,6 +408,41 @@ def start():
                             else:
                                 update_passage(passage_id, None, None, None, lexia_id)
 
+                        # --------------- COMPANY & VENUES
+                        if row[12]:
+                            comp_ven_names = row[12].split(" / ")
+
+                            for comp_ven_name in comp_ven_names:
+                                comp_ven_data, type = comp_ven.info(comp_ven_name, line, csv_file)
+
+                                if type is "venue":
+                                    unique_key = "{} {}".format(comp_ven_data["venueInternalId"], comp_ven_data["venueTitle"])
+
+                                    venue_id = id.generate(unique_key)
+
+                                    if venue_id not in allVenues:
+                                        print("FAIL Venue", venue_id, line, csv_file)
+
+                                    if venue_id not in venues:
+                                        create_venue(venue_id, comp_ven_data)
+                                        update_book(book_id, None, venue_id, None)
+                                    else:
+                                        update_book(book_id, None, venue_id, None)
+
+                                elif type is "company":
+                                    company_id = id.generate(comp_ven_data["companyInternalId"])
+
+                                    if company_id not in allCompanies:
+                                        print("FAIL Company", company_id, line, csv_file)
+
+                                    if company_id not in companies:
+                                        create_company(company_id, comp_ven_data)
+                                        update_book(book_id, None, None, company_id)
+                                    else:
+                                        update_book(book_id, None, None, company_id)
+
+                                else:
+                                    print("FAIL Venue or Company", type, line, csv_file)
                     line += 1
 
         except Exception as err:
@@ -384,3 +455,5 @@ def start():
     json.save(json_files[2], passages)
     json.save(json_files[3], contributors)
     json.save(json_files[4], lexias)
+    json.save(json_files[5], companies)
+    json.save(json_files[6], venues)

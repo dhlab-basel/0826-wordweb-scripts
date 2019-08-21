@@ -1,9 +1,4 @@
 {
-  "ww_72ab59d77214a6f8": {
-    "firstName": "Chantal",
-    "lastName": "Battilana",
-    "email": "chantal.battilana@stud.unibas.ch"
-  },
   "ww_c4063e9c72a3ffd2": {
     "firstName": "Regula",
     "lastName": "Hohl Trillini",
@@ -59,6 +54,11 @@
     "lastName": "Grandi de Souza",
     "email": ""
   },
+  "ww_72ab59d77214a6f8": {
+    "firstName": "Chantal",
+    "lastName": "Battilana",
+    "email": "chantal.battilana@stud.unibas.ch"
+  },
   "ww_caa8f9e4a628f638": {
     "firstName": "Balz",
     "lastName": "Engler B.",
@@ -73,5 +73,10 @@
     "firstName": "Eftychia",
     "lastName": "Fountoulakis",
     "email": "E.Fountoulakis@stud.unibas.ch"
+  },
+  "ww_f4d0b9d33729f20b": {
+    "firstName": "Elisabeth",
+    "lastName": "M\u00e4der",
+    "email": ""
   }
 }
