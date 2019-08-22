@@ -6,7 +6,7 @@ import sys
 # defining path for module imports
 sys.path.append("modules/")
 # preparation for lexias
-import prep_lexias
+# import prep_lexias
 
 
 
@@ -82,4 +82,7 @@ import prep_lexias
 # ----------------- Random Number
 # print(random.randint(100000, 999999))
 
-allLexias = prep_lexias.prepare()
+# allLexias = prep_lexias.prepare()
+
+# -----------------
+print(random.randint(7000, 7999))

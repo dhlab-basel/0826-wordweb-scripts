@@ -282,7 +282,7 @@
                 "size=24",
                 "maxlength=64"
               ],
-              "cardinality": "0-1"
+              "cardinality": "0-n"
             },
             {
               "name": "birthDate",

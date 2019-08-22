@@ -62,7 +62,7 @@ person = {
     "internalID": "&000001",
     "firstName": "William",
     "lastName": "Shakespeare",
-    "description": "English Dramatist",
+    "description": ["English Dramatist", "African Hero"],
     "birthDate": "GREGORIAN:1564",
     "deathDate": "GREGORIAN:1616",
     "isAuthorOf": ["B_01", "B_02"],
