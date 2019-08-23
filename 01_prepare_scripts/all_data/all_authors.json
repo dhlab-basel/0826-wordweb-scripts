@@ -2205,6 +2205,14 @@
     "description": "English historian",
     "sql": 3308
   },
+  "ww_01215347c14e0351": {
+    "firstName": "David Martin",
+    "lastName": "Bevington",
+    "birthExact": "1931",
+    "deathExact": "2019",
+    "description": "American scholar",
+    "sql": 4295
+  },
   "ww_f0fc420057090e3b": {
     "firstName": "Alexander",
     "lastName": "Bicknell",
@@ -3297,6 +3305,14 @@
     "floruitExact": "1991",
     "description": "English academic",
     "sql": 2421
+  },
+  "ww_fb236cdd5502a360": {
+    "firstName": "Nicholas Stanton",
+    "lastName": "Brooke",
+    "birthExact": "1924",
+    "deathExact": "1998",
+    "description": "English scholar",
+    "sql": 4298
   },
   "ww_03724102aed8fc3b": {
     "firstName": "Henry",
@@ -5432,6 +5448,14 @@
     "description": "English poet",
     "sql": 2946
   },
+  "ww_00e051f6e8775242": {
+    "firstName": "John Churton",
+    "lastName": "Collins",
+    "birthExact": "1848",
+    "deathExact": "1908",
+    "description": "British scholar",
+    "sql": 4307
+  },
   "ww_561914605d080bc8": {
     "firstName": "George",
     "lastName": "Colman",
@@ -5558,7 +5582,8 @@
   "ww_032e2bce6a6a6ea7": {
     "firstName": "Earl",
     "lastName": "Conteh-Morgan",
-    "floruitExact": "1994",
+    "floruitSpanStart": "1994",
+    "floruitSpanEnd": "1997",
     "description": "U.S. academic",
     "sql": 2817
   },
@@ -5671,6 +5696,13 @@
     "floruitExact": "1997",
     "description": "Canadian writer",
     "sql": 1976
+  },
+  "ww_2db002397fad86e3": {
+    "firstName": "Peter",
+    "lastName": "Corbin",
+    "floruitExact": "2002",
+    "description": "British (?) scholar",
+    "sql": 4311
   },
   "ww_61bb40fbb6bf0ced": {
     "firstName": "Richard Nelson",
@@ -7254,6 +7286,13 @@
     "description": "English essayist",
     "sql": 3713
   },
+  "ww_d849cf321f1368f2": {
+    "firstName": "Samuel",
+    "lastName": "Drake",
+    "floruitExact": "1646",
+    "description": "English letter writer",
+    "sql": 4315
+  },
   "ww_a034b65ed2b11469": {
     "firstName": "Sir William",
     "lastName": "Draper",
@@ -7551,6 +7590,9 @@
   "ww_904a3011a92fb67c": {
     "firstName": "Charles",
     "lastName": "Edelman",
+    "floruitSpanStart": "2008",
+    "floruitSpanEnd": "2015",
+    "description": "U.S. actor and scholar",
     "sql": 4276
   },
   "ww_4600344d1c7618b9": {
@@ -7595,6 +7637,13 @@
     "birthExact": "1922",
     "description": "U.S. screenwriter and director",
     "sql": 2345
+  },
+  "ww_130467c69828affb": {
+    "firstName": "Philip",
+    "lastName": "Edwards",
+    "floruitExact": "1975",
+    "description": "British (?) scholar",
+    "sql": 4308
   },
   "ww_903fc2bbb6fae8d0": {
     "firstName": "Edward",
@@ -7814,6 +7863,11 @@
     "lastName": "Erland",
     "sql": 146
   },
+  "ww_6a404725e37e1f2f": {
+    "firstName": "Lukas",
+    "lastName": "Erne",
+    "sql": 4310
+  },
   "ww_d78431424289a522": {
     "firstName": "Friedrich",
     "lastName": "Ernst",
@@ -7914,6 +7968,13 @@
     "deathExact": "1909",
     "description": "U.S. novelist",
     "sql": 2988
+  },
+  "ww_966e83dd7cbba957": {
+    "firstName": "Maurice",
+    "lastName": "Evans",
+    "floruitExact": "1965",
+    "description": "British (?) scholar",
+    "sql": 4302
   },
   "ww_14f2e36944f57dad": {
     "firstName": "Stuart",
@@ -8231,6 +8292,13 @@
     "deathExact": "1768",
     "description": "English novelist",
     "sql": 204
+  },
+  "ww_15b555bec5c609b5": {
+    "firstName": "R. F.",
+    "lastName": "Fill",
+    "floruitExact": "1985",
+    "description": "British (?) scholar",
+    "sql": 4300
   },
   "ww_14ae7e467c47a733": {
     "firstName": "Emily Pearson",
@@ -9375,6 +9443,13 @@
     "birthExact": "1914",
     "description": "U.S. dramatist",
     "sql": 2472
+  },
+  "ww_c7f06ae8821823ae": {
+    "firstName": "Colin",
+    "lastName": "Gibson",
+    "floruitExact": "1975",
+    "description": " \tBritish (?) scholar",
+    "sql": 4309
   },
   "ww_fcab82f120e8eddd": {
     "firstName": "Andr\u00e9",
@@ -11507,6 +11582,13 @@
     "description": "U.S. (?) writer",
     "sql": 411
   },
+  "ww_7bba7a0ec1568ea9": {
+    "firstName": "R. F. ",
+    "lastName": "Hill",
+    "floruitExact": "1985",
+    "description": "British (?) scholar",
+    "sql": 4301
+  },
   "ww_2a49ccb20809d3c2": {
     "firstName": "Aaron",
     "lastName": "Hill",
@@ -11914,6 +11996,13 @@
     "birthExact": "1938",
     "description": "U.S. children's writer",
     "sql": 3615
+  },
+  "ww_a14baabe657d3e07": {
+    "firstName": "Lisa",
+    "lastName": "Hopkins",
+    "floruitExact": "2008",
+    "description": "British academic",
+    "sql": 4296
   },
   "ww_e0bf4ade7131e5c0": {
     "firstName": "Gerald Manley",
@@ -15771,6 +15860,13 @@
     "description": "Scottish war and spy novel writer",
     "sql": 2384
   },
+  "ww_e2c474f233111769": {
+    "firstName": "Hugh N.",
+    "lastName": "Maclean",
+    "deathExact": "1997",
+    "description": "U.S. scholar",
+    "sql": 4299
+  },
   "ww_1c364395d6bf6aa2": {
     "firstName": "Archibald",
     "lastName": "MacLeish",
@@ -17398,6 +17494,13 @@
     "description": "English poet",
     "sql": 3023
   },
+  "ww_03cf335a91d42990": {
+    "firstName": "A. T.",
+    "lastName": "Moore",
+    "floruitExact": "2002",
+    "description": "British (?) scholar",
+    "sql": 4305
+  },
   "ww_b27bcb912c1ccebc": {
     "firstName": "John",
     "lastName": "Moore",
@@ -17727,6 +17830,13 @@
     "firstName": "Paul",
     "lastName": "Muldoon",
     "sql": 3660
+  },
+  "ww_581a6f969ff0905b": {
+    "firstName": "Paul A.",
+    "lastName": "Mulholland",
+    "floruitExact": "2013",
+    "description": "Canadian scholar",
+    "sql": 4314
   },
   "ww_4f6b7e7fbe50a0ec": {
     "firstName": "John",
@@ -18897,6 +19007,11 @@
     "description": "English poet",
     "sql": 3082
   },
+  "ww_8092a3bd65d9ed72": {
+    "firstName": "Thomas Marc",
+    "lastName": "Parrott",
+    "sql": 4304
+  },
   "ww_e6ed41e1d31c1454": {
     "firstName": "Richard",
     "lastName": "Parson",
@@ -19881,6 +19996,13 @@
     "floruitSpanEnd": "2007",
     "description": "Italian novelist and semiotician",
     "sql": 1481
+  },
+  "ww_5761b8ba5e718de1": {
+    "firstName": "Charles Tyler",
+    "lastName": "Prouty",
+    "floruitExact": "1970",
+    "description": "U.S. (?) scholar",
+    "sql": 4303
   },
   "ww_0958b5f3869f1a89": {
     "firstName": "Syrus",
@@ -21100,6 +21222,13 @@
     "lastName": "Rowe",
     "sql": 2972
   },
+  "ww_9192cc81db356a17": {
+    "firstName": "Richard",
+    "lastName": "Rowland",
+    "floruitExact": "2005",
+    "description": "British (?) scholar",
+    "sql": 4313
+  },
   "ww_dc60d2440e2265aa": {
     "firstName": "Effie Adelaide",
     "lastName": "Rowlands",
@@ -21828,6 +21957,14 @@
     "description": "Blogger",
     "sql": 2105
   },
+  "ww_259850021eb6fbea": {
+    "firstName": "Leah",
+    "lastName": "Scragg",
+    "floruitSpanStart": "2006",
+    "floruitSpanEnd": "2008",
+    "description": "British (?) scholar",
+    "sql": 4294
+  },
   "ww_826f7dd435019193": {
     "firstName": "Humphrey",
     "lastName": "Searle",
@@ -21843,6 +21980,13 @@
     "deathExact": "2001",
     "description": "English screenwriter",
     "sql": 612
+  },
+  "ww_7858f8ee113b799f": {
+    "firstName": "Thomas",
+    "lastName": "Sedge",
+    "floruitExact": "2002",
+    "description": "British (?) scholar",
+    "sql": 4312
   },
   "ww_ab87b6f2c116d34e": {
     "firstName": "Catharine Maria",
@@ -26758,6 +26902,13 @@
     "birthExact": "1970",
     "description": "U.S. television director",
     "sql": 1991
+  },
+  "ww_45d9129806cf0cb5": {
+    "firstName": "Akihiro",
+    "lastName": "Yamada",
+    "floruitExact": "1975",
+    "description": "Japanese scholar",
+    "sql": 4306
   },
   "ww_a0e04a3830c8932d": {
     "firstName": "Susan",

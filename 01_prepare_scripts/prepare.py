@@ -116,6 +116,10 @@ def create_author(auth_id):
     authors[auth_id] = person
 
 
+def update_author(auth_id, auth_int_id):
+    authors[auth_id]["authorInternalId"] = auth_int_id
+
+
 def create_book(b_id, data_row, pub_info, pub_or_info):
     book = {
         "bookInternalId": allBooks[b_id]["bookInternalId"],
@@ -167,7 +171,6 @@ def update_book(b_id, auth_names, ven_id, comp_id):
         books[b_id]["performedBy"] = list(temp)
 
 
-
 def create_sec_book(sec_b_id, pub_info):
     book = {
         "bookInternalId": allSecBooks[sec_b_id]["bookInternalId"],
@@ -205,7 +208,8 @@ def create_passage(pa_id, text, text_or, pub, pub_or):
         "occursIn": [],
         "isMentionedIn": [],
         "contains": [],
-        "hasMarking": "Unmarked"
+        "hasMarking": "Unmarked",
+        "hasResearchField": []
     }
 
     if text_or:
@@ -220,7 +224,7 @@ def create_passage(pa_id, text, text_or, pub, pub_or):
     passages[pa_id] = passage
 
 
-def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id):
+def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo):
     if bo_id:
         temp = set(passages[pa_id]["occursIn"])
         temp.add(bo_id)
@@ -238,6 +242,14 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id):
         temp = set(passages[pa_id]["contains"])
         temp.add(lex_id)
         passages[pa_id]["contains"] = list(temp)
+
+    if res_fi:
+        temp = set(passages[pa_id]["hasResearchField"])
+        temp.add(res_fi)
+        passages[pa_id]["hasResearchField"] = list(temp)
+
+    if fc_vo:
+        passages[pa_id]["hasFunctionVoice"] = fc_vo
 
 
 def create_sec_passage(sec_pa_id, pag):
@@ -339,9 +351,27 @@ def start():
                         # Creates the passage and updates the edition reference
                         if passage_id not in passages:
                             create_passage(passage_id, row[10], row[25], publication, publication_original)
-                            update_passage(passage_id, book_id, None, None, None)
+                            update_passage(passage_id, book_id, None, None, None, None, None)
                         else:
-                            update_passage(passage_id, book_id, None, None, None)
+                            update_passage(passage_id, book_id, None, None, None, None, None)
+
+                        # Multiple research fields
+                        research_fields = row[23].split(" / ")
+
+                        for research_field in research_fields:
+                            update_passage(passage_id, None, None, None, None, research_field, None)
+
+                        if row[21] == "Title":
+                            update_passage(passage_id, None, None, None, None, None, row[21])
+                        elif row[21] == "Name":
+                            update_passage(passage_id, None, None, None, None, None, row[21])
+                        elif row[21] == "Body of text":
+                            if row[20]:
+                                voices = row[20].split(" / ")
+                                for voice in voices:
+                                    update_passage(passage_id, None, None, None, None, None, voice)
+                            else:
+                                update_passage(passage_id, None, None, None, None, None, row[21])
 
                         # ------------- CONTRIBUTOR
                         # generates contributor id
@@ -355,9 +385,9 @@ def start():
                         # Creates the contributor and updates the passage reference
                         if contributor_id not in contributors:
                             create_contributor(contributor_id)
-                            update_passage(passage_id, None, contributor_id, None, None)
+                            update_passage(passage_id, None, contributor_id, None, None, None, None)
                         else:
-                            update_passage(passage_id, None, contributor_id, None, None)
+                            update_passage(passage_id, None, contributor_id, None, None, None, None)
 
                         # -------------- SECONDARY BOOK
                         sec_books = sec.info(row[24], line, csv_file)
@@ -387,7 +417,7 @@ def start():
                             sec_passage_id = id.generate(str(unique_key))
                             create_sec_passage(sec_passage_id, sec_book["page"])
                             update_sec_passage(sec_passage_id, sec_book_id)
-                            update_passage(passage_id, None, None, sec_passage_id, None)
+                            update_passage(passage_id, None, None, sec_passage_id, None, None, None)
 
                         # --------------- LEXIA
                         # Multiple names of authors
@@ -404,9 +434,13 @@ def start():
 
                             if lexia_id not in lexias:
                                 create_lexia(lexia_id, le)
-                                update_passage(passage_id, None, None, None, lexia_id)
+                                update_passage(passage_id, None, None, None, lexia_id, None, None)
                             else:
-                                update_passage(passage_id, None, None, None, lexia_id)
+                                update_passage(passage_id, None, None, None, lexia_id, None, None)
+
+                            # bla = id.generate(le["lexiaTitle"])
+                            # if bla in allAuthors:
+                            #     print("included: ", le["lexiaTitle"])
 
                         # --------------- COMPANY & VENUES
                         if row[12]:
@@ -446,7 +480,7 @@ def start():
                     line += 1
 
         except Exception as err:
-            print("FAIL: start.py", err)
+            print("FAIL: start.py", err, line, csv_file)
             raise SystemExit(0)
 
     # Saves the objects which occurs in the csv files in to json files

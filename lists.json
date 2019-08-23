@@ -1,24 +1,24 @@
 {
    "formalClass": {
-      "id": "http://rdfh.ch/lists/0826/sAEWVIBKQ3OJlWcb_GX66w",
+      "id": "http://rdfh.ch/lists/0826/ogslIUQRR0KV_rdBYWWlqw",
       "nodes": [
          {
             "W\u00f6rtlich": {
-               "id": "http://rdfh.ch/lists/0826/su4KunTMR0-EtGchMrfLMw",
+               "id": "http://rdfh.ch/lists/0826/w_4aiMPBQkGRoIL1JeYQkg",
                "nodes": [
                   {
                      "Word": {
-                        "id": "http://rdfh.ch/lists/0826/oCtYFgvRSPStjiRBT7u2YQ"
+                        "id": "http://rdfh.ch/lists/0826/03FH4cSfRMubYwRAaF4mBg"
                      }
                   },
                   {
                      "Phrase or sentence": {
-                        "id": "http://rdfh.ch/lists/0826/MWzA_UzcQkCrHWuC71cM9A"
+                        "id": "http://rdfh.ch/lists/0826/MUYxlyYbQnSrZrIuYV5UUw"
                      }
                   },
                   {
                      "Passage": {
-                        "id": "http://rdfh.ch/lists/0826/XtMlwA0_SySwkvV1Yt7LMw"
+                        "id": "http://rdfh.ch/lists/0826/zSrgpIqoTKKd3v6u3lM_xA"
                      }
                   }
                ]
@@ -26,53 +26,53 @@
          },
          {
             "Verb": {
-               "id": "http://rdfh.ch/lists/0826/-SkxGWsTTEmfbGO5RZm75Q",
+               "id": "http://rdfh.ch/lists/0826/cXSR3BqSTymIOcEQ7eVbeg",
                "nodes": [
                   {
                      "Keywords": {
-                        "id": "http://rdfh.ch/lists/0826/_GtTarR2QcqcuK-N2gopTA"
+                        "id": "http://rdfh.ch/lists/0826/1yNGjdX6S4GoXmGYDb_KSg"
                      }
                   },
                   {
                      "Snowclone": {
-                        "id": "http://rdfh.ch/lists/0826/aOhWP1nHRUaffvrzV7PjzQ"
+                        "id": "http://rdfh.ch/lists/0826/-kMXZ2UqQjSfyj-UCxLuYw"
                      }
                   },
                   {
                      "Setpiece": {
-                        "id": "http://rdfh.ch/lists/0826/QwIrpWNQQAuiXeyzpUo4jA"
+                        "id": "http://rdfh.ch/lists/0826/XU4BX64TTvua__wKS5yKrg"
                      }
                   }
                ]
             }
          },
          {
-            "Name": {
-               "id": "http://rdfh.ch/lists/0826/pYcpUYGySh2EH7miGE03oQ",
+            "Name(1)": {
+               "id": "http://rdfh.ch/lists/0826/zPXj8qUxR8ufXT-d9Ov77Q",
                "nodes": [
                   {
                      "Motif with Name": {
-                        "id": "http://rdfh.ch/lists/0826/Mt09-_yBSzulVr0VX7z49A"
+                        "id": "http://rdfh.ch/lists/0826/2BI66li_R4GouSWWYdP-zA"
                      }
                   },
                   {
                      "Human": {
-                        "id": "http://rdfh.ch/lists/0826/uwUj8BrjSgeMkJvO_qp05g"
+                        "id": "http://rdfh.ch/lists/0826/ym4G4uEoSR-TxIOBTcK93g"
                      }
                   },
                   {
                      "Character": {
-                        "id": "http://rdfh.ch/lists/0826/tYrDQYNfQ5-63HmmT16Vcw"
+                        "id": "http://rdfh.ch/lists/0826/dqZ13u0jQDak3FEKnSrUsg"
                      }
                   },
                   {
                      "Venue or place": {
-                        "id": "http://rdfh.ch/lists/0826/dXDuvZ-hTcaMLR1SZYlOZA"
+                        "id": "http://rdfh.ch/lists/0826/wLm89y_UQKCTHmpWR39bvQ"
                      }
                   },
                   {
                      "Book": {
-                        "id": "http://rdfh.ch/lists/0826/WbcHGRv1TN68d44GIqkaXA"
+                        "id": "http://rdfh.ch/lists/0826/j-Hv2Gc1SIexa3pZGfSpEA"
                      }
                   }
                ]
@@ -80,31 +80,31 @@
          },
          {
             "Summarised": {
-               "id": "http://rdfh.ch/lists/0826/1P-CoOI4Tl2_gOl_TrNNdA",
+               "id": "http://rdfh.ch/lists/0826/dqWbXw6kTGeAr9QEb4ScNQ",
                "nodes": [
                   {
                      "Idea": {
-                        "id": "http://rdfh.ch/lists/0826/306UkALLRfGhuK9YmnHphw"
+                        "id": "http://rdfh.ch/lists/0826/VGfoDRP9SyWXXK-zgnKeRg"
                      }
                   },
                   {
                      "Motif (plot element)": {
-                        "id": "http://rdfh.ch/lists/0826/ihfXbv3fQAmfHlKcgXzl5Q"
+                        "id": "http://rdfh.ch/lists/0826/mNH8_bzgRRywzjjhUPrTcA"
                      }
                   },
                   {
                      "Motif (visual image, needn't be a metaphor)": {
-                        "id": "http://rdfh.ch/lists/0826/buei_wLlQj280HRJ6fvaqw"
+                        "id": "http://rdfh.ch/lists/0826/0FN3zI_oR_uYvysGafy5YA"
                      }
                   },
                   {
                      "Plot (complete action)": {
-                        "id": "http://rdfh.ch/lists/0826/kdrhUmWWR7ikNYjCIKT6CQ"
+                        "id": "http://rdfh.ch/lists/0826/z717_oXtTVS24kcgUFagTA"
                      }
                   },
                   {
                      "Scene": {
-                        "id": "http://rdfh.ch/lists/0826/gDptOQpNQPCNuX6Nn0TBAg"
+                        "id": "http://rdfh.ch/lists/0826/5E-SwBoaTL6Qi4D0LZ41bA"
                      }
                   }
                ]
@@ -112,26 +112,73 @@
          },
          {
             "Cluster": {
-               "id": "http://rdfh.ch/lists/0826/RetqwpBqS4-87SDg3F6pyQ",
+               "id": "http://rdfh.ch/lists/0826/fgpkyEmfTimysuP3ujs8bg",
                "nodes": [
                   {
                      "Tiger": {
-                        "id": "http://rdfh.ch/lists/0826/HTxTVuVOSJCelC4-d88CTA"
+                        "id": "http://rdfh.ch/lists/0826/hA7HGmwrQmKwDCwuuBzszQ"
                      }
                   },
                   {
                      "Dog": {
-                        "id": "http://rdfh.ch/lists/0826/gCilb8RyQKKBWzuZicFNoQ"
+                        "id": "http://rdfh.ch/lists/0826/o5Z6Y3NBQMib6M_J64n8aA"
                      }
                   },
                   {
                      "Pillow": {
-                        "id": "http://rdfh.ch/lists/0826/uSGotHWpQv2MWJfuwTh8Ag"
+                        "id": "http://rdfh.ch/lists/0826/hehNQztuQrmeqkNewJAsbQ"
                      }
                   },
                   {
                      "Blot": {
-                        "id": "http://rdfh.ch/lists/0826/WQxa8HiZRBefw9Z_236qqA"
+                        "id": "http://rdfh.ch/lists/0826/9Br3HaqVQUCw-XjHX15MDg"
+                     }
+                  }
+               ]
+            }
+         }
+      ]
+   },
+   "functionVoice": {
+      "id": "http://rdfh.ch/lists/0826/9Q4Cp9kaTdOAem_pVXNQXA",
+      "nodes": [
+         {
+            "Name": {
+               "id": "http://rdfh.ch/lists/0826/1Kt8dmRmT1mcQPKUenaFdA"
+            }
+         },
+         {
+            "Title": {
+               "id": "http://rdfh.ch/lists/0826/v7W28oluQQWbxm8BIp7dXQ"
+            }
+         },
+         {
+            "Body of text": {
+               "id": "http://rdfh.ch/lists/0826/bbtRiQrlSwKeY6JPxLqITg",
+               "nodes": [
+                  {
+                     "Narrator": {
+                        "id": "http://rdfh.ch/lists/0826/8tOGhgRxSRa4Cp4c5ySjAQ"
+                     }
+                  },
+                  {
+                     "Dialogue": {
+                        "id": "http://rdfh.ch/lists/0826/Ay0W3Dy4RIaqskXSo1WNFA"
+                     }
+                  },
+                  {
+                     "Interior monologue": {
+                        "id": "http://rdfh.ch/lists/0826/AqZ0qpj1RkKndGDAPe9Czg"
+                     }
+                  },
+                  {
+                     "1st-person narrator": {
+                        "id": "http://rdfh.ch/lists/0826/qNFr52USQEe26cny2hVWOA"
+                     }
+                  },
+                  {
+                     "Fictional letter or diary": {
+                        "id": "http://rdfh.ch/lists/0826/AK-yuNQaQ9-w155W95FoVg"
                      }
                   }
                ]
@@ -140,84 +187,84 @@
       ]
    },
    "language": {
-      "id": "http://rdfh.ch/lists/0826/NBG7LVFCTMekql_297-nBA",
+      "id": "http://rdfh.ch/lists/0826/Uike3hJTSuWBV4TbmBckIw",
       "nodes": [
          {
             "English": {
-               "id": "http://rdfh.ch/lists/0826/FphDZHaJSNaSndJXgqgcNw"
+               "id": "http://rdfh.ch/lists/0826/O-1njzfnQqCacPpQdVewsA"
             }
          },
          {
             "Latin": {
-               "id": "http://rdfh.ch/lists/0826/wfAirFpgQd-2M9zj-XYbxg"
+               "id": "http://rdfh.ch/lists/0826/2Lzs_yDqT9iStUIul6rdPA"
             }
          },
          {
             "German": {
-               "id": "http://rdfh.ch/lists/0826/WANB-pOVSa-5h7epvPPD_w"
+               "id": "http://rdfh.ch/lists/0826/u5tyAzSYQ-6twc5-Pccftw"
             }
          },
          {
             "French": {
-               "id": "http://rdfh.ch/lists/0826/NsYG6UzaRL6aRx_LLHDiYw"
+               "id": "http://rdfh.ch/lists/0826/SyhSvQwhSPWKtaY6q80JOg"
             }
          },
          {
             "Russian": {
-               "id": "http://rdfh.ch/lists/0826/xfhBin0cTJOeXR5eP-2dYA"
+               "id": "http://rdfh.ch/lists/0826/C34pzyGGRUuhRD3tRDwB9Q"
             }
          },
          {
             "Italian": {
-               "id": "http://rdfh.ch/lists/0826/Bk9CfamvQmqgw5UZc3IcbQ"
+               "id": "http://rdfh.ch/lists/0826/HUZZOEBpSJSYzXp0WFgqSQ"
             }
          }
       ]
    },
    "marking": {
-      "id": "http://rdfh.ch/lists/0826/h3iBGRq4SIi79a6SPOofcw",
+      "id": "http://rdfh.ch/lists/0826/ToSU97lzSf-QKylFCfOaqw",
       "nodes": [
          {
             "Unmarked": {
-               "id": "http://rdfh.ch/lists/0826/JYnnFnC-QiCli2ZiQGHEUg"
+               "id": "http://rdfh.ch/lists/0826/23HVGC6mRO2LKca83wJiwA"
             }
          },
          {
             "Marked": {
-               "id": "http://rdfh.ch/lists/0826/9uWFCdHeSOCYAIQnNTDLQg",
+               "id": "http://rdfh.ch/lists/0826/0yWmjCcyTzitDrj5pWzpVQ",
                "nodes": [
                   {
                      "Verbal": {
-                        "id": "http://rdfh.ch/lists/0826/MYf8PEnHTtiZWAZWaHGNcQ",
+                        "id": "http://rdfh.ch/lists/0826/xv9Db9JZQoumHeg7auNkEA",
                         "nodes": [
                            {
                               "Verb to say": {
-                                 "id": "http://rdfh.ch/lists/0826/XpZGJBOnTA6b6xEFv3GUkQ"
+                                 "id": "http://rdfh.ch/lists/0826/1gVA_KFpT7aIHSV0SQTVFA"
                               }
                            },
                            {
                               "Other verb": {
-                                 "id": "http://rdfh.ch/lists/0826/N_hfm4Q1QoCKHEFK9nTBSg"
+                                 "id": "http://rdfh.ch/lists/0826/8DV7d43TSWOUECs6ndRvtw"
                               }
                            },
                            {
                               "Metalinguistic noun": {
-                                 "id": "http://rdfh.ch/lists/0826/d8YTTQlATxaHHAu_6I8Yqw"
+                                 "id": "http://rdfh.ch/lists/0826/6PDRbxrASW6oC4wXUDuf0Q"
                               }
                            },
                            {
                               "Other verbal": {
-                                 "id": "http://rdfh.ch/lists/0826/eLZvznsGSSm3ghxrPDOuEg"
+                                 "id": "http://rdfh.ch/lists/0826/iuTfQWdHRbSyoLjzQxph7g"
                               }
                            },
                            {
                               "pending verbal": {
-                                 "id": "http://rdfh.ch/lists/0826/xIhdeumvRB2LzGy8laNcgQ"
+                                 "id": "http://rdfh.ch/lists/0826/oon9QVvgS_yV_QW3smi24A"
                               }
                            },
                            {
                               "like or as": {
-                                 "id": "http://rdfh.ch/lists/0826/_OxRq8LKTqy6bYlCn7XjZw"
+                                 "id": "http://rdfh.ch/lists/0826/omxF37GbR9mYoqXILH8uCw"
                               }
                            }
                         ]
@@ -225,26 +272,26 @@
                   },
                   {
                      "Typographie": {
-                        "id": "http://rdfh.ch/lists/0826/BPWkZt4bT8y0JvJVpmt1Bg",
+                        "id": "http://rdfh.ch/lists/0826/0aHbzBqKTqKBaQXbu2w1Zg",
                         "nodes": [
                            {
                               "Quotation marks": {
-                                 "id": "http://rdfh.ch/lists/0826/8cn3X2VcTTia-Qj4p3JICg"
+                                 "id": "http://rdfh.ch/lists/0826/ReGu-W_vRsGqcc-eWCE6ww"
                               }
                            },
                            {
                               "Set off": {
-                                 "id": "http://rdfh.ch/lists/0826/oeZkPBUVQBqAUmBUwvn3Hw"
+                                 "id": "http://rdfh.ch/lists/0826/TuBA2UcFShGFUorWPqkREw"
                               }
                            },
                            {
                               "Other typographie": {
-                                 "id": "http://rdfh.ch/lists/0826/qRLoIM9rQD-X7b4kc9wCCg"
+                                 "id": "http://rdfh.ch/lists/0826/9qel6VByTkyZbejrh7LN3g"
                               }
                            },
                            {
                               "Italics": {
-                                 "id": "http://rdfh.ch/lists/0826/feIYFtjaQJ2ljhFbTo67Hg"
+                                 "id": "http://rdfh.ch/lists/0826/WIFshxRQTFqx98sBOFIa2Q"
                               }
                            }
                         ]
@@ -252,36 +299,36 @@
                   },
                   {
                      "Anomalie": {
-                        "id": "http://rdfh.ch/lists/0826/1_tPQlNRQqiil3LZF0kjMw",
+                        "id": "http://rdfh.ch/lists/0826/AuUHRFQKR7Wc-RHLHK04eQ",
                         "nodes": [
                            {
                               "Archaism": {
-                                 "id": "http://rdfh.ch/lists/0826/2RMZvy1YTs6UE3QxPnVazA"
+                                 "id": "http://rdfh.ch/lists/0826/ZRL0zH73QjqY_tfgqBFowQ"
                               }
                            },
                            {
                               "Language switch": {
-                                 "id": "http://rdfh.ch/lists/0826/B-GD0E1pTQC3GDe-lIenHg"
+                                 "id": "http://rdfh.ch/lists/0826/aG1A8TV6TdCm0aFOgjY-eA"
                               }
                            },
                            {
                               "Nominalisation": {
-                                 "id": "http://rdfh.ch/lists/0826/2ZbH-5ttS1yGyegvJHCiyA"
+                                 "id": "http://rdfh.ch/lists/0826/9SHQlTlWRN2xgbNkDn2KPw"
                               }
                            },
                            {
                               "Grammar": {
-                                 "id": "http://rdfh.ch/lists/0826/ixWSAaQJRjuAe4Vxyy1dUQ"
+                                 "id": "http://rdfh.ch/lists/0826/CNAnja4uRl-V3WrAdlrOxw"
                               }
                            },
                            {
                               "Other or pending": {
-                                 "id": "http://rdfh.ch/lists/0826/DKoukcozSuSoxBmxIMVMAg"
+                                 "id": "http://rdfh.ch/lists/0826/QwirHqCQT3KztpWcwh9c7w"
                               }
                            },
                            {
                               "Prose-Poetry switch": {
-                                 "id": "http://rdfh.ch/lists/0826/SGLRSJUoTVy5geaumW-orA"
+                                 "id": "http://rdfh.ch/lists/0826/w7BIPcQrQR-yFRkLv8_oEw"
                               }
                            }
                         ]
@@ -289,22 +336,22 @@
                   },
                   {
                      "NAME": {
-                        "id": "http://rdfh.ch/lists/0826/Yt1dCsshSVuJ66VaFANGrQ"
+                        "id": "http://rdfh.ch/lists/0826/tShgr75YRMqSJi2BwgoQaQ"
                      }
                   },
                   {
                      "Genre": {
-                        "id": "http://rdfh.ch/lists/0826/jVL8xJJDTiivABzYb_cL8Q"
+                        "id": "http://rdfh.ch/lists/0826/1Ha4VmyASN-W_KFeQUsfEA"
                      }
                   },
                   {
                      "Context": {
-                        "id": "http://rdfh.ch/lists/0826/1BZbBQagTsi9MUXZ3h_GcA"
+                        "id": "http://rdfh.ch/lists/0826/VJ-_qFMuRmeP0v3pAM_biw"
                      }
                   },
                   {
                      "Pendings": {
-                        "id": "http://rdfh.ch/lists/0826/IlCuChj0SX6Gw6Z0puTAlw"
+                        "id": "http://rdfh.ch/lists/0826/BZQoW-8GSAqnjIZRG6F0eQ"
                      }
                   }
                ]
@@ -312,17 +359,62 @@
          }
       ]
    },
+   "researchField": {
+      "id": "http://rdfh.ch/lists/0826/7a7OF6zgSXG0RSOfjBENDA",
+      "nodes": [
+         {
+            "Reading": {
+               "id": "http://rdfh.ch/lists/0826/JnWkr7imTIu6LQO0tuW7Hg"
+            }
+         },
+         {
+            "Electronic search": {
+               "id": "http://rdfh.ch/lists/0826/FNnOghL4SFqV2wmbxgj7Wg"
+            }
+         },
+         {
+            "Secondary (Annotated edition)": {
+               "id": "http://rdfh.ch/lists/0826/ngUcNpjXSVGeZlY6zuzFgQ"
+            }
+         },
+         {
+            "Secondary (Shakespeare Studies)": {
+               "id": "http://rdfh.ch/lists/0826/-TkeLf7gTxO7EFWYPhignw"
+            }
+         },
+         {
+            "Secondary (Literary and Cultural Studies)": {
+               "id": "http://rdfh.ch/lists/0826/PwGVyx-QSJ2YEWhfd6sMUA"
+            }
+         },
+         {
+            "Secondary (Anthology)": {
+               "id": "http://rdfh.ch/lists/0826/mVbQ1e3dQlO4_e_33VUxeA"
+            }
+         },
+         {
+            "Secondary (Annotated Shakespeare edition)": {
+               "id": "http://rdfh.ch/lists/0826/ZhUg_UwRT-yYfgFPqyRsQA"
+            }
+         },
+         {
+            "Pending": {
+               "id": "http://rdfh.ch/lists/0826/K8eeyQc3SR-Uhpqq7gJaCw"
+            }
+         }
+      ]
+   },
    "sex": {
-      "id": "http://rdfh.ch/lists/0826/UpNzy0PHQDKU72FKuDr6Iw",
+      "id": "http://rdfh.ch/lists/0826/zlK0x8DGR76PclhLqLO83A",
       "nodes": [
          {
             "male": {
-               "id": "http://rdfh.ch/lists/0826/HQrBOnxiQcq54niKtnyGUg"
+               "id": "http://rdfh.ch/lists/0826/HOXFAq5gTkGi2WRjvLcXNw"
             }
          },
          {
             "female": {
-               "id": "http://rdfh.ch/lists/0826/LWP2njJ3QCiOnOl_vDWthA"
+               "id": "http://rdfh.ch/lists/0826/43F1wMhqRFa2-FwmceH2eA"
             }
          }
       ]

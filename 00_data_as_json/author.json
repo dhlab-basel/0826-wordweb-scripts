@@ -208,7 +208,9 @@
   "ww_904a3011a92fb67c": {
     "firstName": "Charles",
     "lastName": "Edelman",
-    "hasSex": "male"
+    "hasSex": "male",
+    "description": "U.S. actor and scholar",
+    "activeDate": "GREGORIAN:2008:2015"
   },
   "ww_4a2611f5113afb89": {
     "firstName": "Hermann",
@@ -2491,11 +2493,6 @@
     "birthDate": "GREGORIAN:1572",
     "deathDate": "GREGORIAN:1642"
   },
-  "ww_3cc4a40573cfe358": {
-    "firstName": "tbe (male)",
-    "lastName": "0_Author",
-    "hasSex": "male"
-  },
   "ww_33afa4e6fa4fb921": {
     "firstName": "Gerald Eades",
     "lastName": "Bentley",
@@ -2908,12 +2905,27 @@
     "birthDate": "GREGORIAN:1602",
     "deathDate": "GREGORIAN:1644"
   },
+  "ww_d849cf321f1368f2": {
+    "firstName": "Samuel",
+    "lastName": "Drake",
+    "hasSex": "male",
+    "description": "English letter writer",
+    "activeDate": "GREGORIAN:1646"
+  },
   "ww_5423cd47ae22b8a1": {
     "firstName": "Edward J. L.",
     "lastName": "Scott",
     "hasSex": "male",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1898"
+  },
+  "ww_3a93376543d353aa": {
+    "firstName": "Nathan",
+    "lastName": "Drake",
+    "hasSex": "male",
+    "description": "English essayist",
+    "birthDate": "GREGORIAN:1766",
+    "deathDate": "GREGORIAN:1836"
   },
   "ww_d6afe4345c68c4c2": {
     "firstName": "Jeremy",
@@ -3032,6 +3044,11 @@
     "hasSex": "male",
     "description": "English writer",
     "deathDate": "GREGORIAN:1699"
+  },
+  "ww_3cc4a40573cfe358": {
+    "firstName": "tbe (male)",
+    "lastName": "0_Author",
+    "hasSex": "male"
   },
   "ww_035f2256520bd869": {
     "firstName": "John (2)",

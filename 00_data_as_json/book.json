@@ -539,10 +539,10 @@
     "bookInternalId": "@010000",
     "edition": "The Shakspere Allusion Book. A Collection of Allusions to Shakspere from 1591 to 1700 [...]. London: Chatto and Windus; New York: Duffield and Co., 1909.",
     "isWrittenBy": [
+      "ww_fb550941e6e9db62",
       "ww_26c25538fa69a566",
-      "ww_a60ff4964db613ee",
       "ww_4c146e6d2ef23a03",
-      "ww_fb550941e6e9db62"
+      "ww_a60ff4964db613ee"
     ],
     "title": "The Shakspere Allusion Book"
   },
@@ -605,8 +605,8 @@
     "createdDate": "GREGORIAN:1592:1592",
     "publishDate": "GREGORIAN:1592:1592",
     "isWrittenBy": [
-      "ww_7468c79b15d734b3",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_7468c79b15d734b3"
     ],
     "performedIn": [
       "ww_089bccbbe4233206"
@@ -675,9 +675,9 @@
     "bookInternalId": "@010084",
     "edition": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts.",
     "isWrittenBy": [
+      "ww_55f5e9f5fe14853f",
       "ww_4d01a832f50d804e",
       "ww_c8fa0de8d0fc2fc4",
-      "ww_55f5e9f5fe14853f",
       "ww_386448c09c02ba3f"
     ],
     "title": "FDT - Folger Digital Texts"
@@ -691,8 +691,8 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_089bccbbe4233206",
-      "ww_f5ca98875b1e42cc"
+      "ww_f5ca98875b1e42cc",
+      "ww_089bccbbe4233206"
     ],
     "performedBy": [
       "ww_2f923c7f18095fc0"
@@ -891,8 +891,8 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_acae054af12e4a13",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_acae054af12e4a13"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1349,8 +1349,8 @@
     "createdDate": "GREGORIAN:1600:1600",
     "publishDate": "GREGORIAN:1600:1600",
     "isWrittenBy": [
-      "ww_7e08b5fab4c10b55",
-      "ww_1c3ea6e0cd221163"
+      "ww_1c3ea6e0cd221163",
+      "ww_7e08b5fab4c10b55"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -1556,12 +1556,12 @@
       "ww_f10aec8cfe5ff90d"
     ],
     "performedIn": [
-      "ww_f5ca98875b1e42cc",
-      "ww_20cfa5b2cc17f297"
+      "ww_20cfa5b2cc17f297",
+      "ww_f5ca98875b1e42cc"
     ],
     "performedBy": [
-      "ww_f31f247137fcb48d",
-      "ww_cf1e1a78f52e58d7"
+      "ww_cf1e1a78f52e58d7",
+      "ww_f31f247137fcb48d"
     ],
     "hasLanguage": "English",
     "title": "The Four Apprentices in London",
@@ -1574,9 +1574,9 @@
     "publishDate": "GREGORIAN:1602:1602",
     "isWrittenBy": [
       "ww_87dbd52f1c5b813b",
+      "ww_f10aec8cfe5ff90d",
       "ww_9594c85bc48d3759",
-      "ww_d78940f8a8554ca3",
-      "ww_f10aec8cfe5ff90d"
+      "ww_d78940f8a8554ca3"
     ],
     "performedIn": [
       "ww_089bccbbe4233206"
@@ -1796,9 +1796,9 @@
     "createdDate": "GREGORIAN:1605:1605",
     "publishDate": "GREGORIAN:1605:1605",
     "isWrittenBy": [
-      "ww_9b2d545e20d62482",
+      "ww_ad03d7c87e5b9c24",
       "ww_8501ec457f433848",
-      "ww_ad03d7c87e5b9c24"
+      "ww_9b2d545e20d62482"
     ],
     "performedIn": [
       "ww_fd98b29e0635c74b"
@@ -1864,12 +1864,12 @@
       "ww_212c78497ddc32c5"
     ],
     "performedIn": [
-      "ww_25bb6c5b90a2e2fe",
-      "ww_b00be8347d0cb16d"
+      "ww_b00be8347d0cb16d",
+      "ww_25bb6c5b90a2e2fe"
     ],
     "performedBy": [
-      "ww_271a9756145ec962",
-      "ww_9472979a5bf666e6"
+      "ww_9472979a5bf666e6",
+      "ww_271a9756145ec962"
     ],
     "hasLanguage": "English",
     "title": "Caesars Revenge, or Caesar and Pompey",
@@ -1969,8 +1969,8 @@
     "createdDate": "GREGORIAN:1607:1607",
     "publishDate": "GREGORIAN:1607:1607",
     "isWrittenBy": [
-      "ww_684176b58bc762f6",
-      "ww_986dd93d2d794ff5"
+      "ww_986dd93d2d794ff5",
+      "ww_684176b58bc762f6"
     ],
     "performedIn": [
       "ww_427140c1aa665027"
@@ -2062,8 +2062,8 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2187,8 +2187,8 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2282,8 +2282,8 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2468,8 +2468,8 @@
     "createdDate": "GREGORIAN:1619:1619",
     "publishDate": "GREGORIAN:1619:1619",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_8926bbeaa7c56023"
+      "ww_8926bbeaa7c56023",
+      "ww_cbc2c3284144573a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -2483,12 +2483,12 @@
     "createdDate": "GREGORIAN:1619:1619",
     "publishDate": "GREGORIAN:1619:1619",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2525,8 +2525,8 @@
       "ww_c298754546b2500e"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2554,12 +2554,12 @@
     "createdDate": "GREGORIAN:1622:1622",
     "publishDate": "GREGORIAN:1622:1622",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2642,8 +2642,8 @@
     "createdDate": "GREGORIAN:1626:1626",
     "publishDate": "GREGORIAN:1626:1626",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_f10aec8cfe5ff90d"
+      "ww_f10aec8cfe5ff90d",
+      "ww_9594c85bc48d3759"
     ],
     "performedIn": [
       "ww_6e7147c9796f97ad"
@@ -2718,8 +2718,8 @@
       "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2863,8 +2863,8 @@
       "ww_cbc2c3284144573a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2980,8 +2980,8 @@
       "ww_cbc2c3284144573a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2996,8 +2996,8 @@
     "createdDate": "GREGORIAN:1633:1633",
     "publishDate": "GREGORIAN:1633:1633",
     "isWrittenBy": [
-      "ww_87547eb3eadc52d8",
-      "ww_e92e9dc9d65ade56"
+      "ww_e92e9dc9d65ade56",
+      "ww_87547eb3eadc52d8"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -3177,8 +3177,8 @@
     "createdDate": "GREGORIAN:1642:1642",
     "publishDate": "GREGORIAN:1642:1642",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
-      "ww_6f4a80592c6c793c"
+      "ww_6f4a80592c6c793c",
+      "ww_8501ec457f433848"
     ],
     "performedIn": [
       "ww_089bccbbe4233206"
@@ -3839,8 +3839,8 @@
     "createdDate": "GREGORIAN:1593:1593",
     "publishDate": "GREGORIAN:1593:1593",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
-      "ww_63d5fe36ffac5d32"
+      "ww_63d5fe36ffac5d32",
+      "ww_8501ec457f433848"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -4052,7 +4052,8 @@
       "ww_2eb6b7cad6584184"
     ],
     "hasLanguage": "English",
-    "title": "Antonios Revenge"
+    "title": "Antonios Revenge",
+    "editionOriginal": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 1:65-134."
   },
   "ww_01a2557ffc81f6ca": {
     "bookInternalId": "@010145",
@@ -4082,8 +4083,8 @@
     "bookInternalId": "@010065",
     "edition": "Past and Present 44 (August 1969): 3-51.",
     "isWrittenBy": [
-      "ww_c961f8c651ae6763",
-      "ww_9d448942a16583fe"
+      "ww_9d448942a16583fe",
+      "ww_c961f8c651ae6763"
     ],
     "title": "The Madrigal, the Lute Song and Elizabethan Politics"
   },
@@ -4285,8 +4286,8 @@
     "createdDate": "GREGORIAN:1603:1603",
     "publishDate": "GREGORIAN:1603:1603",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_ad03d7c87e5b9c24"
+      "ww_ad03d7c87e5b9c24",
+      "ww_9594c85bc48d3759"
     ],
     "performedIn": [
       "ww_fd98b29e0635c74b"
@@ -4326,9 +4327,9 @@
     "title": "Daiphantus",
     "editionOriginal": "Daiphantus, or The Passions of Loue. Comicall to Reade, But Tragicall to Act: As full of Wit, as of Experience. London: T. Creede for William Cotton, 1604."
   },
-  "ww_850c6f2b24767d61": {
+  "ww_c023c700b645db78": {
     "bookInternalId": "@001419",
-    "edition": "The Case Is Altered. 1604.",
+    "edition": "The Case is Altered. How? Ask Dalio and Millo (Wiggins Title). 1604.",
     "createdDate": "GREGORIAN:1604:1604",
     "publishDate": "GREGORIAN:1604:1604",
     "isWrittenBy": [
@@ -4337,7 +4338,7 @@
     "performedIn": [],
     "performedBy": [],
     "hasLanguage": "English",
-    "title": "The Case is Altered - How - Ask Dalio and Millo"
+    "title": "The Case is Altered"
   },
   "ww_d77664dc4673002e": {
     "bookInternalId": "@001455",
@@ -4399,8 +4400,8 @@
     "createdDate": "GREGORIAN:1606:1606",
     "publishDate": "GREGORIAN:1606:1606",
     "isWrittenBy": [
-      "ww_883324fc3b8b8dba",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_883324fc3b8b8dba"
     ],
     "performedIn": [
       "ww_427140c1aa665027"
@@ -4432,8 +4433,8 @@
     "bookInternalId": "@010126",
     "edition": "eds. The Collected Works of Thomas Middleton. Oxford: Clarendon Press, 2007.",
     "isWrittenBy": [
-      "ww_d97781c5821c201b",
-      "ww_b29f022218b6d47d"
+      "ww_b29f022218b6d47d",
+      "ww_d97781c5821c201b"
     ],
     "title": "The Collected Works of Thomas Middleton (Taylor ed"
   },
@@ -4507,9 +4508,9 @@
     "createdDate": "GREGORIAN:1610:1610",
     "publishDate": "GREGORIAN:1610:1610",
     "isWrittenBy": [
-      "ww_4165dddf64bc6da3",
+      "ww_ad03d7c87e5b9c24",
       "ww_18abf85e413e5632",
-      "ww_ad03d7c87e5b9c24"
+      "ww_4165dddf64bc6da3"
     ],
     "performedIn": [
       "ww_46be803045cb0e04"
@@ -4590,16 +4591,16 @@
     "createdDate": "GREGORIAN:1613:1613",
     "publishDate": "GREGORIAN:1613:1613",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_8926bbeaa7c56023"
+      "ww_8926bbeaa7c56023",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
-      "ww_cd7a6048b167a2ae",
-      "ww_46be803045cb0e04"
+      "ww_46be803045cb0e04",
+      "ww_cd7a6048b167a2ae"
     ],
     "performedBy": [
-      "ww_271a9756145ec962",
-      "ww_dfe3ddd6db3b2f36"
+      "ww_dfe3ddd6db3b2f36",
+      "ww_271a9756145ec962"
     ],
     "hasLanguage": "English",
     "title": "Four Plays, or Moral Representations, in One"
@@ -5126,8 +5127,8 @@
     "createdDate": "GREGORIAN:1561:1561",
     "publishDate": "GREGORIAN:1561:1561",
     "isWrittenBy": [
-      "ww_6b7b6aabda5c7c6b",
-      "ww_2328c74af1f27243"
+      "ww_2328c74af1f27243",
+      "ww_6b7b6aabda5c7c6b"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -5218,8 +5219,8 @@
     "createdDate": "GREGORIAN:1566:1566",
     "publishDate": "GREGORIAN:1566:1566",
     "isWrittenBy": [
-      "ww_a00dfc9e63a5d0fe",
-      "ww_a256d6059e2044ff"
+      "ww_a256d6059e2044ff",
+      "ww_a00dfc9e63a5d0fe"
     ],
     "performedIn": [
       "ww_089bccbbe4233206"
@@ -5259,8 +5260,8 @@
     "createdDate": "GREGORIAN:1567:1567",
     "publishDate": "GREGORIAN:1567:1567",
     "isWrittenBy": [
-      "ww_0adab3e3a15ca99c",
-      "ww_ead92b40726b9049"
+      "ww_ead92b40726b9049",
+      "ww_0adab3e3a15ca99c"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -5274,8 +5275,8 @@
     "createdDate": "GREGORIAN:1567:1567",
     "publishDate": "GREGORIAN:1567:1567",
     "isWrittenBy": [
-      "ww_0adab3e3a15ca99c",
-      "ww_ead92b40726b9049"
+      "ww_ead92b40726b9049",
+      "ww_0adab3e3a15ca99c"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -5393,9 +5394,9 @@
     "title": "Euphues and His England",
     "editionOriginal": "Euphues and His England. London: G. Cawood, 1580."
   },
-  "ww_d750e1e440e536e5": {
-    "bookInternalId": "@010091",
-    "edition": "ed. John Lyly. The Complete Works of John Lyly. Oxford: The Clarendon Press, 1902.",
+  "ww_73035d6790a72f3b": {
+    "bookInternalId": "@006081",
+    "edition": "ed. John Lyly. The Complete Works of John Lyly. 4 vols. Oxford: The Clarendon Press, 1902.",
     "isWrittenBy": [
       "ww_29ea702f67fa9c9d"
     ],
@@ -5699,8 +5700,8 @@
       "ww_63d5fe36ffac5d32"
     ],
     "performedIn": [
-      "ww_acae054af12e4a13",
-      "ww_20cfa5b2cc17f297"
+      "ww_20cfa5b2cc17f297",
+      "ww_acae054af12e4a13"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae",
@@ -5719,8 +5720,8 @@
       "ww_63d5fe36ffac5d32"
     ],
     "performedIn": [
-      "ww_089bccbbe4233206",
-      "ww_20cfa5b2cc17f297"
+      "ww_20cfa5b2cc17f297",
+      "ww_089bccbbe4233206"
     ],
     "performedBy": [
       "ww_312616f20d6e5e9b"
@@ -5738,8 +5739,8 @@
       "ww_116917d934be52dd"
     ],
     "performedIn": [
-      "ww_089bccbbe4233206",
-      "ww_20cfa5b2cc17f297"
+      "ww_20cfa5b2cc17f297",
+      "ww_089bccbbe4233206"
     ],
     "performedBy": [
       "ww_06311c47190f2d0a",
@@ -5797,8 +5798,8 @@
     "createdDate": "GREGORIAN:1588:1588",
     "publishDate": "GREGORIAN:1588:1588",
     "isWrittenBy": [
-      "ww_9e2e58504b5d3de8",
-      "ww_63d5fe36ffac5d32"
+      "ww_63d5fe36ffac5d32",
+      "ww_9e2e58504b5d3de8"
     ],
     "performedIn": [],
     "performedBy": [
@@ -6568,8 +6569,8 @@
       "ww_ecd33a52caec339f"
     ],
     "performedIn": [
-      "ww_089bccbbe4233206",
-      "ww_46be803045cb0e04"
+      "ww_46be803045cb0e04",
+      "ww_089bccbbe4233206"
     ],
     "performedBy": [
       "ww_b103d94d309afeef"
@@ -6643,10 +6644,10 @@
     "createdDate": "GREGORIAN:1613:1613",
     "publishDate": "GREGORIAN:1613:1613",
     "isWrittenBy": [
-      "ww_ba2bed49492fef13",
-      "ww_cbc2c3284144573a",
+      "ww_8926bbeaa7c56023",
       "ww_3cc0cce5b6bf554a",
-      "ww_8926bbeaa7c56023"
+      "ww_cbc2c3284144573a",
+      "ww_ba2bed49492fef13"
     ],
     "performedIn": [
       "ww_cd7a6048b167a2ae"
@@ -6740,12 +6741,12 @@
     "createdDate": "GREGORIAN:1622:1622",
     "publishDate": "GREGORIAN:1622:1622",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -7073,8 +7074,8 @@
     "publishDate": "GREGORIAN:1510:1540",
     "isWrittenBy": [
       "ww_9a8e158285763a3c",
-      "ww_4f4a27981f1d2a14",
-      "ww_2527046b014ff66d"
+      "ww_2527046b014ff66d",
+      "ww_4f4a27981f1d2a14"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -7176,6 +7177,14 @@
       "ww_0892ee27a956341b"
     ],
     "title": "A Possible 1594 Reference to Hamlet"
+  },
+  "ww_a4d935e148cb86d4": {
+    "bookInternalId": "@010034",
+    "edition": "The Appropriation of Shakespeare. Ed. Jean Marsden. New York: Harvester Wheatsheaf, 1991.",
+    "isWrittenBy": [
+      "ww_aee1340a336646a7"
+    ],
+    "title": "Shakespeare in Quotation Marks"
   },
   "ww_d57fe99db4adc1d0": {
     "bookInternalId": "@010144",
@@ -7473,8 +7482,8 @@
     "createdDate": "GREGORIAN:1620:1620",
     "publishDate": "GREGORIAN:1620:1620",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -7493,6 +7502,19 @@
     "performedBy": [],
     "hasLanguage": "English",
     "title": "The False One"
+  },
+  "ww_008cc3fc2aaa52cb": {
+    "bookInternalId": "@001981",
+    "edition": "The Collected Works. Gen. eds. Gary Taylor and John Lavagnino. Oxford: Clarendon Press, 2007. 1488-1541.",
+    "createdDate": "GREGORIAN:1621:1621",
+    "publishDate": "GREGORIAN:1621:1621",
+    "isWrittenBy": [
+      "ww_c298754546b2500e"
+    ],
+    "performedIn": [],
+    "performedBy": [],
+    "hasLanguage": "English",
+    "title": "Women Beware Women"
   },
   "ww_21490f13daef2089": {
     "bookInternalId": "@001997",
@@ -7604,8 +7626,8 @@
       "ww_d8f1d08e1ca080b7"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -7645,8 +7667,8 @@
       "ww_d8f1d08e1ca080b7"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -7839,14 +7861,6 @@
     "performedBy": [],
     "hasLanguage": "English",
     "title": "Wits Interpreter, the English Parnassus"
-  },
-  "ww_a4d935e148cb86d4": {
-    "bookInternalId": "@010034",
-    "edition": "The Appropriation of Shakespeare. Ed. Jean Marsden. New York: Harvester Wheatsheaf, 1991.",
-    "isWrittenBy": [
-      "ww_aee1340a336646a7"
-    ],
-    "title": "Shakespeare in Quotation Marks"
   },
   "ww_23fbae69b0a161a0": {
     "bookInternalId": "@005146",
@@ -8072,8 +8086,8 @@
     "bookInternalId": "@005264",
     "edition": "eds. The Diary of Samuel Pepys. 11 vols. London: G. Bell and Sons, 1970-1983.",
     "isWrittenBy": [
-      "ww_993c302bdd89aa39",
-      "ww_7eeba8f5c3297504"
+      "ww_7eeba8f5c3297504",
+      "ww_993c302bdd89aa39"
     ],
     "title": "Diary of Samuel Pepys (Latham edition)"
   },
@@ -8207,7 +8221,7 @@
     "createdDate": "GREGORIAN:1599:1599",
     "publishDate": "GREGORIAN:1599:1599",
     "isWrittenBy": [
-      "ww_3cc4a40573cfe358"
+      "ww_212c78497ddc32c5"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -8827,8 +8841,8 @@
     "createdDate": "GREGORIAN:1614:1614",
     "publishDate": "GREGORIAN:1614:1614",
     "isWrittenBy": [
-      "ww_87547eb3eadc52d8",
-      "ww_e92e9dc9d65ade56"
+      "ww_e92e9dc9d65ade56",
+      "ww_87547eb3eadc52d8"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -8912,8 +8926,8 @@
     "createdDate": "GREGORIAN:1617:1617",
     "publishDate": "GREGORIAN:1617:1617",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
       "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a",
       "ww_ecd33a52caec339f"
     ],
     "performedIn": [],
@@ -9148,8 +9162,8 @@
     "createdDate": "GREGORIAN:1622:1622",
     "publishDate": "GREGORIAN:1622:1622",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -9291,8 +9305,8 @@
       "ww_9b2d545e20d62482"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -9445,8 +9459,8 @@
     "createdDate": "GREGORIAN:1630:1630",
     "publishDate": "GREGORIAN:1630:1630",
     "isWrittenBy": [
-      "ww_7d061522518519e4",
-      "ww_2d2d917d0e960a71"
+      "ww_2d2d917d0e960a71",
+      "ww_7d061522518519e4"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -10064,7 +10078,8 @@
     "createdDate": "GREGORIAN:1646:1646",
     "publishDate": "GREGORIAN:1646:1646",
     "isWrittenBy": [
-      "ww_3cc4a40573cfe358"
+      "ww_3a93376543d353aa",
+      "ww_d849cf321f1368f2"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -10177,8 +10192,8 @@
     "createdDate": "GREGORIAN:1657:1657",
     "publishDate": "GREGORIAN:1657:1657",
     "isWrittenBy": [
-      "ww_212c78497ddc32c5",
       "ww_565398e3fc6c0714",
+      "ww_212c78497ddc32c5",
       "ww_d9a0f38107e50298"
     ],
     "performedIn": [],

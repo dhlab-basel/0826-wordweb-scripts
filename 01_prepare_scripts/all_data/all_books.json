@@ -659,9 +659,9 @@
     "title": "A Maidenhead Well Lost",
     "sql": 501
   },
-  "ww_850c6f2b24767d61": {
+  "ww_c023c700b645db78": {
     "bookInternalId": "@001419",
-    "title": "The Case is Altered - How - Ask Dalio and Millo",
+    "title": "The Case is Altered",
     "sql": 502
   },
   "ww_662026e87e8e4f6d": {
@@ -3348,5 +3348,10 @@
     "bookInternalId": "@001948",
     "title": "The False One",
     "sql": 1280
+  },
+  "ww_008cc3fc2aaa52cb": {
+    "bookInternalId": "@001981",
+    "title": "Women, Beware Women",
+    "sql": 1309
   }
 }

@@ -253,10 +253,10 @@
       "Charles A. Herpich"
     ]
   },
-  "ww_d750e1e440e536e5": {
-    "bookInternalId": "@010091",
+  "ww_73035d6790a72f3b": {
+    "bookInternalId": "@006081",
     "title": "The Complete Works of John Lyly (Bond edition)",
-    "pubInfo": "ed. John Lyly. The Complete Works of John Lyly. Oxford: The Clarendon Press, 1902.",
+    "pubInfo": "ed. John Lyly. The Complete Works of John Lyly. 4 vols. Oxford: The Clarendon Press, 1902.",
     "authors": [
       "R. W. Bond"
     ]
@@ -308,6 +308,14 @@
     "pubInfo": "Studien \u00fcber Shakespeare's Wirkung auf zeitgen\u00f6ssische Dramatiker. Louvain: Uystpruyst, 1905.",
     "authors": [
       "Emil Koeppel"
+    ]
+  },
+  "ww_a104bac352f30293": {
+    "bookInternalId": "@006083",
+    "title": "The Plays and Poems of Robert Greene (Collins)",
+    "pubInfo": "ed. The Plays and Poems of Robert Greene. 2 vols. Oxford: Clarendon Press, 1905.",
+    "authors": [
+      "John Churton Collins"
     ]
   },
   "ww_d0062b214b9d3402": {
@@ -775,6 +783,14 @@
       "Arnold Davenport"
     ]
   },
+  "ww_fb59a581cb5d5bf6": {
+    "bookInternalId": "@006091",
+    "title": "The Plays of George Chapman (Parrott edition)",
+    "pubInfo": "ed. The Plays of George Chapman. 2 vols. New York: Russall and Russell, 1961.",
+    "authors": [
+      "Thomas Marc Parrott"
+    ]
+  },
   "ww_cd1e70f8e2cd8c82": {
     "bookInternalId": "@010050",
     "title": "Shakespeares Proverb Lore",
@@ -809,6 +825,14 @@
       "John Ramsay Allardyce Nicholl"
     ]
   },
+  "ww_9e8d5d7370ff576a": {
+    "bookInternalId": "@006082",
+    "title": "Bussy D&#039;Ambois (Brooke Edition)",
+    "pubInfo": "ed. George Chapman. Bussy D'Ambois. The Revels Plays. London: Methuen. Cambridge (Mass.): Harvard University Press, 1964.",
+    "authors": [
+      "Nicholas Stanton Brooke"
+    ]
+  },
   "ww_5eeeb3e78e8b0bc3": {
     "bookInternalId": "@010002",
     "title": "The Atheists Tragedy (Ribner edition)",
@@ -841,6 +865,14 @@
     "letter": "Ophelia's Version of the Walsingham Song",
     "authors": [
       "F. W. Sternfeld"
+    ]
+  },
+  "ww_01b35e502286e366": {
+    "bookInternalId": "@006080",
+    "title": "Bussy D&#039;Ambois (Evans Edition)",
+    "pubInfo": "ed. George Chapman. Bussy D'Ambois. The New Mermaids. London: Ernest Benn, 1965.",
+    "authors": [
+      "Maurice Evans"
     ]
   },
   "ww_17854cef6ca6f944": {
@@ -913,6 +945,22 @@
       "William Matthews"
     ]
   },
+  "ww_bd08f118fc2fbc55": {
+    "bookInternalId": "@006098",
+    "title": "The Dramatic Works of George Peele (Prouty)",
+    "pubInfo": "gen. ed. The Dramatic Works of George Peele. 3 vols. New Haven and London: Yale, 1970.",
+    "authors": [
+      "Charles Tyler Prouty"
+    ]
+  },
+  "ww_b898e78bd8855990": {
+    "bookInternalId": "@006093",
+    "title": "Ben Jonson and the Cavalier Poets (Maclean)",
+    "pubInfo": "ed. Ben Jonson and the Cavalier Poets. New York: Norton, 1974.",
+    "authors": [
+      "Hugh N. Maclean"
+    ]
+  },
   "ww_14b8a85ddb603cdf": {
     "bookInternalId": "@005230",
     "title": "Isocrates, Shakespeare and Calderon",
@@ -920,6 +968,14 @@
     "letter": "Isocrates, Shakespeare, and Calder\u00f3n: Advice to a Young Man",
     "authors": [
       "Theodore J. Beardsley Jr."
+    ]
+  },
+  "ww_e3b480427e3f67b3": {
+    "bookInternalId": "@006094",
+    "title": "The Widow&#039;s Tears (Yamada edition)",
+    "pubInfo": "ed. George Chapman. The Widow's Tears. The Revels Plays. London: Methuen, 1975.",
+    "authors": [
+      "Akihiro Yamada"
     ]
   },
   "ww_b448a8b1df6fffa0": {
@@ -946,6 +1002,15 @@
     "letter": "Hamlet and the Homilies",
     "authors": [
       "Lawrence Rosinger"
+    ]
+  },
+  "ww_bedb36765c13640a": {
+    "bookInternalId": "@006086",
+    "title": "The Plays and Poems of Philip Massinger (Edwards)",
+    "pubInfo": "eds. The Plays and Poems of Philip Massinger. 5 vols. Oxford: Clarendon Press, 1976.",
+    "authors": [
+      "Philip Edwards",
+      "Colin Gibson"
     ]
   },
   "ww_15dba62495527dd5": {
@@ -1071,6 +1136,14 @@
       "Harvey Scott McMillin"
     ]
   },
+  "ww_b035f5a36d4902fe": {
+    "bookInternalId": "@006095",
+    "title": "The Lover&#039;s Melancholy (Hill edition)",
+    "pubInfo": "ed. John Ford. The Lover's Melancholy. The Revels Plays. Manchester: Manchester University Press, 1985.",
+    "authors": [
+      "R. F.  Hill"
+    ]
+  },
   "ww_0f0f2ccb24fa3b96": {
     "bookInternalId": "@010047",
     "title": "The Selected Plays of John Marston (Jackson editio",
@@ -1137,6 +1210,14 @@
     "letter": "Latinized Greek Drama in Shakespeares Writing of Hamlet",
     "authors": [
       "Louise Schleiner"
+    ]
+  },
+  "ww_f60e8bc80d100a3f": {
+    "bookInternalId": "@006079",
+    "title": "Campaspe, Sappho and Phao",
+    "pubInfo": "ed. John Lyly. Campaspe - Sappho and Phao. The Revels Plays. Manchester and New York: Manchester University Press, 1991. ",
+    "authors": [
+      "David Martin Bevington"
     ]
   },
   "ww_a4d935e148cb86d4": {
@@ -1214,12 +1295,28 @@
       "Tom Matheson"
     ]
   },
+  "ww_8cb1227dff4c66fc": {
+    "bookInternalId": "@006076",
+    "title": "Endymion (Bevington Edition)",
+    "pubInfo": "ed. Joh n Lyly. Endymion. The Revels Plays. Manchester and New York: 1996.",
+    "authors": [
+      "David Martin Bevington"
+    ]
+  },
   "ww_444e694490140e28": {
     "bookInternalId": "@010102",
     "title": "Some by Stenography",
     "pubInfo": "'\"Some by Stenography\"? Stationers, Shorthand, and the Early Shakespearean Quartos.' Papers of the Bibliographical Society of America 90.4 (1996): 417-449.",
     "authors": [
       "Adele Davidson"
+    ]
+  },
+  "ww_9f55abe6844f78fa": {
+    "bookInternalId": "@006078",
+    "title": "The Roaring Girl (Cook Edition)",
+    "pubInfo": "ed. Thomas Middleton and Thomas Dekker. The Roaring Girl. The New Mermaids. London: A. C. Black; New York: Norton, 1997 (second edition).",
+    "authors": [
+      "Elizabeth Cook"
     ]
   },
   "ww_666d1ca3ab9bc2ea": {
@@ -1264,6 +1361,22 @@
       "Barbara Paul"
     ]
   },
+  "ww_1ab5ab91bce01829": {
+    "bookInternalId": "@006092",
+    "title": "Beyond the Spanish Tragedy",
+    "pubInfo": "Beyond the Spanish Tragedy. Manchester: Manchester University Press, 2001.",
+    "authors": [
+      "Lukas Erne"
+    ]
+  },
+  "ww_94bcf25a063535d7": {
+    "bookInternalId": "@006100",
+    "title": "The Works of Richard Edwards (King Edition)",
+    "pubInfo": "ed. The Works of Richard Edwards. Politics, Poetry and Performance in Sixteenth-Century England. Manchester: Manchester University Press, 2001.",
+    "authors": [
+      "Ros King"
+    ]
+  },
   "ww_68caf0be92d6d9a9": {
     "bookInternalId": "@010104",
     "title": "Hamlet Before Its Time",
@@ -1271,6 +1384,23 @@
     "letter": "Hamlet Before Its Time",
     "authors": [
       "Margreta de Grazia"
+    ]
+  },
+  "ww_2c5297ac62b8ff0e": {
+    "bookInternalId": "@006102",
+    "title": "Thomas of Woodstock (Corbin Edition)",
+    "pubInfo": "eds. Thomas of Woodstock. The Revels Plays. Manchester: Manchester University Press, 2002.",
+    "authors": [
+      "Peter Corbin",
+      "Thomas Sedge"
+    ]
+  },
+  "ww_beca577a7651b1b6": {
+    "bookInternalId": "@006099",
+    "title": "Love&#039;s Sacrifice (Moore Edition)",
+    "pubInfo": "ed. Love's Sacrifice. John Ford. Manchester: Manchester University Press, 2002.",
+    "authors": [
+      "A. T. Moore"
     ]
   },
   "ww_ec27b2270cfe4c10": {
@@ -1298,6 +1428,14 @@
       "James Hirsh"
     ]
   },
+  "ww_b2c6e0020e989c6d": {
+    "bookInternalId": "@006101",
+    "title": "The 1st and 2nd Part of King Edward IV (Rowland)",
+    "pubInfo": "ed. The First and Second Part of King Edward IV. Thomas Heywood. Manchester: Manchester University Press, 2005.",
+    "authors": [
+      "Richard Rowland"
+    ]
+  },
   "ww_d50c2ba82fdc30ae": {
     "bookInternalId": "@010149",
     "title": "BRITP - British Periodicals ",
@@ -1321,6 +1459,14 @@
     "pubInfo": "ed. The Stukeley Plays. The Battle of Alcazar by George Peele, The Famous History of the Life and Death of Captain Stukeley. Manchester: Manchester University Press 2005.",
     "authors": [
       "Charles Edelman"
+    ]
+  },
+  "ww_414f4018a5445130": {
+    "bookInternalId": "@006103",
+    "title": "The Woman in the Moon (Scragg edition)",
+    "pubInfo": "ed. John Lyly. The Woman in the Moon. Manchester and New York: Manchester University Press, 2006.",
+    "authors": [
+      "Leah Scragg"
     ]
   },
   "ww_5c89e8fa112ee4e8": {
@@ -1382,6 +1528,14 @@
       "Gary Taylor"
     ]
   },
+  "ww_79aac8b14ce77754": {
+    "bookInternalId": "@006097",
+    "title": "Love&#039;s Metamorphosis (Scragg edition)",
+    "pubInfo": "ed. John Lyly. Love's Metamorphosis. The Revels Plays. Manchester and New York: Manchester University Press, 2008.",
+    "authors": [
+      "Leah Scragg"
+    ]
+  },
   "ww_81aaaefa494a8184": {
     "bookInternalId": "@010098",
     "title": "Marston, Rivalry, Rapprochement and Jonson",
@@ -1408,6 +1562,14 @@
       "Sayre Greenfield"
     ]
   },
+  "ww_643078306021b32a": {
+    "bookInternalId": "@006090",
+    "title": "An Humorous Day&#039;s Mirth (Edelman edition)",
+    "pubInfo": "ed. George Chapman. An Humorous Day's Mirth. The Revels Plays. Manchester: Manchester University Press, 2010. ",
+    "authors": [
+      "Charles Edelman"
+    ]
+  },
   "ww_adfdbd7c6a7b7a62": {
     "bookInternalId": "@010060",
     "title": "Shakespeare and Shorthand Once Again",
@@ -1415,6 +1577,14 @@
     "letter": "Shakespeare and Shorthand Once Again",
     "authors": [
       "Richard Knowles"
+    ]
+  },
+  "ww_d3ab2c3341d85483": {
+    "bookInternalId": "@006089",
+    "title": "The Lady&#039;s Trial (Hopkins edition)",
+    "pubInfo": "ed. John Ford. The Lady's Trial. The Revels Plays. Manchester: Manchester University Press, 2011.",
+    "authors": [
+      "Lisa Hopkins"
     ]
   },
   "ww_0a299f4a7aded36a": {
@@ -1441,6 +1611,14 @@
     "pubInfo": "Shakespeare and Classical Antiquity. Oxford: Oxford University Press, 2013.",
     "authors": [
       "Colin Burrow"
+    ]
+  },
+  "ww_4edbacc4c3cf1cb8": {
+    "bookInternalId": "@006087",
+    "title": "A Trick to Catch the Old One (Mulholland Edition)",
+    "pubInfo": "ed. Thomas Middleton. A Trick to Catch the Old One. The Revels Plays. Manchester: Manchester University Press, 2013.",
+    "authors": [
+      "Paul A. Mulholland"
     ]
   },
   "ww_b908ae26c4f3afcf": {
@@ -1484,6 +1662,14 @@
     "pubInfo": "Casual Shakespeare: Three Centuries of Verbal Echoes. London: Routledge, 2018.",
     "authors": [
       "(female) 0_Anon"
+    ]
+  },
+  "ww_a81631b9c792bfee": {
+    "bookInternalId": "@006088",
+    "title": "All Fools (Edelman edition)",
+    "pubInfo": "ed. George Chapman. All Fools. The Revels Plays. Manchester: Manchester University Press, 2018.",
+    "authors": [
+      "Charles Edelman"
     ]
   }
 }

@@ -91,6 +91,71 @@
         ]
       },
       {
+        "name": "researchField",
+        "labels": {
+          "de": "research field",
+          "en": "???"
+        },
+        "nodes": [
+          {
+            "name": "Reading",
+            "labels": {
+              "de": "???",
+              "en": "Reading"
+            }
+          },
+          {
+            "name": "Electronic search",
+            "labels": {
+              "de": "???",
+              "en": "Electronic search"
+            }
+          },
+          {
+            "name": "Secondary (Annotated edition)",
+            "labels": {
+              "de": "???",
+              "en": "Secondary (Annotated edition)"
+            }
+          },
+          {
+            "name": "Secondary (Shakespeare Studies)",
+            "labels": {
+              "de": "???",
+              "en": "Secondary (Shakespeare Studies)"
+            }
+          },
+          {
+            "name": "Secondary (Literary and Cultural Studies)",
+            "labels": {
+              "de": "???",
+              "en": "Secondary (Literary and Cultural Studies)"
+            }
+          },
+          {
+            "name": "Secondary (Anthology)",
+            "labels": {
+              "de": "???",
+              "en": "Secondary (Anthology)"
+            }
+          },
+          {
+            "name": "Secondary (Annotated Shakespeare edition)",
+            "labels": {
+              "de": "???",
+              "en": "Secondary (Annotated Shakespeare edition)"
+            }
+          },
+          {
+            "name": "Pending",
+            "labels": {
+              "de": "???",
+              "en": "Pending"
+            }
+          }
+        ]
+      },
+      {
         "name": "marking",
         "labels": {
           "de": "Marking",
@@ -283,6 +348,73 @@
         ]
       },
       {
+        "name": "functionVoice",
+        "labels": {
+          "de": "???",
+          "en": "function voice"
+        },
+        "nodes": [
+          {
+            "name": "Name",
+            "labels": {
+              "de": "Name",
+              "en": "Name"
+            }
+          },
+          {
+            "name": "Title",
+            "labels": {
+              "de": "titel",
+              "en": "title"
+            }
+          },
+          {
+            "name": "Body of text",
+            "labels": {
+              "de": "???",
+              "en": "Body of text"
+            },
+            "nodes": [
+              {
+                "name": "Narrator",
+                "labels": {
+                  "de": "???",
+                  "en": "Narrator"
+                }
+              },
+              {
+                "name": "Dialogue",
+                "labels": {
+                  "de": "???",
+                  "en": "Dialogue"
+                }
+              },
+              {
+                "name": "Interior monologue",
+                "labels": {
+                  "de": "???",
+                  "en": "Interior monologue"
+                }
+              },
+              {
+                "name": "1st-person narrator",
+                "labels": {
+                  "de": "???",
+                  "en": "1st-person narrator"
+                }
+              },
+              {
+                "name": "Fictional letter or diary",
+                "labels": {
+                  "de": "???",
+                  "en": "Fictional letter or diary"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
         "name": "formalClass",
         "labels": {
           "de": "Formale Klasse",
@@ -350,7 +482,7 @@
             ]
           },
           {
-            "name": "Name",
+            "name": "Name(1)",
             "labels": {
               "de": "Name",
               "en": "Name"
@@ -874,6 +1006,38 @@
               "cardinality": "0-1"
             },
             {
+              "name": "hasResearchField",
+              "super": [
+                "hasValue"
+              ],
+              "object": "ListValue",
+              "labels": {
+                "en": "has research field",
+                "de": "???"
+              },
+              "gui_element": "Pulldown",
+              "gui_attributes": [
+                "hlist=researchField"
+              ],
+              "cardinality": "0-n"
+            },
+            {
+              "name": "hasFunctionVoice",
+              "super": [
+                "hasValue"
+              ],
+              "object": "ListValue",
+              "labels": {
+                "en": "has function voice",
+                "de": "???"
+              },
+              "gui_element": "Pulldown",
+              "gui_attributes": [
+                "hlist=functionVoice"
+              ],
+              "cardinality": "0-1"
+            },
+            {
               "name": "hasMarking",
               "super": [
                 "hasValue"
@@ -940,6 +1104,32 @@
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
+            },
+            {
+              "name": "internalComment",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "internal comment",
+                "de": "Interner Kommentar"
+              },
+              "gui_element": "Textarea",
+              "cardinality": "0-1"
+            },
+            {
+              "name": "publicComment",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "public comment",
+                "de": "Öffentlicher Kommentar"
+              },
+              "gui_element": "Textarea",
+              "cardinality": "0-1"
             }
           ]
         },
