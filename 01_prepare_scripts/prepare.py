@@ -241,7 +241,7 @@ def create_passage(pa_id, text, text_or, pub, pub_or):
     passages[pa_id] = passage
 
 
-def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo):
+def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, stat):
     if bo_id:
         temp = set(passages[pa_id]["occursIn"])
         temp.add(bo_id)
@@ -268,11 +268,15 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo):
     if fc_vo:
         passages[pa_id]["hasFunctionVoice"] = fc_vo
 
+    if stat:
+        passages[pa_id]["hasStatus"] = stat
+
 
 def create_sec_passage(sec_pa_id, pag):
     passage = {
         "page": pag,
-        "occursIn": []
+        "occursIn": [],
+        "hasStatus": "weak"
     }
 
     passages[sec_pa_id] = passage
@@ -370,7 +374,7 @@ def start():
                             create_passage(passage_id, row[10], row[25], publication, publication_original)
 
                         # Updates the book reference and the genre
-                        update_passage(passage_id, book_id, None, None, None, None, None)
+                        update_passage(passage_id, book_id, None, None, None, None, None, None)
                         update_book(book_id, None, None, None, row[18], None)
 
                         # Multiple subjects
@@ -379,23 +383,36 @@ def start():
                         for subject in subjects:
                             update_book(book_id, None, None, None, None, subject)
 
+                        # Updating status for a passage
+                        if "TO BE EDITED" in subjects:
+                            update_passage(passage_id, None, None, None, None, None, None, "unedited")
+                        elif row[1] == "ok":
+                            update_passage(passage_id, None, None, None, None, None, None, "plausible")
+                        elif row[1] == "provisional":
+                            update_passage(passage_id, None, None, None, None, None, None, "weak")
+                        elif row[1] == "unedited":
+                            if "Shakespeare" in row[2]:
+                                update_passage(passage_id, None, None, None, None, None, None, "weak")
+                            else:
+                                update_passage(passage_id, None, None, None, None, None, None, "check")
+
                         # Multiple research fields
                         research_fields = row[23].split(" / ")
 
                         for research_field in research_fields:
-                            update_passage(passage_id, None, None, None, None, research_field, None)
+                            update_passage(passage_id, None, None, None, None, research_field, None, None)
 
                         if row[21] == "Title":
-                            update_passage(passage_id, None, None, None, None, None, row[21])
+                            update_passage(passage_id, None, None, None, None, None, row[21], None)
                         elif row[21] == "Name":
-                            update_passage(passage_id, None, None, None, None, None, row[21])
+                            update_passage(passage_id, None, None, None, None, None, row[21], None)
                         elif row[21] == "Body of text":
                             if row[20]:
                                 voices = row[20].split(" / ")
                                 for voice in voices:
-                                    update_passage(passage_id, None, None, None, None, None, voice)
+                                    update_passage(passage_id, None, None, None, None, None, voice, None)
                             else:
-                                update_passage(passage_id, None, None, None, None, None, row[21])
+                                update_passage(passage_id, None, None, None, None, None, row[21], None)
 
                         # ------------- CONTRIBUTOR
                         # generates contributor id
@@ -411,7 +428,7 @@ def start():
                             create_contributor(contributor_id)
 
                         # Updates the contributor reference
-                        update_passage(passage_id, None, contributor_id, None, None, None, None)
+                        update_passage(passage_id, None, contributor_id, None, None, None, None, None)
 
                         # -------------- SECONDARY BOOK
                         sec_books = sec.info(row[24], line, csv_file)
@@ -441,7 +458,7 @@ def start():
                             sec_passage_id = id.generate(str(unique_key))
                             create_sec_passage(sec_passage_id, sec_book["page"])
                             update_sec_passage(sec_passage_id, sec_book_id)
-                            update_passage(passage_id, None, None, sec_passage_id, None, None, None)
+                            update_passage(passage_id, None, None, sec_passage_id, None, None, None, None)
 
                         # --------------- LEXIA
                         # Multiple names of authors
@@ -460,7 +477,7 @@ def start():
                                 create_lexia(lexia_id, le)
 
                             # Updates the lexia reference
-                            update_passage(passage_id, None, None, None, lexia_id, None, None)
+                            update_passage(passage_id, None, None, None, lexia_id, None, None, None)
 
                             # bla = id.generate(le["lexiaTitle"])
                             # if bla in allAuthors:

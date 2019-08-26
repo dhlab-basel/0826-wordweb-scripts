@@ -2257,6 +2257,22 @@
               "cardinality": "0-1"
             },
             {
+              "name": "hasStatus",
+              "super": [
+                "hasValue"
+              ],
+              "object": "ListValue",
+              "labels": {
+                "en": "has status",
+                "de": "hat Status"
+              },
+              "gui_element": "Pulldown",
+              "gui_attributes": [
+                "hlist=status"
+              ],
+              "cardinality": "0-1"
+            },
+            {
               "name": "occursIn",
               "super": [
                 "hasLinkTo"
