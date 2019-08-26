@@ -32,7 +32,12 @@ import prep_companies
 # preparation for venues
 import prep_venues
 
-
+# Files with data from hyperhamlet that should be imported
+# export_1.csv is from Act 4, Scene 6, line "Let them come in."
+# export_2.csv is from Act 4, Scene 6, line "I do not know from what part of the world"
+# export_3.csv is from Act 4, Scene 6, line "I should be greeted, if not from Lord Hamlet."
+# export_4.csv is from Act 4, Scene 6, line "Let him bless thee too."
+# export_5.csv is from Act 4, Scene 6, line "He shall, sir, an't please him. There's a letter "
 csv_files = [
     "01_prepare_scripts/csv/export_1.csv",
     "01_prepare_scripts/csv/export_2.csv",
@@ -41,7 +46,7 @@ csv_files = [
     "01_prepare_scripts/csv/export_5.csv"
 ]
 
-# Prepare all data
+# Every object contains all the resources of the same type which occur in hyperhamlet.
 allAuthors = prep_authors.prepare()
 allBooks = prep_books.prepare()
 allSecBooks = prep_sec_books.prepare_csv()
@@ -83,8 +88,7 @@ venues = {}
 
 
 def create_author(auth_id):
-    # Object which will be added to Knora.
-    # It contains all the information needed which was defined in the data_model_definition_authors
+    # Author with all the properties defined in the data_model_definition.json
     person = {
         "firstName": allAuthors[auth_id]["firstName"],
         "lastName": allAuthors[auth_id]["lastName"],
@@ -112,7 +116,7 @@ def create_author(auth_id):
         person["activeDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["floruitSpanStart"],
                                                         allAuthors[auth_id]["floruitSpanEnd"])
 
-    # Adding the new authors to the list of authors
+    # Adding the new author to the list of authors
     authors[auth_id] = person
 
 
@@ -162,6 +166,7 @@ def update_book(b_id, auth_names, ven_id, comp_id, gen, sub):
                 temp.add(auth_id)
                 books[b_id]["isWrittenBy"] = list(temp)
 
+    # set function makes sure that every key exists once
     if ven_id:
         temp = set(books[b_id]["performedIn"])
         temp.add(ven_id)
