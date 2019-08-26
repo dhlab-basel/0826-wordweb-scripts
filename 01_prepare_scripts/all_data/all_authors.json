@@ -1404,6 +1404,11 @@
     "description": "English journalist and political writer",
     "sql": 2688
   },
+  "ww_7a715a856e397a0a": {
+    "firstName": "Barnabe",
+    "lastName": "Barnes",
+    "sql": 4317
+  },
   "ww_dc3833f217f24ffb": {
     "firstName": "Richard",
     "lastName": "Barnfield",
@@ -11916,6 +11921,11 @@
     "deathExact": "1998",
     "description": "Czech poet",
     "sql": 295
+  },
+  "ww_995972c17ee116c0": {
+    "firstName": "Barten",
+    "lastName": "Holyday",
+    "sql": 4316
   },
   "ww_f9866e32098ac4eb": {
     "firstName": "Arno",

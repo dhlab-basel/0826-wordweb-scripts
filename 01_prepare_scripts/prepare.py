@@ -88,7 +88,7 @@ def create_author(auth_id):
     person = {
         "firstName": allAuthors[auth_id]["firstName"],
         "lastName": allAuthors[auth_id]["lastName"],
-        "hasSex": "male"
+        "hasGender": "male"
     }
 
     if "description" in allAuthors[auth_id]:
@@ -129,7 +129,9 @@ def create_book(b_id, data_row, pub_info, pub_or_info):
         "isWrittenBy": [],
         "performedIn": [],
         "performedBy": [],
-        "hasLanguage": data_row[9]
+        "hasLanguage": data_row[9],
+        "hasGenre": [],
+        "hasSubject": []
     }
 
     if "letter" in pub_info:
@@ -143,7 +145,7 @@ def create_book(b_id, data_row, pub_info, pub_or_info):
     books[b_id] = book
 
 
-def update_book(b_id, auth_names, ven_id, comp_id):
+def update_book(b_id, auth_names, ven_id, comp_id, gen, sub):
     if auth_names:
         # Iterates through the names per entry
         for auth_name in auth_names:
@@ -169,6 +171,16 @@ def update_book(b_id, auth_names, ven_id, comp_id):
         temp = set(books[b_id]["performedBy"])
         temp.add(comp_id)
         books[b_id]["performedBy"] = list(temp)
+
+    if gen:
+        temp = set(books[b_id]["hasGenre"])
+        temp.add(gen)
+        books[b_id]["hasGenre"] = list(temp)
+
+    if sub:
+        temp = set(books[b_id]["hasSubject"])
+        temp.add(sub)
+        books[b_id]["hasSubject"] = list(temp)
 
 
 def create_sec_book(sec_b_id, pub_info):
@@ -337,12 +349,12 @@ def start():
                         publication = ed.info(row[4])
                         publication_original = ed.info(row[26])
 
-                        # Creates the book and updates the author references
+                        # Creates the book and
                         if book_id not in books:
                             create_book(book_id, row, publication, publication_original)
-                            update_book(book_id, names, None, None)
-                        else:
-                            update_book(book_id, names, None, None)
+
+                        # Updates the author references
+                        update_book(book_id, names, None, None, None, None)
 
                         # ------------- PASSAGE
                         # generates passage id
@@ -351,9 +363,16 @@ def start():
                         # Creates the passage and updates the edition reference
                         if passage_id not in passages:
                             create_passage(passage_id, row[10], row[25], publication, publication_original)
-                            update_passage(passage_id, book_id, None, None, None, None, None)
-                        else:
-                            update_passage(passage_id, book_id, None, None, None, None, None)
+
+                        # Updates the book reference and the genre
+                        update_passage(passage_id, book_id, None, None, None, None, None)
+                        update_book(book_id, None, None, None, row[18], None)
+
+                        # Multiple subjects
+                        subjects = row[19].split(" / ")
+
+                        for subject in subjects:
+                            update_book(book_id, None, None, None, None, subject)
 
                         # Multiple research fields
                         research_fields = row[23].split(" / ")
@@ -385,9 +404,9 @@ def start():
                         # Creates the contributor and updates the passage reference
                         if contributor_id not in contributors:
                             create_contributor(contributor_id)
-                            update_passage(passage_id, None, contributor_id, None, None, None, None)
-                        else:
-                            update_passage(passage_id, None, contributor_id, None, None, None, None)
+
+                        # Updates the contributor reference
+                        update_passage(passage_id, None, contributor_id, None, None, None, None)
 
                         # -------------- SECONDARY BOOK
                         sec_books = sec.info(row[24], line, csv_file)
@@ -405,9 +424,9 @@ def start():
 
                             if sec_book_id not in books:
                                 create_sec_book(sec_book_id, s_book)
-                                update_sec_book(sec_book_id, s_book["authors"])
-                            else:
-                                update_sec_book(sec_book_id, s_book["authors"])
+
+                            # Updates the authors reference
+                            update_sec_book(sec_book_id, s_book["authors"])
 
                             if sec_book["page"] == "no page":
                                 unique_key = random.randint(100000, 999999)
@@ -434,9 +453,9 @@ def start():
 
                             if lexia_id not in lexias:
                                 create_lexia(lexia_id, le)
-                                update_passage(passage_id, None, None, None, lexia_id, None, None)
-                            else:
-                                update_passage(passage_id, None, None, None, lexia_id, None, None)
+
+                            # Updates the lexia reference
+                            update_passage(passage_id, None, None, None, lexia_id, None, None)
 
                             # bla = id.generate(le["lexiaTitle"])
                             # if bla in allAuthors:
@@ -459,9 +478,9 @@ def start():
 
                                     if venue_id not in venues:
                                         create_venue(venue_id, comp_ven_data)
-                                        update_book(book_id, None, venue_id, None)
-                                    else:
-                                        update_book(book_id, None, venue_id, None)
+
+                                    # Updates the venue reference
+                                    update_book(book_id, None, venue_id, None, None, None)
 
                                 elif type is "company":
                                     company_id = id.generate(comp_ven_data["companyInternalId"])
@@ -471,9 +490,9 @@ def start():
 
                                     if company_id not in companies:
                                         create_company(company_id, comp_ven_data)
-                                        update_book(book_id, None, None, company_id)
-                                    else:
-                                        update_book(book_id, None, None, company_id)
+
+                                    # Updates the company reference
+                                    update_book(book_id, None, None, company_id, None, None)
 
                                 else:
                                     print("FAIL Venue or Company", type, line, csv_file)

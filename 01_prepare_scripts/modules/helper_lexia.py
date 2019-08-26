@@ -5,9 +5,9 @@ structure = {
     "Wo": {
         "value": "Wörtlich",
         "child": {
-            "Mo": "Word",
-            "Ph": "Phrase or sentence",
-            "Pa": "Passage"
+            "Mo": "word",
+            "Ph": "Phrase (two words to two lines)",
+            "Pa": "Passage (longer)"
         }
     },
     "Ve": {
@@ -15,36 +15,36 @@ structure = {
         "child": {
             "Kw": "Keywords",
             "Sn": "Snowclone",
-            "Sp": "Setpiece"
+            "Sp": "Setpiece (complete text)"
         }
     },
     "Na": {
         "value": "Name",
         "child": {
-            "Ma": "Motif with Name",
-            "Hu": "Human",
-            "Ca": "Character",
+            "Ma": "Motif with name",
+            "Hu": "Real person",
+            "Ca": "Charactername",
             "Vn": "Venue or place",
-            "Bo": "Book"
+            "Bo": "Booktitle"
         }
     },
     "Su": {
         "value": "Summarised",
         "child": {
             "Id": "Idea",
-            "Me": "Motif (plot element)",
-            "Mi": "Motif (visual image, needn't be a metaphor)",
-            "Pl": "Plot (complete action)",
+            "Me": "Plot element",
+            "Mi": "Visual motif",
+            "Pl": "Complete plot",
             "Sc": "Scene"
         }
     },
     "Cu": {
         "value": "Cluster",
         "child": {
-            "Ti": "Tiger",
-            "Do": "Dog",
-            "Pi": "Pillow",
-            "Bt": "Blot"
+            "Ti": "Tiger cluster",
+            "Do": "Dog cluster",
+            "Pi": "Pillow cluster",
+            "Bt": "Blot cluster"
         }
     }
 }

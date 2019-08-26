@@ -17,10 +17,10 @@
     ],
     "lists": [
       {
-        "name": "sex",
+        "name": "gender",
         "labels": {
           "de": "Geschlecht",
-          "en": "sex"
+          "en": "gender"
         },
         "nodes": [
           {
@@ -54,13 +54,6 @@
             }
           },
           {
-            "name": "Latin",
-            "labels": {
-              "de": "Latein",
-              "en": "Latin"
-            }
-          },
-          {
             "name": "German",
             "labels": {
               "de": "Deutsch",
@@ -87,6 +80,499 @@
               "de": "Italienisch",
               "en": "Italian"
             }
+          },
+          {
+            "name": "Eastern and Northern European",
+            "labels": {
+              "de": "???",
+              "en": "Eastern and Northern European"
+            }
+          },
+          {
+            "name": "Asian",
+            "labels": {
+              "de": "Asiatisch",
+              "en": "Asian"
+            }
+          },
+          {
+            "name": "Latin",
+            "labels": {
+              "de": "Latein",
+              "en": "Latin"
+            }
+          },
+          {
+            "name": "Classical Greek",
+            "labels": {
+              "de": "Griechisch ???",
+              "en": "Classical Greek"
+            }
+          },
+          {
+            "name": "Hebrew",
+            "labels": {
+              "de": "Hebräisch",
+              "en": "Hebrew"
+            }
+          },
+          {
+            "name": "Portuguese and Spanish",
+            "labels": {
+              "de": "Portugiesisch und Spanisch",
+              "en": "Portuguese and Spanish"
+            }
+          },
+          {
+            "name": "New Testament Greek",
+            "labels": {
+              "de": "???",
+              "en": "New Testament Greek"
+            }
+          }
+        ]
+      },
+      {
+        "name": "image",
+        "labels": {
+          "de": "Bild",
+          "en": "image"
+        },
+        "nodes": [
+          {
+            "name": "Nature",
+            "labels": {
+              "de": "???",
+              "en": "Nature"
+            },
+            "nodes": [
+              {
+                "name": "Landscape",
+                "labels": {
+                  "de": "Landschaft",
+                  "en": "Landscape"
+                },
+                "nodes": [
+                  {
+                    "name": "mountain",
+                    "labels": {
+                      "de": "Berg",
+                      "en": "mountain"
+                    }
+                  },
+                  {
+                    "name": "hill",
+                    "labels": {
+                      "de": "Hügel",
+                      "en": "hill"
+                    }
+                  },
+                  {
+                    "name": "road",
+                    "labels": {
+                      "de": "Strasse",
+                      "en": "road"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Birds",
+                "labels": {
+                  "de": "Vögel",
+                  "en": "Birds"
+                },
+                "nodes": [
+                  {
+                    "name": "crow",
+                    "labels": {
+                      "de": "Krähe",
+                      "en": "crow"
+                    }
+                  },
+                  {
+                    "name": "woodcock",
+                    "labels": {
+                      "de": "???",
+                      "en": "woodcock"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Mammals",
+                "labels": {
+                  "de": "???",
+                  "en": "Mammals"
+                },
+                "nodes": [
+                  {
+                    "name": "lion",
+                    "labels": {
+                      "de": "Löwe",
+                      "en": "lion"
+                    }
+                  },
+                  {
+                    "name": "horse",
+                    "labels": {
+                      "de": "Pferd",
+                      "en": "horse"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Weather",
+                "labels": {
+                  "de": "Wetter",
+                  "en": "Weather"
+                },
+                "nodes": [
+                  {
+                    "name": "cloud",
+                    "labels": {
+                      "de": "Wolken",
+                      "en": "cloud"
+                    }
+                  },
+                  {
+                    "name": "sun",
+                    "labels": {
+                      "de": "Sonne",
+                      "en": "sun"
+                    }
+                  },
+                  {
+                    "name": "moon",
+                    "labels": {
+                      "de": "Mond",
+                      "en": "moon"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Plants",
+                "labels": {
+                  "de": "Pflanzen",
+                  "en": "Plants"
+                },
+                "nodes": [
+                  {
+                    "name": "ivy",
+                    "labels": {
+                      "de": "Efeu",
+                      "en": "ivy"
+                    }
+                  },
+                  {
+                    "name": "laurel",
+                    "labels": {
+                      "de": "???",
+                      "en": "laurel"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Culture",
+            "labels": {
+              "de": "Kultur",
+              "en": "Culture"
+            },
+            "nodes": [
+              {
+                "name": "Politics",
+                "labels": {
+                  "de": "Politik",
+                  "en": "Politics"
+                },
+                "nodes": [
+                  {
+                    "name": "king",
+                    "labels": {
+                      "de": "König",
+                      "en": "king"
+                    }
+                  },
+                  {
+                    "name": "law",
+                    "labels": {
+                      "de": "Gesetz",
+                      "en": "law"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Objects",
+                "labels": {
+                  "de": "Objekte",
+                  "en": "Objects"
+                },
+                "nodes": [
+                  {
+                    "name": "fashion",
+                    "labels": {
+                      "de": "Mode",
+                      "en": "fashion"
+                    }
+                  },
+                  {
+                    "name": "tools",
+                    "labels": {
+                      "de": "Werkzeuge",
+                      "en": "tools"
+                    }
+                  },
+                  {
+                    "name": "furniture",
+                    "labels": {
+                      "de": "Möbel",
+                      "en": "furniture"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Food",
+                "labels": {
+                  "de": "Essen",
+                  "en": "Food"
+                },
+                "nodes": [
+                  {
+                    "name": "wine",
+                    "labels": {
+                      "de": "Wein",
+                      "en": "wine"
+                    }
+                  },
+                  {
+                    "name": "bread",
+                    "labels": {
+                      "de": "Brot",
+                      "en": "bread"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Medicine",
+                "labels": {
+                  "de": "Medizin",
+                  "en": "Medicine"
+                },
+                "nodes": [
+                  {
+                    "name": "plaster",
+                    "labels": {
+                      "de": "Pflaster",
+                      "en": "plaster"
+                    }
+                  },
+                  {
+                    "name": "melancholy",
+                    "labels": {
+                      "de": "Melancholie",
+                      "en": "melancholy"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Economics",
+                "labels": {
+                  "de": "Wirtschaft",
+                  "en": "Economics"
+                },
+                "nodes": [
+                  {
+                    "name": "money",
+                    "labels": {
+                      "de": "Geld",
+                      "en": "money"
+                    }
+                  },
+                  {
+                    "name": "debts",
+                    "labels": {
+                      "de": "Schulden",
+                      "en": "debts"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Leisure",
+                "labels": {
+                  "de": "Freizeit",
+                  "en": "Leisure"
+                },
+                "nodes": [
+                  {
+                    "name": "theatre",
+                    "labels": {
+                      "de": "Theater",
+                      "en": "theatre"
+                    }
+                  },
+                  {
+                    "name": "music",
+                    "labels": {
+                      "de": "Musik",
+                      "en": "music"
+                    }
+                  },
+                  {
+                    "name": "dance",
+                    "labels": {
+                      "de": "Tanz",
+                      "en": "dance"
+                    }
+                  },
+                  {
+                    "name": "art",
+                    "labels": {
+                      "de": "Kunst",
+                      "en": "art"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Other image",
+            "labels": {
+              "de": "???",
+              "en": "Other image"
+            },
+            "nodes": [
+              {
+                "name": "Religion",
+                "labels": {
+                  "de": "Religion",
+                  "en": "Religion"
+                },
+                "nodes": [
+                  {
+                    "name": "pagan",
+                    "labels": {
+                      "de": "???",
+                      "en": "pagan"
+                    }
+                  },
+                  {
+                    "name": "christian",
+                    "labels": {
+                      "de": "Christentum",
+                      "en": "christian"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Time",
+                "labels": {
+                  "de": "Zeit",
+                  "en": "Time"
+                },
+                "nodes": [
+                  {
+                    "name": "day",
+                    "labels": {
+                      "de": "Tag",
+                      "en": "day"
+                    }
+                  },
+                  {
+                    "name": "season",
+                    "labels": {
+                      "de": "Jahreszeiten",
+                      "en": "season"
+                    }
+                  },
+                  {
+                    "name": "running",
+                    "labels": {
+                      "de": "???",
+                      "en": "running"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Body",
+                "labels": {
+                  "de": "Körper",
+                  "en": "Body"
+                },
+                "nodes": [
+                  {
+                    "name": "blood",
+                    "labels": {
+                      "de": "Blut",
+                      "en": "blood"
+                    }
+                  },
+                  {
+                    "name": "back",
+                    "labels": {
+                      "de": "Rücken",
+                      "en": "back"
+                    }
+                  },
+                  {
+                    "name": "arm",
+                    "labels": {
+                      "de": "Arm",
+                      "en": "arm"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Psychology",
+                "labels": {
+                  "de": "Psychologie",
+                  "en": "Psychology"
+                },
+                "nodes": [
+                  {
+                    "name": "love",
+                    "labels": {
+                      "de": "Liebe",
+                      "en": "love"
+                    }
+                  },
+                  {
+                    "name": "jealousy",
+                    "labels": {
+                      "de": "Eifersucht",
+                      "en": "jealousy"
+                    }
+                  },
+                  {
+                    "name": "madness",
+                    "labels": {
+                      "de": "???",
+                      "en": "madness"
+                    }
+                  },
+                  {
+                    "name": "varia",
+                    "labels": {
+                      "de": "varia",
+                      "en": "varia"
+                    }
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -147,10 +633,10 @@
             }
           },
           {
-            "name": "Pending",
+            "name": "Research pending",
             "labels": {
               "de": "???",
-              "en": "Pending"
+              "en": "Research pending"
             }
           }
         ]
@@ -173,62 +659,62 @@
             "name": "Marked",
             "labels": {
               "de": "Markiert",
-              "en": "marked"
+              "en": "Marked"
             },
             "nodes": [
               {
-                "name": "Verbal",
+                "name": "MARKING VERBAL",
                 "labels": {
-                  "de": "Verbal",
-                  "en": "Verbal"
+                  "de": "???",
+                  "en": "Marking verbal"
                 },
                 "nodes": [
                   {
                     "name": "Verb to say",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "Verb to say"
                     }
                   },
                   {
                     "name": "Other verb",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "Other verb"
                     }
                   },
                   {
                     "name": "Metalinguistic noun",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "Metalinguistic noun"
                     }
                   },
                   {
-                    "name": "Other verbal",
+                    "name": "Verbal other",
                     "labels": {
-                      "de": "",
-                      "en": "Other verbal"
+                      "de": "???",
+                      "en": "Verbal other"
                     }
                   },
                   {
-                    "name": "pending verbal",
+                    "name": "Verbal pending",
                     "labels": {
-                      "de": "",
-                      "en": "pending verbal"
+                      "de": "???",
+                      "en": "Verbal pending"
                     }
                   },
                   {
                     "name": "like or as",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "like or as"
                     }
                   }
                 ]
               },
               {
-                "name": "Typographie",
+                "name": "TYPOGRAPHY",
                 "labels": {
                   "de": "Typographie",
                   "en": "Typographie"
@@ -237,111 +723,232 @@
                   {
                     "name": "Quotation marks",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "Quotation marks"
                     }
                   },
                   {
                     "name": "Set off",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "Set off"
                     }
                   },
                   {
-                    "name": "Other typographie",
+                    "name": "Typography other",
                     "labels": {
-                      "de": "",
-                      "en": "Other typographie"
+                      "de": "???",
+                      "en": "Typography other"
                     }
                   },
                   {
                     "name": "Italics",
                     "labels": {
-                      "de": "",
+                      "de": "Kursiv",
                       "en": "Italics"
                     }
                   }
                 ]
               },
               {
-                "name": "Anomalie",
+                "name": "ANOMALY",
                 "labels": {
                   "de": "Anomalie",
-                  "en": "Anomalie"
+                  "en": "Anomaly"
                 },
                 "nodes": [
                   {
                     "name": "Archaism",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "Archaism"
                     }
                   },
                   {
                     "name": "Language switch",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "Language switch"
                     }
                   },
                   {
                     "name": "Nominalisation",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "Nominalisation"
                     }
                   },
                   {
                     "name": "Grammar",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "Grammar"
                     }
                   },
                   {
-                    "name": "Other or pending",
+                    "name": "Anomaly other",
                     "labels": {
-                      "de": "",
-                      "en": "Other or pending"
+                      "de": "???",
+                      "en": "Anomaly other"
                     }
                   },
                   {
                     "name": "Prose-Poetry switch",
                     "labels": {
-                      "de": "",
+                      "de": "???",
                       "en": "Prose-Poetry switch"
                     }
                   }
                 ]
               },
               {
+                "name": "MARKING BY NAME",
+                "labels": {
+                  "de": "Name",
+                  "en": "Marking by name"
+                }
+              },
+              {
+                "name": "MARKING BY GENRE",
+                "labels": {
+                  "de": "Genre",
+                  "en": "Marking by genre"
+                }
+              },
+              {
+                "name": "MARKING BY CONTEXT",
+                "labels": {
+                  "de": "Context",
+                  "en": "Marking by context"
+                }
+              },
+              {
+                "name": "MARKING PENDING",
+                "labels": {
+                  "de": "Pendings",
+                  "en": "Marking pending"
+                }
+              },
+              {
                 "name": "NAME",
                 "labels": {
                   "de": "Name",
                   "en": "Name"
-                }
-              },
-              {
-                "name": "Genre",
-                "labels": {
-                  "de": "Genre",
-                  "en": "Genre"
-                }
-              },
-              {
-                "name": "Context",
-                "labels": {
-                  "de": "Context",
-                  "en": "Context"
-                }
-              },
-              {
-                "name": "Pendings",
-                "labels": {
-                  "de": "Pendings",
-                  "en": "Pendings"
-                }
+                },
+                "nodes": [
+                  {
+                    "name": "Work unmarked",
+                    "labels": {
+                      "de": "???",
+                      "en": "Work unmarked"
+                    }
+                  },
+                  {
+                    "name": "Work title",
+                    "labels": {
+                      "de": "???",
+                      "en": "Work title"
+                    }
+                  },
+                  {
+                    "name": "Work by character",
+                    "labels": {
+                      "de": "???",
+                      "en": "Work by character"
+                    }
+                  },
+                  {
+                    "name": "Work character by epithet",
+                    "labels": {
+                      "de": "???",
+                      "en": "Work character by epithet"
+                    }
+                  },
+                  {
+                    "name": "Work secondary character in Hamlet",
+                    "labels": {
+                      "de": "???",
+                      "en": "Work secondary character in Hamlet"
+                    }
+                  },
+                  {
+                    "name": "Work by context",
+                    "labels": {
+                      "de": "???",
+                      "en": "Work by context"
+                    }
+                  },
+                  {
+                    "name": "Work title wrong",
+                    "labels": {
+                      "de": "???",
+                      "en": "Work title wrong"
+                    }
+                  },
+                  {
+                    "name": "Work genre or epithet",
+                    "labels": {
+                      "de": "???",
+                      "en": "Work genre or epithet"
+                    }
+                  },
+                  {
+                    "name": "Work pending",
+                    "labels": {
+                      "de": "???",
+                      "en": "Work pending"
+                    }
+                  },
+                  {
+                    "name": "Author unmarked",
+                    "labels": {
+                      "de": "???",
+                      "en": "Author unmarked"
+                    }
+                  },
+                  {
+                    "name": "Author name",
+                    "labels": {
+                      "de": "???",
+                      "en": "Author name"
+                    }
+                  },
+                  {
+                    "name": "Author epithet",
+                    "labels": {
+                      "de": "???",
+                      "en": "Author epithet"
+                    }
+                  },
+                  {
+                    "name": "Author by context",
+                    "labels": {
+                      "de": "???",
+                      "en": "Author by context"
+                    }
+                  },
+                  {
+                    "name": "Author anonymous",
+                    "labels": {
+                      "de": "???",
+                      "en": "Author anonymous"
+                    }
+                  },
+                  {
+                    "name": "Author wrong",
+                    "labels": {
+                      "de": "???",
+                      "en": "Author wrong"
+                    }
+                  },
+                  {
+                    "name": "Author pending",
+                    "labels": {
+                      "de": "???",
+                      "en": "Author pending"
+                    }
+                  }
+                ]
               }
             ]
           }
@@ -355,21 +962,21 @@
         },
         "nodes": [
           {
-            "name": "Name",
+            "name": "CHARACTERNAME",
             "labels": {
-              "de": "Name",
-              "en": "Name"
+              "de": "Charaktername",
+              "en": "Charactername"
             }
           },
           {
-            "name": "Title",
+            "name": "TITLE",
             "labels": {
-              "de": "titel",
+              "de": "Titel",
               "en": "title"
             }
           },
           {
-            "name": "Body of text",
+            "name": "BODY OF TEXT",
             "labels": {
               "de": "???",
               "en": "Body of text"
@@ -411,6 +1018,41 @@
                 }
               }
             ]
+          },
+          {
+            "name": "EPIGRAPH",
+            "labels": {
+              "de": "???",
+              "en": "Epigraph"
+            }
+          },
+          {
+            "name": "ANTHOLOGY ENTRY",
+            "labels": {
+              "de": "???",
+              "en": "anthology entry"
+            }
+          },
+          {
+            "name": "COMPLETE TEXT",
+            "labels": {
+              "de": "???",
+              "en": "Complete text"
+            }
+          },
+          {
+            "name": "FOOTNOTE OR OTHER",
+            "labels": {
+              "de": "???",
+              "en": "Footnote or other"
+            }
+          },
+          {
+            "name": "STAGE DIRECTION",
+            "labels": {
+              "de": "???",
+              "en": "Stage direction"
+            }
           }
         ]
       },
@@ -429,33 +1071,33 @@
             },
             "nodes": [
               {
-                "name": "Word",
+                "name": "word",
                 "labels": {
                   "de": "Wort",
-                  "en": "Word"
+                  "en": "word"
                 }
               },
               {
-                "name": "Phrase or sentence",
+                "name": "Phrase (two words to two lines)",
                 "labels": {
-                  "de": "Phrase oder Satz",
-                  "en": "Phrase or sentence"
+                  "de": "Satz",
+                  "en": "Phrase (two words to two lines)"
                 }
               },
               {
-                "name": "Passage",
+                "name": "Passage (longer)",
                 "labels": {
                   "de": "Passage",
-                  "en": "Passage"
+                  "en": "Passage (longer)"
                 }
               }
             ]
           },
           {
-            "name": "Verb",
+            "name": "Verbal",
             "labels": {
-              "de": "Verb",
-              "en": "Verb"
+              "de": "Verbal",
+              "en": "Verbal"
             },
             "nodes": [
               {
@@ -473,40 +1115,40 @@
                 }
               },
               {
-                "name": "Setpiece",
+                "name": "Setpiece (complete text)",
                 "labels": {
                   "de": "???",
-                  "en": "Setpiece"
+                  "en": "Setpiece (complete text)"
                 }
               }
             ]
           },
           {
-            "name": "Name(1)",
+            "name": "Name",
             "labels": {
               "de": "Name",
               "en": "Name"
             },
             "nodes": [
               {
-                "name": "Motif with Name",
+                "name": "Motif with name",
                 "labels": {
                   "de": "Motive mit Name",
-                  "en": "Motif with Name"
+                  "en": "Motif with name"
                 }
               },
               {
-                "name": "Human",
+                "name": "Real person",
                 "labels": {
-                  "de": "Mensch",
-                  "en": "Human"
+                  "de": "Reale Person",
+                  "en": "Real person"
                 }
               },
               {
-                "name": "Character",
+                "name": "Charactername",
                 "labels": {
-                  "de": "Character",
-                  "en": "Character"
+                  "de": "Charactername",
+                  "en": "Charactername"
                 }
               },
               {
@@ -517,10 +1159,10 @@
                 }
               },
               {
-                "name": "Book",
+                "name": "Booktitle",
                 "labels": {
-                  "de": "Buch",
-                  "en": "Book"
+                  "de": "Buchtitel",
+                  "en": "Booktitle"
                 }
               }
             ]
@@ -540,24 +1182,24 @@
                 }
               },
               {
-                "name": "Motif (plot element)",
+                "name": "Plot element",
                 "labels": {
                   "de": "???",
-                  "en": "Motif (plot element)"
+                  "en": "Plot element"
                 }
               },
               {
-                "name": "Motif (visual image, needn't be a metaphor)",
+                "name": "Visual motif",
                 "labels": {
                   "de": "???",
-                  "en": "Motif (visual image, needn't be a metaphor)"
+                  "en": "Visual motif"
                 }
               },
               {
-                "name": "Plot (complete action)",
+                "name": "Complete plot",
                 "labels": {
                   "de": "???",
-                  "en": "Plot (complete action)"
+                  "en": "Complete plot"
                 }
               },
               {
@@ -577,34 +1219,563 @@
             },
             "nodes": [
               {
-                "name": "Tiger",
+                "name": "Tiger cluster",
                 "labels": {
-                  "de": "Tiger",
-                  "en": "Tiger"
+                  "de": "Tiger Cluster",
+                  "en": "Tiger cluster"
                 }
               },
               {
-                "name": "Dog",
+                "name": "Dog cluster",
                 "labels": {
-                  "de": "Hund",
-                  "en": "Dog"
+                  "de": "Hund Cluster",
+                  "en": "Dog cluster"
                 }
               },
               {
-                "name": "Pillow",
+                "name": "Pillow cluster",
                 "labels": {
-                  "de": "Kissen",
-                  "en": "Pillow"
+                  "de": "Kissen Cluster",
+                  "en": "Pillow cluster"
                 }
               },
               {
-                "name": "Blot",
+                "name": "Blot cluster",
                 "labels": {
                   "de": "???",
-                  "en": "Blot"
+                  "en": "Blot cluster"
                 }
               }
             ]
+          }
+        ]
+      },
+      {
+        "name": "genre",
+        "labels": {
+          "de": "Genre",
+          "en": "genre"
+        },
+        "nodes": [
+          {
+            "name": "Fiction",
+            "labels": {
+              "de": "Fiktion",
+              "en": "Fiction"
+            },
+            "nodes": [
+              {
+                "name": "Prose",
+                "labels": {
+                  "de": "Prosa",
+                  "en": "Prose"
+                },
+                "nodes": [
+                  {
+                    "name": "Prose unspecified",
+                    "labels": {
+                      "de": "???",
+                      "en": "Prose unspecified"
+                    }
+                  },
+                  {
+                    "name": "Crime fiction",
+                    "labels": {
+                      "de": "Hügel",
+                      "en": "Crime fiction"
+                    }
+                  },
+                  {
+                    "name": "Biographical or historicizing",
+                    "labels": {
+                      "de": "???",
+                      "en": "Biographical or historicizing"
+                    }
+                  },
+                  {
+                    "name": "Gothic",
+                    "labels": {
+                      "de": "???",
+                      "en": "Gothic"
+                    }
+                  },
+                  {
+                    "name": "Science fiction or fantasy",
+                    "labels": {
+                      "de": "Science Fiction/ Fantasy",
+                      "en": "Science fiction or fantasy"
+                    }
+                  },
+                  {
+                    "name": "Romance",
+                    "labels": {
+                      "de": "Romantik",
+                      "en": "Romance"
+                    }
+                  },
+                  {
+                    "name": "Children's writing",
+                    "labels": {
+                      "de": "???",
+                      "en": "Children's writing"
+                    }
+                  },
+                  {
+                    "name": "Joke or comic or other",
+                    "labels": {
+                      "de": "Strasse",
+                      "en": "Joke or comic or other"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Poetry including songs",
+                "labels": {
+                  "de": "???",
+                  "en": "Poetry including songs"
+                },
+                "nodes": [
+                  {
+                    "name": "Poetry unspecified",
+                    "labels": {
+                      "de": "???",
+                      "en": "Poetry unspecified"
+                    }
+                  },
+                  {
+                    "name": "Song or ballad",
+                    "labels": {
+                      "de": "???",
+                      "en": "Song or ballad"
+                    }
+                  },
+                  {
+                    "name": "Epic and verse narrative",
+                    "labels": {
+                      "de": "???",
+                      "en": "Epic and verse narrative"
+                    }
+                  },
+                  {
+                    "name": "Closet drama",
+                    "labels": {
+                      "de": "???",
+                      "en": "Closet drama"
+                    }
+                  },
+                  {
+                    "name": "Verse satire",
+                    "labels": {
+                      "de": "???",
+                      "en": "Verse satire"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Drama (Theatre)",
+                "labels": {
+                  "de": "???",
+                  "en": "Drama (Theatre)"
+                },
+                "nodes": [
+                  {
+                    "name": "Theatre",
+                    "labels": {
+                      "de": "Theater",
+                      "en": "Theatre"
+                    }
+                  },
+                  {
+                    "name": "Tragedy",
+                    "labels": {
+                      "de": "Tragödie",
+                      "en": "Tragedy"
+                    }
+                  },
+                  {
+                    "name": "Comedy",
+                    "labels": {
+                      "de": "Komödie",
+                      "en": "Comedy"
+                    }
+                  },
+                  {
+                    "name": "History",
+                    "labels": {
+                      "de": "???",
+                      "en": "History"
+                    }
+                  },
+                  {
+                    "name": "Tragicomedy",
+                    "labels": {
+                      "de": "???",
+                      "en": "Tragicomedy"
+                    }
+                  },
+                  {
+                    "name": "Romance (Drama)",
+                    "labels": {
+                      "de": "Romanze (Drama)",
+                      "en": "Romance (Drama)"
+                    }
+                  },
+                  {
+                    "name": "Tragedy or History",
+                    "labels": {
+                      "de": "???",
+                      "en": "Tragedy or History"
+                    }
+                  },
+                  {
+                    "name": "Opera or musical theatre",
+                    "labels": {
+                      "de": "???",
+                      "en": "Opera or musical theatre"
+                    }
+                  },
+                  {
+                    "name": "Masque or other",
+                    "labels": {
+                      "de": "???",
+                      "en": "Masque or other"
+                    }
+                  }
+                ]
+              },
+              {
+                "name": "Drama (TV, film, radio, games)",
+                "labels": {
+                  "de": "Drama (TV, Film, Radio, Spiele)",
+                  "en": "Drama (TV, film, radio, games)"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Nonfiction",
+            "labels": {
+              "de": "Non-Fiktion",
+              "en": "Nonfiction"
+            },
+            "nodes": [
+              {
+                "name": "Journalism",
+                "labels": {
+                  "de": "Journalismus",
+                  "en": "Journalism"
+                }
+              },
+              {
+                "name": "Academic",
+                "labels": {
+                  "de": "Akademisch",
+                  "en": "Academic"
+                }
+              },
+              {
+                "name": "Popular",
+                "labels": {
+                  "de": "???",
+                  "en": "Popular"
+                }
+              },
+              {
+                "name": "Advertisement or blurb",
+                "labels": {
+                  "de": "???",
+                  "en": "Advertisement or blurb"
+                }
+              },
+              {
+                "name": "Anthology",
+                "labels": {
+                  "de": "Sammlung",
+                  "en": "Anthology"
+                }
+              },
+              {
+                "name": "Blog or chat or tweet",
+                "labels": {
+                  "de": "Blog/Chat/Tweet",
+                  "en": "Blog or chat or tweet"
+                }
+              },
+              {
+                "name": "Diary",
+                "labels": {
+                  "de": "Tagebuch",
+                  "en": "Diary"
+                }
+              },
+              {
+                "name": "Essay",
+                "labels": {
+                  "de": "Essay",
+                  "en": "Essay"
+                }
+              },
+              {
+                "name": "Conversation or testimony",
+                "labels": {
+                  "de": "???",
+                  "en": "Conversation or testimony"
+                }
+              },
+              {
+                "name": "Letter",
+                "labels": {
+                  "de": "Briefe",
+                  "en": "Letter"
+                }
+              },
+              {
+                "name": "Official document",
+                "labels": {
+                  "de": "Offizielles Dokument",
+                  "en": "Official document"
+                }
+              },
+              {
+                "name": "Preface or dedication",
+                "labels": {
+                  "de": "???",
+                  "en": "Preface or dedication"
+                }
+              },
+              {
+                "name": "Speech or lecture or sermon",
+                "labels": {
+                  "de": "Sammlung",
+                  "en": "Speech or lecture or sermon"
+                }
+              },
+              {
+                "name": "Bible or religious pamphlet",
+                "labels": {
+                  "de": "???",
+                  "en": "Bible or religious pamphlet"
+                }
+              },
+              {
+                "name": "Nonfiction unspecified",
+                "labels": {
+                  "de": "???",
+                  "en": "Nonfiction unspecified"
+                }
+              },
+              {
+                "name": "Annotated edition",
+                "labels": {
+                  "de": "???",
+                  "en": "Annotated edition"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Other genre",
+            "labels": {
+              "de": "???",
+              "en": "Other genre"
+            },
+            "nodes": [
+              {
+                "name": "Visual arts",
+                "labels": {
+                  "de": "Visuelle Kunst",
+                  "en": "Visual arts"
+                }
+              },
+              {
+                "name": "Instrumental music",
+                "labels": {
+                  "de": "???",
+                  "en": "Instrumental music"
+                }
+              },
+              {
+                "name": "Dance and performance",
+                "labels": {
+                  "de": "Tanz und Aufführung",
+                  "en": "Dance and performance"
+                }
+              },
+              {
+                "name": "Cartoon",
+                "labels": {
+                  "de": "Zeichentrick",
+                  "en": "Cartoon"
+                }
+              },
+              {
+                "name": "Name or anagram or other",
+                "labels": {
+                  "de": "Name/Anagram/Weiteres",
+                  "en": "Name or anagram or other"
+                }
+              },
+              {
+                "name": "Wegweiser",
+                "labels": {
+                  "de": "Wegweiser",
+                  "en": "???"
+                }
+              },
+              {
+                "name": "Database",
+                "labels": {
+                  "de": "Datenbank",
+                  "en": "Database"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "subject",
+        "labels": {
+          "de": "Thema",
+          "en": "subject"
+        },
+        "nodes": [
+          {
+            "name": "Art, architecture, music",
+            "labels": {
+              "de": "Kunst, Architektur, Musik",
+              "en": "Art, architecture, music"
+            }
+          },
+          {
+            "name": "History, (auto-)biography",
+            "labels": {
+              "de": "???",
+              "en": "History, (auto-)biography"
+            }
+          },
+          {
+            "name": "Literary and Cultural Studies",
+            "labels": {
+              "de": "Literatur und kulturelle Studien",
+              "en": "Literary and Cultural Studies"
+            }
+          },
+          {
+            "name": "Linguistics",
+            "labels": {
+              "de": "Linguistik",
+              "en": "Linguistics"
+            }
+          },
+          {
+            "name": "Politics, law, economics",
+            "labels": {
+              "de": "Politik, Gesetz, Wirtschaft",
+              "en": "Politics, law, economics"
+            }
+          },
+          {
+            "name": "Philosophy, religion",
+            "labels": {
+              "de": "Philosophie, Religion",
+              "en": "Philosophy, religion"
+            }
+          },
+          {
+            "name": "Sciences, engineering, IT",
+            "labels": {
+              "de": "???",
+              "en": "Sciences, engineering, IT"
+            }
+          },
+          {
+            "name": "Sociology, society, lifestyle",
+            "labels": {
+              "de": "???",
+              "en": "Sociology, society, lifestyle"
+            }
+          },
+          {
+            "name": "TO BE EDITED",
+            "labels": {
+              "de": "???",
+              "en": "TO BE EDITED"
+            }
+          },
+          {
+            "name": "Psychology, medicine, health",
+            "labels": {
+              "de": "Psychologie, Medizin, Gesundheit",
+              "en": "Psychology, medicine, health"
+            }
+          },
+          {
+            "name": "WOMAN WRITER",
+            "labels": {
+              "de": "Weibliche Autorin",
+              "en": "Woman writer"
+            }
+          },
+          {
+            "name": "Literary and cultural studies (Shakespeare)",
+            "labels": {
+              "de": "???",
+              "en": "Literary and cultural studies (Shakespeare)"
+            }
+          },
+          {
+            "name": "AFTER TRANSFER FIX BIBLIO OR GENRE",
+            "labels": {
+              "de": "???",
+              "en": "Fixing after transfer"
+            }
+          },
+          {
+            "name": "EXHAUSTED",
+            "labels": {
+              "de": "???",
+              "en": "???"
+            }
+          }
+        ]
+      },
+      {
+        "name": "status",
+        "labels": {
+          "de": "Status",
+          "en": "status"
+        },
+        "nodes": [
+          {
+            "name": "unedited",
+            "labels": {
+              "de": "uneditiert",
+              "en": "unedited"
+            }
+          },
+          {
+            "name": "check",
+            "labels": {
+              "de": "???",
+              "en": "check"
+            }
+          },
+          {
+            "name": "weak",
+            "labels": {
+              "de": "???",
+              "en": "weak"
+            }
+          },
+          {
+            "name": "plausible",
+            "labels": {
+              "de": "???",
+              "en": "plausible"
+            }
           }
         ]
       }
@@ -735,18 +1906,18 @@
               "cardinality": "0-1"
             },
             {
-              "name": "hasSex",
+              "name": "hasGender",
               "super": [
                 "hasValue"
               ],
               "object": "ListValue",
               "labels": {
-                "en": "Sex",
+                "en": "Gender",
                 "de": "Geschlecht"
               },
               "gui_element": "Pulldown",
               "gui_attributes": [
-                "hlist=sex"
+                "hlist=gender"
               ],
               "cardinality": "0-1"
             }
@@ -878,6 +2049,38 @@
                 "hlist=language"
               ],
               "cardinality": "0-1"
+            },
+            {
+              "name": "hasGenre",
+              "super": [
+                "hasValue"
+              ],
+              "object": "ListValue",
+              "labels": {
+                "en": "has a genre",
+                "de": "hat ein Genre"
+              },
+              "gui_element": "Pulldown",
+              "gui_attributes": [
+                "hlist=genre"
+              ],
+              "cardinality": "0-n"
+            },
+            {
+              "name": "hasSubject",
+              "super": [
+                "hasValue"
+              ],
+              "object": "ListValue",
+              "labels": {
+                "en": "has a subject",
+                "de": "hat Thema"
+              },
+              "gui_element": "Pulldown",
+              "gui_attributes": [
+                "hlist=subject"
+              ],
+              "cardinality": "0-n"
             },
             {
               "name": "createdDate",
@@ -1192,6 +2395,22 @@
               "gui_element": "Pulldown",
               "gui_attributes": [
                 "hlist=formalClass"
+              ],
+              "cardinality": "0-1"
+            },
+            {
+              "name": "hasImage",
+              "super": [
+                "hasValue"
+              ],
+              "object": "ListValue",
+              "labels": {
+                "en": "image",
+                "de": "Bilder"
+              },
+              "gui_element": "Pulldown",
+              "gui_attributes": [
+                "hlist=image"
               ],
               "cardinality": "0-1"
             }

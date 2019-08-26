@@ -3353,5 +3353,25 @@
     "bookInternalId": "@001981",
     "title": "Women, Beware Women",
     "sql": 1309
+  },
+  "ww_d67d6b340386ae62": {
+    "bookInternalId": "@006106",
+    "title": "Tragedy of King Richard the Second",
+    "sql": 1312
+  },
+  "ww_c1ceb857f7b44e8e": {
+    "bookInternalId": "@002399",
+    "title": "Perkin Warbeck",
+    "sql": 1314
+  },
+  "ww_6a980575ed20dd14": {
+    "bookInternalId": "@001860",
+    "title": "The Marriages of the Arts",
+    "sql": 1315
+  },
+  "ww_61a73af76dada45a": {
+    "bookInternalId": "@001523",
+    "title": "The Devils Charter",
+    "sql": 1316
   }
 }
