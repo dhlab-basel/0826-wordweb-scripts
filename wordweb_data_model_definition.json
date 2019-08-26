@@ -1920,6 +1920,19 @@
                 "hlist=gender"
               ],
               "cardinality": "0-1"
+            },
+            {
+              "name": "lexiaAsPerson",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:lexia",
+              "labels": {
+                "en": "lexia as person",
+                "de": "Lexia als Person"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
             }
           ]
         },
@@ -2004,6 +2017,19 @@
               "labels": {
                 "en": "is performed in",
                 "de": "wurde performed in"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "lexiaAsBook",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:lexia",
+              "labels": {
+                "en": "lexia as book",
+                "de": "Lexia als Buch"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
@@ -2477,6 +2503,19 @@
                 "maxlength=64"
               ],
               "cardinality": "1"
+            },
+            {
+              "name": "lexiaAsCompany",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:lexia",
+              "labels": {
+                "en": "lexia as company",
+                "de": "Lexia als Theatergruppe"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
             }
           ]
         },
@@ -2525,6 +2564,19 @@
                 "maxlength=64"
               ],
               "cardinality": "1"
+            },
+            {
+              "name": "lexiaAsVenue",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:lexia",
+              "labels": {
+                "en": "lexia as venue",
+                "de": "Lexia als Aufführungsort"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
             }
           ]
         }
