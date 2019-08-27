@@ -37,7 +37,8 @@
     "hasGender": "male",
     "description": "English poet  #007005",
     "birthDate": "GREGORIAN:1343",
-    "deathDate": "GREGORIAN:1400"
+    "deathDate": "GREGORIAN:1400",
+    "lexiaAsPerson": "ww_bb3b00797f4f11ab"
   },
   "ww_13695de2bd4043e0": {
     "firstName": "Henry",
@@ -262,7 +263,8 @@
     "hasGender": "male",
     "description": "English dramatist and poet  #007000",
     "birthDate": "GREGORIAN:1564",
-    "deathDate": "GREGORIAN:1616"
+    "deathDate": "GREGORIAN:1616",
+    "lexiaAsPerson": "ww_8437b5aa2cc03d1c"
   },
   "ww_4c146e6d2ef23a03": {
     "firstName": "Frederick James",
@@ -1069,7 +1071,8 @@
     "hasGender": "male",
     "description": "English politician, poet and dramatist  #007009",
     "birthDate": "GREGORIAN:1536",
-    "deathDate": "GREGORIAN:1608"
+    "deathDate": "GREGORIAN:1608",
+    "lexiaAsPerson": "ww_b4c9d5f09cdb7ed4"
   },
   "ww_7aab59631f22d17e": {
     "firstName": "John",
@@ -1527,7 +1530,8 @@
   "ww_2328c74af1f27243": {
     "firstName": "Marcus Tullius",
     "lastName": "Cicero",
-    "hasGender": "male"
+    "hasGender": "male",
+    "lexiaAsPerson": "ww_ba1b676617a861e5"
   },
   "ww_6b7b6aabda5c7c6b": {
     "firstName": "John",
@@ -1583,7 +1587,8 @@
   "ww_a00dfc9e63a5d0fe": {
     "firstName": "Lucius Annaeus",
     "lastName": "Seneca",
-    "hasGender": "male"
+    "hasGender": "male",
+    "lexiaAsPerson": "ww_25616d7e0d396ec6"
   },
   "ww_a256d6059e2044ff": {
     "firstName": "John",
@@ -1611,7 +1616,8 @@
   "ww_ead92b40726b9049": {
     "firstName": "Publius",
     "lastName": "Ovidius Naso",
-    "hasGender": "male"
+    "hasGender": "male",
+    "lexiaAsPerson": "ww_7679d989da9882a5"
   },
   "ww_7dad315c91c456fb": {
     "firstName": "John",
@@ -1846,6 +1852,14 @@
     "description": "Anglo-Italian linguist and anthologist",
     "birthDate": "GREGORIAN:1553",
     "deathDate": "GREGORIAN:1625"
+  },
+  "ww_b03485399e74fd98": {
+    "firstName": "George K.",
+    "lastName": "Hunter",
+    "hasGender": "male",
+    "description": "Scottish-born U.S. academic",
+    "birthDate": "GREGORIAN:1920",
+    "deathDate": "GREGORIAN:2008"
   },
   "ww_dc3833f217f24ffb": {
     "firstName": "Richard",
@@ -2199,14 +2213,6 @@
     "hasGender": "male",
     "description": "English poet",
     "activeDate": "GREGORIAN:1589:1602"
-  },
-  "ww_b03485399e74fd98": {
-    "firstName": "George K.",
-    "lastName": "Hunter",
-    "hasGender": "male",
-    "description": "Scottish-born U.S. academic",
-    "birthDate": "GREGORIAN:1920",
-    "deathDate": "GREGORIAN:2008"
   },
   "ww_dad51991851a1bbf": {
     "firstName": "Richard Herne",

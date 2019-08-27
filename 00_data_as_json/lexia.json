@@ -1279,7 +1279,7 @@
   },
   "ww_c9ded44d1de25442": {
     "lexiaInternalId": "#007014",
-    "lexiaTitle": "Pompey the Great",
+    "lexiaTitle": "Gnaeus Pompeius Magnus",
     "formalClass": "Real person"
   },
   "ww_f22d602f698d2e05": {
@@ -1449,7 +1449,7 @@
   },
   "ww_40b91fe87871ac49": {
     "lexiaInternalId": "@001529",
-    "lexiaTitle": "Family of Love",
+    "lexiaTitle": "The Family of Love",
     "formalClass": "Booktitle"
   },
   "ww_e5cc4174b6a12d9e": {
@@ -1849,7 +1849,7 @@
   },
   "ww_d281909132aea951": {
     "lexiaInternalId": "#004128",
-    "lexiaTitle": "darkness fast as lighting",
+    "lexiaTitle": "darkness fast as lightning",
     "formalClass": "Keywords"
   },
   "ww_49f0ece3838e45a9": {
@@ -1894,7 +1894,7 @@
   },
   "ww_7679d989da9882a5": {
     "lexiaInternalId": "#007015",
-    "lexiaTitle": "Ovid",
+    "lexiaTitle": "Publius Ovidius Naso",
     "formalClass": "Real person"
   },
   "ww_f2444d2adf1bc4f6": {
@@ -2019,11 +2019,11 @@
   },
   "ww_185c4f33d8dab384": {
     "lexiaInternalId": "#007004",
-    "lexiaTitle": "Will Kemp",
+    "lexiaTitle": "William Kempe",
     "formalClass": "Real person"
   },
-  "ww_e8944b0e7dad1247": {
-    "lexiaInternalId": "@035576",
+  "ww_2d2e13019f5b91c4": {
+    "lexiaInternalId": "@005576",
     "lexiaTitle": "Metamorphoses",
     "formalClass": "Booktitle"
   },
@@ -2862,7 +2862,7 @@
   },
   "ww_9fee454d08c418ca": {
     "lexiaInternalId": "@001419",
-    "lexiaTitle": "The Case Is Altered",
+    "lexiaTitle": "The Case is Altered",
     "formalClass": "Booktitle"
   },
   "ww_b3f520ddb4b25991": {
@@ -3287,7 +3287,7 @@
   },
   "ww_25616d7e0d396ec6": {
     "lexiaInternalId": "#007012",
-    "lexiaTitle": "Seneca",
+    "lexiaTitle": "Lucius Annaeus Seneca",
     "formalClass": "Real person"
   },
   "ww_2bef6d5b23902a39": {
@@ -3766,7 +3766,7 @@
   },
   "ww_b8eb86e0e6526fc7": {
     "lexiaInternalId": "@001303",
-    "lexiaTitle": "How a Man May Choose a good Wife from a bad",
+    "lexiaTitle": "How a Man May Choose a Good Wife From A Bad",
     "formalClass": "Booktitle"
   },
   "ww_08d47478e595f8d1": {
@@ -3794,8 +3794,8 @@
     "lexiaTitle": "No woman can hold out in the end",
     "formalClass": "Plot element"
   },
-  "ww_6aefb1e8c16e97a6": {
-    "lexiaInternalId": "@001459",
+  "ww_c5d744a2f2a728e4": {
+    "lexiaInternalId": "#001431",
     "lexiaTitle": "The Honest Whore",
     "formalClass": "Booktitle"
   },
@@ -3898,6 +3898,11 @@
     "lexiaInternalId": "#008023",
     "lexiaTitle": "The Fortune Playhouse, London",
     "formalClass": "Venue or place"
+  },
+  "ww_6aefb1e8c16e97a6": {
+    "lexiaInternalId": "@001459",
+    "lexiaTitle": "The Honest Whore Part 2",
+    "formalClass": "Booktitle"
   },
   "ww_4973dd95e5ade149": {
     "lexiaInternalId": "#030710",
@@ -4258,11 +4263,6 @@
     "lexiaInternalId": "#032231",
     "lexiaTitle": "He parted frowning from me",
     "formalClass": "Passage (longer)"
-  },
-  "ww_07935c19bb35a45e": {
-    "lexiaInternalId": "#004135",
-    "lexiaTitle": "Et tu Brute",
-    "formalClass": "Phrase (two words to two lines)"
   },
   "ww_e0e9d1ae32b85190": {
     "lexiaInternalId": "#030607",

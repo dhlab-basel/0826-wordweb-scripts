@@ -24051,14 +24051,6 @@
     "description": "English dramatist",
     "sql": 4081
   },
-  "ww_8a8bfadfa12d613d": {
-    "firstName": "John, 1st Earl of Shrewsbury",
-    "lastName": "Talbot",
-    "birthExact": "1387",
-    "deathExact": "1453",
-    "description": "English military commander  #007011",
-    "sql": 4178
-  },
   "ww_8ed0f0315ce8fc6a": {
     "firstName": "Catherine",
     "lastName": "Talbot",
@@ -24066,6 +24058,14 @@
     "deathExact": "1770",
     "description": "English essayist",
     "sql": 3951
+  },
+  "ww_b6e09a79bde97dd6": {
+    "firstName": "John",
+    "lastName": "Talbot, 1st Earl of Shrewsbury",
+    "birthExact": "1387",
+    "deathExact": "1453",
+    "description": "English military commander  #007011",
+    "sql": 4178
   },
   "ww_989f83a0be85b96e": {
     "firstName": "Raymond",

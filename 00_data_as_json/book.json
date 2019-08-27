@@ -279,8 +279,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Speech or lecture or sermon",
-      "Nonfiction unspecified"
+      "Nonfiction unspecified",
+      "Speech or lecture or sermon"
     ],
     "hasSubject": [
       "Sociology, society, lifestyle",
@@ -312,8 +312,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "Politics, law, economics"
+      "Politics, law, economics",
+      "Philosophy, religion"
     ],
     "title": "An Answer to a Certain Libel",
     "editionOriginal": "An ansvvere to a certen Libel intituled, An Admonition to the Parliament. 1572-1573."
@@ -417,8 +417,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -512,8 +512,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
-      "Tragedy"
+      "Tragedy",
+      "History"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -537,8 +537,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy or History"
+      "Tragedy or History",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -603,8 +603,8 @@
     "bookInternalId": "@010017",
     "edition": "eds. Edward II by Christopher Marlowe. London: Methuen, 1933.",
     "isWrittenBy": [
-      "ww_40af4fdaa8bf7a1d",
-      "ww_30995ab4792b9a3f"
+      "ww_30995ab4792b9a3f",
+      "ww_40af4fdaa8bf7a1d"
     ],
     "title": "Edward II (Charlton edition)"
   },
@@ -652,8 +652,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [
       "Literary and Cultural Studies"
@@ -684,10 +684,10 @@
     "bookInternalId": "@010000",
     "edition": "The Shakspere Allusion Book. A Collection of Allusions to Shakspere from 1591 to 1700 [...]. London: Chatto and Windus; New York: Duffield and Co., 1909.",
     "isWrittenBy": [
-      "ww_a60ff4964db613ee",
       "ww_4c146e6d2ef23a03",
-      "ww_fb550941e6e9db62",
-      "ww_26c25538fa69a566"
+      "ww_26c25538fa69a566",
+      "ww_a60ff4964db613ee",
+      "ww_fb550941e6e9db62"
     ],
     "title": "The Shakspere Allusion Book"
   },
@@ -707,9 +707,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
+      "Tragedy",
       "History",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Henry VI Part 2"
@@ -730,8 +730,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -756,9 +756,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
+      "Tragedy",
       "History",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Edward The Second"
@@ -780,8 +780,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Titus Andronicus"
@@ -855,9 +855,9 @@
     "bookInternalId": "@010084",
     "edition": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts.",
     "isWrittenBy": [
-      "ww_386448c09c02ba3f",
       "ww_4d01a832f50d804e",
       "ww_c8fa0de8d0fc2fc4",
+      "ww_386448c09c02ba3f",
       "ww_55f5e9f5fe14853f"
     ],
     "title": "FDT - Folger Digital Texts"
@@ -879,9 +879,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
+      "Tragedy or History",
       "History",
-      "Theatre",
-      "Tragedy or History"
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Richard III"
@@ -910,8 +910,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "The Massacre at Paris"
@@ -996,8 +996,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -1084,7 +1084,8 @@
       "Epic and verse narrative"
     ],
     "hasSubject": [],
-    "title": "Lucrece"
+    "title": "Lucrece",
+    "lexiaAsBook": "ww_ef9dc6b968b0ad60"
   },
   "ww_e2c55db07abd4416": {
     "bookInternalId": "@001012",
@@ -1119,8 +1120,8 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_acae054af12e4a13",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_acae054af12e4a13"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1132,7 +1133,8 @@
     "hasSubject": [
       "TO BE EDITED"
     ],
-    "title": "Romeo and Juliet"
+    "title": "Romeo and Juliet",
+    "lexiaAsBook": "ww_153def16bdb0bd7b"
   },
   "ww_c8e25bef891b5536": {
     "bookInternalId": "@001002",
@@ -1150,10 +1152,10 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
       "Tragedy or History",
+      "Tragedy",
       "History",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -1198,9 +1200,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
+      "Tragedy",
       "History",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "King John"
@@ -1214,8 +1216,8 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_acae054af12e4a13",
-      "ww_fd98b29e0635c74b"
+      "ww_fd98b29e0635c74b",
+      "ww_acae054af12e4a13"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1246,12 +1248,13 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
+      "Tragedy",
       "History",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Literary and Cultural Studies"
     ],
     "title": "Henry IV Part 1"
   },
@@ -1272,17 +1275,17 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_acae054af12e4a13",
-      "ww_7a40b1dc650ae5b2"
+      "ww_7a40b1dc650ae5b2",
+      "ww_acae054af12e4a13"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
+      "Tragedy",
       "History",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Henry IV Part 2"
@@ -1304,8 +1307,8 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_acae054af12e4a13",
-      "ww_7a40b1dc650ae5b2"
+      "ww_7a40b1dc650ae5b2",
+      "ww_acae054af12e4a13"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1489,9 +1492,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
       "Tragedy or History",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -1514,8 +1517,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Henry V"
@@ -1568,13 +1571,14 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
     ],
-    "title": "Hamlet"
+    "title": "Hamlet",
+    "lexiaAsBook": "ww_d16fc7ea4dc4dd74"
   },
   "ww_5c3ae833a8aaf03d": {
     "bookInternalId": "@001237",
@@ -1592,9 +1596,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
+      "Tragedy",
       "Comedy",
-      "Theatre",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "As You Like It"
@@ -1786,8 +1790,8 @@
       "ww_427140c1aa665027"
     ],
     "performedBy": [
-      "ww_dc6a53fb57f6bea7",
-      "ww_2eb6b7cad6584184"
+      "ww_2eb6b7cad6584184",
+      "ww_dc6a53fb57f6bea7"
     ],
     "hasLanguage": "English",
     "hasGenre": [
@@ -1863,8 +1867,8 @@
     "createdDate": "GREGORIAN:1601:1601",
     "publishDate": "GREGORIAN:1601:1601",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_0989e07eda6de68c"
+      "ww_0989e07eda6de68c",
+      "ww_87dbd52f1c5b813b"
     ],
     "performedIn": [
       "ww_089bccbbe4233206"
@@ -1897,8 +1901,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Troilus and Cressida"
@@ -1960,8 +1964,8 @@
       "ww_f10aec8cfe5ff90d"
     ],
     "performedIn": [
-      "ww_f5ca98875b1e42cc",
-      "ww_20cfa5b2cc17f297"
+      "ww_20cfa5b2cc17f297",
+      "ww_f5ca98875b1e42cc"
     ],
     "performedBy": [
       "ww_f31f247137fcb48d",
@@ -1969,8 +1973,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Romance (Drama)",
-      "Tragedy"
+      "Tragedy",
+      "Romance (Drama)"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -1984,10 +1988,10 @@
     "createdDate": "GREGORIAN:1602:1602",
     "publishDate": "GREGORIAN:1602:1602",
     "isWrittenBy": [
+      "ww_9594c85bc48d3759",
       "ww_d78940f8a8554ca3",
-      "ww_87dbd52f1c5b813b",
       "ww_f10aec8cfe5ff90d",
-      "ww_9594c85bc48d3759"
+      "ww_87dbd52f1c5b813b"
     ],
     "performedIn": [
       "ww_089bccbbe4233206"
@@ -1997,8 +2001,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -2022,9 +2026,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
+      "Tragedy",
       "Tragicomedy",
-      "Theatre",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [
       "Literary and Cultural Studies"
@@ -2064,8 +2068,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Othello"
@@ -2076,8 +2080,8 @@
     "createdDate": "GREGORIAN:1604:1604",
     "publishDate": "GREGORIAN:1604:1604",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_87dbd52f1c5b813b"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -2107,8 +2111,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -2174,8 +2178,8 @@
       "ww_f10aec8cfe5ff90d"
     ],
     "performedIn": [
-      "ww_c0d00b72afb6958f",
-      "ww_7a40b1dc650ae5b2"
+      "ww_7a40b1dc650ae5b2",
+      "ww_c0d00b72afb6958f"
     ],
     "performedBy": [
       "ww_b92cc9cd25fb9404"
@@ -2217,8 +2221,8 @@
     "createdDate": "GREGORIAN:1604:1604",
     "publishDate": "GREGORIAN:1604:1604",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_87dbd52f1c5b813b"
     ],
     "performedIn": [
       "ww_3648ddbaa50156d1"
@@ -2284,8 +2288,8 @@
     "createdDate": "GREGORIAN:1605:1605",
     "publishDate": "GREGORIAN:1605:1605",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
       "ww_8501ec457f433848",
+      "ww_ad03d7c87e5b9c24",
       "ww_9b2d545e20d62482"
     ],
     "performedIn": [
@@ -2316,8 +2320,8 @@
     "createdDate": "GREGORIAN:1605:1605",
     "publishDate": "GREGORIAN:1605:1605",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_87dbd52f1c5b813b"
     ],
     "performedIn": [
       "ww_089bccbbe4233206"
@@ -2369,8 +2373,8 @@
       "ww_212c78497ddc32c5"
     ],
     "performedIn": [
-      "ww_25bb6c5b90a2e2fe",
-      "ww_b00be8347d0cb16d"
+      "ww_b00be8347d0cb16d",
+      "ww_25bb6c5b90a2e2fe"
     ],
     "performedBy": [
       "ww_9472979a5bf666e6",
@@ -2416,16 +2420,16 @@
     "createdDate": "GREGORIAN:1606:1606",
     "publishDate": "GREGORIAN:1606:1606",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_ecd33a52caec339f"
+      "ww_ecd33a52caec339f",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
+      "Tragedy",
       "Comedy",
-      "Theatre",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -2457,8 +2461,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Macbeth"
@@ -2475,8 +2479,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Antony and Cleopatra"
@@ -2512,8 +2516,8 @@
     "createdDate": "GREGORIAN:1607:1607",
     "publishDate": "GREGORIAN:1607:1607",
     "isWrittenBy": [
-      "ww_986dd93d2d794ff5",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_986dd93d2d794ff5"
     ],
     "performedIn": [
       "ww_427140c1aa665027"
@@ -2594,8 +2598,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -2636,16 +2640,16 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Coriolanus"
@@ -2662,8 +2666,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -2687,8 +2691,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
-      "Tragedy"
+      "Tragedy",
+      "History"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -2804,8 +2808,8 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2813,8 +2817,8 @@
     "hasLanguage": "English",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
-      "Romance (Drama)"
+      "Romance (Drama)",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Cymbeline"
@@ -2835,9 +2839,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
+      "Tragedy",
       "Comedy",
-      "Theatre",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Amends for Ladies",
@@ -2930,17 +2934,17 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
     ],
     "hasLanguage": "English",
     "hasGenre": [
+      "Tragedy",
       "Romance (Drama)",
-      "Theatre",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "The Winters Tale"
@@ -3018,8 +3022,8 @@
     "createdDate": "GREGORIAN:1612:1612",
     "publishDate": "GREGORIAN:1612:1612",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -3046,8 +3050,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -3081,8 +3085,8 @@
     "createdDate": "GREGORIAN:1613:1613",
     "publishDate": "GREGORIAN:1613:1613",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -3136,8 +3140,8 @@
     "createdDate": "GREGORIAN:1616:1616",
     "publishDate": "GREGORIAN:1616:1616",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_5cb3d6fa23800e74"
+      "ww_5cb3d6fa23800e74",
+      "ww_c298754546b2500e"
     ],
     "performedIn": [],
     "performedBy": [
@@ -3205,12 +3209,12 @@
     "createdDate": "GREGORIAN:1619:1619",
     "publishDate": "GREGORIAN:1619:1619",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -3229,8 +3233,8 @@
     "createdDate": "GREGORIAN:1620:1620",
     "publishDate": "GREGORIAN:1620:1620",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_87dbd52f1c5b813b"
     ],
     "performedIn": [
       "ww_f5ca98875b1e42cc"
@@ -3240,8 +3244,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -3258,16 +3262,16 @@
       "ww_c298754546b2500e"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "The Mayor of Queenborough",
@@ -3299,20 +3303,20 @@
     "createdDate": "GREGORIAN:1622:1622",
     "publishDate": "GREGORIAN:1622:1622",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -3417,8 +3421,8 @@
     "createdDate": "GREGORIAN:1626:1626",
     "publishDate": "GREGORIAN:1626:1626",
     "isWrittenBy": [
-      "ww_f10aec8cfe5ff90d",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_f10aec8cfe5ff90d"
     ],
     "performedIn": [
       "ww_6e7147c9796f97ad"
@@ -3428,8 +3432,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -3453,8 +3457,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -3502,8 +3506,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -3520,8 +3524,8 @@
       "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -3550,8 +3554,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -3695,8 +3699,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Believe as You List",
@@ -3711,8 +3715,8 @@
       "ww_cbc2c3284144573a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -3781,16 +3785,16 @@
       "ww_e97f8919dc99b209"
     ],
     "performedIn": [
-      "ww_6e7147c9796f97ad",
-      "ww_a94d56d7f73b117c"
+      "ww_a94d56d7f73b117c",
+      "ww_6e7147c9796f97ad"
     ],
     "performedBy": [
       "ww_fb09029608b37502"
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -3865,8 +3869,8 @@
       "ww_cbc2c3284144573a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -4139,8 +4143,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -4350,8 +4354,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "The English Princess"
@@ -4424,8 +4428,8 @@
       "Tragicomedy"
     ],
     "hasSubject": [
-      "WOMAN WRITER",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "WOMAN WRITER"
     ],
     "title": "The Forced Marriage"
   },
@@ -4493,8 +4497,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "The Rival Kings"
@@ -4653,9 +4657,9 @@
       "Comedy"
     ],
     "hasSubject": [
+      "AFTER TRANSFER FIX BIBLIO OR GENRE",
       "WOMAN WRITER",
-      "TO BE EDITED",
-      "AFTER TRANSFER FIX BIBLIO OR GENRE"
+      "TO BE EDITED"
     ],
     "title": "The City Heiress"
   },
@@ -4738,8 +4742,8 @@
     "createdDate": "GREGORIAN:1561:1561",
     "publishDate": "GREGORIAN:1561:1561",
     "isWrittenBy": [
-      "ww_7af335e6c892a8d0",
-      "ww_3d7f30bfa784adbc"
+      "ww_3d7f30bfa784adbc",
+      "ww_7af335e6c892a8d0"
     ],
     "performedIn": [
       "ww_bd0eb3cd9d8d7f15"
@@ -4942,8 +4946,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Henry VI Part 1"
@@ -5019,8 +5023,8 @@
     "createdDate": "GREGORIAN:1593:1593",
     "publishDate": "GREGORIAN:1593:1593",
     "isWrittenBy": [
-      "ww_63d5fe36ffac5d32",
-      "ww_8501ec457f433848"
+      "ww_8501ec457f433848",
+      "ww_63d5fe36ffac5d32"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -5261,8 +5265,8 @@
     "bookInternalId": "@010010",
     "edition": "eds. William Shakespeare and Others: Collaborative Plays. Basingstoke: Palgrave Macmillan, 2013.",
     "isWrittenBy": [
-      "ww_8fb09da2c31a2ddc",
-      "ww_360a194801e33346"
+      "ww_360a194801e33346",
+      "ww_8fb09da2c31a2ddc"
     ],
     "title": "Collaborative Plays"
   },
@@ -5282,9 +5286,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
+      "Tragedy",
       "Tragicomedy",
-      "Theatre",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -5320,8 +5324,8 @@
     "bookInternalId": "@010065",
     "edition": "Past and Present 44 (August 1969): 3-51.",
     "isWrittenBy": [
-      "ww_9d448942a16583fe",
-      "ww_c961f8c651ae6763"
+      "ww_c961f8c651ae6763",
+      "ww_9d448942a16583fe"
     ],
     "title": "The Madrigal, the Lute Song and Elizabethan Politics"
   },
@@ -5534,8 +5538,8 @@
     "createdDate": "GREGORIAN:1603:1603",
     "publishDate": "GREGORIAN:1603:1603",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_ad03d7c87e5b9c24"
     ],
     "performedIn": [
       "ww_fd98b29e0635c74b"
@@ -5566,9 +5570,9 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
+      "Tragedy",
       "Comedy",
-      "Theatre",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "The Dutch Curtezan",
@@ -5611,7 +5615,8 @@
       "Theatre"
     ],
     "hasSubject": [],
-    "title": "The Case is Altered"
+    "title": "The Case is Altered",
+    "lexiaAsBook": "ww_9fee454d08c418ca"
   },
   "ww_d77664dc4673002e": {
     "bookInternalId": "@001455",
@@ -5674,9 +5679,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
+      "Tragedy",
       "Comedy",
-      "Theatre",
-      "Tragedy"
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "Sophonisba",
@@ -5688,8 +5693,8 @@
     "createdDate": "GREGORIAN:1606:1606",
     "publishDate": "GREGORIAN:1606:1606",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_883324fc3b8b8dba"
+      "ww_883324fc3b8b8dba",
+      "ww_c298754546b2500e"
     ],
     "performedIn": [
       "ww_427140c1aa665027"
@@ -5697,8 +5702,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -5768,7 +5773,8 @@
     "hasSubject": [
       "TO BE EDITED"
     ],
-    "title": "The Family of Love"
+    "title": "The Family of Love",
+    "lexiaAsBook": "ww_40b91fe87871ac49"
   },
   "ww_15ed05beffe3ef00": {
     "bookInternalId": "@005166",
@@ -5806,8 +5812,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "The Turk"
@@ -5827,8 +5833,8 @@
     "publishDate": "GREGORIAN:1610:1610",
     "isWrittenBy": [
       "ww_18abf85e413e5632",
-      "ww_4165dddf64bc6da3",
-      "ww_ad03d7c87e5b9c24"
+      "ww_ad03d7c87e5b9c24",
+      "ww_4165dddf64bc6da3"
     ],
     "performedIn": [
       "ww_46be803045cb0e04"
@@ -5838,8 +5844,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -5900,8 +5906,8 @@
     "createdDate": "GREGORIAN:1611:1611",
     "publishDate": "GREGORIAN:1611:1611",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_ecd33a52caec339f"
+      "ww_ecd33a52caec339f",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -6072,8 +6078,8 @@
     "createdDate": "GREGORIAN:1623:1623",
     "publishDate": "GREGORIAN:1623:1623",
     "isWrittenBy": [
-      "ww_f10aec8cfe5ff90d",
-      "ww_5cb3d6fa23800e74"
+      "ww_5cb3d6fa23800e74",
+      "ww_f10aec8cfe5ff90d"
     ],
     "performedIn": [
       "ww_6e7147c9796f97ad"
@@ -6211,8 +6217,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -6236,8 +6242,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -6734,8 +6740,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Linguistics",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Linguistics"
     ],
     "title": "The Foundation of Rhetoric"
   },
@@ -6792,8 +6798,8 @@
     "createdDate": "GREGORIAN:1566:1566",
     "publishDate": "GREGORIAN:1566:1566",
     "isWrittenBy": [
-      "ww_a00dfc9e63a5d0fe",
-      "ww_a256d6059e2044ff"
+      "ww_a256d6059e2044ff",
+      "ww_a00dfc9e63a5d0fe"
     ],
     "performedIn": [
       "ww_089bccbbe4233206"
@@ -6823,8 +6829,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Prose unspecified",
-      "Nonfiction unspecified"
+      "Nonfiction unspecified",
+      "Prose unspecified"
     ],
     "hasSubject": [],
     "title": "The Palace of Pleasure",
@@ -6844,8 +6850,8 @@
     "createdDate": "GREGORIAN:1567:1567",
     "publishDate": "GREGORIAN:1567:1567",
     "isWrittenBy": [
-      "ww_ead92b40726b9049",
-      "ww_0adab3e3a15ca99c"
+      "ww_0adab3e3a15ca99c",
+      "ww_ead92b40726b9049"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -6859,14 +6865,14 @@
     "title": "Ovids Metamorphoses (Golding)",
     "editionOriginal": "The xv Bookes of P. Ouidius Naso, entytuled Metamorphosis, translated oute of Latin into English meeter, by Arthur Golding [...]. A worke very pleasaunt and delectable. London: William Seres, 1567."
   },
-  "ww_91c38edf48f9276e": {
+  "ww_401ddc43df895d00": {
     "bookInternalId": "@005576",
     "edition": "The xv Bookes of P. Ouidius Naso, entytuled Metamorphosis, translated oute of Latin into English meeter, by Arthur Golding [...]. A worke very pleasaunt and delectable. London: William Seres, 1567.",
     "createdDate": "GREGORIAN:1567:1567",
     "publishDate": "GREGORIAN:1567:1567",
     "isWrittenBy": [
-      "ww_ead92b40726b9049",
-      "ww_0adab3e3a15ca99c"
+      "ww_0adab3e3a15ca99c",
+      "ww_ead92b40726b9049"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -6876,7 +6882,8 @@
     ],
     "hasSubject": [],
     "title": "Ovid's Metamorphoses",
-    "editionOriginal": "The xv Bookes of P. Ouidius Naso, entytuled Metamorphosis, translated oute of Latin into English meeter, by Arthur Golding [...]. A worke very pleasaunt and delectable. London: William Seres, 1567."
+    "editionOriginal": "The xv Bookes of P. Ouidius Naso, entytuled Metamorphosis, translated oute of Latin into English meeter, by Arthur Golding [...]. A worke very pleasaunt and delectable. London: William Seres, 1567.",
+    "lexiaAsBook": "ww_2d2e13019f5b91c4"
   },
   "ww_f0311f6cc16cd154": {
     "bookInternalId": "@005588",
@@ -7111,8 +7118,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Linguistics",
-      "Sociology, society, lifestyle"
+      "Sociology, society, lifestyle",
+      "Linguistics"
     ],
     "title": "The First Part of the Elementary",
     "editionOriginal": "The first part of the elementarie. Vvhich entreateth chefelie of the right writing of our English tung set furth by Richard Mulcaster. London: Thomas Vautrollier, 1582."
@@ -7444,17 +7451,17 @@
       "ww_63d5fe36ffac5d32"
     ],
     "performedIn": [
-      "ww_acae054af12e4a13",
-      "ww_20cfa5b2cc17f297"
+      "ww_20cfa5b2cc17f297",
+      "ww_acae054af12e4a13"
     ],
     "performedBy": [
-      "ww_58b17c98fafa10ae",
-      "ww_312616f20d6e5e9b"
+      "ww_312616f20d6e5e9b",
+      "ww_58b17c98fafa10ae"
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -7479,8 +7486,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "The First Part of Tamburlaine The Great",
@@ -7510,7 +7517,8 @@
       "TO BE EDITED"
     ],
     "title": "The Spanish Tragedy",
-    "editionOriginal": "The Spanish Tragedie, Containing the lamentable end of Don Horatio, and Bel-imperia: with the pittifull death of olde Hieronimo. Newly corrected and amended of such grosse faults as passed in the first impression. London: Edward Allde for Edward White, 1592."
+    "editionOriginal": "The Spanish Tragedie, Containing the lamentable end of Don Horatio, and Bel-imperia: with the pittifull death of olde Hieronimo. Newly corrected and amended of such grosse faults as passed in the first impression. London: Edward Allde for Edward White, 1592.",
+    "lexiaAsBook": "ww_4ab105b2f68397ab"
   },
   "ww_3e70301e1c6b8013": {
     "bookInternalId": "@010019",
@@ -7552,8 +7560,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -7659,8 +7667,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "Politics, law, economics"
+      "Politics, law, economics",
+      "Philosophy, religion"
     ],
     "title": "Quoting Hamlet in the Early Seventeenth Century",
     "editionOriginal": "Modern Philology 105.3 (2008): 510-534."
@@ -7775,8 +7783,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Romance (Drama)"
+      "Romance (Drama)",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -7821,6 +7829,14 @@
     "hasSubject": [],
     "title": "Florios Second Fruits",
     "editionOriginal": "Florios second frutes to be gathered of twelue trees, of diuers but delightsome tastes to the tongues of Italians and Englishmen. To which is annexed his Gardine of recreation yeelding six thousand Italian prouerbs. London: T. Orwin for Thomas Woodcock, 1591."
+  },
+  "ww_b448a8b1df6fffa0": {
+    "bookInternalId": "@005699",
+    "edition": "ed. The Malcontent. Manchester: Manchester University Press, 1975, repr. 1999.",
+    "isWrittenBy": [
+      "ww_b03485399e74fd98"
+    ],
+    "title": "The Malcontent (Hunter edition)"
   },
   "ww_a08995e1e6833cea": {
     "bookInternalId": "@005566",
@@ -8105,7 +8121,7 @@
     "title": "Quoting Hamlet in the Early Seventeenth Century",
     "editionOriginal": "Modern Philology 105.3 (2008): 510\u2013534."
   },
-  "ww_116785a5384b428c": {
+  "ww_8e56eec106e4a157": {
     "bookInternalId": "@005049",
     "edition": "His Divine Weekes and Workes. Trans. Josuah Sylvester. London: Humfray Lownes, 1621.",
     "createdDate": "GREGORIAN:1598:1598",
@@ -8120,7 +8136,7 @@
       "Epic and verse narrative"
     ],
     "hasSubject": [],
-    "title": "Du Bartas 2 Divine Weeks and Works",
+    "title": "Du Bartas s Divine Weeks and Works",
     "editionOriginal": "His Divine Weekes and Workes. Trans. Josuah Sylvester. London: Humfray Lownes, 1621."
   },
   "ww_f90b16594829b119": {
@@ -8287,7 +8303,8 @@
       "TO BE EDITED"
     ],
     "title": "How a Man May Choose a Good Wife From A Bad",
-    "editionOriginal": "N.p. "
+    "editionOriginal": "N.p. ",
+    "lexiaAsBook": "ww_b8eb86e0e6526fc7"
   },
   "ww_6adb24d62eec2e3f": {
     "bookInternalId": "@005558",
@@ -8295,8 +8312,8 @@
     "createdDate": "GREGORIAN:1601:1601",
     "publishDate": "GREGORIAN:1601:1601",
     "isWrittenBy": [
-      "ww_6189bca8bbb55fc5",
-      "ww_fba1842c561811bb"
+      "ww_fba1842c561811bb",
+      "ww_6189bca8bbb55fc5"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -8499,8 +8516,8 @@
     "createdDate": "GREGORIAN:1605:1605",
     "publishDate": "GREGORIAN:1605:1605",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_87dbd52f1c5b813b"
     ],
     "performedIn": [
       "ww_3648ddbaa50156d1"
@@ -8510,12 +8527,14 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
+      "Comedy",
       "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
     ],
-    "title": "The Honest Whore"
+    "title": "The Honest Whore",
+    "lexiaAsBook": "ww_6aefb1e8c16e97a6"
   },
   "ww_81aaaefa494a8184": {
     "bookInternalId": "@010098",
@@ -8562,9 +8581,9 @@
       "Bible or religious pamphlet"
     ],
     "hasSubject": [
+      "AFTER TRANSFER FIX BIBLIO OR GENRE",
       "Philosophy, religion",
-      "TO BE EDITED",
-      "AFTER TRANSFER FIX BIBLIO OR GENRE"
+      "TO BE EDITED"
     ],
     "title": "The Whole Treatise of the Cases Of Conscience"
   },
@@ -8574,8 +8593,8 @@
     "createdDate": "GREGORIAN:1609:1609",
     "publishDate": "GREGORIAN:1609:1609",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_ecd33a52caec339f"
+      "ww_ecd33a52caec339f",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
       "ww_46be803045cb0e04",
@@ -8622,8 +8641,8 @@
     "createdDate": "GREGORIAN:1610:1610",
     "publishDate": "GREGORIAN:1610:1610",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_ecd33a52caec339f"
+      "ww_ecd33a52caec339f",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -8680,8 +8699,8 @@
     "publishDate": "GREGORIAN:1613:1613",
     "isWrittenBy": [
       "ww_ba2bed49492fef13",
-      "ww_3cc0cce5b6bf554a",
       "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a",
       "ww_8926bbeaa7c56023"
     ],
     "performedIn": [
@@ -8743,8 +8762,8 @@
     "publishDate": "GREGORIAN:1619:1619",
     "isWrittenBy": [
       "ww_39384a524a7bafbe",
-      "ww_060fb51fdafb3cc5",
-      "ww_02a32352c63afb30"
+      "ww_02a32352c63afb30",
+      "ww_060fb51fdafb3cc5"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -8780,8 +8799,8 @@
     "createdDate": "GREGORIAN:1622:1622",
     "publishDate": "GREGORIAN:1622:1622",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
       "ww_7a40b1dc650ae5b2"
@@ -8805,12 +8824,12 @@
     "createdDate": "GREGORIAN:1622:1622",
     "publishDate": "GREGORIAN:1622:1622",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -8892,8 +8911,8 @@
       "Tragedy"
     ],
     "hasSubject": [
-      "Literary and Cultural Studies",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Literary and Cultural Studies"
     ],
     "title": "The Broken Heart"
   },
@@ -8913,8 +8932,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Tragedy"
+      "Tragedy",
+      "Theatre"
     ],
     "hasSubject": [],
     "title": "The Jews Tragedy",
@@ -9082,8 +9101,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "Literary and Cultural Studies",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Literary and Cultural Studies"
     ],
     "title": "The Fancies",
     "editionOriginal": "The Fancies Chast and Noble. Presented By The Queenes Maiesties Servants, At the Phoenix in Drury-lane. London: E. P. for Henry Seile 1638."
@@ -9441,7 +9460,8 @@
     "hasSubject": [
       "TO BE EDITED"
     ],
-    "title": "Tragedy of King Richard the Second"
+    "title": "Tragedy of King Richard the Second",
+    "editionOriginal": "Tragedy of King Richard the Second concluding with the Murder of the Duke of Gloucester at Calais."
   },
   "ww_be9af191e6dc9863": {
     "bookInternalId": "@005579",
@@ -9543,8 +9563,8 @@
     "createdDate": "GREGORIAN:1600:1600",
     "publishDate": "GREGORIAN:1600:1600",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
       "ww_d888f97beb7a5e1c",
+      "ww_87dbd52f1c5b813b",
       "ww_947a2e721f016a03"
     ],
     "performedIn": [
@@ -9601,14 +9621,6 @@
     "hasSubject": [],
     "title": "The Massacre of Money",
     "editionOriginal": "The massacre of money. London: Thomas Creede for Thomas Bushell 1602."
-  },
-  "ww_b448a8b1df6fffa0": {
-    "bookInternalId": "@005699",
-    "edition": "ed. The Malcontent. Manchester: Manchester University Press, 1975, repr. 1999.",
-    "isWrittenBy": [
-      "ww_b03485399e74fd98"
-    ],
-    "title": "The Malcontent (Hunter edition)"
   },
   "ww_cd4449a9f288f0d1": {
     "bookInternalId": "@010099",
@@ -9753,8 +9765,8 @@
     "hasLanguage": "English",
     "hasGenre": [
       "Poetry unspecified",
-      "Epic and verse narrative",
-      "Verse satire"
+      "Verse satire",
+      "Epic and verse narrative"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -9848,8 +9860,8 @@
     "createdDate": "GREGORIAN:1620:1620",
     "publishDate": "GREGORIAN:1620:1620",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -9897,8 +9909,8 @@
       "Tragedy"
     ],
     "hasSubject": [
-      "Literary and Cultural Studies",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Literary and Cultural Studies"
     ],
     "title": "Women Beware Women"
   },
@@ -10017,8 +10029,8 @@
       "Epic and verse narrative"
     ],
     "hasSubject": [
-      "Literary and Cultural Studies",
-      "AFTER TRANSFER FIX BIBLIO OR GENRE"
+      "AFTER TRANSFER FIX BIBLIO OR GENRE",
+      "Literary and Cultural Studies"
     ],
     "title": "Poems (John Taylor)"
   },
@@ -10090,8 +10102,8 @@
       "ww_d8f1d08e1ca080b7"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -10141,8 +10153,8 @@
       "ww_d8f1d08e1ca080b7"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -11191,8 +11203,8 @@
     ],
     "hasSubject": [
       "History, (auto-)biography",
-      "Sociology, society, lifestyle",
-      "AFTER TRANSFER FIX BIBLIO OR GENRE"
+      "AFTER TRANSFER FIX BIBLIO OR GENRE",
+      "Sociology, society, lifestyle"
     ],
     "title": "To the Reader",
     "editionOriginal": "Hell's Broke Loose. London: W. W., 1605. N.p.; section \"To the Reader\"."
@@ -11420,8 +11432,8 @@
     "createdDate": "GREGORIAN:1609:1609",
     "publishDate": "GREGORIAN:1609:1609",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_ecd33a52caec339f"
+      "ww_ecd33a52caec339f",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [
       "ww_427140c1aa665027"
@@ -11501,8 +11513,8 @@
     "createdDate": "GREGORIAN:1611:1611",
     "publishDate": "GREGORIAN:1611:1611",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_ecd33a52caec339f"
+      "ww_ecd33a52caec339f",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -11576,8 +11588,8 @@
     "createdDate": "GREGORIAN:1611:1611",
     "publishDate": "GREGORIAN:1611:1611",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_87dbd52f1c5b813b"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -11746,8 +11758,8 @@
     "createdDate": "GREGORIAN:1614:1614",
     "publishDate": "GREGORIAN:1614:1614",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_ecd33a52caec339f"
+      "ww_ecd33a52caec339f",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -11807,8 +11819,8 @@
     "createdDate": "GREGORIAN:1616:1616",
     "publishDate": "GREGORIAN:1616:1616",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_ecd33a52caec339f"
+      "ww_ecd33a52caec339f",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -11846,9 +11858,9 @@
     "createdDate": "GREGORIAN:1617:1617",
     "publishDate": "GREGORIAN:1617:1617",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a",
       "ww_ecd33a52caec339f",
-      "ww_cbc2c3284144573a"
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -11981,8 +11993,8 @@
     "createdDate": "GREGORIAN:1619:1619",
     "publishDate": "GREGORIAN:1619:1619",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_5cb3d6fa23800e74"
+      "ww_5cb3d6fa23800e74",
+      "ww_c298754546b2500e"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -12166,8 +12178,8 @@
     "createdDate": "GREGORIAN:1622:1622",
     "publishDate": "GREGORIAN:1622:1622",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -12363,8 +12375,8 @@
       "ww_9b2d545e20d62482"
     ],
     "performedIn": [
-      "ww_fd98b29e0635c74b",
-      "ww_427140c1aa665027"
+      "ww_427140c1aa665027",
+      "ww_fd98b29e0635c74b"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -12754,8 +12766,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Theatre",
-      "Romance (Drama)"
+      "Romance (Drama)",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -13353,9 +13365,9 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
+      "Politics, law, economics",
       "Philosophy, religion",
-      "TO BE EDITED",
-      "Politics, law, economics"
+      "TO BE EDITED"
     ],
     "title": "Shakespeare and Jonson among the Pamphleteers of the First Civil War: Some Unreported Seventeenth-Century Allusions",
     "editionOriginal": "Modern Philology 53.2 (November 1955): 88-99 [normalized spelling]."
@@ -13392,8 +13404,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Poetry unspecified",
-      "Nonfiction unspecified"
+      "Nonfiction unspecified",
+      "Poetry unspecified"
     ],
     "hasSubject": [],
     "title": "Fragmenta Aurea",
@@ -13559,9 +13571,9 @@
     "createdDate": "GREGORIAN:1657:1657",
     "publishDate": "GREGORIAN:1657:1657",
     "isWrittenBy": [
-      "ww_565398e3fc6c0714",
       "ww_212c78497ddc32c5",
-      "ww_d9a0f38107e50298"
+      "ww_d9a0f38107e50298",
+      "ww_565398e3fc6c0714"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -13643,8 +13655,8 @@
       "Essay"
     ],
     "hasSubject": [
-      "Literary and Cultural Studies",
-      "AFTER TRANSFER FIX BIBLIO OR GENRE"
+      "AFTER TRANSFER FIX BIBLIO OR GENRE",
+      "Literary and Cultural Studies"
     ],
     "title": "Of Heroic Plays",
     "editionOriginal": "\"Of Heroique Playes. An Essay.\" The Conquest of Granada by the Spaniards: In Two Parts. London: N.p. 1672."

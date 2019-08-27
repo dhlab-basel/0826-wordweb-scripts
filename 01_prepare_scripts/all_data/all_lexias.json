@@ -1803,7 +1803,7 @@
   },
   "ww_c9ded44d1de25442": {
     "lexiaInternalId": "#007014",
-    "lexiaTitle": "Pompey the Great",
+    "lexiaTitle": "Gnaeus Pompeius Magnus",
     "formalClass": "Real person"
   },
   "ww_27778aedf22b1797": {
@@ -1866,8 +1866,8 @@
     "lexiaTitle": "leading apes into hell",
     "formalClass": "Idea"
   },
-  "ww_e8944b0e7dad1247": {
-    "lexiaInternalId": "@035576",
+  "ww_2d2e13019f5b91c4": {
+    "lexiaInternalId": "@005576",
     "lexiaTitle": "Metamorphoses",
     "formalClass": "Booktitle"
   },
@@ -2172,7 +2172,7 @@
   },
   "ww_40b91fe87871ac49": {
     "lexiaInternalId": "@001529",
-    "lexiaTitle": "Family of Love",
+    "lexiaTitle": "The Family of Love",
     "formalClass": "Booktitle"
   },
   "ww_749b7f34636c012c": {
@@ -2477,7 +2477,7 @@
   },
   "ww_7679d989da9882a5": {
     "lexiaInternalId": "#007015",
-    "lexiaTitle": "Ovid",
+    "lexiaTitle": "Publius Ovidius Naso",
     "formalClass": "Real person"
   },
   "ww_08d47478e595f8d1": {
@@ -3417,7 +3417,7 @@
   },
   "ww_9fee454d08c418ca": {
     "lexiaInternalId": "@001419",
-    "lexiaTitle": "The Case Is Altered",
+    "lexiaTitle": "The Case is Altered",
     "formalClass": "Booktitle"
   },
   "ww_cf96db5a3127d6d6": {
@@ -3547,7 +3547,7 @@
   },
   "ww_6aefb1e8c16e97a6": {
     "lexiaInternalId": "@001459",
-    "lexiaTitle": "The Honest Whore",
+    "lexiaTitle": "The Honest Whore Part 2",
     "formalClass": "Booktitle"
   },
   "ww_8d569ec5e7ce25df": {
@@ -3716,13 +3716,13 @@
   },
   "ww_0858d0d47be5be6f": {
     "lexiaInternalId": "#032267",
-    "lexiaTitle": "auspicious and dropping eye",
-    "formalClass": "Phrase (two words to two lines)"
+    "lexiaTitle": "gum + fret",
+    "formalClass": "Keywords"
   },
   "ww_a640c41c347c6592": {
     "lexiaInternalId": "#032268",
-    "lexiaTitle": "Habit dulls the perception of evil",
-    "formalClass": "Plot element"
+    "lexiaTitle": "Devil speaking many languages",
+    "formalClass": "Idea"
   },
   "ww_50a4601fd5de426c": {
     "lexiaInternalId": "#032269",
@@ -3731,7 +3731,7 @@
   },
   "ww_185c4f33d8dab384": {
     "lexiaInternalId": "#007004",
-    "lexiaTitle": "Will Kemp",
+    "lexiaTitle": "William Kempe",
     "formalClass": "Real person"
   },
   "ww_88b70e76be93570e": {
@@ -3856,7 +3856,7 @@
   },
   "ww_b8eb86e0e6526fc7": {
     "lexiaInternalId": "@001303",
-    "lexiaTitle": "How a Man May Choose a good Wife from a bad",
+    "lexiaTitle": "How a Man May Choose a Good Wife From A Bad",
     "formalClass": "Booktitle"
   },
   "ww_95bc83b5af7d2426": {
@@ -4141,7 +4141,7 @@
   },
   "ww_25616d7e0d396ec6": {
     "lexiaInternalId": "#007012",
-    "lexiaTitle": "Seneca",
+    "lexiaTitle": "Lucius Annaeus Seneca",
     "formalClass": "Real person"
   },
   "ww_ac3d4d63c3554858": {
@@ -4896,7 +4896,7 @@
   },
   "ww_d281909132aea951": {
     "lexiaInternalId": "#004128",
-    "lexiaTitle": "darkness fast as lighting",
+    "lexiaTitle": "darkness fast as lightning",
     "formalClass": "Keywords"
   },
   "ww_51cc0ff3298aca53": {
@@ -4963,5 +4963,10 @@
     "lexiaInternalId": "#032266",
     "lexiaTitle": "as deep as hell",
     "formalClass": "Phrase (two words to two lines)"
+  },
+  "ww_c5d744a2f2a728e4": {
+    "lexiaInternalId": "#001431",
+    "lexiaTitle": "The Honest Whore",
+    "formalClass": "Booktitle"
   }
 }
