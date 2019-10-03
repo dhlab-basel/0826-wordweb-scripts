@@ -65,7 +65,7 @@ def info(text, line, csv_file):
 
         if structure.get(lexia_info.group(1)):
             if structure.get(lexia_info.group(1))["child"].get(lexia_info.group(2)):
-                lexia["formalClass"] = structure.get(lexia_info.group(1))["child"].get(lexia_info.group(2))
+                lexia["hasFormalClass"] = structure.get(lexia_info.group(1))["child"].get(lexia_info.group(2))
                 # print(structure.get(lexias.group(1), "fail " + lexias.group(1)))
 
     return lexia
