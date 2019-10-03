@@ -580,7 +580,7 @@
         "name": "researchField",
         "labels": {
           "de": "research field",
-          "en": "???"
+          "en": "research field"
         },
         "nodes": [
           {
@@ -612,10 +612,10 @@
             }
           },
           {
-            "name": "Secondary (Literary and Cultural Studies)",
+            "name": "Secondary (Literature)",
             "labels": {
               "de": "???",
-              "en": "Secondary (Literary and Cultural Studies)"
+              "en": "Secondary (Literature)"
             }
           },
           {
@@ -897,6 +897,13 @@
                     "labels": {
                       "de": "???",
                       "en": "Work pending"
+                    }
+                  },
+                  {
+                    "name": "Work bibligraphical detail",
+                    "labels": {
+                      "de": "???",
+                      "en": "Work bibligraphical detail"
                     }
                   },
                   {
@@ -1430,13 +1437,6 @@
                     }
                   },
                   {
-                    "name": "Opera or musical theatre",
-                    "labels": {
-                      "de": "???",
-                      "en": "Opera or musical theatre"
-                    }
-                  },
-                  {
                     "name": "Masque or other",
                     "labels": {
                       "de": "???",
@@ -1446,10 +1446,17 @@
                 ]
               },
               {
-                "name": "Drama (TV, film, radio, games)",
+                "name": "TV, film, radio, games",
                 "labels": {
-                  "de": "Drama (TV, Film, Radio, Spiele)",
-                  "en": "Drama (TV, film, radio, games)"
+                  "de": "TV, Film, Radio, Spiele",
+                  "en": "TV, film, radio, games"
+                }
+              },
+              {
+                "name": "Opera or musical theatre",
+                "labels": {
+                  "de": "Opern oder Musical Theater",
+                  "en": "Opera or musical theatre"
                 }
               }
             ]
@@ -1483,24 +1490,10 @@
                 }
               },
               {
-                "name": "Advertisement or blurb",
-                "labels": {
-                  "de": "???",
-                  "en": "Advertisement or blurb"
-                }
-              },
-              {
                 "name": "Anthology",
                 "labels": {
                   "de": "Sammlung",
                   "en": "Anthology"
-                }
-              },
-              {
-                "name": "Blog or chat or tweet",
-                "labels": {
-                  "de": "Blog/Chat/Tweet",
-                  "en": "Blog or chat or tweet"
                 }
               },
               {
@@ -1515,13 +1508,6 @@
                 "labels": {
                   "de": "Essay",
                   "en": "Essay"
-                }
-              },
-              {
-                "name": "Conversation or testimony",
-                "labels": {
-                  "de": "???",
-                  "en": "Conversation or testimony"
                 }
               },
               {
@@ -1618,10 +1604,10 @@
                 }
               },
               {
-                "name": "Wegweiser",
+                "name": "Annotation",
                 "labels": {
-                  "de": "Wegweiser",
-                  "en": "???"
+                  "de": "???",
+                  "en": "Annotation"
                 }
               },
               {
@@ -1629,6 +1615,34 @@
                 "labels": {
                   "de": "Datenbank",
                   "en": "Database"
+                }
+              },
+              {
+                "name": "Conversation",
+                "labels": {
+                  "de": "Konversation",
+                  "en": "Conversation"
+                }
+              },
+              {
+                "name": "Manuscript commonplace book",
+                "labels": {
+                  "de": "???",
+                  "en": "Manuscript commonplace book"
+                }
+              },
+              {
+                "name": "Tweet or chat or post",
+                "labels": {
+                  "de": "Tweet oder Chat oder Post",
+                  "en": "Tweet or chat or post"
+                }
+              },
+              {
+                "name": "Advertisement",
+                "labels": {
+                  "de": "Werbung",
+                  "en": "Advertisement"
                 }
               }
             ]
@@ -1650,6 +1664,13 @@
             }
           },
           {
+            "name": "Literature",
+            "labels": {
+              "de": "Literatur",
+              "en": "Literature"
+            }
+          },
+          {
             "name": "History, (auto-)biography",
             "labels": {
               "de": "???",
@@ -1657,16 +1678,9 @@
             }
           },
           {
-            "name": "Literary and Cultural Studies",
-            "labels": {
-              "de": "Literatur und kulturelle Studien",
-              "en": "Literary and Cultural Studies"
-            }
-          },
-          {
             "name": "Linguistics",
             "labels": {
-              "de": "Linguistik",
+              "de": "???",
               "en": "Linguistics"
             }
           },
@@ -1678,13 +1692,6 @@
             }
           },
           {
-            "name": "Philosophy, religion",
-            "labels": {
-              "de": "Philosophie, Religion",
-              "en": "Philosophy, religion"
-            }
-          },
-          {
             "name": "Sciences, engineering, IT",
             "labels": {
               "de": "???",
@@ -1692,9 +1699,16 @@
             }
           },
           {
+            "name": "Philosophy, religion",
+            "labels": {
+              "de": "Philosophie, Religion",
+              "en": "Philosophy, religion"
+            }
+          },
+          {
             "name": "Sociology, society, lifestyle",
             "labels": {
-              "de": "???",
+              "de": "Soziologie, Gesellschaft, Lifestyle",
               "en": "Sociology, society, lifestyle"
             }
           },
@@ -1720,10 +1734,10 @@
             }
           },
           {
-            "name": "Literary and cultural studies (Shakespeare)",
+            "name": "Literature (Shakespeare)",
             "labels": {
-              "de": "???",
-              "en": "Literary and cultural studies (Shakespeare)"
+              "de": "Literatur (Shakespeare)",
+              "en": "Literature (Shakespeare)"
             }
           },
           {
@@ -1735,6 +1749,34 @@
           },
           {
             "name": "EXHAUSTED",
+            "labels": {
+              "de": "???",
+              "en": "???"
+            }
+          },
+          {
+            "name": "RESEARCH PENDING",
+            "labels": {
+              "de": "???",
+              "en": "RESEARCH PENDING"
+            }
+          },
+          {
+            "name": "MODERN PAGE",
+            "labels": {
+              "de": "???",
+              "en": "MODERN PAGE"
+            }
+          },
+          {
+            "name": "HISTORICAL PAGE",
+            "labels": {
+              "de": "???",
+              "en": "HISTORICAL PAGE"
+            }
+          },
+          {
+            "name": "ACHTUNG MARKING",
             "labels": {
               "de": "???",
               "en": "???"
@@ -1797,7 +1839,7 @@
           },
           "properties": [
             {
-              "name": "authorInternalId",
+              "name": "personInternalId",
               "super": [
                 "hasValue"
               ],
@@ -1908,7 +1950,8 @@
             {
               "name": "hasGender",
               "super": [
-                "hasValue"
+                "hasValue",
+                "foaf:gender"
               ],
               "object": "ListValue",
               "labels": {

@@ -271,6 +271,7 @@
   "ww_1de68393cb7b3c81": {
     "firstName": "_",
     "lastName": "Aischylos",
+    "description": "Greek dramatist 525 BC-456 BC",
     "sql": 2863
   },
   "ww_53fcf36b384fcfd0": {
@@ -364,6 +365,14 @@
     "description": "Indian dramatist",
     "sql": 1097
   },
+  "ww_dc824e3383fe653b": {
+    "firstName": "Mateo",
+    "lastName": "Alema\u0301n",
+    "birthExact": "1547",
+    "deathExact": "1614",
+    "description": "Spanish novelist",
+    "sql": 4385
+  },
   "ww_c256f1d8a3ee9411": {
     "firstName": "Mrs.",
     "lastName": "Alexander",
@@ -392,6 +401,14 @@
     "floruitExact": "1987",
     "description": "British academic",
     "sql": 3719
+  },
+  "ww_8cda19585857a98c": {
+    "firstName": "William",
+    "lastName": "Alexander, 1st Earl of Stirling",
+    "birthExact": "1567",
+    "deathExact": "1640",
+    "description": "Scottish dramatist and poet",
+    "sql": 4352
   },
   "ww_d9746d0b0a658c05": {
     "firstName": "William",
@@ -670,11 +687,13 @@
   "ww_6a9286c3b303477d": {
     "firstName": "_",
     "lastName": "Aristophanes",
+    "description": "Greek dramatist 446 BC-386 BC",
     "sql": 3898
   },
   "ww_f978b0a41f31ac5d": {
     "firstName": "_",
     "lastName": "Aristotle",
+    "description": "Greek philosopher 384 BC-322 BC",
     "sql": 3897
   },
   "ww_bcd40d711083b47a": {
@@ -950,11 +969,6 @@
     "description": "U.S. screenwriter",
     "sql": 986
   },
-  "ww_43fc4a527a0e0777": {
-    "firstName": "_",
-    "lastName": "Augustine of Hippo",
-    "sql": 4096
-  },
   "ww_ab4b799342981207": {
     "firstName": "Joseph",
     "lastName": "Auslander",
@@ -976,7 +990,7 @@
     "lastName": "Austen",
     "birthExact": "1771",
     "deathExact": "1850",
-    "description": "English banker and clergyman ), brother of novelist Jane Austen",
+    "description": "English banker and clergyman , brother of novelist Jane Austen",
     "sql": 1794
   },
   "ww_c323220e9a0cd412": {
@@ -1866,6 +1880,11 @@
     "description": "English dramatist and poet",
     "sql": 217
   },
+  "ww_06d91df69419f649": {
+    "firstName": "Margaret",
+    "lastName": "Bellasys",
+    "sql": 4338
+  },
   "ww_83c349a7b2c08d90": {
     "firstName": "Saul",
     "lastName": "Bellow",
@@ -1987,6 +2006,11 @@
     "deathExact": "1994",
     "description": "U.S. scholar and academic",
     "sql": 4128
+  },
+  "ww_8440a0ee9bd21146": {
+    "firstName": "Thomas",
+    "lastName": "Bentley",
+    "sql": 4390
   },
   "ww_235677210648ecb6": {
     "firstName": "Eric",
@@ -2343,6 +2367,9 @@
   "ww_cb32bde89f05f315": {
     "firstName": "Otto von",
     "lastName": "Bismarck",
+    "birthExact": "1815",
+    "deathExact": "98",
+    "description": "Prussian, later German chancellor",
     "sql": 165
   },
   "ww_fe5c3d24eab56b9a": {
@@ -2500,6 +2527,14 @@
     "floruitExact": "2007",
     "description": "South African journalist",
     "sql": 2702
+  },
+  "ww_0b6e1cec9776dc88": {
+    "firstName": "Lee",
+    "lastName": "Bliss",
+    "birthExact": "1943",
+    "deathExact": "2006",
+    "description": "U.S. academic",
+    "sql": 4369
   },
   "ww_df82329dbc32b2d2": {
     "firstName": "Carman",
@@ -3003,6 +3038,14 @@
     "birthExact": "1955",
     "description": "U.S. sexologist",
     "sql": 79
+  },
+  "ww_f169dd46bd4a8f47": {
+    "firstName": "Richard",
+    "lastName": "Brathwait",
+    "birthExact": "1588",
+    "deathExact": "1673",
+    "description": "English poet",
+    "sql": 4333
   },
   "ww_cfd9854655002efc": {
     "firstName": "Richard Gary",
@@ -3779,7 +3822,7 @@
     "lastName": "Burbage",
     "birthExact": "1567",
     "deathExact": "1619",
-    "description": "English actor  #007012",
+    "description": "English actor",
     "sql": 4172
   },
   "ww_69ec2ecb753348b7": {
@@ -4063,6 +4106,13 @@
     "description": "English anthologist",
     "sql": 1348
   },
+  "ww_5c38d09ce4cf7dac": {
+    "firstName": "T. C.",
+    "lastName": "C.",
+    "floruitExact": "1938",
+    "description": "British (?) scholar",
+    "sql": 4319
+  },
   "ww_34e8dc8f6cc9fe89": {
     "firstName": "Alexandre",
     "lastName": "Cabanel",
@@ -4105,6 +4155,7 @@
   "ww_bd3d075273a8881e": {
     "firstName": "Julius",
     "lastName": "Caesar",
+    "description": "Roman politician 100 BC-44 BC",
     "sql": 4174
   },
   "ww_ed046cd89fc0f0d4": {
@@ -4435,6 +4486,11 @@
     "description": "English physician",
     "sql": 3310
   },
+  "ww_5a83fee722a1938b": {
+    "firstName": "David",
+    "lastName": "Carnegie",
+    "sql": 4345
+  },
   "ww_a428e5640f76d693": {
     "firstName": "Giovan Battista",
     "lastName": "Carpi",
@@ -4541,6 +4597,14 @@
     "deathExact": "1824",
     "description": "English politician",
     "sql": 3463
+  },
+  "ww_22b930035d1377b2": {
+    "firstName": "William",
+    "lastName": "Cartwright",
+    "birthExact": "1611",
+    "deathExact": "1643",
+    "description": "English poet and dramatist",
+    "sql": 4326
   },
   "ww_13e0f0cf0fc753dd": {
     "firstName": "Luigi",
@@ -4673,11 +4737,13 @@
   "ww_bc7b528dea16d691": {
     "firstName": "Dionysius ",
     "lastName": "Cato",
+    "description": "Roman writer [250-350]-[300-400]",
     "sql": 4097
   },
   "ww_5543dbfff599bfd5": {
     "firstName": "Gaius Valerius ",
     "lastName": "Catullus",
+    "description": "Roman poet 84 BC-54 BC",
     "sql": 4094
   },
   "ww_749da142a4da1c3a": {
@@ -4884,7 +4950,7 @@
     "lastName": "Chaucer",
     "birthExact": "1343",
     "deathExact": "1400",
-    "description": "English poet  #007005",
+    "description": "English poet",
     "sql": 2329
   },
   "ww_7f79cc4b810078ad": {
@@ -5088,6 +5154,7 @@
   "ww_2328c74af1f27243": {
     "firstName": "Marcus Tullius",
     "lastName": "Cicero",
+    "description": "Roman politician, orator and philosopher 106 BC-43 BC",
     "sql": 2769
   },
   "ww_dde0d08a12d83237": {
@@ -5511,7 +5578,7 @@
     "lastName": "Condell",
     "birthExact": "1576",
     "deathExact": "1627",
-    "description": "English actor  #007010",
+    "description": "English actor",
     "sql": 4173
   },
   "ww_96df7728aadf9745": {
@@ -5701,6 +5768,14 @@
     "floruitExact": "1997",
     "description": "Canadian writer",
     "sql": 1976
+  },
+  "ww_123deaceaaf00adc": {
+    "firstName": "Richard",
+    "lastName": "Corbet",
+    "birthExact": "1582",
+    "deathExact": "1635",
+    "description": "English clergyman and poet",
+    "sql": 4334
   },
   "ww_2db002397fad86e3": {
     "firstName": "Peter",
@@ -5906,12 +5981,12 @@
     "description": "Scottish poet and novelist",
     "sql": 3958
   },
-  "ww_4e2014cf7880cdc5": {
-    "firstName": "Thiomas Wallace",
+  "ww_abd8a246fb849431": {
+    "firstName": "Thomas Wallace",
     "lastName": "Craik",
     "floruitSpanStart": "1975",
     "floruitSpanEnd": "2008",
-    "description": "English (?) scholar",
+    "description": "British (?) scholar",
     "sql": 4248
   },
   "ww_da28c09e382c638f": {
@@ -6747,6 +6822,11 @@
     "description": "U.S. scientist and critic",
     "sql": 1447
   },
+  "ww_a2f3a4000ed3bd9c": {
+    "firstName": "William",
+    "lastName": "Deedes",
+    "sql": 4391
+  },
   "ww_63b2d3b763d67727": {
     "firstName": "Cynthia",
     "lastName": "DeFelice",
@@ -6830,6 +6910,15 @@
     "deathExact": "2007",
     "description": "U.S. actor and theatre director",
     "sql": 1748
+  },
+  "ww_8614437bac270b2f": {
+    "firstName": "Sir John",
+    "lastName": "Denham",
+    "birthSpanStart": "1614",
+    "birthSpanEnd": "1615",
+    "deathExact": "1669",
+    "description": "English poet and dramatist",
+    "sql": 4328
   },
   "ww_c45ea0b4b6a86cac": {
     "firstName": "Daniel Clement",
@@ -7066,6 +7155,14 @@
     "floruitExact": "1987",
     "description": "U.S. screenwriter",
     "sql": 619
+  },
+  "ww_f1e5a55a4cb6cc91": {
+    "firstName": "Robert",
+    "lastName": "Dixon",
+    "birthExact": "1614",
+    "deathExact": "1688",
+    "description": "English clergyman and poet",
+    "sql": 4335
   },
   "ww_bc6a178dc3baa4dd": {
     "firstName": "Sydney Thompson",
@@ -7392,6 +7489,15 @@
     "description": "French translator",
     "sql": 1969
   },
+  "ww_fb4c23b975f61207": {
+    "firstName": "George E.",
+    "lastName": "Duckworth",
+    "birthSpanStart": "1902",
+    "birthSpanEnd": "1903",
+    "deathExact": "1972",
+    "description": "U.S. academic",
+    "sql": 4318
+  },
   "ww_2512118be66b08a0": {
     "firstName": "Sir Henry Bate",
     "lastName": "Dudley",
@@ -7533,6 +7639,11 @@
     "description": "Swiss dramatist and novelist",
     "sql": 170
   },
+  "ww_4f0a2e4d95e4c602": {
+    "firstName": "Richard",
+    "lastName": "Dutton",
+    "sql": 4359
+  },
   "ww_c915df9a00db6bb1": {
     "firstName": "Thomas",
     "lastName": "Dwight",
@@ -7649,6 +7760,14 @@
     "floruitExact": "1975",
     "description": "British (?) scholar",
     "sql": 4308
+  },
+  "ww_aba2dac8cd69353f": {
+    "firstName": "Richard",
+    "lastName": "Edwards",
+    "birthExact": "1525",
+    "deathExact": "1566",
+    "description": "English poet and dramatist",
+    "sql": 4349
   },
   "ww_903fc2bbb6fae8d0": {
     "firstName": "Edward",
@@ -7902,6 +8021,11 @@
     "description": "U.S. (?) novelist",
     "sql": 1706
   },
+  "ww_0dcc7c7b0e0a7ba2": {
+    "firstName": "Laura",
+    "lastName": "Estill",
+    "sql": 4332
+  },
   "ww_e87132721d1fa1d2": {
     "firstName": "George",
     "lastName": "Etherege",
@@ -7927,6 +8051,7 @@
   "ww_b74f71cb58df01d0": {
     "firstName": "_",
     "lastName": "Euripides",
+    "description": "Greek dramatist 480 BC-406 BC",
     "sql": 3901
   },
   "ww_54be03db409736f3": {
@@ -8093,6 +8218,14 @@
     "deathExact": "1945",
     "description": "English critic, poet and dramatist",
     "sql": 353
+  },
+  "ww_371ed44cf3e4e5e4": {
+    "firstName": "Alan B.",
+    "lastName": "Farmer",
+    "birthSpanStart": "1971",
+    "birthSpanEnd": "1974",
+    "description": " \tU.S. academic",
+    "sql": 4351
   },
   "ww_1aed797e90008f84": {
     "firstName": "David",
@@ -8298,13 +8431,6 @@
     "description": "English novelist",
     "sql": 204
   },
-  "ww_15b555bec5c609b5": {
-    "firstName": "R. F.",
-    "lastName": "Fill",
-    "floruitExact": "1985",
-    "description": "British (?) scholar",
-    "sql": 4300
-  },
   "ww_14ae7e467c47a733": {
     "firstName": "Emily Pearson",
     "lastName": "Finnemore",
@@ -8329,11 +8455,11 @@
     "description": "English (?) dramatist",
     "sql": 1629
   },
-  "ww_621bd15dee9a14bb": {
-    "firstName": "Joseph Martin (Joschka)",
+  "ww_2504ee8f86f16c1e": {
+    "firstName": "Joschka",
     "lastName": "Fischer",
     "birthExact": "1948",
-    "description": "German Politician  (Minister for Foreign Affairs and Vice Chancellor 1998-2005)",
+    "description": "German politician , full name Joseph Martin Fischer",
     "sql": 2647
   },
   "ww_703e8fc5315bfe34": {
@@ -8503,7 +8629,7 @@
     "lastName": "Florio",
     "birthExact": "1553",
     "deathExact": "1625",
-    "description": "Anglo-Italian linguist and anthologist",
+    "description": "Anglo-Italian translator and anthologist",
     "sql": 3772
   },
   "ww_fa54200608837f72": {
@@ -8569,7 +8695,7 @@
     "lastName": "Ford",
     "birthExact": "1894",
     "deathExact": "1973",
-    "description": "Irish-born U.S. film director ,  real name John Martin Feeney (Irish: Sean Aloysius O'Fearna)",
+    "description": "Irish-born U.S. film director ,  real name John Martin Feeney",
     "sql": 1887
   },
   "ww_f42dc96815fdc9d6": {
@@ -9069,6 +9195,11 @@
     "description": "Danish composer",
     "sql": 1505
   },
+  "ww_c711dcfe1549c7c3": {
+    "firstName": "William",
+    "lastName": "Gager",
+    "sql": 4354
+  },
   "ww_a033818e7df3ae56": {
     "firstName": "Neil",
     "lastName": "Gaiman",
@@ -9211,6 +9342,14 @@
     "deathExact": "2003",
     "description": "U.S. novelist and dramatist",
     "sql": 4090
+  },
+  "ww_f0a6ced69b05e50a": {
+    "firstName": "George",
+    "lastName": "Gascoigne",
+    "birthExact": "1535",
+    "deathExact": "1577",
+    "description": "English poet",
+    "sql": 4374
   },
   "ww_7239cbf52fc53e3f": {
     "firstName": "Peter",
@@ -9692,7 +9831,7 @@
     "lastName": "Goebbels",
     "birthExact": "1897",
     "deathExact": "1945",
-    "description": "German politician and Propaganda Minister in Nazi Germany",
+    "description": "German politician",
     "sql": 107
   },
   "ww_962a6dd7a9af7123": {
@@ -9766,6 +9905,9 @@
   "ww_dad5febeda0fe774": {
     "firstName": "Geraint",
     "lastName": "Goodwin",
+    "birthExact": "1903",
+    "deathExact": "41",
+    "description": "Welsh short story writer and novelist",
     "sql": 1352
   },
   "ww_bdf20dad819b1292": {
@@ -9835,7 +9977,7 @@
     "birthSpanStart": "1530",
     "birthSpanEnd": "1540",
     "deathExact": "1607",
-    "description": "Polish bishop and philosopher , Latin version of Wawrzyniec Grzyma\u0142a Go\u015blicki",
+    "description": "Polish bishop and philosopher , Polish name Wawrzyniec Grzyma\u0142a Go\u015blicki",
     "sql": 4040
   },
   "ww_8a66bbfc898292a3": {
@@ -10345,6 +10487,11 @@
     "description": "Polish philosopher and academic",
     "sql": 1874
   },
+  "ww_155a667b93f423ae": {
+    "firstName": "David",
+    "lastName": "Gunby",
+    "sql": 4346
+  },
   "ww_f7eb1e831b574860": {
     "firstName": "Elizabeth",
     "lastName": "Gunning",
@@ -10543,6 +10690,14 @@
     "description": "English academic and Shakespeare specialist",
     "sql": 1353
   },
+  "ww_2d40b106b8d6b8d0": {
+    "firstName": "Edward",
+    "lastName": "Halliwell",
+    "floruitSpanStart": "1535",
+    "floruitSpanEnd": "1564",
+    "description": "English dramatist",
+    "sql": 4358
+  },
   "ww_a0d0e4e2b58d3d11": {
     "firstName": "Geri",
     "lastName": "Halliwell",
@@ -10613,6 +10768,9 @@
   "ww_ff918beb5184080a": {
     "firstName": "Elizabeth ",
     "lastName": "Hamilton",
+    "birthExact": "175",
+    "deathExact": "6181",
+    "description": "Scottish essayist, poet, satirist and novelist 6",
     "sql": 3981
   },
   "ww_17ab2bb8d72710af": {
@@ -10676,6 +10834,9 @@
   "ww_b3c2b24dda5b4e0d": {
     "firstName": "Virgina",
     "lastName": "Hanson",
+    "birthExact": "1907",
+    "deathExact": "78",
+    "description": "U.S. novelist",
     "sql": 822
   },
   "ww_cf9b23794ecaeba3": {
@@ -10739,6 +10900,14 @@
     "description": "English (?) journalist",
     "sql": 3567
   },
+  "ww_a53df3a5d7417bd6": {
+    "firstName": "Sir John",
+    "lastName": "Harington",
+    "birthExact": "1560",
+    "deathExact": "1612",
+    "description": "Emglish poet and engineer",
+    "sql": 4384
+  },
   "ww_a76953df35abcfc8": {
     "firstName": "Marion",
     "lastName": "Harland",
@@ -10759,7 +10928,7 @@
     "firstName": "Richard",
     "lastName": "Harries",
     "birthExact": "1936",
-    "description": "British writer and Bishop of Oxford (since 1987)",
+    "description": "British theologian",
     "sql": 592
   },
   "ww_4b426d8ec0b192b5": {
@@ -11305,6 +11474,7 @@
   "ww_34d0ec2450ac9fa6": {
     "firstName": "Harry Joseph",
     "lastName": "Heltman",
+    "floruitExact": "1955",
     "sql": 3305
   },
   "ww_51a9ce760ed3b1a7": {
@@ -11489,6 +11659,14 @@
     "description": "German poet",
     "sql": 192
   },
+  "ww_cd50ccc124df70df": {
+    "firstName": "John",
+    "lastName": "Heywood",
+    "birthExact": "1497",
+    "deathExact": "1580",
+    "description": "English poet and dramatist",
+    "sql": 4355
+  },
   "ww_f10aec8cfe5ff90d": {
     "firstName": "Thomas",
     "lastName": "Heywood",
@@ -11497,6 +11675,14 @@
     "deathExact": "1641",
     "description": "English dramatist",
     "sql": 466
+  },
+  "ww_02df784376aa9b65": {
+    "firstName": "Laurence",
+    "lastName": "Heyworth",
+    "floruitSpanStart": "1989",
+    "floruitSpanEnd": "1993",
+    "description": " \tU.S. (?) academic",
+    "sql": 4323
   },
   "ww_59ff380c6e105e8e": {
     "firstName": "G. R.",
@@ -12040,6 +12226,7 @@
   "ww_61c49b5f6ed43c33": {
     "firstName": "Quintus Flaccus",
     "lastName": "Horatius",
+    "description": "Roman poet 65 BC-8 BC",
     "sql": 1585
   },
   "ww_aae591edd6cc14be": {
@@ -12125,6 +12312,15 @@
     "description": "Irish writer on law",
     "sql": 3355
   },
+  "ww_1ae0f102eea42517": {
+    "firstName": "Henry, Earl of Surrey",
+    "lastName": "Howard",
+    "birthSpanStart": "1516",
+    "birthSpanEnd": "1517",
+    "deathExact": "1547",
+    "description": "English politician and poet",
+    "sql": 4382
+  },
   "ww_8e7564ae19aec40a": {
     "firstName": "Edward (1)",
     "lastName": "Howard",
@@ -12156,6 +12352,13 @@
     "floruitSpanEnd": "1984",
     "description": "English (?) journalist",
     "sql": 3563
+  },
+  "ww_0ab760c0580db329": {
+    "firstName": "T. H.",
+    "lastName": "Howard-Hill",
+    "floruitExact": "1993",
+    "description": "English (?) academic",
+    "sql": 4360
   },
   "ww_0308977307a37c22": {
     "firstName": "Julia Ward",
@@ -12658,6 +12861,13 @@
     "floruitExact": "1975",
     "description": "English (?) journalist",
     "sql": 3821
+  },
+  "ww_7ec5bae6689572ae": {
+    "firstName": "Anne Christine",
+    "lastName": "Isherwood",
+    "floruitExact": "2014",
+    "description": "British (?) scholar",
+    "sql": 4322
   },
   "ww_1e890dc5672eb07f": {
     "firstName": "Alan",
@@ -13168,6 +13378,14 @@
     "description": "English academic",
     "sql": 2543
   },
+  "ww_bd0d630b9238458a": {
+    "firstName": "Robert",
+    "lastName": "Jones",
+    "birthExact": "1577",
+    "deathExact": "1617",
+    "description": "English composer",
+    "sql": 4348
+  },
   "ww_9b2d545e20d62482": {
     "firstName": "Ben",
     "lastName": "Jonson",
@@ -13267,8 +13485,7 @@
   "ww_dbe3ff087a448488": {
     "firstName": "Decimus Iunius",
     "lastName": "Juvenalis",
-    "floruitExact": "0070",
-    "description": "Roman poet 13",
+    "description": "Roman poet fl. 100-130",
     "sql": 2328
   },
   "ww_fdae925f90db9797": {
@@ -13617,7 +13834,7 @@
     "firstName": "William",
     "lastName": "Kempe",
     "deathExact": "1603",
-    "description": "English comic actor , also known as Will Kemp #007014",
+    "description": "English comic actor , also known as Will Kemp",
     "sql": 4134
   },
   "ww_f22323cdf8a7fef0": {
@@ -13828,7 +14045,7 @@
     "firstName": "Ros",
     "lastName": "King",
     "floruitExact": "1984",
-    "description": "British academic -",
+    "description": "British academic",
     "sql": 3684
   },
   "ww_51fe08ad29484616": {
@@ -14425,13 +14642,6 @@
     "description": "French poet",
     "sql": 309
   },
-  "ww_e8e72219ab483570": {
-    "firstName": "Ferdinand",
-    "lastName": "Lagarde",
-    "floruitExact": "1979",
-    "description": "Austrian (?) scholar",
-    "sql": 4246
-  },
   "ww_7a3bc903490ef875": {
     "firstName": "Gwen",
     "lastName": "Lally",
@@ -15016,6 +15226,14 @@
     "description": "U.S. dramatist and screenwriter",
     "sql": 2016
   },
+  "ww_8cc851dd71197e11": {
+    "firstName": "Zachary",
+    "lastName": "Lesser",
+    "birthSpanStart": "1971",
+    "birthSpanEnd": "174",
+    "description": " \tU.S. academic",
+    "sql": 4350
+  },
   "ww_99346f0bd2de6b1a": {
     "firstName": "Kathy",
     "lastName": "Lette",
@@ -15304,6 +15522,7 @@
   "ww_f8d06e0e48bf9cc4": {
     "firstName": "Titus ",
     "lastName": "Livius",
+    "description": "Roman historian [64 BC-59 BC]-[12 AD-17 AD]",
     "sql": 4092
   },
   "ww_b3bbc310974a1488": {
@@ -15390,6 +15609,7 @@
   "ww_34011c74774044d7": {
     "firstName": "W. H.",
     "lastName": "Logan",
+    "floruitExact": "1862",
     "sql": 3354
   },
   "ww_93a0f9d890c096af": {
@@ -15589,6 +15809,12 @@
     "description": "German film director",
     "sql": 141
   },
+  "ww_b8fcc2fc9e1b0feb": {
+    "firstName": "Marcus Annaeus",
+    "lastName": "Lucanus ",
+    "description": "Roman poet 39-65",
+    "sql": 4343
+  },
   "ww_ed8bb2273ef0878b": {
     "firstName": "F. L.",
     "lastName": "Lucas",
@@ -15619,6 +15845,12 @@
     "deathExact": "1998",
     "description": "German sociologist",
     "sql": 376
+  },
+  "ww_6b856fbbfc446bda": {
+    "firstName": "_",
+    "lastName": "Luke the Evangelist",
+    "description": "Greek or Judaeo-Grecian theologian d. 84",
+    "sql": 4378
   },
   "ww_3f144713571b5fc8": {
     "firstName": "Alison",
@@ -15991,6 +16223,13 @@
     "description": "U.S. novelist",
     "sql": 4016
   },
+  "ww_2fe74c32d85e69c8": {
+    "firstName": "Jean-Marie",
+    "lastName": "Maguin",
+    "floruitExact": "1983",
+    "description": "French scholar",
+    "sql": 4321
+  },
   "ww_fe26190dbc6eecf7": {
     "firstName": "Virginia",
     "lastName": "Maguire",
@@ -16189,6 +16428,14 @@
     "description": "Italian composer",
     "sql": 1885
   },
+  "ww_65b58d52329afb10": {
+    "firstName": "Baptista",
+    "lastName": "Mantuanus",
+    "birthExact": "1447",
+    "deathExact": "1516",
+    "description": "Italian poet and humanist",
+    "sql": 4377
+  },
   "ww_cce3785f9f0b7c67": {
     "firstName": "Cosmo",
     "lastName": "Manuche",
@@ -16321,6 +16568,7 @@
   "ww_55e223d807f3a1ad": {
     "firstName": "Marcus Valerius ",
     "lastName": "Martialis",
+    "description": "Roman poet  [38-41]-[102-104]",
     "sql": 3900
   },
   "ww_12ceba7afaf6c1bd": {
@@ -16534,6 +16782,7 @@
   "ww_2bb1f9fa65d27c55": {
     "firstName": "Valerius",
     "lastName": "Maximus",
+    "description": "Roman rhetorician and anthologist fl. 27",
     "sql": 2775
   },
   "ww_f6b92bd4a27f60f3": {
@@ -16550,6 +16799,14 @@
     "floruitSpanEnd": "1977",
     "description": "U.S. (?) translator",
     "sql": 3875
+  },
+  "ww_219cd36657c56d00": {
+    "firstName": "Thomas",
+    "lastName": "May",
+    "birthExact": "1594",
+    "deathExact": "1650",
+    "description": "English dramatist, poet and historian",
+    "sql": 4344
   },
   "ww_275cb5b0152339d5": {
     "firstName": "Edwin Justus",
@@ -16580,6 +16837,11 @@
     "birthExact": "1951",
     "description": "Scottish (?) poet",
     "sql": 2785
+  },
+  "ww_5d7f23a1d19bd9b9": {
+    "firstName": "Dennis",
+    "lastName": "McCarthy",
+    "sql": 4367
   },
   "ww_6eb696712e9ec2a3": {
     "firstName": "Will",
@@ -17041,7 +17303,7 @@
     "firstName": "Pierre",
     "lastName": "Michel",
     "floruitExact": "2001",
-    "description": "Belgian academic -",
+    "description": "Belgian academic",
     "sql": 2233
   },
   "ww_d3f409a6f2a93afa": {
@@ -17207,7 +17469,7 @@
     "firstName": "Stephen",
     "lastName": "Mills",
     "floruitExact": "1987",
-    "description": "U.S. choreographer -",
+    "description": "U.S. choreographer",
     "sql": 2550
   },
   "ww_1eb73b8d233a55de": {
@@ -17404,6 +17666,19 @@
     "floruitSpanEnd": "1808",
     "description": "English writer",
     "sql": 3539
+  },
+  "ww_9b14c0ee22106a2b": {
+    "firstName": "Michel",
+    "lastName": "Montaigne",
+    "birthExact": "1533",
+    "deathExact": "1592",
+    "description": "French philosopher",
+    "sql": 4342
+  },
+  "ww_dbf15ae40aa8f01d": {
+    "firstName": "Beatrice",
+    "lastName": "Montedoro",
+    "sql": 4331
   },
   "ww_c82df1110d6c86f7": {
     "firstName": "Augusto",
@@ -17908,6 +18183,14 @@
     "description": "Danish (?) historian",
     "sql": 138
   },
+  "ww_20d6b3bf3fdfeac2": {
+    "firstName": "Anthony",
+    "lastName": "Munday",
+    "birthExact": "1560",
+    "deathExact": "1633",
+    "description": "English dramatist",
+    "sql": 4341
+  },
   "ww_fb550941e6e9db62": {
     "firstName": "John",
     "lastName": "Munro",
@@ -18136,6 +18419,14 @@
     "description": "U.S. (?) attorney and dramatist",
     "sql": 1346
   },
+  "ww_759cb02a2eabfb2d": {
+    "firstName": "Leonard",
+    "lastName": "Nathanson",
+    "birthExact": "1933",
+    "deathExact": "2015",
+    "description": "U.S. scholar",
+    "sql": 4373
+  },
   "ww_ab1276cf09d89262": {
     "firstName": "Gloria",
     "lastName": "Naylor",
@@ -18197,6 +18488,7 @@
   "ww_ecd5bfdb8df89699": {
     "firstName": "Claudius Caesar Augustus Germanicus",
     "lastName": "Nero",
+    "description": "Roman emperor 37-68",
     "sql": 4135
   },
   "ww_37793a87125f7373": {
@@ -18402,7 +18694,7 @@
     "lastName": "Nijinska",
     "birthExact": "1891",
     "deathExact": "1972",
-    "description": "Polish-born Russian  dance and choreographer , birth name",
+    "description": "Polish-born Russian dance and choreographer",
     "sql": 2508
   },
   "ww_4d01a832f50d804e": {
@@ -18428,7 +18720,7 @@
     "firstName": "Eun-Ju",
     "lastName": "Noh",
     "floruitExact": "1995",
-    "description": "Korean (?) linguist -",
+    "description": "Korean (?) linguist",
     "sql": 2602
   },
   "ww_c4ffa94f37a25055": {
@@ -18483,6 +18775,14 @@
     "deathExact": "1711",
     "description": "English poet",
     "sql": 3774
+  },
+  "ww_b8f362715c0c9c51": {
+    "firstName": "Sir Thomas",
+    "lastName": "North",
+    "birthExact": "1535",
+    "deathExact": "1603",
+    "description": "English translator",
+    "sql": 4368
   },
   "ww_d56476f29989122d": {
     "firstName": "William Bacot",
@@ -18773,6 +19073,14 @@
     "description": "English novelist",
     "sql": 1280
   },
+  "ww_db0d283f0d6b81e7": {
+    "firstName": "Horst",
+    "lastName": "Oppel",
+    "birthExact": "1913",
+    "deathExact": "1982",
+    "description": "German academic",
+    "sql": 4379
+  },
   "ww_2cfdd60ff28474f0": {
     "firstName": "Helen",
     "lastName": "Oppenheimer",
@@ -18846,6 +19154,7 @@
   "ww_ead92b40726b9049": {
     "firstName": "Publius",
     "lastName": "Ovidius Naso",
+    "description": "Roman poet 43 BC-18 AD",
     "sql": 3909
   },
   "ww_d558b610634a90cc": {
@@ -18998,7 +19307,7 @@
     "firstName": "Louis B.",
     "lastName": "Parks",
     "floruitExact": "1995",
-    "description": "U.S. journalist .",
+    "description": "U.S. journalist",
     "sql": 3202
   },
   "ww_196abdb1694949c6": {
@@ -19068,6 +19377,13 @@
     "description": "English poet ,  real name John Williams",
     "sql": 1024
   },
+  "ww_e5ff1210c152c993": {
+    "firstName": "Gail Kern",
+    "lastName": "Paster",
+    "birthExact": "1944",
+    "description": "U.S. scholar",
+    "sql": 4362
+  },
   "ww_701b3edb97f90fa1": {
     "firstName": "Boris Leonidovic",
     "lastName": "Pasternak",
@@ -19111,6 +19427,10 @@
   "ww_7ca093b8191b4923": {
     "firstName": "The Apostle",
     "lastName": "Paul",
+    "birthExact": "5",
+    "deathSpanStart": "64",
+    "deathSpanEnd": "67",
+    "description": "Author of letters in the New Testament",
     "sql": 3888
   },
   "ww_827eaa0d68e06fe3": {
@@ -19340,6 +19660,7 @@
   "ww_a13b3e03a47fb65d": {
     "firstName": "Aulus",
     "lastName": "Persius Flaccus",
+    "description": "Roman poet and satirist 34-62",
     "sql": 3089
   },
   "ww_8f477c6051e158af": {
@@ -19613,7 +19934,7 @@
     "lastName": "Piozzi",
     "birthExact": "1741",
     "deathExact": "1821",
-    "description": "British diarist and writer , n\u00e9e Hester Lynch Salusbury, known as Hester Lynch Thrale during her first marriage",
+    "description": "British diarist and writer , n\u00e9e Hester Lynch Salusbury, Hester Lynch Thrale during her first marriage",
     "sql": 2689
   },
   "ww_a5e25d52b6b4e82d": {
@@ -19669,11 +19990,13 @@
   "ww_ba6d84f2f8696411": {
     "firstName": "_",
     "lastName": "Plato",
+    "description": "Greek philosopher [428-423] BC \u2013 [348-347] BC",
     "sql": 4293
   },
   "ww_fd2bbed82dcb70a3": {
     "firstName": "Titus Maccius",
     "lastName": "Plautus",
+    "description": "Roman dramatist 254 BC\u2013184 BC",
     "sql": 3282
   },
   "ww_a052ef8240d60727": {
@@ -19699,6 +20022,9 @@
   "ww_051e0403c3788169": {
     "firstName": "_",
     "lastName": "Plutarch",
+    "birthExact": "46",
+    "deathExact": "120",
+    "description": "Greek historian",
     "sql": 4095
   },
   "ww_c2a432cbbfc7a83f": {
@@ -19786,6 +20112,7 @@
   "ww_bc8c526a262fb9c0": {
     "firstName": "Gnaeus",
     "lastName": "Pompeius Magnus",
+    "description": "Roman general and politician 106 BC-48 BC, known as Pompey the Great",
     "sql": 4171
   },
   "ww_39384a524a7bafbe": {
@@ -19978,6 +20305,14 @@
     "description": "South African poet",
     "sql": 1593
   },
+  "ww_0ec070acc1a8c693": {
+    "firstName": "Allan",
+    "lastName": "Pritchard",
+    "floruitSpanStart": "1989",
+    "floruitSpanEnd": "1993",
+    "description": " \tU.S. (?) academic",
+    "sql": 4324
+  },
   "ww_3cb4a2e23e88b77c": {
     "firstName": "Vidya",
     "lastName": "Priya Rao",
@@ -20017,6 +20352,7 @@
   "ww_0958b5f3869f1a89": {
     "firstName": "Syrus",
     "lastName": "Publilius",
+    "description": "Roman aphorist fl. 85 BC\u201343 BC",
     "sql": 3889
   },
   "ww_c95c916e49767798": {
@@ -20063,6 +20399,14 @@
     "description": "U.S. novelist and short story writer",
     "sql": 1368
   },
+  "ww_07438f8a56bb32c4": {
+    "firstName": "Francis",
+    "lastName": "Quarles",
+    "birthExact": "1592",
+    "deathExact": "1644",
+    "description": "English poet and dramatist",
+    "sql": 4329
+  },
   "ww_ea478a82be3bf432": {
     "firstName": "Ellery",
     "lastName": "Queen",
@@ -20094,6 +20438,7 @@
   "ww_5b8458bfe144b4bf": {
     "firstName": "Marcus Fabius",
     "lastName": "Quintilianus",
+    "description": "Roman orator and rhetorician 35\u2013100",
     "sql": 2768
   },
   "ww_a179393c672bdb5f": {
@@ -20339,6 +20684,14 @@
     "deathExact": "1707",
     "description": "British dramatist",
     "sql": 3083
+  },
+  "ww_762c5f998d30b4b1": {
+    "firstName": "Marmaduke",
+    "lastName": "Rawdon or Roydon",
+    "birthExact": "1583",
+    "deathExact": "1646",
+    "description": "English merchant",
+    "sql": 4388
   },
   "ww_523fc5131f2400bd": {
     "firstName": "Richard ",
@@ -20689,7 +21042,7 @@
     "lastName": "Richard III",
     "birthExact": "1452",
     "deathExact": "1485",
-    "description": "King of England  #007004",
+    "description": "King of England",
     "sql": 4170
   },
   "ww_ab3b51902f11864a": {
@@ -20837,14 +21190,14 @@
     "firstName": "Siobhan",
     "lastName": "Roberts",
     "floruitExact": "2000",
-    "description": "Canadian journalist -",
+    "description": "Canadian journalist",
     "sql": 3317
   },
   "ww_1298168fe0214ff9": {
     "firstName": "Angela",
     "lastName": "Robertson",
     "floruitExact": "1996",
-    "description": "British prose writer -",
+    "description": "British prose writer",
     "sql": 2372
   },
   "ww_708158507ecc5251": {
@@ -21055,7 +21408,7 @@
     "firstName": "Steven",
     "lastName": "Roman",
     "floruitExact": "2000",
-    "description": "US mathematician -",
+    "description": "US mathematician",
     "sql": 2712
   },
   "ww_07edc37cb821fd54": {
@@ -21184,7 +21537,7 @@
     "firstName": "Murray",
     "lastName": "Roston",
     "floruitExact": "1956",
-    "description": "English-born Israeli academic -",
+    "description": "English-born Israeli academic",
     "sql": 2074
   },
   "ww_b3ee63981ca46571": {
@@ -21305,7 +21658,7 @@
     "firstName": "Barry",
     "lastName": "Rubin",
     "floruitExact": "1997",
-    "description": "Israeli academic and journalist -",
+    "description": "Israeli academic and journalist",
     "sql": 3109
   },
   "ww_402587f97c74765b": {
@@ -21314,6 +21667,14 @@
     "birthExact": "1891",
     "description": "English (?) dramatist",
     "sql": 2203
+  },
+  "ww_2094561b02100e33": {
+    "firstName": "Niall",
+    "lastName": "Rudd",
+    "birthExact": "1927",
+    "deathExact": "1915",
+    "description": "Irish-born British classical scholar , full name William James Niall Rudd",
+    "sql": 4383
   },
   "ww_c9fc87832b705b6b": {
     "firstName": "Paul",
@@ -21328,6 +21689,15 @@
     "floruitExact": "1969",
     "description": "U.S. (?) scholar",
     "sql": 4188
+  },
+  "ww_22d61ad3a743127f": {
+    "firstName": "George",
+    "lastName": "Ruggle",
+    "birthExact": "1575",
+    "deathSpanStart": "1621",
+    "deathSpanEnd": "1622",
+    "description": "English dramatist",
+    "sql": 4356
   },
   "ww_179690adee3f5a7f": {
     "firstName": "Gerhard",
@@ -21395,6 +21765,13 @@
     "description": "Ukrainian-born Polish poet",
     "sql": 684
   },
+  "ww_d4744a4190b3f9cd": {
+    "firstName": "J.",
+    "lastName": "S.",
+    "floruitExact": "1648",
+    "description": "English anthologist",
+    "sql": 4380
+  },
   "ww_e3a6c6eabbd6e670": {
     "firstName": "Joe",
     "lastName": "Sacco",
@@ -21407,8 +21784,16 @@
     "lastName": "Sackville",
     "birthExact": "1536",
     "deathExact": "1608",
-    "description": "English politician, poet and dramatist  #007009",
+    "description": "English politician, poet and dramatist",
     "sql": 3041
+  },
+  "ww_407a959f593ee80f": {
+    "firstName": "Charles, Earl of Dorset",
+    "lastName": "Sackville",
+    "birthExact": "1638",
+    "deathExact": "1706",
+    "description": "English poet and anthologist",
+    "sql": 4339
   },
   "ww_6a3004c0c56f329c": {
     "firstName": "Vita",
@@ -21538,6 +21923,14 @@
     "description": "U.S. literary critic",
     "sql": 2808
   },
+  "ww_c500244006544221": {
+    "firstName": "William",
+    "lastName": "Sancroft",
+    "birthExact": "1617",
+    "deathExact": "1693",
+    "description": "English theologian , Archbishop of Canterbury",
+    "sql": 4387
+  },
   "ww_b5e3900efe706243": {
     "firstName": "Lawrence",
     "lastName": "Sanders",
@@ -21576,6 +21969,13 @@
     "deathExact": "1644",
     "description": "English poet and dramatist",
     "sql": 1207
+  },
+  "ww_b958466a7328c3ef": {
+    "firstName": "Larry",
+    "lastName": "Sanger",
+    "birthExact": "1986",
+    "description": "U.S. internet project developer , realk name Lawrence Mark Sanger",
+    "sql": 4366
   },
   "ww_7c188ccdcc88185b": {
     "firstName": "Charles",
@@ -21774,7 +22174,7 @@
     "firstName": "Birgit",
     "lastName": "Schmid",
     "floruitExact": "2009",
-    "description": "Swiss journalist -",
+    "description": "Swiss journalist",
     "sql": 3302
   },
   "ww_3b257cb0cac4dd97": {
@@ -22014,6 +22414,14 @@
     "description": "English socialist writer",
     "sql": 3488
   },
+  "ww_7dc9f7dd1b39e216": {
+    "firstName": "Sir Charles",
+    "lastName": "Sedley",
+    "birthExact": "1639",
+    "deathExact": "1701",
+    "description": "Engilsh dramatist and anthologist",
+    "sql": 4340
+  },
   "ww_a23a9e25f5eca5b6": {
     "firstName": "Steve",
     "lastName": "Seidel",
@@ -22039,7 +22447,14 @@
   "ww_a00dfc9e63a5d0fe": {
     "firstName": "Lucius Annaeus",
     "lastName": "Seneca",
+    "description": "Roman tragedian and philosopher 4 BC-65 AD",
     "sql": 2770
+  },
+  "ww_ddd6c71bd41db79c": {
+    "firstName": "Marcus Annaeus",
+    "lastName": "Seneca",
+    "description": "Roman writer 39 BC-54 AD",
+    "sql": 4320
   },
   "ww_122abd455e1ccd1d": {
     "firstName": "H\u00e9lo\u00efse",
@@ -22129,7 +22544,7 @@
     "lastName": "Shakespeare",
     "birthExact": "1564",
     "deathExact": "1616",
-    "description": "English dramatist and poet  #007000",
+    "description": "English dramatist and poet",
     "sql": 1282
   },
   "ww_b6a99c50126ffacb": {
@@ -23096,6 +23511,7 @@
   "ww_92e914f022cfa0ff": {
     "firstName": "_",
     "lastName": "Sophocles",
+    "description": "Greek dramatist 496 BC-405 BC",
     "sql": 3870
   },
   "ww_4fc2871c270c0a4c": {
@@ -23220,6 +23636,18 @@
     "description": "U.S. novelist",
     "sql": 2964
   },
+  "ww_b47b53c96fdefea5": {
+    "firstName": "_",
+    "lastName": "St Augustine of Hippo",
+    "description": "Roman theologian 354-430",
+    "sql": 4096
+  },
+  "ww_866452f5d0d913c3": {
+    "firstName": "_",
+    "lastName": "St Jerome",
+    "description": "Roman theologian 347-420",
+    "sql": 4375
+  },
   "ww_053a2a216b761141": {
     "firstName": "Alexander",
     "lastName": "Stadtfeld",
@@ -23309,6 +23737,13 @@
     "firstName": "Richard",
     "lastName": "Stanyhurst",
     "sql": 3955
+  },
+  "ww_e36884fe4910b693": {
+    "firstName": "M. L.",
+    "lastName": "Stapleton",
+    "floruitExact": "2014",
+    "description": "British (?) scholar",
+    "sql": 4372
   },
   "ww_6004bc7c0207f7ce": {
     "firstName": "Darren",
@@ -23789,7 +24224,7 @@
     "firstName": "Sarah",
     "lastName": "Strohmeyer",
     "floruitExact": "2001",
-    "description": "US novelist -",
+    "description": "US novelist",
     "sql": 2610
   },
   "ww_1e9dd510954b62b7": {
@@ -23807,9 +24242,9 @@
     "description": "Britsih poet",
     "sql": 3947
   },
-  "ww_a256d6059e2044ff": {
+  "ww_4620a1299d58ff72": {
     "firstName": "John",
-    "lastName": "Studley ",
+    "lastName": "Studley",
     "birthSpanStart": "1544",
     "birthSpanEnd": "1546",
     "deathSpanStart": "1573",
@@ -23825,8 +24260,8 @@
     "description": "English crime writer , real name Benjamin James Healey",
     "sql": 3657
   },
-  "ww_bae7c2e690c9caaa": {
-    "firstName": "John",
+  "ww_c7aba3767191c872": {
+    "firstName": "Sir John",
     "lastName": "Suckling",
     "birthExact": "1609",
     "deathExact": "1642",
@@ -23836,7 +24271,16 @@
   "ww_35789c3a57dfb3f0": {
     "firstName": "Gaius",
     "lastName": "Suetonius Tranquillus",
+    "description": "Roman biographer 70-140",
     "sql": 2327
+  },
+  "ww_2911679e197a56ec": {
+    "firstName": "Rudolf",
+    "lastName": "S\u00fchnel",
+    "birthExact": "1907",
+    "deathExact": "2007",
+    "description": "German academic",
+    "sql": 4353
   },
   "ww_4b156d9f78738ae4": {
     "firstName": "Arthur",
@@ -24064,7 +24508,7 @@
     "lastName": "Talbot, 1st Earl of Shrewsbury",
     "birthExact": "1387",
     "deathExact": "1453",
-    "description": "English military commander  #007011",
+    "description": "English military commander",
     "sql": 4178
   },
   "ww_989f83a0be85b96e": {
@@ -24095,6 +24539,13 @@
     "deathExact": "1715",
     "description": "Irish poet and dramatist",
     "sql": 4085
+  },
+  "ww_3e61db6114435abb": {
+    "firstName": "Michael",
+    "lastName": "Taylor",
+    "floruitExact": "1995",
+    "description": "English (?) academic",
+    "sql": 4361
   },
   "ww_27a2634fae377976": {
     "firstName": "John",
@@ -24213,6 +24664,7 @@
   "ww_9d6793c88da79727": {
     "firstName": "Publius",
     "lastName": "Terentius Afer",
+    "description": "Roman dramatist  195 BC-159 BC",
     "sql": 3899
   },
   "ww_b439ff44ab767613": {
@@ -24883,7 +25335,7 @@
     "firstName": "Graham",
     "lastName": "Tulloch",
     "floruitExact": "1969",
-    "description": "Australian academic -",
+    "description": "Australian academic",
     "sql": 4144
   },
   "ww_80f18267a097c8d5": {
@@ -25020,7 +25472,7 @@
     "lastName": "Tyndale",
     "birthExact": "1494",
     "deathExact": "1536",
-    "description": "English scholar and translator )",
+    "description": "English scholar and translator",
     "sql": 4022
   },
   "ww_2a91491796249542": {
@@ -25220,6 +25672,7 @@
   "ww_81a0be98745dd98b": {
     "firstName": "Publius",
     "lastName": "Vergilius Maro",
+    "description": "Roman epic poet 70 BC-19 BC",
     "sql": 2862
   },
   "ww_56b3b31d0012bd77": {
@@ -25343,6 +25796,14 @@
     "description": "Swiss academic",
     "sql": 3284
   },
+  "ww_166cc9e286915ad2": {
+    "firstName": "Else",
+    "lastName": "von Schaubert",
+    "birthExact": "1886",
+    "deathExact": "1977",
+    "description": "German scholar , full name Else Constanze Wilhelmine",
+    "sql": 4371
+  },
   "ww_6e43a37dc364d9d5": {
     "firstName": "Kurt",
     "lastName": "Vonnegut",
@@ -25456,6 +25917,13 @@
     "description": "English dramatist",
     "sql": 3002
   },
+  "ww_04e0c08510ffa9b9": {
+    "firstName": "Jimmy Donal",
+    "lastName": "Wales",
+    "birthExact": "1966",
+    "description": "U.S.-British internet entrepreneur",
+    "sql": 4365
+  },
   "ww_ae4b65f84c713c44": {
     "firstName": "Martin",
     "lastName": "Walker",
@@ -25564,6 +26032,14 @@
     "description": "English (?) scholar",
     "sql": 4288
   },
+  "ww_b45b41759c4e5085": {
+    "firstName": "Edmund",
+    "lastName": "Waller",
+    "birthExact": "1696",
+    "deathExact": "1687",
+    "description": "English poet",
+    "sql": 4336
+  },
   "ww_1d9ffbd1fde1bb58": {
     "firstName": "Hans",
     "lastName": "Wallrath",
@@ -25606,6 +26082,14 @@
     "birthExact": "1949",
     "description": "English crime writer",
     "sql": 563
+  },
+  "ww_3aa0290883fa0efa": {
+    "firstName": "Izaak",
+    "lastName": "Walton",
+    "birthExact": "1593",
+    "deathExact": "1683",
+    "description": "English biographer",
+    "sql": 4364
   },
   "ww_32684ad2aa6bcdf9": {
     "firstName": "Sir William",
@@ -25733,6 +26217,11 @@
     "deathExact": "1790",
     "description": "English scholar",
     "sql": 2922
+  },
+  "ww_456fe48e57236f5f": {
+    "firstName": "Christopher",
+    "lastName": "Wase",
+    "sql": 4389
   },
   "ww_292580945ac4217d": {
     "firstName": "Georges",
@@ -26133,6 +26622,13 @@
     "floruitExact": "1965",
     "description": "U.S. academic",
     "sql": 3360
+  },
+  "ww_4d6a5eedecbfec86": {
+    "firstName": "Martin",
+    "lastName": "White",
+    "floruitExact": "2007",
+    "description": "English (?) scholar",
+    "sql": 4363
   },
   "ww_c18bc8b89c2f2b2d": {
     "firstName": "Antonia",
@@ -26875,6 +27371,19 @@
     "deathExact": "1791",
     "description": "English poet",
     "sql": 3591
+  },
+  "ww_e6cfc6d68b49bd7c": {
+    "firstName": "Abraham",
+    "lastName": "Wright",
+    "sql": 4386
+  },
+  "ww_f308f1a285323ed9": {
+    "firstName": "William",
+    "lastName": "Wycherley",
+    "birthExact": "1641",
+    "deathExact": "1716",
+    "description": "English dramatist",
+    "sql": 4337
   },
   "ww_5f2d626b618a1b91": {
     "firstName": "Katherine",

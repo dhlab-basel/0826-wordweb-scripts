@@ -94,9 +94,9 @@
     "title": "A Comedy of Errors",
     "sql": 382
   },
-  "ww_bba03041f3be17f3": {
+  "ww_6590cf3175695d23": {
     "bookInternalId": "@000754",
-    "title": "Gallathea",
+    "title": "Galatea",
     "sql": 384
   },
   "ww_a05e9fa3e5abb86c": {
@@ -154,8 +154,8 @@
     "title": "The Fatal Contract",
     "sql": 396
   },
-  "ww_2a002aad2fdee000": {
-    "bookInternalId": "@001111",
+  "ww_27c743f45370c4f1": {
+    "bookInternalId": "@006183",
     "title": "Klinike",
     "sql": 397
   },
@@ -524,9 +524,9 @@
     "title": "Your Five Gallants",
     "sql": 474
   },
-  "ww_abbc162fcc9b8163": {
+  "ww_6171e8c74f25e471": {
     "bookInternalId": "@001527",
-    "title": "Cupids Whirligig",
+    "title": "Cupid s Whirligig",
     "sql": 475
   },
   "ww_ad347c17c733512d": {
@@ -534,9 +534,9 @@
     "title": "Humour out of Breath",
     "sql": 476
   },
-  "ww_940f28e35b0dd6d0": {
+  "ww_4b7d449974e0cb7a": {
     "bookInternalId": "@001235",
-    "title": "Lusts Dominon, or The Spanish Moors Tragedy",
+    "title": "Lust s Dominon, or The Spanish Moors Tragedy",
     "sql": 477
   },
   "ww_e94b33ac99cc5615": {
@@ -609,9 +609,9 @@
     "title": "The Turk",
     "sql": 491
   },
-  "ww_5daf3834744322ae": {
+  "ww_580f470934725947": {
     "bookInternalId": "@001269",
-    "title": "Cynthias Revels",
+    "title": "Cynthia s Revels",
     "sql": 492
   },
   "ww_83f40524c281e8de": {
@@ -859,11 +859,6 @@
     "title": "The Goblins",
     "sql": 547
   },
-  "ww_21998f3517e8979a": {
-    "bookInternalId": "@005557",
-    "title": "The Custom of the Country",
-    "sql": 548
-  },
   "ww_88503e400f411e81": {
     "bookInternalId": "@001283",
     "title": "What You Will",
@@ -1029,9 +1024,9 @@
     "title": "The Foundation of Rhetoric",
     "sql": 583
   },
-  "ww_be9af191e6dc9863": {
+  "ww_540a6095f1f0473d": {
     "bookInternalId": "@005579",
-    "title": "Wits Misery and the Worlds Madness ",
+    "title": "Wit s Misery and the Worlds Madness ",
     "sql": 584
   },
   "ww_8cd00151071e8080": {
@@ -1524,9 +1519,9 @@
     "title": "Sicily and Naples - The Fatal Union",
     "sql": 719
   },
-  "ww_2924c24d12f5df5b": {
+  "ww_2921353412776d94": {
     "bookInternalId": "@002707",
-    "title": "Christs Passion",
+    "title": "Christ s Passion",
     "sql": 721
   },
   "ww_718afdd82518b47e": {
@@ -1574,8 +1569,8 @@
     "title": "A Paraphrase upon Job",
     "sql": 730
   },
-  "ww_f9c8a70232f830da": {
-    "bookInternalId": "@005675",
+  "ww_9b9692d2f446bac8": {
+    "bookInternalId": "@002578",
     "title": "The English Moor",
     "sql": 731
   },
@@ -1989,9 +1984,9 @@
     "title": "The Faithful Friends",
     "sql": 817
   },
-  "ww_b86eea79d0dd1a2b": {
+  "ww_72ccafb2887ee675": {
     "bookInternalId": "@001959",
-    "title": "Dekkers Dream",
+    "title": "Dekker s Dream",
     "sql": 818
   },
   "ww_1e8eac0ecb7f6a95": {
@@ -2084,9 +2079,9 @@
     "title": "A King And No King",
     "sql": 841
   },
-  "ww_62f03347373485ef": {
+  "ww_68c561647abcc4d3": {
     "bookInternalId": "@001646",
-    "title": "Catilines Conspiracy",
+    "title": "Catiline s Conspiracy",
     "sql": 842
   },
   "ww_9ad87c450d3c00aa": {
@@ -2124,8 +2119,8 @@
     "title": "Wit Without Money",
     "sql": 849
   },
-  "ww_2d049d46a6172033": {
-    "bookInternalId": "@001636",
+  "ww_8fdf12a4e58ee88f": {
+    "bookInternalId": "@001630",
     "title": "The Valiant Welshman",
     "sql": 850
   },
@@ -2179,9 +2174,9 @@
     "title": "The Philosophers Banquet, First edition",
     "sql": 860
   },
-  "ww_dd97da09761ee8f2": {
+  "ww_65db8cbea4232123": {
     "bookInternalId": "@005127",
-    "title": "Staffords Niobe",
+    "title": "Stafford s Niobe",
     "sql": 861
   },
   "ww_d96c27106919cc24": {
@@ -2349,9 +2344,9 @@
     "title": "Fragmenta Aurea",
     "sql": 905
   },
-  "ww_4248cd9d97d4040f": {
+  "ww_d90c44dea1e8309b": {
     "bookInternalId": "@005157",
-    "title": "Wits Labyrinth",
+    "title": "Wit s Labyrinth",
     "sql": 906
   },
   "ww_b8a53fa148ff9ccd": {
@@ -2414,19 +2409,19 @@
     "title": "The Tragedy of The Unhappy Fair Irene",
     "sql": 919
   },
-  "ww_73db2965a291b435": {
+  "ww_4c5079e854ac4888": {
     "bookInternalId": "@005169",
-    "title": "Ars Amatoria",
+    "title": "The Art of Love",
     "sql": 920
   },
-  "ww_92ec47c98c627653": {
+  "ww_a4688d4ac579bd46": {
     "bookInternalId": "@005170",
-    "title": "Institutio Oratoria",
+    "title": "The Orator s Education",
     "sql": 922
   },
-  "ww_19945219a7c5599a": {
+  "ww_b0db640773c38ee2": {
     "bookInternalId": "@005171",
-    "title": "The Famous Tragedy of King Charles I",
+    "title": "King Charles I",
     "sql": 924
   },
   "ww_f99a72278aa6b17a": {
@@ -2509,9 +2504,9 @@
     "title": "The City Heiress",
     "sql": 976
   },
-  "ww_3b9aca984ec12069": {
+  "ww_8d286894aabccabd": {
     "bookInternalId": "@005184",
-    "title": "Hells Broke Loose",
+    "title": "Hell s Broke Loose",
     "sql": 978
   },
   "ww_9eb123790b15a783": {
@@ -2544,9 +2539,9 @@
     "title": "Sententiae of Publilius Syrus",
     "sql": 1038
   },
-  "ww_a8ab078486a7a978": {
+  "ww_dd8dc20e80148054": {
     "bookInternalId": "@005191",
-    "title": "Aeneis",
+    "title": "Aeneid",
     "sql": 1039
   },
   "ww_34f6680a5ed3328f": {
@@ -2789,14 +2784,14 @@
     "title": "A Help to Memory and Discourse",
     "sql": 1099
   },
-  "ww_584f1e470e931f37": {
+  "ww_14705eaaf177dab3": {
     "bookInternalId": "@000295",
-    "title": "De officiis",
+    "title": "On Duties",
     "sql": 1100
   },
-  "ww_ec424d9b5ae10005": {
+  "ww_17e522d25be4f285": {
     "bookInternalId": "@000293",
-    "title": "De Civitate Dei",
+    "title": "The City of God",
     "sql": 1101
   },
   "ww_69fcceca9feb84fc": {
@@ -2829,9 +2824,9 @@
     "title": "An Old Law",
     "sql": 1117
   },
-  "ww_ef43398380331c40": {
+  "ww_79a4d0982a91aaf9": {
     "bookInternalId": "@002451",
-    "title": "Loves Mistress",
+    "title": "Love s Mistress",
     "sql": 1118
   },
   "ww_56b2138c599c2b04": {
@@ -2939,14 +2934,14 @@
     "title": "Pseudodoxia Epidemica",
     "sql": 1184
   },
-  "ww_1cbda00ef23bc945": {
+  "ww_d5169601da008340": {
     "bookInternalId": "@000256",
-    "title": "Heauton Timoroumenos",
+    "title": "The Self-Tormentor",
     "sql": 1186
   },
-  "ww_294203a979ba9721": {
-    "bookInternalId": "@000265",
-    "title": "Tusculanae Disputationes",
+  "ww_9965142d2908845b": {
+    "bookInternalId": "@006153",
+    "title": "Tusculan Disputations",
     "sql": 1187
   },
   "ww_09d36da18882d57e": {
@@ -2999,9 +2994,9 @@
     "title": "Seven Against Thebes",
     "sql": 1202
   },
-  "ww_24f97723e644db8e": {
+  "ww_d08223894c71822c": {
     "bookInternalId": "@006004",
-    "title": "Trachiniai",
+    "title": "Women of Trachis",
     "sql": 1203
   },
   "ww_7ac4aff268cca83d": {
@@ -3029,9 +3024,9 @@
     "title": "Elektra (Sophocles)",
     "sql": 1209
   },
-  "ww_b1fd2e3a9b5ac30a": {
+  "ww_39f654f43ebdd2c6": {
     "bookInternalId": "@006011",
-    "title": "Andromeda (Euripides)",
+    "title": "Andromache (Euripides)",
     "sql": 1210
   },
   "ww_fe7b115c727a706a": {
@@ -3044,19 +3039,19 @@
     "title": "Eudemian Ethics",
     "sql": 1212
   },
-  "ww_21fc85400a5d9f1f": {
+  "ww_f6dab863f557f6c2": {
     "bookInternalId": "@006014",
-    "title": "Batrachomyomachia",
+    "title": "The Battle of Frogs and Mice",
     "sql": 1213
   },
-  "ww_8315219a5be6a7fa": {
+  "ww_0453e0af2dcb1b76": {
     "bookInternalId": "@006015",
-    "title": "Catonis Disticha",
+    "title": "Distichs of Cato",
     "sql": 1214
   },
-  "ww_546ef00f068cbdff": {
+  "ww_b6e9b4827b894ce6": {
     "bookInternalId": "@006016",
-    "title": "Amphitruo",
+    "title": "Amphitryon",
     "sql": 1215
   },
   "ww_fba694bbca6f4380": {
@@ -3064,20 +3059,15 @@
     "title": "Epidicus",
     "sql": 1216
   },
-  "ww_d54e54848bd47652": {
+  "ww_e372b841f2ac8946": {
     "bookInternalId": "@006018",
-    "title": "De Oratore",
+    "title": "On the Orator",
     "sql": 1217
   },
-  "ww_7f250db5b2f674e6": {
+  "ww_71a3a3a95ddbd201": {
     "bookInternalId": "@006019",
-    "title": "Luctus de Morte Passeris",
+    "title": "Poems (Catullus)",
     "sql": 1218
-  },
-  "ww_6a59c62475843e4e": {
-    "bookInternalId": "@006020",
-    "title": "De Beneficiis",
-    "sql": 1219
   },
   "ww_bf76f3bf04d133d6": {
     "bookInternalId": "@006021",
@@ -3254,9 +3244,9 @@
     "title": "Five Love-Letters from a Nun to a Cavalier",
     "sql": 1256
   },
-  "ww_821518e323a90be4": {
+  "ww_10e4cb5d08098c54": {
     "bookInternalId": "@006058",
-    "title": "Troilus and Cressida (Dryden)",
+    "title": "Troilus and Cressida, or Truth Found Too Late",
     "sql": 1257
   },
   "ww_b3515ed78c8dc8bd": {
@@ -3268,11 +3258,6 @@
     "bookInternalId": "@006060",
     "title": "An Idea of Happiness",
     "sql": 1259
-  },
-  "ww_eb7ee957e5733f4a": {
-    "bookInternalId": "@006061",
-    "title": "The Observator",
-    "sql": 1260
   },
   "ww_5c60931b9852bed4": {
     "bookInternalId": "@006062",
@@ -3329,9 +3314,9 @@
     "title": "All non-author humans",
     "sql": 1274
   },
-  "ww_b4af3ab82729fb55": {
+  "ww_1147355a79a0602c": {
     "bookInternalId": "@006073",
-    "title": "Libri Novum Factorum Dictorumque Memorabilium",
+    "title": "Memorable Doings and Sayings",
     "sql": 1275
   },
   "ww_80d6450ba32776a7": {
@@ -3354,9 +3339,9 @@
     "title": "Women, Beware Women",
     "sql": 1309
   },
-  "ww_d67d6b340386ae62": {
-    "bookInternalId": "@006106",
-    "title": "Tragedy of King Richard the Second",
+  "ww_5062f7c02d8ab4f6": {
+    "bookInternalId": "@001647",
+    "title": "Tragedy of Thomas of Woodstock",
     "sql": 1312
   },
   "ww_c1ceb857f7b44e8e": {
@@ -3369,9 +3354,449 @@
     "title": "The Marriages of the Arts",
     "sql": 1315
   },
-  "ww_61a73af76dada45a": {
+  "ww_fdcb63a0fac9dd01": {
     "bookInternalId": "@001523",
-    "title": "The Devils Charter",
+    "title": "The Devil s Charter",
     "sql": 1316
+  },
+  "ww_256ee49bc5eb68d2": {
+    "bookInternalId": "@006111",
+    "title": "Suasoriae",
+    "sql": 1322
+  },
+  "ww_e0b67491233801b1": {
+    "bookInternalId": "@002591",
+    "title": "The Antipodes",
+    "sql": 1325
+  },
+  "ww_c1b0ed60ba0058cb": {
+    "bookInternalId": "@006115",
+    "title": "The Suppliants",
+    "sql": 1327
+  },
+  "ww_34c054e055d7d6c9": {
+    "bookInternalId": "@006117",
+    "title": "History of Rome",
+    "sql": 1330
+  },
+  "ww_6561f118f91b93be": {
+    "bookInternalId": "@001787",
+    "title": "The Widow",
+    "sql": 1334
+  },
+  "ww_42c538dd9d8ef8cf": {
+    "bookInternalId": "@001911",
+    "title": "The Custom of the Country",
+    "sql": 1336
+  },
+  "ww_7efa074605611a3a": {
+    "bookInternalId": "@006122",
+    "title": "A Strappado for the Devil",
+    "sql": 1337
+  },
+  "ww_f65f85708d83ef12": {
+    "bookInternalId": "@006123",
+    "title": "A True Discovery of the King s Majesty s Proceedings",
+    "sql": 1338
+  },
+  "ww_b0c91d8f13d7e9a4": {
+    "bookInternalId": "@006125",
+    "title": "The Hue and Cry after those Rambling Protonotaries",
+    "sql": 1340
+  },
+  "ww_78d881f66c1ae0ec": {
+    "bookInternalId": "@006128",
+    "title": "Poems (Edmund Waller)",
+    "sql": 1343
+  },
+  "ww_5b588741e925caf2": {
+    "bookInternalId": "@001866",
+    "title": "The Elder Brother",
+    "sql": 1344
+  },
+  "ww_7bd288045cfa346e": {
+    "bookInternalId": "@001809",
+    "title": "The Mad Lover",
+    "sql": 1346
+  },
+  "ww_0b39d97642290286": {
+    "bookInternalId": "@001841",
+    "title": "The Bloody Brother",
+    "sql": 1347
+  },
+  "ww_26d98dfaca290f43": {
+    "bookInternalId": "@000829",
+    "title": "A Looking Glass for London and England",
+    "sql": 1348
+  },
+  "ww_db1a4862e86e9cd4": {
+    "bookInternalId": "@001443",
+    "title": "The London Prodigal",
+    "sql": 1349
+  },
+  "ww_7c8c81e3f77f5c22": {
+    "bookInternalId": "@001616",
+    "title": "London s Love to Prince Henry",
+    "sql": 1350
+  },
+  "ww_b42154be583e764f": {
+    "bookInternalId": "@006135",
+    "title": "Certain Elegant Poems",
+    "sql": 1351
+  },
+  "ww_89993f6d70e92ca2": {
+    "bookInternalId": "@006136",
+    "title": "The Princess of Cleves",
+    "sql": 1352
+  },
+  "ww_306e7f65e57754ee": {
+    "bookInternalId": "@006137",
+    "title": "The Country Wife",
+    "sql": 1353
+  },
+  "ww_87dc617210b92e48": {
+    "bookInternalId": "@002085",
+    "title": "The Sun s Darling ",
+    "sql": 1354
+  },
+  "ww_4b0c6406227937ef": {
+    "bookInternalId": "@006139",
+    "title": "Cuckold&#039;s Haven",
+    "sql": 1355
+  },
+  "ww_572f0374c5cf4656": {
+    "bookInternalId": "@001810",
+    "title": "The Devil Is an Ass",
+    "sql": 1356
+  },
+  "ww_55e01c65c906490c": {
+    "bookInternalId": "@006141",
+    "title": "British Library Additional MS 10309",
+    "sql": 1357
+  },
+  "ww_c5520f2586da2590": {
+    "bookInternalId": "@002552",
+    "title": "The Royal Slave",
+    "sql": 1358
+  },
+  "ww_db5e201cbfc68107": {
+    "bookInternalId": "@001340",
+    "title": "Sir Giles Goosecap, Knight",
+    "sql": 1359
+  },
+  "ww_029b72cff4e9ae73": {
+    "bookInternalId": "@000949",
+    "title": "Cleopatra",
+    "sql": 1360
+  },
+  "ww_9c2b3a0ec84a6b6d": {
+    "bookInternalId": "@001440",
+    "title": "Philotas",
+    "sql": 1361
+  },
+  "ww_b259bfd6b537efd1": {
+    "bookInternalId": "@001742",
+    "title": "Hymen s Triumph",
+    "sql": 1362
+  },
+  "ww_dc91ec87ef0ac573": {
+    "bookInternalId": "@002760",
+    "title": "The Virgin Widow",
+    "sql": 1363
+  },
+  "ww_c366802feb584cd9": {
+    "bookInternalId": "@001757",
+    "title": "Bartholomew Fair",
+    "sql": 1364
+  },
+  "ww_7d67eeead4fe98b0": {
+    "bookInternalId": "@001412",
+    "title": "Sejanus s Fall",
+    "sql": 1365
+  },
+  "ww_6d70c57f106cdc68": {
+    "bookInternalId": "@001987",
+    "title": "The Gypsies Metamorphosed",
+    "sql": 1366
+  },
+  "ww_598a6f57f6372907": {
+    "bookInternalId": "@002396",
+    "title": "The Beauties, or Bird in a Cage",
+    "sql": 1367
+  },
+  "ww_0c9f7c2444a3dd75": {
+    "bookInternalId": "@001509",
+    "title": "The Puritan",
+    "sql": 1368
+  },
+  "ww_7ca8405d87756cf9": {
+    "bookInternalId": "@000885",
+    "title": "Locrine",
+    "sql": 1369
+  },
+  "ww_da1a9488bc883386": {
+    "bookInternalId": "@002846",
+    "title": "The Sophy",
+    "sql": 1371
+  },
+  "ww_05cbc0fe137a6441": {
+    "bookInternalId": "@002274",
+    "title": "A Contention for Honour and Riches",
+    "sql": 1372
+  },
+  "ww_f13e4cefc6d5590a": {
+    "bookInternalId": "@011108",
+    "title": "Hyde Park",
+    "sql": 1373
+  },
+  "ww_47fe26296c5bf54d": {
+    "bookInternalId": "@002355",
+    "title": "The Changes, or Love in a Maze",
+    "sql": 1374
+  },
+  "ww_3d63135b244a134f": {
+    "bookInternalId": "@002581",
+    "title": "The Royal Master",
+    "sql": 1375
+  },
+  "ww_a8bc692ee3415e67": {
+    "bookInternalId": "@002337",
+    "title": "The Traitor",
+    "sql": 1376
+  },
+  "ww_2863e343c30f9889": {
+    "bookInternalId": "@002184",
+    "title": "The Wedding or Hymenaeus",
+    "sql": 1377
+  },
+  "ww_4e382b6d6a595f76": {
+    "bookInternalId": "@000631",
+    "title": "The Lady of May",
+    "sql": 1378
+  },
+  "ww_8b9111e7fc26569c": {
+    "bookInternalId": "@002731",
+    "title": "The Discontented Colonel, or Brennoralt",
+    "sql": 1379
+  },
+  "ww_c6dd0a2e6316a63e": {
+    "bookInternalId": "@002194",
+    "title": "Aristippus",
+    "sql": 1380
+  },
+  "ww_60cd368e50ed344b": {
+    "bookInternalId": "@001182",
+    "title": "Troilus and Cressida (Dekker-Chettle)",
+    "sql": 1383
+  },
+  "ww_1872dabdaffc2cd9": {
+    "bookInternalId": "@001917",
+    "title": "Nero",
+    "sql": 1385
+  },
+  "ww_aebc078f196b6651": {
+    "bookInternalId": "@006150",
+    "title": "Georgics",
+    "sql": 1389
+  },
+  "ww_10db0d3bada93bab": {
+    "bookInternalId": "@001456",
+    "title": "The Widow s Tears",
+    "sql": 1390
+  },
+  "ww_1321d17b7b704560": {
+    "bookInternalId": "@006131",
+    "title": "The Essays of Montaigne",
+    "sql": 1391
+  },
+  "ww_05114c8fef31bcf3": {
+    "bookInternalId": "@006132",
+    "title": "Pharsalia (Lucan)",
+    "sql": 1392
+  },
+  "ww_275f0a3cb7981c6f": {
+    "bookInternalId": "@006151",
+    "title": "The First Book of Songs and Airs",
+    "sql": 1395
+  },
+  "ww_eae274bec50e86ca": {
+    "bookInternalId": "@000389",
+    "title": "Damon and Pythias",
+    "sql": 1396
+  },
+  "ww_5a1df6e5dfda2e22": {
+    "bookInternalId": "@001553",
+    "title": "Julius Caesar (William Alexander)",
+    "sql": 1398
+  },
+  "ww_1f614d119284b9b6": {
+    "bookInternalId": "@001499",
+    "title": "The Wars of Caesar and Pompey",
+    "sql": 1399
+  },
+  "ww_d8c6daaf8691c21e": {
+    "bookInternalId": "@000954",
+    "title": "Cornelia or Pompey the Great s Fair Cornelia",
+    "sql": 1400
+  },
+  "ww_e83bc160d10744ca": {
+    "bookInternalId": "@000383",
+    "title": "Dido (Halliwell)",
+    "sql": 1402
+  },
+  "ww_f18404ded02bef4f": {
+    "bookInternalId": "@006156",
+    "title": "Colin Clout",
+    "sql": 1404
+  },
+  "ww_5c4e38c8c2ec5392": {
+    "bookInternalId": "@000278",
+    "title": "Jack Juggler",
+    "sql": 1405
+  },
+  "ww_19938077fbbebb20": {
+    "bookInternalId": "@006159",
+    "title": "A Play of Love",
+    "sql": 1406
+  },
+  "ww_e2f2553d070c0df6": {
+    "bookInternalId": "@001768",
+    "title": "Ignoramus",
+    "sql": 1407
+  },
+  "ww_409e35f792aced29": {
+    "bookInternalId": "@000743",
+    "title": "Dido (Gager)",
+    "sql": 1408
+  },
+  "ww_b4089a7c8f0415cf": {
+    "bookInternalId": "@006164",
+    "title": "The Compleat Angler",
+    "sql": 1415
+  },
+  "ww_8c37a654cb8502a9": {
+    "bookInternalId": "@006165",
+    "title": "The Pinder of Wakefield",
+    "sql": 1416
+  },
+  "ww_087563d560bcb9f2": {
+    "bookInternalId": "@002130",
+    "title": "A Game at Chess",
+    "sql": 1418
+  },
+  "ww_538c73033177f386": {
+    "bookInternalId": "@006167",
+    "title": "The Art of Poetry (Horace)",
+    "sql": 1419
+  },
+  "ww_a3324690d01c80a5": {
+    "bookInternalId": "@001715",
+    "title": "A Chaste Maid in Cheapside",
+    "sql": 1420
+  },
+  "ww_a1cab3e2580a77ca": {
+    "bookInternalId": "@006168",
+    "title": "A Short Introduction of Grammar",
+    "sql": 1421
+  },
+  "ww_60d2397b11e1b1b4": {
+    "bookInternalId": "@006171",
+    "title": "The Dial of Princes",
+    "sql": 1424
+  },
+  "ww_755e1d22dac310af": {
+    "bookInternalId": "@006177",
+    "title": "The Steel-Glass",
+    "sql": 1431
+  },
+  "ww_55e9490f44c9930d": {
+    "bookInternalId": "@006178",
+    "title": "Letters (St Jerome)",
+    "sql": 1432
+  },
+  "ww_9c5cc2bf9ae7565f": {
+    "bookInternalId": "@006179",
+    "title": "Epigrams (Martial)",
+    "sql": 1433
+  },
+  "ww_f5f6b255206b566a": {
+    "bookInternalId": "@006180",
+    "title": "The New Testament (Geneva Bible)",
+    "sql": 1434
+  },
+  "ww_7bb17016c9c862ce": {
+    "bookInternalId": "@001222",
+    "title": "The Return from Parnassus",
+    "sql": 1435
+  },
+  "ww_8c2ffd741b2e34b1": {
+    "bookInternalId": "@006182",
+    "title": "The Ghost of Lucrece",
+    "sql": 1438
+  },
+  "ww_96bad3a9fcdd08f4": {
+    "bookInternalId": "@006184",
+    "title": "The Persian",
+    "sql": 1439
+  },
+  "ww_51e0f79169e754d9": {
+    "bookInternalId": "@006185",
+    "title": "The Fourth Book of Vergil",
+    "sql": 1440
+  },
+  "ww_69aae1fec8571bdf": {
+    "bookInternalId": "@006187",
+    "title": "The Metamorphosis of Ajax",
+    "sql": 1443
+  },
+  "ww_41d43785c69cab9b": {
+    "bookInternalId": "@000000",
+    "title": "Placeholder book",
+    "sql": 1444
+  },
+  "ww_5a18ba2f65c0031b": {
+    "bookInternalId": "@006188",
+    "title": "British Library Additional MS 22608 ",
+    "sql": 1445
+  },
+  "ww_1acc84db34e6ea69": {
+    "bookInternalId": "@006189",
+    "title": "William Salt Library MS 308-40",
+    "sql": 1447
+  },
+  "ww_2ee6e47f8357b721": {
+    "bookInternalId": "@006190",
+    "title": "Tristia",
+    "sql": 1448
+  },
+  "ww_9c5e72bf39fae65d": {
+    "bookInternalId": "@006191",
+    "title": "Bodleian Library MS Don e 6",
+    "sql": 1449
+  },
+  "ww_79a31d3378c51875": {
+    "bookInternalId": "@006192",
+    "title": "British Library Additional MS 18044",
+    "sql": 1450
+  },
+  "ww_eb89c626f63c0452": {
+    "bookInternalId": "@006193",
+    "title": "Bodleian Library MS Sancroft 18",
+    "sql": 1451
+  },
+  "ww_0023f84797465ffa": {
+    "bookInternalId": "@006194",
+    "title": "University of Chicago MS 824",
+    "sql": 1452
+  },
+  "ww_fe9d964fd9007e07": {
+    "bookInternalId": "@006195",
+    "title": "An humerous dayes mirth, Folger Shakespeare Library STC ",
+    "sql": 1453
+  },
+  "ww_f752311737249d9b": {
+    "bookInternalId": "@006194",
+    "title": "Folger MS V a 226 vol 1",
+    "sql": 1454
   }
 }

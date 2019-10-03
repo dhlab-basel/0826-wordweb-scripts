@@ -37,13 +37,15 @@ import prep_venues
 # export_2.csv is from Act 4, Scene 6, line "I do not know from what part of the world"
 # export_3.csv is from Act 4, Scene 6, line "I should be greeted, if not from Lord Hamlet."
 # export_4.csv is from Act 4, Scene 6, line "Let him bless thee too."
-# export_5.csv is from Act 4, Scene 6, line "He shall, sir, an't please him. There's a letter "
+# export_5.csv is from Act 4, Scene 6, line "He shall, sir, an't please him. There's a letter"
+# export_6.csv is from Act 4, Scene 6, line "you, sir; it comes from the ambassador that was"
 csv_files = [
     "01_prepare_scripts/csv/export_1.csv",
     "01_prepare_scripts/csv/export_2.csv",
     "01_prepare_scripts/csv/export_3.csv",
     "01_prepare_scripts/csv/export_4.csv",
-    "01_prepare_scripts/csv/export_5.csv"
+    "01_prepare_scripts/csv/export_5.csv",
+    "01_prepare_scripts/csv/export_6.csv"
 ]
 
 # Every object contains all the resources of the same type which occur in hyperhamlet.
@@ -86,13 +88,19 @@ passages = {}
 companies = {}
 venues = {}
 
+person_id_start = 7100
+
 
 def create_author(auth_id):
+    global person_id_start
+    person_id_start = person_id_start + 1
+
     # Author with all the properties defined in the data_model_definition.json
     person = {
         "firstName": allAuthors[auth_id]["firstName"],
         "lastName": allAuthors[auth_id]["lastName"],
-        "hasGender": "male"
+        "hasGender": "male",
+        "personInternalId": person_id_start
     }
 
     if "description" in allAuthors[auth_id]:
@@ -122,7 +130,7 @@ def create_author(auth_id):
 
 def update_author(auth_id, auth_int_id, lex_id):
     if auth_int_id:
-        authors[auth_id]["authorInternalId"] = auth_int_id
+        authors[auth_id]["personInternalId"] = auth_int_id
 
     if lex_id:
         authors[auth_id]["lexiaAsPerson"] = lex_id
@@ -297,10 +305,14 @@ def update_sec_passage(sec_pa_id, sec_bo_id):
 
 
 def create_contributor(co_id):
+    global person_id_start
+    person_id_start = person_id_start + 1
+
     contributor = {
         "firstName": allContributors[co_id]["firstName"],
         "lastName": allContributors[co_id]["lastName"],
-        "email": allContributors[co_id]["email"]
+        "email": allContributors[co_id]["email"],
+        "personInternalId": person_id_start
     }
 
     contributors[co_id] = contributor
@@ -496,7 +508,7 @@ def start():
 
                             lexiaAsAuthor = id.generate(le["lexiaTitle"])
                             if lexiaAsAuthor in authors:
-                                update_author(lexiaAsAuthor, None, lexia_id)
+                                update_author(lexiaAsAuthor, le["lexiaInternalId"], lexia_id)
 
                             key = "{} {}".format(le["lexiaInternalId"], le["lexiaTitle"])
                             lexiaAsBookVenue = id.generate(key)
@@ -507,7 +519,6 @@ def start():
                             if lexiaAsBookVenue in venues:
                                 update_venue(lexiaAsBookVenue, lexia_id)
 
-
                         # --------------- COMPANY & VENUES
                         if row[12]:
                             comp_ven_names = row[12].split(" / ")
@@ -516,7 +527,8 @@ def start():
                                 comp_ven_data, type = comp_ven.info(comp_ven_name, line, csv_file)
 
                                 if type is "venue":
-                                    unique_key = "{} {}".format(comp_ven_data["venueInternalId"], comp_ven_data["venueTitle"])
+                                    unique_key = "{} {}".format(comp_ven_data["venueInternalId"],
+                                                                comp_ven_data["venueTitle"])
 
                                     venue_id = id.generate(unique_key)
 

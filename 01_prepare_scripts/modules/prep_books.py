@@ -11,7 +11,7 @@ import id_generator as id
 
 def prepare():
     try:
-        conn = pymysql.connect(host='localhost', user='vitsch', password='test', database='HAMLET')
+        conn = pymysql.connect(host='localhost', port=8889, user='vitsch', password='test', database='HAMLET')
 
         cursor = conn.cursor(pymysql.cursors.DictCursor)
 

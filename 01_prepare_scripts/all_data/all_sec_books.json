@@ -23,41 +23,6 @@
       "_ 0_Anon"
     ]
   },
-  "ww_55bc1a3b04bf8a8d": {
-    "bookInternalId": "@010084",
-    "title": "FDT - Folger Digital Texts",
-    "pubInfo": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts.",
-    "authors": [
-      "Barbara Mowat",
-      "Rebecca Niles",
-      "Michael Poston",
-      "Paul Werstine"
-    ]
-  },
-  "ww_f0b8d4220bfdd308": {
-    "bookInternalId": "@010077",
-    "title": "OED - Oxford English Dictionary",
-    "pubInfo": "OED - Oxford English Dictionary. http:/dictionary.oed.com/entrance.dtl.",
-    "authors": [
-      "_ 0_Anon"
-    ]
-  },
-  "ww_c8f5dee9c32a4636": {
-    "bookInternalId": "@010107",
-    "title": "DLCPP - Digital Library of Classic Protestant Text",
-    "pubInfo": "DLCPP - Digital Library of Classic Protestant Texts. http://solomon.tcpt.alexanderstreet.com. ",
-    "authors": [
-      "_ 0_Anon"
-    ]
-  },
-  "ww_c7c5349f902de2b8": {
-    "bookInternalId": "@010113",
-    "title": "Google Books",
-    "pubInfo": "Google Books. https://books.google.com/.",
-    "authors": [
-      "_ 0_Anon"
-    ]
-  },
   "ww_a5f16976f0185875": {
     "bookInternalId": "@010128",
     "title": "Paradise Lost (Newton edition)",
@@ -109,7 +74,7 @@
   "ww_01a2557ffc81f6ca": {
     "bookInternalId": "@010145",
     "title": "Specimen of a Commentary ",
-    "pubInfo": "ed. A Specimen of a Commentary on Shakespeare: being the text of the first (1794) edition revised by the author and never previously published. Eds. Alan Over and Mary Bell. 2nd ed. London: Methuen, 1967.",
+    "pubInfo": "A Specimen of a Commentary on Shakespeare: being the text of the first (1794) edition revised by the author and never previously published. Eds. Alan Over and Mary Bell. 2nd ed. London: Methuen, 1967.",
     "authors": [
       "Walter Whiter"
     ]
@@ -133,7 +98,7 @@
   "ww_9412fba12ddffaa6": {
     "bookInternalId": "@010156",
     "title": "Shps Life (Malone)",
-    "pubInfo": "The Life of Shakespeare.",
+    "pubInfo": "The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators : comprehending a life of the poet, and an enlarged history of the stage, by the late Edmond Malone, with a new glossarial index. London, F.C. and J Rivington 1821.",
     "authors": [
       "Edmond Malone"
     ]
@@ -162,6 +127,14 @@
       "William Lowes Rushton"
     ]
   },
+  "ww_d81bd33098bf133f": {
+    "bookInternalId": "@006114",
+    "title": "Among My Books",
+    "pubInfo": "Among My Books: Six Essays. London: Macmillan, 1870.",
+    "authors": [
+      "James Russell Lowell"
+    ]
+  },
   "ww_ede42cb1c3c1d408": {
     "bookInternalId": "@010027",
     "title": "Shakespeares Euphuism",
@@ -179,12 +152,28 @@
       "Sir John Bowring"
     ]
   },
+  "ww_cde6c9bb00f512f1": {
+    "bookInternalId": "@006127",
+    "title": "The dramatic works of Sir William DAvenant",
+    "pubInfo": "ed. The Dramatic Works of Sir William D'Avenant with prefatory memoir and notes. 5 vols. Edinburgh: W. Paterson, 1872-1874.",
+    "authors": [
+      "_ 0_Anon"
+    ]
+  },
   "ww_6397c37d39125a7f": {
     "bookInternalId": "@010170",
     "title": "The Female Rebellion (Glasgow edition)",
     "pubInfo": "The Female Rebelion. A Tragicomedy From A MS. In The Hunterian Museum University of Glasgow. Glasgow: Printed for Private Circulation, 1872.",
     "authors": [
       "(nickname or initials) 0_Anon"
+    ]
+  },
+  "ww_8df60ecbbf55982d": {
+    "bookInternalId": "@006142",
+    "title": "The Dramatic Works of Thomas Dekker",
+    "pubInfo": "ed. The dramatic works of Thomas Dekker, now first collected with illustrative notes and a memoir of the author. London: J. Pearson, 1873.",
+    "authors": [
+      "Richard Herne Shepherd"
     ]
   },
   "ww_cd4449a9f288f0d1": {
@@ -256,7 +245,7 @@
   "ww_73035d6790a72f3b": {
     "bookInternalId": "@006081",
     "title": "The Complete Works of John Lyly (Bond edition)",
-    "pubInfo": "ed. John Lyly. The Complete Works of John Lyly. 4 vols. Oxford: The Clarendon Press, 1902.",
+    "pubInfo": "ed. The Complete Works of John Lyly. 4 vols. Oxford: The Clarendon Press, 1902.",
     "authors": [
       "R. W. Bond"
     ]
@@ -285,9 +274,9 @@
       "Heinrich R. D. Anders"
     ]
   },
-  "ww_ba8a8fc764e851b4": {
-    "bookInternalId": "@001581",
-    "title": "Shp Allusions (1904)",
+  "ww_5e05435c2593a395": {
+    "bookInternalId": "@006148",
+    "title": "Shakespeare Allusions 16-01-1904",
     "pubInfo": "Notes and Queries. 10.1 (16 January 1904): 44.",
     "letter": "Shakespearian Allusions",
     "authors": [
@@ -353,7 +342,7 @@
   },
   "ww_de6299bae9b985ee": {
     "bookInternalId": "@010051",
-    "title": "Gleichnisse und Metaphern in Shps Dramen",
+    "title": "Gleichnisse und Metaphern in Shakespeares Dramen",
     "pubInfo": "Gleichnisse und Metaphern in Shakespeare's Dramen und in seinen Quellenschriften. PhD. Strassburg: Elsass-Lothringische Druckerei, 1908. ",
     "authors": [
       "Hermann Voigt"
@@ -378,11 +367,29 @@
       "W. M. Theobald"
     ]
   },
+  "ww_76ad7ae57d9491f9": {
+    "bookInternalId": "@006118",
+    "title": "Shakespeare Allusions 11-12-1909",
+    "pubInfo": "Notes and Queries 10-12:311, 11 December 1909): 465\u2013466. https://doi.org/10.1093/nq/s10-XII.311.465.",
+    "letter": "Shakespeare Allusions",
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
   "ww_d57fe99db4adc1d0": {
     "bookInternalId": "@010144",
-    "title": "Thorn-Dury Shakespeare Allusion April 1909",
+    "title": "Shakespeare Allusion 17-04-1909",
     "pubInfo": "Notes and Queries 40 (17 April 1909): 305.",
     "letter": "Shakespeare Allusion",
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
+  "ww_c72a4ebba5007011": {
+    "bookInternalId": "@006124",
+    "title": "Shakespeare Allusions 12-06-1909",
+    "pubInfo": "Notes and Queries 10-11 (12 June 1909): 465.",
+    "letter": "Shakespeare Allusions",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -403,10 +410,19 @@
       "Arthur Rowland Skemp"
     ]
   },
+  "ww_fe68a6a51197fedb": {
+    "bookInternalId": "@006126",
+    "title": "Shakespeare Allusions 1911-04-22",
+    "pubInfo": "Notes and Queries (22 April 1911): 305.",
+    "letter": "Shakespeare Allusions",
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
   "ww_1346944d637cbc76": {
     "bookInternalId": "@010088",
-    "title": "Thorn-Drury Shp Allusions 30-11-1912",
-    "pubInfo": "Notes and Queries 11-6:153, 30 November 1912): 426-427.",
+    "title": "Shakespeare Allusions 30-11-1912",
+    "pubInfo": "Notes and Queries 11-6:153 (30 November 1912): 426-427.",
     "letter": "Shakespeare Allusions",
     "authors": [
       "George Thorn-Drury"
@@ -430,10 +446,19 @@
   },
   "ww_f3582e478658b162": {
     "bookInternalId": "@006000",
-    "title": "The Insatiate Countess (Ernst edition)",
+    "title": "The Insatiate Countess Verh\u00e4ltnis zu den Quellen",
     "pubInfo": "The Insatiate Countess, Verh\u00e4ltnis zu den Quellen, Charakterzeichung und Stil. PhD, K\u00f6nigsberg 1913.",
     "authors": [
       "Friedrich Ernst"
+    ]
+  },
+  "ww_ef005b6f795ee2c5": {
+    "bookInternalId": "@006119",
+    "title": "Shakespeare Allusions 02-08-1913",
+    "pubInfo": "Notes and Queries 11.8:188 (2 August 1913): 86. https://doi.org/10.1093/nq/s11-VIII.188.86c. ",
+    "letter": "Shakespeare Allusions",
+    "authors": [
+      "George Thorn-Drury"
     ]
   },
   "ww_fc0ed4bc4ee837dd": {
@@ -461,6 +486,15 @@
       "Hans Wallrath"
     ]
   },
+  "ww_7f32d70d1cbf7626": {
+    "bookInternalId": "@006120",
+    "title": "Shakespeare Allusions 12-06-1915",
+    "pubInfo": "Notes and Queries 11-11:285, 12 June 1915): 449\u2013450. ",
+    "letter": "Shakespeare Allusions",
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
   "ww_ce8da2e3a260a394": {
     "bookInternalId": "@010062",
     "title": "More Shakspere Allusions",
@@ -481,7 +515,7 @@
   },
   "ww_1c8a25fac02f85a7": {
     "bookInternalId": "@010086",
-    "title": "Thorn-Drury Some 17th-Century Allusions 1920",
+    "title": "Some 17th-Century Allusions",
     "pubInfo": "Some Seventeenth-Century Allusions to Shakespeare and His Works, Not Hitherto Collected. London: P. J. and A. E. Dobell, 1920.",
     "authors": [
       "George Thorn-Drury"
@@ -489,8 +523,8 @@
   },
   "ww_aee75c33920a3b79": {
     "bookInternalId": "@010008",
-    "title": "Thorn-Drury More 17th-Century Allusions ",
-    "pubInfo": "More Seventeenth-Century Allusions to Shakespeare and His Works. London: Dobell, 1924.",
+    "title": "More 17th-Century Allusions ",
+    "pubInfo": "More Seventeenth-Century Allusions to Shakespeare and His Works. London: P. J. and A. E. Dobell, 1924.",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -501,6 +535,14 @@
     "pubInfo": "ed. The Complete Works of John Webster. 4 vols. London: Chatto and Windus, 1927. ",
     "authors": [
       "F. L. Lucas"
+    ]
+  },
+  "ww_f068f8bfca6d8962": {
+    "bookInternalId": "@006174",
+    "title": "Die Stelle vom Rauhen Pyrrhus",
+    "pubInfo": "\"Die Stelle vom 'Rauhen Pyrrhus' (Hamlet II, 2. 460-551) in ihrem Verh\u00e4ltnis zu Marlowe-Nashes 'Dido', zu Seneca",
+    "authors": [
+      "Else von Schaubert"
     ]
   },
   "ww_7153ee1643dbad3b": {
@@ -533,6 +575,14 @@
     "pubInfo": "Shakespeare - A Study of Facts and Problems. Oxford: Clarendon Press, 1930.",
     "authors": [
       "Edward Kerchever Chambers"
+    ]
+  },
+  "ww_160b060adc5c12bf": {
+    "bookInternalId": "@010152",
+    "title": "Shakespere s Small Latine",
+    "pubInfo": "William Shakspere's Small Latine and Lesse Greeke. 2 vols. Urbana: University of Illinois Press, 1944.",
+    "authors": [
+      "Thomas Whitfield Baldwin"
     ]
   },
   "ww_6f8bba60983f33d9": {
@@ -577,6 +627,15 @@
       "John Dover Wilson"
     ]
   },
+  "ww_0f2b8e1e06f7bc1a": {
+    "bookInternalId": "@006108",
+    "title": "Hamlet, Three Notes",
+    "pubInfo": "Notes and Queries 175 (1938): 114.",
+    "letter": "Hamlet, Three Notes",
+    "authors": [
+      "T. C. C."
+    ]
+  },
   "ww_f1fa280c821d334c": {
     "bookInternalId": "@010068",
     "title": "An Early Hamlet Allusion",
@@ -586,12 +645,13 @@
       "Howard Schultz"
     ]
   },
-  "ww_160b060adc5c12bf": {
-    "bookInternalId": "@010152",
-    "title": "Shakesperes Small Latine",
-    "pubInfo": "William Shakspere's Small Latine and Lesse Greeke. 2 vols. Urbana: University of Illinois Press, 1944.",
+  "ww_4094cacf63f9b541": {
+    "bookInternalId": "@006109",
+    "title": "The Glass of Fashion and the Mould of Form",
+    "pubInfo": "Notes and Queries 185 (1943): 105.",
+    "letter": "The Glass of Fashion and the Mould of Form",
     "authors": [
-      "Thomas Whitfield Baldwin"
+      "tbe (male) 0_Author"
     ]
   },
   "ww_d87c5e9530010d35": {
@@ -663,6 +723,15 @@
       "Fredson Thayer Bowers"
     ]
   },
+  "ww_8787450e67cd38e0": {
+    "bookInternalId": "@006116",
+    "title": "The Marking of Sententiae",
+    "pubInfo": "Library 5.6 (1951-1952): 171-188.",
+    "letter": "The Marking of Sententiae in Elizabethan Printed Plays, Poems and Romances",
+    "authors": [
+      "George K. Hunter"
+    ]
+  },
   "ww_b18439026fdf86c5": {
     "bookInternalId": "@010140",
     "title": "Shakespeare and the Classics",
@@ -673,7 +742,7 @@
   },
   "ww_ca15500e7036f16e": {
     "bookInternalId": "@010154",
-    "title": "Shp and Nashes Pierce Pennilesse 2",
+    "title": "Shakespeare and Nashes Pierce Pennilesse 2",
     "pubInfo": "Notes and Queries 198 (September 1953): 371-374.",
     "letter": "Shakespeare and Nashe's Pierce Pennilesse II",
     "authors": [
@@ -691,7 +760,7 @@
   },
   "ww_c8b9905743513fbf": {
     "bookInternalId": "@010222",
-    "title": "Shp and Nashes Pierce Pennilesse 1",
+    "title": "Shakespeare and Nashes Pierce Pennilesse 1",
     "pubInfo": "Notes and Queries (September 1953): 272-274.",
     "letter": "Shakespeare and Nashe's 'Pierce Pennilesse' I",
     "authors": [
@@ -758,6 +827,15 @@
       "Geoffrey Bullough"
     ]
   },
+  "ww_8a2b94e996b8bc5b": {
+    "bookInternalId": "@006176",
+    "title": "Tamburlaine s Pampered Jades and Gascoigne",
+    "pubInfo": "Notes and Queries (February 1958): 53-54.",
+    "letter": "Tamburlaine's 'Pampered Jades' and Gascoigne",
+    "authors": [
+      "Leonard Nathanson"
+    ]
+  },
   "ww_eba183d996a233a5": {
     "bookInternalId": "@010024",
     "title": "Shakespeares Living Sources",
@@ -802,7 +880,7 @@
   "ww_fb59a581cb5d5bf6": {
     "bookInternalId": "@006091",
     "title": "The Plays of George Chapman (Parrott edition)",
-    "pubInfo": "ed. The Plays of George Chapman. 2 vols. New York: Russall and Russell, 1961.",
+    "pubInfo": "ed. The Plays of George Chapman. 4 vols. New York: Russall and Russell, 1961.",
     "authors": [
       "Thomas Marc Parrott"
     ]
@@ -833,12 +911,30 @@
       "Macdonald P. Jackson"
     ]
   },
+  "ww_c6aad2643ef0132e": {
+    "bookInternalId": "@006181",
+    "title": "Das Bild des brennenden Troja in The Rape of Lucre",
+    "pubInfo": "Shakespeare.",
+    "letter": "Das Bild des brennenden Troja in The Rape of Lucrece",
+    "authors": [
+      "Horst Oppel"
+    ]
+  },
   "ww_10d1735a57c373ef": {
     "bookInternalId": "@010141",
     "title": "The Works of Cyril Tourneur (Nicholl edition)",
     "pubInfo": "ed. The Works of Cyril Tourneur. New York: Russell and Russell, 1963.",
     "authors": [
       "John Ramsay Allardyce Nicholl"
+    ]
+  },
+  "ww_0f1ea0489ae6d162": {
+    "bookInternalId": "@006154",
+    "title": "Vergil in England",
+    "pubInfo": "Festschrift f\u00fcr Walter H\u00fcbner. Eds. Dieter Riesner and Helmut Gneuss. Erich Schmidt Verlag, 1964. 122-138.",
+    "letter": "Vergil in England",
+    "authors": [
+      "Rudolf S\u00fchnel"
     ]
   },
   "ww_9e8d5d7370ff576a": {
@@ -927,7 +1023,7 @@
   },
   "ww_57b895420c0ddd3e": {
     "bookInternalId": "@010042",
-    "title": "Shp and the Classical Tradition",
+    "title": "Shakespeare and the Classical Tradition",
     "pubInfo": "Shakespeare and the Classical Tradition. A Critical Guide to Commentary, 1660-1960. Minneapolis: University of Minnesota Press, 1968.",
     "authors": [
       "John V. Velz"
@@ -964,7 +1060,7 @@
   "ww_bd08f118fc2fbc55": {
     "bookInternalId": "@006098",
     "title": "The Dramatic Works of George Peele (Prouty)",
-    "pubInfo": "gen. ed. The Dramatic Works of George Peele. 3 vols. New Haven and London: Yale, 1970.",
+    "pubInfo": "ed. The Dramatic Works of George Peele. 3 vols. New Haven and London: Yale, 1970.",
     "authors": [
       "Charles Tyler Prouty"
     ]
@@ -1069,6 +1165,14 @@
       "Reavley Gair"
     ]
   },
+  "ww_5f3f2f6746673107": {
+    "bookInternalId": "@006143",
+    "title": "The Plays and Poems of Cyril Tourneur",
+    "pubInfo": "ed. The Plays and Poems of Cyril Tourneur. London: Chatto and Windus, 1878.",
+    "authors": [
+      "John Churton Collins"
+    ]
+  },
   "ww_38319ddb82fae050": {
     "bookInternalId": "@010018",
     "title": "Eastward Ho (Van Fossen edition)",
@@ -1085,20 +1189,21 @@
       "George L. Geckle"
     ]
   },
-  "ww_180d7fcf961a85ac": {
-    "bookInternalId": "@006070",
-    "title": "Unpublished Notes on Shakespeares Image Clusters",
-    "pubInfo": "Unpublished Notes on Shakespeare's Image Clusters.",
-    "authors": [
-      "Barbara Str\u00e4uli"
-    ]
-  },
   "ww_841e89ba43cd414c": {
     "bookInternalId": "@005247",
     "title": "The Broken Heart (Spencer edition)",
     "pubInfo": "ed. John Ford. The Broken Heart. Manchester: Manchester University Press, 1980.",
     "authors": [
       "T. J. B. Spencer"
+    ]
+  },
+  "ww_007f5df132cfba12": {
+    "bookInternalId": "@006186",
+    "title": "Classical Allusions in The Taming of The Shrew",
+    "pubInfo": "Hermathena (129, In honor of William Bedell Stanford) (Winter 1980): 23-28.",
+    "letter": "The Taming of the Shrew: notes on some classical allusions",
+    "authors": [
+      "Niall Rudd"
     ]
   },
   "ww_359edd0d37d00410": {
@@ -1115,7 +1220,7 @@
     "pubInfo": "Poetry and Drama 1570-1700: Essays in Honour of Harold F. Brooks. Eds. Antony Coleman and Antony Hammond. London and New York: Methuen, 1981. 186-199.",
     "letter": "Congreve as a Shakespearean",
     "authors": [
-      "Thiomas Wallace Craik"
+      "Thomas Wallace Craik"
     ]
   },
   "ww_a3bdfb5ec0f62f6f": {
@@ -1124,6 +1229,15 @@
     "pubInfo": "ed. William Shakespeare. Hamlet. New Arden Shakespeare. London: Methuen, 1982.",
     "authors": [
       "Harold Jenkins"
+    ]
+  },
+  "ww_3cba76f8cad7af40": {
+    "bookInternalId": "@006112",
+    "title": "Cacher, dire, montrer, taire",
+    "pubInfo": "Actes des congr\u00e8s de la Soci\u00e9t\u00e9 fran\u00e7aise Shakespeare: Du texte \u00e0 la Sc\u00e8ne: Langages du Th\u00e9\u00e2tre 4 (1983): 112-131.",
+    "letter": "Cacher, dire, montrer, taire \u2013 r\u00e9gime de l'imaginaire Shakespearien",
+    "authors": [
+      "Jean-Marie Maguin"
     ]
   },
   "ww_e38a56a7efbf9723": {
@@ -1163,9 +1277,17 @@
   "ww_0f0f2ccb24fa3b96": {
     "bookInternalId": "@010047",
     "title": "The Selected Plays of John Marston (Jackson editio",
-    "pubInfo": "eds. The Selected Plays of John Marston. Eds. Cambridge: Cambridge University Press, 1986.",
+    "pubInfo": "eds. The Selected Plays of John Marston. Cambridge: Cambridge University Press, 1986.",
     "authors": [
       "Macdonald P. Jackson"
+    ]
+  },
+  "ww_4a2644aff2dfbf90": {
+    "bookInternalId": "@006162",
+    "title": "The Roaring Girl (Mulholland edition)",
+    "pubInfo": "ed. Thomas Middleton and Thomas Dekker. The Roaring Girl. Manchester: Manchester University Press, 1987.",
+    "authors": [
+      "Paul A. Mulholland"
     ]
   },
   "ww_f4b1a8fa8f784028": {
@@ -1193,6 +1315,14 @@
       "Naseeb Azeez Shaheen"
     ]
   },
+  "ww_180d7fcf961a85ac": {
+    "bookInternalId": "@006070",
+    "title": "Unpublished Notes on Shakespeares Image Clusters",
+    "pubInfo": "Unpublished Notes on Shakespeare's Image Clusters.",
+    "authors": [
+      "Barbara Str\u00e4uli"
+    ]
+  },
   "ww_bc577a06e5bb54c7": {
     "bookInternalId": "@010021",
     "title": "The Works of Thomas Southerne (Jordan edition)",
@@ -1216,7 +1346,9 @@
     "title": "The Collected Works of Abraham Cowley",
     "pubInfo": "eds. The Collected Works of Abraham Cowley. 3 vols. Newark: University of Delaware Press, 1989.",
     "authors": [
-      "Thomas O. Calhoun"
+      "Thomas O. Calhoun",
+      "Laurence Heyworth",
+      "Allan Pritchard"
     ]
   },
   "ww_804d2b9aec6637b2": {
@@ -1253,12 +1385,20 @@
       "Peter Erickson"
     ]
   },
-  "ww_fa4f6a910617574c": {
-    "bookInternalId": "@002222",
+  "ww_940e3ded0cc9491d": {
+    "bookInternalId": "@006149",
     "title": "The Making of the National Poet",
     "pubInfo": "The Making of the National Poet: Shakespeare, Adaptation and Authorship. Oxford: Clarendon Press, 1992.",
     "authors": [
       "Michael Dobson"
+    ]
+  },
+  "ww_3720118d22ded9c4": {
+    "bookInternalId": "@006158",
+    "title": "A Game At Chess (Howard-Hill edition)",
+    "pubInfo": "ed. Thomas Middleton. A Game at chess. Manchester and New York: manchester University Press, 1993.",
+    "authors": [
+      "T. H. Howard-Hill"
     ]
   },
   "ww_66c4283b87c123dd": {
@@ -1278,6 +1418,14 @@
       "Sir Andrew Jonathan Bate"
     ]
   },
+  "ww_0c03705e6e91cff3": {
+    "bookInternalId": "@006107",
+    "title": "The Nature of Roman Comedy",
+    "pubInfo": "The Nature of Roman Comedy: A Study in Popular Entertainment. Second Edition. With a foreword and bibliographical appendix by Richard Hunter. Norman: University of Oklahoma Press, 1994.",
+    "authors": [
+      "George E. Duckworth"
+    ]
+  },
   "ww_8580b38f9dc94f0b": {
     "bookInternalId": "@010148",
     "title": "The Anatomy of Melancholy (Faulkner  edition)",
@@ -1289,9 +1437,27 @@
   "ww_b3931845d54b98d5": {
     "bookInternalId": "@010082",
     "title": "Hamlet (Hibbard edition)",
-    "pubInfo": "ed. William Shakespeare. Hamlet. The Oxford Shakespeare. Oxforad and New York: Oxford University Press, 1994.",
+    "pubInfo": "ed. William Shakespeare. Hamlet. The Oxford Shakespeare. Oxford and New York: Oxford University Press, 1994.",
     "authors": [
       "G. R. Hibbard"
+    ]
+  },
+  "ww_7df4bb9ecab02367": {
+    "bookInternalId": "@006133",
+    "title": "The Works of John Webster",
+    "pubInfo": "eds. The Works of John Webster. 3 vols. Cambridge: Cambridge University Press, 1995-2007.",
+    "authors": [
+      "David Carnegie",
+      "David Gunby",
+      "Macdonald P. Jackson"
+    ]
+  },
+  "ww_d881a6eb275d8a91": {
+    "bookInternalId": "@006160",
+    "title": "A Mad World, My Masters (Taylor edition)",
+    "pubInfo": "ed. Thomas Middleton. A Mad World, My Masters and Other Plays. Oxford World Classics. Oxford: Oxford University Press, 1995.",
+    "authors": [
+      "Michael Taylor"
     ]
   },
   "ww_e14966f62e338b68": {
@@ -1330,14 +1496,6 @@
   "ww_9f55abe6844f78fa": {
     "bookInternalId": "@006078",
     "title": "The Roaring Girl (Cook Edition)",
-    "pubInfo": "ed. Thomas Middleton and Thomas Dekker. The Roaring Girl. The New Mermaids. London: A. C. Black; New York: Norton, 1997 (second edition).",
-    "authors": [
-      "Elizabeth Cook"
-    ]
-  },
-  "ww_666d1ca3ab9bc2ea": {
-    "bookInternalId": "@010125",
-    "title": "The Roaring Girl (Cook edition)",
     "pubInfo": "ed. Thomas Middleton and Thomas Dekker. The Roaring Girl. New Mermaids. London: A and C. Black, 1997.",
     "authors": [
       "Elizabeth Cook"
@@ -1360,12 +1518,36 @@
       "Clive Francis"
     ]
   },
+  "ww_85fe9d709a4d3739": {
+    "bookInternalId": "@006157",
+    "title": "Women Beware Women (Dutton edition)",
+    "pubInfo": "ed. Thomas Middleton. Women beware Women. Oxford World Classics. Oxford: Oxford University Press, 1999",
+    "authors": [
+      "Richard Dutton"
+    ]
+  },
   "ww_7589cfaa41b21699": {
     "bookInternalId": "@010020",
     "title": "Biblical References in Shakespeares Plays",
     "pubInfo": "Biblical References in Shakespeare's Plays. Newark: University of Delaware Press, 1999.",
     "authors": [
       "Naseeb Azeez Shaheen"
+    ]
+  },
+  "ww_69e39de0f4cfdf37": {
+    "bookInternalId": "@006161",
+    "title": "Michaelmas Term (Paster edition)",
+    "pubInfo": "ed. Thomas Middleton. Michaelmas Term. Manchester and New York: Manchester University Press, 2000.",
+    "authors": [
+      "Gail Kern Paster"
+    ]
+  },
+  "ww_f0b8d4220bfdd308": {
+    "bookInternalId": "@010077",
+    "title": "OED - Oxford English Dictionary",
+    "pubInfo": "OED - Oxford English Dictionary online. 2000. http:/dictionary.oed.com/entrance.dtl.",
+    "authors": [
+      "_ 0_Anon"
     ]
   },
   "ww_73cdd390f6e92cbe": {
@@ -1377,6 +1559,14 @@
       "Barbara Paul"
     ]
   },
+  "ww_60b7dc46c7190afc": {
+    "bookInternalId": "@006155",
+    "title": "The Works of Richard Edwards (King edition)",
+    "pubInfo": "ed. The Works of Richard Edwards. Ed. Ros King. The Revels Plays Companion Library. Manchester and New York: Manchester University Press, 2001.",
+    "authors": [
+      "Ros King"
+    ]
+  },
   "ww_1ab5ab91bce01829": {
     "bookInternalId": "@006092",
     "title": "Beyond the Spanish Tragedy",
@@ -1385,12 +1575,13 @@
       "Lukas Erne"
     ]
   },
-  "ww_94bcf25a063535d7": {
-    "bookInternalId": "@006100",
-    "title": "The Works of Richard Edwards (King Edition)",
-    "pubInfo": "ed. The Works of Richard Edwards. Politics, Poetry and Performance in Sixteenth-Century England. Manchester: Manchester University Press, 2001.",
+  "ww_0c5658e7902f74d8": {
+    "bookInternalId": "@006166",
+    "title": "Wikipedia",
+    "pubInfo": "Wikipedia. www.wikipedia.org.",
     "authors": [
-      "Ros King"
+      "Larry Sanger",
+      "Jimmy Donal Wales"
     ]
   },
   "ww_68caf0be92d6d9a9": {
@@ -1444,9 +1635,17 @@
       "James Hirsh"
     ]
   },
+  "ww_368021d2e7cf2fc3": {
+    "bookInternalId": "@006173",
+    "title": "A King and No King (Bliss edition)",
+    "pubInfo": "ed. Francis Beaumont and John Fletcher. A King and No King.",
+    "authors": [
+      "Lee Bliss"
+    ]
+  },
   "ww_b2c6e0020e989c6d": {
     "bookInternalId": "@006101",
-    "title": "The 1st and 2nd Part of King Edward IV (Rowland)",
+    "title": "The 1st and 2nd Parts of King Edward IV (Rowland)",
     "pubInfo": "ed. The First and Second Part of King Edward IV. Thomas Heywood. Manchester: Manchester University Press, 2005.",
     "authors": [
       "Richard Rowland"
@@ -1467,6 +1666,14 @@
     "letter": "Hamlet and Cicero",
     "authors": [
       "Sir Brian William  Vickers"
+    ]
+  },
+  "ww_c7c5349f902de2b8": {
+    "bookInternalId": "@010113",
+    "title": "Google Books",
+    "pubInfo": "Google Books. 2005. https://books.google.com/.",
+    "authors": [
+      "_ 0_Anon"
     ]
   },
   "ww_1b231152ba6c63ce": {
@@ -1509,6 +1716,32 @@
       "Charles Whitney"
     ]
   },
+  "ww_9a76625cd3620368": {
+    "bookInternalId": "@006152",
+    "title": "DEEP Database of Early English Playbooks",
+    "pubInfo": "DEEP - Database of Early English Playbooks. http://deep.sas.upenn.edu/. 2007.",
+    "authors": [
+      "Alan B. Farmer",
+      "Zachary Lesser"
+    ]
+  },
+  "ww_e2f0d1dd2015e554": {
+    "bookInternalId": "@006163",
+    "title": "The Roman Actor (White edition)",
+    "pubInfo": "ed. Philip Massinger. The Roman actor. Manchester: Manchester University Press, 2007.",
+    "authors": [
+      "Martin White"
+    ]
+  },
+  "ww_4def6d5417bcd52c": {
+    "bookInternalId": "@006170",
+    "title": "Sir Thomas North as Sir John Daw",
+    "pubInfo": "Notes and Queries (September 2007): 321-324.",
+    "letter": "Sir Thomas North as Sir John Daw",
+    "authors": [
+      "Dennis McCarthy"
+    ]
+  },
   "ww_0de19bd63a1c9142": {
     "bookInternalId": "@010079",
     "title": "Against Thinking",
@@ -1525,6 +1758,14 @@
     "letter": "Francis Beaumont's Allusions to Shakespeare in The Woman Hater",
     "authors": [
       "Katherine Dorothea Duncan-Jones"
+    ]
+  },
+  "ww_c8f5dee9c32a4636": {
+    "bookInternalId": "@010107",
+    "title": "DLCPP - Digital Library of Classic Protestant Text",
+    "pubInfo": "DLCPP - Digital Library of Classic Protestant Texts. 2007. http://solomon.tcpt.alexanderstreet.com. ",
+    "authors": [
+      "_ 0_Anon"
     ]
   },
   "ww_6a0b1e5914da6bee": {
@@ -1578,12 +1819,49 @@
       "Sayre Greenfield"
     ]
   },
+  "ww_19231fab89a32760": {
+    "bookInternalId": "@006130",
+    "title": "Locrine, Selimus, Robert Greene, and Thomas Lodge",
+    "pubInfo": "Notes and Queries 56:4 (/December 2009): 559\u2013563.",
+    "letter": "Locrine, Selimus, Robert Greene, and Thomas Lodge",
+    "authors": [
+      "Donna M. Murphy"
+    ]
+  },
+  "ww_5501e17185816b38": {
+    "bookInternalId": "@006146",
+    "title": "Hamlet and Textual Re-Production 1550-1650",
+    "pubInfo": "Swiss Papers in English Language and Literature (SPELL) 22: The Construction of Textual Identity in Medieval and Early Modern Literature. Eds. Denis Renevey and Indira Ghose. T\u00fcbingen: Gunter Narr, 2009. 163-176.",
+    "letter": "Hamlet and Textual Re-Production 1550-1650",
+    "authors": [
+      "(female) 0_Anon"
+    ]
+  },
+  "ww_28da492bd57d1d59": {
+    "bookInternalId": "@006147",
+    "title": "A Key to All Quotations",
+    "pubInfo": "'A \"Key to all Quotations\"? A corpus-based parameter model of intertextuality.' Literary and Linguistic Computing 2010. http://llc.oxfordjournals.org/content/early/2010/05/18/llc.fqq003.",
+    "authors": [
+      "(female) 0_Anon"
+    ]
+  },
   "ww_643078306021b32a": {
     "bookInternalId": "@006090",
     "title": "An Humorous Day&#039;s Mirth (Edelman edition)",
     "pubInfo": "ed. George Chapman. An Humorous Day's Mirth. The Revels Plays. Manchester: Manchester University Press, 2010. ",
     "authors": [
       "Charles Edelman"
+    ]
+  },
+  "ww_55bc1a3b04bf8a8d": {
+    "bookInternalId": "@010084",
+    "title": "FDT - Folger Digital Texts",
+    "pubInfo": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts. 2010. https://www.folgerdigitaltexts.org.",
+    "authors": [
+      "Barbara Mowat",
+      "Rebecca Niles",
+      "Michael Poston",
+      "Paul Werstine"
     ]
   },
   "ww_adfdbd7c6a7b7a62": {
@@ -1637,6 +1915,15 @@
       "Paul A. Mulholland"
     ]
   },
+  "ww_55199f614fecf030": {
+    "bookInternalId": "@006169",
+    "title": "Shakespeare and Arden of Faversham",
+    "pubInfo": "Notes and Queries (August 2013): 391-396.",
+    "letter": "Shakespeare and Arden of Faversham",
+    "authors": [
+      "Dennis McCarthy"
+    ]
+  },
   "ww_b908ae26c4f3afcf": {
     "bookInternalId": "@010010",
     "title": "Collaborative Plays",
@@ -1648,7 +1935,7 @@
   },
   "ww_97955539c83b9cc3": {
     "bookInternalId": "@010029",
-    "title": "The Marlowe-Shp Continuum",
+    "title": "The Marlowe-Shakespeare Continuum",
     "pubInfo": "The Marlowe-Shakespeare Continuum: Christopher Marlowe, Thomas Nashe, and Authorship of Early Shakespeare and Anonymous Plays. Newcastle, 2013.",
     "authors": [
       "Donna M. Murphy"
@@ -1656,11 +1943,28 @@
   },
   "ww_e1e81a86f35b59e9": {
     "bookInternalId": "@010044",
-    "title": "Allusions to Shp in The Tragedy Of Messalina",
+    "title": "Allusions to Shakespeare in The Tragedy Of Messali",
     "pubInfo": "Notes and Queries (2013): 43-45.",
     "letter": "Allusions to Shakespeare in Nathaniel Richards's The Tragedy Of Messalina",
     "authors": [
       "Kate Wilkinson"
+    ]
+  },
+  "ww_a5aae40d30abb602": {
+    "bookInternalId": "@006113",
+    "title": "Shakespeare in Anthologies",
+    "pubInfo": "Shakespeare in Anthologies. PhD King's College London, 2014.",
+    "authors": [
+      "Anne Christine Isherwood"
+    ]
+  },
+  "ww_019d93b05e28ebdf": {
+    "bookInternalId": "@006175",
+    "title": "Marlovian Residue in Jonson s Poetaster",
+    "pubInfo": "Early Modern Literary Studies. Special Issue 23 (2014): 1-26.",
+    "letter": "Marlovian Residue in Jonson's Poetaster",
+    "authors": [
+      "M. L. Stapleton"
     ]
   },
   "ww_842318fc1c593591": {
@@ -1686,6 +1990,23 @@
     "pubInfo": "ed. George Chapman. All Fools. The Revels Plays. Manchester: Manchester University Press, 2018.",
     "authors": [
       "Charles Edelman"
+    ]
+  },
+  "ww_09bfa02c86d1a7c8": {
+    "bookInternalId": "@006110",
+    "title": "Loeb Classics",
+    "pubInfo": "https://www.loebclassics.com/",
+    "authors": [
+      "_ 0_Anon"
+    ]
+  },
+  "ww_88191e3f93faf319": {
+    "bookInternalId": "@006121",
+    "title": "DEx Dramatic Extracts",
+    "pubInfo": "Digital Extracts. https://dex.itercommunity.org/.",
+    "authors": [
+      "Laura Estill",
+      "Beatrice Montedoro"
     ]
   }
 }

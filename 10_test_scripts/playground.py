@@ -1,7 +1,7 @@
 # import hashlib
 
 import random
-
+import re
 import sys
 # defining path for module imports
 sys.path.append("modules/")
@@ -85,4 +85,51 @@ sys.path.append("modules/")
 # allLexias = prep_lexias.prepare()
 
 # -----------------
-print(random.randint(7000, 7999))
+# print(random.randint(7000, 7999))
+
+
+# -----------------
+# test = "Roman politician 0-0 100 BC-44 BC #007001"
+# test = "! fl. 2222-3333"
+#
+# stop = re.search("!(.*)", test)
+#
+# birth = re.search("(.*)b\.\s(.*)", test)
+# death = re.search("(.*)d\.\s(.*)", test)
+# floruit = re.search("(.*)fl\.\s(.*)", test)
+# birthDeath = re.search("(.*?)(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))-(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))(.*)", test)
+#
+# if stop:
+#     print("stop")
+# elif birth:
+#
+#     birth_span = re.search("(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))(.*)", birth.group(2))
+#
+#     print("1", birth.groups(), birth_span.groups())
+#
+# elif death:
+#
+#     death_span = re.search("(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))(.*)", death.group(2))
+#
+#     print("2", death.groups(), death_span.groups())
+#
+#
+# elif floruit:
+#
+#     floruit_span = re.search("((\d{1,4})-(\d{1,4})|(\d{1,4}))(.*)", floruit.group(2))
+#
+#     print("3", floruit.groups(), floruit_span.groups())
+#
+# elif birthDeath:
+#     print("4", birthDeath.groups())
+#
+# else:
+#     print("nothing")
+
+# -----------------
+
+start = 7100
+
+id = "&00" + str(start + 1)
+
+print(id, type(id), type(start))

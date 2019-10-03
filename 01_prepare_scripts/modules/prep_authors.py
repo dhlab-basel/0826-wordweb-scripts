@@ -11,7 +11,7 @@ import id_generator as id
 
 def prepare():
     try:
-        conn = pymysql.connect(host='localhost', user='vitsch', password='test', database='HAMLET')
+        conn = pymysql.connect(host='localhost', port=8889, user='vitsch', password='test', database='HAMLET')
 
         cursor = conn.cursor(pymysql.cursors.DictCursor)
 
@@ -43,11 +43,15 @@ def prepare():
                 # floruit = re.search("(?<=fl\.\s)\d{4}(?!\-)(.*)", row["description"])
                 floruit = re.search("(.*)fl\.\s(.*)", row["description"])
                 # birthDeath = re.search("(.*)(\d{4})-(\d{4})(.*)", row["description"])
-                birthDeath = re.search("(.*?)(\[(\d{4})-(\d{4})\]|(\d{4}))-(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", row["description"])
+                birthDeath = re.search("(.*?)(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))-(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))(.*)", row["description"])
+                stop = re.search("!(.*)", row["description"])
 
-                if birth:
+                if stop:
+                    description = stop.group(1)
 
-                    birth_span = re.search("(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", birth.group(2))
+                elif birth:
+
+                    birth_span = re.search("(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))(.*)", birth.group(2))
 
                     if birth_span.group(4) is None:
                         author["birthSpanStart"] = birth_span.group(2)
@@ -62,7 +66,7 @@ def prepare():
 
                 elif death:
 
-                    death_span = re.search("(\[(\d{4})-(\d{4})\]|(\d{4}))(.*)", death.group(2))
+                    death_span = re.search("(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))(.*)", death.group(2))
 
                     if death_span.group(4) is None:
                         author["deathSpanStart"] = death_span.group(2)
@@ -77,7 +81,7 @@ def prepare():
 
                 elif floruit:
 
-                    floruit_span = re.search("((\d{4})-(\d{4})|(\d{4}))(.*)", floruit.group(2))
+                    floruit_span = re.search("((\d{1,4})-(\d{1,4})|(\d{1,4}))(.*)", floruit.group(2))
 
                     if floruit_span is not None:
 

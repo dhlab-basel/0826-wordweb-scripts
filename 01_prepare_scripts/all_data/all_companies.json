@@ -39,10 +39,6 @@
     "companyInternalId": "#009013",
     "companyTitle": "Queen's Men"
   },
-  "ww_9472979a5bf666e6": {
-    "companyInternalId": "#009000",
-    "companyTitle": "Unknown"
-  },
   "ww_cf1e1a78f52e58d7": {
     "companyInternalId": "#009018",
     "companyTitle": "The Queen Majesty's Servants"
@@ -102,5 +98,13 @@
   "ww_83b481f6562ee0fc": {
     "companyInternalId": "#009025",
     "companyTitle": "Leicester's Men"
+  },
+  "ww_e19a2b6adb3b9951": {
+    "companyInternalId": "#009026",
+    "companyTitle": "King&#039;s Revels Company"
+  },
+  "ww_a68d0d0e9131bc6a": {
+    "companyInternalId": "#009027",
+    "companyTitle": "Marquess of Buckingham&#039;s household"
   }
 }
