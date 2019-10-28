@@ -2481,7 +2481,7 @@
               "gui_attributes": [
                 "hlist=formalClass"
               ],
-              "cardinality": "0-1"
+              "cardinality": "0-n"
             },
             {
               "name": "hasImage",
