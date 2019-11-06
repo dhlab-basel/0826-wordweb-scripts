@@ -45,7 +45,8 @@ csv_files = [
     "01_prepare_scripts/csv/export_3.csv",
     "01_prepare_scripts/csv/export_4.csv",
     "01_prepare_scripts/csv/export_5.csv",
-    "01_prepare_scripts/csv/export_6.csv"
+    "01_prepare_scripts/csv/export_6.csv",
+    "01_prepare_scripts/csv/export_7.csv"
 ]
 
 # Every object contains all the resources of the same type which occur in hyperhamlet.
@@ -139,9 +140,6 @@ def update_author(auth_id, auth_int_id, lex_id):
 def create_book(b_id, data_row, pub_info, pub_or_info):
     book = {
         "bookInternalId": allBooks[b_id]["bookInternalId"],
-        "edition": pub_info["pubInfo"],
-        "createdDate": "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
-        "publishDate": "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
         "isWrittenBy": [],
         "performedIn": [],
         "performedBy": [],
@@ -150,12 +148,19 @@ def create_book(b_id, data_row, pub_info, pub_or_info):
         "hasSubject": []
     }
 
+    if data_row[5] and data_row[6]:
+        book["createdDate"] = "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
+        book["publishDate"] = "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
+
     if "letter" in pub_info:
         book["title"] = pub_info["letter"]
     else:
         book["title"] = allBooks[b_id]["title"]
 
-    if pub_or_info:
+    if "pubInfo" in pub_info:
+        book["edition"] = pub_info["pubInfo"]
+
+    if "pubInfo" in pub_or_info:
         book["editionOriginal"] = pub_or_info["pubInfo"]
 
     books[b_id] = book

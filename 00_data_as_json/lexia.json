@@ -433,8 +433,8 @@
     "lexiaTitle": "lie backwards (innuendo)",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
-  "ww_64f9d198f893c867": {
-    "lexiaInternalId": "#300049",
+  "ww_730b1237d7ea443b": {
+    "lexiaInternalId": "#030049",
     "lexiaTitle": "you are the world",
     "hasFormalClass": "Idea"
   },
@@ -535,7 +535,7 @@
   },
   "ww_0aca3c620095cd08": {
     "lexiaInternalId": "#032015",
-    "lexiaTitle": "does not want marriage",
+    "lexiaTitle": "would rather die than marry",
     "hasFormalClass": "Plot element"
   },
   "ww_90b4f33cf899be88": {
@@ -718,8 +718,8 @@
     "lexiaTitle": "sung to filthy",
     "hasFormalClass": "Plot element"
   },
-  "ww_29f5c8bca02f9c8b": {
-    "lexiaInternalId": "#300601",
+  "ww_8fcf176fcc988a53": {
+    "lexiaInternalId": "#030601",
     "lexiaTitle": "pox",
     "hasFormalClass": "word"
   },
@@ -841,6 +841,11 @@
   "ww_d1c61506ae41cf8f": {
     "lexiaInternalId": "#031055",
     "lexiaTitle": "horribly in love",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_a79f2d1753a5cd91": {
+    "lexiaInternalId": "#032273",
+    "lexiaTitle": "cannot endure talkative woman",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_d2ecaa8167cdf430": {
@@ -978,6 +983,11 @@
     "lexiaTitle": "mad and to recover wits",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
+  "ww_f54737c25dc40b49": {
+    "lexiaInternalId": "#032369",
+    "lexiaTitle": "why for England?",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
   "ww_9426addd041019b2": {
     "lexiaInternalId": "#030433",
     "lexiaTitle": "speak daggers",
@@ -998,8 +1008,8 @@
     "lexiaTitle": "Pyrrhus, Greek warrior",
     "hasFormalClass": "Charactername"
   },
-  "ww_d7080aa2808b3840": {
-    "lexiaInternalId": "#004243",
+  "ww_55d3786acee9ab10": {
+    "lexiaInternalId": "#004343",
     "lexiaTitle": "briefly suspended sword or attack",
     "hasFormalClass": "Tiger cluster"
   },
@@ -1158,11 +1168,6 @@
     "lexiaTitle": "Adonis",
     "hasFormalClass": "Charactername"
   },
-  "ww_a79f2d1753a5cd91": {
-    "lexiaInternalId": "#032273",
-    "lexiaTitle": "cannot endure talkative woman",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
   "ww_ba1b676617a861e5": {
     "lexiaInternalId": "#007013",
     "lexiaTitle": "Marcus Tullius Cicero",
@@ -1186,6 +1191,11 @@
   "ww_d837ee43b9fea91a": {
     "lexiaInternalId": "#030422",
     "lexiaTitle": "Nature falling in love with her own work",
+    "hasFormalClass": "Plot element"
+  },
+  "ww_4e87a019da339b05": {
+    "lexiaInternalId": "#004402",
+    "lexiaTitle": "honour killing of dishonoured woman",
     "hasFormalClass": "Plot element"
   },
   "ww_103e95a7b8eaa00d": {
@@ -1407,8 +1417,8 @@
     "lexiaTitle": "die with happiness",
     "hasFormalClass": "Plot element"
   },
-  "ww_2e1cc38735d36d16": {
-    "lexiaInternalId": "#302138",
+  "ww_3cba4fe9eb850f20": {
+    "lexiaInternalId": "#032138",
     "lexiaTitle": "ivory breasts",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
@@ -1842,8 +1852,8 @@
     "lexiaTitle": "raven doth bellow revenge",
     "hasFormalClass": "Idea"
   },
-  "ww_b2d4d135b6743a81": {
-    "lexiaInternalId": "#032264",
+  "ww_c420efc75c95f305": {
+    "lexiaInternalId": "#004408",
     "lexiaTitle": "speeches fair",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
@@ -1870,6 +1880,11 @@
   "ww_a8980743d64b54e5": {
     "lexiaInternalId": "#004181",
     "lexiaTitle": "weeping",
+    "hasFormalClass": "Tiger cluster"
+  },
+  "ww_77001eaa2594362a": {
+    "lexiaInternalId": "#004220",
+    "lexiaTitle": "wind",
     "hasFormalClass": "Tiger cluster"
   },
   "ww_1daf6b24fc4d1ede": {
@@ -2311,11 +2326,6 @@
     "lexiaTitle": "fishmonger",
     "hasFormalClass": "word"
   },
-  "ww_31b584e314572339": {
-    "lexiaInternalId": "#030290",
-    "lexiaTitle": "equal scales",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
   "ww_b4c6ee345d342774": {
     "lexiaInternalId": "#032161",
     "lexiaTitle": "cowards beard plucked off",
@@ -2324,6 +2334,11 @@
   "ww_96218ec1d825f540": {
     "lexiaInternalId": "#030002",
     "lexiaTitle": "fathers spirit in arms",
+    "hasFormalClass": "Idea"
+  },
+  "ww_abbf03cab744796a": {
+    "lexiaInternalId": "#004247",
+    "lexiaTitle": "death as sleeping in dust",
     "hasFormalClass": "Idea"
   },
   "ww_79324d2865c10f97": {
@@ -2520,6 +2535,11 @@
     "lexiaTitle": "waste of the night",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
+  "ww_c84959abd0a831c5": {
+    "lexiaInternalId": "#032092",
+    "lexiaTitle": "rugged (Russian) bear or tiger",
+    "hasFormalClass": "word"
+  },
   "ww_431691bddc9cfd6e": {
     "lexiaInternalId": "#032239",
     "lexiaTitle": "Aeneas",
@@ -2702,7 +2722,7 @@
   },
   "ww_29fe957092c4d49a": {
     "lexiaInternalId": "#031094",
-    "lexiaTitle": "incestuous bed",
+    "lexiaTitle": "marrying brother s widow is incestuous",
     "hasFormalClass": "Plot element"
   },
   "ww_d1eb05b9a5eae25c": {
@@ -2819,8 +2839,8 @@
     "lexiaTitle": "canker",
     "hasFormalClass": "word"
   },
-  "ww_ea12b32f3dd98209": {
-    "lexiaInternalId": "#004230",
+  "ww_848660b00919e006": {
+    "lexiaInternalId": "#004330",
     "lexiaTitle": "overcautious father warning daughter"
   },
   "ww_f495d901f11f3829": {
@@ -2927,6 +2947,11 @@
     "lexiaInternalId": "#005103",
     "lexiaTitle": "Altofronto",
     "hasFormalClass": "Charactername"
+  },
+  "ww_22c55f04c903ad98": {
+    "lexiaInternalId": "#032350",
+    "lexiaTitle": "shadeless meadow, heaven's dog",
+    "hasFormalClass": "Setpiece (complete text)"
   },
   "ww_e6809c3f48cb2b56": {
     "lexiaInternalId": "#005041",
@@ -3203,8 +3228,8 @@
     "lexiaTitle": "keep your secret",
     "hasFormalClass": "Plot element"
   },
-  "ww_16c5dfe7ce430d8f": {
-    "lexiaInternalId": "#032263",
+  "ww_6630807473ac8692": {
+    "lexiaInternalId": "#004412",
     "lexiaTitle": "friend disguised as a priest performs invalid wedding rite",
     "hasFormalClass": "Plot element"
   },
@@ -3222,6 +3247,11 @@
     "lexiaInternalId": "#004198",
     "lexiaTitle": "Abraham",
     "hasFormalClass": "Charactername"
+  },
+  "ww_6868dd296bdeb573": {
+    "lexiaInternalId": "#004382",
+    "lexiaTitle": "tetter",
+    "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_6616d619553c785c": {
     "lexiaInternalId": "#031166",
@@ -3478,20 +3508,6 @@
     "lexiaTitle": "Lucius Annaeus Seneca",
     "hasFormalClass": "Real person"
   },
-  "ww_31a136040b2fea69": {
-    "lexiaInternalId": "#004227",
-    "lexiaTitle": "Adonis&#039; garden"
-  },
-  "ww_2bef6d5b23902a39": {
-    "lexiaInternalId": "#030147",
-    "lexiaTitle": "young girl distributing flowers",
-    "hasFormalClass": "Plot element"
-  },
-  "ww_c84959abd0a831c5": {
-    "lexiaInternalId": "#032092",
-    "lexiaTitle": "rugged bear or tiger",
-    "hasFormalClass": "word"
-  },
   "ww_2d9ea358ed667769": {
     "lexiaInternalId": "#032163",
     "lexiaTitle": "repugnant to command, unequal matched",
@@ -3506,6 +3522,11 @@
     "lexiaInternalId": "#030266",
     "lexiaTitle": "fingered",
     "hasFormalClass": "word"
+  },
+  "ww_31b584e314572339": {
+    "lexiaInternalId": "#030290",
+    "lexiaTitle": "equal scales",
+    "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_d7eff421988853c4": {
     "lexiaInternalId": "#030423",
@@ -3617,8 +3638,8 @@
     "lexiaTitle": "unkiss oath",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
-  "ww_21ab2b0d97e4ef10": {
-    "lexiaInternalId": "#302152",
+  "ww_a80de0ab7e1b4ad7": {
+    "lexiaInternalId": "#032152",
     "lexiaTitle": "fiery horse that knows rider",
     "hasFormalClass": "Plot element"
   },
@@ -3637,8 +3658,8 @@
     "lexiaTitle": "conscience makes coward",
     "hasFormalClass": "Idea"
   },
-  "ww_54e98b6cedf994e4": {
-    "lexiaInternalId": "#032262",
+  "ww_a8054b8de411bee7": {
+    "lexiaInternalId": "#004406",
     "lexiaTitle": "sweet things sour in digestion",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
@@ -3902,8 +3923,8 @@
     "lexiaTitle": "the bell then beating one",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
-  "ww_efaf59292a92cd1f": {
-    "lexiaInternalId": "#032265",
+  "ww_31ef328a7fd47c12": {
+    "lexiaInternalId": "#004409",
     "lexiaTitle": "finger on your lips (sst!)",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
@@ -3917,8 +3938,8 @@
     "lexiaTitle": "two pictures",
     "hasFormalClass": "Plot element"
   },
-  "ww_a640c41c347c6592": {
-    "lexiaInternalId": "#032268",
+  "ww_2d2bfefa031faa15": {
+    "lexiaInternalId": "#004410",
     "lexiaTitle": "Habit dulls the perception of evil",
     "hasFormalClass": "Plot element"
   },
@@ -3936,6 +3957,11 @@
     "lexiaInternalId": "#004047",
     "lexiaTitle": "In the most high and palmy state of Rome...",
     "hasFormalClass": "Passage (longer)"
+  },
+  "ww_8c84422590844414": {
+    "lexiaInternalId": "#004282",
+    "lexiaTitle": "solar eclipse on doomsday",
+    "hasFormalClass": "Idea"
   },
   "ww_a7e8a0c7c0ef2cca": {
     "lexiaInternalId": "#032292",
@@ -3990,6 +4016,16 @@
     "lexiaInternalId": "#032110",
     "lexiaTitle": "fell from love to madness",
     "hasFormalClass": "Plot element"
+  },
+  "ww_33e1a9960b9a7858": {
+    "lexiaInternalId": "#008035",
+    "lexiaTitle": "LONDON_The Blackfriars",
+    "hasFormalClass": "Venue or place"
+  },
+  "ww_a5dbc37000786fdd": {
+    "lexiaInternalId": "#032342",
+    "lexiaTitle": "feathers at the theatre",
+    "hasFormalClass": "Idea"
   },
   "ww_6edfa55c0b95e504": {
     "lexiaInternalId": "#032309",
@@ -4051,6 +4087,11 @@
     "lexiaTitle": "honesty is rare",
     "hasFormalClass": "Idea"
   },
+  "ww_22fce2568454567e": {
+    "lexiaInternalId": "#004401",
+    "lexiaTitle": "sea cannot wash bloody hands",
+    "hasFormalClass": "Idea"
+  },
   "ww_0d7d51ddf1aaa5e1": {
     "lexiaInternalId": "#004025",
     "lexiaTitle": "Neptune or Poseidon",
@@ -4099,6 +4140,11 @@
   "ww_4973dd95e5ade149": {
     "lexiaInternalId": "#030710",
     "lexiaTitle": "singing while drowning",
+    "hasFormalClass": "Plot element"
+  },
+  "ww_2bef6d5b23902a39": {
+    "lexiaInternalId": "#030147",
+    "lexiaTitle": "young girl distributing flowers",
     "hasFormalClass": "Plot element"
   },
   "ww_6b57b75e4a330a13": {
@@ -4156,11 +4202,6 @@
     "lexiaTitle": "difficile est satiram non scribere",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
-  "ww_d22548ea065a351a": {
-    "lexiaInternalId": "#004184",
-    "lexiaTitle": "Philomela",
-    "hasFormalClass": "Charactername"
-  },
   "ww_6253266108d89ed6": {
     "lexiaInternalId": "#004218",
     "lexiaTitle": "singer charming stones",
@@ -4183,12 +4224,7 @@
   },
   "ww_c1fc8f0cd9df8a3f": {
     "lexiaInternalId": "#004183",
-    "lexiaTitle": "Tereus and Procne",
-    "hasFormalClass": "Charactername"
-  },
-  "ww_f3677bc0c8f47732": {
-    "lexiaInternalId": "#004224",
-    "lexiaTitle": "Tereus and Procne",
+    "lexiaTitle": "Tereus, Procne, Philomela",
     "hasFormalClass": "Tiger cluster"
   },
   "ww_ac3d4d63c3554858": {
@@ -4203,7 +4239,7 @@
   },
   "ww_1701399f652c9f86": {
     "lexiaInternalId": "#030698",
-    "lexiaTitle": "sorrows dont come alone",
+    "lexiaTitle": "sorrows or misfortunes do not come singly",
     "hasFormalClass": "Idea"
   },
   "ww_3acabcca7776742d": {
@@ -4351,6 +4387,11 @@
     "lexiaTitle": "no other proof",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
+  "ww_efaf59292a92cd1f": {
+    "lexiaInternalId": "#032265",
+    "lexiaTitle": "to shake hands with death",
+    "hasFormalClass": "Idea"
+  },
   "ww_064fdd9c5f199328": {
     "lexiaInternalId": "#004159",
     "lexiaTitle": "night must be my day",
@@ -4376,8 +4417,8 @@
     "lexiaTitle": "cut-off limb",
     "hasFormalClass": "Tiger cluster"
   },
-  "ww_c8db400296bb7cac": {
-    "lexiaInternalId": "#004240",
+  "ww_35c492f69ba01389": {
+    "lexiaInternalId": "#004340",
     "lexiaTitle": "Thracian",
     "hasFormalClass": "Charactername"
   },
@@ -4515,11 +4556,6 @@
     "lexiaTitle": "roaring verbose Tamburlaine",
     "hasFormalClass": "Motif with name"
   },
-  "ww_4f04a77527b7c15e": {
-    "lexiaInternalId": "#004174",
-    "lexiaTitle": "Cressida",
-    "hasFormalClass": "Charactername"
-  },
   "ww_cf96db5a3127d6d6": {
     "lexiaInternalId": "#030219",
     "lexiaTitle": "Gertrude",
@@ -4545,10 +4581,19 @@
     "lexiaTitle": "very like a weasel",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
+  "ww_078cdca3e50909c9": {
+    "lexiaInternalId": "#032207",
+    "lexiaTitle": "cock crows so ghosts must disappear",
+    "hasFormalClass": "Plot element"
+  },
   "ww_01465f9f9c0b6e90": {
     "lexiaInternalId": "#032294",
     "lexiaTitle": "started at Summons",
     "hasFormalClass": "Keywords"
+  },
+  "ww_325d8f2341f211c1": {
+    "lexiaInternalId": "#004259",
+    "lexiaTitle": "cock crows"
   },
   "ww_2f290cc89f2578f7": {
     "lexiaInternalId": "#004041",
@@ -4635,6 +4680,11 @@
     "lexiaTitle": "The great man down, his favourite flies...",
     "hasFormalClass": "Passage (longer)"
   },
+  "ww_4f04a77527b7c15e": {
+    "lexiaInternalId": "#004174",
+    "lexiaTitle": "Cressida",
+    "hasFormalClass": "Charactername"
+  },
   "ww_12e969462376c749": {
     "lexiaInternalId": "#032304",
     "lexiaTitle": "satiety is a blunt, weary and drowsy passion",
@@ -4675,6 +4725,11 @@
     "lexiaTitle": "absentem marmoreamve putes",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
+  "ww_a640c41c347c6592": {
+    "lexiaInternalId": "#032268",
+    "lexiaTitle": "devil speaking many languages",
+    "hasFormalClass": "Idea"
+  },
   "ww_8449fe9c3aa1ed6c": {
     "lexiaInternalId": "#032232",
     "lexiaTitle": "Thus can the demigod...",
@@ -4688,6 +4743,11 @@
   "ww_9885deb211b37af4": {
     "lexiaInternalId": "#032302",
     "lexiaTitle": "ugliness women",
+    "hasFormalClass": "Idea"
+  },
+  "ww_b2d4d135b6743a81": {
+    "lexiaInternalId": "#032264",
+    "lexiaTitle": "three drops of blood as unlucky",
     "hasFormalClass": "Idea"
   },
   "ww_c625dce49c455c56": {
@@ -4704,6 +4764,11 @@
     "lexiaInternalId": "#030137",
     "lexiaTitle": "Hamlet",
     "hasFormalClass": "Charactername"
+  },
+  "ww_0607c6be80d32dc1": {
+    "lexiaInternalId": "#033331",
+    "lexiaTitle": "forked tree",
+    "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_27946949d199169a": {
     "lexiaInternalId": "#032313",
@@ -4764,6 +4829,16 @@
     "lexiaInternalId": "#004165",
     "lexiaTitle": "if he depend on others"
   },
+  "ww_d0f2bf832d32bd75": {
+    "lexiaInternalId": "#004404",
+    "lexiaTitle": "house not good enough",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_16c5dfe7ce430d8f": {
+    "lexiaInternalId": "#032263",
+    "lexiaTitle": "splay-footed woman in the morning",
+    "hasFormalClass": "Idea"
+  },
   "ww_e0e9d1ae32b85190": {
     "lexiaInternalId": "#030607",
     "lexiaTitle": "tell my story when I am dead",
@@ -4783,6 +4858,16 @@
     "lexiaInternalId": "#030167",
     "lexiaTitle": "desperate disease needs desperate remedy",
     "hasFormalClass": "Plot element"
+  },
+  "ww_85d98df4b0663251": {
+    "lexiaInternalId": "#004405",
+    "lexiaTitle": "monarch + chaste wife",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_54e98b6cedf994e4": {
+    "lexiaInternalId": "#032262",
+    "lexiaTitle": "sun + darkness + universal",
+    "hasFormalClass": "Keywords"
   },
   "ww_1aacb75e504d663f": {
     "lexiaInternalId": "#007008",
@@ -4898,11 +4983,6 @@
     "lexiaInternalId": "#004121",
     "lexiaTitle": "thunder rents the sky",
     "hasFormalClass": "Keywords"
-  },
-  "ww_078cdca3e50909c9": {
-    "lexiaInternalId": "#032207",
-    "lexiaTitle": "cock crows so ghosts must disappear",
-    "hasFormalClass": "Plot element"
   },
   "ww_894e18f9d4e68214": {
     "lexiaInternalId": "#004100",
@@ -5068,6 +5148,11 @@
     "lexiaInternalId": "#030289",
     "lexiaTitle": "stricken deer weeps",
     "hasFormalClass": "Idea"
+  },
+  "ww_9e11239565d0ddf0": {
+    "lexiaInternalId": "#032339",
+    "lexiaTitle": "hunger breaks walls",
+    "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_5c3d264252b4470e": {
     "lexiaInternalId": "#030669",
@@ -5294,6 +5379,11 @@
     "lexiaTitle": "characteristic antitheses",
     "hasFormalClass": "Snowclone"
   },
+  "ww_a17b4aa83765cfb4": {
+    "lexiaInternalId": "#004245",
+    "lexiaTitle": "sexy women as wormwood",
+    "hasFormalClass": "Keywords"
+  },
   "ww_c012a8267debb5a3": {
     "lexiaInternalId": "#032203",
     "lexiaTitle": "never did wrong but with just cause",
@@ -5354,272 +5444,216 @@
     "lexiaTitle": "burst cerements",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
-  "ww_7b2817bf9b80e66d": {
-    "lexiaInternalId": "#000000",
-    "lexiaTitle": "Placeholder lexia",
-    "hasFormalClass": "Passage (longer)"
-  },
-  "ww_2f489abb1bab34f6": {
-    "lexiaInternalId": "#004210",
-    "lexiaTitle": "mountain giving birth to mouse",
-    "hasFormalClass": "Keywords"
-  },
-  "ww_4f7992111c76919a": {
-    "lexiaInternalId": "#004229",
-    "lexiaTitle": "Cujus livida naribus caninis...",
-    "hasFormalClass": "Passage (longer)"
-  },
-  "ww_9afa89f74a2d9ab8": {
-    "lexiaInternalId": "#004233",
-    "lexiaTitle": "servant s hard head because of beatings",
-    "hasFormalClass": "Idea"
-  },
-  "ww_dcce73628b46e73a": {
-    "lexiaInternalId": "#004234",
-    "lexiaTitle": "to grieve alone is true grief"
-  },
-  "ww_d1331363dcba5bd0": {
-    "lexiaInternalId": "#004239",
-    "lexiaTitle": "mutilating rape victim so she cannot tell"
-  },
-  "ww_9260c263dba05a89": {
-    "lexiaInternalId": "#004188",
-    "lexiaTitle": "walk and hear people talk",
-    "hasFormalClass": "Keywords"
-  },
-  "ww_ec53471e538f9432": {
-    "lexiaInternalId": "#004191",
-    "lexiaTitle": "moccum moccabitur",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_25a48de705ca0130": {
-    "lexiaInternalId": "#004211",
-    "lexiaTitle": "in praesenti",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_d9d3eaa4d425b317": {
-    "lexiaInternalId": "#007017",
-    "lexiaTitle": "Quintus Flaccus Horatius",
-    "hasFormalClass": "Real person"
-  },
-  "ww_2807be1887936836": {
-    "lexiaInternalId": "#004189",
-    "lexiaTitle": "hang or imprison in haste",
-    "hasFormalClass": "Keywords"
-  },
-  "ww_f17cfb2c2479d02b": {
-    "lexiaInternalId": "#004242",
-    "lexiaTitle": "DEx book which has no WordWeb passage yet",
-    "hasFormalClass": "Passage (longer)"
-  },
-  "ww_a2d59bd24c62e03e": {
-    "lexiaInternalId": "#032324",
-    "lexiaTitle": "accursed reason, how many eyes",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_3a24817b3a5041bb": {
-    "lexiaInternalId": "#004110",
-    "lexiaTitle": "Aeneas story of Troy to Dido",
-    "hasFormalClass": "Motif with name"
-  },
-  "ww_77001eaa2594362a": {
-    "lexiaInternalId": "#004220",
-    "lexiaTitle": "wind",
-    "hasFormalClass": "Tiger cluster"
-  },
-  "ww_0b767b9555a43e61": {
-    "lexiaInternalId": "#004212",
-    "lexiaTitle": "change a raven for a dove",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_ff0379564fa3ccb8": {
-    "lexiaInternalId": "#004231",
-    "lexiaTitle": "several rows of teeth as monstrous",
-    "hasFormalClass": "Keywords"
-  },
-  "ww_e84f4ebf72347b69": {
-    "lexiaInternalId": "#004221",
-    "lexiaTitle": "a wilderness of animals",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_0ca8b4e56b4e6d21": {
-    "lexiaInternalId": "#004222",
-    "lexiaTitle": "does he excite your intellect",
-    "hasFormalClass": "Keywords"
-  },
-  "ww_dafbe61fc1d06255": {
-    "lexiaInternalId": "#004186",
-    "lexiaTitle": "Dido lamenting Aeneas departure",
-    "hasFormalClass": "Motif with name"
-  },
-  "ww_7eb493785931ba1b": {
-    "lexiaInternalId": "#007016",
-    "lexiaTitle": "Baptista Mantuanus",
-    "hasFormalClass": "Real person"
-  },
-  "ww_4e7ff2673343e665": {
-    "lexiaInternalId": "#004206",
-    "lexiaTitle": "comic policeman",
-    "hasFormalClass": "Plot element"
-  },
-  "ww_7fc848a4eb2828a8": {
-    "lexiaInternalId": "@003009",
-    "lexiaTitle": "Venus and Adonis",
-    "hasFormalClass": "Booktitle"
-  },
-  "ww_844f1f40a1d50498": {
-    "lexiaInternalId": "#032316",
-    "lexiaTitle": "It is an unpleasing and injurious custom unto Ladies",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_d987ad40ad053860": {
-    "lexiaInternalId": "#032317",
-    "lexiaTitle": "Let us not be ashamed to speak what we are not ashamed to think",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_9fbe2af5b86e543f": {
-    "lexiaInternalId": "#032318",
-    "lexiaTitle": "we pronounce boldly Robbery, Murder, treason",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_f1a9c1137b33d57b": {
-    "lexiaInternalId": "#032319",
-    "lexiaTitle": "man and omnipotency ",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_c7c03da371ba38b8": {
-    "lexiaInternalId": "#032320",
-    "lexiaTitle": "vicious mind can never have self satisfaction",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_1a29c0f995a143ba": {
-    "lexiaInternalId": "#032321",
-    "lexiaTitle": "what erst were vices are now grown fashions",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_ede1c08fb4e4ec29": {
-    "lexiaInternalId": "#032322",
-    "lexiaTitle": "every man s turd smells well to himself",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_30ed2aa3388917bf": {
-    "lexiaInternalId": "#032323",
-    "lexiaTitle": "the more steps, the more delight at the top",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_82ae868cd16179a3": {
-    "lexiaInternalId": "#032325",
-    "lexiaTitle": "pleasure should have a Crane s long neck",
-    "hasFormalClass": "Idea"
-  },
-  "ww_fcbd2f71299ebf4d": {
-    "lexiaInternalId": "#032326",
-    "lexiaTitle": "louring and pouting",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_e788b0280c7d3933": {
-    "lexiaInternalId": "#004244",
-    "lexiaTitle": "He that will thrive in state...",
-    "hasFormalClass": "Passage (longer)"
-  },
-  "ww_3ae463939033dc0d": {
-    "lexiaInternalId": "#004208",
-    "lexiaTitle": "whores are guaranteed to give you diseases",
-    "hasFormalClass": "Idea"
-  },
-  "ww_d9431344a5e98184": {
-    "lexiaInternalId": "#004209",
-    "lexiaTitle": "Michaelmas Term",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_a17b4aa83765cfb4": {
-    "lexiaInternalId": "#004245",
-    "lexiaTitle": "He that will fret at lords...",
-    "hasFormalClass": "Passage (longer)"
-  },
   "ww_79491bf1d25737e8": {
     "lexiaInternalId": "#004246",
-    "lexiaTitle": "Now good my Lord conform you ...",
+    "lexiaTitle": "woe is me",
     "hasFormalClass": "Passage (longer)"
-  },
-  "ww_b6d23fc1fd5db727": {
-    "lexiaInternalId": "#004250",
-    "lexiaTitle": "Gentle minds will pity though they cannot love...",
-    "hasFormalClass": "Passage (longer)"
-  },
-  "ww_a2badb2f63938129": {
-    "lexiaInternalId": "#032327",
-    "lexiaTitle": "squibs stink",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_8b65bb9f2f24f2f6": {
-    "lexiaInternalId": "#004248",
-    "lexiaTitle": "Scan the outward for the inward...",
-    "hasFormalClass": "Passage (longer)"
-  },
-  "ww_8078665e7606caa5": {
-    "lexiaInternalId": "#004241",
-    "lexiaTitle": "Tarquin",
-    "hasFormalClass": "Charactername"
-  },
-  "ww_e7036e3609579e44": {
-    "lexiaInternalId": "#004223",
-    "lexiaTitle": "peace vs peas",
-    "hasFormalClass": "Keywords"
-  },
-  "ww_1917d3917d82d6cf": {
-    "lexiaInternalId": "#004232",
-    "lexiaTitle": "angry exchange over must or musted",
-    "hasFormalClass": "Keywords"
-  },
-  "ww_86e9d4fbe2cd360c": {
-    "lexiaInternalId": "#004236",
-    "lexiaTitle": "Hercules and his labours",
-    "hasFormalClass": "Motif with name"
-  },
-  "ww_2f6eddaeb26f505c": {
-    "lexiaInternalId": "#004235",
-    "lexiaTitle": " when you know how you have injured me",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_abbf03cab744796a": {
-    "lexiaInternalId": "#004247",
-    "lexiaTitle": "For if there were Jews enough...",
-    "hasFormalClass": "Passage (longer)"
-  },
-  "ww_f990e74f886ebbed": {
-    "lexiaInternalId": "#004205",
-    "lexiaTitle": "harm watch, harm catch",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_46f441629af2262a": {
-    "lexiaInternalId": "#004207",
-    "lexiaTitle": "an Aventine",
-    "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_669218ca319292da": {
-    "lexiaInternalId": "#008030",
-    "lexiaTitle": "ROME_Aventine Hill",
-    "hasFormalClass": "Venue or place"
   },
   "ww_cbaf45a700ec652a": {
     "lexiaInternalId": "#004249",
-    "lexiaTitle": "Has mischief any name beyond this...",
-    "hasFormalClass": "Passage (longer)"
+    "lexiaTitle": "double blessing is a double grace",
+    "hasFormalClass": "Keywords"
   },
-  "ww_0f5c83f39f28c119": {
-    "lexiaInternalId": "#008025",
-    "lexiaTitle": "LONDON_Hyde Park",
-    "hasFormalClass": "Venue or place"
+  "ww_8b65bb9f2f24f2f6": {
+    "lexiaInternalId": "#004248",
+    "lexiaTitle": "death as dissolving into dew",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_b6d23fc1fd5db727": {
+    "lexiaInternalId": "#004250",
+    "lexiaTitle": "depression - weary, stale, flat, and unprofitable",
+    "hasFormalClass": "Idea"
   },
   "ww_2ecb0b8756a6249a": {
     "lexiaInternalId": "#004251",
-    "lexiaTitle": "Destruction o ertakes as often...",
+    "lexiaTitle": "human body as god s temple",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_5b710205355d9217": {
+    "lexiaInternalId": "#004252",
+    "lexiaTitle": "One woe treads on another s hee",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_6d3360bbe9accaf1": {
+    "lexiaInternalId": "#004253",
+    "lexiaTitle": "evil plot falls upon perpetrator s own head",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_9ae7ba3a6f9de986": {
+    "lexiaInternalId": "#004263",
+    "lexiaTitle": "Thou more than most sweet glove...",
     "hasFormalClass": "Passage (longer)"
   },
-  "ww_4a488f6b2732b558": {
-    "lexiaInternalId": "#004238",
-    "lexiaTitle": "Lazarus and the rich man",
-    "hasFormalClass": "Motif with name"
+  "ww_5c38e6042134118a": {
+    "lexiaInternalId": "#004264",
+    "lexiaTitle": "Apollo if I ever hung...",
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_def7a0f156214ba8": {
+    "lexiaInternalId": "#004265",
+    "lexiaTitle": "When hath Diana...",
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_5c214739b9af08aa": {
+    "lexiaInternalId": "#004266",
+    "lexiaTitle": "I might go to my school of glass again",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_6e33443769f39602": {
+    "lexiaInternalId": "#004267",
+    "lexiaTitle": "welcome strangers because they might be angels",
+    "hasFormalClass": "Idea"
+  },
+  "ww_805f131d44f02034": {
+    "lexiaInternalId": "#004273",
+    "lexiaTitle": "stones will cry",
+    "hasFormalClass": "Idea"
+  },
+  "ww_b793d55b23a21a2e": {
+    "lexiaInternalId": "#004289",
+    "lexiaTitle": "bottomless pit of hell"
+  },
+  "ww_49ae5ad201ac0ca1": {
+    "lexiaInternalId": "#032370",
+    "lexiaTitle": "every place is native to the wise",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_c49924b79de74566": {
+    "lexiaInternalId": "#032371",
+    "lexiaTitle": "love in soul",
+    "hasFormalClass": "Idea"
+  },
+  "ww_62c47f0ff9e42e31": {
+    "lexiaInternalId": "#032372",
+    "lexiaTitle": "women have to yield to woes",
+    "hasFormalClass": "Idea"
+  },
+  "ww_0830ea6a369f706d": {
+    "lexiaInternalId": "#032373",
+    "lexiaTitle": "die in honour",
+    "hasFormalClass": "Idea"
+  },
+  "ww_790c0416d7ee3aa7": {
+    "lexiaInternalId": "#007019",
+    "lexiaTitle": "Ben Jonson",
+    "hasFormalClass": "Real person"
+  },
+  "ww_e79226f74879ec91": {
+    "lexiaInternalId": "#032374",
+    "lexiaTitle": "Aurum potabile",
+    "hasFormalClass": "word"
+  },
+  "ww_1cf3aec81f647ddf": {
+    "lexiaInternalId": "#004286",
+    "lexiaTitle": "mildew + blasting",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_756d18e395a8755a": {
+    "lexiaInternalId": "#004257",
+    "lexiaTitle": "watch with me a short time",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_6c8cebe02cbdc753": {
+    "lexiaInternalId": "#004256",
+    "lexiaTitle": "hellfire and brimstone",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_55b8d41760261bef": {
+    "lexiaInternalId": "#004258",
+    "lexiaTitle": "stars falling from heaven",
+    "hasFormalClass": "Idea"
+  },
+  "ww_27633134930211c5": {
+    "lexiaInternalId": "#004261",
+    "lexiaTitle": "The head is not more native to the heart",
+    "hasFormalClass": "Idea"
+  },
+  "ww_7c27b119d0691b9d": {
+    "lexiaInternalId": "#004285",
+    "lexiaTitle": "seal of election or affection",
+    "hasFormalClass": "Idea"
+  },
+  "ww_d2fa606eda064e9a": {
+    "lexiaInternalId": "#004270",
+    "lexiaTitle": "fall of a sparrow",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_b083edffb65737cc": {
+    "lexiaInternalId": "#004262",
+    "lexiaTitle": "there will be no more marriage"
+  },
+  "ww_5c3ce5e62be38bca": {
+    "lexiaInternalId": "#004274",
+    "lexiaTitle": "man and wife are one flesh",
+    "hasFormalClass": "Idea"
+  },
+  "ww_4d5934437beb4cd5": {
+    "lexiaInternalId": "#004272",
+    "lexiaTitle": "we know what we are, but know not what we may be",
+    "hasFormalClass": "Idea"
+  },
+  "ww_ae046683b23aaa35": {
+    "lexiaInternalId": "#004284",
+    "lexiaTitle": "bottomless pit",
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_1513c39bf0eb4840": {
+    "lexiaInternalId": "#004281",
+    "lexiaTitle": "the last trumpet",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_3e45b67747b3a98d": {
+    "lexiaInternalId": "#004278",
+    "lexiaTitle": "pray for your enemies",
+    "hasFormalClass": "Idea"
+  },
+  "ww_6b0bb6b1ea2fd63f": {
+    "lexiaInternalId": "#004277",
+    "lexiaTitle": "you cannot take anything with you after death",
+    "hasFormalClass": "Idea"
+  },
+  "ww_216bde9c045eaf19": {
+    "lexiaInternalId": "#004260",
+    "lexiaTitle": "death as a place of silence",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_5c603404ab48f62c": {
+    "lexiaInternalId": "#004279",
+    "lexiaTitle": "outward or inward man",
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_ce2e2fafe8ec2151": {
+    "lexiaInternalId": "#004275",
+    "lexiaTitle": "it is not I that do it but my sin or madness",
+    "hasFormalClass": "Idea"
+  },
+  "ww_77d602979e760000": {
+    "lexiaInternalId": "#004269",
+    "lexiaTitle": "be slow to speak and to be angry",
+    "hasFormalClass": "Idea"
+  },
+  "ww_aed8448c1dc306c2": {
+    "lexiaInternalId": "#004254",
+    "lexiaTitle": "full of bread",
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_340d652db94a1679": {
+    "lexiaInternalId": "#004276",
+    "lexiaTitle": "mote or beam in one s eye"
+  },
+  "ww_0a40db9f02a75ed1": {
+    "lexiaInternalId": "#004280",
+    "lexiaTitle": "throw away bad part of courself to save your soul",
+    "hasFormalClass": "Idea"
+  },
+  "ww_80fd69b1a3017d4a": {
+    "lexiaInternalId": "@001491",
+    "lexiaTitle": "The Isle of Gulls",
+    "hasFormalClass": "Booktitle"
+  },
+  "ww_a2eb00c8dba91850": {
+    "lexiaInternalId": "#004268",
+    "lexiaTitle": "lampreys have no bones in their back",
+    "hasFormalClass": "Idea"
   }
 }

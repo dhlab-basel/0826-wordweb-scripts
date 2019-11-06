@@ -1539,10 +1539,10 @@
                 }
               },
               {
-                "name": "Bible or religious pamphlet",
+                "name": "Pamphlet or liturgical text",
                 "labels": {
                   "de": "???",
-                  "en": "Bible or religious pamphlet"
+                  "en": "???"
                 }
               },
               {
@@ -1643,6 +1643,13 @@
                 "labels": {
                   "de": "Werbung",
                   "en": "Advertisement"
+                }
+              },
+              {
+                "name": "The Bible",
+                "labels": {
+                  "de": "Bibel",
+                  "en": "Bible"
                 }
               }
             ]

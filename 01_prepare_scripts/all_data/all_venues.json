@@ -1,1 +1,138 @@
-{"ww_f0a467f9708e54e9": {"venueInternalId": "#008001", "venueTitle": "LONDON_Globe"}, "ww_e7808d9dfc1452ef": {"venueInternalId": "#008003", "venueTitle": "LONDON_Blackfriars"}, "ww_9736cdaa01aa3143": {"venueInternalId": "#008002", "venueTitle": "LONDON_The Theatre"}, "ww_74c4ffb6231a730c": {"venueInternalId": "#008004", "venueTitle": "LONDON_Cockpit"}, "ww_51838c979d2a7349": {"venueInternalId": "#008007", "venueTitle": "LONDON_The Curtain"}, "ww_0f98349eee1739cf": {"venueInternalId": "#008006", "venueTitle": "LONDON_Whitefriars"}, "ww_81218f770ce74ed5": {"venueInternalId": "#008009", "venueTitle": "LONDON_Red Bull"}, "ww_ddd1d1992c2d6f3d": {"venueInternalId": "#008000", "venueTitle": "LONDON_Unknown venue"}, "ww_65d3b57b79bd6da1": {"venueInternalId": "#008022", "venueTitle": "LONDON_The Rose Theatre"}, "ww_185cddace7e03495": {"venueInternalId": "#008023", "venueTitle": "LONDON_The Fortune Playhouse"}, "ww_8b1affa515ac476e": {"venueInternalId": "#008008", "venueTitle": "LONDON_Salisbury Court"}, "ww_7f89c99989b207b5": {"venueInternalId": "#008011", "venueTitle": "LONDON_Inner Temple"}, "ww_646f7336b73fd90e": {"venueInternalId": "#008012", "venueTitle": "CAMBRIDGE_Trinity College"}, "ww_baefc86662fd06b9": {"venueInternalId": "#008013", "venueTitle": "SHROPSHIRE_Ludlow Castle"}, "ww_f5d0b920e12fd09e": {"venueInternalId": "#008014", "venueTitle": "LONDON_Banqueting House"}, "ww_4ee39dcb6a3637c2": {"venueInternalId": "#008015", "venueTitle": "LONDON_Archbishop s Palace"}, "ww_442d4c9d841bcf81": {"venueInternalId": "#008016", "venueTitle": "LONDON_Boar s Head"}, "ww_c794ca0bcf5e1168": {"venueInternalId": "#008017", "venueTitle": "LONDON_Swan Theatre"}, "ww_d751e262710b7e81": {"venueInternalId": "#008018", "venueTitle": "LONDON_Hope Theatre"}, "ww_8e77528a42efd5e8": {"venueInternalId": "#008019", "venueTitle": "CAMBRIDGE_St John s College"}, "ww_7541d5ad7f7ce472": {"venueInternalId": "#008010", "venueTitle": "OXFORD_Trinity College"}, "ww_d8d01dc48f356e8d": {"venueInternalId": "#008020", "venueTitle": "DUBLIN_Werburgh Street Theatre"}, "ww_0c3fc41ad08b98d2": {"venueInternalId": "#008021", "venueTitle": "LONDON_Moorfield"}, "ww_6a9ddd2e0dd6f340": {"venueInternalId": "#008024", "venueTitle": "OXFORD_Christ Church"}, "ww_beeca50d226965ff": {"venueInternalId": "#008025", "venueTitle": "LONDON_Hyde Park"}, "ww_5bf74dfa56c41e89": {"venueInternalId": "#008026", "venueTitle": "ESSEX_Wanstead Manor"}, "ww_a63d3f7eb4e14a3b": {"venueInternalId": "#008027", "venueTitle": "RUTLAND_Burley-on-the-Hill"}, "ww_de4a5846af60cbd6": {"venueInternalId": "#008028", "venueTitle": "LONDON_Somerset House"}, "ww_9669f47e6ac80ee0": {"venueInternalId": "#008029", "venueTitle": "CAMBRIDGE_Kings College"}, "ww_89e6669733db6e04": {"venueInternalId": "#008030", "venueTitle": "ROME_Aventine Hill"}, "ww_2926c33ac6dc6431": {"venueInternalId": "#008031", "venueTitle": "ROME_Capitol"}, "ww_889d74b8672a3df3": {"venueInternalId": "#008032", "venueTitle": "GREECE_Mount Ossa"}, "ww_161eb77ebba6dd2e": {"venueInternalId": "#008033", "venueTitle": "TURKEY_Calipolis"}, "ww_91a707ea8b629113": {"venueInternalId": "#008034", "venueTitle": "GREECE_Philippi"}}
+{
+  "ww_f0a467f9708e54e9": {
+    "venueInternalId": "#008001",
+    "venueTitle": "LONDON_Globe"
+  },
+  "ww_e7808d9dfc1452ef": {
+    "venueInternalId": "#008003",
+    "venueTitle": "LONDON_Blackfriars"
+  },
+  "ww_9736cdaa01aa3143": {
+    "venueInternalId": "#008002",
+    "venueTitle": "LONDON_The Theatre"
+  },
+  "ww_74c4ffb6231a730c": {
+    "venueInternalId": "#008004",
+    "venueTitle": "LONDON_Cockpit"
+  },
+  "ww_51838c979d2a7349": {
+    "venueInternalId": "#008007",
+    "venueTitle": "LONDON_The Curtain"
+  },
+  "ww_0f98349eee1739cf": {
+    "venueInternalId": "#008006",
+    "venueTitle": "LONDON_Whitefriars"
+  },
+  "ww_81218f770ce74ed5": {
+    "venueInternalId": "#008009",
+    "venueTitle": "LONDON_Red Bull"
+  },
+  "ww_ddd1d1992c2d6f3d": {
+    "venueInternalId": "#008000",
+    "venueTitle": "LONDON_Unknown venue"
+  },
+  "ww_65d3b57b79bd6da1": {
+    "venueInternalId": "#008022",
+    "venueTitle": "LONDON_The Rose Theatre"
+  },
+  "ww_185cddace7e03495": {
+    "venueInternalId": "#008023",
+    "venueTitle": "LONDON_The Fortune Playhouse"
+  },
+  "ww_8b1affa515ac476e": {
+    "venueInternalId": "#008008",
+    "venueTitle": "LONDON_Salisbury Court"
+  },
+  "ww_7f89c99989b207b5": {
+    "venueInternalId": "#008011",
+    "venueTitle": "LONDON_Inner Temple"
+  },
+  "ww_74375b94b579582b": {
+    "venueInternalId": "#008012",
+    "venueTitle": "CAMBRIDGE_Trinity College_52.207_N_0.1146_E"
+  },
+  "ww_dec714a2913cd2e8": {
+    "venueInternalId": "#008013",
+    "venueTitle": "SHROPSHIRE_Ludlow Castle_52.3672\u00b0N 2.7230\u00b0W"
+  },
+  "ww_f5d0b920e12fd09e": {
+    "venueInternalId": "#008014",
+    "venueTitle": "LONDON_Banqueting House"
+  },
+  "ww_4ee39dcb6a3637c2": {
+    "venueInternalId": "#008015",
+    "venueTitle": "LONDON_Archbishop s Palace"
+  },
+  "ww_442d4c9d841bcf81": {
+    "venueInternalId": "#008016",
+    "venueTitle": "LONDON_Boar s Head"
+  },
+  "ww_c794ca0bcf5e1168": {
+    "venueInternalId": "#008017",
+    "venueTitle": "LONDON_Swan Theatre"
+  },
+  "ww_d751e262710b7e81": {
+    "venueInternalId": "#008018",
+    "venueTitle": "LONDON_Hope Theatre"
+  },
+  "ww_8e77528a42efd5e8": {
+    "venueInternalId": "#008019",
+    "venueTitle": "CAMBRIDGE_St John s College"
+  },
+  "ww_b97a51b8ef381578": {
+    "venueInternalId": "#008010",
+    "venueTitle": "OXFORD_Trinity _51.755343\u00b0N 1.256958\u00b0WCollege"
+  },
+  "ww_d8d01dc48f356e8d": {
+    "venueInternalId": "#008020",
+    "venueTitle": "DUBLIN_Werburgh Street Theatre"
+  },
+  "ww_0c3fc41ad08b98d2": {
+    "venueInternalId": "#008021",
+    "venueTitle": "LONDON_Moorfield"
+  },
+  "ww_6a9ddd2e0dd6f340": {
+    "venueInternalId": "#008024",
+    "venueTitle": "OXFORD_Christ Church"
+  },
+  "ww_beeca50d226965ff": {
+    "venueInternalId": "#008025",
+    "venueTitle": "LONDON_Hyde Park"
+  },
+  "ww_5bf74dfa56c41e89": {
+    "venueInternalId": "#008026",
+    "venueTitle": "ESSEX_Wanstead Manor"
+  },
+  "ww_a63d3f7eb4e14a3b": {
+    "venueInternalId": "#008027",
+    "venueTitle": "RUTLAND_Burley-on-the-Hill"
+  },
+  "ww_de4a5846af60cbd6": {
+    "venueInternalId": "#008028",
+    "venueTitle": "LONDON_Somerset House"
+  },
+  "ww_9669f47e6ac80ee0": {
+    "venueInternalId": "#008029",
+    "venueTitle": "CAMBRIDGE_Kings College"
+  },
+  "ww_89e6669733db6e04": {
+    "venueInternalId": "#008030",
+    "venueTitle": "ROME_Aventine Hill"
+  },
+  "ww_2926c33ac6dc6431": {
+    "venueInternalId": "#008031",
+    "venueTitle": "ROME_Capitol"
+  },
+  "ww_889d74b8672a3df3": {
+    "venueInternalId": "#008032",
+    "venueTitle": "GREECE_Mount Ossa"
+  },
+  "ww_161eb77ebba6dd2e": {
+    "venueInternalId": "#008033",
+    "venueTitle": "TURKEY_Calipolis"
+  },
+  "ww_91a707ea8b629113": {
+    "venueInternalId": "#008034",
+    "venueTitle": "GREECE_Philippi"
+  }
+}

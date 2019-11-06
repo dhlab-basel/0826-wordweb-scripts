@@ -34,7 +34,8 @@ def info(text):
             else:
                 edition["pubInfo"] = pubInfo.group(2)
 
-    # else:
-    #     print("empty", id)
+    else:
+        if text:
+            edition["page"] = text
 
     return edition
