@@ -28,7 +28,10 @@
     "isWrittenBy": [
       "ww_00a3ea8b5afeaa37"
     ],
-    "title": "Shakespere s Small Latine"
+    "hasLanguage": "English",
+    "title": "Shakespere s Small Latine",
+    "createdDate": "GREGORIAN:1944:1944",
+    "publishDate": "GREGORIAN:1944:1944"
   },
   "ww_2b4823c56c35d79a": {
     "bookInternalId": "@005201",
@@ -60,7 +63,10 @@
     "isWrittenBy": [
       "ww_b417c05f2f7d59f9"
     ],
-    "title": "Biblical References in Shakespeares Tragedies"
+    "hasLanguage": "English",
+    "title": "Biblical References in Shakespeares Tragedies",
+    "createdDate": "GREGORIAN:1987:1987",
+    "publishDate": "GREGORIAN:1987:1987"
   },
   "ww_8978dcdc508955b8": {
     "bookInternalId": "@005202",
@@ -89,7 +95,10 @@
     "isWrittenBy": [
       "ww_4aad8076b21701ae"
     ],
-    "title": "Shakespeare and Nashe's Pierce Pennilesse II"
+    "hasLanguage": "English",
+    "title": "Shakespeare and Nashe's Pierce Pennilesse II",
+    "createdDate": "GREGORIAN:1953:1953",
+    "publishDate": "GREGORIAN:1953:1953"
   },
   "ww_91e0dc4c671938fa": {
     "bookInternalId": "@010005",
@@ -97,7 +106,10 @@
     "isWrittenBy": [
       "ww_8448eedbac0df7d9"
     ],
-    "title": "Quoting Hamlet in the Early Seventeenth Century"
+    "hasLanguage": "English",
+    "title": "Quoting Hamlet in the Early Seventeenth Century",
+    "createdDate": "GREGORIAN:2008:2008",
+    "publishDate": "GREGORIAN:2008:2008"
   },
   "ww_32438a1cef3a2781": {
     "bookInternalId": "@005200",
@@ -127,7 +139,10 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "OED - Oxford English Dictionary"
+    "hasLanguage": "English",
+    "title": "OED - Oxford English Dictionary",
+    "createdDate": "GREGORIAN:2000:2000",
+    "publishDate": "GREGORIAN:2000:2000"
   },
   "ww_b901ceb315466c3f": {
     "bookInternalId": "@005203",
@@ -160,6 +175,7 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
+    "hasLanguage": "English",
     "title": "EEBO - Early English Books Online"
   },
   "ww_873e4d980083d886": {
@@ -190,7 +206,10 @@
     "isWrittenBy": [
       "ww_09f98d06c0bf228a"
     ],
-    "title": "The Language of Sir Walter Scott"
+    "hasLanguage": "English",
+    "title": "The Language of Sir Walter Scott",
+    "createdDate": "GREGORIAN:1980:1980",
+    "publishDate": "GREGORIAN:1980:1980"
   },
   "ww_b3931845d54b98d5": {
     "bookInternalId": "@010082",
@@ -198,7 +217,10 @@
     "isWrittenBy": [
       "ww_59ff380c6e105e8e"
     ],
-    "title": "Hamlet (Hibbard edition)"
+    "hasLanguage": "English",
+    "title": "Hamlet (Hibbard edition)",
+    "createdDate": "GREGORIAN:1994:1994",
+    "publishDate": "GREGORIAN:1994:1994"
   },
   "ww_0dd5e309103973fb": {
     "bookInternalId": "@010151",
@@ -206,7 +228,10 @@
     "isWrittenBy": [
       "ww_6c137d4b04e9cbc4"
     ],
-    "title": "Shakespeare s Books"
+    "hasLanguage": "English",
+    "title": "Shakespeare s Books",
+    "createdDate": "GREGORIAN:1904:1904",
+    "publishDate": "GREGORIAN:1904:1904"
   },
   "ww_6f8bba60983f33d9": {
     "bookInternalId": "@010026",
@@ -214,7 +239,10 @@
     "isWrittenBy": [
       "ww_e6402f521ef2ee6e"
     ],
-    "title": "A Survey of Burlesques and Parody in English"
+    "hasLanguage": "English",
+    "title": "A Survey of Burlesques and Parody in English",
+    "createdDate": "GREGORIAN:1931:1931",
+    "publishDate": "GREGORIAN:1931:1931"
   },
   "ww_b93e86ee915469ae": {
     "bookInternalId": "@005660",
@@ -244,7 +272,10 @@
     "isWrittenBy": [
       "ww_b417c05f2f7d59f9"
     ],
-    "title": "Biblical References in Shakespeares Plays"
+    "hasLanguage": "English",
+    "title": "Biblical References in Shakespeares Plays",
+    "createdDate": "GREGORIAN:1999:1999",
+    "publishDate": "GREGORIAN:1999:1999"
   },
   "ww_b19b575dfa6c41b9": {
     "bookInternalId": "@005661",
@@ -323,6 +354,7 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
+    "hasLanguage": "English",
     "title": "LION - Literature Online"
   },
   "ww_9e5c2e9be2d59c76": {
@@ -334,12 +366,12 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Speech or lecture or sermon",
-      "Nonfiction unspecified"
+      "Nonfiction unspecified",
+      "Speech or lecture or sermon"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
       "TO BE EDITED",
+      "ACHTUNG MARKING",
       "Sociology, society, lifestyle",
       "Philosophy, religion"
     ],
@@ -358,7 +390,10 @@
     "isWrittenBy": [
       "ww_1560a0ef495e2c1a"
     ],
-    "title": "Hamlet and the Homilies"
+    "hasLanguage": "English",
+    "title": "Hamlet and the Homilies",
+    "createdDate": "GREGORIAN:1975:1975",
+    "publishDate": "GREGORIAN:1975:1975"
   },
   "ww_bc8ea264d57ced70": {
     "bookInternalId": "@005644",
@@ -414,7 +449,10 @@
     "isWrittenBy": [
       "ww_196b962a617afbbd"
     ],
-    "title": "Against Thinking"
+    "hasLanguage": "English",
+    "title": "Against Thinking",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007"
   },
   "ww_cf2c475414853bfd": {
     "bookInternalId": "@005649",
@@ -519,7 +557,10 @@
     "isWrittenBy": [
       "ww_d2baadbb11f92d24"
     ],
-    "title": "The Marlowe-Shakespeare Continuum"
+    "hasLanguage": "English",
+    "title": "The Marlowe-Shakespeare Continuum",
+    "createdDate": "GREGORIAN:2013:2013",
+    "publishDate": "GREGORIAN:2013:2013"
   },
   "ww_0062af28cf1872e1": {
     "bookInternalId": "@000811",
@@ -532,8 +573,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "TO BE EDITED",
@@ -555,7 +596,10 @@
     "isWrittenBy": [
       "ww_904a3011a92fb67c"
     ],
-    "title": "The Stukeley plays"
+    "hasLanguage": "English",
+    "title": "The Stukeley plays",
+    "createdDate": "GREGORIAN:2005:2005",
+    "publishDate": "GREGORIAN:2005:2005"
   },
   "ww_3f13eccce9d04424": {
     "bookInternalId": "@006075",
@@ -563,7 +607,10 @@
     "isWrittenBy": [
       "ww_71c35dc91de8b585"
     ],
-    "title": "Ben Jonsons Wirkung auf zeitgen Dramatiker"
+    "hasLanguage": "German",
+    "title": "Ben Jonsons Wirkung auf zeitgen Dramatiker",
+    "createdDate": "GREGORIAN:1906:1906",
+    "publishDate": "GREGORIAN:1906:1906"
   },
   "ww_0351e98cd25a1522": {
     "bookInternalId": "@000824",
@@ -597,7 +644,10 @@
     "isWrittenBy": [
       "ww_4a2611f5113afb89"
     ],
-    "title": "Gleichnisse und Metaphern in Shakespeares Dramen"
+    "hasLanguage": "German",
+    "title": "Gleichnisse und Metaphern in Shakespeares Dramen",
+    "createdDate": "GREGORIAN:1908:1908",
+    "publishDate": "GREGORIAN:1908:1908"
   },
   "ww_e9169de357d0ad33": {
     "bookInternalId": "@000838",
@@ -612,8 +662,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
-      "Tragedy"
+      "Tragedy",
+      "History"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -684,7 +734,10 @@
     "isWrittenBy": [
       "ww_66491a37dd339103"
     ],
-    "title": "The Atheists Tragedy (Ribner edition)"
+    "hasLanguage": "English",
+    "title": "The Atheists Tragedy (Ribner edition)",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964"
   },
   "ww_fe42526a34d40cd9": {
     "bookInternalId": "@000846",
@@ -719,7 +772,10 @@
       "ww_30995ab4792b9a3f",
       "ww_40af4fdaa8bf7a1d"
     ],
-    "title": "Edward II (Charlton edition)"
+    "hasLanguage": "English",
+    "title": "Edward II (Charlton edition)",
+    "createdDate": "GREGORIAN:1933:1933",
+    "publishDate": "GREGORIAN:1933:1933"
   },
   "ww_83f1a0a692d63180": {
     "bookInternalId": "@005010",
@@ -749,7 +805,10 @@
     "isWrittenBy": [
       "ww_e50a603b67ab7672"
     ],
-    "title": "Hamlet and Gloriana's Knights"
+    "hasLanguage": "English",
+    "title": "Hamlet and Gloriana's Knights",
+    "createdDate": "GREGORIAN:1955:1955",
+    "publishDate": "GREGORIAN:1955:1955"
   },
   "ww_e44bf30c33d6ff4d": {
     "bookInternalId": "@000902",
@@ -764,8 +823,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "Theatre",
+      "History"
     ],
     "hasSubject": [
       "Literature"
@@ -807,12 +866,15 @@
     "bookInternalId": "@010000",
     "edition": "The Shakspere Allusion Book. A Collection of Allusions to Shakspere from 1591 to 1700 [...]. London: Chatto and Windus; New York: Duffield and Co., 1909.",
     "isWrittenBy": [
-      "ww_4c146e6d2ef23a03",
-      "ww_fb550941e6e9db62",
+      "ww_a60ff4964db613ee",
       "ww_26c25538fa69a566",
-      "ww_a60ff4964db613ee"
+      "ww_fb550941e6e9db62",
+      "ww_4c146e6d2ef23a03"
     ],
-    "title": "The Shakspere Allusion Book"
+    "hasLanguage": "English",
+    "title": "The Shakspere Allusion Book",
+    "createdDate": "GREGORIAN:1909:1909",
+    "publishDate": "GREGORIAN:1909:1909"
   },
   "ww_898b0b7ff390f5fb": {
     "bookInternalId": "@000888",
@@ -827,8 +889,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
       "Tragedy",
+      "History",
       "Theatre"
     ],
     "hasSubject": [
@@ -849,7 +911,10 @@
     "isWrittenBy": [
       "ww_0989e07eda6de68c"
     ],
-    "title": "Casual Shakespeare"
+    "hasLanguage": "English",
+    "title": "Casual Shakespeare",
+    "createdDate": "GREGORIAN:2018:2018",
+    "publishDate": "GREGORIAN:2018:2018"
   },
   "ww_28e2635e5ac1776c": {
     "bookInternalId": "@000881",
@@ -862,8 +927,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "Theatre",
+      "History"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -892,9 +957,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
+      "Theatre",
       "Tragedy",
-      "Theatre"
+      "History"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -918,8 +983,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "Literature"
@@ -939,7 +1004,10 @@
     "isWrittenBy": [
       "ww_d031de8fd298348b"
     ],
-    "title": "Shakespeare and Classical Antiquity"
+    "hasLanguage": "English",
+    "title": "Shakespeare and Classical Antiquity",
+    "createdDate": "GREGORIAN:2013:2013",
+    "publishDate": "GREGORIAN:2013:2013"
   },
   "ww_e9dd31d2f114bcc9": {
     "bookInternalId": "@010038",
@@ -947,7 +1015,10 @@
     "isWrittenBy": [
       "ww_d20c9849f2078d70"
     ],
-    "title": "Antonios Revenge (Gair edition)"
+    "hasLanguage": "English",
+    "title": "Antonios Revenge (Gair edition)",
+    "createdDate": "GREGORIAN:1978:1978",
+    "publishDate": "GREGORIAN:1978:1978"
   },
   "ww_26138dfe777ca825": {
     "bookInternalId": "@000916",
@@ -1001,12 +1072,15 @@
     "bookInternalId": "@010084",
     "edition": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts. 2010. https://www.folgerdigitaltexts.org.",
     "isWrittenBy": [
-      "ww_55f5e9f5fe14853f",
       "ww_386448c09c02ba3f",
-      "ww_c8fa0de8d0fc2fc4",
-      "ww_4d01a832f50d804e"
+      "ww_55f5e9f5fe14853f",
+      "ww_4d01a832f50d804e",
+      "ww_c8fa0de8d0fc2fc4"
     ],
-    "title": "FDT - Folger Digital Texts"
+    "hasLanguage": "English",
+    "title": "FDT - Folger Digital Texts",
+    "createdDate": "GREGORIAN:2010:2010",
+    "publishDate": "GREGORIAN:2010:2010"
   },
   "ww_a70c78f7c2563c1d": {
     "bookInternalId": "@000950",
@@ -1014,8 +1088,8 @@
       "ww_684176b58bc762f6"
     ],
     "performedIn": [
-      "ww_ddd1d1992c2d6f3d",
-      "ww_81218f770ce74ed5"
+      "ww_81218f770ce74ed5",
+      "ww_ddd1d1992c2d6f3d"
     ],
     "performedBy": [
       "ww_2f923c7f18095fc0"
@@ -1042,7 +1116,10 @@
     "isWrittenBy": [
       "ww_3003e40f8d22b593"
     ],
-    "title": "The Revengers Tragedy (Ross edition)"
+    "hasLanguage": "English",
+    "title": "The Revengers Tragedy (Ross edition)",
+    "createdDate": "GREGORIAN:1966:1966",
+    "publishDate": "GREGORIAN:1966:1966"
   },
   "ww_5af91280461707f1": {
     "bookInternalId": "@005134",
@@ -1050,7 +1127,10 @@
     "isWrittenBy": [
       "ww_a943388f673c7fa4"
     ],
-    "title": "The Plays of John Marston (Wood edition)"
+    "hasLanguage": "English",
+    "title": "The Plays of John Marston (Wood edition)",
+    "createdDate": "GREGORIAN:1934:1939",
+    "publishDate": "GREGORIAN:1934:1939"
   },
   "ww_4699bce2e8308213": {
     "bookInternalId": "@000947",
@@ -1084,7 +1164,10 @@
     "isWrittenBy": [
       "ww_71c35dc91de8b585"
     ],
-    "title": "Shakespeares Wirkung zeitgenoess Dramatiker"
+    "hasLanguage": "German",
+    "title": "Shakespeares Wirkung zeitgenoess Dramatiker",
+    "createdDate": "GREGORIAN:1905:1905",
+    "publishDate": "GREGORIAN:1905:1905"
   },
   "ww_12b8cda82738e9e2": {
     "bookInternalId": "@010006",
@@ -1092,7 +1175,10 @@
     "isWrittenBy": [
       "ww_5d19ae76208b92a9"
     ],
-    "title": "Sir William Davenants relation to Shakespeare"
+    "hasLanguage": "English",
+    "title": "Sir William Davenants relation to Shakespeare",
+    "createdDate": "GREGORIAN:1905:1905",
+    "publishDate": "GREGORIAN:1905:1905"
   },
   "ww_740f720d37d984d2": {
     "bookInternalId": "@001593",
@@ -1126,7 +1212,10 @@
     "isWrittenBy": [
       "ww_d9d0c43743be62f7"
     ],
-    "title": "Quellenstudien zu den Dramen Thomas Middletons"
+    "hasLanguage": "German",
+    "title": "Quellenstudien zu den Dramen Thomas Middletons",
+    "createdDate": "GREGORIAN:1905:1905",
+    "publishDate": "GREGORIAN:1905:1905"
   },
   "ww_7b4aa85a9a3a75f4": {
     "bookInternalId": "@010119",
@@ -1134,7 +1223,10 @@
     "isWrittenBy": [
       "ww_5c7d3fc631db2ef4"
     ],
-    "title": "Das Verhaeltnis Thomas Middletons zu Shak"
+    "hasLanguage": "German",
+    "title": "Das Verhaeltnis Thomas Middletons zu Shak",
+    "createdDate": "GREGORIAN:1904:1904",
+    "publishDate": "GREGORIAN:1904:1904"
   },
   "ww_a97f692ed045759b": {
     "bookInternalId": "@000952",
@@ -1219,7 +1311,10 @@
     "isWrittenBy": [
       "ww_5920a2f51df6bb9f"
     ],
-    "title": "The Plays of Nathan Field"
+    "hasLanguage": "English",
+    "title": "The Plays of Nathan Field",
+    "createdDate": "GREGORIAN:1950:1950",
+    "publishDate": "GREGORIAN:1950:1950"
   },
   "ww_b5ea9b35c899d367": {
     "bookInternalId": "@010087",
@@ -1227,7 +1322,10 @@
     "isWrittenBy": [
       "ww_5920a2f51df6bb9f"
     ],
-    "title": "Shakespeare and Nathan Field"
+    "hasLanguage": "English",
+    "title": "Shakespeare and Nathan Field",
+    "createdDate": "GREGORIAN:1950:1950",
+    "publishDate": "GREGORIAN:1950:1950"
   },
   "ww_0d665e488e8f55e8": {
     "bookInternalId": "@005555",
@@ -1323,8 +1421,8 @@
     "hasLanguage": "English",
     "hasGenre": [
       "Tragedy or History",
-      "Tragedy",
       "Theatre",
+      "Tragedy",
       "History"
     ],
     "hasSubject": [],
@@ -1376,9 +1474,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
+      "Theatre",
       "Tragedy",
-      "Theatre"
+      "History"
     ],
     "hasSubject": [
       "ACHTUNG MARKING"
@@ -1434,9 +1532,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
+      "Theatre",
       "Tragedy",
-      "Theatre"
+      "History"
     ],
     "hasSubject": [
       "Literature"
@@ -1456,7 +1554,10 @@
     "isWrittenBy": [
       "ww_9cfcaaa5ca016199"
     ],
-    "title": "Imitation of Shakespeare in Middleton's The Family of Love"
+    "hasLanguage": "English",
+    "title": "Imitation of Shakespeare in Middleton's The Family of Love",
+    "createdDate": "GREGORIAN:1950:1950",
+    "publishDate": "GREGORIAN:1950:1950"
   },
   "ww_663bc260dc952b96": {
     "bookInternalId": "@001083",
@@ -1472,9 +1573,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
+      "Theatre",
       "Tragedy",
-      "Theatre"
+      "History"
     ],
     "hasSubject": [
       "ACHTUNG MARKING"
@@ -1494,7 +1595,10 @@
     "isWrittenBy": [
       "ww_4ea15fc920a6e8b6"
     ],
-    "title": "The Works of John Marston (Bullen edition)"
+    "hasLanguage": "English",
+    "title": "The Works of John Marston (Bullen edition)",
+    "createdDate": "GREGORIAN:1887:1887",
+    "publishDate": "GREGORIAN:1887:1887"
   },
   "ww_5196ea0769532431": {
     "bookInternalId": "@001079",
@@ -1531,7 +1635,10 @@
     "isWrittenBy": [
       "ww_fdae751b03274cac"
     ],
-    "title": "The Selected Plays of John Marston (Jackson editio"
+    "hasLanguage": "English",
+    "title": "The Selected Plays of John Marston (Jackson editio",
+    "createdDate": "GREGORIAN:1986:1986",
+    "publishDate": "GREGORIAN:1986:1986"
   },
   "ww_ac906654199b4d49": {
     "bookInternalId": "@001073",
@@ -1567,7 +1674,10 @@
     "isWrittenBy": [
       "ww_71c35dc91de8b585"
     ],
-    "title": "Quellenstudien Chapman Massinger Ford"
+    "hasLanguage": "German",
+    "title": "Quellenstudien Chapman Massinger Ford",
+    "createdDate": "GREGORIAN:1897:1897",
+    "publishDate": "GREGORIAN:1897:1897"
   },
   "ww_a8549c12c9507c4b": {
     "bookInternalId": "@001148",
@@ -1716,8 +1826,8 @@
     "hasLanguage": "English",
     "hasGenre": [
       "Tragedy or History",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -1742,8 +1852,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "Theatre",
+      "History"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -1789,7 +1899,10 @@
     "isWrittenBy": [
       "ww_631193418089c664"
     ],
-    "title": "The Pleasant Comedie of old Fortunatus (Schere edi"
+    "hasLanguage": "English",
+    "title": "The Pleasant Comedie of old Fortunatus (Schere edi",
+    "createdDate": "GREGORIAN:1901:1901",
+    "publishDate": "GREGORIAN:1901:1901"
   },
   "ww_5cb4c35da9f3b9dd": {
     "bookInternalId": "@001259",
@@ -1811,9 +1924,9 @@
     ],
     "hasSubject": [
       "ACHTUNG MARKING",
-      "Literature",
       "Literature (Shakespeare)",
       "Philosophy, religion",
+      "Literature",
       "RESEARCH PENDING"
     ],
     "createdDate": [
@@ -1840,8 +1953,8 @@
     "hasLanguage": "English",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
-      "Comedy"
+      "Comedy",
+      "Theatre"
     ],
     "hasSubject": [
       "ACHTUNG MARKING"
@@ -1861,7 +1974,10 @@
     "isWrittenBy": [
       "ww_a490794224ad2764"
     ],
-    "title": "An Unreported Hamlet Allusion"
+    "hasLanguage": "English",
+    "title": "An Unreported Hamlet Allusion",
+    "createdDate": "GREGORIAN:1984:1984",
+    "publishDate": "GREGORIAN:1984:1984"
   },
   "ww_5e05435c2593a395": {
     "bookInternalId": "@006148",
@@ -1869,7 +1985,10 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Shakespearian Allusions"
+    "hasLanguage": "English",
+    "title": "Shakespearian Allusions",
+    "createdDate": "GREGORIAN:1904:1904",
+    "publishDate": "GREGORIAN:1904:1904"
   },
   "ww_4899784ecc7f3845": {
     "bookInternalId": "@010031",
@@ -1877,7 +1996,10 @@
     "isWrittenBy": [
       "ww_6479c34542b52165"
     ],
-    "title": "Shaksperes Silences"
+    "hasLanguage": "English",
+    "title": "Shaksperes Silences",
+    "createdDate": "GREGORIAN:1929:1929",
+    "publishDate": "GREGORIAN:1929:1929"
   },
   "ww_c1ca40b688cca87f": {
     "bookInternalId": "@010007",
@@ -1885,7 +2007,10 @@
     "isWrittenBy": [
       "ww_b12a0d10cafaf078"
     ],
-    "title": "The Works of John Dryden (Roper edition)"
+    "hasLanguage": "English",
+    "title": "The Works of John Dryden (Roper edition)",
+    "createdDate": "GREGORIAN:1956:1989",
+    "publishDate": "GREGORIAN:1956:1989"
   },
   "ww_b448a8b1df6fffa0": {
     "bookInternalId": "@005699",
@@ -1893,7 +2018,10 @@
     "isWrittenBy": [
       "ww_b03485399e74fd98"
     ],
-    "title": "The Malcontent (Hunter edition)"
+    "hasLanguage": "English",
+    "title": "The Malcontent (Hunter edition)",
+    "createdDate": "GREGORIAN:1975:1975",
+    "publishDate": "GREGORIAN:1975:1975"
   },
   "ww_1c8a25fac02f85a7": {
     "bookInternalId": "@010086",
@@ -1901,7 +2029,10 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Some 17th-Century Allusions"
+    "hasLanguage": "English",
+    "title": "Some 17th-Century Allusions",
+    "createdDate": "GREGORIAN:1920:1920",
+    "publishDate": "GREGORIAN:1920:1920"
   },
   "ww_cd1e70f8e2cd8c82": {
     "bookInternalId": "@010050",
@@ -1909,7 +2040,10 @@
     "isWrittenBy": [
       "ww_f31af6df8b4b0640"
     ],
-    "title": "Shakespeares Proverb Lore"
+    "hasLanguage": "English",
+    "title": "Shakespeares Proverb Lore",
+    "createdDate": "GREGORIAN:1963:1963",
+    "publishDate": "GREGORIAN:1963:1963"
   },
   "ww_f3b3659c26b68006": {
     "bookInternalId": "@010076",
@@ -1917,7 +2051,10 @@
     "isWrittenBy": [
       "ww_50c35f7aceaa6c9e"
     ],
-    "title": "A Dictionary of the Proverbs "
+    "hasLanguage": "English",
+    "title": "A Dictionary of the Proverbs ",
+    "createdDate": "GREGORIAN:1950:1950",
+    "publishDate": "GREGORIAN:1950:1950"
   },
   "ww_8580b38f9dc94f0b": {
     "bookInternalId": "@010148",
@@ -1925,7 +2062,10 @@
     "isWrittenBy": [
       "ww_344c59ba1ce1b8fd"
     ],
-    "title": "The Anatomy of Melancholy (Faulkner  edition)"
+    "hasLanguage": "English",
+    "title": "The Anatomy of Melancholy (Faulkner  edition)",
+    "createdDate": "GREGORIAN:1994:1994",
+    "publishDate": "GREGORIAN:1994:1994"
   },
   "ww_d1faedb423154f39": {
     "bookInternalId": "@010054",
@@ -1933,6 +2073,7 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
+    "hasLanguage": "English",
     "title": "ECCO - Eighteenth-Century Collections Online"
   },
   "ww_15dba62495527dd5": {
@@ -1941,7 +2082,10 @@
     "isWrittenBy": [
       "ww_cfc974ec4e221d48"
     ],
-    "title": "Sources of Shakespeares Plays"
+    "hasLanguage": "English",
+    "title": "Sources of Shakespeares Plays",
+    "createdDate": "GREGORIAN:1977:1977",
+    "publishDate": "GREGORIAN:1977:1977"
   },
   "ww_897067f9ec23fa0d": {
     "bookInternalId": "@005581",
@@ -1969,8 +2113,8 @@
   "ww_e48f8eb2eda19a17": {
     "bookInternalId": "@001580",
     "isWrittenBy": [
-      "ww_1c3ea6e0cd221163",
-      "ww_7e08b5fab4c10b55"
+      "ww_7e08b5fab4c10b55",
+      "ww_1c3ea6e0cd221163"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -1995,10 +2139,13 @@
     "bookInternalId": "@010021",
     "edition": "eds. The Works of Thomas Southerne. 2 vols. Oxford: Clarendon Press, 1988.",
     "isWrittenBy": [
-      "ww_c11600e212e4417a",
-      "ww_ea90e1c76029f901"
+      "ww_ea90e1c76029f901",
+      "ww_c11600e212e4417a"
     ],
-    "title": "The Works of Thomas Southerne (Jordan edition)"
+    "hasLanguage": "English",
+    "title": "The Works of Thomas Southerne (Jordan edition)",
+    "createdDate": "GREGORIAN:1988:1988",
+    "publishDate": "GREGORIAN:1988:1988"
   },
   "ww_6618d930bb6f1006": {
     "bookInternalId": "@001239",
@@ -2032,7 +2179,10 @@
     "isWrittenBy": [
       "ww_37083d29746e75d4"
     ],
-    "title": "Eastward Ho (Van Fossen edition)"
+    "hasLanguage": "English",
+    "title": "Eastward Ho (Van Fossen edition)",
+    "createdDate": "GREGORIAN:1979:1979",
+    "publishDate": "GREGORIAN:1979:1979"
   },
   "ww_50b5fed06f012747": {
     "bookInternalId": "@001297",
@@ -2076,8 +2226,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "HISTORICAL PAGE"
+      "HISTORICAL PAGE",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE"
     ],
     "createdDate": [
       "GREGORIAN:1601:1601"
@@ -2095,7 +2245,10 @@
     "isWrittenBy": [
       "ww_fb550941e6e9db62"
     ],
-    "title": "More Shakspere Allusions"
+    "hasLanguage": "English",
+    "title": "More Shakspere Allusions",
+    "createdDate": "GREGORIAN:1916:1916",
+    "publishDate": "GREGORIAN:1916:1916"
   },
   "ww_2f65899f08b5bb71": {
     "bookInternalId": "@010046",
@@ -2103,7 +2256,10 @@
     "isWrittenBy": [
       "ww_f2c0f40020cbe48f"
     ],
-    "title": "Memoranda on the Tragedy of Hamlet"
+    "hasLanguage": "English",
+    "title": "Memoranda on the Tragedy of Hamlet",
+    "createdDate": "GREGORIAN:1879:1879",
+    "publishDate": "GREGORIAN:1879:1879"
   },
   "ww_ce6d233a20f2b70f": {
     "bookInternalId": "@010003",
@@ -2111,7 +2267,10 @@
     "isWrittenBy": [
       "ww_00a3ea8b5afeaa37"
     ],
-    "title": "On the Literary Genetics of Shakspere s Plays"
+    "hasLanguage": "English",
+    "title": "On the Literary Genetics of Shakspere s Plays",
+    "createdDate": "GREGORIAN:1959:1959",
+    "publishDate": "GREGORIAN:1959:1959"
   },
   "ww_d87c5e9530010d35": {
     "bookInternalId": "@010139",
@@ -2119,7 +2278,10 @@
     "isWrittenBy": [
       "ww_12bcadd5ab9d3f8a"
     ],
-    "title": "The Problem of Authorship of Eastward Ho"
+    "hasLanguage": "English",
+    "title": "The Problem of Authorship of Eastward Ho",
+    "createdDate": "GREGORIAN:1944:1944",
+    "publishDate": "GREGORIAN:1944:1944"
   },
   "ww_e94b33ac99cc5615": {
     "bookInternalId": "@001296",
@@ -2190,8 +2352,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -2237,7 +2399,10 @@
     "isWrittenBy": [
       "ww_924e9d6c1a0abf2b"
     ],
-    "title": "Parasitaster (Blostein edition)"
+    "hasLanguage": "English",
+    "title": "Parasitaster (Blostein edition)",
+    "createdDate": "GREGORIAN:1978:1978",
+    "publishDate": "GREGORIAN:1978:1978"
   },
   "ww_05caae816d47ff11": {
     "bookInternalId": "@001326",
@@ -2271,18 +2436,18 @@
       "ww_f10aec8cfe5ff90d"
     ],
     "performedIn": [
-      "ww_81218f770ce74ed5",
-      "ww_65d3b57b79bd6da1"
+      "ww_65d3b57b79bd6da1",
+      "ww_81218f770ce74ed5"
     ],
     "performedBy": [
-      "ww_f31f247137fcb48d",
-      "ww_cf1e1a78f52e58d7"
+      "ww_cf1e1a78f52e58d7",
+      "ww_f31f247137fcb48d"
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Romance (Drama)",
       "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Romance (Drama)"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -2300,10 +2465,10 @@
   "ww_ae241404822b51fa": {
     "bookInternalId": "@001369",
     "isWrittenBy": [
-      "ww_d78940f8a8554ca3",
-      "ww_9594c85bc48d3759",
       "ww_87dbd52f1c5b813b",
-      "ww_f10aec8cfe5ff90d"
+      "ww_f10aec8cfe5ff90d",
+      "ww_d78940f8a8554ca3",
+      "ww_9594c85bc48d3759"
     ],
     "performedIn": [
       "ww_ddd1d1992c2d6f3d"
@@ -2340,8 +2505,8 @@
     "hasLanguage": "English",
     "hasGenre": [
       "Tragicomedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "Literature"
@@ -2407,8 +2572,8 @@
   "ww_ad7af8eb91622840": {
     "bookInternalId": "@001450",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_9594c85bc48d3759"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -2574,8 +2739,8 @@
   "ww_ad87a567c9aa933d": {
     "bookInternalId": "@001431",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_c298754546b2500e"
     ],
     "performedIn": [
       "ww_185cddace7e03495"
@@ -2656,9 +2821,9 @@
   "ww_c021f9c6c9cb807d": {
     "bookInternalId": "@001473",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
       "ww_ad03d7c87e5b9c24",
-      "ww_9b2d545e20d62482"
+      "ww_9b2d545e20d62482",
+      "ww_8501ec457f433848"
     ],
     "performedIn": [
       "ww_e7808d9dfc1452ef"
@@ -2690,13 +2855,16 @@
     "isWrittenBy": [
       "ww_aee1340a336646a7"
     ],
-    "title": "Hamlet Before Its Time"
+    "hasLanguage": "English",
+    "title": "Hamlet Before Its Time",
+    "createdDate": "GREGORIAN:2001:2001",
+    "publishDate": "GREGORIAN:2001:2001"
   },
   "ww_2f9b1b0a9d86ff6d": {
     "bookInternalId": "@001483",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_9594c85bc48d3759"
     ],
     "performedIn": [
       "ww_ddd1d1992c2d6f3d"
@@ -2807,8 +2975,8 @@
   "ww_7c3febaec4e5aacf": {
     "bookInternalId": "@001522",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "performedIn": [],
     "performedBy": [
@@ -2816,13 +2984,13 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
       "Theatre",
+      "Tragedy",
       "Comedy"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "ACHTUNG MARKING"
     ],
     "createdDate": [
       "GREGORIAN:1606:1606"
@@ -2840,7 +3008,10 @@
     "isWrittenBy": [
       "ww_5630a28303424aa1"
     ],
-    "title": "'Hamlet' Then Till Now"
+    "hasLanguage": "English",
+    "title": "'Hamlet' Then Till Now",
+    "createdDate": "GREGORIAN:1993:1993",
+    "publishDate": "GREGORIAN:1993:1993"
   },
   "ww_7114631e1c7c2d84": {
     "bookInternalId": "@001496",
@@ -2990,8 +3161,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "ACHTUNG MARKING"
     ],
     "createdDate": [
       "GREGORIAN:1607:1607"
@@ -3096,12 +3267,12 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "Theatre",
+      "History"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
       "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE",
       "HISTORICAL PAGE"
     ],
     "createdDate": [
@@ -3127,8 +3298,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
-      "Tragedy"
+      "Tragedy",
+      "History"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -3210,8 +3381,8 @@
       "Prose unspecified"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE"
     ],
     "createdDate": [
       "GREGORIAN:1609:1609"
@@ -3229,7 +3400,10 @@
     "isWrittenBy": [
       "ww_5920a2f51df6bb9f"
     ],
-    "title": "Eastward Ho! and A Woman is a Weathercock"
+    "hasLanguage": "English",
+    "title": "Eastward Ho! and A Woman is a Weathercock",
+    "createdDate": "GREGORIAN:1947:1947",
+    "publishDate": "GREGORIAN:1947:1947"
   },
   "ww_2d0eea6c7b8afc36": {
     "bookInternalId": "@001625",
@@ -3268,9 +3442,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Romance (Drama)",
+      "Theatre",
       "Tragedy",
-      "Theatre"
+      "Romance (Drama)"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -3295,8 +3469,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
       "Theatre",
+      "Tragedy",
       "Comedy"
     ],
     "hasSubject": [],
@@ -3420,9 +3594,9 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Romance (Drama)",
       "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Romance (Drama)"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -3502,9 +3676,9 @@
       "Theatre"
     ],
     "hasSubject": [
-      "Literature",
       "TO BE EDITED",
-      "HISTORICAL PAGE"
+      "HISTORICAL PAGE",
+      "Literature"
     ],
     "createdDate": [
       "GREGORIAN:1612:1612"
@@ -3519,15 +3693,15 @@
   "ww_dbd5db889d39fd5c": {
     "bookInternalId": "@001674",
     "isWrittenBy": [
-      "ww_684176b58bc762f6",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_684176b58bc762f6"
     ],
     "performedIn": [],
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "Theatre",
+      "History"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -3595,8 +3769,8 @@
   "ww_384598056518c080": {
     "bookInternalId": "@001724",
     "isWrittenBy": [
-      "ww_684176b58bc762f6",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_684176b58bc762f6"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -3664,8 +3838,8 @@
   "ww_7da5186d0ba71c05": {
     "bookInternalId": "@001798",
     "isWrittenBy": [
-      "ww_5cb3d6fa23800e74",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_5cb3d6fa23800e74"
     ],
     "performedIn": [],
     "performedBy": [
@@ -3719,15 +3893,15 @@
   "ww_6318ed97b9193504": {
     "bookInternalId": "@001883",
     "isWrittenBy": [
-      "ww_8926bbeaa7c56023",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_8926bbeaa7c56023"
     ],
     "performedIn": [],
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "ACHTUNG MARKING",
@@ -3746,8 +3920,8 @@
   "ww_42c538dd9d8ef8cf": {
     "bookInternalId": "@001911",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9",
@@ -3785,8 +3959,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -3855,8 +4029,8 @@
   "ww_ba414031d5e5f20b": {
     "bookInternalId": "@002013",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9",
@@ -3867,8 +4041,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "ACHTUNG MARKING"
@@ -3996,8 +4170,8 @@
   "ww_f619b6b1cf5ba6c8": {
     "bookInternalId": "@002186",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_f10aec8cfe5ff90d"
+      "ww_f10aec8cfe5ff90d",
+      "ww_9594c85bc48d3759"
     ],
     "performedIn": [
       "ww_74c4ffb6231a730c"
@@ -4037,9 +4211,9 @@
       "Theatre"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
       "TO BE EDITED",
-      "HISTORICAL PAGE"
+      "HISTORICAL PAGE",
+      "ACHTUNG MARKING"
     ],
     "createdDate": [
       "GREGORIAN:1626:1626"
@@ -4064,8 +4238,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "ACHTUNG MARKING",
@@ -4116,7 +4290,10 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "The dramatic works of Sir William DAvenant"
+    "hasLanguage": "English",
+    "title": "The dramatic works of Sir William DAvenant",
+    "createdDate": "GREGORIAN:1872:1874",
+    "publishDate": "GREGORIAN:1872:1874"
   },
   "ww_90e51c7d8dde43b0": {
     "bookInternalId": "@002172",
@@ -4212,8 +4389,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -4234,7 +4411,10 @@
     "isWrittenBy": [
       "ww_1d9ffbd1fde1bb58"
     ],
-    "title": "The Vow-Breaker (Wallrath edition)"
+    "hasLanguage": "English",
+    "title": "The Vow-Breaker (Wallrath edition)",
+    "createdDate": "GREGORIAN:1914:1914",
+    "publishDate": "GREGORIAN:1914:1914"
   },
   "ww_fde3a71f41183980": {
     "bookInternalId": "@002282",
@@ -4358,8 +4538,8 @@
     "hasLanguage": "English",
     "hasGenre": [
       "Tragicomedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -4459,7 +4639,10 @@
     "isWrittenBy": [
       "ww_b32bc514b340f073"
     ],
-    "title": "William Heminge and Shakespeare"
+    "hasLanguage": "English",
+    "title": "William Heminge and Shakespeare",
+    "createdDate": "GREGORIAN:1914:1914",
+    "publishDate": "GREGORIAN:1914:1914"
   },
   "ww_e04a109f879d52d9": {
     "bookInternalId": "@002410",
@@ -4517,7 +4700,10 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "DLCPP - Digital Library of Classic Protestant Text"
+    "hasLanguage": "English",
+    "title": "DLCPP - Digital Library of Classic Protestant Text",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007"
   },
   "ww_f1d46e7ae80368bd": {
     "bookInternalId": "@002417",
@@ -4549,8 +4735,8 @@
   "ww_d35dc820f15d3e44": {
     "bookInternalId": "@005107",
     "isWrittenBy": [
-      "ww_87547eb3eadc52d8",
-      "ww_e92e9dc9d65ade56"
+      "ww_e92e9dc9d65ade56",
+      "ww_87547eb3eadc52d8"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -4720,7 +4906,10 @@
     "isWrittenBy": [
       "ww_0fbb6e273519df06"
     ],
-    "title": "Tragedy of Messallina (Skemp edition)"
+    "hasLanguage": "English",
+    "title": "Tragedy of Messallina (Skemp edition)",
+    "createdDate": "GREGORIAN:1910:1910",
+    "publishDate": "GREGORIAN:1910:1910"
   },
   "ww_d67aa0d57e6ca1d5": {
     "bookInternalId": "@005673",
@@ -4731,8 +4920,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Nonfiction unspecified",
-      "Pamphlet or liturgical text"
+      "Pamphlet or liturgical text",
+      "Nonfiction unspecified"
     ],
     "hasSubject": [
       "Sociology, society, lifestyle",
@@ -4776,7 +4965,10 @@
     "isWrittenBy": [
       "ww_c1bd14552f609afe"
     ],
-    "title": "Three Shakespearean Echoes"
+    "hasLanguage": "English",
+    "title": "Three Shakespearean Echoes",
+    "createdDate": "GREGORIAN:1975:1975",
+    "publishDate": "GREGORIAN:1975:1975"
   },
   "ww_642b2e2b3af470fd": {
     "bookInternalId": "@002666",
@@ -4846,8 +5038,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -4954,7 +5146,10 @@
     "isWrittenBy": [
       "ww_6404478293b4e0ef"
     ],
-    "title": "Titles from HAMLET"
+    "hasLanguage": "English",
+    "title": "Titles from HAMLET",
+    "createdDate": "GREGORIAN:2000:2000",
+    "publishDate": "GREGORIAN:2000:2000"
   },
   "ww_1d1e4a88851e1bfc": {
     "bookInternalId": "@005162",
@@ -5275,8 +5470,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -5336,8 +5531,8 @@
   "ww_da24e779a482efd0": {
     "bookInternalId": "@005205",
     "isWrittenBy": [
-      "ww_12f7d2e19bfcb92f",
-      "ww_ed5b7d7b5b4ff788"
+      "ww_ed5b7d7b5b4ff788",
+      "ww_12f7d2e19bfcb92f"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -5402,8 +5597,8 @@
   "ww_fafacaceace47d73": {
     "bookInternalId": "@005556",
     "isWrittenBy": [
-      "ww_12f7d2e19bfcb92f",
-      "ww_ed5b7d7b5b4ff788"
+      "ww_ed5b7d7b5b4ff788",
+      "ww_12f7d2e19bfcb92f"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -5412,8 +5607,8 @@
       "Tragedy"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "ACHTUNG MARKING"
     ],
     "createdDate": [
       "GREGORIAN:1682:1682"
@@ -5451,7 +5646,10 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "More 17th-Century Allusions "
+    "hasLanguage": "English",
+    "title": "More 17th-Century Allusions ",
+    "createdDate": "GREGORIAN:1924:1924",
+    "publishDate": "GREGORIAN:1924:1924"
   },
   "ww_9e4880a3607bfe49": {
     "bookInternalId": "@005182",
@@ -5465,8 +5663,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
       "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE",
       "WOMAN WRITER"
     ],
     "createdDate": [
@@ -5667,7 +5865,10 @@
     "isWrittenBy": [
       "ww_15b50ac49f9798c6"
     ],
-    "title": "Shakespeares Ghost Writers"
+    "hasLanguage": "English",
+    "title": "Shakespeares Ghost Writers",
+    "createdDate": "GREGORIAN:1987:1987",
+    "publishDate": "GREGORIAN:1987:1987"
   },
   "ww_e7b10e483d5cee49": {
     "bookInternalId": "@010118",
@@ -5675,7 +5876,10 @@
     "isWrittenBy": [
       "ww_67ff3ba62bd10038"
     ],
-    "title": "A Milton Encyclopedia"
+    "hasLanguage": "English",
+    "title": "A Milton Encyclopedia",
+    "createdDate": "GREGORIAN:1978:1983",
+    "publishDate": "GREGORIAN:1978:1983"
   },
   "ww_7dd1c602e9ccfe3b": {
     "bookInternalId": "@000944",
@@ -5704,7 +5908,10 @@
     "isWrittenBy": [
       "ww_d78431424289a522"
     ],
-    "title": "The Insatiate Countess Verh\u00e4ltnis zu den Quellen"
+    "hasLanguage": "German",
+    "title": "The Insatiate Countess Verh\u00e4ltnis zu den Quellen",
+    "createdDate": "GREGORIAN:1913:1913",
+    "publishDate": "GREGORIAN:1913:1913"
   },
   "ww_a02594ff5ab4929a": {
     "bookInternalId": "@000941",
@@ -5761,7 +5968,10 @@
     "isWrittenBy": [
       "ww_b32bc514b340f073"
     ],
-    "title": "The Turk (Adams edition)"
+    "hasLanguage": "English",
+    "title": "The Turk (Adams edition)",
+    "createdDate": "GREGORIAN:1913:1913",
+    "publishDate": "GREGORIAN:1913:1913"
   },
   "ww_38151002cedbc343": {
     "bookInternalId": "@005055",
@@ -5861,7 +6071,10 @@
     "isWrittenBy": [
       "ww_bb3b6ed200b7c591"
     ],
-    "title": "Allusions to Shakespeare in Nathaniel Richards's The Tragedy Of Messalina"
+    "hasLanguage": "English",
+    "title": "Allusions to Shakespeare in Nathaniel Richards's The Tragedy Of Messalina",
+    "createdDate": "GREGORIAN:2013:2013",
+    "publishDate": "GREGORIAN:2013:2013"
   },
   "ww_6f0ade1dfe5ee541": {
     "bookInternalId": "@003007",
@@ -5964,7 +6177,10 @@
     "isWrittenBy": [
       "ww_b33f1194b1177f69"
     ],
-    "title": "The Life of Marlowe"
+    "hasLanguage": "English",
+    "title": "The Life of Marlowe",
+    "createdDate": "GREGORIAN:1930:1930",
+    "publishDate": "GREGORIAN:1930:1930"
   },
   "ww_36210f298b9bbc6f": {
     "bookInternalId": "@005165",
@@ -6016,7 +6232,10 @@
     "isWrittenBy": [
       "ww_669296d55624f6e0"
     ],
-    "title": "The source of the 'Seven Ages'"
+    "hasLanguage": "English",
+    "title": "The source of the 'Seven Ages'",
+    "createdDate": "GREGORIAN:1902:1902",
+    "publishDate": "GREGORIAN:1902:1902"
   },
   "ww_9ec767d44e3a36f8": {
     "bookInternalId": "@010032",
@@ -6024,7 +6243,10 @@
     "isWrittenBy": [
       "ww_2c045bd15b626e88"
     ],
-    "title": "The Fleire (Nibbe edition)"
+    "hasLanguage": "German",
+    "title": "The Fleire (Nibbe edition)",
+    "createdDate": "GREGORIAN:1912:1912",
+    "publishDate": "GREGORIAN:1912:1912"
   },
   "ww_8a2b94e996b8bc5b": {
     "bookInternalId": "@006176",
@@ -6032,7 +6254,10 @@
     "isWrittenBy": [
       "ww_759cb02a2eabfb2d"
     ],
-    "title": "Tamburlaine's 'Pampered Jades' and Gascoigne"
+    "hasLanguage": "English",
+    "title": "Tamburlaine's 'Pampered Jades' and Gascoigne",
+    "createdDate": "GREGORIAN:1958:1958",
+    "publishDate": "GREGORIAN:1958:1958"
   },
   "ww_268e430c690f89be": {
     "bookInternalId": "@006210",
@@ -6040,7 +6265,10 @@
     "isWrittenBy": [
       "ww_4c5ba5318216a043"
     ],
-    "title": "The Voice of Marlowe's Tamburlaine in early Shakespeare"
+    "hasLanguage": "English",
+    "title": "The Voice of Marlowe's Tamburlaine in early Shakespeare",
+    "createdDate": "GREGORIAN:1997:1997",
+    "publishDate": "GREGORIAN:1997:1997"
   },
   "ww_7fe0f76f34784ff5": {
     "bookInternalId": "@001064",
@@ -6071,7 +6299,10 @@
     "isWrittenBy": [
       "ww_fdae751b03274cac"
     ],
-    "title": "Shakespeare and Edmund Ironside"
+    "hasLanguage": "English",
+    "title": "Shakespeare and Edmund Ironside",
+    "createdDate": "GREGORIAN:1963:1963",
+    "publishDate": "GREGORIAN:1963:1963"
   },
   "ww_180d7fcf961a85ac": {
     "bookInternalId": "@006070",
@@ -6079,7 +6310,10 @@
     "isWrittenBy": [
       "ww_86c92244655c7f75"
     ],
-    "title": "Unpublished Notes on Shakespeares Image Clusters"
+    "hasLanguage": "English",
+    "title": "Unpublished Notes on Shakespeares Image Clusters",
+    "createdDate": "GREGORIAN:1988:1988",
+    "publishDate": "GREGORIAN:1988:1988"
   },
   "ww_8bc9ee57cff30396": {
     "bookInternalId": "@005706",
@@ -6133,7 +6367,10 @@
     "isWrittenBy": [
       "ww_4aad8076b21701ae"
     ],
-    "title": "The Poems of John Marston (Davenport edition)"
+    "hasLanguage": "English",
+    "title": "The Poems of John Marston (Davenport edition)",
+    "createdDate": "GREGORIAN:1961:1961",
+    "publishDate": "GREGORIAN:1961:1961"
   },
   "ww_a466e78302462627": {
     "bookInternalId": "@001218",
@@ -6195,7 +6432,10 @@
     "isWrittenBy": [
       "ww_ac85346a6a733ffa"
     ],
-    "title": "John Marstons Drama "
+    "hasLanguage": "English",
+    "title": "John Marstons Drama ",
+    "createdDate": "GREGORIAN:1980:1980",
+    "publishDate": "GREGORIAN:1980:1980"
   },
   "ww_b908ae26c4f3afcf": {
     "bookInternalId": "@010010",
@@ -6204,7 +6444,10 @@
       "ww_360a194801e33346",
       "ww_8fb09da2c31a2ddc"
     ],
-    "title": "Collaborative Plays"
+    "hasLanguage": "English",
+    "title": "Collaborative Plays",
+    "createdDate": "GREGORIAN:2013:2013",
+    "publishDate": "GREGORIAN:2013:2013"
   },
   "ww_436db7d05fb0f0f6": {
     "bookInternalId": "@001271",
@@ -6243,7 +6486,10 @@
     "isWrittenBy": [
       "ww_7873f39b651d99c4"
     ],
-    "title": "Specimen of a Commentary "
+    "hasLanguage": "English",
+    "title": "Specimen of a Commentary ",
+    "createdDate": "GREGORIAN:1794:1794",
+    "publishDate": "GREGORIAN:1794:1794"
   },
   "ww_71f9553b2f54e1b1": {
     "bookInternalId": "@010090",
@@ -6251,7 +6497,10 @@
     "isWrittenBy": [
       "ww_6602bf84bc7e7d7f"
     ],
-    "title": "The Genesis of Shakespeare Idolatry 1766-1799"
+    "hasLanguage": "English",
+    "title": "The Genesis of Shakespeare Idolatry 1766-1799",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964"
   },
   "ww_703eb3f3a9bf6d41": {
     "bookInternalId": "@010073",
@@ -6259,7 +6508,10 @@
     "isWrittenBy": [
       "ww_df21ac325632f060"
     ],
-    "title": "Shakespearean Burlesques (Wells edition)"
+    "hasLanguage": "English",
+    "title": "Shakespearean Burlesques (Wells edition)",
+    "createdDate": "GREGORIAN:1977:1977",
+    "publishDate": "GREGORIAN:1977:1977"
   },
   "ww_f034fa6f545e0122": {
     "bookInternalId": "@010065",
@@ -6268,7 +6520,10 @@
       "ww_c961f8c651ae6763",
       "ww_9d448942a16583fe"
     ],
-    "title": "The Madrigal, the Lute Song and Elizabethan Politics"
+    "hasLanguage": "English",
+    "title": "The Madrigal, the Lute Song and Elizabethan Politics",
+    "createdDate": "GREGORIAN:1969:1969",
+    "publishDate": "GREGORIAN:1969:1969"
   },
   "ww_27efae6f396668e8": {
     "bookInternalId": "@010109",
@@ -6276,7 +6531,10 @@
     "isWrittenBy": [
       "ww_ffa5ab3de908dcd2"
     ],
-    "title": "The Influence of Shakespeare on English Drama 1600"
+    "hasLanguage": "English",
+    "title": "The Influence of Shakespeare on English Drama 1600",
+    "createdDate": "GREGORIAN:1968:1968",
+    "publishDate": "GREGORIAN:1968:1968"
   },
   "ww_e38a56a7efbf9723": {
     "bookInternalId": "@005700",
@@ -6284,7 +6542,10 @@
     "isWrittenBy": [
       "ww_e651195b0e2d0014"
     ],
-    "title": "The Insatiate Countess (Melchiori edition)"
+    "hasLanguage": "English",
+    "title": "The Insatiate Countess (Melchiori edition)",
+    "createdDate": "GREGORIAN:1984:1984",
+    "publishDate": "GREGORIAN:1984:1984"
   },
   "ww_ae88354a1d70cefb": {
     "bookInternalId": "@010143",
@@ -6292,7 +6553,10 @@
     "isWrittenBy": [
       "ww_ed8bb2273ef0878b"
     ],
-    "title": "The Complete Works of John Webster (Lucas edition)"
+    "hasLanguage": "English",
+    "title": "The Complete Works of John Webster (Lucas edition)",
+    "createdDate": "GREGORIAN:1927:1927",
+    "publishDate": "GREGORIAN:1927:1927"
   },
   "ww_f1fa280c821d334c": {
     "bookInternalId": "@010068",
@@ -6300,7 +6564,10 @@
     "isWrittenBy": [
       "ww_ac792c172bd4228f"
     ],
-    "title": "An Early Hamlet Allusion"
+    "hasLanguage": "English",
+    "title": "An Early Hamlet Allusion",
+    "createdDate": "GREGORIAN:1941:1941",
+    "publishDate": "GREGORIAN:1941:1941"
   },
   "ww_2f767c233db0ba89": {
     "bookInternalId": "@010012",
@@ -6308,7 +6575,10 @@
     "isWrittenBy": [
       "ww_abd8a246fb849431"
     ],
-    "title": "Congreve as a Shakespearean"
+    "hasLanguage": "English",
+    "title": "Congreve as a Shakespearean",
+    "createdDate": "GREGORIAN:1981:1981",
+    "publishDate": "GREGORIAN:1981:1981"
   },
   "ww_c4dd28c52431d7a3": {
     "bookInternalId": "@010041",
@@ -6316,7 +6586,10 @@
     "isWrittenBy": [
       "ww_549b732020230ba1"
     ],
-    "title": "Shakespeare and Jonson among the Pamphleteers of the First Civil War. Some Unreported Seventeenth-Century Allusions"
+    "hasLanguage": "English",
+    "title": "Shakespeare and Jonson among the Pamphleteers of the First Civil War. Some Unreported Seventeenth-Century Allusions",
+    "createdDate": "GREGORIAN:1955:1955",
+    "publishDate": "GREGORIAN:1955:1955"
   },
   "ww_fcbf6cb53d663d95": {
     "bookInternalId": "@010201",
@@ -6324,7 +6597,10 @@
     "isWrittenBy": [
       "ww_360a194801e33346"
     ],
-    "title": "Shakespeare and Ovid"
+    "hasLanguage": "English",
+    "title": "Shakespeare and Ovid",
+    "createdDate": "GREGORIAN:1994:1994",
+    "publishDate": "GREGORIAN:1994:1994"
   },
   "ww_db0e9fa009aad7b3": {
     "bookInternalId": "@010070",
@@ -6332,7 +6608,10 @@
     "isWrittenBy": [
       "ww_86c92244655c7f75"
     ],
-    "title": "Word and Image Clusters in Shakespeare"
+    "hasLanguage": "English",
+    "title": "Word and Image Clusters in Shakespeare",
+    "createdDate": "GREGORIAN:1987:1987",
+    "publishDate": "GREGORIAN:1987:1987"
   },
   "ww_f068f8bfca6d8962": {
     "bookInternalId": "@006174",
@@ -6340,7 +6619,10 @@
     "isWrittenBy": [
       "ww_166cc9e286915ad2"
     ],
-    "title": "Die Stelle vom Rauhen Pyrrhus"
+    "hasLanguage": "German",
+    "title": "Die Stelle vom Rauhen Pyrrhus",
+    "createdDate": "GREGORIAN:1928:1928",
+    "publishDate": "GREGORIAN:1928:1928"
   },
   "ww_580f470934725947": {
     "bookInternalId": "@001269",
@@ -6355,8 +6637,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Masque or other",
-      "Tragedy"
+      "Tragedy",
+      "Masque or other"
     ],
     "hasSubject": [
       "TO BE EDITED",
@@ -6378,7 +6660,10 @@
     "isWrittenBy": [
       "ww_cfc974ec4e221d48"
     ],
-    "title": "Henry Swinburne and Shakespeare"
+    "hasLanguage": "English",
+    "title": "Henry Swinburne and Shakespeare",
+    "createdDate": "GREGORIAN:1957:1957",
+    "publishDate": "GREGORIAN:1957:1957"
   },
   "ww_599e3b499932059f": {
     "bookInternalId": "@010066",
@@ -6386,7 +6671,10 @@
     "isWrittenBy": [
       "ww_920d3f0aede3598b"
     ],
-    "title": "Shakespeares Testamentary Language"
+    "hasLanguage": "English",
+    "title": "Shakespeares Testamentary Language",
+    "createdDate": "GREGORIAN:1869:1869",
+    "publishDate": "GREGORIAN:1869:1869"
   },
   "ww_0b652d0c80d7227e": {
     "bookInternalId": "@010013",
@@ -6394,7 +6682,10 @@
     "isWrittenBy": [
       "ww_9d444a0f923d7ac3"
     ],
-    "title": "Five Shakespeare Allusions 1621-1630"
+    "hasLanguage": "English",
+    "title": "Five Shakespeare Allusions 1621-1630",
+    "createdDate": "GREGORIAN:1969:1969",
+    "publishDate": "GREGORIAN:1969:1969"
   },
   "ww_49d40eeadeef05fb": {
     "bookInternalId": "@010129",
@@ -6402,7 +6693,10 @@
     "isWrittenBy": [
       "ww_99768d9741fbce8b"
     ],
-    "title": "Poems Upon Several Occasions"
+    "hasLanguage": "English",
+    "title": "Poems Upon Several Occasions",
+    "createdDate": "GREGORIAN:1785:1785",
+    "publishDate": "GREGORIAN:1785:1785"
   },
   "ww_bd61ff243a1c12bf": {
     "bookInternalId": "@010074",
@@ -6410,7 +6704,10 @@
     "isWrittenBy": [
       "ww_e59f20507549cc08"
     ],
-    "title": "What Happens in Hamlet"
+    "hasLanguage": "English",
+    "title": "What Happens in Hamlet",
+    "createdDate": "GREGORIAN:1937:1937",
+    "publishDate": "GREGORIAN:1937:1937"
   },
   "ww_17854cef6ca6f944": {
     "bookInternalId": "@010108",
@@ -6418,7 +6715,10 @@
     "isWrittenBy": [
       "ww_ffa5ab3de908dcd2"
     ],
-    "title": "Shakespeare in the Seventeenth Century"
+    "hasLanguage": "English",
+    "title": "Shakespeare in the Seventeenth Century",
+    "createdDate": "GREGORIAN:1965:1965",
+    "publishDate": "GREGORIAN:1965:1965"
   },
   "ww_1397c4b67db5b86a": {
     "bookInternalId": "@010055",
@@ -6426,7 +6726,10 @@
     "isWrittenBy": [
       "ww_0579f1a78253c75c"
     ],
-    "title": "There is Nothing Like a Dane"
+    "hasLanguage": "English",
+    "title": "There is Nothing Like a Dane",
+    "createdDate": "GREGORIAN:1998:1998",
+    "publishDate": "GREGORIAN:1998:1998"
   },
   "ww_a3bdfb5ec0f62f6f": {
     "bookInternalId": "@020005",
@@ -6434,7 +6737,10 @@
     "isWrittenBy": [
       "ww_5630a28303424aa1"
     ],
-    "title": "Hamlet (Jenkins edition)"
+    "hasLanguage": "English",
+    "title": "Hamlet (Jenkins edition)",
+    "createdDate": "GREGORIAN:1982:1982",
+    "publishDate": "GREGORIAN:1982:1982"
   },
   "ww_42a6c34f5f492571": {
     "bookInternalId": "@010016",
@@ -6442,7 +6748,10 @@
     "isWrittenBy": [
       "ww_46b7abbd7f3bb8e7"
     ],
-    "title": "Characterization in Polonius' Advice to Laertes"
+    "hasLanguage": "English",
+    "title": "Characterization in Polonius' Advice to Laertes",
+    "createdDate": "GREGORIAN:1953:1953",
+    "publishDate": "GREGORIAN:1953:1953"
   },
   "ww_ede42cb1c3c1d408": {
     "bookInternalId": "@010027",
@@ -6450,7 +6759,10 @@
     "isWrittenBy": [
       "ww_920d3f0aede3598b"
     ],
-    "title": "Shakespeares Euphuism"
+    "hasLanguage": "English",
+    "title": "Shakespeares Euphuism",
+    "createdDate": "GREGORIAN:1871:1871",
+    "publishDate": "GREGORIAN:1871:1871"
   },
   "ww_eba183d996a233a5": {
     "bookInternalId": "@010024",
@@ -6458,7 +6770,10 @@
     "isWrittenBy": [
       "ww_b85b5bffc57af7f3"
     ],
-    "title": "Shakespeare's Living Sources"
+    "hasLanguage": "English",
+    "title": "Shakespeare's Living Sources",
+    "createdDate": "GREGORIAN:1958:1958",
+    "publishDate": "GREGORIAN:1958:1958"
   },
   "ww_5c89e8fa112ee4e8": {
     "bookInternalId": "@010135",
@@ -6466,7 +6781,10 @@
     "isWrittenBy": [
       "ww_e7afee78eca963f2"
     ],
-    "title": "Shakespeares Sayings"
+    "hasLanguage": "English",
+    "title": "Shakespeares Sayings",
+    "createdDate": "GREGORIAN:2006:2006",
+    "publishDate": "GREGORIAN:2006:2006"
   },
   "ww_7a7f311401615b8e": {
     "bookInternalId": "@005278",
@@ -6496,8 +6814,8 @@
   "ww_7f949bbd8df542c3": {
     "bookInternalId": "@001391",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_ad03d7c87e5b9c24"
+      "ww_ad03d7c87e5b9c24",
+      "ww_9594c85bc48d3759"
     ],
     "performedIn": [
       "ww_e7808d9dfc1452ef"
@@ -6512,8 +6830,8 @@
     ],
     "hasSubject": [
       "ACHTUNG MARKING",
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "Literature"
+      "Literature",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE"
     ],
     "createdDate": [
       "GREGORIAN:1603:1603"
@@ -6534,8 +6852,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
       "Theatre",
+      "Tragedy",
       "Comedy"
     ],
     "hasSubject": [
@@ -6669,8 +6987,8 @@
     "hasLanguage": "English",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
-      "Comedy"
+      "Comedy",
+      "Theatre"
     ],
     "hasSubject": [
       "ACHTUNG MARKING",
@@ -6750,7 +7068,10 @@
       "ww_d97781c5821c201b",
       "ww_b29f022218b6d47d"
     ],
-    "title": "The Collected Works of Thomas Middleton (Taylor ed"
+    "hasLanguage": "English",
+    "title": "The Collected Works of Thomas Middleton (Taylor ed",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007"
   },
   "ww_0dd45e53b3b0b09c": {
     "bookInternalId": "@010124",
@@ -6758,7 +7079,10 @@
     "isWrittenBy": [
       "ww_fac481b50f8ffd3a"
     ],
-    "title": "Acting and Violence: The Revenger's Tragedy and Its Departures from Hamlet"
+    "hasLanguage": "English",
+    "title": "Acting and Violence: The Revenger's Tragedy and Its Departures from Hamlet",
+    "createdDate": "GREGORIAN:1984:1984",
+    "publishDate": "GREGORIAN:1984:1984"
   },
   "ww_65a8b466f961261c": {
     "bookInternalId": "@001529",
@@ -6844,14 +7168,17 @@
     "isWrittenBy": [
       "ww_baa26ba822bffa2f"
     ],
-    "title": "Nathan Field, The Actor-Playwright"
+    "hasLanguage": "English",
+    "title": "Nathan Field, The Actor-Playwright",
+    "createdDate": "GREGORIAN:1928:1928",
+    "publishDate": "GREGORIAN:1928:1928"
   },
   "ww_56e2bc4eb5abe25b": {
     "bookInternalId": "@001605",
     "isWrittenBy": [
       "ww_ad03d7c87e5b9c24",
-      "ww_18abf85e413e5632",
-      "ww_4165dddf64bc6da3"
+      "ww_4165dddf64bc6da3",
+      "ww_18abf85e413e5632"
     ],
     "performedIn": [
       "ww_0f98349eee1739cf"
@@ -6934,15 +7261,15 @@
   "ww_9ad87c450d3c00aa": {
     "bookInternalId": "@001650",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "performedIn": [],
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -6980,21 +7307,21 @@
   "ww_83f40524c281e8de": {
     "bookInternalId": "@001706",
     "isWrittenBy": [
-      "ww_8926bbeaa7c56023",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_8926bbeaa7c56023"
     ],
     "performedIn": [
       "ww_0f98349eee1739cf",
       "ww_c794ca0bcf5e1168"
     ],
     "performedBy": [
-      "ww_dfe3ddd6db3b2f36",
-      "ww_271a9756145ec962"
+      "ww_271a9756145ec962",
+      "ww_dfe3ddd6db3b2f36"
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Masque or other",
-      "Theatre"
+      "Theatre",
+      "Masque or other"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -7020,8 +7347,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Masque or other",
-      "Theatre"
+      "Theatre",
+      "Masque or other"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -7072,8 +7399,8 @@
       "Verse satire"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE"
     ],
     "createdDate": [
       "GREGORIAN:1619:1619"
@@ -7138,8 +7465,8 @@
   "ww_ae445c827885ad63": {
     "bookInternalId": "@002069",
     "isWrittenBy": [
-      "ww_5cb3d6fa23800e74",
-      "ww_f10aec8cfe5ff90d"
+      "ww_f10aec8cfe5ff90d",
+      "ww_5cb3d6fa23800e74"
     ],
     "performedIn": [
       "ww_74c4ffb6231a730c"
@@ -7361,8 +7688,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
       "TO BE EDITED",
+      "ACHTUNG MARKING",
       "Philosophy, religion"
     ],
     "createdDate": [
@@ -7852,8 +8179,8 @@
   "ww_40bf667f37d87577": {
     "bookInternalId": "@005570",
     "isWrittenBy": [
-      "ww_2328c74af1f27243",
-      "ww_6b7b6aabda5c7c6b"
+      "ww_6b7b6aabda5c7c6b",
+      "ww_2328c74af1f27243"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -7881,7 +8208,10 @@
     "isWrittenBy": [
       "ww_db1e3c417981cff4"
     ],
-    "title": "Hamlet and Cicero"
+    "hasLanguage": "English",
+    "title": "Hamlet and Cicero",
+    "createdDate": "GREGORIAN:2005:2005",
+    "publishDate": "GREGORIAN:2005:2005"
   },
   "ww_57b895420c0ddd3e": {
     "bookInternalId": "@010042",
@@ -7889,7 +8219,10 @@
     "isWrittenBy": [
       "ww_9653a2d84d605ab3"
     ],
-    "title": "Shakespeare and the Classical Tradition"
+    "hasLanguage": "English",
+    "title": "Shakespeare and the Classical Tradition",
+    "createdDate": "GREGORIAN:1968:1968",
+    "publishDate": "GREGORIAN:1968:1968"
   },
   "ww_dc7d1d212ce7e04d": {
     "bookInternalId": "@005583",
@@ -7927,8 +8260,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Linguistics",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Linguistics"
     ],
     "createdDate": [
       "GREGORIAN:1563:1563"
@@ -7945,7 +8278,10 @@
     "isWrittenBy": [
       "ww_1b7c18ba49cef31d"
     ],
-    "title": "Latinized Greek Drama in Shakespeares Writing of Hamlet"
+    "hasLanguage": "English",
+    "title": "Latinized Greek Drama in Shakespeares Writing of Hamlet",
+    "createdDate": "GREGORIAN:1990:1990",
+    "publishDate": "GREGORIAN:1990:1990"
   },
   "ww_1498e206f1d8071e": {
     "bookInternalId": "@005584",
@@ -7995,8 +8331,8 @@
   "ww_26d7297a6051272d": {
     "bookInternalId": "@000426",
     "isWrittenBy": [
-      "ww_a00dfc9e63a5d0fe",
-      "ww_4620a1299d58ff72"
+      "ww_4620a1299d58ff72",
+      "ww_a00dfc9e63a5d0fe"
     ],
     "performedIn": [
       "ww_ddd1d1992c2d6f3d"
@@ -8046,7 +8382,10 @@
     "isWrittenBy": [
       "ww_25024aa23d16ec79"
     ],
-    "title": "Shakespeare, Studley, and Golding"
+    "hasLanguage": "English",
+    "title": "Shakespeare, Studley, and Golding",
+    "createdDate": "GREGORIAN:1988:1988",
+    "publishDate": "GREGORIAN:1988:1988"
   },
   "ww_e74854bf03734dac": {
     "bookInternalId": "@005708",
@@ -8101,7 +8440,10 @@
     "isWrittenBy": [
       "ww_088c813d347a6ab3"
     ],
-    "title": "Marlowe's Role in Borrowed Lines"
+    "hasLanguage": "English",
+    "title": "Marlowe's Role in Borrowed Lines",
+    "createdDate": "GREGORIAN:1937:1937",
+    "publishDate": "GREGORIAN:1937:1937"
   },
   "ww_f0311f6cc16cd154": {
     "bookInternalId": "@005588",
@@ -8200,7 +8542,10 @@
     "isWrittenBy": [
       "ww_f1930a433a3b1444"
     ],
-    "title": "Hamlet's Book"
+    "hasLanguage": "English",
+    "title": "Hamlet's Book",
+    "createdDate": "GREGORIAN:1934:1934",
+    "publishDate": "GREGORIAN:1934:1934"
   },
   "ww_e95d4765a7973201": {
     "bookInternalId": "@010103",
@@ -8208,7 +8553,10 @@
     "isWrittenBy": [
       "ww_52c61873bd0cfed4"
     ],
-    "title": "William Shakespeare and Edmund Burke: Literary Allusion in Eighteenth-Century British Political Rhetoric"
+    "hasLanguage": "English",
+    "title": "William Shakespeare and Edmund Burke: Literary Allusion in Eighteenth-Century British Political Rhetoric",
+    "createdDate": "GREGORIAN:2008:2008",
+    "publishDate": "GREGORIAN:2008:2008"
   },
   "ww_c056f9d43a397648": {
     "bookInternalId": "@005033",
@@ -8283,7 +8631,10 @@
     "isWrittenBy": [
       "ww_29ea702f67fa9c9d"
     ],
-    "title": "The Complete Works of John Lyly (Bond edition)"
+    "hasLanguage": "English",
+    "title": "The Complete Works of John Lyly (Bond edition)",
+    "createdDate": "GREGORIAN:1902:1902",
+    "publishDate": "GREGORIAN:1902:1902"
   },
   "ww_2ee4d5a8fd63e825": {
     "bookInternalId": "@005621",
@@ -8371,8 +8722,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Linguistics",
-      "Sociology, society, lifestyle"
+      "Sociology, society, lifestyle",
+      "Linguistics"
     ],
     "createdDate": [
       "GREGORIAN:1582:1582"
@@ -8434,8 +8785,8 @@
   "ww_d00e0f4b3541b720": {
     "bookInternalId": "@005251",
     "isWrittenBy": [
-      "ww_1a3350c92dc1c186",
-      "ww_81a0be98745dd98b"
+      "ww_81a0be98745dd98b",
+      "ww_1a3350c92dc1c186"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -8640,7 +8991,10 @@
     "isWrittenBy": [
       "ww_70fe0bbcf8eba76a"
     ],
-    "title": "Chambers Facts and Problems"
+    "hasLanguage": "English",
+    "title": "Chambers Facts and Problems",
+    "createdDate": "GREGORIAN:1930:1930",
+    "publishDate": "GREGORIAN:1930:1930"
   },
   "ww_99c58762296b12b6": {
     "bookInternalId": "@005633",
@@ -8799,7 +9153,10 @@
     "isWrittenBy": [
       "ww_e36884fe4910b693"
     ],
-    "title": "Marlovian Residue in Jonson's Poetaster"
+    "hasLanguage": "English",
+    "title": "Marlovian Residue in Jonson's Poetaster",
+    "createdDate": "GREGORIAN:2014:2014",
+    "publishDate": "GREGORIAN:2014:2014"
   },
   "ww_16aa75011d029064": {
     "bookInternalId": "@000784",
@@ -8807,8 +9164,8 @@
       "ww_63d5fe36ffac5d32"
     ],
     "performedIn": [
-      "ww_ddd1d1992c2d6f3d",
-      "ww_65d3b57b79bd6da1"
+      "ww_65d3b57b79bd6da1",
+      "ww_ddd1d1992c2d6f3d"
     ],
     "performedBy": [
       "ww_312616f20d6e5e9b"
@@ -8837,8 +9194,8 @@
       "ww_116917d934be52dd"
     ],
     "performedIn": [
-      "ww_ddd1d1992c2d6f3d",
-      "ww_65d3b57b79bd6da1"
+      "ww_65d3b57b79bd6da1",
+      "ww_ddd1d1992c2d6f3d"
     ],
     "performedBy": [
       "ww_06311c47190f2d0a"
@@ -8867,7 +9224,10 @@
     "isWrittenBy": [
       "ww_5afc403ede1322a7"
     ],
-    "title": "Hamlet's Horatio as an Allusion to Horace's Odes"
+    "hasLanguage": "English",
+    "title": "Hamlet's Horatio as an Allusion to Horace's Odes",
+    "createdDate": "GREGORIAN:2012:2012",
+    "publishDate": "GREGORIAN:2012:2012"
   },
   "ww_55406532e3cd0a84": {
     "bookInternalId": "@010147",
@@ -8875,7 +9235,10 @@
     "isWrittenBy": [
       "ww_5292e9f9b3764075"
     ],
-    "title": "Dismember Me: Shakespeare, Paranoia, and the Logic of Mass Culture"
+    "hasLanguage": "English",
+    "title": "Dismember Me: Shakespeare, Paranoia, and the Logic of Mass Culture",
+    "createdDate": "GREGORIAN:1997:1997",
+    "publishDate": "GREGORIAN:1997:1997"
   },
   "ww_6a0b1e5914da6bee": {
     "bookInternalId": "@010036",
@@ -8883,7 +9246,10 @@
     "isWrittenBy": [
       "ww_e9cb87724e65b28f"
     ],
-    "title": "Looking for Hamlet"
+    "hasLanguage": "English",
+    "title": "Looking for Hamlet",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007"
   },
   "ww_10ccfff324728f4d": {
     "bookInternalId": "@000799",
@@ -8924,8 +9290,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -8943,7 +9309,10 @@
     "isWrittenBy": [
       "ww_2911679e197a56ec"
     ],
-    "title": "Vergil in England"
+    "hasLanguage": "English",
+    "title": "Vergil in England",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964"
   },
   "ww_dde817ac993ab4da": {
     "bookInternalId": "@000803",
@@ -9255,7 +9624,10 @@
     "isWrittenBy": [
       "ww_4aad8076b21701ae"
     ],
-    "title": "Shakespeare and Nashe's 'Pierce Pennilesse' I"
+    "hasLanguage": "English",
+    "title": "Shakespeare and Nashe's 'Pierce Pennilesse' I",
+    "createdDate": "GREGORIAN:1953:1953",
+    "publishDate": "GREGORIAN:1953:1953"
   },
   "ww_1346944d637cbc76": {
     "bookInternalId": "@010088",
@@ -9263,7 +9635,10 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Shakespeare Allusions"
+    "hasLanguage": "English",
+    "title": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1912:1912",
+    "publishDate": "GREGORIAN:1912:1912"
   },
   "ww_c81f995a09baa142": {
     "bookInternalId": "@005564",
@@ -9457,7 +9832,10 @@
     "isWrittenBy": [
       "ww_352af22fad3f766f"
     ],
-    "title": "Some by Stenography"
+    "hasLanguage": "English",
+    "title": "Some by Stenography",
+    "createdDate": "GREGORIAN:1996:1996",
+    "publishDate": "GREGORIAN:1996:1996"
   },
   "ww_adfdbd7c6a7b7a62": {
     "bookInternalId": "@010060",
@@ -9465,7 +9843,10 @@
     "isWrittenBy": [
       "ww_196318c17e1ae6d2"
     ],
-    "title": "Shakespeare and Shorthand Once Again"
+    "hasLanguage": "English",
+    "title": "Shakespeare and Shorthand Once Again",
+    "createdDate": "GREGORIAN:2010:2010",
+    "publishDate": "GREGORIAN:2010:2010"
   },
   "ww_b2ee01ef371c8ee8": {
     "bookInternalId": "@001080",
@@ -9641,7 +10022,10 @@
     "isWrittenBy": [
       "ww_330dc7a83f0d7fd6"
     ],
-    "title": "The Classical Element in the Shakespeare Plays"
+    "hasLanguage": "English",
+    "title": "The Classical Element in the Shakespeare Plays",
+    "createdDate": "GREGORIAN:1909:1909",
+    "publishDate": "GREGORIAN:1909:1909"
   },
   "ww_842318fc1c593591": {
     "bookInternalId": "@010136",
@@ -9649,7 +10033,10 @@
     "isWrittenBy": [
       "ww_0ddc123b822a1712"
     ],
-    "title": "His Collaborator George Wilkins"
+    "hasLanguage": "English",
+    "title": "His Collaborator George Wilkins",
+    "createdDate": "GREGORIAN:2015:2015",
+    "publishDate": "GREGORIAN:2015:2015"
   },
   "ww_94da1c067c3069f6": {
     "bookInternalId": "@010069",
@@ -9657,17 +10044,23 @@
     "isWrittenBy": [
       "ww_09a5cd76696f88a5"
     ],
-    "title": "Ophelia's Version of the Walsingham Song"
+    "hasLanguage": "English",
+    "title": "Ophelia's Version of the Walsingham Song",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964"
   },
   "ww_3dd50e3c55b75ee6": {
     "bookInternalId": "@010101",
     "edition": "eds. The Collected Works of Abraham Cowley. 3 vols. Newark: University of Delaware Press, 1989.",
     "isWrittenBy": [
+      "ww_0ec070acc1a8c693",
       "ww_d5b779fffbf80505",
-      "ww_02df784376aa9b65",
-      "ww_0ec070acc1a8c693"
+      "ww_02df784376aa9b65"
     ],
-    "title": "The Collected Works of Abraham Cowley"
+    "hasLanguage": "English",
+    "title": "The Collected Works of Abraham Cowley",
+    "createdDate": "GREGORIAN:1989:1989",
+    "publishDate": "GREGORIAN:1989:1989"
   },
   "ww_8b579df902809521": {
     "bookInternalId": "@005249",
@@ -9675,7 +10068,10 @@
     "isWrittenBy": [
       "ww_46c46082234d6025"
     ],
-    "title": "An Early Hamlet Echo?"
+    "hasLanguage": "English",
+    "title": "An Early Hamlet Echo?",
+    "createdDate": "GREGORIAN:1963:1963",
+    "publishDate": "GREGORIAN:1963:1963"
   },
   "ww_47c84395b30bd53b": {
     "bookInternalId": "@010092",
@@ -9683,7 +10079,10 @@
     "isWrittenBy": [
       "ww_166f75ce43f038e3"
     ],
-    "title": "The Pictures in Hamlet III-iv - A Possible Contemporary"
+    "hasLanguage": "English",
+    "title": "The Pictures in Hamlet III-iv - A Possible Contemporary",
+    "createdDate": "GREGORIAN:1952:1952",
+    "publishDate": "GREGORIAN:1952:1952"
   },
   "ww_0e724284cf7ebd32": {
     "bookInternalId": "@005262",
@@ -9815,7 +10214,10 @@
     "isWrittenBy": [
       "ww_4eb3d59f66c6b3a5"
     ],
-    "title": "How a Man May Choose a Good Wife from a Bad"
+    "hasLanguage": "German",
+    "title": "How a Man May Choose a Good Wife from a Bad",
+    "createdDate": "GREGORIAN:1912:1912",
+    "publishDate": "GREGORIAN:1912:1912"
   },
   "ww_9b5ce7eda160cdbb": {
     "bookInternalId": "@000270",
@@ -9846,7 +10248,10 @@
     "isWrittenBy": [
       "ww_db0f93eb54e77e5f"
     ],
-    "title": "The Broken Heart (Spencer edition)"
+    "hasLanguage": "English",
+    "title": "The Broken Heart (Spencer edition)",
+    "createdDate": "GREGORIAN:1980:1980",
+    "publishDate": "GREGORIAN:1980:1980"
   },
   "ww_b34835e3d62ac277": {
     "bookInternalId": "@001393",
@@ -9878,7 +10283,10 @@
     "isWrittenBy": [
       "ww_4491e2ccf9b5d7e6"
     ],
-    "title": "Early Responses to Renaissance Drama"
+    "hasLanguage": "English",
+    "title": "Early Responses to Renaissance Drama",
+    "createdDate": "GREGORIAN:2006:2006",
+    "publishDate": "GREGORIAN:2006:2006"
   },
   "ww_c06d85b9feeb268d": {
     "bookInternalId": "@001427",
@@ -10024,8 +10432,8 @@
   "ww_cc822907a2bf276a": {
     "bookInternalId": "@001459",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_c298754546b2500e"
     ],
     "performedIn": [
       "ww_185cddace7e03495"
@@ -10057,7 +10465,10 @@
     "isWrittenBy": [
       "ww_f5bf6503bd4e3d9b"
     ],
-    "title": "Marston, Rivalry, Rapprochement and Jonson"
+    "hasLanguage": "English",
+    "title": "Marston, Rivalry, Rapprochement and Jonson",
+    "createdDate": "GREGORIAN:2008:2008",
+    "publishDate": "GREGORIAN:2008:2008"
   },
   "ww_c1f1bfbc9b90a99e": {
     "bookInternalId": "@001532",
@@ -10097,8 +10508,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
       "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE",
       "Philosophy, religion"
     ],
     "createdDate": [
@@ -10113,12 +10524,12 @@
   "ww_130444632fa8c6c9": {
     "bookInternalId": "@001598",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "performedIn": [
-      "ww_ddd1d1992c2d6f3d",
-      "ww_0f98349eee1739cf"
+      "ww_0f98349eee1739cf",
+      "ww_ddd1d1992c2d6f3d"
     ],
     "performedBy": [
       "ww_b103d94d309afeef"
@@ -10170,8 +10581,8 @@
   "ww_78616e66e6b9adab": {
     "bookInternalId": "@001626",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "performedIn": [
       "ww_0f98349eee1739cf"
@@ -10244,10 +10655,10 @@
   "ww_853fbe2469df3cb4": {
     "bookInternalId": "@001719",
     "isWrittenBy": [
-      "ww_ba2bed49492fef13",
-      "ww_8926bbeaa7c56023",
+      "ww_3cc0cce5b6bf554a",
       "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_ba2bed49492fef13",
+      "ww_8926bbeaa7c56023"
     ],
     "performedIn": [
       "ww_c794ca0bcf5e1168"
@@ -10319,9 +10730,9 @@
   "ww_c385ab8330981bbe": {
     "bookInternalId": "@005007",
     "isWrittenBy": [
-      "ww_060fb51fdafb3cc5",
+      "ww_02a32352c63afb30",
       "ww_39384a524a7bafbe",
-      "ww_02a32352c63afb30"
+      "ww_060fb51fdafb3cc5"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -10365,8 +10776,8 @@
   "ww_9cef169b0b560107": {
     "bookInternalId": "@002023",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_c298754546b2500e"
     ],
     "performedIn": [
       "ww_51838c979d2a7349"
@@ -10394,8 +10805,8 @@
   "ww_ba33ed8c6b004bed": {
     "bookInternalId": "@002020",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9",
@@ -10674,7 +11085,10 @@
     "isWrittenBy": [
       "ww_d031de8fd298348b"
     ],
-    "title": "Fictions of Collaboration: Authors and Editors in the Sixteenth Century"
+    "hasLanguage": "English",
+    "title": "Fictions of Collaboration: Authors and Editors in the Sixteenth Century",
+    "createdDate": "GREGORIAN:2011:2011",
+    "publishDate": "GREGORIAN:2011:2011"
   },
   "ww_dae5dcd8a7fc9bcd": {
     "bookInternalId": "@005595",
@@ -10714,8 +11128,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "Literature",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Literature"
     ],
     "createdDate": [
       "GREGORIAN:1636:1636"
@@ -10979,7 +11393,10 @@
     "isWrittenBy": [
       "ww_fb4c23b975f61207"
     ],
-    "title": "The Nature of Roman Comedy"
+    "hasLanguage": "English",
+    "title": "The Nature of Roman Comedy",
+    "createdDate": "GREGORIAN:1994:1994",
+    "publishDate": "GREGORIAN:1994:1994"
   },
   "ww_1295fda82fd63785": {
     "bookInternalId": "@005016",
@@ -11010,7 +11427,10 @@
     "isWrittenBy": [
       "ww_d8fac036ba8d11bb"
     ],
-    "title": "Latin Aphorisms and Proverbs"
+    "hasLanguage": "English",
+    "title": "Latin Aphorisms and Proverbs",
+    "createdDate": "GREGORIAN:1872:1872",
+    "publishDate": "GREGORIAN:1872:1872"
   },
   "ww_d5169601da008340": {
     "bookInternalId": "@000256",
@@ -11081,7 +11501,10 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "Loeb Classics"
+    "hasLanguage": "Latin",
+    "title": "Loeb Classics",
+    "createdDate": "GREGORIAN:2019:2019",
+    "publishDate": "GREGORIAN:2019:2019"
   },
   "ww_dd8dc20e80148054": {
     "bookInternalId": "@005191",
@@ -11110,7 +11533,10 @@
     "isWrittenBy": [
       "ww_e64ab7a76b62b42b"
     ],
-    "title": "Shakespeare and the Classics"
+    "hasLanguage": "English",
+    "title": "Shakespeare and the Classics",
+    "createdDate": "GREGORIAN:1952:1952",
+    "publishDate": "GREGORIAN:1952:1952"
   },
   "ww_c1b0ed60ba0058cb": {
     "bookInternalId": "@006115",
@@ -11257,8 +11683,8 @@
       "Letter"
     ],
     "hasSubject": [
-      "RESEARCH PENDING",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "RESEARCH PENDING"
     ],
     "createdDate": [
       "GREGORIAN:1001:1001"
@@ -11318,9 +11744,9 @@
   "ww_c5e133e72906221d": {
     "bookInternalId": "@005654",
     "isWrittenBy": [
+      "ww_4f4a27981f1d2a14",
       "ww_9a8e158285763a3c",
-      "ww_2527046b014ff66d",
-      "ww_4f4a27981f1d2a14"
+      "ww_2527046b014ff66d"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -11415,7 +11841,10 @@
     "isWrittenBy": [
       "ww_b03485399e74fd98"
     ],
-    "title": "The Marking of Sententiae in Elizabethan Printed Plays, Poems and Romances"
+    "hasLanguage": "English",
+    "title": "The Marking of Sententiae in Elizabethan Printed Plays, Poems and Romances",
+    "createdDate": "GREGORIAN:1952:1952",
+    "publishDate": "GREGORIAN:1952:1952"
   },
   "ww_eae274bec50e86ca": {
     "bookInternalId": "@000389",
@@ -11448,7 +11877,10 @@
       "ww_8cc851dd71197e11",
       "ww_371ed44cf3e4e5e4"
     ],
-    "title": "DEEP Database of Early English Playbooks"
+    "hasLanguage": "English",
+    "title": "DEEP Database of Early English Playbooks",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007"
   },
   "ww_2fa5a9bb2a67257a": {
     "bookInternalId": "@010131",
@@ -11456,7 +11888,10 @@
     "isWrittenBy": [
       "ww_d445647247f3f748"
     ],
-    "title": "The Homiletic Tradition in Shakespeare's Plays"
+    "hasLanguage": "English",
+    "title": "The Homiletic Tradition in Shakespeare's Plays",
+    "createdDate": "GREGORIAN:1966:1967",
+    "publishDate": "GREGORIAN:1966:1967"
   },
   "ww_75159bf6f5fdb9bc": {
     "bookInternalId": "@000700",
@@ -11471,8 +11906,8 @@
     ],
     "hasLanguage": "English",
     "hasGenre": [
-      "Masque or other",
-      "Theatre"
+      "Theatre",
+      "Masque or other"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -11496,8 +11931,8 @@
       "Poetry unspecified"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE"
     ],
     "createdDate": [
       "GREGORIAN:1584:1584"
@@ -11512,8 +11947,8 @@
   "ww_26d98dfaca290f43": {
     "bookInternalId": "@000829",
     "isWrittenBy": [
-      "ww_31ef7df7935b492f",
-      "ww_ce2fb5bd491a4d2e"
+      "ww_ce2fb5bd491a4d2e",
+      "ww_31ef7df7935b492f"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -11559,7 +11994,10 @@
     "isWrittenBy": [
       "ww_71c35dc91de8b585"
     ],
-    "title": "Quellenstudien Jonson, Marston, Beaumont, Fletcher"
+    "hasLanguage": "German",
+    "title": "Quellenstudien Jonson, Marston, Beaumont, Fletcher",
+    "createdDate": "GREGORIAN:1895:1895",
+    "publishDate": "GREGORIAN:1895:1895"
   },
   "ww_a779d6e5235e610e": {
     "bookInternalId": "@010106",
@@ -11567,7 +12005,10 @@
     "isWrittenBy": [
       "ww_0892ee27a956341b"
     ],
-    "title": "A Possible 1594 Reference to Hamlet"
+    "hasLanguage": "English",
+    "title": "A Possible 1594 Reference to Hamlet",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964"
   },
   "ww_a4d935e148cb86d4": {
     "bookInternalId": "@010034",
@@ -11575,7 +12016,10 @@
     "isWrittenBy": [
       "ww_aee1340a336646a7"
     ],
-    "title": "Shakespeare in Quotation Marks"
+    "hasLanguage": "English",
+    "title": "Shakespeare in Quotation Marks",
+    "createdDate": "GREGORIAN:1991:1991",
+    "publishDate": "GREGORIAN:1991:1991"
   },
   "ww_d57fe99db4adc1d0": {
     "bookInternalId": "@010144",
@@ -11583,7 +12027,10 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Shakespeare Allusion"
+    "hasLanguage": "English",
+    "title": "Shakespeare Allusion",
+    "createdDate": "GREGORIAN:1909:1909",
+    "publishDate": "GREGORIAN:1909:1909"
   },
   "ww_0e81aac8108a83fe": {
     "bookInternalId": "@001049",
@@ -11594,12 +12041,12 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "Theatre",
+      "History"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
       "TO BE EDITED",
+      "ACHTUNG MARKING",
       "Literature"
     ],
     "createdDate": [
@@ -11642,7 +12089,10 @@
     "isWrittenBy": [
       "ww_bee6ba91f2c450cd"
     ],
-    "title": "Hamlet (Mueller edition)"
+    "hasLanguage": "English",
+    "title": "Hamlet (Mueller edition)",
+    "createdDate": "GREGORIAN:2006:2006",
+    "publishDate": "GREGORIAN:2006:2006"
   },
   "ww_c85d746358e196e6": {
     "bookInternalId": "@010089",
@@ -11650,7 +12100,10 @@
     "isWrittenBy": [
       "ww_212c78497ddc32c5"
     ],
-    "title": "The Annual Register"
+    "hasLanguage": "English",
+    "title": "The Annual Register",
+    "createdDate": "GREGORIAN:1779:1779",
+    "publishDate": "GREGORIAN:1779:1779"
   },
   "ww_e14966f62e338b68": {
     "bookInternalId": "@010137",
@@ -11658,7 +12111,10 @@
     "isWrittenBy": [
       "ww_240bf4a7d8bc0162"
     ],
-    "title": "The Real Shakespeare"
+    "hasLanguage": "English",
+    "title": "The Real Shakespeare",
+    "createdDate": "GREGORIAN:1995:1995",
+    "publishDate": "GREGORIAN:1995:1995"
   },
   "ww_9cfbf2557c0bd6a1": {
     "bookInternalId": "@005607",
@@ -11737,9 +12193,9 @@
   "ww_4b7d449974e0cb7a": {
     "bookInternalId": "@001235",
     "isWrittenBy": [
-      "ww_d888f97beb7a5e1c",
+      "ww_87dbd52f1c5b813b",
       "ww_947a2e721f016a03",
-      "ww_87dbd52f1c5b813b"
+      "ww_d888f97beb7a5e1c"
     ],
     "performedIn": [
       "ww_65d3b57b79bd6da1"
@@ -11842,7 +12298,10 @@
     "isWrittenBy": [
       "ww_20caee65dfff9798"
     ],
-    "title": "Francis Beaumont's Allusions to Shakespeare in The Woman Hater"
+    "hasLanguage": "English",
+    "title": "Francis Beaumont's Allusions to Shakespeare in The Woman Hater",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007"
   },
   "ww_cd4449a9f288f0d1": {
     "bookInternalId": "@010099",
@@ -11850,7 +12309,10 @@
     "isWrittenBy": [
       "ww_dad51991851a1bbf"
     ],
-    "title": "The Works of George Chapman (Shepherd edition)"
+    "hasLanguage": "English",
+    "title": "The Works of George Chapman (Shepherd edition)",
+    "createdDate": "GREGORIAN:1874:1874",
+    "publishDate": "GREGORIAN:1874:1874"
   },
   "ww_db1a4862e86e9cd4": {
     "bookInternalId": "@001443",
@@ -11917,8 +12379,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "History, (auto-)biography",
-      "Sociology, society, lifestyle"
+      "Sociology, society, lifestyle",
+      "History, (auto-)biography"
     ],
     "createdDate": [
       "GREGORIAN:1605:1605"
@@ -11936,7 +12398,10 @@
     "isWrittenBy": [
       "ww_759d754d3536439c"
     ],
-    "title": "Hamlet's Last Words"
+    "hasLanguage": "English",
+    "title": "Hamlet's Last Words",
+    "createdDate": "GREGORIAN:1995:1995",
+    "publishDate": "GREGORIAN:1995:1995"
   },
   "ww_9d64f79445831f4a": {
     "bookInternalId": "@005599",
@@ -12061,13 +12526,13 @@
     "hasLanguage": "English",
     "hasGenre": [
       "Verse satire",
-      "Epic and verse narrative",
-      "Poetry unspecified"
+      "Poetry unspecified",
+      "Epic and verse narrative"
     ],
     "hasSubject": [
-      "RESEARCH PENDING",
       "TO BE EDITED",
-      "HISTORICAL PAGE"
+      "HISTORICAL PAGE",
+      "RESEARCH PENDING"
     ],
     "createdDate": [
       "GREGORIAN:1609:1610"
@@ -12085,7 +12550,10 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Shakespeare Allusions"
+    "hasLanguage": "English",
+    "title": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1911:1911",
+    "publishDate": "GREGORIAN:1911:1911"
   },
   "ww_7c8c81e3f77f5c22": {
     "bookInternalId": "@001616",
@@ -12192,7 +12660,10 @@
       "ww_0dcc7c7b0e0a7ba2",
       "ww_dbf15ae40aa8f01d"
     ],
-    "title": "DEx Dramatic Extracts"
+    "hasLanguage": "English",
+    "title": "DEx Dramatic Extracts",
+    "createdDate": "GREGORIAN:2019:2019",
+    "publishDate": "GREGORIAN:2019:2019"
   },
   "ww_7efa074605611a3a": {
     "bookInternalId": "@006122",
@@ -12275,8 +12746,8 @@
   "ww_0b39d97642290286": {
     "bookInternalId": "@001841",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9",
@@ -12375,8 +12846,8 @@
   "ww_5b588741e925caf2": {
     "bookInternalId": "@001866",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9",
@@ -12425,8 +12896,8 @@
   "ww_dbc39cf74839a823": {
     "bookInternalId": "@001941",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9",
@@ -12455,8 +12926,8 @@
   "ww_e75a31f6badbafe7": {
     "bookInternalId": "@001948",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -12549,8 +13020,8 @@
   "ww_87dc617210b92e48": {
     "bookInternalId": "@002085",
     "isWrittenBy": [
-      "ww_c1c75e8b202bbbee",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_c1c75e8b202bbbee"
     ],
     "performedIn": [
       "ww_74c4ffb6231a730c"
@@ -12652,8 +13123,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Epic and verse narrative",
-      "Poetry unspecified"
+      "Poetry unspecified",
+      "Epic and verse narrative"
     ],
     "hasSubject": [
       "AFTER TRANSFER FIX BIBLIO OR GENRE"
@@ -12866,7 +13337,10 @@
     "isWrittenBy": [
       "ww_8e7c5e1273330b8d"
     ],
-    "title": "Farther Particulars regarding Shakespeare"
+    "hasLanguage": "English",
+    "title": "Farther Particulars regarding Shakespeare",
+    "createdDate": "GREGORIAN:1839:1839",
+    "publishDate": "GREGORIAN:1839:1839"
   },
   "ww_b21d0ca00a1e7038": {
     "bookInternalId": "@002715",
@@ -12924,7 +13398,10 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Shakespeare Allusions"
+    "hasLanguage": "English",
+    "title": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1909:1909",
+    "publishDate": "GREGORIAN:1909:1909"
   },
   "ww_66f4904e68ef8e77": {
     "bookInternalId": "@005156",
@@ -12956,7 +13433,10 @@
     "isWrittenBy": [
       "ww_4cf2d2f81816aed2"
     ],
-    "title": "Shakespeare Allusions"
+    "hasLanguage": "English",
+    "title": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1909:1909",
+    "publishDate": "GREGORIAN:1909:1909"
   },
   "ww_b42154be583e764f": {
     "bookInternalId": "@006135",
@@ -12994,8 +13474,8 @@
       "Anthology"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "ACHTUNG MARKING"
     ],
     "createdDate": [
       "GREGORIAN:1648:1648"
@@ -13294,8 +13774,8 @@
       "Anthology"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "ACHTUNG MARKING"
     ],
     "createdDate": [
       "GREGORIAN:1655:1655"
@@ -13338,8 +13818,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Biographical or historicizing",
-      "Epic and verse narrative"
+      "Epic and verse narrative",
+      "Biographical or historicizing"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -13424,7 +13904,10 @@
     "isWrittenBy": [
       "ww_90dfde11c66bf938"
     ],
-    "title": "Some Further Shakspere Allusions or Parallels"
+    "hasLanguage": "English",
+    "title": "Some Further Shakspere Allusions or Parallels",
+    "createdDate": "GREGORIAN:1918:1918",
+    "publishDate": "GREGORIAN:1918:1918"
   },
   "ww_c42b80eb2111c736": {
     "bookInternalId": "@005159",
@@ -13614,7 +14097,10 @@
     "isWrittenBy": [
       "ww_9cb12dabd79aaa48"
     ],
-    "title": "The Making of the National Poet"
+    "hasLanguage": "English",
+    "title": "The Making of the National Poet",
+    "createdDate": "GREGORIAN:1992:1992",
+    "publishDate": "GREGORIAN:1992:1992"
   },
   "ww_42b80558396b524c": {
     "bookInternalId": "@005237",
@@ -13628,8 +14114,8 @@
       "Poetry unspecified"
     ],
     "hasSubject": [
-      "History, (auto-)biography",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "History, (auto-)biography"
     ],
     "createdDate": [
       "GREGORIAN:1662:1662"
@@ -13690,16 +14176,22 @@
     "isWrittenBy": [
       "ww_074785f50aa8a606"
     ],
-    "title": "After Shakespeare"
+    "hasLanguage": "English",
+    "title": "After Shakespeare",
+    "createdDate": "GREGORIAN:2002:2002",
+    "publishDate": "GREGORIAN:2002:2002"
   },
   "ww_e5c5130f309e279d": {
     "bookInternalId": "@005264",
     "edition": "eds. The Diary of Samuel Pepys. 11 vols. London: G. Bell and Sons, 1970-1983.",
     "isWrittenBy": [
-      "ww_7eeba8f5c3297504",
-      "ww_993c302bdd89aa39"
+      "ww_993c302bdd89aa39",
+      "ww_7eeba8f5c3297504"
     ],
-    "title": "Diary of Samuel Pepys (Latham edition)"
+    "hasLanguage": "English",
+    "title": "Diary of Samuel Pepys (Latham edition)",
+    "createdDate": "GREGORIAN:1970:1983",
+    "publishDate": "GREGORIAN:1970:1983"
   },
   "ww_db2d9b4ec38dee80": {
     "bookInternalId": "@005239",
@@ -13728,7 +14220,10 @@
     "isWrittenBy": [
       "ww_8e781f3f3e6e8547"
     ],
-    "title": "Paradise Regained (Dunster edition)"
+    "hasLanguage": "English",
+    "title": "Paradise Regained (Dunster edition)",
+    "createdDate": "GREGORIAN:1800:1800",
+    "publishDate": "GREGORIAN:1800:1800"
   },
   "ww_78d881f66c1ae0ec": {
     "bookInternalId": "@006128",
@@ -13754,9 +14249,9 @@
   "ww_afbbb2ab73283de3": {
     "bookInternalId": "@005702",
     "isWrittenBy": [
-      "ww_407a959f593ee80f",
+      "ww_7dc9f7dd1b39e216",
       "ww_d8f1d08e1ca080b7",
-      "ww_7dc9f7dd1b39e216"
+      "ww_407a959f593ee80f"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -13851,8 +14346,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "AFTER TRANSFER FIX BIBLIO OR GENRE"
@@ -14007,7 +14502,10 @@
     "isWrittenBy": [
       "ww_cfc974ec4e221d48"
     ],
-    "title": "Shakespeare as Collaborator"
+    "hasLanguage": "English",
+    "title": "Shakespeare as Collaborator",
+    "createdDate": "GREGORIAN:1960:1960",
+    "publishDate": "GREGORIAN:1960:1960"
   },
   "ww_9412fba12ddffaa6": {
     "bookInternalId": "@010156",
@@ -14015,7 +14513,10 @@
     "isWrittenBy": [
       "ww_e212a52f4b94ffc2"
     ],
-    "title": "Shps Life (Malone)"
+    "hasLanguage": "English",
+    "title": "Shps Life (Malone)",
+    "createdDate": "GREGORIAN:1821:1821",
+    "publishDate": "GREGORIAN:1821:1821"
   },
   "ww_ace9a53b36cc6f33": {
     "bookInternalId": "@001149",
@@ -14029,8 +14530,8 @@
       "Tragicomedy"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE"
     ],
     "createdDate": [
       "GREGORIAN:1598:1598"
@@ -14071,7 +14572,10 @@
     "isWrittenBy": [
       "ww_33afa4e6fa4fb921"
     ],
-    "title": "Shakespeare and Jonson Their Reputations"
+    "hasLanguage": "English",
+    "title": "Shakespeare and Jonson Their Reputations",
+    "createdDate": "GREGORIAN:1945:1945",
+    "publishDate": "GREGORIAN:1945:1945"
   },
   "ww_afbf7a5ea45be9ae": {
     "bookInternalId": "@005196",
@@ -14079,7 +14583,10 @@
     "isWrittenBy": [
       "ww_cb891a49cd7b3fb7"
     ],
-    "title": "Reliques of Ancient English Poetry"
+    "hasLanguage": "English",
+    "title": "Reliques of Ancient English Poetry",
+    "createdDate": "GREGORIAN:1767:1767",
+    "publishDate": "GREGORIAN:1767:1767"
   },
   "ww_bbccb861f731b4ac": {
     "bookInternalId": "@010035",
@@ -14087,7 +14594,10 @@
     "isWrittenBy": [
       "ww_0e83049151ab9db5"
     ],
-    "title": "Rewriting Shp, Rewriting Ourselves"
+    "hasLanguage": "English",
+    "title": "Rewriting Shp, Rewriting Ourselves",
+    "createdDate": "GREGORIAN:1991:1991",
+    "publishDate": "GREGORIAN:1991:1991"
   },
   "ww_d2b6a1468adfe82f": {
     "bookInternalId": "@010127",
@@ -14095,7 +14605,10 @@
     "isWrittenBy": [
       "ww_e76f94e7ed1e6bc7"
     ],
-    "title": "Complete Prose Works of John Milton (Wolfe edition"
+    "hasLanguage": "English",
+    "title": "Complete Prose Works of John Milton (Wolfe edition",
+    "createdDate": "GREGORIAN:1953:1953",
+    "publishDate": "GREGORIAN:1953:1953"
   },
   "ww_a0b03d8338a97753": {
     "bookInternalId": "@010146",
@@ -14103,7 +14616,10 @@
     "isWrittenBy": [
       "ww_8e7c5e1273330b8d"
     ],
-    "title": "Memoirs of the Principal Actors"
+    "hasLanguage": "English",
+    "title": "Memoirs of the Principal Actors",
+    "createdDate": "GREGORIAN:1846:1846",
+    "publishDate": "GREGORIAN:1846:1846"
   },
   "ww_4267611ff26df85d": {
     "bookInternalId": "@005677",
@@ -14114,8 +14630,8 @@
     "performedBy": [],
     "hasLanguage": "English",
     "hasGenre": [
-      "Epic and verse narrative",
-      "Poetry unspecified"
+      "Poetry unspecified",
+      "Epic and verse narrative"
     ],
     "hasSubject": [],
     "createdDate": [
@@ -14341,7 +14857,10 @@
     "isWrittenBy": [
       "ww_d9a0f38107e50298"
     ],
-    "title": "The Female Rebellion (Glasgow edition)"
+    "hasLanguage": "English",
+    "title": "The Female Rebellion (Glasgow edition)",
+    "createdDate": "GREGORIAN:1872:1872",
+    "publishDate": "GREGORIAN:1872:1872"
   },
   "ww_8d286894aabccabd": {
     "bookInternalId": "@005184",
@@ -14355,9 +14874,9 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "History, (auto-)biography",
       "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "Sociology, society, lifestyle"
+      "Sociology, society, lifestyle",
+      "History, (auto-)biography"
     ],
     "createdDate": [
       "GREGORIAN:1605:1605"
@@ -14397,7 +14916,10 @@
     "isWrittenBy": [
       "ww_34db9be0ab5f2a5a"
     ],
-    "title": "The Works of Cyril Tourneur (Nicholl edition)"
+    "hasLanguage": "English",
+    "title": "The Works of Cyril Tourneur (Nicholl edition)",
+    "createdDate": "GREGORIAN:1963:1963",
+    "publishDate": "GREGORIAN:1963:1963"
   },
   "ww_c80dac73ae5a63dd": {
     "bookInternalId": "@001493",
@@ -14411,8 +14933,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
       "TO BE EDITED",
+      "ACHTUNG MARKING",
       "Literature"
     ],
     "createdDate": [
@@ -14582,7 +15104,10 @@
     "isWrittenBy": [
       "ww_7d4f72755c62b272"
     ],
-    "title": "Shakespeare and the History of Soliloquies"
+    "hasLanguage": "English",
+    "title": "Shakespeare and the History of Soliloquies",
+    "createdDate": "GREGORIAN:2003:2003",
+    "publishDate": "GREGORIAN:2003:2003"
   },
   "ww_74f72e8bfd7db636": {
     "bookInternalId": "@005271",
@@ -14634,8 +15159,8 @@
   "ww_9fa3746267178cf3": {
     "bookInternalId": "@001597",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9"
@@ -14735,13 +15260,16 @@
     "isWrittenBy": [
       "ww_5d7f23a1d19bd9b9"
     ],
-    "title": "Sir Thomas North as Sir John Daw"
+    "hasLanguage": "English",
+    "title": "Sir Thomas North as Sir John Daw",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007"
   },
   "ww_ac80b76a5d2b6cef": {
     "bookInternalId": "@001636",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -14831,8 +15359,8 @@
   "ww_08d01fa968762b1d": {
     "bookInternalId": "@001633",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_c298754546b2500e"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -14859,13 +15387,16 @@
     "isWrittenBy": [
       "ww_5e70e88aae58b65f"
     ],
-    "title": "The Roaring Girl (Cook Edition)"
+    "hasLanguage": "English",
+    "title": "The Roaring Girl (Cook Edition)",
+    "createdDate": "GREGORIAN:1997:1997",
+    "publishDate": "GREGORIAN:1997:1997"
   },
   "ww_f00772b94c24760c": {
     "bookInternalId": "@010159",
     "isWrittenBy": [
-      "ww_7cd5ba90f47f0576",
-      "ww_fd0b3545953a41f0"
+      "ww_fd0b3545953a41f0",
+      "ww_7cd5ba90f47f0576"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -14874,8 +15405,8 @@
       "Anthology"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "ACHTUNG MARKING"
     ],
     "createdDate": [
       "GREGORIAN:1612:1612"
@@ -14970,8 +15501,8 @@
       "Poetry unspecified"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE"
     ],
     "createdDate": [
       "GREGORIAN:1613:1613"
@@ -15010,8 +15541,8 @@
   "ww_a098807155d60ffb": {
     "bookInternalId": "@005126",
     "isWrittenBy": [
-      "ww_87547eb3eadc52d8",
-      "ww_e92e9dc9d65ade56"
+      "ww_e92e9dc9d65ade56",
+      "ww_87547eb3eadc52d8"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -15032,8 +15563,8 @@
   "ww_45a81ddd84af6769": {
     "bookInternalId": "@001758",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -15064,8 +15595,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
       "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE",
       "Sociology, society, lifestyle",
       "Philosophy, religion"
     ],
@@ -15106,8 +15637,8 @@
   "ww_6a224fb659a47b40": {
     "bookInternalId": "@001794",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -15153,9 +15684,9 @@
   "ww_1b1a885f3c4adece": {
     "bookInternalId": "@001848",
     "isWrittenBy": [
+      "ww_3cc0cce5b6bf554a",
       "ww_ecd33a52caec339f",
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_cbc2c3284144573a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -15208,8 +15739,8 @@
       "Poetry unspecified"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE"
     ],
     "createdDate": [
       "GREGORIAN:1617:1617"
@@ -15232,8 +15763,8 @@
       "Poetry unspecified"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE"
     ],
     "createdDate": [
       "GREGORIAN:1617:1617"
@@ -15314,8 +15845,8 @@
   "ww_f5a458f823d4e62b": {
     "bookInternalId": "@001899",
     "isWrittenBy": [
-      "ww_5cb3d6fa23800e74",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_5cb3d6fa23800e74"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -15540,8 +16071,8 @@
   "ww_3f5ac8ace84dd3c5": {
     "bookInternalId": "@002025",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -15787,8 +16318,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "ACHTUNG MARKING"
     ],
     "createdDate": [
       "GREGORIAN:1626:1626"
@@ -15812,8 +16343,8 @@
       "Anthology"
     ],
     "hasSubject": [
-      "ACHTUNG MARKING",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "ACHTUNG MARKING"
     ],
     "createdDate": [
       "GREGORIAN:1627:1627"
@@ -16032,8 +16563,8 @@
   "ww_6d12bbb6f601ccc3": {
     "bookInternalId": "@005044",
     "isWrittenBy": [
-      "ww_2d2d917d0e960a71",
-      "ww_7d061522518519e4"
+      "ww_7d061522518519e4",
+      "ww_2d2d917d0e960a71"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -16134,8 +16665,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "History, (auto-)biography",
-      "Sociology, society, lifestyle"
+      "Sociology, society, lifestyle",
+      "History, (auto-)biography"
     ],
     "createdDate": [
       "GREGORIAN:1630:1647"
@@ -16489,8 +17020,8 @@
       "Epic and verse narrative"
     ],
     "hasSubject": [
-      "AFTER TRANSFER FIX BIBLIO OR GENRE",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "AFTER TRANSFER FIX BIBLIO OR GENRE"
     ],
     "createdDate": [
       "GREGORIAN:1637:1637"
@@ -16575,7 +17106,10 @@
     "isWrittenBy": [
       "ww_c145c5dd54e7c179"
     ],
-    "title": " The Poetical Works of John Milton (Todd edition)"
+    "hasLanguage": "English",
+    "title": " The Poetical Works of John Milton (Todd edition)",
+    "createdDate": "GREGORIAN:1801:1801",
+    "publishDate": "GREGORIAN:1801:1801"
   },
   "ww_04d85ba35431e98c": {
     "bookInternalId": "@003000",
@@ -17034,7 +17568,10 @@
     "isWrittenBy": [
       "ww_5423cd47ae22b8a1"
     ],
-    "title": "Shakespeareana"
+    "hasLanguage": "English",
+    "title": "Shakespeareana",
+    "createdDate": "GREGORIAN:1898:1898",
+    "publishDate": "GREGORIAN:1898:1898"
   },
   "ww_942e6735f8999b69": {
     "bookInternalId": "@005234",
@@ -17425,8 +17962,8 @@
   "ww_d4c7ee49440b4f36": {
     "bookInternalId": "@006051",
     "isWrittenBy": [
-      "ww_f66a3c6af79c17a5",
-      "ww_ed5b7d7b5b4ff788"
+      "ww_ed5b7d7b5b4ff788",
+      "ww_f66a3c6af79c17a5"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -17609,7 +18146,10 @@
     "isWrittenBy": [
       "ww_f4698c551edc0005"
     ],
-    "title": "Hudibras (Grey edition)"
+    "hasLanguage": "English",
+    "title": "Hudibras (Grey edition)",
+    "createdDate": "GREGORIAN:1779:1779",
+    "publishDate": "GREGORIAN:1779:1779"
   },
   "ww_5d1637107e119cf3": {
     "bookInternalId": "@006056",
@@ -18015,8 +18555,8 @@
   "ww_20b3a86d3ec0a50e": {
     "bookInternalId": "@006223",
     "isWrittenBy": [
-      "ww_0f734cd7ad5f5440",
-      "ww_8000bac12b1c11e0"
+      "ww_8000bac12b1c11e0",
+      "ww_0f734cd7ad5f5440"
     ],
     "performedIn": [],
     "performedBy": [],
@@ -18042,7 +18582,10 @@
     "isWrittenBy": [
       "ww_a1bc738db7214921"
     ],
-    "title": "How the Renaissance (Mis)Used Sources: The Art of Misquotation"
+    "hasLanguage": "English",
+    "title": "How the Renaissance (Mis)Used Sources: The Art of Misquotation",
+    "createdDate": "GREGORIAN:2008:2008",
+    "publishDate": "GREGORIAN:2008:2008"
   },
   "ww_58010b3b68506440": {
     "bookInternalId": "@006225",
@@ -18050,7 +18593,10 @@
     "isWrittenBy": [
       "ww_e298a7cd553a5b00"
     ],
-    "title": "Shakespeares Knowledge and Use of the Bible"
+    "hasLanguage": "English",
+    "title": "Shakespeares Knowledge and Use of the Bible",
+    "createdDate": "GREGORIAN:1864:1864",
+    "publishDate": "GREGORIAN:1864:1864"
   },
   "ww_a1f6192e21fb6a9b": {
     "bookInternalId": "@006235",
@@ -18058,7 +18604,10 @@
     "isWrittenBy": [
       "ww_c0dc688d7b747809"
     ],
-    "title": "The Marginalia of Edward de Vere s Geneva Bible"
+    "hasLanguage": "English",
+    "title": "The Marginalia of Edward de Vere s Geneva Bible",
+    "createdDate": "GREGORIAN:2001:2001",
+    "publishDate": "GREGORIAN:2001:2001"
   },
   "ww_c9327b4a256e5352": {
     "bookInternalId": "@005662",
@@ -18087,7 +18636,10 @@
     "isWrittenBy": [
       "ww_2a9e2e5cff6505f7"
     ],
-    "title": "Narrative and Dramatic Sources of Shakespeare"
+    "hasLanguage": "English",
+    "title": "Narrative and Dramatic Sources of Shakespeare",
+    "createdDate": "GREGORIAN:1957:1975",
+    "publishDate": "GREGORIAN:1957:1975"
   },
   "ww_24f605f971c246ae": {
     "bookInternalId": "@010093",
@@ -18095,7 +18647,10 @@
     "isWrittenBy": [
       "ww_cf084adba3679d30"
     ],
-    "title": "Polonius: Another Postscript"
+    "hasLanguage": "English",
+    "title": "Polonius: Another Postscript",
+    "createdDate": "GREGORIAN:1953:1953",
+    "publishDate": "GREGORIAN:1953:1953"
   },
   "ww_43f94b12a1b8034c": {
     "bookInternalId": "@001491",

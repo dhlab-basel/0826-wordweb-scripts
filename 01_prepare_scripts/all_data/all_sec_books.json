@@ -3,6 +3,7 @@
     "bookInternalId": "@010001",
     "title": "LION - Literature Online",
     "pubInfo": "LION - Literature Online. http://lion.chadwyck.com.",
+    "hasLanguage": "English",
     "authors": [
       "_ 0_Anon"
     ]
@@ -11,6 +12,7 @@
     "bookInternalId": "@010054",
     "title": "ECCO - Eighteenth-Century Collections Online",
     "pubInfo": "ECCO - Eighteenth Century Collections Online. http://infotrac.galegroup.com/itweb?db=ECCO. 2003.",
+    "hasLanguage": "English",
     "authors": [
       "_ 0_Anon"
     ]
@@ -19,6 +21,7 @@
     "bookInternalId": "@010048",
     "title": "EEBO - Early English Books Online",
     "pubInfo": "EEBO - Early English Books Online. https://eebo.chadwyck.com/home. 1999. ",
+    "hasLanguage": "English",
     "authors": [
       "_ 0_Anon"
     ]
@@ -27,6 +30,9 @@
     "bookInternalId": "@010128",
     "title": "Paradise Lost (Newton edition)",
     "pubInfo": "ed. Paradise Lost: A Poem in Twelve Books. A New Edition with Notes of Various Authors. 2 vols. London: J. and R. Tonson et al., 1749.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1749:1749",
+    "publishDate": "GREGORIAN:1749:1749",
     "authors": [
       "Thomas Newton"
     ]
@@ -35,6 +41,9 @@
     "bookInternalId": "@005246",
     "title": "Q Horatii Flacci epistola ad Augustum",
     "pubInfo": "ed. Q. Horatii Flacci epistola ad Augustum. With an English commentary and notes. To which is added, a discourse concerning poetical imitation [...]. London: W. Thurlbourn and R. Dodsley, 1751.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1751:1751",
+    "publishDate": "GREGORIAN:1751:1751",
     "authors": [
       "Richard Hurd"
     ]
@@ -43,6 +52,9 @@
     "bookInternalId": "@005196",
     "title": "Reliques of Ancient English Poetry",
     "pubInfo": "ed. Reliques of Ancient English Poetry. Consisting of Old Heroic Ballads, Songs, and other Pieces of our earlier Poets, (Chiefly of the Lyric kind.) Together with some few of later Date. Second Edition. London: J. Dodsley, 1767.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1767:1767",
+    "publishDate": "GREGORIAN:1767:1767",
     "authors": [
       "Thomas Percy"
     ]
@@ -51,6 +63,9 @@
     "bookInternalId": "@010089",
     "title": "The Annual Register",
     "pubInfo": "The Annual Register. Or, A View of the History, Politics, and Literature, for the Year 1767. London: J. Dodsley, 1779.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1779:1779",
+    "publishDate": "GREGORIAN:1779:1779",
     "authors": [
       "_ 0_Anon"
     ]
@@ -59,6 +74,9 @@
     "bookInternalId": "@010097",
     "title": "Hudibras (Grey edition)",
     "pubInfo": "ed. Hudibras, in three parts, Written in the Tome of the late Wars, by Samuel Butler, Esq. with large annotations and a preface by Zachary Grey, LL. D. 2 vols. Edinburgh: Bell and Murray, 1779.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1779:1779",
+    "publishDate": "GREGORIAN:1779:1779",
     "authors": [
       "Zachary Grey"
     ]
@@ -67,6 +85,9 @@
     "bookInternalId": "@010129",
     "title": "Poems Upon Several Occasions",
     "pubInfo": "ed. Poems upon several occasions. English, Italian and Latin, with translations, by John Milton [...]. With Notes, critical and explanatory, and other illustrations. London: James Dodsley, 1785.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1785:1785",
+    "publishDate": "GREGORIAN:1785:1785",
     "authors": [
       "Thomas Warton"
     ]
@@ -75,6 +96,9 @@
     "bookInternalId": "@010145",
     "title": "Specimen of a Commentary ",
     "pubInfo": "A Specimen of a Commentary on Shakespeare: being the text of the first (1794) edition revised by the author and never previously published. Eds. Alan Over and Mary Bell. 2nd ed. London: Methuen, 1967.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1794:1794",
+    "publishDate": "GREGORIAN:1794:1794",
     "authors": [
       "Walter Whiter"
     ]
@@ -83,6 +107,9 @@
     "bookInternalId": "@010039",
     "title": "Paradise Regained (Dunster edition)",
     "pubInfo": "ed. Paradise Regained, a Poem by John Milton. With Notes of Various Authors. London: George Stafford, 1800.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1800:1800",
+    "publishDate": "GREGORIAN:1800:1800",
     "authors": [
       "Charles Dunster"
     ]
@@ -91,6 +118,9 @@
     "bookInternalId": "@010130",
     "title": " The Poetical Works of John Milton (Todd edition)",
     "pubInfo": "ed. The Poetical Works of John Milton. 6 vols. London: Johnson et al., 1801.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1801:1801",
+    "publishDate": "GREGORIAN:1801:1801",
     "authors": [
       "Henry John Todd"
     ]
@@ -99,6 +129,9 @@
     "bookInternalId": "@010156",
     "title": "Shps Life (Malone)",
     "pubInfo": "The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators : comprehending a life of the poet, and an enlarged history of the stage, by the late Edmond Malone, with a new glossarial index. London, F.C. and J Rivington 1821.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1821:1821",
+    "publishDate": "GREGORIAN:1821:1821",
     "authors": [
       "Edmond Malone"
     ]
@@ -107,6 +140,9 @@
     "bookInternalId": "@010100",
     "title": "Farther Particulars regarding Shakespeare",
     "pubInfo": "Farther Particulars regarding Shakespeare and His Works. In A Letter to The Rev. Joseph Hunter, F.S.A. [...] London: Thomas Rodd, 1839.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1839:1839",
+    "publishDate": "GREGORIAN:1839:1839",
     "authors": [
       "John Payne Collier"
     ]
@@ -115,6 +151,9 @@
     "bookInternalId": "@010146",
     "title": "Memoirs of the Principal Actors",
     "pubInfo": "Memoirs of the Principal Actors of Shakespeare. London: Printed for the Shakespeare Society, 1846.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1846:1846",
+    "publishDate": "GREGORIAN:1846:1846",
     "authors": [
       "John Payne Collier"
     ]
@@ -123,6 +162,9 @@
     "bookInternalId": "@006225",
     "title": "Shakespeares Knowledge and Use of the Bible",
     "pubInfo": "Shakespeare's Knowledge and Use of the Bible. London: Smith, Elder and Co., 1864.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1864:1864",
+    "publishDate": "GREGORIAN:1864:1864",
     "authors": [
       "Charles Wordsworth"
     ]
@@ -131,6 +173,9 @@
     "bookInternalId": "@010066",
     "title": "Shakespeares Testamentary Language",
     "pubInfo": "Shakespeare's Testamentary Language. London: Longmans, Green and Co., 1869. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1869:1869",
+    "publishDate": "GREGORIAN:1869:1869",
     "authors": [
       "William Lowes Rushton"
     ]
@@ -139,6 +184,9 @@
     "bookInternalId": "@006217",
     "title": "Among My Books",
     "pubInfo": "Among My Books: Six Essays. London: Macmillan, 1870.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1870:1870",
+    "publishDate": "GREGORIAN:1870:1870",
     "authors": [
       "James Russell Lowell"
     ]
@@ -147,6 +195,9 @@
     "bookInternalId": "@006114",
     "title": "Among My Books",
     "pubInfo": "Among My Books: Six Essays. London: Macmillan, 1870.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1870:1870",
+    "publishDate": "GREGORIAN:1870:1870",
     "authors": [
       "James Russell Lowell"
     ]
@@ -155,6 +206,9 @@
     "bookInternalId": "@010027",
     "title": "Shakespeares Euphuism",
     "pubInfo": "Shakespeare's Euphuism. London: Longmans, Green, and Co., 1871.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1871:1871",
+    "publishDate": "GREGORIAN:1871:1871",
     "authors": [
       "William Lowes Rushton"
     ]
@@ -163,7 +217,10 @@
     "bookInternalId": "@005235",
     "title": "Latin Aphorisms and Proverbs",
     "pubInfo": "Transactions of the Royal Historical Society (1872): 82-103.",
+    "hasLanguage": "English",
     "letter": "Latin Aphorisms and Proverbs",
+    "createdDate": "GREGORIAN:1872:1872",
+    "publishDate": "GREGORIAN:1872:1872",
     "authors": [
       "Sir John Bowring"
     ]
@@ -172,6 +229,9 @@
     "bookInternalId": "@006127",
     "title": "The dramatic works of Sir William DAvenant",
     "pubInfo": "ed. The Dramatic Works of Sir William D'Avenant with prefatory memoir and notes. 5 vols. Edinburgh: W. Paterson, 1872-1874.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1872:1874",
+    "publishDate": "GREGORIAN:1872:1874",
     "authors": [
       "_ 0_Anon"
     ]
@@ -180,6 +240,9 @@
     "bookInternalId": "@010170",
     "title": "The Female Rebellion (Glasgow edition)",
     "pubInfo": "The Female Rebelion. A Tragicomedy From A MS. In The Hunterian Museum University of Glasgow. Glasgow: Printed for Private Circulation, 1872.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1872:1872",
+    "publishDate": "GREGORIAN:1872:1872",
     "authors": [
       "(nickname or initials) 0_Anon"
     ]
@@ -188,6 +251,9 @@
     "bookInternalId": "@006142",
     "title": "The Dramatic Works of Thomas Dekker",
     "pubInfo": "ed. The dramatic works of Thomas Dekker, now first collected with illustrative notes and a memoir of the author. London: J. Pearson, 1873.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1873:1873",
+    "publishDate": "GREGORIAN:1873:1873",
     "authors": [
       "Richard Herne Shepherd"
     ]
@@ -196,6 +262,9 @@
     "bookInternalId": "@010099",
     "title": "The Works of George Chapman (Shepherd edition)",
     "pubInfo": "ed. Chapman, George. The Works of George Chapman. Plays. London: Chatto and Windus, 1874.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1874:1874",
+    "publishDate": "GREGORIAN:1874:1874",
     "authors": [
       "Richard Herne Shepherd"
     ]
@@ -204,6 +273,9 @@
     "bookInternalId": "@010046",
     "title": "Memoranda on the Tragedy of Hamlet",
     "pubInfo": "Memoranda on the Tragedy of Hamlet. London: James Evan Adlard, 1879.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1879:1879",
+    "publishDate": "GREGORIAN:1879:1879",
     "authors": [
       "James Orchard Halliwell-Phillipps"
     ]
@@ -212,6 +284,9 @@
     "bookInternalId": "@010199",
     "title": "The Works of John Marston (Bullen edition)",
     "pubInfo": "ed. The Works of John Marston. 3 vols. London: Nimmo, 1887.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1887:1887",
+    "publishDate": "GREGORIAN:1887:1887",
     "authors": [
       "A. H.  Bullen"
     ]
@@ -220,6 +295,9 @@
     "bookInternalId": "@005263",
     "title": "Quellenstudien Jonson, Marston, Beaumont, Fletcher",
     "pubInfo": "Quellen-Studien zu den Dramen Ben Jonson', John Marston's, und Beaumont's und Fletcher's. Erlangen und Leipzig: Deichertsche Verlagsbuchhandlung, 1895.",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1895:1895",
+    "publishDate": "GREGORIAN:1895:1895",
     "authors": [
       "Emil Koeppel"
     ]
@@ -228,6 +306,9 @@
     "bookInternalId": "@010080",
     "title": "Quellenstudien Chapman Massinger Ford",
     "pubInfo": "Quellen-Studien zu den Dramen George Chapman's, Philip Massinger's, und John Ford's. Karl J. Tr\u00fcbner: Strassburg 1897.",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1897:1897",
+    "publishDate": "GREGORIAN:1897:1897",
     "authors": [
       "Emil Koeppel"
     ]
@@ -236,7 +317,10 @@
     "bookInternalId": "@010168",
     "title": "Shakespeareana",
     "pubInfo": "The Athenaeum 3671 (5 March 1898): 320.",
+    "hasLanguage": "English",
     "letter": "Shakespeareana",
+    "createdDate": "GREGORIAN:1898:1898",
+    "publishDate": "GREGORIAN:1898:1898",
     "authors": [
       "Edward J. L. Scott"
     ]
@@ -245,6 +329,9 @@
     "bookInternalId": "@010105",
     "title": "The Pleasant Comedie of old Fortunatus (Schere edi",
     "pubInfo": "ed. Thomas Dekker. The Pleasant Comedie of old Fortunatus. Erlangen and Leipzig: 1901.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1901:1901",
+    "publishDate": "GREGORIAN:1901:1901",
     "authors": [
       "Hans Schere"
     ]
@@ -253,7 +340,10 @@
     "bookInternalId": "@010057",
     "title": "The source of the Seven Ages",
     "pubInfo": "Notes and Queries 9:212 (18 January 1902): 46-47. ",
+    "hasLanguage": "English",
     "letter": "The source of the 'Seven Ages'",
+    "createdDate": "GREGORIAN:1902:1902",
+    "publishDate": "GREGORIAN:1902:1902",
     "authors": [
       "Charles A. Herpich"
     ]
@@ -262,7 +352,10 @@
     "bookInternalId": "@006220",
     "title": "Shakespeares Juliet Capulet und Chaucers Troylus",
     "pubInfo": "Jahrbuch der Deutschen Shakespeare-Gesellschaft 1902. 238-239.",
+    "hasLanguage": "English",
     "letter": "Shakespeares Juliet Capulet und Chaucers Troylus",
+    "createdDate": "GREGORIAN:1902:1902",
+    "publishDate": "GREGORIAN:1902:1902",
     "authors": [
       "Emil Koeppel"
     ]
@@ -271,6 +364,9 @@
     "bookInternalId": "@006081",
     "title": "The Complete Works of John Lyly (Bond edition)",
     "pubInfo": "ed. The Complete Works of John Lyly. 4 vols. Oxford: The Clarendon Press, 1902.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1902:1902",
+    "publishDate": "GREGORIAN:1902:1902",
     "authors": [
       "R. W. Bond"
     ]
@@ -279,6 +375,9 @@
     "bookInternalId": "@010202",
     "title": "Gefluegelte Worte",
     "pubInfo": "Gefl\u00fcgelte Worte. Der Citatenschatz des deutschen Volkes, gesammelt und erl\u00e4utert von Georg B\u00fcchmann. Fortgesetzt von Walter Robert-tornow. 21. vermehrte und verbesserte Auflage bearbeitet von Eduard Ippel. Berlin: Verlag der Hande und Spenerschen Buchhandlung, 1903. ",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1903:1903",
+    "publishDate": "GREGORIAN:1903:1903",
     "authors": [
       "Georg B\u00fcchmann"
     ]
@@ -287,6 +386,9 @@
     "bookInternalId": "@006104",
     "title": "Studies in Shakespeare",
     "pubInfo": "Studies in Shakespeare. Westminster: Archibald Constable, 1904.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1904:1904",
+    "publishDate": "GREGORIAN:1904:1904",
     "authors": [
       "John Churton Collins"
     ]
@@ -295,6 +397,9 @@
     "bookInternalId": "@010151",
     "title": "Shakespeare s Books",
     "pubInfo": "Shakespeare's Books. A Dissertation on Shakespeare's Reading and the Immediate Sources of his Words. Berlin: Georg Reimer, 1904.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1904:1904",
+    "publishDate": "GREGORIAN:1904:1904",
     "authors": [
       "Heinrich R. D. Anders"
     ]
@@ -303,7 +408,10 @@
     "bookInternalId": "@006148",
     "title": "Shakespeare Allusions 16-01-1904",
     "pubInfo": "Notes and Queries. 10.1 (16 January 1904): 44.",
+    "hasLanguage": "English",
     "letter": "Shakespearian Allusions",
+    "createdDate": "GREGORIAN:1904:1904",
+    "publishDate": "GREGORIAN:1904:1904",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -312,6 +420,9 @@
     "bookInternalId": "@010119",
     "title": "Das Verhaeltnis Thomas Middletons zu Shak",
     "pubInfo": "Das Verh\u00e4ltnis Thomas Middletons zu Shakspere. M\u00fcnchner Beitr\u00e4ge 29. Leipzig: 1904.",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1904:1904",
+    "publishDate": "GREGORIAN:1904:1904",
     "authors": [
       "H. Jung"
     ]
@@ -320,6 +431,9 @@
     "bookInternalId": "@010006",
     "title": "Sir William Davenants relation to Shakespeare",
     "pubInfo": "Sir William Davenant's Relation to Shakespeare. With an Analysis of the Chief Characters of Davenant's Plays. PhD Strassburg 1905.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1905:1905",
+    "publishDate": "GREGORIAN:1905:1905",
     "authors": [
       "John Davis Ellis Williams"
     ]
@@ -328,6 +442,9 @@
     "bookInternalId": "@010085",
     "title": "Shakespeares Wirkung zeitgenoess Dramatiker",
     "pubInfo": "Studien \u00fcber Shakespeare's Wirkung auf zeitgen\u00f6ssische Dramatiker. Louvain: Uystpruyst, 1905.",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1905:1905",
+    "publishDate": "GREGORIAN:1905:1905",
     "authors": [
       "Emil Koeppel"
     ]
@@ -336,6 +453,9 @@
     "bookInternalId": "@006083",
     "title": "The Plays and Poems of Robert Greene (Collins)",
     "pubInfo": "ed. The Plays and Poems of Robert Greene. 2 vols. Oxford: Clarendon Press, 1905.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1905:1905",
+    "publishDate": "GREGORIAN:1905:1905",
     "authors": [
       "John Churton Collins"
     ]
@@ -344,7 +464,10 @@
     "bookInternalId": "@006215",
     "title": "Locrine and Selimus",
     "pubInfo": "Jahrbuch der deutschen Shakespeare-Gesellschaft (1905): 193-199.",
+    "hasLanguage": "German",
     "letter": "Locrine and Selimus",
+    "createdDate": "GREGORIAN:1905:1905",
+    "publishDate": "GREGORIAN:1905:1905",
     "authors": [
       "Emil Koeppel"
     ]
@@ -353,6 +476,9 @@
     "bookInternalId": "@010004",
     "title": "Quellenstudien zu den Dramen Thomas Middletons",
     "pubInfo": "Quellenstudien zu den Dramen Thomas Middletons. PhD Strassburg 1905. ",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1905:1905",
+    "publishDate": "GREGORIAN:1905:1905",
     "authors": [
       "Karl Christ"
     ]
@@ -361,6 +487,9 @@
     "bookInternalId": "@006075",
     "title": "Ben Jonsons Wirkung auf zeitgen Dramatiker",
     "pubInfo": "Ben Jonson's Wirkung auf zeitgen\u00f6ssische Dramatiker und andere Studien zur \u00e4lteren Geschichte des englischen Dramas. Anglistische Forschungen. Heidelberg: Carl Winter, 1906.",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1906:1906",
+    "publishDate": "GREGORIAN:1906:1906",
     "authors": [
       "Emil Koeppel"
     ]
@@ -369,7 +498,10 @@
     "bookInternalId": "@010138",
     "title": "Pepys and Shakespeare",
     "pubInfo": "Fortnightly Review 79.469 (January 1906): 104-120. ",
+    "hasLanguage": "English",
     "letter": "Pepys and Shakespeare",
+    "createdDate": "GREGORIAN:1906:1906",
+    "publishDate": "GREGORIAN:1906:1906",
     "authors": [
       "Sir Sidney Lee"
     ]
@@ -378,6 +510,9 @@
     "bookInternalId": "@006212",
     "title": "Cambridge History of English and American Literatu",
     "pubInfo": "The Cambridge History of English and American Literature in 18 Volumes (1907\u201321). Volume V. The Drama to 1642, Part One.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1907:1921",
+    "publishDate": "GREGORIAN:1907:1921",
     "authors": [
       "_ 0_Anon"
     ]
@@ -386,6 +521,9 @@
     "bookInternalId": "@010051",
     "title": "Gleichnisse und Metaphern in Shakespeares Dramen",
     "pubInfo": "Gleichnisse und Metaphern in Shakespeare's Dramen und in seinen Quellenschriften. PhD. Strassburg: Elsass-Lothringische Druckerei, 1908. ",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1908:1908",
+    "publishDate": "GREGORIAN:1908:1908",
     "authors": [
       "Hermann Voigt"
     ]
@@ -394,6 +532,9 @@
     "bookInternalId": "@010000",
     "title": "The Shakspere Allusion Book",
     "pubInfo": "The Shakspere Allusion Book. A Collection of Allusions to Shakspere from 1591 to 1700 [...]. London: Chatto and Windus; New York: Duffield and Co., 1909.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1909:1909",
+    "publishDate": "GREGORIAN:1909:1909",
     "authors": [
       "Frederick James Furnivall",
       "Clement Mansfield Ingleby",
@@ -405,6 +546,9 @@
     "bookInternalId": "@010072",
     "title": "The Classical Element in the Shakespeare Plays",
     "pubInfo": "The Classical Element in the Shakespeare Plays. London: Robert Banks, 1909. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1909:1909",
+    "publishDate": "GREGORIAN:1909:1909",
     "authors": [
       "W. M. Theobald"
     ]
@@ -413,7 +557,10 @@
     "bookInternalId": "@006118",
     "title": "Shakespeare Allusions 11-12-1909",
     "pubInfo": "Notes and Queries 10-12:311, 11 December 1909): 465\u2013466. https://doi.org/10.1093/nq/s10-XII.311.465.",
+    "hasLanguage": "English",
     "letter": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1909:1909",
+    "publishDate": "GREGORIAN:1909:1909",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -422,7 +569,10 @@
     "bookInternalId": "@010144",
     "title": "Shakespeare Allusion 17-04-1909",
     "pubInfo": "Notes and Queries 40 (17 April 1909): 305.",
+    "hasLanguage": "English",
     "letter": "Shakespeare Allusion",
+    "createdDate": "GREGORIAN:1909:1909",
+    "publishDate": "GREGORIAN:1909:1909",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -431,7 +581,10 @@
     "bookInternalId": "@006124",
     "title": "Shakespeare Allusions 12-06-1909",
     "pubInfo": "Notes and Queries 10-11 (12 June 1909): 465.",
+    "hasLanguage": "English",
     "letter": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1909:1909",
+    "publishDate": "GREGORIAN:1909:1909",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -440,6 +593,9 @@
     "bookInternalId": "@005195",
     "title": "Thomas Mays tragedy of Julia Agrippina (Schmid edi",
     "pubInfo": "Thomas May's tragedy of Julia Agrippina, empresse of Rome. Louvain: A. Uytspruyst, 1914. Printed version of Schmid, F. Ernst. Thomas May's tragedy of Julia Agrippina, empresse of Rome. PhD Strassburg, 1910. ",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1910:1910",
+    "publishDate": "GREGORIAN:1910:1910",
     "authors": [
       "F. Ernst Schmid"
     ]
@@ -448,6 +604,9 @@
     "bookInternalId": "@010015",
     "title": "Tragedy of Messallina (Skemp edition)",
     "pubInfo": "ed. Nathanael Richards' tragedy of Messallina the Roman emperesse. Louvain: A. Uystpruyst, 1910. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1910:1910",
+    "publishDate": "GREGORIAN:1910:1910",
     "authors": [
       "Arthur Rowland Skemp"
     ]
@@ -456,7 +615,10 @@
     "bookInternalId": "@006219",
     "title": "Bodenhams Belvedere",
     "pubInfo": "The Malone Society Collections parts IV and V. Oxford: Oxford University Press For the Malone Society, 1911. 296-306.",
+    "hasLanguage": "English",
     "letter": "Bodenham's Belvedere",
+    "createdDate": "GREGORIAN:1911:1911",
+    "publishDate": "GREGORIAN:1911:1911",
     "authors": [
       "Charles Crawford"
     ]
@@ -465,7 +627,10 @@
     "bookInternalId": "@006126",
     "title": "Shakespeare Allusions 1911-04-22",
     "pubInfo": "Notes and Queries (22 April 1911): 305.",
+    "hasLanguage": "English",
     "letter": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1911:1911",
+    "publishDate": "GREGORIAN:1911:1911",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -474,7 +639,10 @@
     "bookInternalId": "@010088",
     "title": "Shakespeare Allusions 30-11-1912",
     "pubInfo": "Notes and Queries 11-6:153 (30 November 1912): 426-427.",
+    "hasLanguage": "English",
     "letter": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1912:1912",
+    "publishDate": "GREGORIAN:1912:1912",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -483,6 +651,9 @@
     "bookInternalId": "@010032",
     "title": "The Fleire (Nibbe edition)",
     "pubInfo": "ed. The Fleire by Edward Sharpham nach der Quarto 1607 herausgegeben. Louvain: A. Uystpruyst, 1912. Print edition of Hunold Nibbe. The Fleire by Edward Sharpham: kritische Neuausgabe mit Einleitung und Anmerkungen. PhD Strassburg 1911. ",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1912:1912",
+    "publishDate": "GREGORIAN:1912:1912",
     "authors": [
       "Hunold Nibbe"
     ]
@@ -491,6 +662,9 @@
     "bookInternalId": "@010155",
     "title": "How a Man May Choose a Good Wife from a Bad",
     "pubInfo": "ed. How a Man May Choose a Good Wife from a Bad von Thomas Heywood nach der Quarto 1608 herausgegeben. Louvain: A. Uystpruyst, 1912.",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1912:1912",
+    "publishDate": "GREGORIAN:1912:1912",
     "authors": [
       "A. E. H. Swaen"
     ]
@@ -499,6 +673,9 @@
     "bookInternalId": "@006000",
     "title": "The Insatiate Countess Verh\u00e4ltnis zu den Quellen",
     "pubInfo": "The Insatiate Countess, Verh\u00e4ltnis zu den Quellen, Charakterzeichung und Stil. PhD, K\u00f6nigsberg 1913.",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1913:1913",
+    "publishDate": "GREGORIAN:1913:1913",
     "authors": [
       "Friedrich Ernst"
     ]
@@ -507,7 +684,10 @@
     "bookInternalId": "@006119",
     "title": "Shakespeare Allusions 02-08-1913",
     "pubInfo": "Notes and Queries 11.8:188 (2 August 1913): 86. https://doi.org/10.1093/nq/s11-VIII.188.86c. ",
+    "hasLanguage": "English",
     "letter": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1913:1913",
+    "publishDate": "GREGORIAN:1913:1913",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -516,6 +696,9 @@
     "bookInternalId": "@010081",
     "title": "The Turk (Adams edition)",
     "pubInfo": "ed. John Mason's The Turke edited from the Quartos of 1610 and 1632. Louvain: A. Uytpruyst, 1913.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1913:1913",
+    "publishDate": "GREGORIAN:1913:1913",
     "authors": [
       "Joseph Quincy Jr. Adams"
     ]
@@ -524,7 +707,10 @@
     "bookInternalId": "@010083",
     "title": "William Heminge and Shakespeare",
     "pubInfo": "Modern Philology 12:1 (May, 1914): 51-64.",
+    "hasLanguage": "English",
     "letter": "William Heminge and Shakespeare",
+    "createdDate": "GREGORIAN:1914:1914",
+    "publishDate": "GREGORIAN:1914:1914",
     "authors": [
       "Joseph Quincy Jr. Adams"
     ]
@@ -533,6 +719,9 @@
     "bookInternalId": "@010009",
     "title": "The Vow-Breaker (Wallrath edition)",
     "pubInfo": "ed. William Sampson's The Vow-Breaker. Louvain: A. Uytpruyst, 1914.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1914:1914",
+    "publishDate": "GREGORIAN:1914:1914",
     "authors": [
       "Hans Wallrath"
     ]
@@ -541,7 +730,10 @@
     "bookInternalId": "@006120",
     "title": "Shakespeare Allusions 12-06-1915",
     "pubInfo": "Notes and Queries 11-11:285, 12 June 1915): 449\u2013450. ",
+    "hasLanguage": "English",
     "letter": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1915:1915",
+    "publishDate": "GREGORIAN:1915:1915",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -550,7 +742,10 @@
     "bookInternalId": "@010062",
     "title": "More Shakspere Allusions",
     "pubInfo": "Modern Philology 13.9 (1916): 497-544.",
+    "hasLanguage": "English",
     "letter": "More Shakspere Allusions",
+    "createdDate": "GREGORIAN:1916:1916",
+    "publishDate": "GREGORIAN:1916:1916",
     "authors": [
       "John Munro"
     ]
@@ -559,7 +754,10 @@
     "bookInternalId": "@010122",
     "title": "Some Further Shakspere Allusions or Parallels",
     "pubInfo": "Modern Language Notes 33:4 (April 1918): 204-208. ",
+    "hasLanguage": "English",
     "letter": "Some Further Shakspere Allusions or Parallels",
+    "createdDate": "GREGORIAN:1918:1918",
+    "publishDate": "GREGORIAN:1918:1918",
     "authors": [
       "Lawrence Mason"
     ]
@@ -568,6 +766,9 @@
     "bookInternalId": "@010086",
     "title": "Some 17th-Century Allusions",
     "pubInfo": "Some Seventeenth-Century Allusions to Shakespeare and His Works, Not Hitherto Collected. London: P. J. and A. E. Dobell, 1920.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1920:1920",
+    "publishDate": "GREGORIAN:1920:1920",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -576,6 +777,9 @@
     "bookInternalId": "@010008",
     "title": "More 17th-Century Allusions ",
     "pubInfo": "More Seventeenth-Century Allusions to Shakespeare and His Works. London: P. J. and A. E. Dobell, 1924.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1924:1924",
+    "publishDate": "GREGORIAN:1924:1924",
     "authors": [
       "George Thorn-Drury"
     ]
@@ -584,6 +788,9 @@
     "bookInternalId": "@010143",
     "title": "The Complete Works of John Webster (Lucas edition)",
     "pubInfo": "ed. The Complete Works of John Webster. 4 vols. London: Chatto and Windus, 1927. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1927:1927",
+    "publishDate": "GREGORIAN:1927:1927",
     "authors": [
       "F. L. Lucas"
     ]
@@ -592,6 +799,9 @@
     "bookInternalId": "@006174",
     "title": "Die Stelle vom Rauhen Pyrrhus",
     "pubInfo": "\"Die Stelle vom 'Rauhen Pyrrhus' (Hamlet II, 2. 460-551) in ihrem Verh\u00e4ltnis zu Marlowe-Nashes 'Dido', zu Seneca",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1928:1928",
+    "publishDate": "GREGORIAN:1928:1928",
     "authors": [
       "Else von Schaubert"
     ]
@@ -600,6 +810,9 @@
     "bookInternalId": "@010094",
     "title": "Nathan Field, The Actor-Playwright",
     "pubInfo": "Nathan Field, The Actor-Playwright. New Haven: Yale University Press, 1928.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1928:1928",
+    "publishDate": "GREGORIAN:1928:1928",
     "authors": [
       "Roberta Florence Brinkley"
     ]
@@ -608,6 +821,9 @@
     "bookInternalId": "@010031",
     "title": "Shaksperes Silences",
     "pubInfo": "Shakspere's Silences. Library of Shakespearean Biography and Criticism. New York: Books for Libraries Press, 1970. 64; chapter 2 \"Shakspere and the Unhappy Happy Ending\".",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1929:1929",
+    "publishDate": "GREGORIAN:1929:1929",
     "authors": [
       "Alwin Thaler"
     ]
@@ -616,6 +832,9 @@
     "bookInternalId": "@010061",
     "title": "The Life of Marlowe",
     "pubInfo": "ed. The Life of Marlowe and The Tragedy of Dido Queen of Carthage. London: Methuen and Co., 1930.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1930:1930",
+    "publishDate": "GREGORIAN:1930:1930",
     "authors": [
       "C. F. Tucker Brooke"
     ]
@@ -624,6 +843,9 @@
     "bookInternalId": "@010011",
     "title": "Chambers Facts and Problems",
     "pubInfo": "Shakespeare - A Study of Facts and Problems. Oxford: Clarendon Press, 1930.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1930:1930",
+    "publishDate": "GREGORIAN:1930:1930",
     "authors": [
       "Edward Kerchever Chambers"
     ]
@@ -632,6 +854,9 @@
     "bookInternalId": "@010152",
     "title": "Shakespere s Small Latine",
     "pubInfo": "William Shakspere's Small Latine and Lesse Greeke. 2 vols. Urbana: University of Illinois Press, 1944.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1944:1944",
+    "publishDate": "GREGORIAN:1944:1944",
     "authors": [
       "Thomas Whitfield Baldwin"
     ]
@@ -640,6 +865,9 @@
     "bookInternalId": "@010026",
     "title": "A Survey of Burlesques and Parody in English",
     "pubInfo": "A Survey of Burlesques and Parody in English. Edinburgh: Oliver and Boyd, 1931.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1931:1931",
+    "publishDate": "GREGORIAN:1931:1931",
     "authors": [
       "George Kitchin"
     ]
@@ -648,6 +876,9 @@
     "bookInternalId": "@010017",
     "title": "Edward II (Charlton edition)",
     "pubInfo": "eds. Edward II by Christopher Marlowe. London: Methuen, 1933.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1933:1933",
+    "publishDate": "GREGORIAN:1933:1933",
     "authors": [
       "H. B. Charlton",
       "R. D. Waller"
@@ -657,7 +888,10 @@
     "bookInternalId": "@010116",
     "title": "Hamlets Book",
     "pubInfo": "Huntington Library Bulletin 6 (1934): 17-37.",
+    "hasLanguage": "English",
     "letter": "Hamlet's Book",
+    "createdDate": "GREGORIAN:1934:1934",
+    "publishDate": "GREGORIAN:1934:1934",
     "authors": [
       "Craig Hardin"
     ]
@@ -666,6 +900,9 @@
     "bookInternalId": "@005134",
     "title": "The Plays of John Marston (Wood edition)",
     "pubInfo": "ed. The Plays of John Marston in Three Volumes. Edinburgh and London: Oliver and Boyd, 1934-1939.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1934:1939",
+    "publishDate": "GREGORIAN:1934:1939",
     "authors": [
       "Harvey Wood"
     ]
@@ -674,7 +911,10 @@
     "bookInternalId": "@006211",
     "title": "Marlowe s Role in Borrowed Lines",
     "pubInfo": "PMLA 52 (1937): 902-903.",
+    "hasLanguage": "English",
     "letter": "Marlowe's Role in Borrowed Lines",
+    "createdDate": "GREGORIAN:1937:1937",
+    "publishDate": "GREGORIAN:1937:1937",
     "authors": [
       "Mary M. Wills"
     ]
@@ -683,6 +923,9 @@
     "bookInternalId": "@010074",
     "title": "What Happens in Hamlet",
     "pubInfo": "What Happens in Hamlet? Cambridge: Cambridge University Press, 2003.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1937:1937",
+    "publishDate": "GREGORIAN:1937:1937",
     "authors": [
       "John Dover Wilson"
     ]
@@ -691,7 +934,10 @@
     "bookInternalId": "@006108",
     "title": "Hamlet, Three Notes",
     "pubInfo": "Notes and Queries 175 (1938): 114.",
+    "hasLanguage": "English",
     "letter": "Hamlet, Three Notes",
+    "createdDate": "GREGORIAN:1938:1938",
+    "publishDate": "GREGORIAN:1938:1938",
     "authors": [
       "T. C. C."
     ]
@@ -700,7 +946,10 @@
     "bookInternalId": "@010068",
     "title": "An Early Hamlet Allusion",
     "pubInfo": "The Shakespeare Association Bulletin 16.1 (1941): 50-1.",
+    "hasLanguage": "English",
     "letter": "An Early Hamlet Allusion",
+    "createdDate": "GREGORIAN:1941:1941",
+    "publishDate": "GREGORIAN:1941:1941",
     "authors": [
       "Howard Schultz"
     ]
@@ -709,7 +958,10 @@
     "bookInternalId": "@006109",
     "title": "The Glass of Fashion and the Mould of Form",
     "pubInfo": "Notes and Queries 185 (1943): 105.",
+    "hasLanguage": "English",
     "letter": "The Glass of Fashion and the Mould of Form",
+    "createdDate": "GREGORIAN:1943:1943",
+    "publishDate": "GREGORIAN:1943:1943",
     "authors": [
       "tbe (male) 0_Author"
     ]
@@ -718,7 +970,10 @@
     "bookInternalId": "@010139",
     "title": "The Problem of Authorship of Eastward Ho",
     "pubInfo": "PMLA 59.3 (September 1944): 715-725. ",
+    "hasLanguage": "English",
     "letter": "The Problem of Authorship of Eastward Ho",
+    "createdDate": "GREGORIAN:1944:1944",
+    "publishDate": "GREGORIAN:1944:1944",
     "authors": [
       "Percy Simpson"
     ]
@@ -727,6 +982,9 @@
     "bookInternalId": "@010033",
     "title": "Shakespeare and Jonson Their Reputations",
     "pubInfo": "Shakespeare and Jonson - Their Reputations in the Seventeenth Century Compared. Chicago: University of Chicago Press, 1945.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1945:1945",
+    "publishDate": "GREGORIAN:1945:1945",
     "authors": [
       "Gerald Eades Bentley"
     ]
@@ -735,7 +993,10 @@
     "bookInternalId": "@010063",
     "title": "Eastward Ho and A Woman Is a Weather-Cock",
     "pubInfo": "Modern Language Notes 62:2 (February 1947): 131-132.",
+    "hasLanguage": "English",
     "letter": "Eastward Ho! and A Woman is a Weathercock",
+    "createdDate": "GREGORIAN:1947:1947",
+    "publishDate": "GREGORIAN:1947:1947",
     "authors": [
       "William Peery"
     ]
@@ -744,6 +1005,9 @@
     "bookInternalId": "@010049",
     "title": "The Plays of Nathan Field",
     "pubInfo": "ed. The Plays of Nathan Field. Edited from the Original Quartos with Introduction and Notes. Austin: The University of Texas Press, 1950. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1950:1950",
+    "publishDate": "GREGORIAN:1950:1950",
     "authors": [
       "William Peery"
     ]
@@ -752,7 +1016,10 @@
     "bookInternalId": "@010087",
     "title": "Shakespeare and Nathan Field",
     "pubInfo": "Neophilologus 34.4 (October 1950): 238-245.",
+    "hasLanguage": "English",
     "letter": "Shakespeare and Nathan Field",
+    "createdDate": "GREGORIAN:1950:1950",
+    "publishDate": "GREGORIAN:1950:1950",
     "authors": [
       "William Peery"
     ]
@@ -761,6 +1028,9 @@
     "bookInternalId": "@010076",
     "title": "A Dictionary of the Proverbs ",
     "pubInfo": "A Dictionary of the Proverbs in England in the Sixteenth and Seventeenth Centuries. A Collection of the Proverbs Found in English Literature and the Dictionaries of the Period. Ann Arbor: University of Michigan Press, 1950.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1950:1950",
+    "publishDate": "GREGORIAN:1950:1950",
     "authors": [
       "Morris Palmer Tilley"
     ]
@@ -769,7 +1039,10 @@
     "bookInternalId": "@010153",
     "title": "Imitation of Shakespeare in Middletons The Family",
     "pubInfo": "Philological Quarterly 29 (1 January 1950): 75-78. ",
+    "hasLanguage": "English",
     "letter": "Imitation of Shakespeare in Middleton's The Family of Love",
+    "createdDate": "GREGORIAN:1950:1950",
+    "publishDate": "GREGORIAN:1950:1950",
     "authors": [
       "J. W.  Olive"
     ]
@@ -778,7 +1051,10 @@
     "bookInternalId": "@010092",
     "title": "Pictures in Hamlet III-iv",
     "pubInfo": "Shakespeare Quarterly 3:3 (July 1952): 280-281. ",
+    "hasLanguage": "English",
     "letter": "The Pictures in Hamlet III-iv - A Possible Contemporary",
+    "createdDate": "GREGORIAN:1952:1952",
+    "publishDate": "GREGORIAN:1952:1952",
     "authors": [
       "Fredson Thayer Bowers"
     ]
@@ -787,7 +1063,10 @@
     "bookInternalId": "@006116",
     "title": "The Marking of Sententiae",
     "pubInfo": "Library 5.6 (1951-1952): 171-188.",
+    "hasLanguage": "English",
     "letter": "The Marking of Sententiae in Elizabethan Printed Plays, Poems and Romances",
+    "createdDate": "GREGORIAN:1952:1952",
+    "publishDate": "GREGORIAN:1952:1952",
     "authors": [
       "George K. Hunter"
     ]
@@ -796,6 +1075,9 @@
     "bookInternalId": "@010140",
     "title": "Shakespeare and the Classics",
     "pubInfo": "Shakespeare and the Classics. London: George Allen and Unwin, 1952.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1952:1952",
+    "publishDate": "GREGORIAN:1952:1952",
     "authors": [
       "J. A. K.  Thomson"
     ]
@@ -804,7 +1086,10 @@
     "bookInternalId": "@010154",
     "title": "Shakespeare and Nashes Pierce Pennilesse 2",
     "pubInfo": "Notes and Queries 198 (September 1953): 371-374.",
+    "hasLanguage": "English",
     "letter": "Shakespeare and Nashe's Pierce Pennilesse II",
+    "createdDate": "GREGORIAN:1953:1953",
+    "publishDate": "GREGORIAN:1953:1953",
     "authors": [
       "Arnold Davenport"
     ]
@@ -813,7 +1098,10 @@
     "bookInternalId": "@010093",
     "title": "Polonius -Another Postscript",
     "pubInfo": "Shakespeare Quarterly 4 (1953): 362-364.",
+    "hasLanguage": "English",
     "letter": "Polonius: Another Postscript",
+    "createdDate": "GREGORIAN:1953:1953",
+    "publishDate": "GREGORIAN:1953:1953",
     "authors": [
       "R. H. Bowers"
     ]
@@ -822,7 +1110,10 @@
     "bookInternalId": "@010222",
     "title": "Shakespeare and Nashes Pierce Pennilesse 1",
     "pubInfo": "Notes and Queries (September 1953): 272-274.",
+    "hasLanguage": "English",
     "letter": "Shakespeare and Nashe's 'Pierce Pennilesse' I",
+    "createdDate": "GREGORIAN:1953:1953",
+    "publishDate": "GREGORIAN:1953:1953",
     "authors": [
       "Arnold Davenport"
     ]
@@ -831,7 +1122,10 @@
     "bookInternalId": "@010016",
     "title": "Characterization in Polonius Advice",
     "pubInfo": "SQ 4.1 (January 1953): 3-9.",
+    "hasLanguage": "English",
     "letter": "Characterization in Polonius' Advice to Laertes",
+    "createdDate": "GREGORIAN:1953:1953",
+    "publishDate": "GREGORIAN:1953:1953",
     "authors": [
       "Josephine Waters Bennett"
     ]
@@ -840,6 +1134,9 @@
     "bookInternalId": "@010127",
     "title": "Complete Prose Works of John Milton (Wolfe edition",
     "pubInfo": "ed. Complete Prose Works of John Milton. 8 vols. New Haven and London: Oxford University Press and Yale University Press, 1953.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1953:1953",
+    "publishDate": "GREGORIAN:1953:1953",
     "authors": [
       "Don Marion Wolfe"
     ]
@@ -848,7 +1145,10 @@
     "bookInternalId": "@010052",
     "title": "Hamlet and Glorianas Knights",
     "pubInfo": "Shakespeare Quarterly 6:1 (Winter 1955): 31-43.",
+    "hasLanguage": "English",
     "letter": "Hamlet and Gloriana's Knights",
+    "createdDate": "GREGORIAN:1955:1955",
+    "publishDate": "GREGORIAN:1955:1955",
     "authors": [
       "Abbie Findlay Potts"
     ]
@@ -857,7 +1157,10 @@
     "bookInternalId": "@010041",
     "title": "Shakespeare and Jonson Pamphleteers",
     "pubInfo": "Modern Philology 53.2 (November 1955): 88-99.",
+    "hasLanguage": "English",
     "letter": "Shakespeare and Jonson among the Pamphleteers of the First Civil War. Some Unreported Seventeenth-Century Allusions",
+    "createdDate": "GREGORIAN:1955:1955",
+    "publishDate": "GREGORIAN:1955:1955",
     "authors": [
       "Ernest Sirluck"
     ]
@@ -866,6 +1169,9 @@
     "bookInternalId": "@010007",
     "title": "The Works of John Dryden (Roper edition)",
     "pubInfo": "ed. The Works of John Dryden. 20 vols. Berkeley: University of California Press, 1956-1989.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1956:1989",
+    "publishDate": "GREGORIAN:1956:1989",
     "authors": [
       "Alan Roper"
     ]
@@ -874,7 +1180,10 @@
     "bookInternalId": "@010014",
     "title": "Henry Swinburne and Shakespeare",
     "pubInfo": "Notes and Queries 202 (1957): 285-286.",
+    "hasLanguage": "English",
     "letter": "Henry Swinburne and Shakespeare",
+    "createdDate": "GREGORIAN:1957:1957",
+    "publishDate": "GREGORIAN:1957:1957",
     "authors": [
       "Kenneth Arthur Muir"
     ]
@@ -883,6 +1192,9 @@
     "bookInternalId": "@010095",
     "title": "Narrative and Dramatic Sources of Shakespeare",
     "pubInfo": "ed. Narrative and Dramatic Sources of Shakespeare. London 1957-1975.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1957:1975",
+    "publishDate": "GREGORIAN:1957:1975",
     "authors": [
       "Geoffrey Bullough"
     ]
@@ -891,7 +1203,10 @@
     "bookInternalId": "@006176",
     "title": "Tamburlaine s Pampered Jades and Gascoigne",
     "pubInfo": "Notes and Queries (February 1958): 53-54.",
+    "hasLanguage": "English",
     "letter": "Tamburlaine's 'Pampered Jades' and Gascoigne",
+    "createdDate": "GREGORIAN:1958:1958",
+    "publishDate": "GREGORIAN:1958:1958",
     "authors": [
       "Leonard Nathanson"
     ]
@@ -900,7 +1215,10 @@
     "bookInternalId": "@010024",
     "title": "Shakespeares Living Sources",
     "pubInfo": "Queen's Quarterly 65 (1 January 1958): 239-250.",
+    "hasLanguage": "English",
     "letter": "Shakespeare's Living Sources",
+    "createdDate": "GREGORIAN:1958:1958",
+    "publishDate": "GREGORIAN:1958:1958",
     "authors": [
       "G. P. V.  Akrigg"
     ]
@@ -909,6 +1227,9 @@
     "bookInternalId": "@010003",
     "title": "On the Literary Genetics of Shakspere s Plays",
     "pubInfo": "On the Literary Genetics of Shakspere's Plays 1592-1594. Urbana: University of Illinois Press, 1959.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1959:1959",
+    "publishDate": "GREGORIAN:1959:1959",
     "authors": [
       "Thomas Whitfield Baldwin"
     ]
@@ -917,6 +1238,9 @@
     "bookInternalId": "@006105",
     "title": "Websters Borrowing",
     "pubInfo": "Webster's Borrowing. Berkeley: University of California Press, 1960.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1960:1960",
+    "publishDate": "GREGORIAN:1960:1960",
     "authors": [
       "Robert William Dent"
     ]
@@ -925,6 +1249,9 @@
     "bookInternalId": "@005248",
     "title": "Shakespeare as Collaborator",
     "pubInfo": "Shakespeare as a Collaborator. London: Methuen, 1960.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1960:1960",
+    "publishDate": "GREGORIAN:1960:1960",
     "authors": [
       "Kenneth Arthur Muir"
     ]
@@ -933,6 +1260,9 @@
     "bookInternalId": "@005194",
     "title": "The Poems of John Marston (Davenport edition)",
     "pubInfo": "ed. The Poems of John Marston. Liverpool University Press 1961.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1961:1961",
+    "publishDate": "GREGORIAN:1961:1961",
     "authors": [
       "Arnold Davenport"
     ]
@@ -941,6 +1271,9 @@
     "bookInternalId": "@006091",
     "title": "The Plays of George Chapman (Parrott edition)",
     "pubInfo": "ed. The Plays of George Chapman. 4 vols. New York: Russall and Russell, 1961.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1961:1961",
+    "publishDate": "GREGORIAN:1961:1961",
     "authors": [
       "Thomas Marc Parrott"
     ]
@@ -949,6 +1282,9 @@
     "bookInternalId": "@010050",
     "title": "Shakespeares Proverb Lore",
     "pubInfo": "Shakespeare's Proverb Lore. His Use of the Sententiae of Leonard Culman and Publilius Syrus. Cambridge (Mass.): Harvard University Press, 1963.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1963:1963",
+    "publishDate": "GREGORIAN:1963:1963",
     "authors": [
       "Charles G. Smith"
     ]
@@ -957,7 +1293,10 @@
     "bookInternalId": "@005249",
     "title": "An Early Hamlet Echo",
     "pubInfo": "Shakespeare Quarterly 14 (1963): 87-89.",
+    "hasLanguage": "English",
     "letter": "An Early Hamlet Echo?",
+    "createdDate": "GREGORIAN:1963:1963",
+    "publishDate": "GREGORIAN:1963:1963",
     "authors": [
       "Robert William Dent"
     ]
@@ -966,7 +1305,10 @@
     "bookInternalId": "@005260",
     "title": "Shakespeare and Edmund Ironside",
     "pubInfo": "Notes and Queries (September 1963): 331-332.",
+    "hasLanguage": "English",
     "letter": "Shakespeare and Edmund Ironside",
+    "createdDate": "GREGORIAN:1963:1963",
+    "publishDate": "GREGORIAN:1963:1963",
     "authors": [
       "Macdonald P. Jackson"
     ]
@@ -975,7 +1317,10 @@
     "bookInternalId": "@006181",
     "title": "Das Bild des brennenden Troja in The Rape of Lucre",
     "pubInfo": "Shakespeare.",
+    "hasLanguage": "German",
     "letter": "Das Bild des brennenden Troja in The Rape of Lucrece",
+    "createdDate": "GREGORIAN:1963:1963",
+    "publishDate": "GREGORIAN:1963:1963",
     "authors": [
       "Horst Oppel"
     ]
@@ -984,6 +1329,9 @@
     "bookInternalId": "@010141",
     "title": "The Works of Cyril Tourneur (Nicholl edition)",
     "pubInfo": "ed. The Works of Cyril Tourneur. New York: Russell and Russell, 1963.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1963:1963",
+    "publishDate": "GREGORIAN:1963:1963",
     "authors": [
       "John Ramsay Allardyce Nicholl"
     ]
@@ -992,7 +1340,10 @@
     "bookInternalId": "@006154",
     "title": "Vergil in England",
     "pubInfo": "Festschrift f\u00fcr Walter H\u00fcbner. Eds. Dieter Riesner and Helmut Gneuss. Erich Schmidt Verlag, 1964. 122-138.",
+    "hasLanguage": "English",
     "letter": "Vergil in England",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964",
     "authors": [
       "Rudolf S\u00fchnel"
     ]
@@ -1001,6 +1352,9 @@
     "bookInternalId": "@006082",
     "title": "Bussy D Ambois (Brooke Edition)",
     "pubInfo": "ed. George Chapman. Bussy D'Ambois. The Revels Plays. London: Methuen. Cambridge (Mass.): Harvard University Press, 1964.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964",
     "authors": [
       "Nicholas Stanton Brooke"
     ]
@@ -1009,6 +1363,9 @@
     "bookInternalId": "@010002",
     "title": "The Atheists Tragedy (Ribner edition)",
     "pubInfo": "ed. Cyril Tourneur. The Atheist's Tragedy, or The Honest Man's Revenge. London: The Broadwater Press, 1964.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964",
     "authors": [
       "Irving Ribner"
     ]
@@ -1017,6 +1374,9 @@
     "bookInternalId": "@010090",
     "title": "The Genesis of Shakespeare Idolatry 1766-1799",
     "pubInfo": "The Genesis of Shakespeare Idolatry, 1766-1799. A Study in English Criticism of the Late Eighteenth Century. New York: Russell and Russell, 1964.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964",
     "authors": [
       "Robert Witback Babcock"
     ]
@@ -1025,7 +1385,10 @@
     "bookInternalId": "@010106",
     "title": "A Possible 1594 Reference to Hamlet",
     "pubInfo": "Shakespeare Quarterly 15:4 (Autumn 1964): 446-447.",
+    "hasLanguage": "English",
     "letter": "A Possible 1594 Reference to Hamlet",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964",
     "authors": [
       "Joseph W. DeMent"
     ]
@@ -1034,7 +1397,10 @@
     "bookInternalId": "@010069",
     "title": "Ophelias Version of the Walsingham Song",
     "pubInfo": "Music and Letters 45:2 (April 1964): 108-113.",
+    "hasLanguage": "English",
     "letter": "Ophelia's Version of the Walsingham Song",
+    "createdDate": "GREGORIAN:1964:1964",
+    "publishDate": "GREGORIAN:1964:1964",
     "authors": [
       "F. W. Sternfeld"
     ]
@@ -1043,6 +1409,9 @@
     "bookInternalId": "@006080",
     "title": "Bussy D Ambois (Evans Edition)",
     "pubInfo": "ed. George Chapman. Bussy D'Ambois. The New Mermaids. London: Ernest Benn, 1965.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1965:1965",
+    "publishDate": "GREGORIAN:1965:1965",
     "authors": [
       "Maurice Evans"
     ]
@@ -1051,7 +1420,10 @@
     "bookInternalId": "@010108",
     "title": "Shakespeare in the 17th Century",
     "pubInfo": "Shakespeare Quarterly 16.1 (Winter 1965): 81-89.",
+    "hasLanguage": "English",
     "letter": "Shakespeare in the Seventeenth Century",
+    "createdDate": "GREGORIAN:1965:1965",
+    "publishDate": "GREGORIAN:1965:1965",
     "authors": [
       "David L. Frost"
     ]
@@ -1060,6 +1432,9 @@
     "bookInternalId": "@010223",
     "title": "The Revengers Tragedy (Ross edition)",
     "pubInfo": "ed. Cyril Tourneur. The Revenger's Tragedy. Regents Renaissance Drama Series. London: Edward Arnold, 1967. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1966:1966",
+    "publishDate": "GREGORIAN:1966:1966",
     "authors": [
       "Lawrence J. Ross"
     ]
@@ -1068,7 +1443,10 @@
     "bookInternalId": "@010131",
     "title": "The Homiletic Tradition in Shakespeares Plays",
     "pubInfo": "Shakespeare Studies 5 (1966-1967): 72-87.",
+    "hasLanguage": "English",
     "letter": "The Homiletic Tradition in Shakespeare's Plays",
+    "createdDate": "GREGORIAN:1966:1967",
+    "publishDate": "GREGORIAN:1966:1967",
     "authors": [
       "Peter Milward"
     ]
@@ -1077,6 +1455,9 @@
     "bookInternalId": "@010109",
     "title": "The Influence of Shakespeare on English Drama 1600",
     "pubInfo": "The Influence of Shakespeare on English Drama 1600-1642. Cambridge: Cambridge University Press, 1968.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1968:1968",
+    "publishDate": "GREGORIAN:1968:1968",
     "authors": [
       "David L. Frost"
     ]
@@ -1085,6 +1466,9 @@
     "bookInternalId": "@010042",
     "title": "Shakespeare and the Classical Tradition",
     "pubInfo": "Shakespeare and the Classical Tradition. A Critical Guide to Commentary, 1660-1960. Minneapolis: University of Minnesota Press, 1968.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1968:1968",
+    "publishDate": "GREGORIAN:1968:1968",
     "authors": [
       "John V. Velz"
     ]
@@ -1093,7 +1477,10 @@
     "bookInternalId": "@010013",
     "title": "Five Shakespeare Allusions",
     "pubInfo": "Shakespeare Quarterly 20.1 (Winter 1969): 81-83.",
+    "hasLanguage": "English",
     "letter": "Five Shakespeare Allusions 1621-1630",
+    "createdDate": "GREGORIAN:1969:1969",
+    "publishDate": "GREGORIAN:1969:1969",
     "authors": [
       "Roland Mushat Frye"
     ]
@@ -1102,7 +1489,10 @@
     "bookInternalId": "@010065",
     "title": "The Madrigal the Lute and Elizabethan Politics",
     "pubInfo": "Past and Present 44 (August 1969): 3-51.",
+    "hasLanguage": "English",
     "letter": "The Madrigal, the Lute Song and Elizabethan Politics",
+    "createdDate": "GREGORIAN:1969:1969",
+    "publishDate": "GREGORIAN:1969:1969",
     "authors": [
       "Lilian M. Ruff",
       "D. Arnold Wilson"
@@ -1112,6 +1502,9 @@
     "bookInternalId": "@005264",
     "title": "Diary of Samuel Pepys (Latham edition)",
     "pubInfo": "eds. The Diary of Samuel Pepys. 11 vols. London: G. Bell and Sons, 1970-1983.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1970:1983",
+    "publishDate": "GREGORIAN:1970:1983",
     "authors": [
       "Robert Clifford Latham",
       "William Matthews"
@@ -1121,6 +1514,9 @@
     "bookInternalId": "@006098",
     "title": "The Dramatic Works of George Peele (Prouty)",
     "pubInfo": "ed. The Dramatic Works of George Peele. 3 vols. New Haven and London: Yale, 1970.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1970:1970",
+    "publishDate": "GREGORIAN:1970:1970",
     "authors": [
       "Charles Tyler Prouty"
     ]
@@ -1129,6 +1525,9 @@
     "bookInternalId": "@006093",
     "title": "Ben Jonson and the Cavalier Poets (Maclean)",
     "pubInfo": "ed. Ben Jonson and the Cavalier Poets. New York: Norton, 1974.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1974:1974",
+    "publishDate": "GREGORIAN:1974:1974",
     "authors": [
       "Hugh N. Maclean"
     ]
@@ -1137,7 +1536,10 @@
     "bookInternalId": "@005230",
     "title": "Isocrates, Shakespeare and Calderon",
     "pubInfo": "Hispanic Review 42.2 (Spring 1974): 185-198.",
+    "hasLanguage": "English",
     "letter": "Isocrates, Shakespeare, and Calder\u00f3n: Advice to a Young Man",
+    "createdDate": "GREGORIAN:1974:1974",
+    "publishDate": "GREGORIAN:1974:1974",
     "authors": [
       "Theodore J. Beardsley Jr."
     ]
@@ -1146,6 +1548,9 @@
     "bookInternalId": "@006094",
     "title": "The Widow s Tears (Yamada edition)",
     "pubInfo": "ed. George Chapman. The Widow's Tears. The Revels Plays. London: Methuen, 1975.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1975:1975",
+    "publishDate": "GREGORIAN:1975:1975",
     "authors": [
       "Akihiro Yamada"
     ]
@@ -1154,6 +1559,9 @@
     "bookInternalId": "@005699",
     "title": "The Malcontent (Hunter edition)",
     "pubInfo": "ed. The Malcontent. Manchester: Manchester University Press, 1975, repr. 1999.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1975:1975",
+    "publishDate": "GREGORIAN:1975:1975",
     "authors": [
       "George K. Hunter"
     ]
@@ -1162,7 +1570,10 @@
     "bookInternalId": "@010059",
     "title": "Three Shakespearean Echoes",
     "pubInfo": "Notes and Queries 220 (April 1975): 175.",
+    "hasLanguage": "English",
     "letter": "Three Shakespearean Echoes",
+    "createdDate": "GREGORIAN:1975:1975",
+    "publishDate": "GREGORIAN:1975:1975",
     "authors": [
       "Jerome W. Hogan"
     ]
@@ -1171,7 +1582,10 @@
     "bookInternalId": "@010064",
     "title": "Hamlet and the Homilies",
     "pubInfo": "Shakespeare Quarterly 26.3 (Summer 1975): 299-301.",
+    "hasLanguage": "English",
     "letter": "Hamlet and the Homilies",
+    "createdDate": "GREGORIAN:1975:1975",
+    "publishDate": "GREGORIAN:1975:1975",
     "authors": [
       "Lawrence Rosinger"
     ]
@@ -1180,6 +1594,9 @@
     "bookInternalId": "@006086",
     "title": "The Plays and Poems of Philip Massinger (Edwards)",
     "pubInfo": "eds. The Plays and Poems of Philip Massinger. 5 vols. Oxford: Clarendon Press, 1976.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1976:1976",
+    "publishDate": "GREGORIAN:1976:1976",
     "authors": [
       "Philip Edwards",
       "Colin Gibson"
@@ -1189,6 +1606,9 @@
     "bookInternalId": "@010045",
     "title": "Sources of Shakespeares Plays",
     "pubInfo": "The Sources of Shakespeare's Plays. London: Methuen, 1977.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1977:1977",
+    "publishDate": "GREGORIAN:1977:1977",
     "authors": [
       "Kenneth Arthur Muir"
     ]
@@ -1197,6 +1617,9 @@
     "bookInternalId": "@010073",
     "title": "Shakespearean Burlesques (Wells edition)",
     "pubInfo": "ed. Shakespearean Burlesques. 3 vols. London: Diploma Press, Ltd., 1977.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1977:1977",
+    "publishDate": "GREGORIAN:1977:1977",
     "authors": [
       "Sir Stanley William Wells"
     ]
@@ -1205,6 +1628,9 @@
     "bookInternalId": "@010118",
     "title": "A Milton Encyclopedia",
     "pubInfo": "ed. A Milton Encyclopedia. Lewisburg: Bucknell University Press and London: Associated University Presses, 1978-1983.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1978:1983",
+    "publishDate": "GREGORIAN:1978:1983",
     "authors": [
       "William B. HUnter"
     ]
@@ -1213,6 +1639,9 @@
     "bookInternalId": "@005698",
     "title": "Parasitaster (Blostein edition)",
     "pubInfo": "ed. Parasitaster or The Fawn. Manchester: Manchester University Press, 1978.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1978:1978",
+    "publishDate": "GREGORIAN:1978:1978",
     "authors": [
       "David A. Blostein"
     ]
@@ -1221,6 +1650,9 @@
     "bookInternalId": "@010038",
     "title": "Antonios Revenge (Gair edition)",
     "pubInfo": "ed. John Marston. Antonio's Revenge. The Revels Plays. Manchester: Manchester University Press, 1978, repr. 1999.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1978:1978",
+    "publishDate": "GREGORIAN:1978:1978",
     "authors": [
       "Reavley Gair"
     ]
@@ -1229,6 +1661,9 @@
     "bookInternalId": "@006143",
     "title": "The Plays and Poems of Cyril Tourneur",
     "pubInfo": "ed. The Plays and Poems of Cyril Tourneur. London: Chatto and Windus, 1878.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1978:1978",
+    "publishDate": "GREGORIAN:1978:1978",
     "authors": [
       "John Churton Collins"
     ]
@@ -1237,6 +1672,9 @@
     "bookInternalId": "@010018",
     "title": "Eastward Ho (Van Fossen edition)",
     "pubInfo": "ed. Eastward Ho. Manchester: Manchester University Press, 1979, repr. 1999.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1979:1979",
+    "publishDate": "GREGORIAN:1979:1979",
     "authors": [
       "R. W. van Fossen"
     ]
@@ -1245,6 +1683,9 @@
     "bookInternalId": "@010056",
     "title": "John Marstons Drama ",
     "pubInfo": "John Marston's Drama: Themes, Images, Sources. Rutherford et al.: Associated Unversity Presses, 1980.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1980:1980",
+    "publishDate": "GREGORIAN:1980:1980",
     "authors": [
       "George L. Geckle"
     ]
@@ -1253,6 +1694,9 @@
     "bookInternalId": "@005247",
     "title": "The Broken Heart (Spencer edition)",
     "pubInfo": "ed. John Ford. The Broken Heart. Manchester: Manchester University Press, 1980.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1980:1980",
+    "publishDate": "GREGORIAN:1980:1980",
     "authors": [
       "T. J. B. Spencer"
     ]
@@ -1261,7 +1705,10 @@
     "bookInternalId": "@006186",
     "title": "Classical Allusions in The Taming of The Shrew",
     "pubInfo": "Hermathena (129, In honor of William Bedell Stanford) (Winter 1980): 23-28.",
+    "hasLanguage": "English",
     "letter": "The Taming of the Shrew: notes on some classical allusions",
+    "createdDate": "GREGORIAN:1980:1980",
+    "publishDate": "GREGORIAN:1980:1980",
     "authors": [
       "Niall Rudd"
     ]
@@ -1270,6 +1717,9 @@
     "bookInternalId": "@010028",
     "title": "The Language of Sir Walter Scott",
     "pubInfo": "The Language of Sir Walter Scott: A Study of His Scottish and Period Language. London: Andre Deutsch, 1980.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1980:1980",
+    "publishDate": "GREGORIAN:1980:1980",
     "authors": [
       "Graham Tulloch"
     ]
@@ -1278,7 +1728,10 @@
     "bookInternalId": "@010012",
     "title": "Congreve as a Shakespearean",
     "pubInfo": "Poetry and Drama 1570-1700: Essays in Honour of Harold F. Brooks. Eds. Antony Coleman and Antony Hammond. London and New York: Methuen, 1981. 186-199.",
+    "hasLanguage": "English",
     "letter": "Congreve as a Shakespearean",
+    "createdDate": "GREGORIAN:1981:1981",
+    "publishDate": "GREGORIAN:1981:1981",
     "authors": [
       "Thomas Wallace Craik"
     ]
@@ -1287,6 +1740,9 @@
     "bookInternalId": "@020005",
     "title": "Hamlet (Jenkins edition)",
     "pubInfo": "ed. William Shakespeare. Hamlet. New Arden Shakespeare. London: Methuen, 1982.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1982:1982",
+    "publishDate": "GREGORIAN:1982:1982",
     "authors": [
       "Harold Jenkins"
     ]
@@ -1295,7 +1751,10 @@
     "bookInternalId": "@006112",
     "title": "Cacher, dire, montrer, taire",
     "pubInfo": "Actes des congr\u00e8s de la Soci\u00e9t\u00e9 fran\u00e7aise Shakespeare: Du texte \u00e0 la Sc\u00e8ne: Langages du Th\u00e9\u00e2tre 4 (1983): 112-131.",
+    "hasLanguage": "French",
     "letter": "Cacher, dire, montrer, taire \u2013 r\u00e9gime de l'imaginaire Shakespearien",
+    "createdDate": "GREGORIAN:1983:1983",
+    "publishDate": "GREGORIAN:1983:1983",
     "authors": [
       "Jean-Marie Maguin"
     ]
@@ -1304,6 +1763,9 @@
     "bookInternalId": "@005700",
     "title": "The Insatiate Countess (Melchiori edition)",
     "pubInfo": "ed. John Marston. The Insatiate Countess. Manchester: Manchester University Press, 1984.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1984:1984",
+    "publishDate": "GREGORIAN:1984:1984",
     "authors": [
       "Giorgio Melchiori"
     ]
@@ -1312,7 +1774,10 @@
     "bookInternalId": "@010111",
     "title": "An Unreported Hamlet Allusion",
     "pubInfo": "Notes and Queries 124 (1984): 220-21.",
+    "hasLanguage": "English",
     "letter": "An Unreported Hamlet Allusion",
+    "createdDate": "GREGORIAN:1984:1984",
+    "publishDate": "GREGORIAN:1984:1984",
     "authors": [
       "Kate G. Frost"
     ]
@@ -1321,7 +1786,10 @@
     "bookInternalId": "@010124",
     "title": "Acting and Violence",
     "pubInfo": "Studies in English Literature 1500-1900 24:2 \"Elizabethan and Jacobean Drama\" (Spring 1984): 275-291.",
+    "hasLanguage": "English",
     "letter": "Acting and Violence: The Revenger's Tragedy and Its Departures from Hamlet",
+    "createdDate": "GREGORIAN:1984:1984",
+    "publishDate": "GREGORIAN:1984:1984",
     "authors": [
       "Harvey Scott McMillin"
     ]
@@ -1330,6 +1798,9 @@
     "bookInternalId": "@006095",
     "title": "The Lover s Melancholy (Hill edition)",
     "pubInfo": "ed. John Ford. The Lover's Melancholy. The Revels Plays. Manchester: Manchester University Press, 1985.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1985:1985",
+    "publishDate": "GREGORIAN:1985:1985",
     "authors": [
       "R. F.  Hill"
     ]
@@ -1338,6 +1809,9 @@
     "bookInternalId": "@010047",
     "title": "The Selected Plays of John Marston (Jackson editio",
     "pubInfo": "eds. The Selected Plays of John Marston. Cambridge: Cambridge University Press, 1986.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1986:1986",
+    "publishDate": "GREGORIAN:1986:1986",
     "authors": [
       "Macdonald P. Jackson"
     ]
@@ -1346,6 +1820,9 @@
     "bookInternalId": "@006162",
     "title": "The Roaring Girl (Mulholland edition)",
     "pubInfo": "ed. Thomas Middleton and Thomas Dekker. The Roaring Girl. Manchester: Manchester University Press, 1987.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1987:1987",
+    "publishDate": "GREGORIAN:1987:1987",
     "authors": [
       "Paul A. Mulholland"
     ]
@@ -1354,6 +1831,9 @@
     "bookInternalId": "@010112",
     "title": "Shakespeares Ghost Writers",
     "pubInfo": "Shakespeare's Ghost Writers: Literature as Uncanny Causality. New York and London: Methuen, 1987. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1987:1987",
+    "publishDate": "GREGORIAN:1987:1987",
     "authors": [
       "Marjorie Garber"
     ]
@@ -1362,7 +1842,10 @@
     "bookInternalId": "@010070",
     "title": "Word and Image Clusters in Shakespeare",
     "pubInfo": "Swiss Papers in English Language and Literature (SPELL) 3 The Structure of Texts (1987): 133-157. https://www.e-periodica.ch/cntmng?pid=spe-001:1987:3::281.",
+    "hasLanguage": "English",
     "letter": "Word and Image Clusters in Shakespeare",
+    "createdDate": "GREGORIAN:1987:1987",
+    "publishDate": "GREGORIAN:1987:1987",
     "authors": [
       "Barbara Str\u00e4uli"
     ]
@@ -1371,6 +1854,9 @@
     "bookInternalId": "@010030",
     "title": "Biblical References in Shakespeares Tragedies",
     "pubInfo": "Biblical References in Shakespeare's Tragedies. Newark: University of Delaware Press, 1987.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1987:1987",
+    "publishDate": "GREGORIAN:1987:1987",
     "authors": [
       "Naseeb Azeez Shaheen"
     ]
@@ -1379,6 +1865,9 @@
     "bookInternalId": "@006070",
     "title": "Unpublished Notes on Shakespeares Image Clusters",
     "pubInfo": "Unpublished Notes on Shakespeare's Image Clusters.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1988:1988",
+    "publishDate": "GREGORIAN:1988:1988",
     "authors": [
       "Barbara Str\u00e4uli"
     ]
@@ -1387,6 +1876,9 @@
     "bookInternalId": "@010021",
     "title": "The Works of Thomas Southerne (Jordan edition)",
     "pubInfo": "eds. The Works of Thomas Southerne. 2 vols. Oxford: Clarendon Press, 1988.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1988:1988",
+    "publishDate": "GREGORIAN:1988:1988",
     "authors": [
       "Robert Jordan",
       "Harold Love"
@@ -1396,7 +1888,10 @@
     "bookInternalId": "@010071",
     "title": "Shp, Studley and Golding",
     "pubInfo": "The Review of English Studies 39.156 (1988): 522-527.",
+    "hasLanguage": "English",
     "letter": "Shakespeare, Studley, and Golding",
+    "createdDate": "GREGORIAN:1988:1988",
+    "publishDate": "GREGORIAN:1988:1988",
     "authors": [
       "Anthony Brian Taylor"
     ]
@@ -1405,6 +1900,9 @@
     "bookInternalId": "@010101",
     "title": "The Collected Works of Abraham Cowley",
     "pubInfo": "eds. The Collected Works of Abraham Cowley. 3 vols. Newark: University of Delaware Press, 1989.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1989:1989",
+    "publishDate": "GREGORIAN:1989:1989",
     "authors": [
       "Thomas O. Calhoun",
       "Laurence Heyworth",
@@ -1415,7 +1913,10 @@
     "bookInternalId": "@010224",
     "title": "Latinized Greek Drama",
     "pubInfo": "SQ 41.1 (Spring 1990): 29-48. ",
+    "hasLanguage": "English",
     "letter": "Latinized Greek Drama in Shakespeares Writing of Hamlet",
+    "createdDate": "GREGORIAN:1990:1990",
+    "publishDate": "GREGORIAN:1990:1990",
     "authors": [
       "Louise Schleiner"
     ]
@@ -1424,6 +1925,9 @@
     "bookInternalId": "@006079",
     "title": "Campaspe, Sappho and Phao",
     "pubInfo": "ed. John Lyly. Campaspe - Sappho and Phao. The Revels Plays. Manchester and New York: Manchester University Press, 1991. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1991:1991",
+    "publishDate": "GREGORIAN:1991:1991",
     "authors": [
       "David Martin Bevington"
     ]
@@ -1432,7 +1936,10 @@
     "bookInternalId": "@010034",
     "title": "Shakespeare in Quotation Marks",
     "pubInfo": "The Appropriation of Shakespeare. Ed. Jean Marsden. New York: Harvester Wheatsheaf, 1991.",
+    "hasLanguage": "English",
     "letter": "Shakespeare in Quotation Marks",
+    "createdDate": "GREGORIAN:1991:1991",
+    "publishDate": "GREGORIAN:1991:1991",
     "authors": [
       "Margreta de Grazia"
     ]
@@ -1441,6 +1948,9 @@
     "bookInternalId": "@010035",
     "title": "Rewriting Shp, Rewriting Ourselves",
     "pubInfo": "Rewriting Shakespeare, Rewriting Ourselves. Berkeley: University of California Press, 1991.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1991:1991",
+    "publishDate": "GREGORIAN:1991:1991",
     "authors": [
       "Peter Erickson"
     ]
@@ -1449,6 +1959,9 @@
     "bookInternalId": "@006149",
     "title": "The Making of the National Poet",
     "pubInfo": "The Making of the National Poet: Shakespeare, Adaptation and Authorship. Oxford: Clarendon Press, 1992.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1992:1992",
+    "publishDate": "GREGORIAN:1992:1992",
     "authors": [
       "Michael Dobson"
     ]
@@ -1457,6 +1970,9 @@
     "bookInternalId": "@006158",
     "title": "A Game At Chess (Howard-Hill edition)",
     "pubInfo": "ed. Thomas Middleton. A Game at chess. Manchester and New York: manchester University Press, 1993.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1993:1993",
+    "publishDate": "GREGORIAN:1993:1993",
     "authors": [
       "T. H. Howard-Hill"
     ]
@@ -1465,7 +1981,10 @@
     "bookInternalId": "@010025",
     "title": "Hamlet Then Till Now",
     "pubInfo": "Shakespeare Survey 18: Shakespeare Then Till Now. Ed. Stanley Wells. Cambridge: Cambridge University Press, 1993. 1-14.",
+    "hasLanguage": "English",
     "letter": "'Hamlet' Then Till Now",
+    "createdDate": "GREGORIAN:1993:1993",
+    "publishDate": "GREGORIAN:1993:1993",
     "authors": [
       "Harold Jenkins"
     ]
@@ -1474,6 +1993,9 @@
     "bookInternalId": "@010201",
     "title": "Shakespeare and Ovid",
     "pubInfo": "Shakespeare and Ovid. Oxford: Clarendon Paperbacks, 1994.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1994:1994",
+    "publishDate": "GREGORIAN:1994:1994",
     "authors": [
       "Sir Andrew Jonathan Bate"
     ]
@@ -1482,6 +2004,9 @@
     "bookInternalId": "@006107",
     "title": "The Nature of Roman Comedy",
     "pubInfo": "The Nature of Roman Comedy: A Study in Popular Entertainment. Second Edition. With a foreword and bibliographical appendix by Richard Hunter. Norman: University of Oklahoma Press, 1994.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1994:1994",
+    "publishDate": "GREGORIAN:1994:1994",
     "authors": [
       "George E. Duckworth"
     ]
@@ -1490,6 +2015,9 @@
     "bookInternalId": "@010148",
     "title": "The Anatomy of Melancholy (Faulkner  edition)",
     "pubInfo": "ed. Robert Burton. The Anatomy of Melancholy. 6 vols. Oxford: Clarendon Press, 1994.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1994:1994",
+    "publishDate": "GREGORIAN:1994:1994",
     "authors": [
       "Thomas C. Faulkner"
     ]
@@ -1498,6 +2026,9 @@
     "bookInternalId": "@010082",
     "title": "Hamlet (Hibbard edition)",
     "pubInfo": "ed. William Shakespeare. Hamlet. The Oxford Shakespeare. Oxford and New York: Oxford University Press, 1994.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1994:1994",
+    "publishDate": "GREGORIAN:1994:1994",
     "authors": [
       "G. R. Hibbard"
     ]
@@ -1506,6 +2037,9 @@
     "bookInternalId": "@006133",
     "title": "The Works of John Webster",
     "pubInfo": "eds. The Works of John Webster. 3 vols. Cambridge: Cambridge University Press, 1995-2007.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1995:2007",
+    "publishDate": "GREGORIAN:1995:2007",
     "authors": [
       "David Carnegie",
       "David Gunby",
@@ -1516,6 +2050,9 @@
     "bookInternalId": "@006160",
     "title": "A Mad World, My Masters (Taylor edition)",
     "pubInfo": "ed. Thomas Middleton. A Mad World, My Masters and Other Plays. Oxford World Classics. Oxford: Oxford University Press, 1995.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1995:1995",
+    "publishDate": "GREGORIAN:1995:1995",
     "authors": [
       "Michael Taylor"
     ]
@@ -1524,6 +2061,9 @@
     "bookInternalId": "@010137",
     "title": "The Real Shakespeare",
     "pubInfo": "The Real Shakespeare: Retrieving the Early Years, 1564-1594. New Haven and London: Yale University Press, 1995.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1995:1995",
+    "publishDate": "GREGORIAN:1995:1995",
     "authors": [
       "Eric Sams"
     ]
@@ -1532,7 +2072,10 @@
     "bookInternalId": "@010123",
     "title": "Hamlets Last Words",
     "pubInfo": "Shakespeare Survey 48: Shakespeare and Cultural Exchange. Ed. Stanley Wells. Cambridge: Cambridge University Press, 1995. 113-122.",
+    "hasLanguage": "English",
     "letter": "Hamlet's Last Words",
+    "createdDate": "GREGORIAN:1995:1995",
+    "publishDate": "GREGORIAN:1995:1995",
     "authors": [
       "Tom Matheson"
     ]
@@ -1541,6 +2084,9 @@
     "bookInternalId": "@006076",
     "title": "Endymion (Bevington Edition)",
     "pubInfo": "ed. Joh n Lyly. Endymion. The Revels Plays. Manchester and New York: 1996.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1996:1996",
+    "publishDate": "GREGORIAN:1996:1996",
     "authors": [
       "David Martin Bevington"
     ]
@@ -1549,6 +2095,9 @@
     "bookInternalId": "@010102",
     "title": "Some by Stenography",
     "pubInfo": "'\"Some by Stenography\"? Stationers, Shorthand, and the Early Shakespearean Quartos.' Papers of the Bibliographical Society of America 90.4 (1996): 417-449.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1996:1996",
+    "publishDate": "GREGORIAN:1996:1996",
     "authors": [
       "Adele Davidson"
     ]
@@ -1557,7 +2106,10 @@
     "bookInternalId": "@006210",
     "title": "The Voice of Marlowe s Tamburlaine in early Shakes",
     "pubInfo": "Comparative Drama 31.2 (Summer 1997): 213-223.",
+    "hasLanguage": "English",
     "letter": "The Voice of Marlowe's Tamburlaine in early Shakespeare",
+    "createdDate": "GREGORIAN:1997:1997",
+    "publishDate": "GREGORIAN:1997:1997",
     "authors": [
       "Maurice Charney"
     ]
@@ -1566,6 +2118,9 @@
     "bookInternalId": "@006078",
     "title": "The Roaring Girl (Cook Edition)",
     "pubInfo": "ed. Thomas Middleton and Thomas Dekker. The Roaring Girl. New Mermaids. London: A and C. Black, 1997.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1997:1997",
+    "publishDate": "GREGORIAN:1997:1997",
     "authors": [
       "Elizabeth Cook"
     ]
@@ -1574,7 +2129,10 @@
     "bookInternalId": "@010147",
     "title": "Dismember Me",
     "pubInfo": "Shakespeare Quarterly 48.1 (Spring 1997): 1-16.",
+    "hasLanguage": "English",
     "letter": "Dismember Me: Shakespeare, Paranoia, and the Logic of Mass Culture",
+    "createdDate": "GREGORIAN:1997:1997",
+    "publishDate": "GREGORIAN:1997:1997",
     "authors": [
       "Linda M. Charnes"
     ]
@@ -1583,6 +2141,9 @@
     "bookInternalId": "@010055",
     "title": "There is Nothing Like a Dane",
     "pubInfo": "There is Nothing Like a Dane! The Lighter Side of Hamlet. London: Nick Hern Books, 1998.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1998:1998",
+    "publishDate": "GREGORIAN:1998:1998",
     "authors": [
       "Clive Francis"
     ]
@@ -1591,6 +2152,9 @@
     "bookInternalId": "@006157",
     "title": "Women Beware Women (Dutton edition)",
     "pubInfo": "ed. Thomas Middleton. Women beware Women. Oxford World Classics. Oxford: Oxford University Press, 1999",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1999:1999",
+    "publishDate": "GREGORIAN:1999:1999",
     "authors": [
       "Richard Dutton"
     ]
@@ -1599,6 +2163,9 @@
     "bookInternalId": "@010020",
     "title": "Biblical References in Shakespeares Plays",
     "pubInfo": "Biblical References in Shakespeare's Plays. Newark: University of Delaware Press, 1999.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1999:1999",
+    "publishDate": "GREGORIAN:1999:1999",
     "authors": [
       "Naseeb Azeez Shaheen"
     ]
@@ -1607,6 +2174,9 @@
     "bookInternalId": "@006161",
     "title": "Michaelmas Term (Paster edition)",
     "pubInfo": "ed. Thomas Middleton. Michaelmas Term. Manchester and New York: Manchester University Press, 2000.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2000:2000",
+    "publishDate": "GREGORIAN:2000:2000",
     "authors": [
       "Gail Kern Paster"
     ]
@@ -1615,6 +2185,9 @@
     "bookInternalId": "@010077",
     "title": "OED - Oxford English Dictionary",
     "pubInfo": "OED - Oxford English Dictionary online. 2000. http:/dictionary.oed.com/entrance.dtl.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2000:2000",
+    "publishDate": "GREGORIAN:2000:2000",
     "authors": [
       "_ 0_Anon"
     ]
@@ -1623,7 +2196,10 @@
     "bookInternalId": "@010132",
     "title": "Titles from Hamlet",
     "pubInfo": "2000. http://www.barbarapaul.com/shake/hamlet.html. 22 October 2011.",
+    "hasLanguage": "English",
     "letter": "Titles from HAMLET",
+    "createdDate": "GREGORIAN:2000:2000",
+    "publishDate": "GREGORIAN:2000:2000",
     "authors": [
       "Barbara Paul"
     ]
@@ -1632,6 +2208,9 @@
     "bookInternalId": "@006155",
     "title": "The Works of Richard Edwards (King edition)",
     "pubInfo": "ed. The Works of Richard Edwards. Ed. Ros King. The Revels Plays Companion Library. Manchester and New York: Manchester University Press, 2001.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2001:2001",
+    "publishDate": "GREGORIAN:2001:2001",
     "authors": [
       "Ros King"
     ]
@@ -1640,6 +2219,9 @@
     "bookInternalId": "@006092",
     "title": "Beyond the Spanish Tragedy",
     "pubInfo": "Beyond the Spanish Tragedy. Manchester: Manchester University Press, 2001.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2001:2001",
+    "publishDate": "GREGORIAN:2001:2001",
     "authors": [
       "Lukas Erne"
     ]
@@ -1648,6 +2230,9 @@
     "bookInternalId": "@006166",
     "title": "Wikipedia",
     "pubInfo": "Wikipedia. www.wikipedia.org.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2001:2001",
+    "publishDate": "GREGORIAN:2001:2001",
     "authors": [
       "Larry Sanger",
       "Jimmy Donal Wales"
@@ -1657,7 +2242,10 @@
     "bookInternalId": "@010104",
     "title": "Hamlet Before Its Time",
     "pubInfo": "Modern Language Quarterly 62.4 (December 2001): 355-375.",
+    "hasLanguage": "English",
     "letter": "Hamlet Before Its Time",
+    "createdDate": "GREGORIAN:2001:2001",
+    "publishDate": "GREGORIAN:2001:2001",
     "authors": [
       "Margreta de Grazia"
     ]
@@ -1666,6 +2254,9 @@
     "bookInternalId": "@006235",
     "title": "The Marginalia of Edward de Vere s Geneva Bible",
     "pubInfo": "The Marginalia of Edward de Vere's Geneva Bible: Providential Discovery, Literary Reasoning, and Historical Consequence. PhD University of Massachusetts, February 2001.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2001:2001",
+    "publishDate": "GREGORIAN:2001:2001",
     "authors": [
       "Roger A. Stritmatter"
     ]
@@ -1674,6 +2265,9 @@
     "bookInternalId": "@006102",
     "title": "Thomas of Woodstock (Corbin Edition)",
     "pubInfo": "eds. Thomas of Woodstock. The Revels Plays. Manchester: Manchester University Press, 2002.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2002:2002",
+    "publishDate": "GREGORIAN:2002:2002",
     "authors": [
       "Peter Corbin",
       "Thomas Sedge"
@@ -1683,6 +2277,9 @@
     "bookInternalId": "@006099",
     "title": "Love s Sacrifice (Moore Edition)",
     "pubInfo": "ed. Love's Sacrifice. John Ford. Manchester: Manchester University Press, 2002.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2002:2002",
+    "publishDate": "GREGORIAN:2002:2002",
     "authors": [
       "A. T. Moore"
     ]
@@ -1691,6 +2288,9 @@
     "bookInternalId": "@010114",
     "title": "After Shakespeare",
     "pubInfo": "After Shakespeare: An Anthology. Oxford: Oxford University Press, 2002.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2002:2002",
+    "publishDate": "GREGORIAN:2002:2002",
     "authors": [
       "John Gross"
     ]
@@ -1699,7 +2299,10 @@
     "bookInternalId": "@010157",
     "title": "Hamlets Mice, Motes, Moles, and Miching Malecho",
     "pubInfo": "NLH 33.3 (2002): 435-459.",
+    "hasLanguage": "English",
     "letter": "Hamlet's Mice, Motes, Moles, and Miching Malecho",
+    "createdDate": "GREGORIAN:2002:2002",
+    "publishDate": "GREGORIAN:2002:2002",
     "authors": [
       "Ruth Stevenson"
     ]
@@ -1708,6 +2311,9 @@
     "bookInternalId": "@010117",
     "title": "Shakespeare and the History of Soliloquies",
     "pubInfo": "Shakespeare and the History of Soliloquies. Madison and Teaneck: Fairleigh Dickinson University Press, 2003.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2003:2003",
+    "publishDate": "GREGORIAN:2003:2003",
     "authors": [
       "James Hirsh"
     ]
@@ -1716,6 +2322,9 @@
     "bookInternalId": "@006173",
     "title": "A King and No King (Bliss edition)",
     "pubInfo": "ed. Francis Beaumont and John Fletcher. A King and No King.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2004:2004",
+    "publishDate": "GREGORIAN:2004:2004",
     "authors": [
       "Lee Bliss"
     ]
@@ -1724,6 +2333,9 @@
     "bookInternalId": "@006101",
     "title": "The 1st and 2nd Parts of King Edward IV (Rowland)",
     "pubInfo": "ed. The First and Second Part of King Edward IV. Thomas Heywood. Manchester: Manchester University Press, 2005.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2005:2005",
+    "publishDate": "GREGORIAN:2005:2005",
     "authors": [
       "Richard Rowland"
     ]
@@ -1732,6 +2344,9 @@
     "bookInternalId": "@010149",
     "title": "BRITP - British Periodicals ",
     "pubInfo": "British Periodicals. https://search.proquest.com/britishperiodicals?accountid=14616. 2005.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2005:2005",
+    "publishDate": "GREGORIAN:2005:2005",
     "authors": [
       "_ 0_Anon"
     ]
@@ -1740,7 +2355,10 @@
     "bookInternalId": "@010043",
     "title": "Hamlet and Cicero",
     "pubInfo": "Unpublished manuscript.",
+    "hasLanguage": "English",
     "letter": "Hamlet and Cicero",
+    "createdDate": "GREGORIAN:2005:2005",
+    "publishDate": "GREGORIAN:2005:2005",
     "authors": [
       "Sir Brian William  Vickers"
     ]
@@ -1749,6 +2367,9 @@
     "bookInternalId": "@010113",
     "title": "Google Books",
     "pubInfo": "Google Books. 2005. https://books.google.com/.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2005:2005",
+    "publishDate": "GREGORIAN:2005:2005",
     "authors": [
       "_ 0_Anon"
     ]
@@ -1757,6 +2378,9 @@
     "bookInternalId": "@010158",
     "title": "The Stukeley plays",
     "pubInfo": "ed. The Stukeley Plays. The Battle of Alcazar by George Peele, The Famous History of the Life and Death of Captain Stukeley. Manchester: Manchester University Press 2005.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2005:2005",
+    "publishDate": "GREGORIAN:2005:2005",
     "authors": [
       "Charles Edelman"
     ]
@@ -1765,6 +2389,9 @@
     "bookInternalId": "@006103",
     "title": "The Woman in the Moon (Scragg edition)",
     "pubInfo": "ed. John Lyly. The Woman in the Moon. Manchester and New York: Manchester University Press, 2006.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2006:2006",
+    "publishDate": "GREGORIAN:2006:2006",
     "authors": [
       "Leah Scragg"
     ]
@@ -1773,6 +2400,9 @@
     "bookInternalId": "@010135",
     "title": "Shakespeares Sayings",
     "pubInfo": "\"Shakespeare's Sayings\". Shakespeare and Elizabethan Popular Culture. Eds. Stuart Gillespie and Neil Rhodes. London: The Arden Shakespeare, 2006. 155-173.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2006:2006",
+    "publishDate": "GREGORIAN:2006:2006",
     "authors": [
       "Neil Rhodes"
     ]
@@ -1781,6 +2411,9 @@
     "bookInternalId": "@010037",
     "title": "Hamlet (Mueller edition)",
     "pubInfo": "ed. William Shakespeare. Hamlet. Englisch-deutsche Studienausgabe. T\u00fcbingen: Stauffenberg, 2006. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2006:2006",
+    "publishDate": "GREGORIAN:2006:2006",
     "authors": [
       "Wolfgang M\u00fcller"
     ]
@@ -1789,6 +2422,9 @@
     "bookInternalId": "@010023",
     "title": "Early Responses to Renaissance Drama",
     "pubInfo": "Early Responses to Renaissance Drama. Cambridge: Cambridge University Press, 2006.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2006:2006",
+    "publishDate": "GREGORIAN:2006:2006",
     "authors": [
       "Charles Whitney"
     ]
@@ -1797,6 +2433,9 @@
     "bookInternalId": "@006152",
     "title": "DEEP Database of Early English Playbooks",
     "pubInfo": "DEEP - Database of Early English Playbooks. http://deep.sas.upenn.edu/. 2007.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007",
     "authors": [
       "Alan B. Farmer",
       "Zachary Lesser"
@@ -1806,6 +2445,9 @@
     "bookInternalId": "@006163",
     "title": "The Roman Actor (White edition)",
     "pubInfo": "ed. Philip Massinger. The Roman actor. Manchester: Manchester University Press, 2007.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007",
     "authors": [
       "Martin White"
     ]
@@ -1814,7 +2456,10 @@
     "bookInternalId": "@006170",
     "title": "Sir Thomas North as Sir John Daw",
     "pubInfo": "Notes and Queries (September 2007): 321-324.",
+    "hasLanguage": "English",
     "letter": "Sir Thomas North as Sir John Daw",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007",
     "authors": [
       "Dennis McCarthy"
     ]
@@ -1823,7 +2468,10 @@
     "bookInternalId": "@010079",
     "title": "Against Thinking",
     "pubInfo": "PMLA 122.5 (2007):1580-1587.",
+    "hasLanguage": "English",
     "letter": "Against Thinking",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007",
     "authors": [
       "Peter Stallybrass"
     ]
@@ -1832,7 +2480,10 @@
     "bookInternalId": "@010169",
     "title": "Francis Beaumonts Allusions to Shakespeare in The",
     "pubInfo": "Notes and Queries (2007): 320-321.",
+    "hasLanguage": "English",
     "letter": "Francis Beaumont's Allusions to Shakespeare in The Woman Hater",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007",
     "authors": [
       "Katherine Dorothea Duncan-Jones"
     ]
@@ -1841,6 +2492,9 @@
     "bookInternalId": "@010107",
     "title": "DLCPP - Digital Library of Classic Protestant Text",
     "pubInfo": "DLCPP - Digital Library of Classic Protestant Texts. 2007. http://solomon.tcpt.alexanderstreet.com. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007",
     "authors": [
       "_ 0_Anon"
     ]
@@ -1849,6 +2503,9 @@
     "bookInternalId": "@010036",
     "title": "Looking for Hamlet",
     "pubInfo": "Looking for Hamlet. Basingstoke: Palgrave Macmillan, 2007.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007",
     "authors": [
       "Marvin W. Hunt"
     ]
@@ -1857,6 +2514,9 @@
     "bookInternalId": "@010126",
     "title": "The Collected Works of Thomas Middleton (Taylor ed",
     "pubInfo": "eds. The Collected Works of Thomas Middleton. Oxford: Clarendon Press, 2007.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007",
     "authors": [
       "John Lavagnino",
       "Gary Taylor"
@@ -1866,6 +2526,9 @@
     "bookInternalId": "@006097",
     "title": "Love s Metamorphosis (Scragg edition)",
     "pubInfo": "ed. John Lyly. Love's Metamorphosis. The Revels Plays. Manchester and New York: Manchester University Press, 2008.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2008:2008",
+    "publishDate": "GREGORIAN:2008:2008",
     "authors": [
       "Leah Scragg"
     ]
@@ -1874,6 +2537,9 @@
     "bookInternalId": "@010098",
     "title": "Marston, Rivalry, Rapprochement and Jonson",
     "pubInfo": "Marston, Rivalry, Rapprochement and Jonson. Aldershot: Ashgate, 2008.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2008:2008",
+    "publishDate": "GREGORIAN:2008:2008",
     "authors": [
       "Charles Cathcart"
     ]
@@ -1882,7 +2548,10 @@
     "bookInternalId": "@010103",
     "title": "William Shakespeare and Edmund Burke",
     "pubInfo": "Shakespeare and the Eighteenth Century. Eds. Peter Sabor and Paul Yachnin. London: Ashgate, 2008. 85-102.",
+    "hasLanguage": "English",
     "letter": "William Shakespeare and Edmund Burke: Literary Allusion in Eighteenth-Century British Political Rhetoric",
+    "createdDate": "GREGORIAN:2008:2008",
+    "publishDate": "GREGORIAN:2008:2008",
     "authors": [
       "Frans de Bruyn"
     ]
@@ -1891,7 +2560,10 @@
     "bookInternalId": "@010005",
     "title": "Quoting Hamlet in the Early 17th Century",
     "pubInfo": "Modern Philology 105.3 (2008): 510-534.",
+    "hasLanguage": "English",
     "letter": "Quoting Hamlet in the Early Seventeenth Century",
+    "createdDate": "GREGORIAN:2008:2008",
+    "publishDate": "GREGORIAN:2008:2008",
     "authors": [
       "Sayre Greenfield"
     ]
@@ -1900,7 +2572,10 @@
     "bookInternalId": "@006224",
     "title": "How the Renaissance (Mis)Used Sources",
     "pubInfo": "How to Do Things with Shakespeare. Ed. Laurie Maguire. Oxford: Blackwell, 2008. 54-76.",
+    "hasLanguage": "English",
     "letter": "How the Renaissance (Mis)Used Sources: The Art of Misquotation",
+    "createdDate": "GREGORIAN:2008:2008",
+    "publishDate": "GREGORIAN:2008:2008",
     "authors": [
       "Julie Maxwell"
     ]
@@ -1909,7 +2584,10 @@
     "bookInternalId": "@006130",
     "title": "Locrine, Selimus, Robert Greene, and Thomas Lodge",
     "pubInfo": "Notes and Queries 56:4 (/December 2009): 559\u2013563.",
+    "hasLanguage": "English",
     "letter": "Locrine, Selimus, Robert Greene, and Thomas Lodge",
+    "createdDate": "GREGORIAN:2009:2009",
+    "publishDate": "GREGORIAN:2009:2009",
     "authors": [
       "Donna M. Murphy"
     ]
@@ -1918,7 +2596,10 @@
     "bookInternalId": "@006146",
     "title": "Hamlet and Textual Re-Production 1550-1650",
     "pubInfo": "Swiss Papers in English Language and Literature (SPELL) 22: The Construction of Textual Identity in Medieval and Early Modern Literature. Eds. Denis Renevey and Indira Ghose. T\u00fcbingen: Gunter Narr, 2009. 163-176.",
+    "hasLanguage": "English",
     "letter": "Hamlet and Textual Re-Production 1550-1650",
+    "createdDate": "GREGORIAN:2009:2009",
+    "publishDate": "GREGORIAN:2009:2009",
     "authors": [
       "(female) 0_Anon"
     ]
@@ -1927,6 +2608,9 @@
     "bookInternalId": "@006147",
     "title": "A Key to All Quotations",
     "pubInfo": "'A \"Key to all Quotations\"? A corpus-based parameter model of intertextuality.' Literary and Linguistic Computing 2010. http://llc.oxfordjournals.org/content/early/2010/05/18/llc.fqq003.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2010:2010",
+    "publishDate": "GREGORIAN:2010:2010",
     "authors": [
       "(female) 0_Anon"
     ]
@@ -1935,6 +2619,9 @@
     "bookInternalId": "@006090",
     "title": "An Humorous Day s Mirth (Edelman edition)",
     "pubInfo": "ed. George Chapman. An Humorous Day's Mirth. The Revels Plays. Manchester: Manchester University Press, 2010. ",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2010:2010",
+    "publishDate": "GREGORIAN:2010:2010",
     "authors": [
       "Charles Edelman"
     ]
@@ -1943,6 +2630,9 @@
     "bookInternalId": "@010084",
     "title": "FDT - Folger Digital Texts",
     "pubInfo": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts. 2010. https://www.folgerdigitaltexts.org.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2010:2010",
+    "publishDate": "GREGORIAN:2010:2010",
     "authors": [
       "Barbara Mowat",
       "Rebecca Niles",
@@ -1954,7 +2644,10 @@
     "bookInternalId": "@010060",
     "title": "Shakespeare and Shorthand Once Again",
     "pubInfo": "PBSA 104 (2010): 141-180.",
+    "hasLanguage": "English",
     "letter": "Shakespeare and Shorthand Once Again",
+    "createdDate": "GREGORIAN:2010:2010",
+    "publishDate": "GREGORIAN:2010:2010",
     "authors": [
       "Richard Knowles"
     ]
@@ -1963,6 +2656,9 @@
     "bookInternalId": "@006089",
     "title": "The Lady s Trial (Hopkins edition)",
     "pubInfo": "ed. John Ford. The Lady's Trial. The Revels Plays. Manchester: Manchester University Press, 2011.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2011:2011",
+    "publishDate": "GREGORIAN:2011:2011",
     "authors": [
       "Lisa Hopkins"
     ]
@@ -1971,7 +2667,10 @@
     "bookInternalId": "@010096",
     "title": "Fictions of Collaboration",
     "pubInfo": "Medieval and Early Modern Authorship. Eds. G. Bolens and Lukas Erne. T\u00fcbingen: Gunter Narr, 2011. 175-198.",
+    "hasLanguage": "English",
     "letter": "Fictions of Collaboration: Authors and Editors in the Sixteenth Century",
+    "createdDate": "GREGORIAN:2011:2011",
+    "publishDate": "GREGORIAN:2011:2011",
     "authors": [
       "Colin Burrow"
     ]
@@ -1980,7 +2679,10 @@
     "bookInternalId": "@010019",
     "title": "Hamlets Horatio as an Allusion to Horace",
     "pubInfo": "Notes and Queries 59.1 (2012): 76-77.",
+    "hasLanguage": "English",
     "letter": "Hamlet's Horatio as an Allusion to Horace's Odes",
+    "createdDate": "GREGORIAN:2012:2012",
+    "publishDate": "GREGORIAN:2012:2012",
     "authors": [
       "Jacob Sider Jost"
     ]
@@ -1989,6 +2691,9 @@
     "bookInternalId": "@006071",
     "title": "Shakespeare and Classical Antiquity",
     "pubInfo": "Shakespeare and Classical Antiquity. Oxford: Oxford University Press, 2013.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2013:2013",
+    "publishDate": "GREGORIAN:2013:2013",
     "authors": [
       "Colin Burrow"
     ]
@@ -1997,6 +2702,9 @@
     "bookInternalId": "@006087",
     "title": "A Trick to Catch the Old One (Mulholland Edition)",
     "pubInfo": "ed. Thomas Middleton. A Trick to Catch the Old One. The Revels Plays. Manchester: Manchester University Press, 2013.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2013:2013",
+    "publishDate": "GREGORIAN:2013:2013",
     "authors": [
       "Paul A. Mulholland"
     ]
@@ -2005,7 +2713,10 @@
     "bookInternalId": "@006169",
     "title": "Shakespeare and Arden of Faversham",
     "pubInfo": "Notes and Queries (August 2013): 391-396.",
+    "hasLanguage": "English",
     "letter": "Shakespeare and Arden of Faversham",
+    "createdDate": "GREGORIAN:2013:2013",
+    "publishDate": "GREGORIAN:2013:2013",
     "authors": [
       "Dennis McCarthy"
     ]
@@ -2014,6 +2725,9 @@
     "bookInternalId": "@010010",
     "title": "Collaborative Plays",
     "pubInfo": "eds. William Shakespeare and Others: Collaborative Plays. Basingstoke: Palgrave Macmillan, 2013.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2013:2013",
+    "publishDate": "GREGORIAN:2013:2013",
     "authors": [
       "Sir Andrew Jonathan Bate",
       "Eric Rasmussen"
@@ -2023,6 +2737,9 @@
     "bookInternalId": "@010029",
     "title": "The Marlowe-Shakespeare Continuum",
     "pubInfo": "The Marlowe-Shakespeare Continuum: Christopher Marlowe, Thomas Nashe, and Authorship of Early Shakespeare and Anonymous Plays. Newcastle, 2013.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2013:2013",
+    "publishDate": "GREGORIAN:2013:2013",
     "authors": [
       "Donna M. Murphy"
     ]
@@ -2031,7 +2748,10 @@
     "bookInternalId": "@010044",
     "title": "Allusions to Shakespeare in The Tragedy Of Messali",
     "pubInfo": "Notes and Queries (2013): 43-45.",
+    "hasLanguage": "English",
     "letter": "Allusions to Shakespeare in Nathaniel Richards's The Tragedy Of Messalina",
+    "createdDate": "GREGORIAN:2013:2013",
+    "publishDate": "GREGORIAN:2013:2013",
     "authors": [
       "Kate Wilkinson"
     ]
@@ -2040,6 +2760,9 @@
     "bookInternalId": "@006113",
     "title": "Shakespeare in Anthologies",
     "pubInfo": "Shakespeare in Anthologies. PhD King's College London, 2014.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2014:2014",
+    "publishDate": "GREGORIAN:2014:2014",
     "authors": [
       "Anne Christine Isherwood"
     ]
@@ -2048,7 +2771,10 @@
     "bookInternalId": "@006175",
     "title": "Marlovian Residue in Jonson s Poetaster",
     "pubInfo": "Early Modern Literary Studies. Special Issue 23 (2014): 1-26.",
+    "hasLanguage": "English",
     "letter": "Marlovian Residue in Jonson's Poetaster",
+    "createdDate": "GREGORIAN:2014:2014",
+    "publishDate": "GREGORIAN:2014:2014",
     "authors": [
       "M. L. Stapleton"
     ]
@@ -2057,7 +2783,10 @@
     "bookInternalId": "@010136",
     "title": "His Collaborator George Wilkins",
     "pubInfo": "The Shakespeare Circle: An Alternative Biography. Eds. Paul Edmondson and Stanley Wells. Cambridge: Cambridge University Press, 2015. 289-296.",
+    "hasLanguage": "English",
     "letter": "His Collaborator George Wilkins",
+    "createdDate": "GREGORIAN:2015:2015",
+    "publishDate": "GREGORIAN:2015:2015",
     "authors": [
       "Duncan Salkeld"
     ]
@@ -2066,6 +2795,9 @@
     "bookInternalId": "@010200",
     "title": "Casual Shakespeare",
     "pubInfo": "Casual Shakespeare: Three Centuries of Verbal Echoes. London: Routledge, 2018.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2018:2018",
+    "publishDate": "GREGORIAN:2018:2018",
     "authors": [
       "(female) 0_Anon"
     ]
@@ -2074,6 +2806,9 @@
     "bookInternalId": "@006088",
     "title": "All Fools (Edelman edition)",
     "pubInfo": "ed. George Chapman. All Fools. The Revels Plays. Manchester: Manchester University Press, 2018.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2018:2018",
+    "publishDate": "GREGORIAN:2018:2018",
     "authors": [
       "Charles Edelman"
     ]
@@ -2082,6 +2817,9 @@
     "bookInternalId": "@006110",
     "title": "Loeb Classics",
     "pubInfo": "https://www.loebclassics.com/",
+    "hasLanguage": "Latin",
+    "createdDate": "GREGORIAN:2019:2019",
+    "publishDate": "GREGORIAN:2019:2019",
     "authors": [
       "_ 0_Anon"
     ]
@@ -2090,6 +2828,9 @@
     "bookInternalId": "@006121",
     "title": "DEx Dramatic Extracts",
     "pubInfo": "Digital Extracts. https://dex.itercommunity.org/.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2019:2019",
+    "publishDate": "GREGORIAN:2019:2019",
     "authors": [
       "Laura Estill",
       "Beatrice Montedoro"

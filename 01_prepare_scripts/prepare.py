@@ -212,13 +212,18 @@ def create_sec_book(sec_b_id, pub_info):
     book = {
         "bookInternalId": allSecBooks[sec_b_id]["bookInternalId"],
         "edition": pub_info["pubInfo"],
-        "isWrittenBy": []
+        "isWrittenBy": [],
+        "hasLanguage": pub_info["hasLanguage"],
     }
 
     if "letter" in pub_info:
         book["title"] = pub_info["letter"]
     else:
         book["title"] = allSecBooks[sec_b_id]["title"]
+
+    if "createdDate" in pub_info and "publishDate" in pub_info:
+        book["createdDate"] = pub_info["createdDate"]
+        book["publishDate"] = pub_info["publishDate"]
 
     books[sec_b_id] = book
 
