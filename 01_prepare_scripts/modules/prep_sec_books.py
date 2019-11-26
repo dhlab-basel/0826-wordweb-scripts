@@ -96,6 +96,14 @@ def prepare_csv():
                             sec_book["createdDate"] = "GREGORIAN:{}:{}".format(row[5], row[6])
                             sec_book["publishDate"] = "GREGORIAN:{}:{}".format(row[5], row[6])
 
+                        if row[18]:
+                            sec_book["hasGenre"] = []
+                            sec_book["hasGenre"].append(row[18])
+
+                        # Multiple subjects
+                        if row[19]:
+                            sec_book["hasSubject"] = row[19].split(" / ")
+
                         # ---------- AUTHOR
                         # Multiple names of authors
                         names = row[2].split(" / ")

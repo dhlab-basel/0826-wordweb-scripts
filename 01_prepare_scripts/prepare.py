@@ -141,11 +141,7 @@ def create_book(b_id, data_row, pub_info, pub_or_info):
     book = {
         "bookInternalId": allBooks[b_id]["bookInternalId"],
         "isWrittenBy": [],
-        "performedIn": [],
-        "performedBy": [],
-        "hasLanguage": data_row[9],
-        "hasGenre": [],
-        "hasSubject": []
+        "hasLanguage": data_row[9]
     }
 
     if data_row[5] and data_row[6]:
@@ -185,21 +181,33 @@ def update_book(b_id, auth_names, ven_id, comp_id, gen, sub, lex_id):
 
     # set function makes sure that every key exists once
     if ven_id:
+        if "performedIn" not in books[b_id]:
+            books[b_id]["performedIn"] = []
+
         temp = set(books[b_id]["performedIn"])
         temp.add(ven_id)
         books[b_id]["performedIn"] = list(temp)
 
     if comp_id:
+        if "performedBy" not in books[b_id]:
+            books[b_id]["performedBy"] = []
+
         temp = set(books[b_id]["performedBy"])
         temp.add(comp_id)
         books[b_id]["performedBy"] = list(temp)
 
     if gen:
+        if "hasGenre" not in books[b_id]:
+            books[b_id]["hasGenre"] = []
+
         temp = set(books[b_id]["hasGenre"])
         temp.add(gen)
         books[b_id]["hasGenre"] = list(temp)
 
     if sub:
+        if "hasSubject" not in books[b_id]:
+            books[b_id]["hasSubject"] = []
+
         temp = set(books[b_id]["hasSubject"])
         temp.add(sub)
         books[b_id]["hasSubject"] = list(temp)
@@ -213,7 +221,7 @@ def create_sec_book(sec_b_id, pub_info):
         "bookInternalId": allSecBooks[sec_b_id]["bookInternalId"],
         "edition": pub_info["pubInfo"],
         "isWrittenBy": [],
-        "hasLanguage": pub_info["hasLanguage"],
+        "hasLanguage": pub_info["hasLanguage"]
     }
 
     if "letter" in pub_info:
@@ -224,6 +232,12 @@ def create_sec_book(sec_b_id, pub_info):
     if "createdDate" in pub_info and "publishDate" in pub_info:
         book["createdDate"] = pub_info["createdDate"]
         book["publishDate"] = pub_info["publishDate"]
+
+    if "hasGenre" in pub_info:
+        book["hasGenre"] = pub_info["hasGenre"]
+
+    if "hasSubject" in pub_info:
+        book["hasSubject"] = pub_info["hasSubject"]
 
     books[sec_b_id] = book
 
@@ -248,7 +262,6 @@ def create_passage(pa_id, text, text_or, pub, pub_or):
     passage = {
         "hasText": text,
         "occursIn": [],
-        "isMentionedIn": [],
         "contains": [],
         "hasMarking": "Unmarked",
         "hasResearchField": []
@@ -276,6 +289,9 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, sta
         passages[pa_id]["wasContributedBy"] = co_or_id
 
     if sec_pa_id:
+        if "isMentionedIn" not in passages[pa_id]:
+            passages[pa_id]["isMentionedIn"] = []
+
         temp = set(passages[pa_id]["isMentionedIn"])
         temp.add(sec_pa_id)
         passages[pa_id]["isMentionedIn"] = list(temp)
@@ -299,7 +315,7 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, sta
 
 def create_sec_passage(sec_pa_id, pag):
     passage = {
-        "page": pag,
+        "hasPage": pag,
         "occursIn": [],
         "hasStatus": "weak"
     }
