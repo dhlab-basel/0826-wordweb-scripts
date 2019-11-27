@@ -32,13 +32,14 @@ import prep_companies
 # preparation for venues
 import prep_venues
 
-# Files with data from hyperhamlet that should be imported
+# Files with data from HyperHamlet that should be imported
 # export_1.csv is from Act 4, Scene 6, line "Let them come in."
 # export_2.csv is from Act 4, Scene 6, line "I do not know from what part of the world"
 # export_3.csv is from Act 4, Scene 6, line "I should be greeted, if not from Lord Hamlet."
 # export_4.csv is from Act 4, Scene 6, line "Let him bless thee too."
 # export_5.csv is from Act 4, Scene 6, line "He shall, sir, an't please him. There's a letter"
 # export_6.csv is from Act 4, Scene 6, line "you, sir; it comes from the ambassador that was"
+# export_7.csv is from Act 4, Scene 6, line "bound for England; if your name be Horatio, as I am"
 csv_files = [
     "01_prepare_scripts/csv/export_1.csv",
     "01_prepare_scripts/csv/export_2.csv",
@@ -49,7 +50,7 @@ csv_files = [
     "01_prepare_scripts/csv/export_7.csv"
 ]
 
-# Every object contains all the resources of the same type which occur in hyperhamlet.
+# Every object contains all the resources of the same type which occurs in HyperHamlet.
 allAuthors = prep_authors.prepare()
 allBooks = prep_books.prepare()
 allSecBooks = prep_sec_books.prepare_csv()
@@ -75,6 +76,9 @@ json_files = [
     "00_data_as_json/company.json",
     "00_data_as_json/venue.json"
 ]
+
+# File where human-to-company information are listed
+human_company = "01_prepare_scripts/csv/human.csv"
 
 # Clears all json files
 for file in json_files:
@@ -149,9 +153,9 @@ def create_book(b_id, data_row, pub_info, pub_or_info):
         book["publishDate"] = "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
 
     if "letter" in pub_info:
-        book["title"] = pub_info["letter"]
+        book["bookTitle"] = pub_info["letter"]
     else:
-        book["title"] = allBooks[b_id]["title"]
+        book["bookTitle"] = allBooks[b_id]["bookTitle"]
 
     if "pubInfo" in pub_info:
         book["edition"] = pub_info["pubInfo"]
@@ -225,9 +229,9 @@ def create_sec_book(sec_b_id, pub_info):
     }
 
     if "letter" in pub_info:
-        book["title"] = pub_info["letter"]
+        book["bookTitle"] = pub_info["letter"]
     else:
-        book["title"] = allSecBooks[sec_b_id]["title"]
+        book["bookTitle"] = allSecBooks[sec_b_id]["bookTitle"]
 
     if "createdDate" in pub_info and "publishDate" in pub_info:
         book["createdDate"] = pub_info["createdDate"]
@@ -586,6 +590,48 @@ def start():
         except Exception as err:
             print("FAIL: start.py", err, line, csv_file)
             raise SystemExit(0)
+
+    # Set relation between human and company
+    try:
+        with open(human_company) as h:
+
+            csv_reader = csv.reader(h, delimiter=';')
+
+            # line number in csv file
+            line = 0
+
+            for row in csv_reader:
+
+                # Skip first row with column title
+                # if line is not 0:
+                #
+                #     human_comp_id = id.generate(row[2])
+                #     if human_comp_id in allAuthors:
+                #         print("Yes")
+                #     else:
+                #         print("D'oh!")
+                #
+                #     comp_ven_names = row[12].split(" / ")
+                #
+                #     for comp_ven_name in comp_ven_names:
+                #         comp_ven_data, type = comp_ven.info(comp_ven_name, line, human_company)
+                #
+                #         if type is "company":
+                #             company_id = id.generate(comp_ven_data["companyInternalId"])
+                #
+                #             if company_id not in allCompanies:
+                #                 print("FAIL Company", company_id, line, human_company)
+                #             else:
+                #                 print("Yes company")
+
+
+
+                line += 1
+
+
+    except Exception as err:
+        print("FAIL: human.csv")
+        raise SystemExit(0)
 
     # Saves the objects which occurs in the csv files in to json files
     json.save(json_files[0], authors)

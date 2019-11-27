@@ -71,7 +71,7 @@ def start():
         ww_bulk_object.add_resource(
             "book",
             book,
-            books[book]["title"][:16],
+            books[book]["bookTitle"][:16],
             books[book]
         )
 

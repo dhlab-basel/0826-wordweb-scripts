@@ -39,7 +39,7 @@ def prepare():
                     # id of the linecategory row in table
                     # print("SEC ID: " + books.group(1) + " | SEC TITLE: " + sec.group(1))
                     book["bookInternalId"] = books.group(1)
-                    book["title"] = sec.group(1)
+                    book["bookTitle"] = sec.group(1)
 
                     # Create a key which has the following format {internalID}
                     unique_key = book["bookInternalId"]
@@ -82,7 +82,7 @@ def prepare_csv():
                     sec_books = re.search("(@\d{6})\sSEC\s\-\s(.*)", row[13])
                     if sec_books:
                         sec_book["bookInternalId"] = sec_books.group(1)
-                        sec_book["title"] = sec_books.group(2)
+                        sec_book["bookTitle"] = sec_books.group(2)
 
                         s = ed.info(row[4])
 
