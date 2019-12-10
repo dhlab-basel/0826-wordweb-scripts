@@ -36,17 +36,21 @@ def prepare():
 
             if row["description"]:
 
-                # birth = re.search("(?<=b\.\s)\d{4}(.*)", row["description"])
-                birth = re.search("(.*)b\.\s(.*)", row["description"])
-                # death = re.search("(?<=d\.\s)\d{4}(.*)", row["description"])
-                death = re.search("(.*)d\.\s(.*)", row["description"])
-                # floruit = re.search("(?<=fl\.\s)\d{4}(?!\-)(.*)", row["description"])
-                floruit = re.search("(.*)fl\.\s(.*)", row["description"])
-                # birthDeath = re.search("(.*)(\d{4})-(\d{4})(.*)", row["description"])
-                birthDeath = re.search("(.*?)(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))-(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))(.*)", row["description"])
+                # ignore description if there is exclamation mark
                 stop = re.search("!(.*)", row["description"])
+                # birth date
+                birth = re.search("(.*)b\.\s(.*)", row["description"])
+                # death date
+                death = re.search("(.*)d\.\s(.*)", row["description"])
+                # florouit date
+                floruit = re.search("(.*)fl\.\s(.*)", row["description"])
+                # birth date as span
+                birthDeath = re.search("(.*?)(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))-(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))(.*)", row["description"])
+                # female authors
+                female = re.search("(\*)(.*)", row["description"])
 
                 if stop:
+                    # dates are saved in the description
                     description = stop.group(1)
 
                 elif birth:
@@ -118,10 +122,19 @@ def prepare():
 
                     # add description
                     description = birthDeath.group(1) + birthDeath.group(10)
+                # all other descriptions which does not follow the defined rules
+                else:
+                    description = row["description"]
 
+                # checks if there are only whitespaces or empty strings (excluding year numbers)
                 if description.strip():
                     # add description to author after it has trimmed the string
                     author["description"] = description.rstrip()
+                    # add sex of author
+                    if female:
+                        author["hasGender"] = "female"
+                    else:
+                        author["hasGender"] = "male"
 
             # Create a key which has the following format{firstName lastName}
             unique_key = "{} {}".format(author["firstName"], author["lastName"])

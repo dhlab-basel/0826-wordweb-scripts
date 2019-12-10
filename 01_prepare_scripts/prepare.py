@@ -104,7 +104,7 @@ def create_author(auth_id):
     person = {
         "firstName": allAuthors[auth_id]["firstName"],
         "lastName": allAuthors[auth_id]["lastName"],
-        "hasGender": "male",
+        "hasGender": allAuthors[auth_id]["hasGender"],
         "personInternalId": person_id_start
     }
 
@@ -161,7 +161,7 @@ def create_book(b_id, data_row, pub_info, pub_or_info):
         book["edition"] = pub_info["pubInfo"]
 
     if "pubInfo" in pub_or_info:
-        book["editionOriginal"] = pub_or_info["pubInfo"]
+        book["editionHist"] = pub_or_info["pubInfo"]
 
     books[b_id] = book
 
@@ -524,7 +524,10 @@ def start():
                         for lex_name in lex_names:
                             le = lex.info(lex_name, line, csv_file)
 
-                            lexia_id = id.generate(le["lexiaInternalId"])
+                            # Create a key which has the following format{firstName lastName}
+                            unique_key = "{} {}".format(le["lexiaTitle"], le["lexiaInternalId"])
+
+                            lexia_id = id.generate(unique_key)
 
                             if lexia_id not in allLexias:
                                 print("FAIL Lexia", lexia_id, le, line, csv_file)

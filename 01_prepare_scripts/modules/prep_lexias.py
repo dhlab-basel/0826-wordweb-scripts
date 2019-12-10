@@ -27,7 +27,10 @@ def prepare():
             lexia = ed.info(row["name"], None, None)
 
             if lexia:
-                lexia_id = id.generate(lexia["lexiaInternalId"])
+                # Create a key which has the following format{firstName lastName}
+                unique_key = "{} {}".format(lexia["lexiaTitle"], lexia["lexiaInternalId"])
+
+                lexia_id = id.generate(unique_key)
                 all_lexia[lexia_id] = lexia
 
         conn.close()

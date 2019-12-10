@@ -128,7 +128,7 @@ def prepare_csv():
                         # Adding the book to the allBooks object
                         all_sec_books[sec_book_id] = sec_book
                     else:
-                        print("FAIL prep_sec_books.py")
+                        print("FAIL prep_sec_books.py", line, row[13])
                         raise SystemExit(0)
 
                 line += 1

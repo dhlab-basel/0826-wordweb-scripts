@@ -142,138 +142,81 @@
           {
             "name": "Nature",
             "labels": {
-              "de": "???",
+              "de": "Natur",
               "en": "Nature"
             },
             "nodes": [
               {
-                "name": "Landscape",
+                "name": "Plants",
                 "labels": {
-                  "de": "Landschaft",
-                  "en": "Landscape"
-                },
-                "nodes": [
-                  {
-                    "name": "mountain",
-                    "labels": {
-                      "de": "Berg",
-                      "en": "mountain"
-                    }
-                  },
-                  {
-                    "name": "hill",
-                    "labels": {
-                      "de": "Hügel",
-                      "en": "hill"
-                    }
-                  },
-                  {
-                    "name": "road",
-                    "labels": {
-                      "de": "Strasse",
-                      "en": "road"
-                    }
-                  }
-                ]
+                  "de": "Pflanzen",
+                  "en": "Plants"
+                }
               },
               {
                 "name": "Birds",
                 "labels": {
                   "de": "Vögel",
                   "en": "Birds"
-                },
-                "nodes": [
-                  {
-                    "name": "crow",
-                    "labels": {
-                      "de": "Krähe",
-                      "en": "crow"
-                    }
-                  },
-                  {
-                    "name": "woodcock",
-                    "labels": {
-                      "de": "???",
-                      "en": "woodcock"
-                    }
-                  }
-                ]
+                }
               },
               {
-                "name": "Mammals",
+                "name": "Animals",
+                "labels": {
+                  "de": "Tiere",
+                  "en": "Animals"
+                }
+              },
+              {
+                "name": "Landscape",
+                "labels": {
+                  "de": "Landschaft",
+                  "en": "Landscape"
+                }
+              },
+              {
+                "name": "Sky and wether",
+                "labels": {
+                  "de": "Himmel und Wetter",
+                  "en": "Sky and wether"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Daily reality",
+            "labels": {
+              "de": "Tägliche Realität",
+              "en": "Daily reality"
+            },
+            "nodes": [
+              {
+                "name": "Current events",
                 "labels": {
                   "de": "???",
-                  "en": "Mammals"
-                },
-                "nodes": [
-                  {
-                    "name": "lion",
-                    "labels": {
-                      "de": "Löwe",
-                      "en": "lion"
-                    }
-                  },
-                  {
-                    "name": "horse",
-                    "labels": {
-                      "de": "Pferd",
-                      "en": "horse"
-                    }
-                  }
-                ]
+                  "en": "Current events"
+                }
               },
               {
-                "name": "Weather",
+                "name": "Food",
                 "labels": {
-                  "de": "Wetter",
-                  "en": "Weather"
-                },
-                "nodes": [
-                  {
-                    "name": "cloud",
-                    "labels": {
-                      "de": "Wolken",
-                      "en": "cloud"
-                    }
-                  },
-                  {
-                    "name": "sun",
-                    "labels": {
-                      "de": "Sonne",
-                      "en": "sun"
-                    }
-                  },
-                  {
-                    "name": "moon",
-                    "labels": {
-                      "de": "Mond",
-                      "en": "moon"
-                    }
-                  }
-                ]
+                  "de": "Essen",
+                  "en": "Food"
+                }
               },
               {
-                "name": "Plants",
+                "name": "clothes, hair, cosmetics",
                 "labels": {
-                  "de": "Pflanzen",
-                  "en": "Plants"
-                },
-                "nodes": [
-                  {
-                    "name": "ivy",
-                    "labels": {
-                      "de": "Efeu",
-                      "en": "ivy"
-                    }
-                  },
-                  {
-                    "name": "laurel",
-                    "labels": {
-                      "de": "???",
-                      "en": "laurel"
-                    }
-                  }
-                ]
+                  "de": "Kleider, Haare, Kosmetik",
+                  "en": "clothes, hair, cosmetics"
+                }
+              },
+              {
+                "name": "medicine",
+                "labels": {
+                  "de": "Medizin",
+                  "en": "medicine"
+                }
               }
             ]
           },
@@ -285,292 +228,62 @@
             },
             "nodes": [
               {
-                "name": "Politics",
+                "name": "war, combat",
                 "labels": {
-                  "de": "Politik",
-                  "en": "Politics"
-                },
-                "nodes": [
-                  {
-                    "name": "king",
-                    "labels": {
-                      "de": "König",
-                      "en": "king"
-                    }
-                  },
-                  {
-                    "name": "law",
-                    "labels": {
-                      "de": "Gesetz",
-                      "en": "law"
-                    }
-                  }
-                ]
+                  "de": "???",
+                  "en": "war, combat"
+                }
               },
               {
-                "name": "Objects",
+                "name": "Court, monarchy",
                 "labels": {
-                  "de": "Objekte",
-                  "en": "Objects"
-                },
-                "nodes": [
-                  {
-                    "name": "fashion",
-                    "labels": {
-                      "de": "Mode",
-                      "en": "fashion"
-                    }
-                  },
-                  {
-                    "name": "tools",
-                    "labels": {
-                      "de": "Werkzeuge",
-                      "en": "tools"
-                    }
-                  },
-                  {
-                    "name": "furniture",
-                    "labels": {
-                      "de": "Möbel",
-                      "en": "furniture"
-                    }
-                  }
-                ]
+                  "de": "???",
+                  "en": "Court, monarchy"
+                }
               },
               {
-                "name": "Food",
+                "name": "Music, dance song",
                 "labels": {
-                  "de": "Essen",
-                  "en": "Food"
-                },
-                "nodes": [
-                  {
-                    "name": "wine",
-                    "labels": {
-                      "de": "Wein",
-                      "en": "wine"
-                    }
-                  },
-                  {
-                    "name": "bread",
-                    "labels": {
-                      "de": "Brot",
-                      "en": "bread"
-                    }
-                  }
-                ]
+                  "de": "???",
+                  "en": "Music, dance song"
+                }
               },
               {
-                "name": "Medicine",
+                "name": "religion",
                 "labels": {
-                  "de": "Medizin",
-                  "en": "Medicine"
-                },
-                "nodes": [
-                  {
-                    "name": "plaster",
-                    "labels": {
-                      "de": "Pflaster",
-                      "en": "plaster"
-                    }
-                  },
-                  {
-                    "name": "melancholy",
-                    "labels": {
-                      "de": "Melancholie",
-                      "en": "melancholy"
-                    }
-                  }
-                ]
-              },
-              {
-                "name": "Economics",
-                "labels": {
-                  "de": "Wirtschaft",
-                  "en": "Economics"
-                },
-                "nodes": [
-                  {
-                    "name": "money",
-                    "labels": {
-                      "de": "Geld",
-                      "en": "money"
-                    }
-                  },
-                  {
-                    "name": "debts",
-                    "labels": {
-                      "de": "Schulden",
-                      "en": "debts"
-                    }
-                  }
-                ]
-              },
-              {
-                "name": "Leisure",
-                "labels": {
-                  "de": "Freizeit",
-                  "en": "Leisure"
-                },
-                "nodes": [
-                  {
-                    "name": "theatre",
-                    "labels": {
-                      "de": "Theater",
-                      "en": "theatre"
-                    }
-                  },
-                  {
-                    "name": "music",
-                    "labels": {
-                      "de": "Musik",
-                      "en": "music"
-                    }
-                  },
-                  {
-                    "name": "dance",
-                    "labels": {
-                      "de": "Tanz",
-                      "en": "dance"
-                    }
-                  },
-                  {
-                    "name": "art",
-                    "labels": {
-                      "de": "Kunst",
-                      "en": "art"
-                    }
-                  }
-                ]
+                  "de": "Religion",
+                  "en": "religion"
+                }
               }
             ]
           },
           {
-            "name": "Other image",
+            "name": "Abstract ideas",
             "labels": {
-              "de": "???",
-              "en": "Other image"
+              "de": "Abstrakte Ideen",
+              "en": "Abstract ideas"
             },
             "nodes": [
               {
-                "name": "Religion",
-                "labels": {
-                  "de": "Religion",
-                  "en": "Religion"
-                },
-                "nodes": [
-                  {
-                    "name": "pagan",
-                    "labels": {
-                      "de": "???",
-                      "en": "pagan"
-                    }
-                  },
-                  {
-                    "name": "christian",
-                    "labels": {
-                      "de": "Christentum",
-                      "en": "christian"
-                    }
-                  }
-                ]
-              },
-              {
                 "name": "Time",
                 "labels": {
-                  "de": "Zeit",
+                  "de": "???",
                   "en": "Time"
-                },
-                "nodes": [
-                  {
-                    "name": "day",
-                    "labels": {
-                      "de": "Tag",
-                      "en": "day"
-                    }
-                  },
-                  {
-                    "name": "season",
-                    "labels": {
-                      "de": "Jahreszeiten",
-                      "en": "season"
-                    }
-                  },
-                  {
-                    "name": "running",
-                    "labels": {
-                      "de": "???",
-                      "en": "running"
-                    }
-                  }
-                ]
+                }
               },
               {
-                "name": "Body",
+                "name": "Death",
                 "labels": {
-                  "de": "Körper",
-                  "en": "Body"
-                },
-                "nodes": [
-                  {
-                    "name": "blood",
-                    "labels": {
-                      "de": "Blut",
-                      "en": "blood"
-                    }
-                  },
-                  {
-                    "name": "back",
-                    "labels": {
-                      "de": "Rücken",
-                      "en": "back"
-                    }
-                  },
-                  {
-                    "name": "arm",
-                    "labels": {
-                      "de": "Arm",
-                      "en": "arm"
-                    }
-                  }
-                ]
+                  "de": "Tod",
+                  "en": "Death"
+                }
               },
               {
-                "name": "Psychology",
+                "name": "Love",
                 "labels": {
-                  "de": "Psychologie",
-                  "en": "Psychology"
-                },
-                "nodes": [
-                  {
-                    "name": "love",
-                    "labels": {
-                      "de": "Liebe",
-                      "en": "love"
-                    }
-                  },
-                  {
-                    "name": "jealousy",
-                    "labels": {
-                      "de": "Eifersucht",
-                      "en": "jealousy"
-                    }
-                  },
-                  {
-                    "name": "madness",
-                    "labels": {
-                      "de": "???",
-                      "en": "madness"
-                    }
-                  },
-                  {
-                    "name": "varia",
-                    "labels": {
-                      "de": "varia",
-                      "en": "varia"
-                    }
-                  }
-                ]
+                  "de": "Liebe",
+                  "en": "Love"
+                }
               }
             ]
           }
@@ -591,52 +304,73 @@
             }
           },
           {
-            "name": "Electronic search",
+            "name": "Electronic search (Fulltext database_Literature)",
             "labels": {
               "de": "???",
-              "en": "Electronic search"
+              "en": "Electronic search (Fulltext database_Literature)"
             }
           },
           {
-            "name": "Secondary (Annotated edition)",
+            "name": "Secondary (Annotated edition_Literature)",
             "labels": {
               "de": "???",
-              "en": "Secondary (Annotated edition)"
+              "en": "Secondary (Annotated edition_Literature)"
             }
           },
           {
-            "name": "Secondary (Shakespeare Studies)",
+            "name": "Secondary (Academic_Shakespeare)",
             "labels": {
               "de": "???",
-              "en": "Secondary (Shakespeare Studies)"
+              "en": "Secondary (Academic_Shakespeare)"
             }
           },
           {
-            "name": "Secondary (Literature)",
+            "name": "Secondary (Academic_Literature)",
             "labels": {
               "de": "???",
-              "en": "Secondary (Literature)"
+              "en": "Secondary (Academic_Literature)"
             }
           },
           {
-            "name": "Secondary (Anthology)",
+            "name": "Secondary (Anthology_Literature)",
             "labels": {
               "de": "???",
-              "en": "Secondary (Anthology)"
+              "en": "Secondary (Anthology_Literature)"
             }
           },
           {
-            "name": "Secondary (Annotated Shakespeare edition)",
+            "name": "Secondary (Annotated edition_Shakespeare)",
             "labels": {
               "de": "???",
-              "en": "Secondary (Annotated Shakespeare edition)"
+              "en": "Secondary (Annotated edition_Shakespeare)"
             }
           },
           {
-            "name": "Research pending",
+            "name": "Oral information",
             "labels": {
               "de": "???",
-              "en": "Research pending"
+              "en": "Oral information"
+            }
+          },
+          {
+            "name": "Secondary (Scholarly database_Literature)",
+            "labels": {
+              "de": "???",
+              "en": "Secondary (Scholarly database_Literature)"
+            }
+          },
+          {
+            "name": "Secondary (Anthology_Linguistics)",
+            "labels": {
+              "de": "???",
+              "en": "Secondary (Anthology_Linguistics)"
+            }
+          },
+          {
+            "name": "Secondary (Academic-Classical Studies)",
+            "labels": {
+              "de": "???",
+              "en": "Secondary (Academic-Classical Studies)"
             }
           }
         ]
@@ -1377,6 +1111,20 @@
                       "de": "???",
                       "en": "Verse satire"
                     }
+                  },
+                  {
+                    "name": "Oral epic",
+                    "labels": {
+                      "de": "???",
+                      "en": "Oral epic"
+                    }
+                  },
+                  {
+                    "name": "Lament",
+                    "labels": {
+                      "de": "???",
+                      "en": "Lament"
+                    }
                   }
                 ]
               },
@@ -1611,10 +1359,10 @@
                 }
               },
               {
-                "name": "Database",
+                "name": "Fulltext database",
                 "labels": {
-                  "de": "Datenbank",
-                  "en": "Database"
+                  "de": "Volltext Datenbank",
+                  "en": "Fulltext Database"
                 }
               },
               {
@@ -1650,6 +1398,13 @@
                 "labels": {
                   "de": "Bibel",
                   "en": "Bible"
+                }
+              },
+              {
+                "name": "Scholarly database",
+                "labels": {
+                  "de": "Scholarly database",
+                  "en": "Scholarly database"
                 }
               }
             ]
@@ -1741,10 +1496,10 @@
             }
           },
           {
-            "name": "Literature (Shakespeare)",
+            "name": "Shakespeare",
             "labels": {
-              "de": "Literatur (Shakespeare)",
-              "en": "Literature (Shakespeare)"
+              "de": "Shakespeare",
+              "en": "Shakespeare"
             }
           },
           {
@@ -1755,27 +1510,6 @@
             }
           },
           {
-            "name": "EXHAUSTED",
-            "labels": {
-              "de": "???",
-              "en": "???"
-            }
-          },
-          {
-            "name": "RESEARCH PENDING",
-            "labels": {
-              "de": "???",
-              "en": "RESEARCH PENDING"
-            }
-          },
-          {
-            "name": "MODERN PAGE",
-            "labels": {
-              "de": "???",
-              "en": "MODERN PAGE"
-            }
-          },
-          {
             "name": "HISTORICAL PAGE",
             "labels": {
               "de": "???",
@@ -1783,7 +1517,7 @@
             }
           },
           {
-            "name": "ACHTUNG MARKING",
+            "name": "Classical Studies",
             "labels": {
               "de": "???",
               "en": "???"
@@ -2504,7 +2238,7 @@
               "gui_attributes": [
                 "hlist=image"
               ],
-              "cardinality": "0-1"
+              "cardinality": "0-n"
             }
           ]
         },
@@ -2563,6 +2297,19 @@
               "labels": {
                 "en": "lexia as company",
                 "de": "Lexia als Theatergruppe"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "hasMember",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:person",
+              "labels": {
+                "en": "has member",
+                "de": "hat Mitglieder"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"

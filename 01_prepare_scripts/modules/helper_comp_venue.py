@@ -25,7 +25,6 @@ def info(text, line, csv_file):
         }
         data_type = "company"
     else:
-        print("FAIL helper comp_venue", text, csv_file, line)
-        raise SystemExit(0)
+        data_type = "none"
 
     return data, data_type
