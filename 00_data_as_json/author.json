@@ -4742,5 +4742,40 @@
     "hasGender": "male",
     "personInternalId": 7683,
     "description": "English poet and translator 1555\u20131592"
+  },
+  "ww_2b461dcf3b8b54e7": {
+    "firstName": "Richard",
+    "lastName": "Burbage",
+    "hasGender": "male",
+    "personInternalId": 7684,
+    "description": "English actor",
+    "birthDate": "GREGORIAN:1567",
+    "deathDate": "GREGORIAN:1619"
+  },
+  "ww_535dbb6e2fbfea98": {
+    "firstName": "Henry",
+    "lastName": "Condell",
+    "hasGender": "male",
+    "personInternalId": 7685,
+    "description": "English actor",
+    "birthDate": "GREGORIAN:1576",
+    "deathDate": "GREGORIAN:1627"
+  },
+  "ww_392b079084ecbf38": {
+    "firstName": "William",
+    "lastName": "Kempe",
+    "hasGender": "male",
+    "personInternalId": 7686,
+    "description": "English comic actor , also known as Will Kemp",
+    "deathDate": "GREGORIAN:1603"
+  },
+  "ww_d868186812544aa2": {
+    "firstName": "Edward",
+    "lastName": "Alleyn",
+    "hasGender": "male",
+    "personInternalId": 7687,
+    "description": "English actor",
+    "birthDate": "GREGORIAN:1566",
+    "deathDate": "GREGORIAN:1626"
   }
 }

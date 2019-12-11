@@ -362,8 +362,18 @@ def create_company(comp_id, comp):
     companies[comp_id] = comp
 
 
-def update_company(comp_id, lex_id):
-    companies[comp_id]["lexiaAsCompany"] = lex_id
+def update_company(comp_id, lex_id, human_id):
+
+    if lex_id:
+        companies[comp_id]["lexiaAsCompany"] = lex_id
+
+    if human_id:
+        if "hasMember" not in companies[comp_id]:
+            companies[comp_id]["hasMember"] = []
+
+        temp = set(companies[comp_id]["hasMember"])
+        temp.add(human_id)
+        companies[comp_id]["hasMember"] = list(temp)
 
 
 def create_venue(ven_id, ven):
@@ -405,7 +415,7 @@ def start():
                                 print("FAIL Author", author_id, line, csv_file)
                                 raise SystemExit(0)
 
-                            # Checks if author already exists
+                            # Creates author if it does not exist
                             if author_id not in authors:
                                 create_author(author_id)
 
@@ -600,7 +610,8 @@ def start():
             print("FAIL: start.py", err, line, csv_file)
             raise SystemExit(0)
 
-    # Add non-authors
+    # ------------------------------------------
+    # Add non-authors which does not have entries
     try:
         with open(non_authors) as a:
 
@@ -625,10 +636,10 @@ def start():
 
                         # Checks if author_id is valid
                         if author_id not in allAuthors:
-                            print("FAIL Author", author_id, line, non_authors)
+                            print("FAIL Author", author_id, line2, non_authors)
                             raise SystemExit(0)
 
-                        # Checks if author already exists
+                        # Creates author if it does not exist
                         if author_id not in authors:
                             create_author(author_id)
 
@@ -638,7 +649,8 @@ def start():
         print("FAIL: non_authors.csv")
         raise SystemExit(0)
 
-    # Add non-venues
+    # ------------------------------------------
+    # Add non-venues which does not have entries
     try:
         with open(non_venues) as v:
 
@@ -655,7 +667,7 @@ def start():
                     ven_names = row[12].split(" / ")
 
                     for ven_name in ven_names:
-                        ven_data, type = comp_ven.info(ven_name, line, non_venues)
+                        ven_data, type = comp_ven.info(ven_name, line3, non_venues)
 
                         if type is "venue":
                             unique_key = "{} {}".format(ven_data["venueInternalId"],
@@ -664,7 +676,8 @@ def start():
                             venue_id = id.generate(unique_key)
 
                             if venue_id not in allVenues:
-                                print("FAIL Venue", venue_id, line, non_venues)
+                                print("FAIL Venue", venue_id, line3, non_venues)
+                                raise SystemExit(0)
 
                             if venue_id not in venues:
                                 create_venue(venue_id, ven_data)
@@ -675,6 +688,7 @@ def start():
         print("FAIL: non_venues.csv")
         raise SystemExit(0)
 
+    # ------------------------------------------
     # Set relation between human and company
     try:
         with open(human_company) as h:
@@ -689,24 +703,39 @@ def start():
                 # Skip first row with column title
                 if line4 is not 0:
 
-                    human_comp_id = id.generate(row[2])
-                    if human_comp_id in allAuthors:
-                        print("Yes")
-                    else:
-                        print("D'oh!")
-                #
-                #     comp_ven_names = row[12].split(" / ")
-                #
-                #     for comp_ven_name in comp_ven_names:
-                #         comp_ven_data, type = comp_ven.info(comp_ven_name, line, human_company)
-                #
-                #         if type is "company":
-                #             company_id = id.generate(comp_ven_data["companyInternalId"])
-                #
-                #             if company_id not in allCompanies:
-                #                 print("FAIL Company", company_id, line, human_company)
-                #             else:
-                #                 print("Yes company")
+                    # Generates id for human
+                    human_id = id.generate(row[2])
+
+                    # Checks if author_id is valid
+                    if human_id not in allAuthors:
+                        print("FAIL human_company -> human", author_id, line4, human_company)
+                        raise SystemExit(0)
+
+                    comp_names = row[12].split(" / ")
+
+                    for comp_name in comp_names:
+                        comp_data, type1 = comp_ven.info(comp_name, line, human_company)
+
+                        if type1 is "company":
+
+                            # Generates id for company
+                            company_id = id.generate(comp_data["companyInternalId"])
+
+                            # Checks if company_id is valid
+                            if company_id not in allCompanies:
+                                print("FAIL human_company -> company", company_id, line, human_company)
+                                raise SystemExit(0)
+
+                            # Creates company if it does not exist
+                            if company_id not in companies:
+                                create_company(company_id, comp_data)
+
+                            # Creates author if it does not exist
+                            if human_id not in authors:
+                                create_author(human_id)
+
+                            # Adds the human to the company
+                            update_company(company_id, None, human_id)
 
                 line4 += 1
 

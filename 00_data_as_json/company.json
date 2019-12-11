@@ -5,7 +5,10 @@
   },
   "ww_2f9e30089f2fa1c1": {
     "companyInternalId": "#009008",
-    "companyTitle": "Pembroke's Men"
+    "companyTitle": "Pembroke's Men",
+    "hasMember": [
+      "ww_2b461dcf3b8b54e7"
+    ]
   },
   "ww_2f923c7f18095fc0": {
     "companyInternalId": "#009006",
@@ -17,11 +20,20 @@
   },
   "ww_dc6a53fb57f6bea7": {
     "companyInternalId": "#009002",
-    "companyTitle": "Lord Chamberlain's (Lord Hunsdon's) Men"
+    "companyTitle": "Lord Chamberlain's (Lord Hunsdon's) Men",
+    "hasMember": [
+      "ww_684176b58bc762f6",
+      "ww_2b461dcf3b8b54e7"
+    ]
   },
   "ww_312616f20d6e5e9b": {
     "companyInternalId": "#009003",
-    "companyTitle": "Admiral's (The Prince's) Men"
+    "companyTitle": "Admiral's (The Prince's) Men",
+    "hasMember": [
+      "ww_2b461dcf3b8b54e7",
+      "ww_d868186812544aa2",
+      "ww_9b2d545e20d62482"
+    ]
   },
   "ww_2eb6b7cad6584184": {
     "companyInternalId": "#009005",
@@ -37,7 +49,12 @@
   },
   "ww_58b17c98fafa10ae": {
     "companyInternalId": "#009001",
-    "companyTitle": "King's Men"
+    "companyTitle": "King's Men",
+    "hasMember": [
+      "ww_392b079084ecbf38",
+      "ww_535dbb6e2fbfea98",
+      "ww_684176b58bc762f6"
+    ]
   },
   "ww_b92cc9cd25fb9404": {
     "companyInternalId": "#009014",
@@ -45,7 +62,10 @@
   },
   "ww_271a9756145ec962": {
     "companyInternalId": "#009010",
-    "companyTitle": "Children of the Queen's Revels"
+    "companyTitle": "Children of the Queen's Revels",
+    "hasMember": [
+      "ww_8926bbeaa7c56023"
+    ]
   },
   "ww_6266d7737104fccc": {
     "companyInternalId": "#009007",
@@ -69,7 +89,11 @@
   },
   "ww_06311c47190f2d0a": {
     "companyInternalId": "#009020",
-    "companyTitle": "Lord Strange's Men"
+    "companyTitle": "Lord Strange's Men",
+    "hasMember": [
+      "ww_392b079084ecbf38",
+      "ww_2b461dcf3b8b54e7"
+    ]
   },
   "ww_cf1e1a78f52e58d7": {
     "companyInternalId": "#009018",
