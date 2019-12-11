@@ -638,26 +638,42 @@ def start():
         print("FAIL: non_authors.csv")
         raise SystemExit(0)
 
-    # # Add non-venues
-    # try:
-    #     with open(non_venues) as v:
-    #
-    #         csv_reader = csv.reader(v, delimiter=";")
-    #
-    #         # line number in csv file
-    #         line3 = 0
-    #
-    #         for row in csv_reader:
-    #
-    #             # Skip first row with column title
-    #             if line3 is not 0:
-    #                 print(row[12])
-    #
-    #             line3 += 1
-    #
-    # except Exception as err:
-    #     print("FAIL: non_venues.csv")
-    #     raise SystemExit(0)
+    # Add non-venues
+    try:
+        with open(non_venues) as v:
+
+            csv_reader = csv.reader(v, delimiter=";")
+
+            # line number in csv file
+            line3 = 0
+
+            for row in csv_reader:
+
+                # Skip first row with column title
+                if line3 is not 0:
+
+                    ven_names = row[12].split(" / ")
+
+                    for ven_name in ven_names:
+                        ven_data, type = comp_ven.info(ven_name, line, non_venues)
+
+                        if type is "venue":
+                            unique_key = "{} {}".format(ven_data["venueInternalId"],
+                                                        ven_data["venueTitle"])
+
+                            venue_id = id.generate(unique_key)
+
+                            if venue_id not in allVenues:
+                                print("FAIL Venue", venue_id, line, non_venues)
+
+                            if venue_id not in venues:
+                                create_venue(venue_id, ven_data)
+
+                line3 += 1
+
+    except Exception as err:
+        print("FAIL: non_venues.csv")
+        raise SystemExit(0)
 
     # Set relation between human and company
     try:

@@ -463,8 +463,8 @@
     "bookTitle": "Homily on the State of Matrimony",
     "edition": "500-515.",
     "hasGenre": [
-      "Speech or lecture or sermon",
-      "Nonfiction unspecified"
+      "Nonfiction unspecified",
+      "Speech or lecture or sermon"
     ],
     "hasSubject": [
       "Sociology, society, lifestyle",
@@ -507,8 +507,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Politics, law, economics"
     ]
   },
   "ww_b908dc610f9089ff": {
@@ -770,8 +770,8 @@
     "edition": "The True Chronicle History of King Leir, and his three daughters, Gonorill, Ragan, and Cordella. As it hath bene diuers and sundry times lately acted. London: Simon Stafford for Iohn Wright, 1605.",
     "editionHist": "The True Chronicle History of King Leir, and his three daughters, Gonorill, Ragan, and Cordella. As it hath bene diuers and sundry times lately acted. London: Simon Stafford for Iohn Wright, 1605.",
     "hasGenre": [
-      "Tragedy",
-      "History"
+      "History",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_98586949857a29e9"
@@ -799,8 +799,8 @@
     "edition": "The True Tragedie of Richard the third. Wherein is showne the death of Edward the fourth, with the smothering of the two yoong Princes in the Tower: With a lamentable ende of Shores wife, an example for all wicked women. And lastly, the coniunction and ioyning of the two noble Houses, Lancaster and Yorke. As it was played by the Queenes Maiesties Players. London: Thomas Creede for William Barley, 1594.",
     "editionHist": "The True Tragedie of Richard the third: Wherein is showne the death of Edward the fourth, with the smothering of the two yoong Princes in the Tower: With a lamentable ende of Shores wife, an example for all wicked women. And lastly, the coniunction and ioyning of the two noble Houses, Lancaster and Yorke. As it was played by the Queenes Maiesties Players. London: Thomas Creede for William Barley, 1594.",
     "hasGenre": [
-      "Tragedy",
-      "Tragedy or History"
+      "Tragedy or History",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_98586949857a29e9"
@@ -876,8 +876,8 @@
     "bookInternalId": "@010017",
     "edition": "eds. Edward II by Christopher Marlowe. London: Methuen, 1933.",
     "isWrittenBy": [
-      "ww_40af4fdaa8bf7a1d",
-      "ww_30995ab4792b9a3f"
+      "ww_30995ab4792b9a3f",
+      "ww_40af4fdaa8bf7a1d"
     ],
     "hasLanguage": "English",
     "bookTitle": "Edward II (Charlton edition)",
@@ -942,8 +942,8 @@
     "bookTitle": "Henry VI Part 3",
     "edition": "Henry VI Part 3.",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "performedBy": [
       "ww_2f9e30089f2fa1c1"
@@ -983,8 +983,8 @@
     "isWrittenBy": [
       "ww_4c146e6d2ef23a03",
       "ww_fb550941e6e9db62",
-      "ww_26c25538fa69a566",
-      "ww_a60ff4964db613ee"
+      "ww_a60ff4964db613ee",
+      "ww_26c25538fa69a566"
     ],
     "hasLanguage": "English",
     "bookTitle": "The Shakspere Allusion Book",
@@ -1012,9 +1012,9 @@
     "bookTitle": "Henry VI Part 2",
     "edition": "Henry VI Part 2.",
     "hasGenre": [
+      "History",
       "Theatre",
-      "Tragedy",
-      "History"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_2f9e30089f2fa1c1"
@@ -1039,8 +1039,8 @@
     "edition": "Ed. Frank S. Hook. The Life and Works of George Peele. 3 vols. New Haven and Lonson: Yale University Press, 1961. 2:69-170.",
     "editionHist": "The Famous Chronicle of king Edward the first. London: Abell Ieffes, 1593.",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -1064,9 +1064,9 @@
     "bookTitle": "Edward The Second",
     "edition": "The Complete Plays. Ed. J. B. Steane. London: Penguin 1986. 431-533.",
     "hasGenre": [
+      "History",
       "Theatre",
-      "Tragedy",
-      "History"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_2f9e30089f2fa1c1"
@@ -1184,10 +1184,10 @@
     "bookInternalId": "@010084",
     "edition": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts. 2010. https://www.folgerdigitaltexts.org.",
     "isWrittenBy": [
-      "ww_c8fa0de8d0fc2fc4",
+      "ww_4d01a832f50d804e",
       "ww_386448c09c02ba3f",
-      "ww_55f5e9f5fe14853f",
-      "ww_4d01a832f50d804e"
+      "ww_c8fa0de8d0fc2fc4",
+      "ww_55f5e9f5fe14853f"
     ],
     "hasLanguage": "English",
     "bookTitle": "FDT (Folger Digital Texts)",
@@ -1215,9 +1215,9 @@
     "bookTitle": "Richard III",
     "edition": "Richard III.",
     "hasGenre": [
-      "Theatre",
+      "Tragedy or History",
       "History",
-      "Tragedy or History"
+      "Theatre"
     ],
     "performedBy": [
       "ww_2f923c7f18095fc0"
@@ -1555,8 +1555,8 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_9736cdaa01aa3143",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_9736cdaa01aa3143"
     ],
     "lexiaAsBook": "ww_99983faa64efde57",
     "hasSubject": [
@@ -1578,10 +1578,10 @@
     "bookTitle": "Richard II",
     "edition": "Richard II.",
     "hasGenre": [
-      "Theatre",
-      "Tragedy",
+      "Tragedy or History",
       "History",
-      "Tragedy or History"
+      "Theatre",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1647,9 +1647,9 @@
     "bookTitle": "King John",
     "edition": "King John.",
     "hasGenre": [
+      "History",
       "Theatre",
-      "Tragedy",
-      "History"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1680,8 +1680,8 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_9736cdaa01aa3143"
+      "ww_9736cdaa01aa3143",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_56f51ee20f36f654": {
@@ -1699,9 +1699,9 @@
     "bookTitle": "Henry IV Part 1",
     "edition": "Henry IV Part 1.",
     "hasGenre": [
+      "History",
       "Theatre",
-      "Tragedy",
-      "History"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1742,9 +1742,9 @@
     "bookTitle": "Henry IV Part 2",
     "edition": "Henry IV Part 2.",
     "hasGenre": [
+      "History",
       "Theatre",
-      "Tragedy",
-      "History"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -2004,10 +2004,10 @@
     "bookTitle": "Julius Caesar",
     "edition": "Julius Caesar.",
     "hasGenre": [
-      "Theatre",
-      "Tragedy",
+      "Tragedy or History",
       "History",
-      "Tragedy or History"
+      "Theatre",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -2031,8 +2031,8 @@
     "bookTitle": "Henry V",
     "edition": "Henry V.",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -2060,8 +2060,8 @@
       "Romance (Drama)"
     ],
     "hasSubject": [
-      "HISTORICAL PAGE",
-      "Literature"
+      "Literature",
+      "HISTORICAL PAGE"
     ],
     "performedBy": [
       "ww_312616f20d6e5e9b"
@@ -2132,10 +2132,10 @@
     "bookTitle": "As You Like It",
     "edition": "As You Like It.",
     "hasGenre": [
-      "History",
       "Comedy",
-      "Tragedy",
-      "Theatre"
+      "History",
+      "Theatre",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -2377,8 +2377,8 @@
     "bookInternalId": "@010021",
     "edition": "eds. The Works of Thomas Southerne. 2 vols. Oxford: Clarendon Press, 1988.",
     "isWrittenBy": [
-      "ww_c11600e212e4417a",
-      "ww_ea90e1c76029f901"
+      "ww_ea90e1c76029f901",
+      "ww_c11600e212e4417a"
     ],
     "hasLanguage": "English",
     "bookTitle": "The Works of Thomas Southerne (Jordan edition)",
@@ -2475,8 +2475,8 @@
       "HISTORICAL PAGE"
     ],
     "performedBy": [
-      "ww_2eb6b7cad6584184",
-      "ww_dc6a53fb57f6bea7"
+      "ww_dc6a53fb57f6bea7",
+      "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9"
@@ -2605,8 +2605,8 @@
       "ww_ddd1d1992c2d6f3d"
     ],
     "hasSubject": [
-      "Literature",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Literature"
     ],
     "lexiaAsBook": "ww_b5226cbf65155a7d"
   },
@@ -2733,17 +2733,17 @@
       "ww_f31f247137fcb48d"
     ],
     "performedIn": [
-      "ww_65d3b57b79bd6da1",
-      "ww_81218f770ce74ed5"
+      "ww_81218f770ce74ed5",
+      "ww_65d3b57b79bd6da1"
     ]
   },
   "ww_ae241404822b51fa": {
     "bookInternalId": "@001369",
     "isWrittenBy": [
-      "ww_f10aec8cfe5ff90d",
-      "ww_d78940f8a8554ca3",
       "ww_9594c85bc48d3759",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_d78940f8a8554ca3",
+      "ww_f10aec8cfe5ff90d"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -2781,8 +2781,8 @@
     "edition": "Measure for Measure.",
     "hasGenre": [
       "Tragicomedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2968,8 +2968,8 @@
       "ww_b92cc9cd25fb9404"
     ],
     "performedIn": [
-      "ww_cbf4b8d30fa8b586",
-      "ww_51838c979d2a7349"
+      "ww_51838c979d2a7349",
+      "ww_cbf4b8d30fa8b586"
     ]
   },
   "ww_c7017a2fd4b1ff37": {
@@ -3003,8 +3003,8 @@
   "ww_ad87a567c9aa933d": {
     "bookInternalId": "@001431",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_c298754546b2500e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -3082,8 +3082,8 @@
   "ww_c021f9c6c9cb807d": {
     "bookInternalId": "@001473",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
       "ww_ad03d7c87e5b9c24",
+      "ww_8501ec457f433848",
       "ww_9b2d545e20d62482"
     ],
     "hasLanguage": "English",
@@ -3260,8 +3260,8 @@
     "editionHist": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. F. Bowers. 10 vols. Cambridge: Cambridge University Press, 1966. Vol. 1, 145-259.",
     "hasGenre": [
       "Comedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -3302,9 +3302,9 @@
     "bookTitle": "Macbeth",
     "edition": "Macbeth.",
     "hasGenre": [
+      "Tragedy or History",
       "Theatre",
-      "Tragedy",
-      "Tragedy or History"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -3377,8 +3377,8 @@
   "ww_b8eaca27cf9698df": {
     "bookInternalId": "@001555",
     "isWrittenBy": [
-      "ww_684176b58bc762f6",
-      "ww_986dd93d2d794ff5"
+      "ww_986dd93d2d794ff5",
+      "ww_684176b58bc762f6"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -3478,8 +3478,8 @@
       "Tragedy"
     ],
     "hasSubject": [
-      "Literature",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Literature"
     ],
     "performedBy": [
       "ww_b92cc9cd25fb9404"
@@ -3538,15 +3538,15 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_606a583dffc5ec3a": {
     "bookInternalId": "@001575",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
-      "ww_6f4a80592c6c793c"
+      "ww_6f4a80592c6c793c",
+      "ww_8501ec457f433848"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -3559,8 +3559,8 @@
     "edition": "The Plays of George Chapman. Ed. Thomas Marc Parrott. 4 vols. New York: Russell and Russell, 1961. The Tragedies, Vol. 1, 149-272.",
     "editionHist": "The Conspiracie, And Tragedie of Charles Duke of Byron, Marshall of France. London: G. Eld for Thomas Thorppe, 1608.",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -3582,8 +3582,8 @@
     "edition": "The Plays of George Chapman. Ed. Thomas Marc Parrott. 4 vols. New York: Russell and Russell, 1961. The Tragedies, Vol. 1, 149-272.",
     "editionHist": "The Conspiracie, And Tragedie of Charles Duke of Byron, Marshall of France. Acted lately in two playes, at the Black-Friers. Written by George Chapman. London: G. Eld for Thomas Thorppe, 1608.",
     "hasGenre": [
-      "Tragedy",
-      "History"
+      "History",
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -3730,8 +3730,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_90bb6791f9507246": {
@@ -3751,8 +3751,8 @@
     "editionHist": "The Plays of Nathan Field: Edited from the Original Quartos with Introduction and Notes. Ed. William Peery. Austin: The University of Texas Press, 1950. 159-236.",
     "hasGenre": [
       "Comedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_271a9756145ec962"
@@ -3837,8 +3837,8 @@
     "edition": "The Tempest.",
     "hasGenre": [
       "Comedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -3870,8 +3870,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_5350aa8f1cdc7d01": {
@@ -3949,8 +3949,8 @@
       "Tragedy"
     ],
     "hasSubject": [
-      "HISTORICAL PAGE",
-      "Literature"
+      "Literature",
+      "HISTORICAL PAGE"
     ]
   },
   "ww_dbd5db889d39fd5c": {
@@ -3969,8 +3969,8 @@
     "bookTitle": "Henry VIII",
     "edition": "Henry VIII.",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ]
   },
   "ww_daecaee38c79925b": {
@@ -4088,8 +4088,8 @@
   "ww_7da5186d0ba71c05": {
     "bookInternalId": "@001798",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_5cb3d6fa23800e74"
+      "ww_5cb3d6fa23800e74",
+      "ww_c298754546b2500e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -4130,8 +4130,8 @@
       "Tragicomedy"
     ],
     "hasSubject": [
-      "HISTORICAL PAGE",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "HISTORICAL PAGE"
     ],
     "performedBy": [
       "ww_b92cc9cd25fb9404"
@@ -4143,8 +4143,8 @@
   "ww_6318ed97b9193504": {
     "bookInternalId": "@001883",
     "isWrittenBy": [
-      "ww_8926bbeaa7c56023",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_8926bbeaa7c56023"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -4187,15 +4187,15 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_e7c84f709b583d5f": {
     "bookInternalId": "@001957",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_cbc2c3284144573a"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -4244,8 +4244,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_02b1eadb87d6acdc": {
@@ -4293,8 +4293,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_791d02b9b4f75414": {
@@ -4405,8 +4405,8 @@
   "ww_f619b6b1cf5ba6c8": {
     "bookInternalId": "@002186",
     "isWrittenBy": [
-      "ww_f10aec8cfe5ff90d",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_f10aec8cfe5ff90d"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -4422,8 +4422,8 @@
       "Tragedy"
     ],
     "hasSubject": [
-      "HISTORICAL PAGE",
-      "Literature"
+      "Literature",
+      "HISTORICAL PAGE"
     ],
     "performedBy": [
       "ww_fb09029608b37502"
@@ -4555,8 +4555,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_0a181b40f9edb85e": {
@@ -4775,8 +4775,8 @@
     "editionHist": "The Emperovr of the East. A Tragae-Comoedie. The Scaene Constantinople. As it hath bene diuers times acted, at the Blackfriers, and Globe Play-houses, by the Kings Maiesties Seruants. Written by Philip Massinger. London: Thomas Harper for John Waterson, 1632.",
     "hasGenre": [
       "Tragicomedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -4785,8 +4785,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_cf1407d337262e2b": {
@@ -4858,8 +4858,8 @@
       "ww_fb09029608b37502"
     ],
     "performedIn": [
-      "ww_8b1affa515ac476e",
-      "ww_74c4ffb6231a730c"
+      "ww_74c4ffb6231a730c",
+      "ww_8b1affa515ac476e"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -4965,8 +4965,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_3a537375bf38771e": {
@@ -5256,8 +5256,8 @@
   "ww_3f5747bce6d798fe": {
     "bookInternalId": "@002824",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
-      "ww_6f4a80592c6c793c"
+      "ww_6f4a80592c6c793c",
+      "ww_8501ec457f433848"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -5829,8 +5829,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "HISTORICAL PAGE",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "HISTORICAL PAGE"
     ]
   },
   "ww_822f6044491b63e7": {
@@ -5910,8 +5910,8 @@
   "ww_f3d7312515e5ff87": {
     "bookInternalId": "@000351",
     "isWrittenBy": [
-      "ww_3d7f30bfa784adbc",
-      "ww_7af335e6c892a8d0"
+      "ww_7af335e6c892a8d0",
+      "ww_3d7f30bfa784adbc"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -6155,8 +6155,8 @@
     "bookTitle": "Henry VI Part 1",
     "edition": "Henry VI Part 1.",
     "hasGenre": [
-      "Tragedy",
-      "History"
+      "History",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_06311c47190f2d0a"
@@ -6247,8 +6247,8 @@
   "ww_2eb8f65559e88209": {
     "bookInternalId": "@003008",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
-      "ww_63d5fe36ffac5d32"
+      "ww_63d5fe36ffac5d32",
+      "ww_8501ec457f433848"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -6499,8 +6499,8 @@
     "edition": "The metamorphosis of Pigmalions image And certaine satyres. London: James Roberts for Edmond Matts, 1598.",
     "editionHist": "The metamorphosis of Pigmalions image And certaine satyres. London: James Roberts for Edmond Matts, 1598.",
     "hasGenre": [
-      "Poetry unspecified",
-      "Verse satire"
+      "Verse satire",
+      "Poetry unspecified"
     ]
   },
   "ww_32fdd8378826e2d8": {
@@ -6555,8 +6555,8 @@
     "edition": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 1:1-64.",
     "hasGenre": [
       "Comedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_2eb6b7cad6584184"
@@ -6642,8 +6642,8 @@
     "editionHist": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 1:65-134.",
     "hasGenre": [
       "Tragicomedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_2eb6b7cad6584184"
@@ -6710,8 +6710,8 @@
     "bookInternalId": "@010065",
     "edition": "Past and Present 44 (August 1969): 3-51.",
     "isWrittenBy": [
-      "ww_9d448942a16583fe",
-      "ww_c961f8c651ae6763"
+      "ww_c961f8c651ae6763",
+      "ww_9d448942a16583fe"
     ],
     "hasLanguage": "English",
     "bookTitle": "The Madrigal, the Lute Song and Elizabethan Politics",
@@ -7170,8 +7170,8 @@
   "ww_7f949bbd8df542c3": {
     "bookInternalId": "@001391",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_ad03d7c87e5b9c24"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -7214,8 +7214,8 @@
     "editionHist": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 2:65-138.",
     "hasGenre": [
       "Comedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "hasSubject": [
       "Literature"
@@ -7363,8 +7363,8 @@
   "ww_311623f59a43a905": {
     "bookInternalId": "@001520",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_883324fc3b8b8dba"
+      "ww_883324fc3b8b8dba",
+      "ww_c298754546b2500e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -7404,8 +7404,8 @@
     "editionHist": "The Fleire by Edward Sharpham nach der Quarto 1607. Ed. Hunold Nibbe. Louvain: A. Uystpruyst, 1912.",
     "hasGenre": [
       "Comedy",
-      "Tragedy",
-      "Theatre"
+      "Theatre",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_271a9756145ec962"
@@ -7544,8 +7544,8 @@
   "ww_56e2bc4eb5abe25b": {
     "bookInternalId": "@001605",
     "isWrittenBy": [
-      "ww_4165dddf64bc6da3",
       "ww_ad03d7c87e5b9c24",
+      "ww_4165dddf64bc6da3",
       "ww_18abf85e413e5632"
     ],
     "hasLanguage": "English",
@@ -7695,8 +7695,8 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_0f98349eee1739cf",
-      "ww_c794ca0bcf5e1168"
+      "ww_c794ca0bcf5e1168",
+      "ww_0f98349eee1739cf"
     ]
   },
   "ww_b70c78ad34ac9ba9": {
@@ -7945,8 +7945,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_ae5a361b7f786e79": {
@@ -8045,8 +8045,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_e0b03ee292ddfc15": {
@@ -8430,15 +8430,15 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_662026e87e8e4f6d": {
     "bookInternalId": "@000234",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
-      "ww_220a73def979f4a4"
+      "ww_220a73def979f4a4",
+      "ww_ad03d7c87e5b9c24"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -8498,8 +8498,8 @@
       "Essay"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_e9b2a04d2a7fd579": {
@@ -8642,8 +8642,8 @@
   "ww_26d7297a6051272d": {
     "bookInternalId": "@000426",
     "isWrittenBy": [
-      "ww_a00dfc9e63a5d0fe",
-      "ww_4620a1299d58ff72"
+      "ww_4620a1299d58ff72",
+      "ww_a00dfc9e63a5d0fe"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -8678,8 +8678,8 @@
     "edition": "The Palace of Pleasure: Beautified, adorned and well furnished, with Pleasaunt Histories and excellent Nouelles, selected out of diuers good and commendable Authors. London: Henry Denham for Richard Tottell and William Iones, 1566. 251-277.",
     "editionHist": "The Palace of Pleasure: Beautified, adorned and well furnished, with Pleasaunt Histories and excellent Nouelles, selected out of diuers good and commendable Authors. London: Henry Denham for Richard Tottell and William Iones, 1566. 251-277.",
     "hasGenre": [
-      "Prose unspecified",
-      "Nonfiction unspecified"
+      "Nonfiction unspecified",
+      "Prose unspecified"
     ]
   },
   "ww_7c79793591d10a0c": {
@@ -9025,8 +9025,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Sociology, society, lifestyle",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Sociology, society, lifestyle"
     ]
   },
   "ww_026505509118e73d": {
@@ -9048,8 +9048,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Sociology, society, lifestyle",
-      "Linguistics"
+      "Linguistics",
+      "Sociology, society, lifestyle"
     ]
   },
   "ww_1e3e42d4408d8f34": {
@@ -9349,8 +9349,8 @@
     "edition": "The Famovs Victories of Henry the fifth. Containing the Honourable Battell of Agin-court: As it was plaide by the Queenes Maiesties Players. London: Thomas Creede, 1598.",
     "editionHist": "The Famovs Victories of Henry the fifth: Containing the Honourable Battell of Agin-court: As it was plaide by the Queenes Maiesties Players. London: Thomas Creede, 1598.",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -9476,8 +9476,8 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_65d3b57b79bd6da1",
-      "ww_ddd1d1992c2d6f3d"
+      "ww_ddd1d1992c2d6f3d",
+      "ww_65d3b57b79bd6da1"
     ]
   },
   "ww_96f58f18ba880f24": {
@@ -9499,12 +9499,12 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_65d3b57b79bd6da1",
-      "ww_ddd1d1992c2d6f3d"
+      "ww_ddd1d1992c2d6f3d",
+      "ww_65d3b57b79bd6da1"
     ],
     "hasSubject": [
-      "HISTORICAL PAGE",
-      "Literature"
+      "Literature",
+      "HISTORICAL PAGE"
     ],
     "performedBy": [
       "ww_06311c47190f2d0a"
@@ -9591,8 +9591,8 @@
   "ww_f052ab291abd7898": {
     "bookInternalId": "@000820",
     "isWrittenBy": [
-      "ww_63d5fe36ffac5d32",
-      "ww_9e2e58504b5d3de8"
+      "ww_9e2e58504b5d3de8",
+      "ww_63d5fe36ffac5d32"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -9729,8 +9729,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Politics, law, economics"
     ]
   },
   "ww_100fa85792453de4": {
@@ -9969,8 +9969,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_9d0b02a61888dad4": {
@@ -10354,9 +10354,9 @@
     "bookInternalId": "@010101",
     "edition": "eds. The Collected Works of Abraham Cowley. 3 vols. Newark: University of Delaware Press, 1989.",
     "isWrittenBy": [
-      "ww_02df784376aa9b65",
+      "ww_d5b779fffbf80505",
       "ww_0ec070acc1a8c693",
-      "ww_d5b779fffbf80505"
+      "ww_02df784376aa9b65"
     ],
     "hasLanguage": "English",
     "bookTitle": "The Collected Works of Abraham Cowley",
@@ -10754,8 +10754,8 @@
   "ww_cc822907a2bf276a": {
     "bookInternalId": "@001459",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_c298754546b2500e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -10855,8 +10855,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_130444632fa8c6c9": {
@@ -10882,8 +10882,8 @@
       "ww_b103d94d309afeef"
     ],
     "performedIn": [
-      "ww_0f98349eee1739cf",
-      "ww_ddd1d1992c2d6f3d"
+      "ww_ddd1d1992c2d6f3d",
+      "ww_0f98349eee1739cf"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -11002,10 +11002,10 @@
   "ww_02be9cf906d5771e": {
     "bookInternalId": "@001719",
     "isWrittenBy": [
-      "ww_ba2bed49492fef13",
-      "ww_8926bbeaa7c56023",
       "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_ba2bed49492fef13",
+      "ww_cbc2c3284144573a",
+      "ww_8926bbeaa7c56023"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -11045,8 +11045,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Sociology, society, lifestyle",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Sociology, society, lifestyle"
     ]
   },
   "ww_906c0b694038ccee": {
@@ -11071,9 +11071,9 @@
   "ww_c385ab8330981bbe": {
     "bookInternalId": "@005007",
     "isWrittenBy": [
+      "ww_060fb51fdafb3cc5",
       "ww_02a32352c63afb30",
-      "ww_39384a524a7bafbe",
-      "ww_060fb51fdafb3cc5"
+      "ww_39384a524a7bafbe"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -11161,8 +11161,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_0e02025dae34b353": {
@@ -11308,8 +11308,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_47cf34e93ead28ae": {
@@ -11458,8 +11458,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "Literature",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Literature"
     ],
     "performedBy": [
       "ww_fb09029608b37502"
@@ -11512,8 +11512,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "History, (auto-)biography"
+      "History, (auto-)biography",
+      "Philosophy, religion"
     ]
   },
   "ww_b0db640773c38ee2": {
@@ -11959,8 +11959,8 @@
   "ww_c5e133e72906221d": {
     "bookInternalId": "@005654",
     "isWrittenBy": [
-      "ww_4f4a27981f1d2a14",
       "ww_2527046b014ff66d",
+      "ww_4f4a27981f1d2a14",
       "ww_9a8e158285763a3c"
     ],
     "hasLanguage": "Latin",
@@ -12081,8 +12081,8 @@
     "bookInternalId": "@006152",
     "edition": "DEEP - Database of Early English Playbooks. http://deep.sas.upenn.edu/. 2007.",
     "isWrittenBy": [
-      "ww_371ed44cf3e4e5e4",
-      "ww_8cc851dd71197e11"
+      "ww_8cc851dd71197e11",
+      "ww_371ed44cf3e4e5e4"
     ],
     "hasLanguage": "English",
     "bookTitle": "DEEP (Database of Early English Playbooks)",
@@ -12271,12 +12271,12 @@
     "edition": "The Famous Historye of the life and death of Captaine Thomas Stukeley. With his marriage to Alderman Curteis Daughter, and valiant ending of his life at the Battaile of Alcazar. London: Thomas Pauyer 1605.",
     "editionHist": "The Famous Historye of the life and death of Captaine Thomas Stukeley. With his marriage to Alderman Curteis Daughter, and valiant ending of his life at the Battaile of Alcazar. London: Thomas Pauyer 1605.",
     "hasGenre": [
-      "Theatre",
-      "History"
+      "History",
+      "Theatre"
     ],
     "hasSubject": [
-      "Literature",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Literature"
     ]
   },
   "ww_e9efd638a19bcd54": {
@@ -12412,9 +12412,9 @@
   "ww_79f5de62db1cbdfc": {
     "bookInternalId": "@001235",
     "isWrittenBy": [
-      "ww_947a2e721f016a03",
+      "ww_87dbd52f1c5b813b",
       "ww_d888f97beb7a5e1c",
-      "ww_87dbd52f1c5b813b"
+      "ww_947a2e721f016a03"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -12483,9 +12483,9 @@
   "ww_1321d17b7b704560": {
     "bookInternalId": "@006131",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
       "ww_8cd4ce85e656c7f9",
-      "ww_788d53fded4c5751"
+      "ww_788d53fded4c5751",
+      "ww_ad03d7c87e5b9c24"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -12501,8 +12501,8 @@
       "Essay"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "Literature"
+      "Literature",
+      "Philosophy, religion"
     ],
     "lexiaAsBook": "ww_23f83dbdd892c334"
   },
@@ -12749,8 +12749,8 @@
     "editionHist": "\"7 Ascention\". in: Poems, By J. D.: With Elegies on the Authors Death. London: M. F. for Iohn Marriot 1633.",
     "hasGenre": [
       "Epic and verse narrative",
-      "Poetry unspecified",
-      "Verse satire"
+      "Verse satire",
+      "Poetry unspecified"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -12857,8 +12857,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_7efa074605611a3a": {
@@ -12904,8 +12904,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_572f0374c5cf4656": {
@@ -12959,8 +12959,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_7d4418776bb1d18b": {
@@ -13053,8 +13053,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_1872dabdaffc2cd9": {
@@ -13098,8 +13098,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_e75a31f6badbafe7": {
@@ -13438,8 +13438,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_2abd0ee29ef3816f": {
@@ -13500,8 +13500,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_124aa3ed41551eda": {
@@ -13721,8 +13721,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_48416dc87795b969": {
@@ -13783,8 +13783,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Politics, law, economics"
     ]
   },
   "ww_187ba0b1cecebca0": {
@@ -13844,8 +13844,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_50252be95e444aa3": {
@@ -14017,8 +14017,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_e84d1c1d6154142c": {
@@ -14236,8 +14236,8 @@
     "bookInternalId": "@005264",
     "edition": "eds. The Diary of Samuel Pepys. 11 vols. London: G. Bell and Sons, 1970-1983.",
     "isWrittenBy": [
-      "ww_7eeba8f5c3297504",
-      "ww_993c302bdd89aa39"
+      "ww_993c302bdd89aa39",
+      "ww_7eeba8f5c3297504"
     ],
     "hasLanguage": "English",
     "bookTitle": "Diary of Samuel Pepys (Latham edition)",
@@ -15401,8 +15401,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_e1bcca76480c58de": {
@@ -15427,8 +15427,8 @@
   "ww_08d01fa968762b1d": {
     "bookInternalId": "@001633",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_c298754546b2500e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -15444,8 +15444,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "HISTORICAL PAGE",
-      "Literature"
+      "Literature",
+      "HISTORICAL PAGE"
     ]
   },
   "ww_9f55abe6844f78fa": {
@@ -15468,8 +15468,8 @@
   "ww_f00772b94c24760c": {
     "bookInternalId": "@010159",
     "isWrittenBy": [
-      "ww_7cd5ba90f47f0576",
-      "ww_fd0b3545953a41f0"
+      "ww_fd0b3545953a41f0",
+      "ww_7cd5ba90f47f0576"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -15652,8 +15652,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Sociology, society, lifestyle",
       "TO BE EDITED",
+      "Sociology, society, lifestyle",
       "Philosophy, religion"
     ]
   },
@@ -15843,8 +15843,8 @@
   "ww_f5a458f823d4e62b": {
     "bookInternalId": "@001899",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_5cb3d6fa23800e74"
+      "ww_5cb3d6fa23800e74",
+      "ww_c298754546b2500e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -16144,8 +16144,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_363ad1019df97f6f": {
@@ -16275,8 +16275,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_493481ed03a74759": {
@@ -16458,8 +16458,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_b427fc8b58382cdc": {
@@ -16603,8 +16603,8 @@
       "Speech or lecture or sermon"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_523e4109734a0284": {
@@ -17310,8 +17310,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Politics, law, economics"
     ]
   },
   "ww_8c08b4f3f97f7725": {
@@ -17332,8 +17332,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "Sciences, engineering, IT"
+      "Sciences, engineering, IT",
+      "Philosophy, religion"
     ]
   },
   "ww_767bbb25cb5f2ee1": {
@@ -17361,8 +17361,8 @@
   "ww_17eda8eac6f929ce": {
     "bookInternalId": "@005189",
     "isWrittenBy": [
-      "ww_d849cf321f1368f2",
-      "ww_3a93376543d353aa"
+      "ww_3a93376543d353aa",
+      "ww_d849cf321f1368f2"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -18225,8 +18225,8 @@
   "ww_31ecfbed2358c3f6": {
     "bookInternalId": "@006206",
     "isWrittenBy": [
-      "ww_06d91df69419f649",
-      "ww_212c78497ddc32c5"
+      "ww_212c78497ddc32c5",
+      "ww_06d91df69419f649"
     ],
     "hasLanguage": "English",
     "bookTitle": "Folger MS V a 87",
@@ -18340,8 +18340,8 @@
     "bookTitle": "Epigrammaton libri",
     "edition": "Epigrams, Volume 3: Books 11-14. Ed. and trans. D. R. Shackleton Bailey. Loeb Classical Library 480. Cambridge (Mass.): Harvard University Press, 1993.",
     "hasGenre": [
-      "Poetry unspecified",
-      "Verse satire"
+      "Verse satire",
+      "Poetry unspecified"
     ]
   },
   "ww_55e9490f44c9930d": {
@@ -18381,8 +18381,8 @@
     ],
     "hasSubject": [
       "Sociology, society, lifestyle",
-      "Philosophy, religion",
-      "Politics, law, economics"
+      "Politics, law, economics",
+      "Philosophy, religion"
     ]
   },
   "ww_70b396a03a28da11": {
@@ -18610,8 +18610,8 @@
   "ww_a1cab3e2580a77ca": {
     "bookInternalId": "@006168",
     "isWrittenBy": [
-      "ww_4f4a27981f1d2a14",
-      "ww_2527046b014ff66d"
+      "ww_2527046b014ff66d",
+      "ww_4f4a27981f1d2a14"
     ],
     "hasLanguage": "Latin",
     "createdDate": [
@@ -18685,8 +18685,8 @@
   "ww_0d75f7701659b482": {
     "bookInternalId": "@006185",
     "isWrittenBy": [
-      "ww_1ae0f102eea42517",
-      "ww_81a0be98745dd98b"
+      "ww_81a0be98745dd98b",
+      "ww_1ae0f102eea42517"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -18741,13 +18741,13 @@
   "ww_20b3a86d3ec0a50e": {
     "bookInternalId": "@006223",
     "isWrittenBy": [
-      "ww_76f7ad166cf8422f",
-      "ww_d6693f3e9bbd4cc4",
-      "ww_8000bac12b1c11e0",
-      "ww_240a0754bd0ee196",
       "ww_8370026ebdec73ae",
-      "ww_0f734cd7ad5f5440",
-      "ww_5e5e8f5620d2719a"
+      "ww_8000bac12b1c11e0",
+      "ww_d6693f3e9bbd4cc4",
+      "ww_76f7ad166cf8422f",
+      "ww_5e5e8f5620d2719a",
+      "ww_240a0754bd0ee196",
+      "ww_0f734cd7ad5f5440"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -18769,8 +18769,8 @@
   "ww_2e51baf102fa85b4": {
     "bookInternalId": "@000330",
     "isWrittenBy": [
-      "ww_a00dfc9e63a5d0fe",
-      "ww_64c0a6cc1ab8e355"
+      "ww_64c0a6cc1ab8e355",
+      "ww_a00dfc9e63a5d0fe"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -18808,8 +18808,8 @@
   "ww_f578b55e760123ce": {
     "bookInternalId": "@000342",
     "isWrittenBy": [
-      "ww_a00dfc9e63a5d0fe",
-      "ww_64c0a6cc1ab8e355"
+      "ww_64c0a6cc1ab8e355",
+      "ww_a00dfc9e63a5d0fe"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -19168,15 +19168,15 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Sociology, society, lifestyle",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Sociology, society, lifestyle"
     ]
   },
   "ww_8c2ffd741b2e34b1": {
     "bookInternalId": "@006182",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_035f2256520bd869"
+      "ww_035f2256520bd869",
+      "ww_c298754546b2500e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -19314,10 +19314,10 @@
   "ww_e3bcd92cc2a3f267": {
     "bookInternalId": "@001211",
     "isWrittenBy": [
-      "ww_8c5ba897096c644c",
+      "ww_20d6b3bf3fdfeac2",
       "ww_67b55376bb1d282e",
-      "ww_25e6fd889f1e2401",
-      "ww_20d6b3bf3fdfeac2"
+      "ww_8c5ba897096c644c",
+      "ww_25e6fd889f1e2401"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -19405,8 +19405,8 @@
     "bookInternalId": "@006166",
     "edition": "Wikipedia. www.wikipedia.org.",
     "isWrittenBy": [
-      "ww_04e0c08510ffa9b9",
-      "ww_b958466a7328c3ef"
+      "ww_b958466a7328c3ef",
+      "ww_04e0c08510ffa9b9"
     ],
     "hasLanguage": "English",
     "bookTitle": "Wikipedia",
@@ -19904,8 +19904,8 @@
   "ww_149eb964e7a5fab6": {
     "bookInternalId": "@002169",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
       "ww_9594c85bc48d3759",
+      "ww_3cc0cce5b6bf554a",
       "ww_cbc2c3284144573a",
       "ww_c1c75e8b202bbbee"
     ],
@@ -19926,8 +19926,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_c6dd0a2e6316a63e": {
@@ -20204,15 +20204,15 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e7808d9dfc1452ef",
-      "ww_f0a467f9708e54e9"
+      "ww_f0a467f9708e54e9",
+      "ww_e7808d9dfc1452ef"
     ]
   },
   "ww_55364fdde6e6f165": {
     "bookInternalId": "@006232",
     "isWrittenBy": [
-      "ww_cb5d9718ccb90165",
-      "ww_2044141f05be1d1c"
+      "ww_2044141f05be1d1c",
+      "ww_cb5d9718ccb90165"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -20405,9 +20405,9 @@
     "bookTitle": "The Sophy",
     "edition": "The Sophy. EEBO-TCP. 1642. Web. https://quod.lib.umich.edu/e/eebo/A35657.0001.001.",
     "hasGenre": [
+      "Manuscript commonplace book",
       "Theatre",
-      "Tragedy",
-      "Manuscript commonplace book"
+      "Tragedy"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -20453,8 +20453,8 @@
     "edition": "[normalized spelling].",
     "editionHist": "[normalized spelling].",
     "hasGenre": [
-      "Prose unspecified",
-      "Nonfiction unspecified"
+      "Nonfiction unspecified",
+      "Prose unspecified"
     ],
     "hasSubject": [
       "Literature"
@@ -20538,8 +20538,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "TO BE EDITED"
+      "TO BE EDITED",
+      "Philosophy, religion"
     ]
   },
   "ww_2ef31c90eb292e4f": {
@@ -20995,8 +20995,8 @@
       "TO BE EDITED"
     ],
     "performedBy": [
-      "ww_98586949857a29e9",
-      "ww_312616f20d6e5e9b"
+      "ww_312616f20d6e5e9b",
+      "ww_98586949857a29e9"
     ]
   },
   "ww_14d95c41dec5b46d": {
@@ -21087,8 +21087,8 @@
     "bookInternalId": "@006102",
     "edition": "eds. Thomas of Woodstock. The Revels Plays. Manchester: Manchester University Press, 2002.",
     "isWrittenBy": [
-      "ww_2db002397fad86e3",
-      "ww_7858f8ee113b799f"
+      "ww_7858f8ee113b799f",
+      "ww_2db002397fad86e3"
     ],
     "hasLanguage": "English",
     "bookTitle": "Thomas of Woodstock (Corbin Edition)",
