@@ -77,8 +77,14 @@ json_files = [
     "00_data_as_json/venue.json"
 ]
 
+# File with non-authors without entries
+non_authors = "01_prepare_scripts/csv/non_authors.csv"
+
+# File with non-theatre venues entries
+non_venues = "01_prepare_scripts/csv/non_venues.csv"
+
 # File where human-to-company information are listed
-human_company = "01_prepare_scripts/csv/human.csv"
+human_company = "01_prepare_scripts/csv/human_company.csv"
 
 # Clears all json files
 for file in json_files:
@@ -594,6 +600,65 @@ def start():
             print("FAIL: start.py", err, line, csv_file)
             raise SystemExit(0)
 
+    # Add non-authors
+    try:
+        with open(non_authors) as a:
+
+            csv_reader = csv.reader(a, delimiter=";")
+
+            # line number in csv file
+            line2 = 0
+
+            for row in csv_reader:
+
+                # Skip first row with column title
+                if line2 is not 0:
+
+                    # Multiple names of authors
+                    names = row[2].split(" / ")
+
+                    # Iterates through the names per entry
+                    for name in names:
+
+                        # Generates author id
+                        author_id = id.generate(name)
+
+                        # Checks if author_id is valid
+                        if author_id not in allAuthors:
+                            print("FAIL Author", author_id, line, non_authors)
+                            raise SystemExit(0)
+
+                        # Checks if author already exists
+                        if author_id not in authors:
+                            create_author(author_id)
+
+                line2 += 1
+
+    except Exception as err:
+        print("FAIL: non_authors.csv")
+        raise SystemExit(0)
+
+    # # Add non-venues
+    # try:
+    #     with open(non_venues) as v:
+    #
+    #         csv_reader = csv.reader(v, delimiter=";")
+    #
+    #         # line number in csv file
+    #         line3 = 0
+    #
+    #         for row in csv_reader:
+    #
+    #             # Skip first row with column title
+    #             if line3 is not 0:
+    #                 print(row[12])
+    #
+    #             line3 += 1
+    #
+    # except Exception as err:
+    #     print("FAIL: non_venues.csv")
+    #     raise SystemExit(0)
+
     # Set relation between human and company
     try:
         with open(human_company) as h:
@@ -601,18 +666,18 @@ def start():
             csv_reader = csv.reader(h, delimiter=';')
 
             # line number in csv file
-            line = 0
+            line4 = 0
 
             for row in csv_reader:
 
                 # Skip first row with column title
-                # if line is not 0:
-                #
-                #     human_comp_id = id.generate(row[2])
-                #     if human_comp_id in allAuthors:
-                #         print("Yes")
-                #     else:
-                #         print("D'oh!")
+                if line4 is not 0:
+
+                    human_comp_id = id.generate(row[2])
+                    if human_comp_id in allAuthors:
+                        print("Yes")
+                    else:
+                        print("D'oh!")
                 #
                 #     comp_ven_names = row[12].split(" / ")
                 #
@@ -627,13 +692,10 @@ def start():
                 #             else:
                 #                 print("Yes company")
 
-
-
-                line += 1
-
+                line4 += 1
 
     except Exception as err:
-        print("FAIL: human.csv")
+        print("FAIL: human_company.csv")
         raise SystemExit(0)
 
     # Saves the objects which occurs in the csv files in to json files

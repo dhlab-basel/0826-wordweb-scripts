@@ -4646,5 +4646,101 @@
     "description": "German Ratsherr, playwright",
     "birthDate": "GREGORIAN:1635",
     "deathDate": "GREGORIAN:1703"
+  },
+  "ww_38111ba19729d300": {
+    "firstName": "Henry",
+    "lastName": "Constable",
+    "hasGender": "male",
+    "personInternalId": 7672,
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1562",
+    "deathDate": "GREGORIAN:1613"
+  },
+  "ww_5bc026f129ea9ecc": {
+    "firstName": "John",
+    "lastName": "Davis",
+    "hasGender": "male",
+    "personInternalId": 7673,
+    "description": "English explorer",
+    "birthDate": "GREGORIAN:1550",
+    "deathDate": "GREGORIAN:1605"
+  },
+  "ww_5b05be9471d0ba7f": {
+    "firstName": "Thomas",
+    "lastName": "Hudson",
+    "hasGender": "male",
+    "personInternalId": 7674,
+    "description": "English poet and musician",
+    "deathDate": "GREGORIAN:1605"
+  },
+  "ww_2eed87782787c98c": {
+    "firstName": "Henry",
+    "lastName": "Lok",
+    "hasGender": "male",
+    "personInternalId": 7675,
+    "description": "English poet",
+    "birthDate": "GREGORIAN:1553",
+    "deathDate": "GREGORIAN:1608"
+  },
+  "ww_ecd5bfdb8df89699": {
+    "firstName": "Claudius Caesar Augustus Germanicus",
+    "lastName": "Nero",
+    "hasGender": "male",
+    "personInternalId": 7676,
+    "description": "Roman emperor 37-68"
+  },
+  "ww_5f7aaf29e328df2b": {
+    "firstName": "Sir John",
+    "lastName": "Oldcastle",
+    "hasGender": "male",
+    "personInternalId": 7677,
+    "description": "English aristocrat and rebel leader",
+    "deathDate": "GREGORIAN:1417"
+  },
+  "ww_21bea14a9f836ddf": {
+    "firstName": "_",
+    "lastName": "Piovano Arlotto",
+    "hasGender": "male",
+    "personInternalId": 7678,
+    "description": "Italian comic writer 1396\u20131484, real name Arlotto Mainardi"
+  },
+  "ww_ba6d84f2f8696411": {
+    "firstName": "_",
+    "lastName": "Plato",
+    "hasGender": "male",
+    "personInternalId": 7679,
+    "description": "Greek philosopher [428-423] BC \u2013 [348-347] BC"
+  },
+  "ww_bc8c526a262fb9c0": {
+    "firstName": "Gnaeus",
+    "lastName": "Pompeius Magnus",
+    "hasGender": "male",
+    "personInternalId": 7680,
+    "description": "Roman general and politician 106 BC-48 BC, known as Pompey the Great"
+  },
+  "ww_2537ec27870af62b": {
+    "firstName": "_",
+    "lastName": "Richard III",
+    "hasGender": "male",
+    "personInternalId": 7681,
+    "description": "King of England",
+    "birthDate": "GREGORIAN:1452",
+    "deathDate": "GREGORIAN:1485"
+  },
+  "ww_b6e09a79bde97dd6": {
+    "firstName": "John",
+    "lastName": "Talbot, 1st Earl of Shrewsbury",
+    "hasGender": "male",
+    "personInternalId": 7682,
+    "description": "English military commander",
+    "birthDate": "GREGORIAN:1387",
+    "deathDate": "GREGORIAN:1453"
+  },
+  "ww_cab245e8a8b4f7d5": {
+    "firstName": "Thomas",
+    "lastName": "Watson",
+    "hasGender": "male",
+    "personInternalId": 7683,
+    "description": "English poet and translator 1555\u20131592"
   }
 }
