@@ -206,7 +206,7 @@ def update_book(b_id, auth_names, ven_id, comp_id, gen, sub, lex_id):
         temp.add(comp_id)
         books[b_id]["performedBy"] = list(temp)
 
-    if gen:
+    if gen and gen != "Theatre":
         if "hasGenre" not in books[b_id]:
             books[b_id]["hasGenre"] = []
 

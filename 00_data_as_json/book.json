@@ -467,8 +467,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Sociology, society, lifestyle",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Sociology, society, lifestyle"
     ]
   },
   "ww_450c8e303d46eae2": {
@@ -667,12 +667,11 @@
     "bookTitle": "The Battle of Alcazar",
     "edition": "Ed. Frank S. Hook. The Life and Works of George Peele. 3 vols. New Haven and Lonson: Yale University Press, 1961. 2:293-347.",
     "editionHist": "The Battell Of Alcazar. London: Edwarde Allde for Richard Bankworth, 1594.",
-    "hasGenre": [
-      "Tragedy",
-      "Theatre"
-    ],
     "hasSubject": [
       "HISTORICAL PAGE"
+    ],
+    "hasGenre": [
+      "Tragedy"
     ],
     "performedIn": [
       "ww_ddd1d1992c2d6f3d"
@@ -942,8 +941,7 @@
     "bookTitle": "Henry VI Part 3",
     "edition": "Henry VI Part 3.",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "History"
     ],
     "performedBy": [
       "ww_2f9e30089f2fa1c1"
@@ -970,9 +968,6 @@
     "bookTitle": "Henry VI Part 2 - The Contention",
     "edition": "The First part of the Contention betwixt the two famous Houses of Yorke and Lancaster. London: Thomas Creed for Thomas Millington, 1594.",
     "editionHist": "The First part of the Contention betwixt the two famous Houses of Yorke and Lancaster. London: Thomas Creed, for Thomas Millington, 1594.",
-    "hasGenre": [
-      "Theatre"
-    ],
     "hasSubject": [
       "TO BE EDITED"
     ]
@@ -981,10 +976,10 @@
     "bookInternalId": "@010000",
     "edition": "The Shakspere Allusion Book. A Collection of Allusions to Shakspere from 1591 to 1700 [...]. London: Chatto and Windus; New York: Duffield and Co., 1909.",
     "isWrittenBy": [
-      "ww_a60ff4964db613ee",
-      "ww_fb550941e6e9db62",
+      "ww_26c25538fa69a566",
       "ww_4c146e6d2ef23a03",
-      "ww_26c25538fa69a566"
+      "ww_a60ff4964db613ee",
+      "ww_fb550941e6e9db62"
     ],
     "hasLanguage": "English",
     "bookTitle": "The Shakspere Allusion Book",
@@ -1013,8 +1008,7 @@
     "edition": "Henry VI Part 2.",
     "hasGenre": [
       "Tragedy",
-      "History",
-      "Theatre"
+      "History"
     ],
     "performedBy": [
       "ww_2f9e30089f2fa1c1"
@@ -1039,8 +1033,7 @@
     "edition": "Ed. Frank S. Hook. The Life and Works of George Peele. 3 vols. New Haven and Lonson: Yale University Press, 1961. 2:69-170.",
     "editionHist": "The Famous Chronicle of king Edward the first. London: Abell Ieffes, 1593.",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "History"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -1065,22 +1058,21 @@
     "edition": "The Complete Plays. Ed. J. B. Steane. London: Penguin 1986. 431-533.",
     "hasGenre": [
       "Tragedy",
-      "History",
-      "Theatre"
+      "History"
     ],
     "performedBy": [
       "ww_2f9e30089f2fa1c1"
     ],
     "performedIn": [
-      "ww_9736cdaa01aa3143",
-      "ww_ddd1d1992c2d6f3d"
+      "ww_ddd1d1992c2d6f3d",
+      "ww_9736cdaa01aa3143"
     ]
   },
   "ww_7f5e9141d1116e89": {
     "bookInternalId": "@000928",
     "isWrittenBy": [
-      "ww_7468c79b15d734b3",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_7468c79b15d734b3"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -1092,8 +1084,7 @@
     "bookTitle": "Titus Andronicus",
     "edition": "Titus Andronicus.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedIn": [
       "ww_ddd1d1992c2d6f3d"
@@ -1185,9 +1176,9 @@
     "edition": "eds. FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts. 2010. https://www.folgerdigitaltexts.org.",
     "isWrittenBy": [
       "ww_c8fa0de8d0fc2fc4",
-      "ww_4d01a832f50d804e",
       "ww_55f5e9f5fe14853f",
-      "ww_386448c09c02ba3f"
+      "ww_386448c09c02ba3f",
+      "ww_4d01a832f50d804e"
     ],
     "hasLanguage": "English",
     "bookTitle": "FDT (Folger Digital Texts)",
@@ -1215,16 +1206,15 @@
     "bookTitle": "Richard III",
     "edition": "Richard III.",
     "hasGenre": [
-      "History",
-      "Theatre",
-      "Tragedy or History"
+      "Tragedy or History",
+      "History"
     ],
     "performedBy": [
       "ww_2f923c7f18095fc0"
     ],
     "performedIn": [
-      "ww_81218f770ce74ed5",
-      "ww_ddd1d1992c2d6f3d"
+      "ww_ddd1d1992c2d6f3d",
+      "ww_81218f770ce74ed5"
     ],
     "hasSubject": [
       "Literature"
@@ -1279,8 +1269,7 @@
     "bookTitle": "The Massacre at Paris",
     "edition": "The Complete Plays. Ed. J. B. Steane. London: Penguin 1986. 535-584.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_06311c47190f2d0a"
@@ -1524,7 +1513,6 @@
     "bookTitle": "A Midsummer Night's Dream",
     "edition": "A Midsummer Night's Dream.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -1578,10 +1566,9 @@
     "bookTitle": "Richard II",
     "edition": "Richard II.",
     "hasGenre": [
-      "History",
       "Tragedy",
-      "Theatre",
-      "Tragedy or History"
+      "Tragedy or History",
+      "History"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1622,7 +1609,6 @@
     "bookTitle": "The Merchant of Venice",
     "edition": "The Merchant of Venice.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -1647,9 +1633,8 @@
     "bookTitle": "King John",
     "edition": "King John.",
     "hasGenre": [
-      "History",
       "Tragedy",
-      "Theatre"
+      "History"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1673,7 +1658,6 @@
     "bookTitle": "Love's Labours Lost",
     "edition": "Love's Labour's Lost.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -1700,8 +1684,7 @@
     "edition": "Henry IV Part 1.",
     "hasGenre": [
       "Tragedy",
-      "History",
-      "Theatre"
+      "History"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1742,9 +1725,8 @@
     "bookTitle": "Henry IV Part 2",
     "edition": "Henry IV Part 2.",
     "hasGenre": [
-      "History",
       "Tragedy",
-      "Theatre"
+      "History"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1786,7 +1768,6 @@
     "bookTitle": "The Merry Wives of Windsor",
     "edition": "The Merry Wives of Windsor.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -1976,7 +1957,6 @@
     "edition": "The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 1, 7-104.",
     "editionHist": "The Shomakers Holiday. Or The Gentle Craft. With the humorous life of Simon Eyre, shoomaker, and Lord Maior of London. As it was acted before the Queenes most excellent Maiestie on New-yeares day at night last, by the right honourable the Earle of Notingham, Lord high Admirall of England, his seruants. London: Valentine Sims, 1600.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -2005,9 +1985,8 @@
     "edition": "Julius Caesar.",
     "hasGenre": [
       "Tragedy",
-      "History",
-      "Theatre",
-      "Tragedy or History"
+      "Tragedy or History",
+      "History"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -2031,8 +2010,7 @@
     "bookTitle": "Henry V",
     "edition": "Henry V.",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "History"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -2103,8 +2081,7 @@
     "bookTitle": "Hamlet",
     "edition": "Hamlet.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -2132,10 +2109,9 @@
     "bookTitle": "As You Like It",
     "edition": "As You Like It.",
     "hasGenre": [
-      "History",
       "Tragedy",
-      "Theatre",
-      "Comedy"
+      "Comedy",
+      "History"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -2448,7 +2424,6 @@
     "bookTitle": "Twelfth Night",
     "edition": "Twelfth Night.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ]
   },
@@ -2468,15 +2443,14 @@
     "edition": "The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 1, 308-385.",
     "editionHist": "Satiro-Mastix. Or The vntrussing of the Humorous Poet. As it hath bin presented publikely, by the Right Honorable, the Lord Chamberlaine his Seruants; and priuately, by the Children of Paules. London: Edward White, 1602.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
     ],
     "performedBy": [
-      "ww_2eb6b7cad6584184",
-      "ww_dc6a53fb57f6bea7"
+      "ww_dc6a53fb57f6bea7",
+      "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9"
@@ -2566,7 +2540,6 @@
     "edition": "The Workes of Beniamin Jonson. London: Will Stansby, 1616. 272-353.",
     "editionHist": "The Workes of Beniamin Jonson. London: Will Stansby, 1616. 272-353.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -2594,19 +2567,18 @@
     "bookTitle": "Blurt, Master Constable",
     "edition": "Blurt Master-Constable. Or The Spaniards Night-walke. As it hath bin sundry times priuately acted by the Children of Paules. London: Henry Rockytt, 1602.",
     "editionHist": "Blurt Master-Constable. Or The Spaniards Night-walke. As it hath bin sundry times priuately acted by the Children of Paules. London: Henry Rockytt, 1602.",
-    "hasGenre": [
-      "Theatre",
-      "Comedy"
-    ],
     "performedBy": [
       "ww_2eb6b7cad6584184"
+    ],
+    "hasGenre": [
+      "Comedy"
     ],
     "performedIn": [
       "ww_ddd1d1992c2d6f3d"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Literature"
+      "Literature",
+      "TO BE EDITED"
     ],
     "lexiaAsBook": "ww_b5226cbf65155a7d"
   },
@@ -2625,8 +2597,7 @@
     "bookTitle": "Troilus and Cressida",
     "edition": "Troilus and Cressida.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -2722,8 +2693,7 @@
     "editionHist": "The Foure Prentises of London. With the Conquest of Ierusalem. As it hath bene diuerse times Acted, at the Red Bull, by the Queenes Maiesties Seruants. London: I. W., 1615.",
     "hasGenre": [
       "Tragedy",
-      "Romance (Drama)",
-      "Theatre"
+      "Romance (Drama)"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -2742,8 +2712,8 @@
     "isWrittenBy": [
       "ww_d78940f8a8554ca3",
       "ww_f10aec8cfe5ff90d",
-      "ww_9594c85bc48d3759",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_9594c85bc48d3759"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -2781,7 +2751,6 @@
     "edition": "Measure for Measure.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Tragicomedy"
     ],
     "performedBy": [
@@ -2830,8 +2799,7 @@
     "bookTitle": "Othello",
     "edition": "Othello.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -2843,8 +2811,8 @@
   "ww_ad7af8eb91622840": {
     "bookInternalId": "@001450",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -2857,7 +2825,6 @@
     "edition": "The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 2, 318-393.",
     "editionHist": "The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 2, 318-393.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ]
   },
@@ -2877,8 +2844,7 @@
     "edition": "The Plays of George Chapman. Ed. Thomas Marc Parrott. 4 vols. New York: Russell and Russell, 1961. The Tragedies, Vol. 1, 1-74.",
     "editionHist": "Bussy D'Ambois. A Tragedie: As it hath been often presented at Paules. London. William Aspley, 1607.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -2934,7 +2900,6 @@
     "edition": "The Plays of George Chapman. Ed. Thomas Marc Parrott. 4 vols. New York: Russell and Russell, 1961. The Comedies, Vol. 1, 163-232.",
     "editionHist": "May-Day. A witty comedie, diuers times acted at the Blacke Fryers. Written by George Chapman. London: John Browne, 1611.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -2968,8 +2933,8 @@
       "ww_b92cc9cd25fb9404"
     ],
     "performedIn": [
-      "ww_cbf4b8d30fa8b586",
-      "ww_51838c979d2a7349"
+      "ww_51838c979d2a7349",
+      "ww_cbf4b8d30fa8b586"
     ]
   },
   "ww_c7017a2fd4b1ff37": {
@@ -3017,7 +2982,6 @@
     "edition": "The Collected Works. Eds. Gary Taylor and John Lavagnino. Oxford: Clarendon Press, 2007. 280-327.",
     "editionHist": "The Honest Whore, With The Humours of the Patient Man, and the Longing Wife. London: by V. S. for John Hodgets, 1604. N.p.; line 125.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -3082,9 +3046,9 @@
   "ww_c021f9c6c9cb807d": {
     "bookInternalId": "@001473",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
       "ww_ad03d7c87e5b9c24",
-      "ww_9b2d545e20d62482"
+      "ww_9b2d545e20d62482",
+      "ww_8501ec457f433848"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -3097,7 +3061,6 @@
     "edition": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 3:83-174.",
     "editionHist": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 3:83-174.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -3130,8 +3093,8 @@
   "ww_2f9b1b0a9d86ff6d": {
     "bookInternalId": "@001483",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -3200,8 +3163,7 @@
     "edition": "The Tragedie Of Caesar and Pompey Or Caesars Reuenge. London: Nathaniel Fosbrooke and John Wright, 1607. [A]2 verso; act 1, scene 1, lines 45-46 [normalised spelling]. ",
     "editionHist": "The Tragedie Of Caesar and Pompey Or Caesars Reuenge. London: Nathaniel Fosbrooke and John Wright, 1607.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedIn": [
       "ww_b97a51b8ef381578",
@@ -3229,8 +3191,8 @@
     "bookTitle": "All's Well That Ends Well",
     "edition": "All's Well That Ends Well.",
     "hasGenre": [
-      "Tragicomedy",
-      "Comedy"
+      "Comedy",
+      "Tragicomedy"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -3245,8 +3207,8 @@
   "ww_7c3febaec4e5aacf": {
     "bookInternalId": "@001522",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -3260,7 +3222,6 @@
     "editionHist": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. F. Bowers. 10 vols. Cambridge: Cambridge University Press, 1966. Vol. 1, 145-259.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -3303,7 +3264,6 @@
     "edition": "Macbeth.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Tragedy or History"
     ],
     "performedBy": [
@@ -3377,8 +3337,8 @@
   "ww_b8eaca27cf9698df": {
     "bookInternalId": "@001555",
     "isWrittenBy": [
-      "ww_986dd93d2d794ff5",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_986dd93d2d794ff5"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -3390,8 +3350,7 @@
     "bookTitle": "Pericles",
     "edition": "Pericles.",
     "hasGenre": [
-      "Romance (Drama)",
-      "Theatre"
+      "Romance (Drama)"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -3416,7 +3375,6 @@
     "edition": "The Collected Works. Eds. Gary Taylor and John Lavagnino. Oxford: Clarendon Press, 2007. 595-636.",
     "editionHist": "Your fiue Gallants. As it hath beene often in Action at the Black-friers. Written by T. Middleton. London: Richard Bonian, 1608.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -3445,7 +3403,6 @@
     "edition": "Cvpids Whirligig, As it hath bene sundry times Acted by the Children of the Kings Majesties Reuels. London: E. Allde for Arthur Johnson, 1607.",
     "editionHist": "Cvpids Whirligig. As it hath bene sundry times Acted by the Children of the Kings Majesties Reuels. London: E. Allde for Arthur Johnson, 1607.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -3474,12 +3431,11 @@
     "edition": "The Rape of Lvcrece. Acted by Her Majesties Servants at the Red-Bull. London: John Raworth for Nathaniel Butter, 1638.",
     "editionHist": "The Rape of Lvcrece. Acted by Her Majesties Servants at the Red-Bull. London: John Raworth for Nathaniel Butter, 1638.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Literature"
+      "Literature",
+      "TO BE EDITED"
     ],
     "performedBy": [
       "ww_b92cc9cd25fb9404"
@@ -3531,8 +3487,7 @@
     "bookTitle": "Coriolanus",
     "edition": "Coriolanus.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -3545,8 +3500,8 @@
   "ww_606a583dffc5ec3a": {
     "bookInternalId": "@001575",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
-      "ww_6f4a80592c6c793c"
+      "ww_6f4a80592c6c793c",
+      "ww_8501ec457f433848"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -3559,8 +3514,7 @@
     "edition": "The Plays of George Chapman. Ed. Thomas Marc Parrott. 4 vols. New York: Russell and Russell, 1961. The Tragedies, Vol. 1, 149-272.",
     "editionHist": "The Conspiracie, And Tragedie of Charles Duke of Byron, Marshall of France. London: G. Eld for Thomas Thorppe, 1608.",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "History"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -3611,7 +3565,6 @@
     "edition": "Ram-Alley. Or Merrie-Trickes. A comedy Diuers times here-to-fore acted. By the Children of the Kings Reuels. Written by Lo: Barrey. London: G. Eld for Robert Wilson, 1611.",
     "editionHist": "Ram-Alley: Or Merrie-Trickes. A Comedy Divers times here-to-fore acted. By the Children of the Kings Reuels. Written by Lo: Barrey. London: G. Eld for Robert Wilson, 1611.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -3637,7 +3590,6 @@
     "edition": "The Plays of Nathan Field: Edited from the Original Quartos with Introduction and Notes. Ed. William Peery. Austin: The University of Texas Press, 1950. 55-139.",
     "editionHist": "The Plays of Nathan Field: Edited from the Original Quartos with Introduction and Notes. Ed. William Peery. Austin: The University of Texas Press, 1950. 55-139.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -3722,9 +3674,8 @@
     "bookTitle": "Cymbeline",
     "edition": "Cymbeline.",
     "hasGenre": [
-      "Romance (Drama)",
       "Tragedy",
-      "Theatre"
+      "Romance (Drama)"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -3751,7 +3702,6 @@
     "editionHist": "The Plays of Nathan Field: Edited from the Original Quartos with Introduction and Notes. Ed. William Peery. Austin: The University of Texas Press, 1950. 159-236.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -3837,7 +3787,6 @@
     "edition": "The Tempest.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -3862,9 +3811,8 @@
     "bookTitle": "The Winter's Tale",
     "edition": "The Winter's Tale.",
     "hasGenre": [
-      "Romance (Drama)",
       "Tragedy",
-      "Theatre"
+      "Romance (Drama)"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -3945,8 +3893,7 @@
     "edition": "English Renaissance Drama: A Norton Anthology. Gen. ed. David Bevington. New York and London: W. W. Norton, 2002. 1664-1748.",
     "editionHist": "The white divel, or, The Tragedy of Paulo Giordano Ursini, Duke of Brachiano, With The Life and Death of Vittoria Corombona the famous Venetian Curtizan. Acted by the Queenes Maiesties Seruants. Written by Iohn Webster. London: N. O. for Thomas Archer, 1622.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE",
@@ -3969,8 +3916,7 @@
     "bookTitle": "Henry VIII",
     "edition": "Henry VIII.",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "History"
     ]
   },
   "ww_daecaee38c79925b": {
@@ -3989,8 +3935,7 @@
     "edition": "English Renaissance Drama: A Norton Anthology. Gen. ed. David Bevington. New York and London: W. W. Norton, 2002. 1749-1832.",
     "editionHist": "The Tragedy Of The Dutchesse Of Malfy. As it was Presented priuatly, at the Black-Friers; and publiquely at the Globe, By the Kings Maiesties Seruants. The perfect and exact Coppy, with diuerse things Printed, that the length of the Play would not beare in the Presentment. London: Nicholas Okes, for Iohn Waterson, 1623.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -4040,7 +3985,6 @@
     "bookTitle": "The Two Noble Kinsmen",
     "edition": "The Two Noble Kinsmen.",
     "hasGenre": [
-      "Theatre",
       "Tragicomedy"
     ]
   },
@@ -4088,8 +4032,8 @@
   "ww_7da5186d0ba71c05": {
     "bookInternalId": "@001798",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_5cb3d6fa23800e74"
+      "ww_5cb3d6fa23800e74",
+      "ww_c298754546b2500e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -4156,19 +4100,18 @@
     "bookTitle": "The Fatal Dowry",
     "edition": "The Plays and Poems of Philip Massinger. Eds. Philip Edwards and Colin Gibson. 5 vols. Oxford: Clarendon Press, 1976. Vol. 1, 11-95.",
     "editionHist": "The Fatall Dovvry: a Tragedy. As it hath beene often Acted at the Priuate House in Blackefryers, by his Maiesties Seruants. Written by P. M. and N. F. London: John Norton, for Francis Constable, 1632.",
-    "hasGenre": [
-      "Tragedy",
-      "Theatre"
-    ],
     "hasSubject": [
       "HISTORICAL PAGE"
+    ],
+    "hasGenre": [
+      "Tragedy"
     ]
   },
   "ww_42c538dd9d8ef8cf": {
     "bookInternalId": "@001911",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -4207,10 +4150,6 @@
     "bookTitle": "The Virgin Martyr",
     "edition": "The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 3, 365-468.",
     "editionHist": "The Virgin Martir, A Tragedie, As it hath bin divers times publickely Acted with great Applause, By the seruants of his Maiesties Reuels. Written by Phillip Messenger and Thomas Deker. London: B. A. for Thomas Jones, 1622.",
-    "hasGenre": [
-      "Tragedy",
-      "Theatre"
-    ],
     "hasSubject": [
       "HISTORICAL PAGE"
     ],
@@ -4219,6 +4158,9 @@
     ],
     "performedIn": [
       "ww_81218f770ce74ed5"
+    ],
+    "hasGenre": [
+      "Tragedy"
     ]
   },
   "ww_518300e10a2ce48a": {
@@ -4237,8 +4179,7 @@
     "edition": "The Collected Works. Eds. Gary Taylor and John Lavagnino. Oxford: Clarendon Press, 2007. 1448-1487.",
     "editionHist": "The Mayor of Quinborough: A Comedy. As it hath been often Acted with much Applause at Black-Fryars, By His Majesties Servants. Written by Tho. Middleton. London: Henry Herringman, 1661.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -4272,8 +4213,8 @@
   "ww_ba414031d5e5f20b": {
     "bookInternalId": "@002013",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -4285,16 +4226,15 @@
     "bookTitle": "The Prophetess",
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol. 9, 221-322.",
     "editionHist": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol. 9, 221-322.",
-    "hasGenre": [
-      "Tragedy",
-      "Theatre"
-    ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9",
       "ww_e7808d9dfc1452ef"
+    ],
+    "hasGenre": [
+      "Tragedy"
     ]
   },
   "ww_791d02b9b4f75414": {
@@ -4313,7 +4253,6 @@
     "edition": "The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 576-639.",
     "editionHist": "The wonder of A Kingdome. Written by Thomas Dekker. London: Robert Raworth for Nicholas Vavasour, 1636.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -4364,7 +4303,6 @@
     "edition": "The Plays and Poems of Philip Massinger. Eds. Philip Edwards and Colin Gibson. 5 vols. Oxford: Clarendon Press, 1976. Vol. 2, 107-180. 111; act 1, scene 1, lines 79-84 [normalized spelling].",
     "editionHist": "The Parliament of Love. Oxford: Oxford University Press, 1928.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -4448,8 +4386,7 @@
     "edition": "The dramatic works of Sir William D'Avenant. Eds. James Maidment and W. H. Logan. 5 vols. Edinburgh: William Paterson, 1872-1874. Vol. 1, 13-107.",
     "editionHist": "The tragedy of Albovine, King of the Lombards: By William D'avenant. London: R. M., 1629.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -4473,10 +4410,6 @@
     "bookTitle": "The Unnatural Combat",
     "edition": "The Plays and Poems of Philip Massinger. Eds. Philip Edwards and Colin Gibson. 5 vols. Oxford: Clarendon Press, 1976. Vol. 2, 195-272.",
     "editionHist": "The Vnnatvrall Combat. A Tragedie. The Scaene Marsellis. Written by Philip Massinger. As it was presented by the Kings Majesties Servants at the Globe. London: E. G. for Iohn Waterson, 1639.",
-    "hasGenre": [
-      "Tragedy",
-      "Theatre"
-    ],
     "hasSubject": [
       "HISTORICAL PAGE"
     ],
@@ -4485,6 +4418,9 @@
     ],
     "performedIn": [
       "ww_f0a467f9708e54e9"
+    ],
+    "hasGenre": [
+      "Tragedy"
     ]
   },
   "ww_82dc5dad51a3f21d": {
@@ -4503,8 +4439,7 @@
     "edition": "The Plays and Poems of Philip Massinger. Eds. Philip Edwards and Colin Gibson. 5 vols. Oxford: Clarendon Press, 1976. Vol. 3, 13-93.",
     "editionHist": "The Roman Actor. A Tragaedie. As it hath diuers times beene, with good allowance Acted, at the private Play-house in the Black-Friers, by the Kings Majesties Servants. London: B. A. and T. F. for Robert Allot, 1629.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -4575,8 +4510,7 @@
     "edition": "The Dramatic Works of Sir William D'Avenant. Eds. James Maidment and W. H. Logan. 5 vols. Edinburgh: William Paterson, 1872-1874. Vol. 1, 117-197.",
     "editionHist": "The Crvell Brother. A Tragedy. As it was presented, at the priuate House, in the Blacke-Fryers: London: A. M. for Iohn Waterson, 1630.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -4604,7 +4538,6 @@
     "edition": "The Plays and Poems of Philip Massinger. Eds. Philip Edwards and Colin Gibson. 5 vols. Oxford: Clarendon Press, 1976. Vol. 3, 101-180.",
     "editionHist": "The Great Dvke of Florence. A Comicall Historie. As it hath beene often presented with good allowance by her Maties Servants at the Phoenix in Drurie Lane. London: John Marriot, 1636.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -4632,12 +4565,11 @@
     "bookTitle": "The Vow-Breaker",
     "edition": "The Vow Breaker. Or, The Faire Maide of Clifton. In Notinghamshire as it hath beene diuers times Acted by severall Companies with great applause. By William Sampson. London: John Norton for Roger Ball, 1636.",
     "editionHist": "The Vow Breaker. Or, The Faire Maide of Clifton. In Notinghamshire as it hath beene diuers times Acted by severall Companies with great applause. By William Sampson. London: John Norton for Roger Ball, 1636.",
-    "hasGenre": [
-      "Tragedy",
-      "Theatre"
-    ],
     "hasSubject": [
       "TO BE EDITED"
+    ],
+    "hasGenre": [
+      "Tragedy"
     ]
   },
   "ww_84a8155c55c3c1e2": {
@@ -4695,7 +4627,6 @@
     "edition": "The Plays and Poems of Philip Massinger. Eds. Philip Edwards and Colin Gibson. 5 vols. Oxford: Clarendon Press, 1976. Vol. 1, 117-197.",
     "editionHist": "The Maid of Honovr. As it hath beene often presented with good allowance at the Phoenix in Drvrie-Lane, by the Queenes Majesties Servants. Written by Philip Massinger. London: I. B. for Robert Allot, 1632.",
     "hasGenre": [
-      "Theatre",
       "Tragicomedy"
     ],
     "performedBy": [
@@ -4775,7 +4706,6 @@
     "editionHist": "The Emperovr of the East. A Tragae-Comoedie. The Scaene Constantinople. As it hath bene diuers times acted, at the Blackfriers, and Globe Play-houses, by the Kings Maiesties Seruants. Written by Philip Massinger. London: Thomas Harper for John Waterson, 1632.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Tragicomedy"
     ],
     "hasSubject": [
@@ -4803,15 +4733,14 @@
     ],
     "bookTitle": "The Jealous Lovers",
     "edition": "The Jealous Lovers. A Comedie presented to their gracious Majesties at Cambridge, by the Students of Trinity-Colledge. Cambridge: University Printers, 1632.",
-    "hasGenre": [
-      "Theatre",
-      "Comedy"
-    ],
     "hasSubject": [
       "TO BE EDITED"
     ],
     "performedIn": [
       "ww_74375b94b579582b"
+    ],
+    "hasGenre": [
+      "Comedy"
     ]
   },
   "ww_27c743f45370c4f1": {
@@ -4858,8 +4787,8 @@
       "ww_fb09029608b37502"
     ],
     "performedIn": [
-      "ww_74c4ffb6231a730c",
-      "ww_8b1affa515ac476e"
+      "ww_8b1affa515ac476e",
+      "ww_74c4ffb6231a730c"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -5003,12 +4932,11 @@
     "bookTitle": "Love and Honour",
     "edition": "Love And Honovr. Written by W. Davenant. London: Hum, 1649.",
     "editionHist": "Love And Honovr. Written by W. Davenant. London: Hum, 1649.",
-    "hasGenre": [
-      "Theatre",
-      "Tragicomedy"
-    ],
     "hasSubject": [
       "TO BE EDITED"
+    ],
+    "hasGenre": [
+      "Tragicomedy"
     ]
   },
   "ww_523948c4964405e9": {
@@ -5153,12 +5081,12 @@
     "edition": "The drunkard's character. Or, A true drunkard with such sinnes as raigne in him: viz. pride. Ignorance. Enmity. Atheisme. Idlenesse. Adultery. Murther. with many the like. Lively set forth in their colours. Together with Compleat armour against evill society. The which may serve also for a common-place-booke of the most usuall sinnes. By R. Iunius. London: R. Badger for G. Latham, 1638.",
     "editionHist": "The drunkard's character, or, A true drunkard with such sinnes as raigne in him: viz. pride. Ignorance. Enmity. Atheisme. Idlenesse. Adultery. Murther. with many the like. Lively set forth in their colours. Together with Compleat armour against evill society. The which may serve also for a common-place-booke of the most usuall sinnes. By R. Iunius. London: R. Badger for G. Latham, 1638.",
     "hasGenre": [
-      "Pamphlet or liturgical text",
-      "Nonfiction unspecified"
+      "Nonfiction unspecified",
+      "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Sociology, society, lifestyle",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Sociology, society, lifestyle"
     ]
   },
   "ww_fca85ff87c98f237": {
@@ -5256,8 +5184,8 @@
   "ww_3f5747bce6d798fe": {
     "bookInternalId": "@002824",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
-      "ww_6f4a80592c6c793c"
+      "ww_6f4a80592c6c793c",
+      "ww_8501ec457f433848"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -5269,8 +5197,7 @@
     "bookTitle": "Revenge for Honour: A Tragedy",
     "edition": "The Plays of George Chapman. Ed. Thomas Marc Parrott. 4 vols. New York: Russell and Russell, 1961. The Tragedies, Vol. 2, 475-538.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedIn": [
       "ww_ddd1d1992c2d6f3d"
@@ -5344,10 +5271,7 @@
       "GREGORIAN:1655:1655"
     ],
     "bookTitle": "A Brother's Murder",
-    "edition": "A Brother's Murder. Sheldwich: Lees Court, 1655.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "edition": "A Brother's Murder. Sheldwich: Lees Court, 1655."
   },
   "ww_73cdd390f6e92cbe": {
     "bookInternalId": "@010132",
@@ -5536,10 +5460,7 @@
       "GREGORIAN:1669:1669"
     ],
     "bookTitle": "The Dumb Lady",
-    "edition": "The Dumb Lady. Or, The Farriar made Physician. London: Thomas Dring et al., 1672.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "edition": "The Dumb Lady. Or, The Farriar made Physician. London: Thomas Dring et al., 1672."
   },
   "ww_a74a445d23ff1ff2": {
     "bookInternalId": "@005219",
@@ -5555,10 +5476,7 @@
     ],
     "bookTitle": "The Amorous Prince. Or, The Curious Husband",
     "edition": "The Works of Aphra Behn. Ed. Montague Summers. 8 vols. London: Heinemann, 1915. Vol. 4, 121-213.",
-    "editionHist": "The Works of Aphra Behn. Ed. Montague Summers. 8 vols. London: Heinemann, 1915. Vol. 4, 121-213.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "editionHist": "The Works of Aphra Behn. Ed. Montague Summers. 8 vols. London: Heinemann, 1915. Vol. 4, 121-213."
   },
   "ww_ab9b03580f4140d8": {
     "bookInternalId": "@005210",
@@ -5653,8 +5571,7 @@
     "bookTitle": "The Rival Kings",
     "edition": "The rival king. Or The loves of Oroondates and Statira: a tragedy. London: L. Curtis, 1677.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ]
   },
   "ww_0b80290e20216583": {
@@ -5697,8 +5614,8 @@
   "ww_da24e779a482efd0": {
     "bookInternalId": "@005205",
     "isWrittenBy": [
-      "ww_ed5b7d7b5b4ff788",
-      "ww_12f7d2e19bfcb92f"
+      "ww_12f7d2e19bfcb92f",
+      "ww_ed5b7d7b5b4ff788"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -5748,16 +5665,13 @@
       "GREGORIAN:1681:1682"
     ],
     "bookTitle": "The Loyal Brother or, The Persian Prince",
-    "edition": "The Works of Thomas Southerne. Eds. Robert Jordan and Harold Love. 2 vols. Oxford: Clarendon Press, 1988. Vol. 1, 1-73.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "edition": "The Works of Thomas Southerne. Eds. Robert Jordan and Harold Love. 2 vols. Oxford: Clarendon Press, 1988. Vol. 1, 1-73."
   },
   "ww_fafacaceace47d73": {
     "bookInternalId": "@005556",
     "isWrittenBy": [
-      "ww_ed5b7d7b5b4ff788",
-      "ww_12f7d2e19bfcb92f"
+      "ww_12f7d2e19bfcb92f",
+      "ww_ed5b7d7b5b4ff788"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -5846,10 +5760,7 @@
       "GREGORIAN:1684:1684"
     ],
     "bookTitle": "The Disappointment. Or, The Mother in Fashion",
-    "edition": "The Works of Thomas Southerne. Eds. Robert Jordan and Harold Love. 2 vols. Oxford: Clarendon Press, 1988. Vol. 1, 75-156.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "edition": "The Works of Thomas Southerne. Eds. Robert Jordan and Harold Love. 2 vols. Oxford: Clarendon Press, 1988. Vol. 1, 75-156."
   },
   "ww_25bf8474011159e2": {
     "bookInternalId": "@005139",
@@ -5910,8 +5821,8 @@
   "ww_f3d7312515e5ff87": {
     "bookInternalId": "@000351",
     "isWrittenBy": [
-      "ww_3d7f30bfa784adbc",
-      "ww_7af335e6c892a8d0"
+      "ww_7af335e6c892a8d0",
+      "ww_3d7f30bfa784adbc"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -6247,8 +6158,8 @@
   "ww_2eb8f65559e88209": {
     "bookInternalId": "@003008",
     "isWrittenBy": [
-      "ww_8501ec457f433848",
-      "ww_63d5fe36ffac5d32"
+      "ww_63d5fe36ffac5d32",
+      "ww_8501ec457f433848"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -6442,9 +6353,6 @@
     ],
     "bookTitle": "Edmund Ironside",
     "edition": "Edmund Ironside. 1597.",
-    "hasGenre": [
-      "Theatre"
-    ],
     "hasSubject": [
       "TO BE EDITED"
     ]
@@ -6555,7 +6463,6 @@
     "edition": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 1:1-64.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -6611,8 +6518,8 @@
     "bookInternalId": "@010010",
     "edition": "eds. William Shakespeare and Others: Collaborative Plays. Basingstoke: Palgrave Macmillan, 2013.",
     "isWrittenBy": [
-      "ww_360a194801e33346",
-      "ww_8fb09da2c31a2ddc"
+      "ww_8fb09da2c31a2ddc",
+      "ww_360a194801e33346"
     ],
     "hasLanguage": "English",
     "bookTitle": "Collaborative Plays",
@@ -6642,7 +6549,6 @@
     "editionHist": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 1:65-134.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Tragicomedy"
     ],
     "performedBy": [
@@ -6928,7 +6834,6 @@
     "editionHist": "The Workes of Beniamin Jonson. London: Will Stansby, 1616. 178-269.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Masque or other"
     ],
     "performedBy": [
@@ -7184,7 +7089,6 @@
     "edition": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 1:135-218.",
     "editionHist": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 1:135-218.",
     "hasGenre": [
-      "Theatre",
       "Tragicomedy"
     ],
     "performedBy": [
@@ -7214,7 +7118,6 @@
     "editionHist": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 2:65-138.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -7237,8 +7140,8 @@
     "edition": "Daiphantus, or The Passions of Loue. Comicall to Reade, But Tragicall to Act: As full of Wit, as of Experience. London: T. Creede for William Cotton, 1604.",
     "editionHist": "Daiphantus, or The Passions of Loue. Comicall to Reade, But Tragicall to Act: As full of Wit, as of Experience. London: T. Creede for William Cotton, 1604.",
     "hasGenre": [
-      "Prose unspecified",
-      "Poetry unspecified"
+      "Poetry unspecified",
+      "Prose unspecified"
     ]
   },
   "ww_c349487657677682": {
@@ -7254,10 +7157,7 @@
       "GREGORIAN:1604:1604"
     ],
     "bookTitle": "The Case Is Altered",
-    "edition": "The Case is Altered. Ben Jonson his performance, As it hath beene sundry times Acted by the Children of the Blacke-friers.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "edition": "The Case is Altered. Ben Jonson his performance, As it hath beene sundry times Acted by the Children of the Blacke-friers."
   },
   "ww_d77664dc4673002e": {
     "bookInternalId": "@001455",
@@ -7275,7 +7175,6 @@
     "edition": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 2:139-226.",
     "editionHist": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 2:139-226.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -7330,7 +7229,6 @@
     "editionHist": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 2:1-64.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -7363,8 +7261,8 @@
   "ww_311623f59a43a905": {
     "bookInternalId": "@001520",
     "isWrittenBy": [
-      "ww_883324fc3b8b8dba",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_883324fc3b8b8dba"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -7377,8 +7275,7 @@
     "edition": "The Collected Works. Eds. Gary Taylor and John Lavagnino. Oxford: Clarendon Press, 2007. 543-593.",
     "editionHist": "The Revengers Tragaedie. As it hath beene sundry times Acted, by the Kings Maiesties Seruants. London: G. Eld, 1607.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -7404,7 +7301,6 @@
     "editionHist": "The Fleire by Edward Sharpham nach der Quarto 1607. Ed. Hunold Nibbe. Louvain: A. Uystpruyst, 1912.",
     "hasGenre": [
       "Tragedy",
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -7418,8 +7314,8 @@
     "bookInternalId": "@010126",
     "edition": "eds. The Collected Works of Thomas Middleton. Oxford: Clarendon Press, 2007.",
     "isWrittenBy": [
-      "ww_b29f022218b6d47d",
-      "ww_d97781c5821c201b"
+      "ww_d97781c5821c201b",
+      "ww_b29f022218b6d47d"
     ],
     "hasLanguage": "English",
     "bookTitle": "The Collected Works of Thomas Middleton (Taylor)",
@@ -7464,7 +7360,6 @@
     "bookTitle": "The Family of Love",
     "edition": "The Familie of loue Acted by the children of his Maiesties Reuells. London: Richard Braddock for John Helmes, 1608.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "lexiaAsBook": "ww_52a110d8728fc280",
@@ -7544,8 +7439,8 @@
   "ww_56e2bc4eb5abe25b": {
     "bookInternalId": "@001605",
     "isWrittenBy": [
-      "ww_4165dddf64bc6da3",
       "ww_ad03d7c87e5b9c24",
+      "ww_4165dddf64bc6da3",
       "ww_18abf85e413e5632"
     ],
     "hasLanguage": "English",
@@ -7558,8 +7453,7 @@
     "bookTitle": "The Insatiate Countesse",
     "edition": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 3:1-82.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_271a9756145ec962"
@@ -7630,8 +7524,8 @@
   "ww_468d7e5b9078fb34": {
     "bookInternalId": "@001650",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -7644,8 +7538,7 @@
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. F. Bowers. 10 vols. Cambridge: Cambridge University Press, 1970. Vol. 2, 1-166.",
     "editionHist": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. F. Bowers. 10 vols. Cambridge: Cambridge University Press, 1970. Vol. 2, 1-166.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ]
   },
   "ww_ff044156426e708d": {
@@ -7670,8 +7563,8 @@
   "ww_83f40524c281e8de": {
     "bookInternalId": "@001706",
     "isWrittenBy": [
-      "ww_8926bbeaa7c56023",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_8926bbeaa7c56023"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -7683,20 +7576,19 @@
     "bookTitle": "Four Plays, or Moral Representations, in One",
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1966-1996. Vol. 8, 223-344.",
     "editionHist": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1966-1996. Vol. 8, 223-344.",
-    "hasGenre": [
-      "Theatre",
-      "Masque or other"
-    ],
     "hasSubject": [
       "TO BE EDITED"
+    ],
+    "hasGenre": [
+      "Masque or other"
     ],
     "performedBy": [
       "ww_271a9756145ec962",
       "ww_dfe3ddd6db3b2f36"
     ],
     "performedIn": [
-      "ww_c794ca0bcf5e1168",
-      "ww_0f98349eee1739cf"
+      "ww_0f98349eee1739cf",
+      "ww_c794ca0bcf5e1168"
     ]
   },
   "ww_b70c78ad34ac9ba9": {
@@ -7714,12 +7606,11 @@
     "bookTitle": "The Iron Age Part 1",
     "edition": "The Iron Age. Contayning the Rape of Hellen: The Siege of Troy: The Combate betwixt Hector and Aiax: Hector and Troilus slayne by Achilles: Achilles slaine by Paris: Aiax and Vlisses contend for the Armour of Achilles: The Death of Ajax. London: Nicholas Okes, 1632.",
     "editionHist": "The Iron Age: Contayning the Rape of Hellen: The Siege of Troy: The Combate betwixt Hector and Aiax: Hector and Troilus slayne by Achilles: Achilles slaine by Paris: Aiax and Vlisses contend for the Armour of Achilles: The Death of Ajax. London: Nicholas Okes, 1632.",
-    "hasGenre": [
-      "Theatre",
-      "Masque or other"
-    ],
     "hasSubject": [
       "TO BE EDITED"
+    ],
+    "hasGenre": [
+      "Masque or other"
     ],
     "performedIn": [
       "ww_ddd1d1992c2d6f3d"
@@ -7784,7 +7675,6 @@
     "bookTitle": "The Scornful Ladie",
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol. 6, 225-354.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ]
   },
@@ -7804,7 +7694,6 @@
     "edition": "A Match at Mid-Night. A Pleasant Comoedie: As it hath beene Acted by the Children of the Revells. Written by VV. R. London: Aug. Mathewes for William Sheares, 1633.",
     "editionHist": "A Match at Mid-Night. A Pleasant Comoedie: As it hath beene Acted by the Children of the Revells. Written by VV. R. London: Aug. Mathewes for William Sheares, 1633.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -7820,8 +7709,8 @@
   "ww_ae445c827885ad63": {
     "bookInternalId": "@002069",
     "isWrittenBy": [
-      "ww_f10aec8cfe5ff90d",
-      "ww_5cb3d6fa23800e74"
+      "ww_5cb3d6fa23800e74",
+      "ww_f10aec8cfe5ff90d"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -7880,7 +7769,6 @@
     "edition": "The Schoole of Complement. As It Was Acted by her Maiesties Servants at the Private house in Drury Lane. E. A. for Francis Constable. 1631.",
     "editionHist": "The Schoole of Complement. As It Was Acted by her Maiesties Servants at the Private house in Drury Lane. E. A. for Francis Constable. 1631.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -8045,8 +7933,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_e0b03ee292ddfc15": {
@@ -8189,9 +8077,6 @@
     "bookTitle": "Imperiale",
     "edition": "Imperiale. A Tragedie. London: Thomas Harper, 1639.",
     "editionHist": "Imperiale. A Tragedie. London: Thomas Harper, 1639.",
-    "hasGenre": [
-      "Theatre"
-    ],
     "hasSubject": [
       "TO BE EDITED"
     ]
@@ -8231,7 +8116,6 @@
     "edition": "Wit in A Constable. A Comedy written 1639. The Author Henry Glapthorne. And now Printed as it was lately Acted at the Cock-pit in Drury lane, by their Majesties Servants, with good allowance. London: Io. Okes, for F. C. 1640.",
     "editionHist": "Wit in A Constable. A Comedy written 1639. The Author Henry Glapthorne. And now Printed as it was lately Acted at the Cock-pit in Drury lane, by their Majesties Servants, with good allowance. London: Io. Okes, for F. C. 1640.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -8258,10 +8142,7 @@
     ],
     "bookTitle": "The Sisters",
     "edition": "Six new playes, Viz. The Brothers. The Sisters. The Doubtfull Heir. The Imposture. The Cardinall. The Court Secret. The Five first were acted at the Private House in Black Fryers with great Applause. The last was never Acted. All Written by James Shirley. Never printed before. London: Humphrey Robinson and Humphrey Moseley, 1653.",
-    "editionHist": "Six new playes, Viz. The Brothers. The Sisters. The Doubtfull Heir. The Imposture. The Cardinall. The Court Secret. The Five first were acted at the Private House in Black Fryers with great Applause. The last was never Acted. All Written by James Shirley. Never printed before. London: Humphrey Robinson and Humphrey Moseley, 1653.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "editionHist": "Six new playes, Viz. The Brothers. The Sisters. The Doubtfull Heir. The Imposture. The Cardinall. The Court Secret. The Five first were acted at the Private House in Black Fryers with great Applause. The last was never Acted. All Written by James Shirley. Never printed before. London: Humphrey Robinson and Humphrey Moseley, 1653."
   },
   "ww_f99a72278aa6b17a": {
     "bookInternalId": "@005173",
@@ -8370,10 +8251,7 @@
       "GREGORIAN:1681:1681"
     ],
     "bookTitle": "The Spanish Fryar, or The Double Discovery",
-    "edition": "The Works of John Dryden. Gen. ed. Alan Roper. 20 vols. Berkeley: University of California Press, 1992. Vol. 14, 99-203.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "edition": "The Works of John Dryden. Gen. ed. Alan Roper. 20 vols. Berkeley: University of California Press, 1992. Vol. 14, 99-203."
   },
   "ww_a36c017b75063fe1": {
     "bookInternalId": "@005223",
@@ -8430,8 +8308,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_662026e87e8e4f6d": {
@@ -8481,8 +8359,8 @@
   "ww_40bf667f37d87577": {
     "bookInternalId": "@005570",
     "isWrittenBy": [
-      "ww_2328c74af1f27243",
-      "ww_6b7b6aabda5c7c6b"
+      "ww_6b7b6aabda5c7c6b",
+      "ww_2328c74af1f27243"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -8494,12 +8372,12 @@
     "bookTitle": "Those Five Questions",
     "edition": "Those fyue questions, which Marke Tullye Cicero, disputed in his manor of Tusculanum: written afterwardes by him, in as manye bookes, to his frende, and familiar Brutus, in the Latine tounge. And nowe, oute of the same translated, & englished, by Iohn Dolman, studente and felowe of the Inner Temple. London: Thomas Marsh, 1561.",
     "hasGenre": [
-      "Nonfiction unspecified",
-      "Essay"
+      "Essay",
+      "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_e9b2a04d2a7fd579": {
@@ -8642,8 +8520,8 @@
   "ww_26d7297a6051272d": {
     "bookInternalId": "@000426",
     "isWrittenBy": [
-      "ww_a00dfc9e63a5d0fe",
-      "ww_4620a1299d58ff72"
+      "ww_4620a1299d58ff72",
+      "ww_a00dfc9e63a5d0fe"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -9021,8 +8899,8 @@
     "edition": "The ciuile conuersation of M. Steeuen Guazzo written first in Italian, and nowe translated out of French by George Pettie, deuided into foure bookes. [...]. London: Richard Watkins, 1581.",
     "editionHist": "The ciuile conuersation of M. Steeuen Guazzo written first in Italian, and nowe translated out of French by George Pettie, deuided into foure bookes. [...]. London: Richard Watkins, 1581.",
     "hasGenre": [
-      "Pamphlet or liturgical text",
-      "Nonfiction unspecified"
+      "Nonfiction unspecified",
+      "Pamphlet or liturgical text"
     ],
     "hasSubject": [
       "TO BE EDITED",
@@ -9098,8 +8976,8 @@
   "ww_751402000b05e2a9": {
     "bookInternalId": "@005251",
     "isWrittenBy": [
-      "ww_1a3350c92dc1c186",
-      "ww_81a0be98745dd98b"
+      "ww_81a0be98745dd98b",
+      "ww_1a3350c92dc1c186"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -9191,7 +9069,6 @@
     "edition": "Gallathea. As it was playde before the Queenes Maiestie at Greene-wiche, on Newyeeres day at Night. By the Chyldren of Paules. London: John Charlwoode, 1592.",
     "editionHist": "Gallathea. As it was playde before the Queenes Maiestie at Greene-wiche, on Newyeeres day at Night. By the Chyldren of Paules. London: John Charlwoode, 1592.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -9349,8 +9226,7 @@
     "edition": "The Famovs Victories of Henry the fifth. Containing the Honourable Battell of Agin-court: As it was plaide by the Queenes Maiesties Players. London: Thomas Creede, 1598.",
     "editionHist": "The Famovs Victories of Henry the fifth: Containing the Honourable Battell of Agin-court: As it was plaide by the Queenes Maiesties Players. London: Thomas Creede, 1598.",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "History"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -9419,8 +9295,7 @@
     "edition": "The Complete Plays. Ed. J. B. Steane. London: Penguin 1986. 179-257.",
     "editionHist": "The Complete Works of Christopher Marlowe. Ed. Richard Rowland. 5 vols. Oxford: Clarendon Press, 1998. Vol. 5, 1-283.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -9466,8 +9341,7 @@
     "edition": "The Complete Plays. Ed. J. B. Steane. London: Penguin 1986. 101-178.",
     "editionHist": "The Complete Works of Christopher Marlowe. Ed. Richard Rowland. 5 vols. Oxford: Clarendon Press, 1998. Vol. 5, 1-283.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "Art, architecture, music"
@@ -9578,8 +9452,7 @@
     "edition": "The Tragedye of Solyman and Perseda. VVherein is laide open, Loues constancy, Fortunes inconstancy, and Deaths Triumphs. London: Edward Allde for Edward White, 1592.",
     "editionHist": "The Tragedye of Solyman and Perseda. VVherein is laide open, Loues constancy, Fortunes inconstancy, and Deaths Triumphs. London: Edward Allde for Edward White, 1592.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedIn": [
       "ww_ddd1d1992c2d6f3d"
@@ -9603,12 +9476,11 @@
     ],
     "bookTitle": "Dido, Queen of Carthage",
     "edition": "The Complete Plays. Ed. J. B. Steane. London: Penguin 1986. 41-99.",
-    "hasGenre": [
-      "Tragedy",
-      "Theatre"
-    ],
     "performedBy": [
       "ww_eb1d4988fa5b0fe5"
+    ],
+    "hasGenre": [
+      "Tragedy"
     ]
   },
   "ww_0f1ea0489ae6d162": {
@@ -9969,8 +9841,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_9d0b02a61888dad4": {
@@ -10354,9 +10226,9 @@
     "bookInternalId": "@010101",
     "edition": "eds. The Collected Works of Abraham Cowley. 3 vols. Newark: University of Delaware Press, 1989.",
     "isWrittenBy": [
-      "ww_02df784376aa9b65",
       "ww_0ec070acc1a8c693",
-      "ww_d5b779fffbf80505"
+      "ww_d5b779fffbf80505",
+      "ww_02df784376aa9b65"
     ],
     "hasLanguage": "English",
     "bookTitle": "The Collected Works of Abraham Cowley",
@@ -10457,7 +10329,6 @@
     "edition": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 2:227-295.",
     "editionHist": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 2:227-295.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -10483,7 +10354,6 @@
     "edition": "How a Man May Choose a Good Wife from a Bad. by Thomas Heywood nach der Quarto 1608. Ed. A.E.H. Swaen. Louvain: A. Uystpruyst, 1912.",
     "editionHist": "N.p. ",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -10494,8 +10364,8 @@
   "ww_6adb24d62eec2e3f": {
     "bookInternalId": "@005558",
     "isWrittenBy": [
-      "ww_6189bca8bbb55fc5",
-      "ww_fba1842c561811bb"
+      "ww_fba1842c561811bb",
+      "ww_6189bca8bbb55fc5"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -10661,7 +10531,6 @@
     "edition": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 1:135-218.",
     "editionHist": "The Plays of John Marston in Three Volumes. Ed. H. Harvey Wood. Edinburgh and London: Oliver and Boyd, 1934-1939. 1:135-218.",
     "hasGenre": [
-      "Theatre",
       "Tragicomedy"
     ]
   },
@@ -10767,7 +10636,6 @@
     "bookTitle": "The Honest Whore",
     "edition": "The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1953-1961. Vol. 2, 20-109.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -10855,15 +10723,15 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_130444632fa8c6c9": {
     "bookInternalId": "@001598",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -10905,7 +10773,6 @@
     "edition": "The Workes of Beniamin Jonson. London: Will Stansby, 1616. 526-599.",
     "editionHist": "The Workes of Beniamin Jonson. London: Will Stansby, 1616. 526-599.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -10918,8 +10785,8 @@
   "ww_78616e66e6b9adab": {
     "bookInternalId": "@001626",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -10932,7 +10799,6 @@
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1970.",
     "editionHist": "2:449-565.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -10992,9 +10858,6 @@
     ],
     "bookTitle": "Hiren and the Fair Greek",
     "edition": "Hiren or The Fair Greek.",
-    "hasGenre": [
-      "Theatre"
-    ],
     "hasSubject": [
       "TO BE EDITED"
     ]
@@ -11002,10 +10865,10 @@
   "ww_02be9cf906d5771e": {
     "bookInternalId": "@001719",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_8926bbeaa7c56023",
       "ww_ba2bed49492fef13",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a",
+      "ww_8926bbeaa7c56023"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -11045,8 +10908,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Sociology, society, lifestyle"
+      "Sociology, society, lifestyle",
+      "TO BE EDITED"
     ]
   },
   "ww_906c0b694038ccee": {
@@ -11071,9 +10934,9 @@
   "ww_c385ab8330981bbe": {
     "bookInternalId": "@005007",
     "isWrittenBy": [
-      "ww_060fb51fdafb3cc5",
       "ww_02a32352c63afb30",
-      "ww_39384a524a7bafbe"
+      "ww_39384a524a7bafbe",
+      "ww_060fb51fdafb3cc5"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -11111,8 +10974,8 @@
   "ww_9cef169b0b560107": {
     "bookInternalId": "@002023",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_c298754546b2500e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -11125,7 +10988,6 @@
     "edition": "The Collected Works. Gen. eds. Gary Taylor and John Lavagnino. Oxford: Clarendon Press, 2007. 1683-1713.",
     "editionHist": "In: Comedies and Tragedies Written by Francis Beaumont and Iohn Fletcher [...] Never printed before, And now published by the Authours Originall Copies. London: Humphrey Robinson and Humphrey Moseley, 1647.",
     "hasGenre": [
-      "Theatre",
       "Tragicomedy"
     ],
     "hasSubject": [
@@ -11141,8 +11003,8 @@
   "ww_ba33ed8c6b004bed": {
     "bookInternalId": "@002020",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -11236,8 +11098,7 @@
     "bookTitle": "The Broken Heart",
     "edition": "The Broken Heart. Ed. T.J.B. Spencer. Manchester: Manchester University Press, 1980.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -11308,8 +11169,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_47cf34e93ead28ae": {
@@ -11371,7 +11232,6 @@
     "bookTitle": "[Comus:] A Maske Presented at Ludlow Castle",
     "edition": "The Poetical Works of John Milton. Ed. Helen Darbishire. 2 vols. Oxford: Clarendon Press, 1955. Vol. 2, 171-203.",
     "hasGenre": [
-      "Theatre",
       "Masque or other"
     ],
     "performedBy": [
@@ -11458,8 +11318,8 @@
       "Comedy"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Literature"
+      "Literature",
+      "TO BE EDITED"
     ],
     "performedBy": [
       "ww_fb09029608b37502"
@@ -12070,7 +11930,6 @@
     "edition": "The Works of Richard Edwards. Ed. Ros King. The Revels Plays Companion Library. Manchester and New York: Manchester University Press, 2001. 109-184.",
     "editionHist": "The excellent Comedie of two the moste faithfullest Freendes, Damon and Pithias. Made by Maister Edwards, then beynge Maister of the Children. As the same was shewed before the Queenes Maiestie, by the Children of her Graces Chappell, except the Prologue that is somewhat altered for the proper vse of them that hereafter shall haue occasion to plaie it, either in Priuate, or open Audience. London: Richard Iohnes, 1571.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -12127,7 +11986,6 @@
     "bookTitle": "The Three Ladies of London",
     "edition": "A right excellent and famous Comoedy called the three Ladies of London [...]. London: Roger Warde 1584.",
     "hasGenre": [
-      "Theatre",
       "Masque or other"
     ],
     "performedBy": [
@@ -12162,8 +12020,8 @@
   "ww_26d98dfaca290f43": {
     "bookInternalId": "@000829",
     "isWrittenBy": [
-      "ww_ce2fb5bd491a4d2e",
-      "ww_31ef7df7935b492f"
+      "ww_31ef7df7935b492f",
+      "ww_ce2fb5bd491a4d2e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -12173,10 +12031,7 @@
       "GREGORIAN:1589:1589"
     ],
     "bookTitle": "A Looking Glass for London and England",
-    "edition": "A Looking Glasse for London and England. Made by Thomas Lodge Gentleman, and Robert Greene. In Artibus Magister. London: Thomas Creede, 1594.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "edition": "A Looking Glasse for London and England. Made by Thomas Lodge Gentleman, and Robert Greene. In Artibus Magister. London: Thomas Creede, 1594."
   },
   "ww_cb99cb0b515526a9": {
     "bookInternalId": "@000904",
@@ -12194,8 +12049,7 @@
     "edition": "The tragedy of Selimus Emperour of the Turkes. Written T. G. London: Thomas Creede, 1638.",
     "editionHist": "The tragedy of Selimus Emperour of the Turkes. Written T. G. London: Thomas Creede, 1638.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -12271,12 +12125,11 @@
     "edition": "The Famous Historye of the life and death of Captaine Thomas Stukeley. With his marriage to Alderman Curteis Daughter, and valiant ending of his life at the Battaile of Alcazar. London: Thomas Pauyer 1605.",
     "editionHist": "The Famous Historye of the life and death of Captaine Thomas Stukeley. With his marriage to Alderman Curteis Daughter, and valiant ending of his life at the Battaile of Alcazar. London: Thomas Pauyer 1605.",
     "hasGenre": [
-      "History",
-      "Theatre"
+      "History"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Literature"
+      "Literature",
+      "TO BE EDITED"
     ]
   },
   "ww_e9efd638a19bcd54": {
@@ -12412,9 +12265,9 @@
   "ww_79f5de62db1cbdfc": {
     "bookInternalId": "@001235",
     "isWrittenBy": [
-      "ww_d888f97beb7a5e1c",
       "ww_947a2e721f016a03",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_d888f97beb7a5e1c"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -12483,9 +12336,9 @@
   "ww_1321d17b7b704560": {
     "bookInternalId": "@006131",
     "isWrittenBy": [
-      "ww_8cd4ce85e656c7f9",
+      "ww_ad03d7c87e5b9c24",
       "ww_788d53fded4c5751",
-      "ww_ad03d7c87e5b9c24"
+      "ww_8cd4ce85e656c7f9"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -12501,8 +12354,8 @@
       "Essay"
     ],
     "hasSubject": [
-      "Literature",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Literature"
     ],
     "lexiaAsBook": "ww_23f83dbdd892c334"
   },
@@ -12554,9 +12407,6 @@
     ],
     "bookTitle": "The London Prodigal",
     "edition": "The London Prodigall. By William Shakespeare, As it was plaide by the Kings Maiesties seruants. London, T. C. for Nathaniel Butter, 1605.",
-    "hasGenre": [
-      "Theatre"
-    ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
     ],
@@ -12748,9 +12598,9 @@
     "edition": "The Complete English Poems. Ed. A. J. Smith. Harmondsworth: Penguin, 1980. 308-309.",
     "editionHist": "\"7 Ascention\". in: Poems, By J. D.: With Elegies on the Authors Death. London: M. F. for Iohn Marriot 1633.",
     "hasGenre": [
-      "Verse satire",
+      "Poetry unspecified",
       "Epic and verse narrative",
-      "Poetry unspecified"
+      "Verse satire"
     ],
     "hasSubject": [
       "HISTORICAL PAGE"
@@ -12894,9 +12744,6 @@
     ],
     "bookTitle": "The Mad Lover",
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1966. 11-98.",
-    "hasGenre": [
-      "Theatre"
-    ],
     "hasSubject": [
       "HISTORICAL PAGE"
     ],
@@ -12939,8 +12786,8 @@
   "ww_0b39d97642290286": {
     "bookInternalId": "@001841",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -12952,9 +12799,6 @@
     "bookTitle": "Rollo, Duke of Normandy",
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol. 10, 166-245.",
     "editionHist": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol. 10, 166-245.",
-    "hasGenre": [
-      "Theatre"
-    ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
     ],
@@ -13032,8 +12876,8 @@
   "ww_5b588741e925caf2": {
     "bookInternalId": "@001866",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -13046,7 +12890,6 @@
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1966. Vol. 9, 469-545.",
     "editionHist": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1966. Vol. 9, 469-545.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -13078,8 +12921,8 @@
   "ww_dbc39cf74839a823": {
     "bookInternalId": "@001941",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -13105,8 +12948,8 @@
   "ww_e75a31f6badbafe7": {
     "bookInternalId": "@001948",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -13159,7 +13002,6 @@
     "edition": "The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 3, 264-343.",
     "editionHist": "A Tragi-Comedy: Called, Match mee in London. As it hath beene often Presented; First, at the Bull in St. Iohns-street; And lately, at the Priuate-House in Drvry-Lane, called the Phoenix Written by Tho: Dekker. London: B. Alsop and T. Favvcet, for H. Seile, 1631.",
     "hasGenre": [
-      "Theatre",
       "Tragicomedy"
     ],
     "hasSubject": [
@@ -13190,8 +13032,8 @@
   "ww_17cf6c0b8fd559f3": {
     "bookInternalId": "@002085",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_c1c75e8b202bbbee"
+      "ww_c1c75e8b202bbbee",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -13291,8 +13133,8 @@
     "bookTitle": "Poems (John Taylor)",
     "edition": "\"John Garret's Ghost\". In All the Workes Of Iohn Taylor the Water-Poet, Taylor, John, 177-178. London: 1630.",
     "hasGenre": [
-      "Epic and verse narrative",
-      "Poetry unspecified"
+      "Poetry unspecified",
+      "Epic and verse narrative"
     ]
   },
   "ww_73c69f73b623166a": {
@@ -13721,8 +13563,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_48416dc87795b969": {
@@ -13844,8 +13686,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_50252be95e444aa3": {
@@ -13923,8 +13765,8 @@
     "bookTitle": "The Lusiad",
     "edition": "The Lusiad. or, Portugals Historicall Poem: Written In the Portingall Language By Luis de Camoens; And Now newly put into English by Richard Fanshaw. London: Humphrey Mosely, 1655.",
     "hasGenre": [
-      "Biographical or historicizing",
-      "Epic and verse narrative"
+      "Epic and verse narrative",
+      "Biographical or historicizing"
     ]
   },
   "ww_f8275303ac83b420": {
@@ -14017,8 +13859,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_e84d1c1d6154142c": {
@@ -14236,8 +14078,8 @@
     "bookInternalId": "@005264",
     "edition": "eds. The Diary of Samuel Pepys. 11 vols. London: G. Bell and Sons, 1970-1983.",
     "isWrittenBy": [
-      "ww_7eeba8f5c3297504",
-      "ww_993c302bdd89aa39"
+      "ww_993c302bdd89aa39",
+      "ww_7eeba8f5c3297504"
     ],
     "hasLanguage": "English",
     "bookTitle": "Diary of Samuel Pepys (Latham edition)",
@@ -14325,8 +14167,8 @@
     "bookInternalId": "@005702",
     "isWrittenBy": [
       "ww_d8f1d08e1ca080b7",
-      "ww_407a959f593ee80f",
-      "ww_7dc9f7dd1b39e216"
+      "ww_7dc9f7dd1b39e216",
+      "ww_407a959f593ee80f"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -14412,10 +14254,7 @@
       "GREGORIAN:1679:1679"
     ],
     "bookTitle": "Troilus and Cressida, or, Truth Found too Late",
-    "edition": "The Works of John Dryden. Gen. ed. Alan Roper. 20 vols. Berkeley: University of California Press, 1984.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "edition": "The Works of John Dryden. Gen. ed. Alan Roper. 20 vols. Berkeley: University of California Press, 1984."
   },
   "ww_89993f6d70e92ca2": {
     "bookInternalId": "@006136",
@@ -14451,7 +14290,6 @@
     "bookTitle": "The London Cuckolds",
     "edition": "The London Cuckolds. A Comedy. London: Jos. Hindmarsh et al., 1682.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ]
   },
@@ -14507,10 +14345,7 @@
       "GREGORIAN:1685:1685"
     ],
     "bookTitle": "Cuckold's Haven",
-    "edition": "J. H., 1685.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "edition": "J. H., 1685."
   },
   "ww_a748dfac62273e2a": {
     "bookInternalId": "@006067",
@@ -14726,8 +14561,8 @@
     "edition": "Mirum in modum. A glimpse of Gods glorie and the soules shape. London: Valentine Simmes for William Aspley, 1602.",
     "editionHist": "Mirum in modum. A glimpse of Gods glorie and the soules shape. London: Valentine Simmes for William Aspley, 1602.",
     "hasGenre": [
-      "Epic and verse narrative",
-      "Poetry unspecified"
+      "Poetry unspecified",
+      "Epic and verse narrative"
     ]
   },
   "ww_7732f9d3f8743fb3": {
@@ -15076,8 +14911,7 @@
     "bookTitle": "Timon of Athens",
     "edition": "Timon of Athens.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ]
   },
   "ww_f509aecaacc7e9e2": {
@@ -15235,8 +15069,8 @@
   "ww_9fa3746267178cf3": {
     "bookInternalId": "@001597",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -15340,8 +15174,8 @@
   "ww_ac80b76a5d2b6cef": {
     "bookInternalId": "@001636",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -15354,7 +15188,6 @@
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol 2, 167-314.",
     "editionHist": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol 2, 167-314.",
     "hasGenre": [
-      "Theatre",
       "Tragicomedy"
     ],
     "performedBy": [
@@ -15401,8 +15234,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_e1bcca76480c58de": {
@@ -15616,8 +15449,8 @@
   "ww_45a81ddd84af6769": {
     "bookInternalId": "@001758",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -15652,8 +15485,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Philosophy, religion",
       "TO BE EDITED",
+      "Philosophy, religion",
       "Sociology, society, lifestyle"
     ]
   },
@@ -15672,7 +15505,6 @@
     "bookTitle": "A Poor Man's Comfort",
     "edition": "A poor-mans comfort. London, Rob Pollard and John Sweeting, 1655.",
     "hasGenre": [
-      "Theatre",
       "Tragicomedy"
     ],
     "hasSubject": [
@@ -15682,8 +15514,8 @@
   "ww_2d6f88869d221d2c": {
     "bookInternalId": "@001794",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -15724,9 +15556,9 @@
   "ww_1b1a885f3c4adece": {
     "bookInternalId": "@001848",
     "isWrittenBy": [
+      "ww_3cc0cce5b6bf554a",
       "ww_cbc2c3284144573a",
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -15758,7 +15590,6 @@
     "edition": "The Works of Benjamin Jonson. 2 vols. London: Richard Meighen, 1640. Vol. 2, 1-7.",
     "editionHist": "The Works of Benjamin Jonson. 2 vols. London: Richard Meighen, 1640. Vol. 2, 1-7.",
     "hasGenre": [
-      "Theatre",
       "Masque or other"
     ]
   },
@@ -15843,8 +15674,8 @@
   "ww_f5a458f823d4e62b": {
     "bookInternalId": "@001899",
     "isWrittenBy": [
-      "ww_c298754546b2500e",
-      "ww_5cb3d6fa23800e74"
+      "ww_5cb3d6fa23800e74",
+      "ww_c298754546b2500e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -16043,8 +15874,8 @@
   "ww_3f5ac8ace84dd3c5": {
     "bookInternalId": "@002025",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -16057,7 +15888,6 @@
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol. 10, 293-424.",
     "editionHist": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol. 10, 293-424.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ]
   },
@@ -16077,8 +15907,7 @@
     "edition": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol. 9, 95-220.",
     "editionHist": "The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1976. Vol. 9, 95-220.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ]
   },
   "ww_0220ef9496176555": {
@@ -16186,7 +16015,6 @@
     "edition": "The Captives. Oxford: Oxford University Press, 1953.",
     "editionHist": "The Captives. Oxford: Oxford University Press, 1953.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "hasSubject": [
@@ -16268,7 +16096,6 @@
     "edition": "Bartholmew fayre : a comedie, acted in the yeare, 1614 by the Lady Elizabeths seruants, and then dedicated to King Iames, of most blessed memorie ; The diuell is an asse : a comedie acted in the yeare, 1616, by His Maiesties seruants ; The staple of newes : a comedie acted in the yeare, 1625, by His Maiesties seruants by the author, Beniamin Iohnson. London: I. B. for Robert Allot, 1631. 1-76.",
     "editionHist": "Bartholmew fayre : a comedie, acted in the yeare, 1614 by the Lady Elizabeths seruants, and then dedicated to King Iames, of most blessed memorie ; The diuell is an asse : a comedie acted in the yeare, 1616, by His Maiesties seruants ; The staple of newes : a comedie acted in the yeare, 1625, by His Maiesties seruants by the author, Beniamin Iohnson. London: I. B. for Robert Allot, 1631. 1-76.",
     "hasGenre": [
-      "Theatre",
       "Comedy"
     ],
     "performedBy": [
@@ -16458,8 +16285,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_b427fc8b58382cdc": {
@@ -16484,8 +16311,8 @@
   "ww_026859c975731f69": {
     "bookInternalId": "@005044",
     "isWrittenBy": [
-      "ww_2d2d917d0e960a71",
-      "ww_7d061522518519e4"
+      "ww_7d061522518519e4",
+      "ww_2d2d917d0e960a71"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -16603,8 +16430,8 @@
       "Speech or lecture or sermon"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_523e4109734a0284": {
@@ -17145,10 +16972,7 @@
     ],
     "bookTitle": "Christ's Passion",
     "edition": "Christs Passion. A Tragedie. London: John Legatt, 1640.",
-    "editionHist": "Christs Passion: A Tragedie. London: John Legatt, 1640.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "editionHist": "Christs Passion: A Tragedie. London: John Legatt, 1640."
   },
   "ww_673ea4a73f1e3e1d": {
     "bookInternalId": "@005667",
@@ -17546,7 +17370,6 @@
     "bookTitle": "The Female Rebellion",
     "edition": "The Female Rebelion A Tragicomedy From A MS. In The Hunterian Museum University of Glasgow. Glasgow: Printed for Private Circulation, 1872.",
     "hasGenre": [
-      "Theatre",
       "Tragicomedy"
     ]
   },
@@ -17994,10 +17817,7 @@
       "GREGORIAN:1680:1680"
     ],
     "bookTitle": "Theodosius",
-    "edition": "Two tragedies of Mr. Lee., namely Theodosius and Oedipus, with some alterations submitted to the reader. London, 1786. 1-98.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "edition": "Two tragedies of Mr. Lee., namely Theodosius and Oedipus, with some alterations submitted to the reader. London, 1786. 1-98."
   },
   "ww_b3515ed78c8dc8bd": {
     "bookInternalId": "@006059",
@@ -18340,8 +18160,8 @@
     "bookTitle": "Epigrammaton libri",
     "edition": "Epigrams, Volume 3: Books 11-14. Ed. and trans. D. R. Shackleton Bailey. Loeb Classical Library 480. Cambridge (Mass.): Harvard University Press, 1993.",
     "hasGenre": [
-      "Verse satire",
-      "Poetry unspecified"
+      "Poetry unspecified",
+      "Verse satire"
     ]
   },
   "ww_55e9490f44c9930d": {
@@ -18380,9 +18200,9 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Sociology, society, lifestyle",
       "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Sociology, society, lifestyle"
     ]
   },
   "ww_70b396a03a28da11": {
@@ -18602,10 +18422,7 @@
     ],
     "bookTitle": "A Play of Love",
     "edition": "A Play of Love, a Neue and a Mery Enterlude Concernyng Pleasure and Payne In Loue, Made By Ihon Heywood. London: W. Rastell, 1534.",
-    "editionHist": "A Play of Love, a Neue and a Mery Enterlude Concernyng Pleasure and Payne In Loue, Made By Ihon Heywood. London: W. Rastell, 1534.",
-    "hasGenre": [
-      "Theatre"
-    ]
+    "editionHist": "A Play of Love, a Neue and a Mery Enterlude Concernyng Pleasure and Payne In Loue, Made By Ihon Heywood. London: W. Rastell, 1534."
   },
   "ww_a1cab3e2580a77ca": {
     "bookInternalId": "@006168",
@@ -18741,13 +18558,13 @@
   "ww_20b3a86d3ec0a50e": {
     "bookInternalId": "@006223",
     "isWrittenBy": [
-      "ww_0f734cd7ad5f5440",
       "ww_5e5e8f5620d2719a",
       "ww_240a0754bd0ee196",
-      "ww_8370026ebdec73ae",
-      "ww_76f7ad166cf8422f",
+      "ww_0f734cd7ad5f5440",
+      "ww_8000bac12b1c11e0",
       "ww_d6693f3e9bbd4cc4",
-      "ww_8000bac12b1c11e0"
+      "ww_76f7ad166cf8422f",
+      "ww_8370026ebdec73ae"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -18769,8 +18586,8 @@
   "ww_2e51baf102fa85b4": {
     "bookInternalId": "@000330",
     "isWrittenBy": [
-      "ww_a00dfc9e63a5d0fe",
-      "ww_64c0a6cc1ab8e355"
+      "ww_64c0a6cc1ab8e355",
+      "ww_a00dfc9e63a5d0fe"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -18808,8 +18625,8 @@
   "ww_f578b55e760123ce": {
     "bookInternalId": "@000342",
     "isWrittenBy": [
-      "ww_a00dfc9e63a5d0fe",
-      "ww_64c0a6cc1ab8e355"
+      "ww_64c0a6cc1ab8e355",
+      "ww_a00dfc9e63a5d0fe"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -18996,12 +18813,11 @@
     ],
     "bookTitle": "Locrine, the Eldest Son of King Brutus",
     "edition": "Locrine, the Eldest Son of King Brutus.",
-    "hasGenre": [
-      "Tragedy",
-      "Theatre"
-    ],
     "hasSubject": [
       "TO BE EDITED"
+    ],
+    "hasGenre": [
+      "Tragedy"
     ]
   },
   "ww_bc4dcc0e7cb0821d": {
@@ -19175,8 +18991,8 @@
   "ww_8c2ffd741b2e34b1": {
     "bookInternalId": "@006182",
     "isWrittenBy": [
-      "ww_035f2256520bd869",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_035f2256520bd869"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -19231,9 +19047,9 @@
     "bookInternalId": "@006133",
     "edition": "eds. The Works of John Webster. 4 vols. Cambridge: Cambridge University Press, 1995-2007.",
     "isWrittenBy": [
-      "ww_155a667b93f423ae",
       "ww_fdae751b03274cac",
-      "ww_5a83fee722a1938b"
+      "ww_5a83fee722a1938b",
+      "ww_155a667b93f423ae"
     ],
     "hasLanguage": "English",
     "bookTitle": "The Works of John Webster",
@@ -19314,10 +19130,10 @@
   "ww_e3bcd92cc2a3f267": {
     "bookInternalId": "@001211",
     "isWrittenBy": [
-      "ww_67b55376bb1d282e",
-      "ww_25e6fd889f1e2401",
+      "ww_20d6b3bf3fdfeac2",
       "ww_8c5ba897096c644c",
-      "ww_20d6b3bf3fdfeac2"
+      "ww_25e6fd889f1e2401",
+      "ww_67b55376bb1d282e"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -19329,9 +19145,6 @@
     "bookTitle": "Sir John Oldcastle",
     "edition": "The first part Of the true and honorable historie, of the life of Sir John Old-castle, the good Lord Cobham. As it hath been lately acted by the right honorable the Earle of Notingham Lord high Admirall of England his seruants. London: V. S. for Thomas Pauier, 1600.",
     "editionHist": "The first part Of the true and honorable historie, of the life of Sir John Old-castle, the good Lord Cobham. As it hath been lately acted by the right honorable the Earle of Notingham Lord high Admirall of England his seruants. London: V. S. for Thomas Pauier, 1600.",
-    "hasGenre": [
-      "Theatre"
-    ],
     "performedBy": [
       "ww_312616f20d6e5e9b"
     ],
@@ -19405,8 +19218,8 @@
     "bookInternalId": "@006166",
     "edition": "Wikipedia. www.wikipedia.org.",
     "isWrittenBy": [
-      "ww_b958466a7328c3ef",
-      "ww_04e0c08510ffa9b9"
+      "ww_04e0c08510ffa9b9",
+      "ww_b958466a7328c3ef"
     ],
     "hasLanguage": "English",
     "bookTitle": "Wikipedia",
@@ -19851,9 +19664,6 @@
     "bookTitle": "The Wise Woman of Hoxton",
     "edition": "The Wise Woman of Hoxton.",
     "editionHist": "The Wise Woman of Hoxton.",
-    "hasGenre": [
-      "Theatre"
-    ],
     "hasSubject": [
       "TO BE EDITED"
     ]
@@ -19904,10 +19714,10 @@
   "ww_149eb964e7a5fab6": {
     "bookInternalId": "@002169",
     "isWrittenBy": [
-      "ww_cbc2c3284144573a",
-      "ww_9594c85bc48d3759",
+      "ww_3cc0cce5b6bf554a",
       "ww_c1c75e8b202bbbee",
-      "ww_3cc0cce5b6bf554a"
+      "ww_cbc2c3284144573a",
+      "ww_9594c85bc48d3759"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -20068,8 +19878,7 @@
     "bookTitle": "The Traitor",
     "edition": "The Traitor. Ed. Edmund Gosse. Mermaids. 1888. Web. https://archive.org/details/jamesshirley00shiruoft.",
     "hasGenre": [
-      "Tragedy",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -20148,12 +19957,12 @@
       "TO BE EDITED"
     ],
     "performedBy": [
-      "ww_39c5a740f44cabb9",
-      "ww_e19a2b6adb3b9951"
+      "ww_e19a2b6adb3b9951",
+      "ww_39c5a740f44cabb9"
     ],
     "performedIn": [
-      "ww_185cddace7e03495",
-      "ww_8b1affa515ac476e"
+      "ww_8b1affa515ac476e",
+      "ww_185cddace7e03495"
     ]
   },
   "ww_598a6f57f6372907": {
@@ -20211,8 +20020,8 @@
   "ww_55364fdde6e6f165": {
     "bookInternalId": "@006232",
     "isWrittenBy": [
-      "ww_cb5d9718ccb90165",
-      "ww_2044141f05be1d1c"
+      "ww_2044141f05be1d1c",
+      "ww_cb5d9718ccb90165"
     ],
     "hasLanguage": "English",
     "createdDate": [
@@ -20405,9 +20214,8 @@
     "bookTitle": "The Sophy",
     "edition": "The Sophy. EEBO-TCP. 1642. Web. https://quod.lib.umich.edu/e/eebo/A35657.0001.001.",
     "hasGenre": [
-      "Tragedy",
       "Manuscript commonplace book",
-      "Theatre"
+      "Tragedy"
     ],
     "hasSubject": [
       "TO BE EDITED"
@@ -20538,8 +20346,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "TO BE EDITED",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "TO BE EDITED"
     ]
   },
   "ww_2ef31c90eb292e4f": {
@@ -20560,8 +20368,8 @@
       "Nonfiction unspecified"
     ],
     "hasSubject": [
-      "Sociology, society, lifestyle",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Sociology, society, lifestyle"
     ]
   },
   "ww_f106ee92bd1424e9": {
@@ -20995,8 +20803,8 @@
       "TO BE EDITED"
     ],
     "performedBy": [
-      "ww_312616f20d6e5e9b",
-      "ww_98586949857a29e9"
+      "ww_98586949857a29e9",
+      "ww_312616f20d6e5e9b"
     ]
   },
   "ww_14d95c41dec5b46d": {
@@ -21087,8 +20895,8 @@
     "bookInternalId": "@006102",
     "edition": "eds. Thomas of Woodstock. The Revels Plays. Manchester: Manchester University Press, 2002.",
     "isWrittenBy": [
-      "ww_7858f8ee113b799f",
-      "ww_2db002397fad86e3"
+      "ww_2db002397fad86e3",
+      "ww_7858f8ee113b799f"
     ],
     "hasLanguage": "English",
     "bookTitle": "Thomas of Woodstock (Corbin Edition)",
