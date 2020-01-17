@@ -2,11 +2,17 @@
   "ww_0d6cf3b5b15416a4": {
     "lexiaInternalId": "#030088",
     "lexiaTitle": "moist hand indicating arousal",
+    "hasImage": [
+      "Love"
+    ],
     "hasFormalClass": "Idea"
   },
   "ww_bc2dc23703fb0519": {
     "lexiaInternalId": "#032082",
     "lexiaTitle": "I have lived too long",
+    "hasImage": [
+      "Death"
+    ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_e14e6e4ff5f077e0": {
@@ -74,6 +80,9 @@
   "ww_d5df0731a029df63": {
     "lexiaInternalId": "#030792",
     "lexiaTitle": "give out my Anne is sick",
+    "hasImage": [
+      "Death"
+    ],
     "hasFormalClass": "Motif with name"
   },
   "ww_428830fe8d42dac7": {
@@ -225,6 +234,9 @@
   "ww_ee00b6a96e2682cd": {
     "lexiaInternalId": "#030147",
     "lexiaTitle": "young girl distributing flowers",
+    "hasImage": [
+      "Plants"
+    ],
     "hasFormalClass": "Plot element"
   },
   "ww_96fdba9895bde355": {
@@ -235,6 +247,9 @@
   "ww_6a965ee8c24e16e9": {
     "lexiaInternalId": "#030150",
     "lexiaTitle": "gallows or grave joke",
+    "hasImage": [
+      "Death"
+    ],
     "hasFormalClass": "Plot element"
   },
   "ww_167dd70756e83a33": {
@@ -347,6 +362,9 @@
   "ww_b3e9eee3f323eafa": {
     "lexiaInternalId": "#031129",
     "lexiaTitle": "glow-worms",
+    "hasImage": [
+      "Animals"
+    ],
     "hasFormalClass": "word"
   },
   "ww_b74bf18b8b6373da": {
@@ -430,6 +448,9 @@
   "ww_fe410915d486ac74": {
     "lexiaInternalId": "#030094",
     "lexiaTitle": "I will go pray",
+    "hasImage": [
+      "religion"
+    ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_1dd2272e3eaef3ce": {
@@ -530,9 +551,9 @@
     "lexiaTitle": "fools of nature",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
-  "ww_78ae30be01acb3a9": {
+  "ww_90b444a9d2b6fcfb": {
     "lexiaInternalId": "#032014",
-    "lexiaTitle": "out of joint",
+    "lexiaTitle": "time out of joint",
     "hasFormalClass": "Idea"
   },
   "ww_ae2f75486c394217": {
@@ -600,6 +621,9 @@
   "ww_24d39a5250845ceb": {
     "lexiaInternalId": "#030250",
     "lexiaTitle": "hobby-horse",
+    "hasImage": [
+      "Animals"
+    ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_65000bd323cabd4a": {
@@ -744,6 +768,9 @@
   "ww_2847fa5f9cf0a0a8": {
     "lexiaInternalId": "#030218",
     "lexiaTitle": "spirits walking",
+    "hasImage": [
+      "Death"
+    ],
     "hasFormalClass": "Idea"
   },
   "ww_f1448cd22e8d602a": {
@@ -774,7 +801,9 @@
   "ww_8268826a48d942e8": {
     "lexiaInternalId": "#031039",
     "lexiaTitle": "play somebody like an instrument",
-    "hasFormalClass": "Visual motif"
+    "hasImage": [
+      "Music, dance song"
+    ]
   },
   "ww_88f55a8fb82d8f55": {
     "lexiaInternalId": "#031090",
@@ -817,8 +846,7 @@
     "lexiaTitle": "son vs sun",
     "hasImage": [
       "Sky and wether"
-    ],
-    "hasFormalClass": "Keywords"
+    ]
   },
   "ww_2bb2094b6c7b7b8d": {
     "lexiaInternalId": "#030103",
@@ -862,6 +890,9 @@
   "ww_b10e7df99ecf55c3": {
     "lexiaInternalId": "#030767",
     "lexiaTitle": "black clothes",
+    "hasImage": [
+      "clothes, hair, cosmetics"
+    ],
     "hasFormalClass": "Plot element"
   },
   "ww_10a99b311a084e6b": {
@@ -915,11 +946,17 @@
   "ww_a6f526ef67e0fc85": {
     "lexiaInternalId": "#030083",
     "lexiaTitle": "fault onto Heaven",
+    "hasImage": [
+      "religion"
+    ],
     "hasFormalClass": "Idea"
   },
   "ww_4ef46b92c93067a2": {
     "lexiaInternalId": "#031093",
     "lexiaTitle": "cannon speaks",
+    "hasImage": [
+      "war, combat"
+    ],
     "hasFormalClass": "Idea"
   },
   "ww_071be32bb07e7120": {
@@ -1209,6 +1246,9 @@
   "ww_bc70c93646f900fc": {
     "lexiaInternalId": "#032110",
     "lexiaTitle": "fell from love to madness",
+    "hasImage": [
+      "Love"
+    ],
     "hasFormalClass": "Plot element"
   },
   "ww_2c9807b23630111e": {
@@ -1468,8 +1508,8 @@
     "lexiaInternalId": "#032026",
     "lexiaTitle": "fruits ripened by the sun",
     "hasImage": [
-      "Plants",
-      "Sky and wether"
+      "Sky and wether",
+      "Plants"
     ],
     "hasFormalClass": "Idea"
   },
@@ -1982,6 +2022,9 @@
   "ww_8217ff2a1a03c750": {
     "lexiaInternalId": "#031021",
     "lexiaTitle": "three month time limit",
+    "hasImage": [
+      "Time"
+    ],
     "hasFormalClass": "Plot element"
   },
   "ww_bc892f0fe3f43223": {
@@ -2112,6 +2155,9 @@
   "ww_75c06fa75bbe197c": {
     "lexiaInternalId": "#031055",
     "lexiaTitle": "horribly in love",
+    "hasImage": [
+      "Love"
+    ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_d28b062879d4f596": {
@@ -2499,6 +2545,9 @@
   "ww_f3d541e93c5d35b7": {
     "lexiaInternalId": "#031024",
     "lexiaTitle": "grave not remembered in epitaph",
+    "hasImage": [
+      "Death"
+    ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_056a1fbf3c75189b": {
@@ -2996,6 +3045,9 @@
   "ww_d40daf83a941f7c9": {
     "lexiaInternalId": "#030220",
     "lexiaTitle": "all days of the year",
+    "hasImage": [
+      "Time"
+    ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_0234e00b0b336cb3": {
@@ -3061,6 +3113,10 @@
   "ww_90d96d2dcc33e086": {
     "lexiaInternalId": "#005090",
     "lexiaTitle": "mandragora syrup",
+    "hasImage": [
+      "medicine",
+      "Plants"
+    ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
   "ww_bd2baaeab1ce177c": {
@@ -3225,8 +3281,8 @@
     "lexiaInternalId": "#030770",
     "lexiaTitle": "death as arresting sergeant",
     "hasImage": [
-      "war, combat",
-      "Death"
+      "Death",
+      "war, combat"
     ],
     "hasFormalClass": "Plot element"
   },
@@ -3281,6 +3337,9 @@
   "ww_670057858217b859": {
     "lexiaInternalId": "#030167",
     "lexiaTitle": "desperate disease needs desperate remedy",
+    "hasImage": [
+      "medicine"
+    ],
     "hasFormalClass": "Plot element"
   },
   "ww_13a0e340c40ca9db": {
@@ -3465,6 +3524,9 @@
   "ww_8729ebb19f7847ec": {
     "lexiaInternalId": "#005109",
     "lexiaTitle": "the seven ages of man",
+    "hasImage": [
+      "Time"
+    ],
     "hasFormalClass": "Setpiece (complete text)"
   },
   "ww_d463badce8429801": {
@@ -3558,6 +3620,9 @@
   "ww_620c05f922c75643": {
     "lexiaInternalId": "#050127",
     "lexiaTitle": "fall in love with yourself like Narcissus",
+    "hasImage": [
+      "Love"
+    ],
     "hasFormalClass": "Motif with name"
   },
   "ww_73530187efb51788": {
@@ -4719,7 +4784,7 @@
   "ww_9defce9d51cca5f7": {
     "lexiaInternalId": "#004024",
     "lexiaTitle": "Prince Hal",
-    "hasFormalClass": "Charactername"
+    "hasFormalClass": "Real person"
   },
   "ww_55bb30da9af00d7d": {
     "lexiaInternalId": "#004025",
@@ -4895,6 +4960,9 @@
   "ww_a56245b3ccd29c47": {
     "lexiaInternalId": "#004059",
     "lexiaTitle": "Under the greenwood tree...",
+    "hasImage": [
+      "Plants"
+    ],
     "hasFormalClass": "Passage (longer)"
   },
   "ww_4a0167e229e15883": {
@@ -5128,9 +5196,9 @@
     "lexiaTitle": "too much good becomes bad",
     "hasFormalClass": "Idea"
   },
-  "ww_55e920992b3a5243": {
+  "ww_0b8738df3db4a18b": {
     "lexiaInternalId": "#004103",
-    "lexiaTitle": "decent women buried face downwards",
+    "lexiaTitle": "being buried face down- or upwards",
     "hasFormalClass": "Idea"
   },
   "ww_1dff621856c63c9b": {
@@ -5656,6 +5724,9 @@
   "ww_4d8735bf65e229e6": {
     "lexiaInternalId": "#032303",
     "lexiaTitle": "women burnt when not useful",
+    "hasImage": [
+      "war, combat"
+    ],
     "hasFormalClass": "Idea"
   },
   "ww_e7875c519c63cf5d": {
@@ -5688,9 +5759,9 @@
     "lexiaTitle": "nothing in nature is unserviceable",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
-  "ww_65db567c551b5eaa": {
+  "ww_ef4fa3890eeb5980": {
     "lexiaInternalId": "@005169",
-    "lexiaTitle": "The Art of Love",
+    "lexiaTitle": "Ars Amatoria",
     "hasFormalClass": "Booktitle"
   },
   "ww_0d6fe08599cf1c4b": {
@@ -5772,9 +5843,9 @@
     "lexiaTitle": "Lucrece",
     "hasFormalClass": "Charactername"
   },
-  "ww_f82914c726c116a6": {
+  "ww_971023de2c913916": {
     "lexiaInternalId": "#004193",
-    "lexiaTitle": "Irene or Hiren",
+    "lexiaTitle": "Irene or Hiren the Fair Greek",
     "hasFormalClass": "Motif with name"
   },
   "ww_c92bf82a1e1fbdcf": {
@@ -5871,8 +5942,8 @@
     "lexiaInternalId": "#004210",
     "lexiaTitle": "mountain giving birth to mouse",
     "hasImage": [
-      "Animals",
-      "Landscape"
+      "Landscape",
+      "Animals"
     ],
     "hasFormalClass": "Keywords"
   },
@@ -5937,8 +6008,8 @@
     "lexiaInternalId": "#004221",
     "lexiaTitle": "a wilderness of animals",
     "hasImage": [
-      "Animals",
-      "Landscape"
+      "Landscape",
+      "Animals"
     ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
@@ -6379,9 +6450,9 @@
     "lexiaTitle": "noun substantive",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
-  "ww_0871846558283ff0": {
+  "ww_bc81f78d8f44269f": {
     "lexiaInternalId": "#009005",
-    "lexiaTitle": "Children of Paul s (*)"
+    "lexiaTitle": "Children of Paul's (*)"
   },
   "ww_35649b1870247c32": {
     "lexiaInternalId": "#009011",
@@ -6702,9 +6773,9 @@
     "lexiaTitle": "what is constancy but fables fained",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
-  "ww_243547363f8b5ec9": {
+  "ww_2a445f1a1947c6ec": {
     "lexiaInternalId": "#032368",
-    "lexiaTitle": "women&#039;s sexuality as flax on fire",
+    "lexiaTitle": "women's sexuality as flax on fire",
     "hasFormalClass": "Idea"
   },
   "ww_1d0c5975b2a6a97c": {
@@ -7057,9 +7128,6 @@
   "ww_296f621f246cc201": {
     "lexiaInternalId": "#032375",
     "lexiaTitle": "WAR OF THE THEATRES",
-    "hasImage": [
-      "Current events"
-    ],
     "hasFormalClass": "Idea"
   },
   "ww_3d02321c2c4fc319": {
@@ -7450,9 +7518,9 @@
     "lexiaTitle": "description of father's portrait",
     "hasFormalClass": "Idea"
   },
-  "ww_23c0206c914c7ce6": {
+  "ww_8785271cf50e7f86": {
     "lexiaInternalId": "#032389",
-    "lexiaTitle": "Marston red beard, short legs",
+    "lexiaTitle": "red beard, short legs",
     "hasFormalClass": "Motif with name"
   },
   "ww_7f8a8a5e3f6bef42": {
@@ -7539,9 +7607,6 @@
   "ww_7fec5ab076204230": {
     "lexiaInternalId": "#004489",
     "lexiaTitle": "Union of England and Scotland ",
-    "hasImage": [
-      "Current events"
-    ],
     "hasFormalClass": "Idea"
   },
   "ww_f098d205be3d1153": {
@@ -7687,11 +7752,6 @@
     "lexiaTitle": "Roister Doister",
     "hasFormalClass": "Booktitle"
   },
-  "ww_991149b9f44774b5": {
-    "lexiaInternalId": "@001572",
-    "lexiaTitle": "Ram Alley",
-    "hasFormalClass": "Booktitle"
-  },
   "ww_193848d0e67190da": {
     "lexiaInternalId": "#007037",
     "lexiaTitle": "Thomas Churchyard",
@@ -7701,5 +7761,624 @@
     "lexiaInternalId": "#007038",
     "lexiaTitle": "Thomas Nashe",
     "hasFormalClass": "Real person"
+  },
+  "ww_97543bb14916047d": {
+    "lexiaInternalId": "#004501",
+    "lexiaTitle": "reason is fled to animals",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_725bca341b7316a0": {
+    "lexiaInternalId": "#004502",
+    "lexiaTitle": "carousing with cup poisoned for enemy",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_268bd0268aabebb6": {
+    "lexiaInternalId": "@000950",
+    "lexiaTitle": "Richard III",
+    "hasFormalClass": "Booktitle"
+  },
+  "ww_01ee792dfce912cb": {
+    "lexiaInternalId": "#007039",
+    "lexiaTitle": "Thomas Bastard",
+    "hasFormalClass": "Real person"
+  },
+  "ww_149b42f8d9cb9993": {
+    "lexiaInternalId": "#007040",
+    "lexiaTitle": "Richard Lichfield",
+    "hasFormalClass": "Real person"
+  },
+  "ww_3632892aad30dd78": {
+    "lexiaInternalId": "#032398",
+    "lexiaTitle": "lies contemn Heaven and fear men",
+    "hasFormalClass": "Idea"
+  },
+  "ww_48dfefcf9c364512": {
+    "lexiaInternalId": "#007041",
+    "lexiaTitle": "man in the almanac",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_74dc722178662e06": {
+    "lexiaInternalId": "#007042",
+    "lexiaTitle": "carry an almanac to predict the weather",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_5f1de22b10d9e739": {
+    "lexiaInternalId": "#007042",
+    "lexiaTitle": "steeple-house (Puritan phrase)",
+    "hasFormalClass": "word"
+  },
+  "ww_e3b25497beb06e4e": {
+    "lexiaInternalId": "#007043",
+    "lexiaTitle": "the stage as modest wooden round",
+    "hasFormalClass": "Idea"
+  },
+  "ww_26fbb9860750faa8": {
+    "lexiaInternalId": "#032399",
+    "lexiaTitle": "woman knowing all secrets of society",
+    "hasFormalClass": "Idea"
+  },
+  "ww_f058589cbf31959b": {
+    "lexiaInternalId": "#032400",
+    "lexiaTitle": "discarding peascods",
+    "hasImage": [
+      "clothes, hair, cosmetics"
+    ],
+    "hasFormalClass": "Idea"
+  },
+  "ww_c130c0d9c305d790": {
+    "lexiaInternalId": "#032401",
+    "lexiaTitle": "sink and be unable to bear universal sensuality",
+    "hasImage": [
+      "Court, monarchy"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_8cfe53c19c5d540f": {
+    "lexiaInternalId": "#032402",
+    "lexiaTitle": "women are always ready for sex",
+    "hasFormalClass": "Idea"
+  },
+  "ww_acca11a4f6ec1e93": {
+    "lexiaInternalId": "#032403",
+    "lexiaTitle": "be struck with scabbard when striking with sword",
+    "hasImage": [
+      "war, combat"
+    ],
+    "hasFormalClass": "Idea"
+  },
+  "ww_bc8fae924b1fbcd3": {
+    "lexiaInternalId": "#032404",
+    "lexiaTitle": "the rich don't have virtue",
+    "hasFormalClass": "Idea"
+  },
+  "ww_71da53accd58f357": {
+    "lexiaInternalId": "#032405",
+    "lexiaTitle": "Cyllenian Mercury",
+    "hasImage": [
+      "religion"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_04c08ed4ebd7f2e3": {
+    "lexiaInternalId": "#032406",
+    "lexiaTitle": "laughing alone",
+    "hasFormalClass": "Idea"
+  },
+  "ww_62167082f06cefe9": {
+    "lexiaInternalId": "#032407",
+    "lexiaTitle": "goat + armholes",
+    "hasImage": [
+      "Animals"
+    ],
+    "hasFormalClass": "Keywords"
+  },
+  "ww_1bed8d04a7d0d5b3": {
+    "lexiaInternalId": "#032407",
+    "lexiaTitle": "lengthy encomium about something trivial",
+    "hasFormalClass": "Plot element"
+  },
+  "ww_a133fae60600b071": {
+    "lexiaInternalId": "#032408",
+    "lexiaTitle": "snakes attacking",
+    "hasImage": [
+      "Animals"
+    ],
+    "hasFormalClass": "Idea"
+  },
+  "ww_5879d3804491949e": {
+    "lexiaInternalId": "#032409",
+    "lexiaTitle": "Crispinus",
+    "hasFormalClass": "Charactername"
+  },
+  "ww_cc243c5885da156b": {
+    "lexiaInternalId": "#032410",
+    "lexiaTitle": "Ballad: Fortune my Foe",
+    "hasImage": [
+      "Music, dance song"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_7cb4a1c21244b889": {
+    "lexiaInternalId": "@001081",
+    "lexiaTitle": "The Isle of Dogs",
+    "hasFormalClass": "Booktitle"
+  },
+  "ww_73d523a15ea8e931": {
+    "lexiaInternalId": "#032411",
+    "lexiaTitle": "comparison famous women to love",
+    "hasImage": [
+      "Love"
+    ],
+    "hasFormalClass": "Setpiece (complete text)"
+  },
+  "ww_6cb713099344018c": {
+    "lexiaInternalId": "#032412",
+    "lexiaTitle": "Thrice fairer than myself...",
+    "hasImage": [
+      "Love"
+    ],
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_076998c9bd41d90b": {
+    "lexiaInternalId": "#032413",
+    "lexiaTitle": "purple sun and weeping morning",
+    "hasImage": [
+      "Sky and wether"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_fd3ca776d45e0a12": {
+    "lexiaInternalId": "#032414",
+    "lexiaTitle": "gnats and eagles",
+    "hasImage": [
+      "Animals"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_38b37a89cb0dd727": {
+    "lexiaInternalId": "@005618",
+    "lexiaTitle": "The Countess of Pembroke&#039;s Arcadia",
+    "hasFormalClass": "Booktitle"
+  },
+  "ww_cdb05eb01f0eac35": {
+    "lexiaInternalId": "#032415",
+    "lexiaTitle": "Sweet Mr. Shakespeare",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_6e59eadc81284228": {
+    "lexiaInternalId": "#032416",
+    "lexiaTitle": "what evil to fear?",
+    "hasFormalClass": "Idea"
+  },
+  "ww_b6b5262c90a6a319": {
+    "lexiaInternalId": "#032417",
+    "lexiaTitle": "trees opposing tempest",
+    "hasImage": [
+      "Plants"
+    ],
+    "hasFormalClass": "Idea"
+  },
+  "ww_b2696557790d21e7": {
+    "lexiaInternalId": "#032418",
+    "lexiaTitle": "school grammar exam scene",
+    "hasFormalClass": "Scene"
+  },
+  "ww_ee3d104ab01bff55": {
+    "lexiaInternalId": "#032419",
+    "lexiaTitle": "women not perfect by nature",
+    "hasFormalClass": "Idea"
+  },
+  "ww_9c9ec5fe4ed900fa": {
+    "lexiaInternalId": "#007044",
+    "lexiaTitle": "Aristotle",
+    "hasFormalClass": "Real person"
+  },
+  "ww_e6b2552043fed651": {
+    "lexiaInternalId": "#032420",
+    "lexiaTitle": "Mercutio&#039;s death",
+    "hasImage": [
+      "war, combat"
+    ],
+    "hasFormalClass": "Scene"
+  },
+  "ww_af985d026f4e234d": {
+    "lexiaInternalId": "#032421",
+    "lexiaTitle": "audience judging plays",
+    "hasFormalClass": "Idea"
+  },
+  "ww_52f4a2a45ea8f03b": {
+    "lexiaInternalId": "#032422",
+    "lexiaTitle": "Master Mulligrub",
+    "hasFormalClass": "Charactername"
+  },
+  "ww_c3fbbe153f96814e": {
+    "lexiaInternalId": "#032423",
+    "lexiaTitle": "flap-dragons + urine",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_6ea6f2360d8a2b46": {
+    "lexiaInternalId": "#032424",
+    "lexiaTitle": "adore beauty and nature?",
+    "hasImage": [
+      "Sky and wether"
+    ],
+    "hasFormalClass": "Idea"
+  },
+  "ww_a501c866229e2403": {
+    "lexiaInternalId": "#032425",
+    "lexiaTitle": "mocking of similes",
+    "hasImage": [
+      "Animals"
+    ],
+    "hasFormalClass": "Idea"
+  },
+  "ww_9b1009aac59639df": {
+    "lexiaInternalId": "#032426",
+    "lexiaTitle": "crying murder",
+    "hasImage": [
+      "war, combat"
+    ],
+    "hasFormalClass": "Idea"
+  },
+  "ww_876dcb9e320abbcd": {
+    "lexiaInternalId": "#032427",
+    "lexiaTitle": "Kinsayder = John Marston"
+  },
+  "ww_8f2d9c1d567b37db": {
+    "lexiaInternalId": "#032428",
+    "lexiaTitle": "Furor Poeticus = John Marston"
+  },
+  "ww_d8f5bdf7fc684b79": {
+    "lexiaInternalId": "#004999",
+    "lexiaTitle": "Labeo = William Shakespeare"
+  },
+  "ww_a0588ba754f1a08e": {
+    "lexiaInternalId": "#004998",
+    "lexiaTitle": "Crispinus = John Marston"
+  },
+  "ww_5b494103955e5758": {
+    "lexiaInternalId": "@000703",
+    "lexiaTitle": "The Three Ladies of London",
+    "hasFormalClass": "Booktitle"
+  },
+  "ww_530124c16c9381c2": {
+    "lexiaInternalId": "#032429",
+    "lexiaTitle": "higher power stealing after someone trying to hit",
+    "hasImage": [
+      "Love",
+      "Death"
+    ],
+    "hasFormalClass": "Idea"
+  },
+  "ww_c954fc2ed9e87eee": {
+    "lexiaInternalId": "#032430",
+    "lexiaTitle": "Now that the gloomy shadow...",
+    "hasImage": [
+      "Sky and wether"
+    ],
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_94680cb04ce8425a": {
+    "lexiaInternalId": "#032431",
+    "lexiaTitle": "swifter than Pegasus",
+    "hasImage": [
+      "Animals"
+    ],
+    "hasFormalClass": "Idea"
+  },
+  "ww_709a3fd1880e626c": {
+    "lexiaInternalId": "#032432",
+    "lexiaTitle": "garments made of Median silk with jewels",
+    "hasImage": [
+      "clothes, hair, cosmetics"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_f2d1ccf72efa7b9b": {
+    "lexiaInternalId": "#032433",
+    "lexiaTitle": "massy robe",
+    "hasImage": [
+      "clothes, hair, cosmetics"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_510045a2ebd8e1f1": {
+    "lexiaInternalId": "#032434",
+    "lexiaTitle": "Christian merchants with Russian stems plough up furrows ",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_30bfcc0bea24ed2f": {
+    "lexiaInternalId": "#032435",
+    "lexiaTitle": "brightness and fair eyes, lamps of heaven",
+    "hasFormalClass": "Visual motif"
+  },
+  "ww_24d866cd2b631f59": {
+    "lexiaInternalId": "#032436",
+    "lexiaTitle": "come hither, sirrah boy...",
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_32fe2aac740e902a": {
+    "lexiaInternalId": "#032437",
+    "lexiaTitle": "Awake ye men of Memphis",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_2c9f83115a16332e": {
+    "lexiaInternalId": "#032438",
+    "lexiaTitle": "ride in triumph through Persepolis",
+    "hasImage": [
+      "war, combat"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_cb8b3720a67113ea": {
+    "lexiaInternalId": "#032439",
+    "lexiaTitle": "Tamburlaine chariot scene",
+    "hasImage": [
+      "war, combat"
+    ],
+    "hasFormalClass": "Visual motif"
+  },
+  "ww_b259fef55780dd64": {
+    "lexiaInternalId": "#006250",
+    "lexiaTitle": "Time hath sprained his ankle...",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_caa49dec3ed51af7": {
+    "lexiaInternalId": "#006251",
+    "lexiaTitle": "poor man&#039;s exchequer",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_612b1a01883e8e8b": {
+    "lexiaInternalId": "#032440",
+    "lexiaTitle": "sweet Helen and stars",
+    "hasImage": [
+      "Sky and wether"
+    ],
+    "hasFormalClass": "Idea"
+  },
+  "ww_2b69457b524cf5e4": {
+    "lexiaInternalId": "#006252",
+    "lexiaTitle": "no windings on a disputed map"
+  },
+  "ww_da2488a6d71e9914": {
+    "lexiaInternalId": "#006253",
+    "lexiaTitle": "Shakespeare's glover father ",
+    "hasFormalClass": "Idea"
+  },
+  "ww_3845591856ced7f7": {
+    "lexiaInternalId": "#006254",
+    "lexiaTitle": "Shakespeare&#039;s coat of arms",
+    "hasFormalClass": "Idea"
+  },
+  "ww_9249c5fcf5bc9fa2": {
+    "lexiaInternalId": "#006255",
+    "lexiaTitle": "heir apparent",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_672aa46b863353eb": {
+    "lexiaInternalId": "#006256",
+    "lexiaTitle": "out out brief candle",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_f07ae056e934cf44": {
+    "lexiaInternalId": "#006257",
+    "lexiaTitle": "tomorrow and tomorrow and tomorrow",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_77d553ade88e8147": {
+    "lexiaInternalId": "#006258",
+    "lexiaTitle": "I am thy father&#039;s spirit",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_84c1b55d35b8e32d": {
+    "lexiaInternalId": "#006259",
+    "lexiaTitle": "music with her silver sound",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_49ee58c5410c5e68": {
+    "lexiaInternalId": "#032441",
+    "lexiaTitle": "lovers exiting and reentering while saying goodbye",
+    "hasImage": [
+      "Love"
+    ],
+    "hasFormalClass": "Visual motif"
+  },
+  "ww_0ff0c3d468ebe2a0": {
+    "lexiaInternalId": "#032442",
+    "lexiaTitle": "X times adieu",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_010d90810ca5a425": {
+    "lexiaInternalId": "@003008",
+    "lexiaTitle": "Hero and Leander",
+    "hasFormalClass": "Booktitle"
+  },
+  "ww_7b21fd0f9cd88f3d": {
+    "lexiaInternalId": "@000389",
+    "lexiaTitle": "Damon and Pythias",
+    "hasFormalClass": "Booktitle"
+  },
+  "ww_f23b89dbe282ca31": {
+    "lexiaInternalId": "#032443",
+    "lexiaTitle": "The Ghost of Dionysus",
+    "hasFormalClass": "Charactername"
+  },
+  "ww_cf78d89b4d0ca81f": {
+    "lexiaInternalId": "#032444",
+    "lexiaTitle": "On Hellespont, guilty of true love&#039;s blood..."
+  },
+  "ww_d25571205f95c478": {
+    "lexiaInternalId": "#032445",
+    "lexiaTitle": "One is no number..."
+  },
+  "ww_6fdbb7b1d726d881": {
+    "lexiaInternalId": "#032446",
+    "lexiaTitle": "hell + pluto + passport",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_448077767e930b2a": {
+    "lexiaInternalId": "#032447",
+    "lexiaTitle": "Hares may pull dead Lions by the beard",
+    "hasImage": [
+      "Animals"
+    ],
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_31bb0e721939c5ec": {
+    "lexiaInternalId": "#032448",
+    "lexiaTitle": "she is wilder than beast, bird, tree or stony wall",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_8cd0ceaa41409d85": {
+    "lexiaInternalId": "#032449",
+    "lexiaTitle": "arms are large and strong withal, thus elms by vines are compass'd",
+    "hasImage": [
+      "Plants"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_c60753010eaaccac": {
+    "lexiaInternalId": "#032450",
+    "lexiaTitle": "It is not now as when Andrea liv&#039;d",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_119f3f30fe10cef6": {
+    "lexiaInternalId": "#032451",
+    "lexiaTitle": "Hieronimo + bed",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_daf65703f493d7e5": {
+    "lexiaInternalId": "#032452",
+    "lexiaTitle": "plays being played in other plays",
+    "hasFormalClass": "Plot element"
+  },
+  "ww_c2c86934195571d1": {
+    "lexiaInternalId": "#032453",
+    "lexiaTitle": "Alas it is Horatio my sweet son",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_94ff43ea5aeda88b": {
+    "lexiaInternalId": "#032454",
+    "lexiaTitle": "Hieronimo finding murdered Horatio",
+    "hasImage": [
+      "Death"
+    ],
+    "hasFormalClass": "Scene"
+  },
+  "ww_9276a6a9a2df9968": {
+    "lexiaInternalId": "#006260",
+    "lexiaTitle": "silly constable - what if they will not stand?",
+    "hasFormalClass": "Scene"
+  },
+  "ww_7b9af3dfd0fe099c": {
+    "lexiaInternalId": "#032455",
+    "lexiaTitle": "&quot;plaints&quot; for dead son",
+    "hasFormalClass": "word"
+  },
+  "ww_d2e304438bdece6c": {
+    "lexiaInternalId": "#032456",
+    "lexiaTitle": "O wicked butcher whatsoe&#039;er thou wert",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_9fca3a0845dc8f70": {
+    "lexiaInternalId": "#032457",
+    "lexiaTitle": "This place was made for pleasure, not for death",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_0cc5fadd11b330b5": {
+    "lexiaInternalId": "#032458",
+    "lexiaTitle": "Those garments that he wears I oft have seen",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_1345933fa4d3f6f8": {
+    "lexiaInternalId": "#006263",
+    "lexiaTitle": "Dr Dodypoll",
+    "hasFormalClass": "Charactername"
+  },
+  "ww_9a7dc823cc3718d4": {
+    "lexiaInternalId": "#032459",
+    "lexiaTitle": "O x, no x, but x with x! ...",
+    "hasFormalClass": "Snowclone"
+  },
+  "ww_c2ff812db6be2c2a": {
+    "lexiaInternalId": "#006261",
+    "lexiaTitle": "wound the senseless air with weapons",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_07a3e44502a45732": {
+    "lexiaInternalId": "#006262",
+    "lexiaTitle": "he that plays the king",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_3e7edf5e759d7271": {
+    "lexiaInternalId": "#032459",
+    "lexiaTitle": "paucas pallabris (Spanish Tragedy)",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_1b7cf61bae2bf691": {
+    "lexiaInternalId": "#006264",
+    "lexiaTitle": "lemons as cosmetics",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_5fc474be877f52e1": {
+    "lexiaInternalId": "#032460",
+    "lexiaTitle": "letter to Hieronimo",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_28246af444d13779": {
+    "lexiaInternalId": "#032461",
+    "lexiaTitle": "Pedringano being betrayed",
+    "hasFormalClass": "Plot element"
+  },
+  "ww_15d38b1e9cdea6f0": {
+    "lexiaInternalId": "#032462",
+    "lexiaTitle": "fruitless poetry",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_98fcb335ce455f8f": {
+    "lexiaInternalId": "#032463",
+    "lexiaTitle": "Nay if thou dally...",
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_1fa036f55b8b5dfe": {
+    "lexiaInternalId": "#032464",
+    "lexiaTitle": "Why then lament therefore",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_75a059df9fb0eeae": {
+    "lexiaInternalId": "#032465",
+    "lexiaTitle": "For (birds) must have food",
+    "hasImage": [
+      "Animals"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_42c1807fc6f1bf46": {
+    "lexiaInternalId": "#032466",
+    "lexiaTitle": "damned to Erebus and Pluto",
+    "hasFormalClass": "Idea"
+  },
+  "ww_9c022df7feb07232": {
+    "lexiaInternalId": "#032467",
+    "lexiaTitle": "Say lord general how fares our camp?",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_44f0f0d1717e727b": {
+    "lexiaInternalId": "#032467",
+    "lexiaTitle": "Hieronimo&#039;s cloak and hat",
+    "hasImage": [
+      "clothes, hair, cosmetics"
+    ],
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_30f1eb33468c8c81": {
+    "lexiaInternalId": "@000928",
+    "lexiaTitle": "Titus Andronicus",
+    "hasFormalClass": "Booktitle"
+  },
+  "ww_91862130991b6792": {
+    "lexiaInternalId": "#032468",
+    "lexiaTitle": "Soliman",
+    "hasFormalClass": "Charactername"
   }
 }

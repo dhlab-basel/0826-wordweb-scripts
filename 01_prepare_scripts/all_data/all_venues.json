@@ -47,13 +47,13 @@
     "venueInternalId": "#008011",
     "venueTitle": "LONDON_Inner Temple"
   },
-  "ww_74375b94b579582b": {
+  "ww_646f7336b73fd90e": {
     "venueInternalId": "#008012",
-    "venueTitle": "CAMBRIDGE_Trinity College_52.207_N_0.1146_E"
+    "venueTitle": "CAMBRIDGE_Trinity College"
   },
-  "ww_dec714a2913cd2e8": {
+  "ww_baefc86662fd06b9": {
     "venueInternalId": "#008013",
-    "venueTitle": "SHROPSHIRE_Ludlow Castle_52.3672\u00b0N 2.7230\u00b0W"
+    "venueTitle": "SHROPSHIRE_Ludlow Castle"
   },
   "ww_f5d0b920e12fd09e": {
     "venueInternalId": "#008014",
@@ -79,9 +79,9 @@
     "venueInternalId": "#008019",
     "venueTitle": "CAMBRIDGE_St John's College"
   },
-  "ww_b97a51b8ef381578": {
+  "ww_7541d5ad7f7ce472": {
     "venueInternalId": "#008010",
-    "venueTitle": "OXFORD_Trinity _51.755343\u00b0N 1.256958\u00b0WCollege"
+    "venueTitle": "OXFORD_Trinity College"
   },
   "ww_d8d01dc48f356e8d": {
     "venueInternalId": "#008020",
@@ -123,24 +123,8 @@
     "venueInternalId": "#008031",
     "venueTitle": "ROME_Capitol"
   },
-  "ww_889d74b8672a3df3": {
-    "venueInternalId": "#008032",
-    "venueTitle": "GREECE_Mount Ossa"
-  },
-  "ww_161eb77ebba6dd2e": {
-    "venueInternalId": "#008033",
-    "venueTitle": "TURKEY_Calipolis"
-  },
-  "ww_91a707ea8b629113": {
-    "venueInternalId": "#008034",
-    "venueTitle": "GREECE_Philippi"
-  },
   "ww_312af814a2407931": {
     "venueInternalId": "#008035",
     "venueTitle": "LONDON_Gray's Inn at Greenwich Palace"
-  },
-  "ww_20156a887808dc40": {
-    "venueInternalId": "#008036",
-    "venueTitle": "KENT_Anywhere"
   }
 }

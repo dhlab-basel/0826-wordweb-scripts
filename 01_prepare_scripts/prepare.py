@@ -47,7 +47,7 @@ csv_files = [
     "01_prepare_scripts/csv/export_4.csv",
     "01_prepare_scripts/csv/export_5.csv",
     "01_prepare_scripts/csv/export_6.csv",
-    "01_prepare_scripts/csv/export_7.csv"
+    # "01_prepare_scripts/csv/export_7.csv"
 ]
 
 # Every object contains all the resources of the same type which occurs in HyperHamlet.
@@ -147,7 +147,7 @@ def update_author(auth_id, auth_int_id, lex_id):
         authors[auth_id]["lexiaAsPerson"] = lex_id
 
 
-def create_book(b_id, data_row, pub_info, pub_or_info):
+def create_book(b_id, data_row, pub_info, pub_or_info, dates):
     book = {
         "bookInternalId": allBooks[b_id]["bookInternalId"],
         "isWrittenBy": [],
@@ -155,8 +155,17 @@ def create_book(b_id, data_row, pub_info, pub_or_info):
     }
 
     if data_row[5] and data_row[6]:
-        book["createdDate"] = "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
-        book["publishDate"] = "GREGORIAN:{}:{}".format(data_row[5], data_row[6]),
+        book["createdDate"] = "GREGORIAN:{}:{}".format(data_row[5], data_row[6])
+
+    if "performanceExact" in dates:
+        book["firstPerformanceDate"] = "GREGORIAN:{}".format(dates["performanceExact"])
+    elif "performanceSpanStart" in dates:
+        book["firstPerformanceDate"] = "GREGORIAN:{}:{}".format(dates["performanceSpanStart"], dates["performanceSpanEnd"])
+
+    if "publishExact" in dates:
+        book["publishDate"] = "GREGORIAN:{}".format(dates["publishExact"])
+    elif "publishSpanStart" in dates:
+        book["publishDate"] = "GREGORIAN:{}:{}".format(dates["publishSpanStart"], dates["publishSpanEnd"])
 
     if "letter" in pub_info:
         book["bookTitle"] = pub_info["letter"]
@@ -420,8 +429,15 @@ def start():
                                 create_author(author_id)
 
                         # ---------- BOOK
-                        # generates book id
-                        book_id = id.generate(row[13])
+                        # Extracts internal id and title
+                        key_id, key_title = prep_books.get_key_for_id(row[13])
+
+                        # Generates book id
+                        if key_id and key_title:
+                            book_id = id.generate("{} {}".format(key_id, key_title))
+                        else:
+                            print("FAIL Book Title & ID", row[13], line, csv_file)
+                            raise SystemExit(0)
 
                         # Checks if book_id is valid
                         if book_id not in allBooks:
@@ -431,9 +447,9 @@ def start():
                         publication = ed.info(row[4])
                         publication_original = ed.info(row[26])
 
-                        # Creates the book and
+                        # Creates the book if its new
                         if book_id not in books:
-                            create_book(book_id, row, publication, publication_original)
+                            create_book(book_id, row, publication, publication_original, allBooks[book_id])
 
                         # Updates the author references
                         update_book(book_id, names, None, None, None, None, None)
@@ -457,17 +473,12 @@ def start():
                             update_book(book_id, None, None, None, None, subject, None)
 
                         # Updating status for a passage
-                        if "TO BE EDITED" in subjects:
-                            update_passage(passage_id, None, None, None, None, None, None, "unedited")
-                        elif row[1] == "ok":
+                        if row[1] == "ok":
                             update_passage(passage_id, None, None, None, None, None, None, "plausible")
                         elif row[1] == "provisional":
                             update_passage(passage_id, None, None, None, None, None, None, "weak")
                         elif row[1] == "unedited":
-                            if "Shakespeare" in row[2]:
-                                update_passage(passage_id, None, None, None, None, None, None, "weak")
-                            else:
-                                update_passage(passage_id, None, None, None, None, None, None, "check")
+                            update_passage(passage_id, None, None, None, None, None, None, "plausible")
 
                         # Multiple research fields
                         research_fields = row[23].split(" / ")

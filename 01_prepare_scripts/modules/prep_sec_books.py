@@ -28,7 +28,7 @@ def prepare():
 
         for row in results:
 
-            books = re.search("(@\d{6}a?)\s(.*)", row["name"])
+            books = re.search("(@\d{6})\s(.*)", row["name"])
 
             if books:
 
@@ -136,5 +136,5 @@ def prepare_csv():
         return all_sec_books
 
     except Exception as err:
-        print("FAIL: prep_sec_books.py", err)
+        print("FAIL: prep_sec_books.py", err, row[13])
         raise SystemExit(0)

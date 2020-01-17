@@ -444,6 +444,13 @@
                       "de": "???",
                       "en": "like or as"
                     }
+                  },
+                  {
+                    "name": "Proverb",
+                    "labels": {
+                      "de": "???",
+                      "en": "Proverb"
+                    }
                   }
                 ]
               },
@@ -480,6 +487,13 @@
                     "labels": {
                       "de": "Kursiv",
                       "en": "Italics"
+                    }
+                  },
+                  {
+                    "name": "Commonplace markers",
+                    "labels": {
+                      "de": "???",
+                      "en": "Commonplace markers"
                     }
                   }
                 ]
@@ -532,6 +546,13 @@
                       "de": "???",
                       "en": "Prose-Poetry switch"
                     }
+                  },
+                  {
+                    "name": "Proverbial generalization",
+                    "labels": {
+                      "de": "???",
+                      "en": "Proverbial generalization"
+                    }
                   }
                 ]
               },
@@ -543,21 +564,21 @@
                 }
               },
               {
-                "name": "MARKING BY GENRE",
+                "name": "MARKING BY genre",
                 "labels": {
                   "de": "Genre",
                   "en": "Marking by genre"
                 }
               },
               {
-                "name": "MARKING BY CONTEXT",
+                "name": "MARKING BY context",
                 "labels": {
                   "de": "Context",
                   "en": "Marking by context"
                 }
               },
               {
-                "name": "MARKING PENDING",
+                "name": "MARKING pending",
                 "labels": {
                   "de": "Pendings",
                   "en": "Marking pending"
@@ -1048,7 +1069,7 @@
                     }
                   },
                   {
-                    "name": "Romance",
+                    "name": "Romance (novel)",
                     "labels": {
                       "de": "Romantik",
                       "en": "Romance"
@@ -1171,17 +1192,10 @@
                     }
                   },
                   {
-                    "name": "Romance (Drama)",
+                    "name": "Romance",
                     "labels": {
-                      "de": "Romanze (Drama)",
-                      "en": "Romance (Drama)"
-                    }
-                  },
-                  {
-                    "name": "Tragedy or History",
-                    "labels": {
-                      "de": "???",
-                      "en": "Tragedy or History"
+                      "de": "Romanze",
+                      "en": "Romance"
                     }
                   },
                   {
@@ -1899,8 +1913,8 @@
               ],
               "object": "DateValue",
               "labels": {
-                "en": "Birth Date",
-                "de": "Geburtsdatum"
+                "en": "Created",
+                "de": "???"
               },
               "gui_element": "Date",
               "cardinality": "0-1"
@@ -1912,21 +1926,8 @@
               ],
               "object": "DateValue",
               "labels": {
-                "en": "Death Date",
-                "de": "Todesdatum"
-              },
-              "gui_element": "Date",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "licenseDate",
-              "super": [
-                "hasValue"
-              ],
-              "object": "DateValue",
-              "labels": {
-                "en": "Active Date",
-                "de": "Aktivitätsdatum"
+                "en": "Published",
+                "de": "???"
               },
               "gui_element": "Date",
               "cardinality": "0-1"
@@ -1938,8 +1939,8 @@
               ],
               "object": "DateValue",
               "labels": {
-                "en": "Active Date",
-                "de": "Aktivitätsdatum"
+                "en": "First Performed",
+                "de": "???"
               },
               "gui_element": "Date",
               "cardinality": "0-1"

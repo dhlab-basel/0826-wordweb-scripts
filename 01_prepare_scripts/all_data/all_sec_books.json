@@ -1,26 +1,13 @@
 {
-  "ww_fb6ef0abed23a819": {
-    "bookInternalId": "@006311",
-    "bookTitle": "Theatre, Court and City, 1595-1610",
-    "pubInfo": "Theatre, Court and City, 1595-1610. Drama and Social Space in London. Cambridge: 2000.",
-    "hasLanguage": "English",
-    "authors": [
-      "Jeanette Dillon"
-    ]
-  },
   "ww_6298ea6e6b038e90": {
     "bookInternalId": "@006257",
-    "bookTitle": " \u00e0 \u00f6 \u00e4 \u00fc \u00df \u00e8 n't ? ! \u0153 \u00e6 : . \"",
-    "pubInfo": "ed. A select collection of old plays: in twelve volumes. London: Septimus Prowett, 1825.",
+    "bookTitle": " A Select Collection of Old Plays",
+    "pubInfo": "ed. A Select Collection of Old Plays in Twelve Volumes. London: Septimus Prowett, 1825.",
     "hasLanguage": "English",
     "createdDate": "GREGORIAN:1744:1744",
     "publishDate": "GREGORIAN:1744:1744",
     "hasGenre": [
       "Annotated edition"
-    ],
-    "hasSubject": [
-      "Literature",
-      "TO BE EDITED"
     ],
     "authors": [
       "Robert Dodsley"
@@ -142,6 +129,23 @@
       "Walter Whiter"
     ]
   },
+  "ww_5e82235289cbcef2": {
+    "bookInternalId": "@006318",
+    "bookTitle": "Cicero's Orations",
+    "pubInfo": "ed. and trans. Cicero's orations, translated into English, with notes, historical, critical, and explanatory. London: T. Cadell and W. Davies, 1799.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1799:1799",
+    "publishDate": "GREGORIAN:1799:1799",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Classical Studies"
+    ],
+    "authors": [
+      "John Rutherford"
+    ]
+  },
   "ww_c8ba21232e68b85f": {
     "bookInternalId": "@010039",
     "bookTitle": "Paradise Regained (Dunster edition)",
@@ -179,7 +183,7 @@
   "ww_97f14d2f2c915360": {
     "bookInternalId": "@006287",
     "bookTitle": "Old Plays, A Continuation of Dodsley&#039;s Collec",
-    "pubInfo": "Old Plays; being a Continuation of Dodsley's Collection, with Notes Critical and Explanatory. 6 vols. London: Rodwell and Martin, 1816.<br>",
+    "pubInfo": "ed. Old Plays; being a Continuation of Dodsley's Collection, with Notes Critical and Explanatory. 6 vols. London: Rodwell and Martin, 1816.",
     "hasLanguage": "English",
     "createdDate": "GREGORIAN:1816:1816",
     "publishDate": "GREGORIAN:1816:1816",
@@ -190,18 +194,18 @@
       "Literature"
     ],
     "authors": [
-      "_ 0_Anon"
+      "Charles Wentworth Dilke"
     ]
   },
   "ww_9412fba12ddffaa6": {
     "bookInternalId": "@010156",
-    "bookTitle": "Shakespeare's Life (Malone)",
+    "bookTitle": "Plays and Poems of William Shakespeare (Malone)",
     "pubInfo": "The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators : comprehending a life of the poet, and an enlarged history of the stage, by the late Edmond Malone, with a new glossarial index. London, F.C. and J Rivington 1821.",
     "hasLanguage": "English",
     "createdDate": "GREGORIAN:1821:1821",
     "publishDate": "GREGORIAN:1821:1821",
     "hasGenre": [
-      "Academic"
+      "Annotated edition"
     ],
     "hasSubject": [
       "Shakespeare"
@@ -246,7 +250,7 @@
   },
   "ww_58010b3b68506440": {
     "bookInternalId": "@006225",
-    "bookTitle": "Shakespeares Knowledge and Use of the Bible",
+    "bookTitle": "Shakespeare's Knowledge and Use of the Bible",
     "pubInfo": "Shakespeare's Knowledge and Use of the Bible. London: Smith, Elder and Co., 1864.",
     "hasLanguage": "English",
     "createdDate": "GREGORIAN:1864:1864",
@@ -280,23 +284,6 @@
   },
   "ww_e2764acd4f7daed1": {
     "bookInternalId": "@006217",
-    "bookTitle": "Among My Books",
-    "pubInfo": "Among My Books: Six Essays. London: Macmillan, 1870.",
-    "hasLanguage": "English",
-    "createdDate": "GREGORIAN:1870:1870",
-    "publishDate": "GREGORIAN:1870:1870",
-    "hasGenre": [
-      "Essay"
-    ],
-    "hasSubject": [
-      "Literature"
-    ],
-    "authors": [
-      "James Russell Lowell"
-    ]
-  },
-  "ww_d81bd33098bf133f": {
-    "bookInternalId": "@006114",
     "bookTitle": "Among My Books",
     "pubInfo": "Among My Books: Six Essays. London: Macmillan, 1870.",
     "hasLanguage": "English",
@@ -350,7 +337,7 @@
   "ww_cde6c9bb00f512f1": {
     "bookInternalId": "@006127",
     "bookTitle": "The Dramatic Works of Sir William D'Avenant",
-    "pubInfo": "ed. The Dramatic Works of Sir William D'Avenant with prefatory memoir and notes. 5 vols. Edinburgh: W. Paterson, 1872-1874.",
+    "pubInfo": "eds. Sir William D'Avenant. The Dramatic Works of Sir William D'Avenant with prefatory memoir and notes. 5 vols. Edinburgh: William Paterson, 1872-1874. Quoted from https://archive.org.",
     "hasLanguage": "English",
     "createdDate": "GREGORIAN:1872:1874",
     "publishDate": "GREGORIAN:1872:1874",
@@ -361,13 +348,14 @@
       "Literature"
     ],
     "authors": [
-      "_ 0_Anon"
+      "W. H. Logan",
+      "James Maidment"
     ]
   },
   "ww_6397c37d39125a7f": {
     "bookInternalId": "@010170",
     "bookTitle": "The Female Rebellion (Glasgow edition)",
-    "pubInfo": "The Female Rebelion. A Tragicomedy From A MS. In The Hunterian Museum University of Glasgow. Glasgow: Printed for Private Circulation, 1872.",
+    "pubInfo": "ed. The Female Rebelion. A Tragicomedy From A MS. In The Hunterian Museum University of Glasgow. Glasgow: Printed for Private Circulation, 1872.",
     "hasLanguage": "English",
     "createdDate": "GREGORIAN:1872:1872",
     "publishDate": "GREGORIAN:1872:1872",
@@ -378,7 +366,7 @@
       "Literature"
     ],
     "authors": [
-      "(nickname or initials) 0_Anon"
+      "_ 0_Anon"
     ]
   },
   "ww_8df60ecbbf55982d": {
@@ -449,6 +437,24 @@
       "James Orchard Halliwell-Phillipps"
     ]
   },
+  "ww_4fced180ea1b2127": {
+    "bookInternalId": "@006315",
+    "bookTitle": "Brookes Romeo and Juliet",
+    "pubInfo": "Jahrbuch der Dustchen Shakespeare-Gesellschaft 16 (1881): 213-227. ",
+    "hasLanguage": "German",
+    "letter": "Brookes episches und Shakespeares dramatisches Gedicht von Romeo and Juliet",
+    "createdDate": "GREGORIAN:1881:1881",
+    "publishDate": "GREGORIAN:1881:1881",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Shakespeare"
+    ],
+    "authors": [
+      "Nicolaus Delius"
+    ]
+  },
   "ww_1f60ad7a3367e515": {
     "bookInternalId": "@006272",
     "bookTitle": "Shakspere and Montaigne",
@@ -467,6 +473,17 @@
       "Jacob Feis"
     ]
   },
+  "ww_812953c257070349": {
+    "bookInternalId": "@006322",
+    "bookTitle": "The Pilgrimage to Parnassus (Macray edition)",
+    "pubInfo": "ed. The Pilgrimage to Parnassus with the Two Parts of The Return from Parnassus. Oxford: Clarendon Press 1886.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1886:1886",
+    "publishDate": "GREGORIAN:1886:1886",
+    "authors": [
+      "William Dunn Macray"
+    ]
+  },
   "ww_bcc975a9199bde49": {
     "bookInternalId": "@010199",
     "bookTitle": "The Works of John Marston (Bullen)",
@@ -482,6 +499,24 @@
     ],
     "authors": [
       "A. H.  Bullen"
+    ]
+  },
+  "ww_c51070f847072dc0": {
+    "bookInternalId": "@006326",
+    "bookTitle": "John Marston als Dramatiker",
+    "pubInfo": "Englische Studien 20 (1895): 377-396 and 21 (1895): 25-77.",
+    "hasLanguage": "German",
+    "letter": "John Marston als Dramatiker",
+    "createdDate": "GREGORIAN:1895:1895",
+    "publishDate": "GREGORIAN:1895:1895",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature"
+    ],
+    "authors": [
+      "Philipp Aronstein"
     ]
   },
   "ww_376041155cee86ea": {
@@ -898,6 +933,60 @@
       "_ 0_Anon"
     ]
   },
+  "ww_527e897a9caf7a0c": {
+    "bookInternalId": "@006314",
+    "bookTitle": "Julius Caesar und The Wisdom of Dr. Dodypoll",
+    "pubInfo": "Jahrbuch der deutschen Shakespeare-Gesellschaft (1907): 210-212.",
+    "hasLanguage": "English",
+    "letter": "Shakespeares Julius Caesar und die Entstehungszeit des anonymen Dramas The Wisdom of Dr. Dodypoll",
+    "createdDate": "GREGORIAN:1907:1907",
+    "publishDate": "GREGORIAN:1907:1907",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Shakespeare"
+    ],
+    "authors": [
+      "Emil Koeppel"
+    ]
+  },
+  "ww_a6fe74a7bf70d841": {
+    "bookInternalId": "@006320",
+    "bookTitle": "Shakespeare Allusions (1909-10-16)",
+    "pubInfo": "Notes and Queries 10-12:303 (16 October 1909): 307. ",
+    "hasLanguage": "English",
+    "letter": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1907:1907",
+    "publishDate": "GREGORIAN:1907:1907",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature"
+    ],
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
+  "ww_94f936c71eb30d28": {
+    "bookInternalId": "@006334",
+    "bookTitle": "Sonnet III and Sidney&#039;s Arcadia",
+    "pubInfo": "Notes and Queries VIII (31 August 1907): 164.",
+    "hasLanguage": "English",
+    "letter": "Sonnet and Sidney's Arcadia",
+    "createdDate": "GREGORIAN:1907:1907",
+    "publishDate": "GREGORIAN:1907:1907",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Shakespeare"
+    ],
+    "authors": [
+      "Charles A. Herpich"
+    ]
+  },
   "ww_8e4d6a2f4ec65ffb": {
     "bookInternalId": "@006289",
     "bookTitle": "Das Psyche-M\u00e4rchen in der englischen Literatur",
@@ -992,7 +1081,7 @@
   "ww_76ad7ae57d9491f9": {
     "bookInternalId": "@006118",
     "bookTitle": "Shakespeare Allusions (1909-12-11)",
-    "pubInfo": "Notes and Queries 10-12:311, 11 December 1909): 465\u2013466. https://doi.org/10.1093/nq/s10-XII.311.465.",
+    "pubInfo": "Notes and Queries 10-12:311, 11 December 1909): 465-466. https://doi.org/10.1093/nq/s10-XII.311.465.",
     "hasLanguage": "English",
     "letter": "Shakespeare Allusions",
     "createdDate": "GREGORIAN:1909:1909",
@@ -1075,6 +1164,24 @@
     ],
     "authors": [
       "F. Ernst Schmid"
+    ]
+  },
+  "ww_74537e177ef73f83": {
+    "bookInternalId": "@006319",
+    "bookTitle": "Shakespeare Allusions (1910-10-29)",
+    "pubInfo": "Notes and Queries 11.2:44 (29 October 1910): 344\u2013345. https://doi.org/10.1093/nq/s11-II.44.344. ",
+    "hasLanguage": "English",
+    "letter": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1910:1910",
+    "publishDate": "GREGORIAN:1910:1910",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature"
+    ],
+    "authors": [
+      "George Thorn-Drury"
     ]
   },
   "ww_5603853ee308e6b5": {
@@ -1304,10 +1411,28 @@
       "Hans Wallrath"
     ]
   },
+  "ww_16f1b59d542f016e": {
+    "bookInternalId": "@006321",
+    "bookTitle": "Shakespeare Allusions (1915-03-06)",
+    "pubInfo": "Notes and Queries 11-11:271 (6 March 1915): 184\u2013185. https://doi.org/10.1093/nq/s11-XI.271.184. ",
+    "hasLanguage": "English",
+    "letter": "Shakespeare Allusions",
+    "createdDate": "GREGORIAN:1915:1915",
+    "publishDate": "GREGORIAN:1915:1915",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature"
+    ],
+    "authors": [
+      "George Thorn-Drury"
+    ]
+  },
   "ww_7f32d70d1cbf7626": {
     "bookInternalId": "@006120",
     "bookTitle": "Shakespeare Allusions (1915-06-12)",
-    "pubInfo": "Notes and Queries 11-11:285 (12 June 1915): 449\u2013450. ",
+    "pubInfo": "Notes and Queries 11-11:285 (12 June 1915): 449-450. ",
     "hasLanguage": "English",
     "letter": "Shakespeare Allusions",
     "createdDate": "GREGORIAN:1915:1915",
@@ -1338,6 +1463,23 @@
     ],
     "authors": [
       "John Munro"
+    ]
+  },
+  "ww_454a9a7cc83a8748": {
+    "bookInternalId": "@006312",
+    "bookTitle": "Shakespeares Abh\u00e4ngigkeit von John Marston",
+    "pubInfo": "Shakespeares Abh\u00e4ngigkeit von John Marston.",
+    "hasLanguage": "German",
+    "createdDate": "GREGORIAN:1918:1918",
+    "publishDate": "GREGORIAN:1918:1918",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Shakespeare"
+    ],
+    "authors": [
+      "Friedrich Radebrecht"
     ]
   },
   "ww_a712f959230131ce": {
@@ -1424,24 +1566,6 @@
     ],
     "authors": [
       "George Thorn-Drury"
-    ]
-  },
-  "ww_90e2f8df7198b455": {
-    "bookInternalId": "@006300",
-    "bookTitle": "Shakespeare&#039;s Small Latin",
-    "pubInfo": "Modern Language Notes 40.6 (June 1925): 380-38.",
-    "hasLanguage": "English",
-    "letter": "Shakespeare's Small Latin",
-    "createdDate": "GREGORIAN:1925:1925",
-    "publishDate": "GREGORIAN:1925:1925",
-    "hasGenre": [
-      "Academic"
-    ],
-    "hasSubject": [
-      "Shakespeare"
-    ],
-    "authors": [
-      "Malcolm L. Wilder"
     ]
   },
   "ww_ff7c02f30a817796": {
@@ -1579,24 +1703,6 @@
     ],
     "authors": [
       "George Kitchin"
-    ]
-  },
-  "ww_caf00823ad741e71": {
-    "bookInternalId": "@006299",
-    "bookTitle": "New Light on Sir William Cornwallis, the Essayist",
-    "pubInfo": "The Review of English Studies 8:30 (April 1932): 155-169.",
-    "hasLanguage": "English",
-    "letter": "New Light on Sir William Cornwallis, the Essayist",
-    "createdDate": "GREGORIAN:1932:1932",
-    "publishDate": "GREGORIAN:1932:1932",
-    "hasGenre": [
-      "Academic"
-    ],
-    "hasSubject": [
-      "Literature"
-    ],
-    "authors": [
-      "P. B.  Whitt"
     ]
   },
   "ww_a3cda7e114a57aa4": {
@@ -1774,7 +1880,7 @@
       "Literature"
     ],
     "authors": [
-      "tbe (male) 0_Author"
+      "George L. Barnett"
     ]
   },
   "ww_160b060adc5c12bf": {
@@ -2483,24 +2589,6 @@
       "Macdonald P. Jackson"
     ]
   },
-  "ww_c6aad2643ef0132e": {
-    "bookInternalId": "@006181",
-    "bookTitle": "Bild des brennenden Troja in The Rape of Lucrece",
-    "pubInfo": "Shakespeare.",
-    "hasLanguage": "German",
-    "letter": "Das Bild des brennenden Troja in The Rape of Lucrece",
-    "createdDate": "GREGORIAN:1963:1963",
-    "publishDate": "GREGORIAN:1963:1963",
-    "hasGenre": [
-      "Academic"
-    ],
-    "hasSubject": [
-      "Shakespeare"
-    ],
-    "authors": [
-      "Horst Oppel"
-    ]
-  },
   "ww_10d1735a57c373ef": {
     "bookInternalId": "@010141",
     "bookTitle": "The Works of Cyril Tourneur (Nicholl edition)",
@@ -3023,7 +3111,7 @@
       "Literature"
     ],
     "authors": [
-      "William B. HUnter"
+      "William B. Hunter"
     ]
   },
   "ww_7ad6024748f5b7ef": {
@@ -3331,9 +3419,6 @@
     "hasGenre": [
       "Annotated edition"
     ],
-    "hasSubject": [
-      "Literature"
-    ],
     "authors": [
       "Ronald Huebert"
     ]
@@ -3427,7 +3512,7 @@
   },
   "ww_180d7fcf961a85ac": {
     "bookInternalId": "@006070",
-    "bookTitle": "Unpublished Notes on Shakespeares Image Clusters",
+    "bookTitle": "Notes on Shakespeare's Image Clusters",
     "pubInfo": "Unpublished Notes on Shakespeare's Image Clusters.",
     "hasLanguage": "English",
     "createdDate": "GREGORIAN:1988:1988",
@@ -3724,6 +3809,17 @@
       "Macdonald P. Jackson"
     ]
   },
+  "ww_3065791692a89822": {
+    "bookInternalId": "@006342",
+    "bookTitle": "Poetaster (Cain Edition)",
+    "pubInfo": "ed. Poetaster. Manchester: Manchester University Press 1995.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1995:1995",
+    "publishDate": "GREGORIAN:1995:1995",
+    "authors": [
+      "Thomas Grant Steven Cain"
+    ]
+  },
   "ww_d881a6eb275d8a91": {
     "bookInternalId": "@006160",
     "bookTitle": "A Mad World, My Masters (Taylor edition)",
@@ -3768,9 +3864,6 @@
     "hasGenre": [
       "Academic"
     ],
-    "hasSubject": [
-      "Literature"
-    ],
     "authors": [
       "Anthony Parr"
     ]
@@ -3808,6 +3901,20 @@
     ],
     "authors": [
       "David Martin Bevington"
+    ]
+  },
+  "ww_8b4233be6021345d": {
+    "bookInternalId": "@006329",
+    "bookTitle": "archive.org",
+    "pubInfo": "www.archive.org",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:1996:1996",
+    "publishDate": "GREGORIAN:1996:1996",
+    "hasGenre": [
+      "Scholarly database"
+    ],
+    "authors": [
+      "_ 0_Anon"
     ]
   },
   "ww_444e694490140e28": {
@@ -3964,6 +4071,20 @@
     ],
     "authors": [
       "Martin Wiggins"
+    ]
+  },
+  "ww_fb6ef0abed23a819": {
+    "bookInternalId": "@006311",
+    "bookTitle": "Theatre, Court and City, 1595-1610",
+    "pubInfo": "Theatre, Court and City, 1595-1610. Drama and Social Space in London. Cambridge: Cambridge University Press, 2000.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2000:2000",
+    "publishDate": "GREGORIAN:2000:2000",
+    "hasGenre": [
+      "Academic"
+    ],
+    "authors": [
+      "Jeanette Dillon"
     ]
   },
   "ww_69e39de0f4cfdf37": {
@@ -4176,9 +4297,6 @@
     "hasGenre": [
       "Annotated edition"
     ],
-    "hasSubject": [
-      "Literature"
-    ],
     "authors": [
       "A. T. Moore"
     ]
@@ -4221,7 +4339,7 @@
   "ww_7e95ebfdf28b0bb6": {
     "bookInternalId": "@006279",
     "bookTitle": "A Jibe at Shakespeare in 1606",
-    "pubInfo": "Notes and Queries 247 (2002): 245\u2013247.",
+    "pubInfo": "Notes and Queries 247 (2002): 245-247.",
     "hasLanguage": "English",
     "letter": "A Jibe at Shakespeare in 1606",
     "createdDate": "GREGORIAN:2002:2002",
@@ -4300,11 +4418,21 @@
     "hasGenre": [
       "Annotated edition"
     ],
-    "hasSubject": [
-      "Literature"
-    ],
     "authors": [
       "Richard Rowland"
+    ]
+  },
+  "ww_967044bfe868d7e0": {
+    "bookInternalId": "@006323",
+    "bookTitle": "HyperHamlet",
+    "pubInfo": "HyperHamlet. 2005-2020. www.hyperhamlet.unibas.ch.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2005:2020",
+    "publishDate": "GREGORIAN:2005:2020",
+    "authors": [
+      "Balz Engler",
+      "Regula Hohl Trillini",
+      "Sixta Qua\u00dfdorf"
     ]
   },
   "ww_d1faedb423154f39": {
@@ -4386,7 +4514,7 @@
   },
   "ww_b95f1eba1153f0f1": {
     "bookInternalId": "@006278",
-    "bookTitle": "Authorship, Indebtedness, and the Children of the ",
+    "bookTitle": "Authorship, Indebtedness",
     "pubInfo": "Studies in English Literature 1500-1900 45/2 Tudor and Stuart Drama (Spring 2005): 357-374.",
     "hasLanguage": "English",
     "letter": "Authorship, Indebtedness, and the Children of the King's Revels",
@@ -4578,6 +4706,25 @@
       "Dennis McCarthy"
     ]
   },
+  "ww_5d6cb5b6a5b158dc": {
+    "bookInternalId": "@006327",
+    "bookTitle": "Wise Blood - The Aeneid and Doctor Faustus",
+    "pubInfo": "Notes and Queries 54.3\u00b4(September 2007): 248-249.",
+    "hasLanguage": "English",
+    "letter": "Wise Blood: Aeneid 3. 22 57 and Marlowe's Doctor Faustus",
+    "createdDate": "GREGORIAN:2007:2007",
+    "publishDate": "GREGORIAN:2007:2007",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature",
+      "Classical Studies"
+    ],
+    "authors": [
+      "Arnd Bohm"
+    ]
+  },
   "ww_0de19bd63a1c9142": {
     "bookInternalId": "@010079",
     "bookTitle": "Against Thinking",
@@ -4661,6 +4808,23 @@
     "authors": [
       "John Lavagnino",
       "Gary Taylor"
+    ]
+  },
+  "ww_4032a249c60904c6": {
+    "bookInternalId": "@006313",
+    "bookTitle": "The Marlowe-Shakespeare Connection",
+    "pubInfo": "The Marlowe-Shakespeare Connection: A New Study of the Authorship Question. Jefferson: Farland, 2008.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2008:2008",
+    "publishDate": "GREGORIAN:2008:2008",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Shakespeare"
+    ],
+    "authors": [
+      "Samuel J. Blumenfeld"
     ]
   },
   "ww_79aac8b14ce77754": {
@@ -5160,6 +5324,23 @@
       "David Currell"
     ]
   },
+  "ww_241ea5ff49764ee4": {
+    "bookInternalId": "@006340",
+    "bookTitle": "David and Bathsheba (Martin edition)",
+    "pubInfo": "ed. George Peele. David and Bathsheba. Manchester: Manchester University Press, 2018.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2018:2018",
+    "publishDate": "GREGORIAN:2018:2018",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature"
+    ],
+    "authors": [
+      "Matthew R. Martin"
+    ]
+  },
   "ww_c0bb45384c6abc1f": {
     "bookInternalId": "@010200",
     "bookTitle": "Casual Shakespeare",
@@ -5194,11 +5375,47 @@
       "Charles Edelman"
     ]
   },
+  "ww_45eefbefad8ac804": {
+    "bookInternalId": "@006331",
+    "bookTitle": "Shakespeare and Quotation",
+    "pubInfo": "eds. Shakespeare and Quotation. Eds. Julie Maxwell and Kate Rumbold. Cambridge: Cambridge University Press, 2018.",
+    "hasLanguage": "English",
+    "createdDate": "GREGORIAN:2018:2018",
+    "publishDate": "GREGORIAN:2018:2018",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature"
+    ],
+    "authors": [
+      "Julie Maxwell",
+      "Kate Rumbold"
+    ]
+  },
+  "ww_38309648f9bb2736": {
+    "bookInternalId": "@006332",
+    "bookTitle": "Shakespeare and the Early Modern Culture of Quotat",
+    "pubInfo": "Shakespeare and Quotation. Eds. Julie Maxwell and Kate Rumbold. Cambridge: Cambridge University Press, 2018. 31-45. ",
+    "hasLanguage": "English",
+    "letter": "Shakespeare and the Early Modern Culture of Quotation",
+    "createdDate": "GREGORIAN:2018:2018",
+    "publishDate": "GREGORIAN:2018:2018",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Shakespeare"
+    ],
+    "authors": [
+      "James P. Bednarz"
+    ]
+  },
   "ww_09bfa02c86d1a7c8": {
     "bookInternalId": "@006110",
     "bookTitle": "Loeb Classics",
     "pubInfo": "https://www.loebclassics.com/",
-    "hasLanguage": "Latin",
+    "hasLanguage": "English",
     "createdDate": "GREGORIAN:2019:2019",
     "publishDate": "GREGORIAN:2019:2019",
     "hasGenre": [
