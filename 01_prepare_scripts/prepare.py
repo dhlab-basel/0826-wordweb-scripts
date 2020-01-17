@@ -277,7 +277,7 @@ def update_sec_book(sec_b_id, auth_names):
         books[sec_b_id]["isWrittenBy"] = list(temp)
 
 
-def create_passage(pa_id, text, text_or, pub, pub_or):
+def create_passage(pa_id, text, text_or, pub, pub_or, com):
     passage = {
         "hasText": text,
         "occursIn": [],
@@ -294,6 +294,9 @@ def create_passage(pa_id, text, text_or, pub, pub_or):
 
     if "page" in pub_or:
         passage["hasPageHist"] = pub_or["page"]
+
+    if com:
+        passage["publicComment"] = com
 
     passages[pa_id] = passage
 
@@ -460,7 +463,7 @@ def start():
 
                         # Creates the passage and updates the edition reference
                         if passage_id not in passages:
-                            create_passage(passage_id, row[10], row[25], publication, publication_original)
+                            create_passage(passage_id, row[10], row[25], publication, publication_original, row[11])
 
                         # Updates the book reference and the genre
                         update_passage(passage_id, book_id, None, None, None, None, None, None)
