@@ -1508,8 +1508,8 @@
     "lexiaInternalId": "#032026",
     "lexiaTitle": "fruits ripened by the sun",
     "hasImage": [
-      "Sky and wether",
-      "Plants"
+      "Plants",
+      "Sky and wether"
     ],
     "hasFormalClass": "Idea"
   },
@@ -3281,8 +3281,8 @@
     "lexiaInternalId": "#030770",
     "lexiaTitle": "death as arresting sergeant",
     "hasImage": [
-      "war, combat",
-      "Death"
+      "Death",
+      "war, combat"
     ],
     "hasFormalClass": "Plot element"
   },
@@ -3680,8 +3680,8 @@
     "lexiaInternalId": "#032140",
     "lexiaTitle": "love like lightning",
     "hasImage": [
-      "Love",
-      "Sky and wether"
+      "Sky and wether",
+      "Love"
     ],
     "hasFormalClass": "Idea"
   },
@@ -5049,8 +5049,8 @@
     "lexiaInternalId": "#004073",
     "lexiaTitle": "did ever raven sing so",
     "hasImage": [
-      "Music, dance song",
-      "Birds"
+      "Birds",
+      "Music, dance song"
     ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
@@ -5547,8 +5547,8 @@
     "lexiaInternalId": "#004154",
     "lexiaTitle": "courtier's, soldier's, scholar's",
     "hasImage": [
-      "war, combat",
-      "Court, monarchy"
+      "Court, monarchy",
+      "war, combat"
     ],
     "hasFormalClass": "Snowclone"
   },
@@ -5591,8 +5591,8 @@
     "lexiaInternalId": "#004162",
     "lexiaTitle": "making quarries move with song",
     "hasImage": [
-      "Music, dance song",
-      "Landscape"
+      "Landscape",
+      "Music, dance song"
     ],
     "hasFormalClass": "Keywords"
   },
@@ -5638,8 +5638,8 @@
     "lexiaInternalId": "#004169",
     "lexiaTitle": "buttered moon",
     "hasImage": [
-      "Sky and wether",
-      "Food"
+      "Food",
+      "Sky and wether"
     ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
@@ -6870,7 +6870,8 @@
     "lexiaTitle": "cock crows",
     "hasImage": [
       "Birds"
-    ]
+    ],
+    "hasFormalClass": "Idea"
   },
   "ww_539e76f2cd835c55": {
     "lexiaInternalId": "#004260",
@@ -6990,8 +6991,8 @@
     "lexiaInternalId": "#004282",
     "lexiaTitle": "solar eclipse on doomsday",
     "hasImage": [
-      "religion",
-      "Sky and wether"
+      "Sky and wether",
+      "religion"
     ],
     "hasFormalClass": "Idea"
   },
@@ -7792,23 +7793,23 @@
     "lexiaTitle": "lies contemn Heaven and fear men",
     "hasFormalClass": "Idea"
   },
-  "ww_48dfefcf9c364512": {
-    "lexiaInternalId": "#007041",
+  "ww_f53699a6ab6cd54e": {
+    "lexiaInternalId": "#006268",
     "lexiaTitle": "man in the almanac",
     "hasFormalClass": "Phrase (two words to two lines)"
   },
-  "ww_74dc722178662e06": {
-    "lexiaInternalId": "#007042",
+  "ww_2bcb5a15e51e9477": {
+    "lexiaInternalId": "#006269",
     "lexiaTitle": "carry an almanac to predict the weather",
     "hasFormalClass": "Keywords"
   },
-  "ww_5f1de22b10d9e739": {
-    "lexiaInternalId": "#007042",
+  "ww_052afa6ba328ffde": {
+    "lexiaInternalId": "#006270",
     "lexiaTitle": "steeple-house (Puritan phrase)",
     "hasFormalClass": "word"
   },
-  "ww_e3b25497beb06e4e": {
-    "lexiaInternalId": "#007043",
+  "ww_121515be5ff53e84": {
+    "lexiaInternalId": "#006271",
     "lexiaTitle": "the stage as modest wooden round",
     "hasFormalClass": "Idea"
   },
@@ -8045,8 +8046,8 @@
     "lexiaInternalId": "#032429",
     "lexiaTitle": "higher power stealing after someone trying to hit",
     "hasImage": [
-      "Love",
-      "Death"
+      "Death",
+      "Love"
     ],
     "hasFormalClass": "Idea"
   },
@@ -8063,8 +8064,7 @@
     "lexiaTitle": "swifter than Pegasus",
     "hasImage": [
       "Animals"
-    ],
-    "hasFormalClass": "Idea"
+    ]
   },
   "ww_709a3fd1880e626c": {
     "lexiaInternalId": "#032432",
@@ -8379,6 +8379,41 @@
   "ww_91862130991b6792": {
     "lexiaInternalId": "#032468",
     "lexiaTitle": "Soliman",
+    "hasFormalClass": "Charactername"
+  },
+  "ww_6155f4fda7f81fe8": {
+    "lexiaInternalId": "#006265",
+    "lexiaTitle": "Not marble nor the gilded monument...",
+    "hasFormalClass": "Passage (longer)"
+  },
+  "ww_38323204f581fb77": {
+    "lexiaInternalId": "#006266",
+    "lexiaTitle": "I am far enough from myself",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_889f54f3c6eb2e84": {
+    "lexiaInternalId": "#006267",
+    "lexiaTitle": "I am a beggar myself",
+    "hasFormalClass": "Phrase (two words to two lines)"
+  },
+  "ww_a3ff724d39be9ea3": {
+    "lexiaInternalId": "#007045",
+    "lexiaTitle": "Albius Tibullus",
+    "hasFormalClass": "Real person"
+  },
+  "ww_1404afcf08026277": {
+    "lexiaInternalId": "#032469",
+    "lexiaTitle": "Painter scene",
+    "hasFormalClass": "Scene"
+  },
+  "ww_82884fb15d584126": {
+    "lexiaInternalId": "#032470",
+    "lexiaTitle": "The Pinner of Wakefield",
+    "hasFormalClass": "Charactername"
+  },
+  "ww_0f218193cd89c594": {
+    "lexiaInternalId": "#032471",
+    "lexiaTitle": "George-a-Greene",
     "hasFormalClass": "Charactername"
   }
 }

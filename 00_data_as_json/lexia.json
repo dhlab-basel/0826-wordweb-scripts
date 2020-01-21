@@ -997,8 +997,8 @@
     "lexiaTitle": "chrisom",
     "hasFormalClass": "word"
   },
-  "ww_e3b25497beb06e4e": {
-    "lexiaInternalId": "#007043",
+  "ww_121515be5ff53e84": {
+    "lexiaInternalId": "#006271",
     "lexiaTitle": "the stage as modest wooden round",
     "hasFormalClass": "Idea"
   },
@@ -1277,15 +1277,40 @@
     "lexiaTitle": "Revenge",
     "hasFormalClass": "Plot element"
   },
+  "ww_a77a42b527547672": {
+    "lexiaInternalId": "#005014",
+    "lexiaTitle": "Hieronimo in The Spanish Tragedy",
+    "hasFormalClass": "Charactername"
+  },
   "ww_96fdba9895bde355": {
     "lexiaInternalId": "#030149",
     "lexiaTitle": "Hamlet, revenge",
     "hasFormalClass": "Motif with name"
   },
+  "ww_87047d2b08d7fa31": {
+    "lexiaInternalId": "#007019",
+    "lexiaTitle": "Ben Jonson",
+    "hasFormalClass": "Real person"
+  },
+  "ww_296f621f246cc201": {
+    "lexiaInternalId": "#032375",
+    "lexiaTitle": "WAR OF THE THEATRES",
+    "hasFormalClass": "Idea"
+  },
   "ww_e087e41de00e33c2": {
     "lexiaInternalId": "#008017",
     "lexiaTitle": "LONDON_Swan Theatre",
     "hasFormalClass": "Venue or place"
+  },
+  "ww_7cb4a1c21244b889": {
+    "lexiaInternalId": "@001081",
+    "lexiaTitle": "The Isle of Dogs",
+    "hasFormalClass": "Booktitle"
+  },
+  "ww_91862130991b6792": {
+    "lexiaInternalId": "#032468",
+    "lexiaTitle": "Soliman",
+    "hasFormalClass": "Charactername"
   },
   "ww_101316c46e03b6c5": {
     "lexiaInternalId": "#035082",
@@ -1404,8 +1429,8 @@
     "lexiaInternalId": "#032026",
     "lexiaTitle": "fruits ripened by the sun",
     "hasImage": [
-      "Sky and wether",
-      "Plants"
+      "Plants",
+      "Sky and wether"
     ],
     "hasFormalClass": "Idea"
   },
@@ -1920,8 +1945,8 @@
     "lexiaInternalId": "#030770",
     "lexiaTitle": "death as arresting sergeant",
     "hasImage": [
-      "war, combat",
-      "Death"
+      "Death",
+      "war, combat"
     ],
     "hasFormalClass": "Plot element"
   },
@@ -2385,6 +2410,11 @@
     "lexiaInternalId": "#004193",
     "lexiaTitle": "Irene or Hiren the Fair Greek",
     "hasFormalClass": "Motif with name"
+  },
+  "ww_42c1807fc6f1bf46": {
+    "lexiaInternalId": "#032466",
+    "lexiaTitle": "damned to Erebus and Pluto",
+    "hasFormalClass": "Idea"
   },
   "ww_e0ff792aded1c973": {
     "lexiaInternalId": "#031145",
@@ -3348,11 +3378,6 @@
     "lexiaTitle": "John Marston",
     "hasFormalClass": "Real person"
   },
-  "ww_296f621f246cc201": {
-    "lexiaInternalId": "#032375",
-    "lexiaTitle": "WAR OF THE THEATRES",
-    "hasFormalClass": "Idea"
-  },
   "ww_be337931a53f68ee": {
     "lexiaInternalId": "#031154",
     "lexiaTitle": "stars refuse to light the darkness",
@@ -3821,8 +3846,8 @@
     "lexiaInternalId": "#032140",
     "lexiaTitle": "love like lightning",
     "hasImage": [
-      "Love",
-      "Sky and wether"
+      "Sky and wether",
+      "Love"
     ],
     "hasFormalClass": "Idea"
   },
@@ -3961,11 +3986,6 @@
     "lexiaInternalId": "#032435",
     "lexiaTitle": "brightness and fair eyes, lamps of heaven",
     "hasFormalClass": "Visual motif"
-  },
-  "ww_a77a42b527547672": {
-    "lexiaInternalId": "#005014",
-    "lexiaTitle": "Hieronimo in The Spanish Tragedy",
-    "hasFormalClass": "Charactername"
   },
   "ww_268dfe97120fdbe1": {
     "lexiaInternalId": "#030142",
@@ -4499,8 +4519,8 @@
     "lexiaInternalId": "#004282",
     "lexiaTitle": "solar eclipse on doomsday",
     "hasImage": [
-      "religion",
-      "Sky and wether"
+      "Sky and wether",
+      "religion"
     ],
     "hasFormalClass": "Idea"
   },
@@ -4937,8 +4957,8 @@
     "lexiaInternalId": "#004154",
     "lexiaTitle": "courtier's, soldier's, scholar's",
     "hasImage": [
-      "war, combat",
-      "Court, monarchy"
+      "Court, monarchy",
+      "war, combat"
     ],
     "hasFormalClass": "Snowclone"
   },
@@ -5309,7 +5329,8 @@
     "lexiaTitle": "cock crows",
     "hasImage": [
       "Birds"
-    ]
+    ],
+    "hasFormalClass": "Idea"
   },
   "ww_61609a339a6ff730": {
     "lexiaInternalId": "#004041",
@@ -5616,8 +5637,8 @@
     "lexiaInternalId": "#004162",
     "lexiaTitle": "making quarries move with song",
     "hasImage": [
-      "Music, dance song",
-      "Landscape"
+      "Landscape",
+      "Music, dance song"
     ],
     "hasFormalClass": "Keywords"
   },
@@ -5695,8 +5716,8 @@
     "lexiaInternalId": "#004073",
     "lexiaTitle": "did ever raven sing so",
     "hasImage": [
-      "Music, dance song",
-      "Birds"
+      "Birds",
+      "Music, dance song"
     ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
@@ -5724,8 +5745,8 @@
     "lexiaInternalId": "#004169",
     "lexiaTitle": "buttered moon",
     "hasImage": [
-      "Sky and wether",
-      "Food"
+      "Food",
+      "Sky and wether"
     ],
     "hasFormalClass": "Phrase (two words to two lines)"
   },
@@ -6855,11 +6876,6 @@
     "lexiaInternalId": "#004369",
     "lexiaTitle": "not let belief take hold of him",
     "hasFormalClass": "Phrase (two words to two lines)"
-  },
-  "ww_87047d2b08d7fa31": {
-    "lexiaInternalId": "#007019",
-    "lexiaTitle": "Ben Jonson",
-    "hasFormalClass": "Real person"
   },
   "ww_d83394e99ee7015f": {
     "lexiaInternalId": "#032338",

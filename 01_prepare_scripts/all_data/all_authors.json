@@ -6372,13 +6372,6 @@
     "hasGender": "male",
     "sql": 2804
   },
-  "ww_9da230cf56d91ce7": {
-    "firstName": "Philip D.",
-    "lastName": "Collington",
-    "description": "Canadian academic",
-    "hasGender": "male",
-    "sql": 4458
-  },
   "ww_f52b5d47bff3154f": {
     "firstName": "Michael",
     "lastName": "Collins",
@@ -22239,6 +22232,15 @@
     "hasGender": "male",
     "sql": 3061
   },
+  "ww_a4a7cfbf66fea978": {
+    "firstName": "E. H. C.",
+    "lastName": "Oliphant",
+    "birthExact": "1863",
+    "deathExact": "1936",
+    "description": "Australian scholar",
+    "hasGender": "male",
+    "sql": 4508
+  },
   "ww_02bad8e8b6b93ab3": {
     "firstName": "Margaret",
     "lastName": "Oliphant",
@@ -29191,6 +29193,13 @@
     "description": "English poet",
     "hasGender": "male",
     "sql": 1842
+  },
+  "ww_c653d0c20e7a30c7": {
+    "firstName": "Albius",
+    "lastName": "Tibullus",
+    "description": "Roman poet 55 BC-19 BC",
+    "hasGender": "male",
+    "sql": 4509
   },
   "ww_d67d7ee96e3b379c": {
     "firstName": "Ludwig",

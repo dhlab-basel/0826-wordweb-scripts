@@ -1575,6 +1575,311 @@
             }
           }
         ]
+      },
+      {
+        "name": "venuePlace",
+        "labels": {
+          "de": "Theater Ort",
+          "en": "venue place"
+        },
+        "nodes": [
+          {
+            "name": "London",
+            "labels": {
+              "de": "London",
+              "en": "London"
+            },
+            "nodes": [
+              {
+                "name": "Globe",
+                "labels": {
+                  "de": "Globe",
+                  "en": "Globe"
+                }
+              },
+              {
+                "name": "Blackfriars",
+                "labels": {
+                  "de": "Blackfriars",
+                  "en": "Blackfriars"
+                }
+              },
+              {
+                "name": "The Theatre",
+                "labels": {
+                  "de": "The Theatre",
+                  "en": "The Theatre"
+                }
+              },
+              {
+                "name": "Cockpit",
+                "labels": {
+                  "de": "Cockpit",
+                  "en": "Cockpit"
+                }
+              },
+              {
+                "name": "The Curtain",
+                "labels": {
+                  "de": "The Curtain",
+                  "en": "The Curtain"
+                }
+              },
+              {
+                "name": "Whitefriars",
+                "labels": {
+                  "de": "Whitefriars",
+                  "en": "Whitefriars"
+                }
+              },
+              {
+                "name": "Red Bull",
+                "labels": {
+                  "de": "Red Bull",
+                  "en": "Red Bull"
+                }
+              },
+              {
+                "name": "Unknown venue",
+                "labels": {
+                  "de": "Unbekanntes Theater",
+                  "en": "Unknown venue"
+                }
+              },
+              {
+                "name": "The Rose Theatre",
+                "labels": {
+                  "de": "The Rose Theatre",
+                  "en": "The Rose Theatre"
+                }
+              },
+              {
+                "name": "The Fortune Playhouse",
+                "labels": {
+                  "de": "The Fortune Playhouse",
+                  "en": "The Fortune Playhouse"
+                }
+              },
+              {
+                "name": "Salisbury Court",
+                "labels": {
+                  "de": "Salisbury Court",
+                  "en": "Salisbury Court"
+                }
+              },
+              {
+                "name": "Inner Temple",
+                "labels": {
+                  "de": "Inner Temple",
+                  "en": "Inner Temple"
+                }
+              },
+              {
+                "name": "Banqueting House",
+                "labels": {
+                  "de": "Banqueting House",
+                  "en": "Banqueting House"
+                }
+              },
+              {
+                "name": "Archbishop's Palace",
+                "labels": {
+                  "de": "Archbishop's Palace",
+                  "en": "Archbishop's Palace"
+                }
+              },
+              {
+                "name": "Boar's Head",
+                "labels": {
+                  "de": "Boar's Head",
+                  "en": "Boar's Head"
+                }
+              },
+              {
+                "name": "Swan Theatre",
+                "labels": {
+                  "de": "Swan Theatre",
+                  "en": "Swan Theatre"
+                }
+              },
+              {
+                "name": "Hope Theatre",
+                "labels": {
+                  "de": "Hope Theatre",
+                  "en": "Hope Theatre"
+                }
+              },
+              {
+                "name": "Moorfield",
+                "labels": {
+                  "de": "Moorfield",
+                  "en": "Moorfield"
+                }
+              },
+              {
+                "name": "Hyde Park",
+                "labels": {
+                  "de": "Hyde Park",
+                  "en": "Hyde Park"
+                }
+              },
+              {
+                "name": "Somerset House",
+                "labels": {
+                  "de": "Somerset House",
+                  "en": "Somerset House"
+                }
+              },
+              {
+                "name": "Gray's Inn at Greenwich Palace",
+                "labels": {
+                  "de": "Gray's Inn at Greenwich Palace",
+                  "en": "Gray's Inn at Greenwich Palace"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Cambridge",
+            "labels": {
+              "de": "Cambridge",
+              "en": "Cambridge"
+            },
+            "nodes": [
+              {
+                "name": "Trinity College",
+                "labels": {
+                  "de": "Trinity College",
+                  "en": "Trinity College"
+                }
+              },
+              {
+                "name": "St John's College",
+                "labels": {
+                  "de": "St John's College",
+                  "en": "St John's College"
+                }
+              },
+              {
+                "name": "Kings College",
+                "labels": {
+                  "de": "Kings College",
+                  "en": "Kings College"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Oxford",
+            "labels": {
+              "de": "Oxford",
+              "en": "Oxford"
+            },
+            "nodes": [
+              {
+                "name": "TrinityCollege",
+                "labels": {
+                  "de": "TrinityCollege",
+                  "en": "TrinityCollege"
+                }
+              },
+              {
+                "name": "Christ Church",
+                "labels": {
+                  "de": "Christ Church",
+                  "en": "Christ Church"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Dublin",
+            "labels": {
+              "de": "Dublin",
+              "en": "Dublin"
+            },
+            "nodes" : [
+              {
+                "name": "Werburgh Street Theatre",
+                "labels": {
+                  "de": "Werburgh Street Theatre",
+                  "en": "Werburgh Street Theatre"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Essex",
+            "labels": {
+              "de": "Essex",
+              "en": "Essex"
+            },
+            "nodes": [
+              {
+                "name": "Wanstead Manor",
+                "labels": {
+                  "de": "Wanstead Manor",
+                  "en": "Wanstead Manor"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Rutland",
+            "labels": {
+              "de": "Rutland",
+              "en": "Rutland"
+            },
+            "nodes": [
+              {
+                "name": "Burley-on-the-Hill",
+                "labels": {
+                  "de": "Burley-on-the-Hill",
+                  "en": "Burley-on-the-Hill"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Shropshire",
+            "labels": {
+              "de": "Shropshire",
+              "en": "Shropshire"
+            },
+            "nodes": [
+              {
+                "name": "Ludlow Castle",
+                "labels": {
+                  "de": "Ludlow Castle",
+                  "en": "Ludlow Castle"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Rome",
+            "labels": {
+              "de": "Rome",
+              "en": "Rome"
+            },
+            "nodes": [
+              {
+                "name": "Aventine Hill",
+                "labels": {
+                  "de": "Aventine Hill",
+                  "en": "Aventine Hill"
+                }
+              },
+              {
+                "name": "Capitol",
+                "labels": {
+                  "de": "Capitol",
+                  "en": "Capitol"
+                }
+              }
+            ]
+          }
+        ]
       }
     ],
     "ontology": {
@@ -1728,6 +2033,19 @@
               "labels": {
                 "en": "lexia as person",
                 "de": "Lexia als Person"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "personPerformedIn",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:book",
+              "labels": {
+                "en": "person has a role in a play",
+                "de": "Person hat eine Rolle in einem Stück"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
@@ -2347,19 +2665,18 @@
               "cardinality": "1"
             },
             {
-              "name": "venueTitle",
+              "name": "hasVenuePlace",
               "super": [
                 "hasValue"
               ],
-              "object": "TextValue",
+              "object": "ListValue",
               "labels": {
-                "en": "Venue title",
-                "de": "Aufführungsorttitel"
+                "en": "Venue Place",
+                "de": "Aufführungsort"
               },
-              "gui_element": "SimpleText",
+              "gui_element": "Pulldown",
               "gui_attributes": [
-                "size=24",
-                "maxlength=64"
+                "hlist=venuePlace"
               ],
               "cardinality": "1"
             },

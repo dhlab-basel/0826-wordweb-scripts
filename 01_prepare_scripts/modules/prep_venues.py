@@ -25,18 +25,19 @@ def prepare():
         all_venues = {}
 
         for row in results:
+            # Making sure all the nodes are venues by checking the parent with the ID 182 (look up in the database)
             if row["parent"] is 182:
 
-                venues = re.search("^(#\d{6})\s(.*)", row["name"])
+                venues = re.search("^(#\d{6})\s(.*)_(.*)", row["name"])
 
                 venue = {}
 
                 if venues:
                     venue["venueInternalId"] = venues.group(1)
-                    venue["venueTitle"] = venues.group(2)
+                    venue["hasVenuePlace"] = venues.group(3)
 
                     # Create a key which has the following format{venueInternalId venueTitle}
-                    unique_key = "{} {}".format(venue["venueInternalId"], venue["venueTitle"])
+                    unique_key = "{} {}".format(venue["venueInternalId"], venue["hasVenuePlace"])
 
                     # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
                     venue_id = id.generate(unique_key)

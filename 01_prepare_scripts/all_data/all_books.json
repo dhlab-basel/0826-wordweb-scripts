@@ -218,11 +218,6 @@
     "bookInternalId": "@002410",
     "sql": 399
   },
-  "ww_38c906962ba7629a": {
-    "bookTitle": "A Divine and Philosophical Conference",
-    "bookInternalId": "@005456",
-    "sql": 400
-  },
   "ww_485a54b3b41dff9b": {
     "performanceExact": "1631",
     "publishExact": "1632",
@@ -4574,7 +4569,7 @@
     "publishExact": "1601",
     "bookTitle": "Robin Hood Part 1",
     "bookInternalId": "@001106",
-    "sql": 1514
+    "sql": 1668
   },
   "ww_bc242f0ffab9d459": {
     "performanceExact": "1635",
@@ -4912,5 +4907,40 @@
     "bookTitle": "The Blind Beggar of Alexandria",
     "bookInternalId": "@001032",
     "sql": 1655
+  },
+  "ww_850ac85db9d95b9b": {
+    "bookTitle": "Eromena",
+    "bookInternalId": "@006434",
+    "sql": 1657
+  },
+  "ww_9710807263257b4d": {
+    "bookTitle": "The Bloody Banquet",
+    "bookInternalId": "@000000",
+    "sql": 1658
+  },
+  "ww_99b74c185ba028fb": {
+    "bookTitle": "Marcus Tullius Cicero&#039;s Three Books of Duties",
+    "bookInternalId": "@006435",
+    "sql": 1660
+  },
+  "ww_ea3c02c30826ad4c": {
+    "publishExact": "1602",
+    "bookTitle": "The Spanish Tragedy (1602 revised edition)",
+    "bookInternalId": "@006437",
+    "sql": 1662
+  },
+  "ww_09305a81acb5c600": {
+    "performanceExact": "1591",
+    "publishExact": "1599",
+    "bookTitle": "George-a-Greene, the Pinner of Wakefield",
+    "bookInternalId": "@000893",
+    "sql": 1663
+  },
+  "ww_9fe79a4efde5aec5": {
+    "performanceExact": "1589",
+    "publishExact": "1594",
+    "bookTitle": "Friar Bacon and Friar Bungay",
+    "bookInternalId": "@000822",
+    "sql": 1666
   }
 }

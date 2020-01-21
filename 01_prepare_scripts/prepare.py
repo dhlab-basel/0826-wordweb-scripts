@@ -147,6 +147,13 @@ def update_author(auth_id, auth_int_id, lex_id):
         authors[auth_id]["lexiaAsPerson"] = lex_id
 
 
+def update_actor(act_id, book_id):
+    if act_id not in authors:
+        create_author(act_id)
+
+    authors[act_id]["personPerformedIn"] = book_id
+
+
 def create_book(b_id, data_row, pub_info, pub_or_info, dates):
     book = {
         "bookInternalId": allBooks[b_id]["bookInternalId"],
@@ -554,7 +561,8 @@ def start():
                         for lex_name in lex_names:
                             le = lex.info(lex_name, line, csv_file)
 
-                            # Create a key which has the following format{firstName lastName}
+                            # Creates a key which has the following format{title internalID}. {internalID title} will cause error later because
+                            # it already exists
                             unique_key = "{} {}".format(le["lexiaTitle"], le["lexiaInternalId"])
 
                             lexia_id = id.generate(unique_key)
@@ -591,7 +599,7 @@ def start():
 
                                 if type is "venue":
                                     unique_key = "{} {}".format(comp_ven_data["venueInternalId"],
-                                                                comp_ven_data["venueTitle"])
+                                                                comp_ven_data["hasVenuePlace"])
 
                                     venue_id = id.generate(unique_key)
 
@@ -618,6 +626,20 @@ def start():
 
                                 else:
                                     print("FAIL Venue or Company", type, line, csv_file)
+
+                        # --------------- ACTORS
+                        if row[14]:
+                            actors = row[14].split(" / ")
+
+                            for actor in actors:
+
+                                # Generates author id
+                                actor_id = id.generate(actor)
+
+                                # Checks if author_id is valid
+                                if actor_id in allAuthors:
+                                    update_actor(actor_id, book_id)
+
                     line += 1
 
         except Exception as err:
@@ -625,7 +647,7 @@ def start():
             raise SystemExit(0)
 
     # ------------------------------------------
-    # Add non-authors which does not have entries
+    # Add non-authors which do not have entries
     try:
         with open(non_authors) as a:
 
@@ -664,7 +686,7 @@ def start():
         raise SystemExit(0)
 
     # ------------------------------------------
-    # Add non-venues which does not have entries
+    # Add non-venues which do not have entries
     try:
         with open(non_venues) as v:
 
@@ -685,7 +707,7 @@ def start():
 
                         if type is "venue":
                             unique_key = "{} {}".format(ven_data["venueInternalId"],
-                                                        ven_data["venueTitle"])
+                                                        ven_data["hasVenuePlace"])
 
                             venue_id = id.generate(unique_key)
 

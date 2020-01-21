@@ -9,13 +9,13 @@ def info(text, line, csv_file):
     data = {}
     data_type = ""
 
-    venue_info = re.search("^(#008\d{3})\s(.*)", text)
+    venue_info = re.search("^(#008\d{3})\s(.*)_(.*)", text)
     company_info = re.search("^(#009\d{3})\s(.*)", text)
 
     if venue_info:
         data = {
             "venueInternalId": venue_info.group(1),
-            "venueTitle": venue_info.group(2)
+            "hasVenuePlace": venue_info.group(3)
         }
         data_type = "venue"
     elif company_info:
