@@ -3,33 +3,31 @@ import re
 
 formClass_structure = {
     "Wo": {
-        "value": "Wörtlich",
-        "child": {
-            "Mo": "word",
-            "Ph": "Phrase (two words to two lines)",
-            "Pa": "Passage (longer)"
-        }
-    },
-    "Ve": {
         "value": "Verbal",
         "child": {
-            "Kw": "Keywords",
+            "Mo": "Word",
+            "To": "Two-word item",
+            "Ph": "Phrase",
+            "Pa": "Passage",
+            "Pu": "Pun",
             "Sn": "Snowclone",
-            "Sp": "Setpiece (complete text)"
+            "Kw": "Keywords",
+            "Sp": "Setpiece"
         }
     },
     "Na": {
         "value": "Name",
         "child": {
             "Ma": "Motif with name",
-            "Hu": "Real person",
-            "Ca": "Charactername",
+            "Hu": "Name of real person",
+            "Ep": "Epithet for real person",
+            "Ca": "Name of fictional character",
             "Vn": "Venue or place",
-            "Bo": "Booktitle"
+            "Bo": "Book title"
         }
     },
     "Su": {
-        "value": "Summarised",
+        "value": "Paraphrased",
         "child": {
             "Id": "Idea",
             "Me": "Plot element",
@@ -44,7 +42,9 @@ formClass_structure = {
             "Ti": "Tiger cluster",
             "Do": "Dog cluster",
             "Pi": "Pillow cluster",
-            "Bt": "Blot cluster"
+            "Bt": "Blot cluster",
+            "Ki": "Kite cluster",
+            "Wa": "Wax cluster"
         }
     }
 }
@@ -63,10 +63,27 @@ images_structure = {
     "Rea": {
         "value": "Daily reality",
         "child": {
-            "Cur": "Current events",
             "Foo": "Food",
             "Clo": "clothes, hair, cosmetics",
             "Med": "medicine"
+        }
+    },
+    "Gen": {
+        "value": "Gender",
+        "child": {
+            "Wom": "Women",
+            "Men": "Men",
+            "Mar": "Marriage"
+        }
+    },
+    "New": {
+        "value": "News",
+        "child": {
+            "Cur": "Other Current events",
+            "Per": "Persons",
+            "Ven": "Venues",
+            "Com": "companies",
+            "Wot": "War of the Theatres"
         }
     },
     "Cul": {
@@ -74,8 +91,10 @@ images_structure = {
         "child": {
             "War": "war, combat",
             "Cou": "Court, monarchy",
-            "Mus": "Music, dance song",
-            "Rel": "religion"
+            "Mus": "Music, dance, song",
+            "Rel": "religion",
+            "The": "Theatre",
+            "Edu": "education"
         }
     },
     "Abs": {
@@ -90,7 +109,6 @@ images_structure = {
 
 
 def info(text, line, csv_file):
-
     lexia = {}
 
     # lexia_info = re.search("^(\w\w)(\w\w)((#|@)\d{6})\s(.*)", text)

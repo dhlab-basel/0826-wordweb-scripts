@@ -89,9 +89,6 @@ def prepare_csv():
                         sec_book["pubInfo"] = s["pubInfo"]
                         sec_book["hasLanguage"] = row[9]
 
-                        if "letter" in s:
-                            sec_book["letter"] = s["letter"]
-
                         if row[5] and row[6]:
                             sec_book["createdDate"] = "GREGORIAN:{}:{}".format(row[5], row[6])
                             sec_book["publishDate"] = "GREGORIAN:{}:{}".format(row[5], row[6])

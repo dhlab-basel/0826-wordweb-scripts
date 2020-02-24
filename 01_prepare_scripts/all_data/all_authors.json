@@ -2,6 +2,8 @@
   "ww_bc5416a73ab4f15d": {
     "firstName": "_",
     "lastName": "0_",
+    "description": "_",
+    "hasGender": "male",
     "sql": 3827
   },
   "ww_212c78497ddc32c5": {
@@ -28,6 +30,8 @@
   "ww_3cc4a40573cfe358": {
     "firstName": "tbe (male)",
     "lastName": "0_Author",
+    "description": "_",
+    "hasGender": "male",
     "sql": 2668
   },
   "ww_aced097ce058e38c": {
@@ -756,6 +760,13 @@
     "hasGender": "male",
     "sql": 678
   },
+  "ww_62b18563817a4cb1": {
+    "firstName": "Marcus",
+    "lastName": "Antonius",
+    "description": "Roman general and politician 83 BC-30 BC",
+    "hasGender": "male",
+    "sql": 4520
+  },
   "ww_b37efe7512527ad1": {
     "firstName": "George",
     "lastName": "Aperghis",
@@ -796,6 +807,15 @@
     "description": "English dramatist",
     "hasGender": "male",
     "sql": 1028
+  },
+  "ww_c4c4de1c6f652d37": {
+    "firstName": "Pietro",
+    "lastName": "Aretino",
+    "birthExact": "1492",
+    "deathExact": "1556",
+    "description": "Italian poet and dramatist",
+    "hasGender": "male",
+    "sql": 4515
   },
   "ww_6a9286c3b303477d": {
     "firstName": "_",
@@ -862,6 +882,15 @@
     "description": "U.S. novelist , real name Charlotte Armstrong Lewi",
     "hasGender": "male",
     "sql": 586
+  },
+  "ww_0b3f42903f22bd0c": {
+    "firstName": "Edward Allworthy",
+    "lastName": "Armstrong",
+    "birthExact": "1901",
+    "deathExact": "1979",
+    "description": "Irish scholar",
+    "hasGender": "male",
+    "sql": 4536
   },
   "ww_ce7650ae3b9b5eff": {
     "firstName": "Samuel",
@@ -1346,6 +1375,14 @@
     "hasGender": "male",
     "sql": 3241
   },
+  "ww_40612cea4f2781e7": {
+    "firstName": "H. Kendra",
+    "lastName": "Baker",
+    "floruitExact": "1938",
+    "description": "British (?) scholar",
+    "hasGender": "male",
+    "sql": 4526
+  },
   "ww_84c2176a389d8e94": {
     "firstName": "George Melville",
     "lastName": "Baker",
@@ -1739,8 +1776,8 @@
     "hasGender": "male",
     "sql": 287
   },
-  "ww_9b3aca5e1fbd9b33": {
-    "firstName": "Lording or Lodovic",
+  "ww_55d5aa9e5ddf8bb5": {
+    "firstName": "Lording",
     "lastName": "Barry",
     "birthExact": "1580",
     "deathExact": "1629",
@@ -1833,6 +1870,16 @@
     "description": "English anthologist",
     "hasGender": "male",
     "sql": 1343
+  },
+  "ww_431887ec14c8c55c": {
+    "firstName": "Thomas",
+    "lastName": "Bastard",
+    "birthSpanStart": "1565",
+    "birthSpanEnd": "1566",
+    "deathExact": "1618",
+    "description": "English clergyman and epigrammatist",
+    "hasGender": "male",
+    "sql": 4517
   },
   "ww_360a194801e33346": {
     "firstName": "Sir Andrew Jonathan",
@@ -3096,8 +3143,8 @@
     "hasGender": "male",
     "sql": 2753
   },
-  "ww_29ea702f67fa9c9d": {
-    "firstName": "R. W.",
+  "ww_5971092ea0d9522e": {
+    "firstName": "Warwick",
     "lastName": "Bond",
     "floruitExact": "1092",
     "description": "English (?) scholar",
@@ -3463,6 +3510,14 @@
     "description": "Separatist settler and first Governor of Maryland",
     "hasGender": "male",
     "sql": 2953
+  },
+  "ww_47820cd2dd54c97e": {
+    "firstName": "Jesse Franklin",
+    "lastName": "Bradley",
+    "floruitExact": "1922",
+    "description": "U.S. scholar",
+    "hasGender": "male",
+    "sql": 4527
   },
   "ww_3775f50a3fccb8f0": {
     "firstName": "Kim",
@@ -5431,6 +5486,15 @@
     "hasGender": "male",
     "sql": 1156
   },
+  "ww_1ea74cc5c803af41": {
+    "firstName": "Baldassare",
+    "lastName": "Castiglione",
+    "birthExact": "1478",
+    "deathExact": "1529",
+    "description": "Italian diplomat and writer",
+    "hasGender": "male",
+    "sql": 4533
+  },
   "ww_2a23e283e77de37b": {
     "firstName": "Egerton",
     "lastName": "Castle",
@@ -5989,6 +6053,13 @@
     "hasGender": "male",
     "sql": 4049
   },
+  "ww_a7fdd166085f8567": {
+    "firstName": "Janet",
+    "lastName": "Clare",
+    "description": "English academic",
+    "hasGender": "male",
+    "sql": 4531
+  },
   "ww_e4ecce9ad1ac3368": {
     "firstName": "John",
     "lastName": "Clare",
@@ -6083,6 +6154,13 @@
     "description": "English actor, screenwriter and producer",
     "hasGender": "male",
     "sql": 671
+  },
+  "ww_bcac6380b843ac69": {
+    "firstName": "_",
+    "lastName": "Cleopatra",
+    "description": "Egyptian queen 69 BC-30 BC, full title Cleopatra VII Philopator",
+    "hasGender": "male",
+    "sql": 4522
   },
   "ww_f71607e98274f55d": {
     "firstName": "Francesco",
@@ -6605,6 +6683,14 @@
     "description": "Irish under-secretary for Ireland",
     "hasGender": "male",
     "sql": 1872
+  },
+  "ww_410b3b18358b9b9b": {
+    "firstName": "Alexander",
+    "lastName": "Cooke",
+    "deathExact": "1614",
+    "description": "English actor",
+    "hasGender": "male",
+    "sql": 4537
   },
   "ww_a4e45e7b381d6e89": {
     "firstName": "John",
@@ -8986,6 +9072,15 @@
     "hasGender": "male",
     "sql": 1475
   },
+  "ww_bbc0cf35a4cbd541": {
+    "firstName": "William",
+    "lastName": "Ecclestone",
+    "floruitSpanStart": "1610",
+    "floruitSpanEnd": "1623",
+    "description": "English actor",
+    "hasGender": "male",
+    "sql": 4544
+  },
   "ww_fc1cf718145f5604": {
     "firstName": "Umberto",
     "lastName": "Eco",
@@ -9398,6 +9493,13 @@
     "description": "Australian-born English novelist and journalist",
     "hasGender": "male",
     "sql": 2362
+  },
+  "ww_1b51bbb0efa08725": {
+    "firstName": "_",
+    "lastName": "Euclid",
+    "description": "Greek mathematician fl. 300 BC",
+    "hasGender": "male",
+    "sql": 4545
   },
   "ww_0b38149e6861ff15": {
     "firstName": "Jeffrey",
@@ -12222,6 +12324,14 @@
     "hasGender": "male",
     "sql": 2704
   },
+  "ww_2fa7511f03fd8be0": {
+    "firstName": "Everard",
+    "lastName": "Guilpin",
+    "floruitExact": "1598",
+    "description": "English satirist",
+    "hasGender": "male",
+    "sql": 4518
+  },
   "ww_8204e596260f9367": {
     "firstName": "Sir W.",
     "lastName": "Gull",
@@ -13435,6 +13545,15 @@
     "hasGender": "male",
     "sql": 3069
   },
+  "ww_432e3b14d37e1fbf": {
+    "firstName": "John",
+    "lastName": "Heminges",
+    "birthExact": "1566",
+    "deathExact": "1630",
+    "description": "English actor",
+    "hasGender": "male",
+    "sql": 4541
+  },
   "ww_e97f8919dc99b209": {
     "firstName": "William",
     "lastName": "Hemings",
@@ -13923,9 +14042,18 @@
     "hasGender": "male",
     "sql": 2413
   },
-  "ww_5333381fc85fb98f": {
+  "ww_e0e03b9e0321b98f": {
+    "firstName": "Sir Thomas",
+    "lastName": "Hoby",
+    "birthExact": "1530",
+    "deathExact": "1566",
+    "description": "English diplomat and translator",
+    "hasGender": "male",
+    "sql": 4532
+  },
+  "ww_ce64346791e8661d": {
     "firstName": "Karl",
-    "lastName": "Hoche ",
+    "lastName": "Hoche",
     "birthExact": "1936",
     "description": "German dramatist and actor",
     "hasGender": "male",
@@ -13996,6 +14124,15 @@
     "description": "Swiss journalist",
     "hasGender": "male",
     "sql": 577
+  },
+  "ww_d73a9debba845b0f": {
+    "firstName": "Hugo von",
+    "lastName": "Hofmannsthal",
+    "birthExact": "1874",
+    "deathExact": "1929",
+    "description": "Austrian poet and essayist",
+    "hasGender": "male",
+    "sql": 4529
   },
   "ww_0fa0c612568abff4": {
     "firstName": "Douglas Richard",
@@ -15643,6 +15780,15 @@
     "hasGender": "male",
     "sql": 4007
   },
+  "ww_66dcdecd1b5852ed": {
+    "firstName": "Emrys",
+    "lastName": "Jones",
+    "birthExact": "1931",
+    "deathExact": "2012",
+    "description": "British scholar",
+    "hasGender": "male",
+    "sql": 4524
+  },
   "ww_3c4e4c828ea92e52": {
     "firstName": "Joseph Stevens",
     "lastName": "Jones",
@@ -15745,6 +15891,15 @@
     "description": "U.S. novelist",
     "hasGender": "male",
     "sql": 1278
+  },
+  "ww_2668afbb3aa7dfb1": {
+    "firstName": "Alexander Corbin",
+    "lastName": "Judson",
+    "birthExact": "1883",
+    "deathExact": "1973",
+    "description": "U.S. scholar",
+    "hasGender": "male",
+    "sql": 4512
   },
   "ww_5c7d3fc631db2ef4": {
     "firstName": "H.",
@@ -16443,6 +16598,14 @@
     "description": "English (?) writer",
     "hasGender": "male",
     "sql": 1668
+  },
+  "ww_26fb59ebc4d99294": {
+    "firstName": "Arthur H.",
+    "lastName": "King",
+    "floruitExact": "1941",
+    "description": "English (?) scholar",
+    "hasGender": "male",
+    "sql": 4530
   },
   "ww_2eb1934555aef857": {
     "firstName": "Henry",
@@ -17941,6 +18104,14 @@
     "hasGender": "male",
     "sql": 2274
   },
+  "ww_53076c99a3731259": {
+    "firstName": "Richard",
+    "lastName": "Lichfield",
+    "deathExact": "1630",
+    "description": "English barber surgeon and satirist",
+    "hasGender": "male",
+    "sql": 4516
+  },
   "ww_a923ba2f41dde027": {
     "firstName": "Georg Christoph",
     "lastName": "Lichtenberg",
@@ -18447,6 +18618,15 @@
     "hasGender": "male",
     "sql": 239
   },
+  "ww_e04e16bd7cb52044": {
+    "firstName": "John",
+    "lastName": "Lowin",
+    "birthExact": "1576",
+    "deathExact": "1653",
+    "description": "English actor",
+    "hasGender": "male",
+    "sql": 4538
+  },
   "ww_a5703a1278a3efba": {
     "firstName": "Robert",
     "lastName": "Lowth",
@@ -18465,9 +18645,9 @@
     "hasGender": "male",
     "sql": 141
   },
-  "ww_b8fcc2fc9e1b0feb": {
+  "ww_0ca6a30387f03401": {
     "firstName": "Marcus Annaeus",
-    "lastName": "Lucanus ",
+    "lastName": "Lucanus",
     "description": "Roman poet 39-65",
     "hasGender": "male",
     "sql": 4343
@@ -18570,7 +18750,7 @@
     "firstName": "John",
     "lastName": "M'Farlan",
     "floruitExact": "1782",
-    "description": "British",
+    "description": "British journalist",
     "hasGender": "male",
     "sql": 3322
   },
@@ -19054,6 +19234,14 @@
     "hasGender": "male",
     "sql": 1342
   },
+  "ww_f8cbd52e681000c6": {
+    "firstName": "Herbert S.",
+    "lastName": "Mallory",
+    "floruitExact": "1905",
+    "description": "U.S. (?) scholar",
+    "hasGender": "male",
+    "sql": 4511
+  },
   "ww_e212a52f4b94ffc2": {
     "firstName": "Edmond",
     "lastName": "Malone",
@@ -19261,6 +19449,15 @@
     "description": "U.S. dramatist",
     "hasGender": "male",
     "sql": 3896
+  },
+  "ww_94d6a078036e4a49": {
+    "firstName": "Martin",
+    "lastName": "Marprelate",
+    "floruitSpanStart": "1588",
+    "floruitSpanEnd": "1599",
+    "description": "English Puritan , real name unknown",
+    "hasGender": "male",
+    "sql": 4514
   },
   "ww_d8407e945c0bd6e0": {
     "firstName": "Frederick",
@@ -22316,6 +22513,21 @@
     "hasGender": "male",
     "sql": 810
   },
+  "ww_8099c312d6f14f7c": {
+    "firstName": "William",
+    "lastName": "Ostler",
+    "deathExact": "1614",
+    "description": "English actor",
+    "hasGender": "male",
+    "sql": 4539
+  },
+  "ww_adcda6b7d080a5f5": {
+    "firstName": "Helen",
+    "lastName": "Ostovich",
+    "description": "Canadian academic",
+    "hasGender": "male",
+    "sql": 4535
+  },
   "ww_db576940fd676e08": {
     "firstName": "Gerd",
     "lastName": "Oswald",
@@ -23030,6 +23242,13 @@
     "hasGender": "male",
     "sql": 3087
   },
+  "ww_fd2fc04596164a06": {
+    "firstName": "Gaius",
+    "lastName": "Petronius Arbiter",
+    "description": "Roman satirist 27-66",
+    "hasGender": "male",
+    "sql": 4525
+  },
   "ww_8c6bc1f542497a68": {
     "firstName": "Yevgeny",
     "lastName": "Petrov",
@@ -23159,6 +23378,15 @@
     "description": "English actor",
     "hasGender": "male",
     "sql": 4495
+  },
+  "ww_11f13b67d4bec08d": {
+    "firstName": "R.",
+    "lastName": "Phillips",
+    "floruitSpanStart": "1683",
+    "floruitSpanEnd": "1685",
+    "description": "English poet",
+    "hasGender": "male",
+    "sql": 4519
   },
   "ww_62468b72adc46413": {
     "firstName": "Watts",
@@ -23393,6 +23621,13 @@
     "description": "English writer and translator 1760\u20131818",
     "hasGender": "male",
     "sql": 4000
+  },
+  "ww_051e0403c3788169": {
+    "firstName": "_",
+    "lastName": "Plutarch",
+    "description": "Greek biographer 46-120",
+    "hasGender": "male",
+    "sql": 4521
   },
   "ww_c2a432cbbfc7a83f": {
     "firstName": "Hyam",
@@ -23685,6 +23920,13 @@
     "description": "U.S. romance novelist",
     "hasGender": "male",
     "sql": 912
+  },
+  "ww_67028e31e9e96739": {
+    "firstName": "Thomas",
+    "lastName": "Preston",
+    "description": "English dramatist 1537\u20131598",
+    "hasGender": "male",
+    "sql": 4534
   },
   "ww_8663db79f76f088b": {
     "firstName": "Abb\u00e9",
@@ -24864,6 +25106,14 @@
     "hasGender": "male",
     "sql": 3492
   },
+  "ww_723943f0c5dcde08": {
+    "firstName": "Richard",
+    "lastName": "Robinson",
+    "deathExact": "1648",
+    "description": "English actor",
+    "hasGender": "male",
+    "sql": 4540
+  },
   "ww_1ddf2ac2d19817f0": {
     "firstName": "Bruce",
     "lastName": "Robinson",
@@ -25834,9 +26084,9 @@
     "hasGender": "male",
     "sql": 2554
   },
-  "ww_631193418089c664": {
+  "ww_a3b3b053205764b1": {
     "firstName": "Hans",
-    "lastName": "Schere",
+    "lastName": "Scherer",
     "floruitExact": "1901",
     "description": "German (?) scholar",
     "hasGender": "male",
@@ -27627,6 +27877,14 @@
     "hasGender": "male",
     "sql": 3902
   },
+  "ww_b5b107a9178a8d5a": {
+    "firstName": "Walther",
+    "lastName": "Sperrhake",
+    "floruitExact": "1905",
+    "description": "German scholar",
+    "hasGender": "male",
+    "sql": 4513
+  },
   "ww_4cacdbe43968dace": {
     "firstName": "Bob",
     "lastName": "Spiers",
@@ -28564,6 +28822,13 @@
     "description": "English translator",
     "hasGender": "male",
     "sql": 1241
+  },
+  "ww_c57bcc4a791a742e": {
+    "firstName": "Holger Schott",
+    "lastName": "Syme",
+    "description": "Canadian (?) scholar",
+    "hasGender": "male",
+    "sql": 4528
   },
   "ww_5966cb31fb9695f3": {
     "firstName": "Caroline",
@@ -29837,6 +30102,14 @@
     "description": "British (?) writer of historical romances",
     "hasGender": "male",
     "sql": 1961
+  },
+  "ww_6e23936f08509ef5": {
+    "firstName": "John",
+    "lastName": "Underwood",
+    "deathExact": "1624",
+    "description": "English actor",
+    "hasGender": "male",
+    "sql": 4542
   },
   "ww_216abac7f23956b2": {
     "firstName": "John",
@@ -32120,6 +32393,14 @@
     "description": "U.S. novelist and short story writer",
     "hasGender": "male",
     "sql": 2019
+  },
+  "ww_ec4b473a59bd7928": {
+    "firstName": "E. M.",
+    "lastName": "Yearling",
+    "floruitExact": "1986",
+    "description": "British (?) scholar",
+    "hasGender": "male",
+    "sql": 4510
   },
   "ww_7559d2ff7916e736": {
     "firstName": "William Butler",
