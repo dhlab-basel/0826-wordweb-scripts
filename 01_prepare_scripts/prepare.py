@@ -847,16 +847,13 @@ def start():
     #         print(books[b]["hasGenre"], books[b]["bookTitle"])
 
     # Prints all the found genres
-    allGenres = []
-
-    for g in books:
-        temp = set(allGenres)
-        for b in books[g]["hasGenre"]:
-            temp.add(b)
-        allGenres = list(temp)
-
-    print(allGenres)
-
+    # allGenres = []
+    #
+    # for g in books:
+    #     temp = set(allGenres)
+    #     for b in books[g]["hasGenre"]:
+    #         temp.add(b)
+    #     allGenres = list(temp)
 
 
     # ------------------------------------------
