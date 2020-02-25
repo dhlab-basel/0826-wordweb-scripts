@@ -114,7 +114,7 @@ def create_author(auth_id):
         "firstName": allAuthors[auth_id]["firstName"],
         "lastName": allAuthors[auth_id]["lastName"],
         "hasGender": allAuthors[auth_id]["hasGender"],
-        "personInternalId": person_id_start
+        "personInternalId": "#00" + str(person_id_start)
     }
 
     if "description" in allAuthors[auth_id]:
@@ -373,7 +373,7 @@ def create_contributor(co_id):
         "firstName": allContributors[co_id]["firstName"],
         "lastName": allContributors[co_id]["lastName"],
         "email": allContributors[co_id]["email"],
-        "personInternalId": person_id_start
+        "personInternalId":  "#00" + str(person_id_start)
     }
 
     contributors[co_id] = contributor
@@ -623,6 +623,8 @@ def start():
 
                             lexiaAsAuthor = id.generate(le["lexiaTitle"])
                             if lexiaAsAuthor in authors:
+                                # Internal ID of author must be overwritten because the initial internal ID comes form incrementation and in this case
+                                # the ID comes from the user
                                 update_author(lexiaAsAuthor, le["lexiaInternalId"], lexia_id)
 
                             key = "{} {}".format(le["lexiaInternalId"], le["lexiaTitle"])
