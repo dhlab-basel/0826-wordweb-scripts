@@ -14,14 +14,14 @@ def info(text, line, csv_file):
 
     if venue_info:
         data = {
-            "venueInternalId": venue_info.group(1),
-            "hasVenuePlace": venue_info.group(3)
+            "hasVenueInternalId": venue_info.group(1),
+            "hasPlaceVenue": venue_info.group(3)
         }
         data_type = "venue"
     elif company_info:
         data = {
-            "companyInternalId": company_info.group(1),
-            "companyTitle": company_info.group(2)
+            "hasCompanyInternalId": company_info.group(1),
+            "hasCompanyTitle": company_info.group(2)
         }
         data_type = "company"
     else:

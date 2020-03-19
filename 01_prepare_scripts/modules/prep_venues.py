@@ -34,10 +34,10 @@ def prepare():
 
                 if venues:
                     venue["venueInternalId"] = venues.group(1)
-                    venue["hasVenuePlace"] = venues.group(3)
+                    venue["hasPlaceVenue"] = venues.group(3)
 
                     # Create a key which has the following format{venueInternalId venueTitle}
-                    unique_key = "{} {}".format(venue["venueInternalId"], venue["hasVenuePlace"])
+                    unique_key = "{} {}".format(venue["venueInternalId"], venue["hasPlaceVenue"])
 
                     # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
                     venue_id = id.generate(unique_key)

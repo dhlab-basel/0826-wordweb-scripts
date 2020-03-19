@@ -3,14 +3,14 @@
     "firstName": "Marcus Fabius",
     "lastName": "Quintilianus",
     "hasGender": "male",
-    "personInternalId": "#007101",
+    "hasPersonInternalId": "#007101",
     "description": "Roman orator and rhetorician 35\u2013100"
   },
   "ww_00a3ea8b5afeaa37": {
     "firstName": "Thomas Whitfield",
     "lastName": "Baldwin",
     "hasGender": "male",
-    "personInternalId": "#007103",
+    "hasPersonInternalId": "#007103",
     "description": "U.S. scholar",
     "birthDate": "GREGORIAN:1890",
     "deathDate": "GREGORIAN:1984"
@@ -19,7 +19,7 @@
     "firstName": "Balz",
     "lastName": "Engler",
     "hasGender": "male",
-    "personInternalId": "#007104",
+    "hasPersonInternalId": "#007104",
     "description": "Swiss academic",
     "birthDate": "GREGORIAN:1944"
   },
@@ -27,7 +27,7 @@
     "firstName": "Regula",
     "lastName": "Hohl Trillini",
     "hasGender": "female",
-    "personInternalId": "#007105",
+    "hasPersonInternalId": "#007105",
     "description": "*Swiss scholar",
     "birthDate": "GREGORIAN:1964"
   },
@@ -35,7 +35,7 @@
     "firstName": "Sixta",
     "lastName": "Qua\u00dfdorf",
     "hasGender": "female",
-    "personInternalId": "#007106",
+    "hasPersonInternalId": "#007106",
     "description": "*German scholar",
     "birthDate": "GREGORIAN:1964"
   },
@@ -43,14 +43,14 @@
     "firstName": "_",
     "lastName": "0_Anon",
     "hasGender": "male",
-    "personInternalId": "#007107",
+    "hasPersonInternalId": "#007107",
     "description": "_"
   },
   "ww_b417c05f2f7d59f9": {
     "firstName": "Naseeb Azeez",
     "lastName": "Shaheen",
     "hasGender": "male",
-    "personInternalId": "#007108",
+    "hasPersonInternalId": "#007108",
     "description": "U.S. scholar",
     "birthDate": "GREGORIAN:1931",
     "deathDate": "GREGORIAN:2009"
@@ -59,7 +59,7 @@
     "firstName": "Barbara",
     "lastName": "Mowat",
     "hasGender": "female",
-    "personInternalId": "#007109",
+    "hasPersonInternalId": "#007109",
     "description": "*U.S. academic",
     "birthDate": "GREGORIAN:1934",
     "deathDate": "GREGORIAN:2017"
@@ -68,7 +68,7 @@
     "firstName": "Thomas",
     "lastName": "Usk",
     "hasGender": "male",
-    "personInternalId": "#007110",
+    "hasPersonInternalId": "#007110",
     "description": "English writer",
     "deathDate": "GREGORIAN:1388"
   },
@@ -76,7 +76,7 @@
     "firstName": "Arnold",
     "lastName": "Davenport",
     "hasGender": "male",
-    "personInternalId": "#007111",
+    "hasPersonInternalId": "#007111",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1953"
   },
@@ -84,14 +84,14 @@
     "firstName": "Sayre",
     "lastName": "Greenfield",
     "hasGender": "male",
-    "personInternalId": "#007112",
+    "hasPersonInternalId": "#007112",
     "description": "U.S. academic"
   },
   "ww_830c5cd6a3a44ca4": {
     "firstName": "Geoffrey",
     "lastName": "Chaucer",
     "hasGender": "male",
-    "personInternalId": "#007001",
+    "hasPersonInternalId": "#007001",
     "description": "English poet",
     "birthDate": "GREGORIAN:1343",
     "deathDate": "GREGORIAN:1400",
@@ -101,7 +101,7 @@
     "firstName": "Henry",
     "lastName": "Parker",
     "hasGender": "male",
-    "personInternalId": "#007114",
+    "hasPersonInternalId": "#007114",
     "description": "English priest",
     "deathDate": "GREGORIAN:1470"
   },
@@ -109,7 +109,7 @@
     "firstName": "Baptista",
     "lastName": "Mantuanus",
     "hasGender": "male",
-    "personInternalId": "#007016",
+    "hasPersonInternalId": "#007016",
     "description": "Italian poet and humanist",
     "birthDate": "GREGORIAN:1447",
     "deathDate": "GREGORIAN:1516",
@@ -119,7 +119,7 @@
     "firstName": "Thomas, Lord",
     "lastName": "Vaux",
     "hasGender": "male",
-    "personInternalId": "#007116",
+    "hasPersonInternalId": "#007116",
     "description": "English poet",
     "birthDate": "GREGORIAN:1510",
     "deathDate": "GREGORIAN:1556"
@@ -128,7 +128,7 @@
     "firstName": "Graham",
     "lastName": "Tulloch",
     "hasGender": "male",
-    "personInternalId": "#007118",
+    "hasPersonInternalId": "#007118",
     "description": "Australian academic",
     "activeDate": "GREGORIAN:1969"
   },
@@ -136,14 +136,14 @@
     "firstName": "G. R.",
     "lastName": "Hibbard",
     "hasGender": "male",
-    "personInternalId": "#007119",
+    "hasPersonInternalId": "#007119",
     "description": "Canadian academic"
   },
   "ww_6c137d4b04e9cbc4": {
     "firstName": "Heinrich R. D.",
     "lastName": "Anders",
     "hasGender": "male",
-    "personInternalId": "#007120",
+    "hasPersonInternalId": "#007120",
     "description": "German scholar",
     "activeDate": "GREGORIAN:1904"
   },
@@ -151,7 +151,7 @@
     "firstName": "George",
     "lastName": "Kitchin",
     "hasGender": "male",
-    "personInternalId": "#007121",
+    "hasPersonInternalId": "#007121",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1931"
   },
@@ -159,7 +159,7 @@
     "firstName": "William",
     "lastName": "Painter",
     "hasGender": "male",
-    "personInternalId": "#007122",
+    "hasPersonInternalId": "#007122",
     "description": "English writer",
     "birthDate": "GREGORIAN:1538:1542",
     "deathDate": "GREGORIAN:1594"
@@ -168,7 +168,7 @@
     "firstName": "William",
     "lastName": "Baldwin",
     "hasGender": "male",
-    "personInternalId": "#007123",
+    "hasPersonInternalId": "#007123",
     "description": "English anthologist",
     "birthDate": "GREGORIAN:1518",
     "deathDate": "GREGORIAN:1562:1564"
@@ -177,7 +177,7 @@
     "firstName": "Sir Henry",
     "lastName": "Billingsley",
     "hasGender": "male",
-    "personInternalId": "#007124",
+    "hasPersonInternalId": "#007124",
     "description": "English merchant and translator",
     "deathDate": "GREGORIAN:1606"
   },
@@ -185,7 +185,7 @@
     "firstName": "Laurence",
     "lastName": "Twyne",
     "hasGender": "male",
-    "personInternalId": "#007125",
+    "hasPersonInternalId": "#007125",
     "description": "English translator",
     "activeDate": "GREGORIAN:1594"
   },
@@ -193,7 +193,7 @@
     "firstName": "Thomas",
     "lastName": "Twyne",
     "hasGender": "male",
-    "personInternalId": "#007126",
+    "hasPersonInternalId": "#007126",
     "description": "English translator",
     "birthDate": "GREGORIAN:1543",
     "deathDate": "GREGORIAN:1613"
@@ -202,7 +202,7 @@
     "firstName": "John",
     "lastName": "Jewel",
     "hasGender": "male",
-    "personInternalId": "#007128",
+    "hasPersonInternalId": "#007128",
     "description": "English priest",
     "birthDate": "GREGORIAN:1522",
     "deathDate": "GREGORIAN:1571"
@@ -211,7 +211,7 @@
     "firstName": "Lawrence",
     "lastName": "Rosinger",
     "hasGender": "male",
-    "personInternalId": "#007129",
+    "hasPersonInternalId": "#007129",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1975:1987"
   },
@@ -219,7 +219,7 @@
     "firstName": "John",
     "lastName": "Whitgift",
     "hasGender": "male",
-    "personInternalId": "#007130",
+    "hasPersonInternalId": "#007130",
     "description": "Archbishop of Canterbury",
     "birthDate": "GREGORIAN:1530:1533",
     "deathDate": "GREGORIAN:1604"
@@ -228,7 +228,7 @@
     "firstName": "Ralph",
     "lastName": "Lever",
     "hasGender": "male",
-    "personInternalId": "#007131",
+    "hasPersonInternalId": "#007131",
     "description": "English rhetorician",
     "deathDate": "GREGORIAN:1584"
   },
@@ -236,7 +236,7 @@
     "firstName": "Peter",
     "lastName": "Stallybrass",
     "hasGender": "male",
-    "personInternalId": "#007132",
+    "hasPersonInternalId": "#007132",
     "description": "British-born U.S. academic",
     "birthDate": "GREGORIAN:1950:1959"
   },
@@ -244,7 +244,7 @@
     "firstName": "Thomas",
     "lastName": "Rogers",
     "hasGender": "male",
-    "personInternalId": "#007133",
+    "hasPersonInternalId": "#007133",
     "description": "English  theologian and translator",
     "deathDate": "GREGORIAN:1616"
   },
@@ -252,7 +252,7 @@
     "firstName": "Thomas",
     "lastName": "Proctor",
     "hasGender": "male",
-    "personInternalId": "#007134",
+    "hasPersonInternalId": "#007134",
     "description": "English poet",
     "activeDate": "GREGORIAN:1578"
   },
@@ -260,7 +260,7 @@
     "firstName": "Henry",
     "lastName": "Bull",
     "hasGender": "male",
-    "personInternalId": "#007135",
+    "hasPersonInternalId": "#007135",
     "description": "English theological writer",
     "deathDate": "GREGORIAN:1577"
   },
@@ -268,7 +268,7 @@
     "firstName": "Christopher",
     "lastName": "Marlowe",
     "hasGender": "male",
-    "personInternalId": "#007033",
+    "hasPersonInternalId": "#007033",
     "description": "English poet, dramatist and translator",
     "birthDate": "GREGORIAN:1564",
     "deathDate": "GREGORIAN:1593",
@@ -278,14 +278,14 @@
     "firstName": "Donna Nielsen",
     "lastName": "Murphy",
     "hasGender": "female",
-    "personInternalId": "#007138",
+    "hasPersonInternalId": "#007138",
     "description": "*U.S. academic"
   },
   "ww_7468c79b15d734b3": {
     "firstName": "George",
     "lastName": "Peele",
     "hasGender": "male",
-    "personInternalId": "#007139",
+    "hasPersonInternalId": "#007139",
     "description": "English translator, poet and dramatist",
     "birthDate": "GREGORIAN:1556",
     "deathDate": "GREGORIAN:1596"
@@ -294,7 +294,7 @@
     "firstName": "Charles",
     "lastName": "Edelman",
     "hasGender": "male",
-    "personInternalId": "#007140",
+    "hasPersonInternalId": "#007140",
     "description": "U.S. actor and scholar",
     "activeDate": "GREGORIAN:2008:2015"
   },
@@ -302,7 +302,7 @@
     "firstName": "Emil",
     "lastName": "Koeppel",
     "hasGender": "male",
-    "personInternalId": "#007141",
+    "hasPersonInternalId": "#007141",
     "description": "German academic",
     "birthDate": "GREGORIAN:1852",
     "deathDate": "GREGORIAN:1915"
@@ -311,7 +311,7 @@
     "firstName": "Hermann",
     "lastName": "Voigt",
     "hasGender": "male",
-    "personInternalId": "#007143",
+    "hasPersonInternalId": "#007143",
     "description": "German (?) scholar",
     "activeDate": "GREGORIAN:1908"
   },
@@ -319,7 +319,7 @@
     "firstName": "Irving",
     "lastName": "Ribner",
     "hasGender": "male",
-    "personInternalId": "#007144",
+    "hasPersonInternalId": "#007144",
     "description": "U.S. scholar",
     "birthDate": "GREGORIAN:1922",
     "deathDate": "GREGORIAN:1972"
@@ -328,7 +328,7 @@
     "firstName": "Edward",
     "lastName": "Alleyn",
     "hasGender": "male",
-    "personInternalId": "#007145",
+    "hasPersonInternalId": "#007145",
     "description": "English actor",
     "birthDate": "GREGORIAN:1566",
     "deathDate": "GREGORIAN:1626",
@@ -338,7 +338,7 @@
     "firstName": "H. B.",
     "lastName": "Charlton",
     "hasGender": "male",
-    "personInternalId": "#007146",
+    "hasPersonInternalId": "#007146",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1933"
   },
@@ -346,7 +346,7 @@
     "firstName": "R. D.",
     "lastName": "Waller",
     "hasGender": "male",
-    "personInternalId": "#007147",
+    "hasPersonInternalId": "#007147",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1933"
   },
@@ -354,7 +354,7 @@
     "firstName": "Edmund",
     "lastName": "Spenser",
     "hasGender": "male",
-    "personInternalId": "#007026",
+    "hasPersonInternalId": "#007026",
     "description": "English poet",
     "birthDate": "GREGORIAN:1552",
     "deathDate": "GREGORIAN:1599",
@@ -364,7 +364,7 @@
     "firstName": "Abbie Findlay",
     "lastName": "Potts",
     "hasGender": "female",
-    "personInternalId": "#007149",
+    "hasPersonInternalId": "#007149",
     "description": "*U.S. (?) scholar",
     "activeDate": "GREGORIAN:1923:1963"
   },
@@ -372,7 +372,7 @@
     "firstName": "William",
     "lastName": "Shakespeare",
     "hasGender": "male",
-    "personInternalId": "#007000",
+    "hasPersonInternalId": "#007000",
     "description": "English dramatist, poet and actor",
     "birthDate": "GREGORIAN:1564",
     "deathDate": "GREGORIAN:1616",
@@ -383,7 +383,7 @@
     "firstName": "Frederick James",
     "lastName": "Furnivall",
     "hasGender": "male",
-    "personInternalId": "#007151",
+    "hasPersonInternalId": "#007151",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1825",
     "deathDate": "GREGORIAN:1910"
@@ -392,7 +392,7 @@
     "firstName": "Clement Mansfield",
     "lastName": "Ingleby",
     "hasGender": "male",
-    "personInternalId": "#007152",
+    "hasPersonInternalId": "#007152",
     "description": "English academic",
     "activeDate": "GREGORIAN:1909"
   },
@@ -400,7 +400,7 @@
     "firstName": "John",
     "lastName": "Munro",
     "hasGender": "male",
-    "personInternalId": "#007153",
+    "hasPersonInternalId": "#007153",
     "description": "English academic",
     "birthDate": "GREGORIAN:1849",
     "deathDate": "GREGORIAN:1930"
@@ -409,14 +409,14 @@
     "firstName": "Lucy Toulmin",
     "lastName": "Smith",
     "hasGender": "female",
-    "personInternalId": "#007154",
+    "hasPersonInternalId": "#007154",
     "description": "*Anglo-American scholar 1838\u20131911"
   },
   "ww_d031de8fd298348b": {
     "firstName": "Colin",
     "lastName": "Burrow",
     "hasGender": "male",
-    "personInternalId": "#007155",
+    "hasPersonInternalId": "#007155",
     "description": "English academic",
     "birthDate": "GREGORIAN:1963:1965"
   },
@@ -424,7 +424,7 @@
     "firstName": "Reavley",
     "lastName": "Gair",
     "hasGender": "male",
-    "personInternalId": "#007156",
+    "hasPersonInternalId": "#007156",
     "description": "Canadian academic",
     "birthDate": "GREGORIAN:1949",
     "deathDate": "GREGORIAN:1917"
@@ -433,21 +433,21 @@
     "firstName": "Rebecca",
     "lastName": "Niles",
     "hasGender": "female",
-    "personInternalId": "#007157",
+    "hasPersonInternalId": "#007157",
     "description": "*Canadian scholar and consultant"
   },
   "ww_55f5e9f5fe14853f": {
     "firstName": "Michael",
     "lastName": "Poston",
     "hasGender": "male",
-    "personInternalId": "#007158",
+    "hasPersonInternalId": "#007158",
     "description": "U.S. academic"
   },
   "ww_c8fa0de8d0fc2fc4": {
     "firstName": "Paul",
     "lastName": "Werstine",
     "hasGender": "male",
-    "personInternalId": "#007159",
+    "hasPersonInternalId": "#007159",
     "description": "U.S.-born Canadian academic",
     "birthDate": "GREGORIAN:1950:1952"
   },
@@ -455,7 +455,7 @@
     "firstName": "Lawrence J.",
     "lastName": "Ross",
     "hasGender": "male",
-    "personInternalId": "#007160",
+    "hasPersonInternalId": "#007160",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1966"
   },
@@ -463,7 +463,7 @@
     "firstName": "Richard",
     "lastName": "Burbage",
     "hasGender": "male",
-    "personInternalId": "#007005",
+    "hasPersonInternalId": "#007005",
     "description": "English actor",
     "birthDate": "GREGORIAN:1567",
     "deathDate": "GREGORIAN:1619",
@@ -474,7 +474,7 @@
     "firstName": "Harvey",
     "lastName": "Wood",
     "hasGender": "male",
-    "personInternalId": "#007162",
+    "hasPersonInternalId": "#007162",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1934:1939"
   },
@@ -482,7 +482,7 @@
     "firstName": "John Davis Ellis",
     "lastName": "Williams",
     "hasGender": "male",
-    "personInternalId": "#007163",
+    "hasPersonInternalId": "#007163",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1905"
   },
@@ -490,7 +490,7 @@
     "firstName": "Ben",
     "lastName": "Jonson",
     "hasGender": "male",
-    "personInternalId": "#007019",
+    "hasPersonInternalId": "#007019",
     "description": "English dramatist and poet",
     "birthDate": "GREGORIAN:1573",
     "deathDate": "GREGORIAN:1637",
@@ -501,7 +501,7 @@
     "firstName": "Karl",
     "lastName": "Christ",
     "hasGender": "male",
-    "personInternalId": "#007165",
+    "hasPersonInternalId": "#007165",
     "description": "German (?) scholar",
     "activeDate": "GREGORIAN:1905"
   },
@@ -509,7 +509,7 @@
     "firstName": "H.",
     "lastName": "Jung",
     "hasGender": "male",
-    "personInternalId": "#007166",
+    "hasPersonInternalId": "#007166",
     "description": "German scholar",
     "activeDate": "GREGORIAN:1904"
   },
@@ -517,7 +517,7 @@
     "firstName": "William",
     "lastName": "Peery",
     "hasGender": "male",
-    "personInternalId": "#007167",
+    "hasPersonInternalId": "#007167",
     "description": "U.S. scholar",
     "activeDate": "GREGORIAN:1947:1950"
   },
@@ -525,7 +525,7 @@
     "firstName": "Akihiro",
     "lastName": "Yamada",
     "hasGender": "male",
-    "personInternalId": "#007168",
+    "hasPersonInternalId": "#007168",
     "description": "Japanese scholar",
     "activeDate": "GREGORIAN:1975"
   },
@@ -533,7 +533,7 @@
     "firstName": "Charles",
     "lastName": "Cathcart",
     "hasGender": "male",
-    "personInternalId": "#007169",
+    "hasPersonInternalId": "#007169",
     "description": "English scholar",
     "activeDate": "GREGORIAN:2008"
   },
@@ -541,7 +541,7 @@
     "firstName": "Kenneth Arthur",
     "lastName": "Muir",
     "hasGender": "male",
-    "personInternalId": "#007171",
+    "hasPersonInternalId": "#007171",
     "description": "British scholar",
     "birthDate": "GREGORIAN:1907",
     "deathDate": "GREGORIAN:1996"
@@ -550,7 +550,7 @@
     "firstName": "J. W. ",
     "lastName": "Olive",
     "hasGender": "male",
-    "personInternalId": "#007172",
+    "hasPersonInternalId": "#007172",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1950"
   },
@@ -558,7 +558,7 @@
     "firstName": "A. H. ",
     "lastName": "Bullen",
     "hasGender": "male",
-    "personInternalId": "#007173",
+    "hasPersonInternalId": "#007173",
     "description": "English editor , full name Arthur Henry Bullen",
     "birthDate": "GREGORIAN:1857",
     "deathDate": "GREGORIAN:1920"
@@ -567,7 +567,7 @@
     "firstName": "Macdonald P.",
     "lastName": "Jackson",
     "hasGender": "male",
-    "personInternalId": "#007174",
+    "hasPersonInternalId": "#007174",
     "description": "New Zealand scholar",
     "birthDate": "GREGORIAN:1938"
   },
@@ -575,7 +575,7 @@
     "firstName": "George",
     "lastName": "Chapman",
     "hasGender": "male",
-    "personInternalId": "#007175",
+    "hasPersonInternalId": "#007175",
     "description": "English poet, dramatist and translator",
     "birthDate": "GREGORIAN:1558:1560",
     "deathDate": "GREGORIAN:1634"
@@ -584,7 +584,7 @@
     "firstName": "John",
     "lastName": "Marston",
     "hasGender": "male",
-    "personInternalId": "#007020",
+    "hasPersonInternalId": "#007020",
     "description": "English dramatist and poet",
     "birthDate": "GREGORIAN:1576",
     "deathDate": "GREGORIAN:1634",
@@ -594,7 +594,7 @@
     "firstName": "William",
     "lastName": "Haughton",
     "hasGender": "male",
-    "personInternalId": "#007177",
+    "hasPersonInternalId": "#007177",
     "description": "English dramatist",
     "deathDate": "GREGORIAN:1605"
   },
@@ -602,7 +602,7 @@
     "firstName": "Henry",
     "lastName": "Porter",
     "hasGender": "male",
-    "personInternalId": "#007178",
+    "hasPersonInternalId": "#007178",
     "description": "English dramatist",
     "deathDate": "GREGORIAN:1599"
   },
@@ -610,7 +610,7 @@
     "firstName": "Thomas",
     "lastName": "Dekker",
     "hasGender": "male",
-    "personInternalId": "#007022",
+    "hasPersonInternalId": "#007022",
     "description": "English dramatist ca.",
     "birthDate": "GREGORIAN:1572",
     "deathDate": "GREGORIAN:1632",
@@ -620,7 +620,7 @@
     "firstName": "Hans",
     "lastName": "Scherer",
     "hasGender": "male",
-    "personInternalId": "#007180",
+    "hasPersonInternalId": "#007180",
     "description": "German (?) scholar",
     "activeDate": "GREGORIAN:1901"
   },
@@ -628,14 +628,14 @@
     "firstName": "James P.",
     "lastName": "Bednarz",
     "hasGender": "male",
-    "personInternalId": "#007181",
+    "hasPersonInternalId": "#007181",
     "description": "U.S. academic"
   },
   "ww_a490794224ad2764": {
     "firstName": "Kate G.",
     "lastName": "Frost",
     "hasGender": "female",
-    "personInternalId": "#007182",
+    "hasPersonInternalId": "#007182",
     "description": "*U.S. (?) scholar",
     "activeDate": "GREGORIAN:1984"
   },
@@ -643,14 +643,14 @@
     "firstName": "George",
     "lastName": "Thorn-Drury",
     "hasGender": "male",
-    "personInternalId": "#007183",
+    "hasPersonInternalId": "#007183",
     "description": "English scholar 1860\u20131931"
   },
   "ww_6479c34542b52165": {
     "firstName": "Alwin",
     "lastName": "Thaler",
     "hasGender": "male",
-    "personInternalId": "#007184",
+    "hasPersonInternalId": "#007184",
     "description": "German-born U.S. scholar",
     "birthDate": "GREGORIAN:1891",
     "deathDate": "GREGORIAN:1977"
@@ -659,7 +659,7 @@
     "firstName": "Alan",
     "lastName": "Roper",
     "hasGender": "male",
-    "personInternalId": "#007185",
+    "hasPersonInternalId": "#007185",
     "description": "U.S. (?) academic",
     "activeDate": "GREGORIAN:1956:1989"
   },
@@ -667,7 +667,7 @@
     "firstName": "George K.",
     "lastName": "Hunter",
     "hasGender": "male",
-    "personInternalId": "#007186",
+    "hasPersonInternalId": "#007186",
     "description": "Scottish-born U.S. academic",
     "birthDate": "GREGORIAN:1920",
     "deathDate": "GREGORIAN:2008"
@@ -676,7 +676,7 @@
     "firstName": "Charles G.",
     "lastName": "Smith",
     "hasGender": "male",
-    "personInternalId": "#007187",
+    "hasPersonInternalId": "#007187",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1963"
   },
@@ -684,7 +684,7 @@
     "firstName": "Morris Palmer",
     "lastName": "Tilley",
     "hasGender": "male",
-    "personInternalId": "#007188",
+    "hasPersonInternalId": "#007188",
     "description": "U.S. scholar",
     "birthDate": "GREGORIAN:1876",
     "deathDate": "GREGORIAN:1947"
@@ -693,7 +693,7 @@
     "firstName": "Thomas C.",
     "lastName": "Faulkner",
     "hasGender": "male",
-    "personInternalId": "#007189",
+    "hasPersonInternalId": "#007189",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1989"
   },
@@ -701,7 +701,7 @@
     "firstName": "John",
     "lastName": "Bodenham",
     "hasGender": "male",
-    "personInternalId": "#007190",
+    "hasPersonInternalId": "#007190",
     "description": "English anthologist",
     "birthDate": "GREGORIAN:1559",
     "deathDate": "GREGORIAN:1610"
@@ -710,7 +710,7 @@
     "firstName": "Sam",
     "lastName": "Nicholson",
     "hasGender": "male",
-    "personInternalId": "#007192",
+    "hasPersonInternalId": "#007192",
     "description": "English (?) poet",
     "activeDate": "GREGORIAN:1600"
   },
@@ -718,7 +718,7 @@
     "firstName": "Robert",
     "lastName": "Jordan",
     "hasGender": "male",
-    "personInternalId": "#007193",
+    "hasPersonInternalId": "#007193",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1988"
   },
@@ -726,7 +726,7 @@
     "firstName": "Harold",
     "lastName": "Love",
     "hasGender": "male",
-    "personInternalId": "#007194",
+    "hasPersonInternalId": "#007194",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1988"
   },
@@ -734,7 +734,7 @@
     "firstName": "R. W.",
     "lastName": "van Fossen",
     "hasGender": "male",
-    "personInternalId": "#007195",
+    "hasPersonInternalId": "#007195",
     "description": "Canadian academic",
     "birthDate": "GREGORIAN:1927",
     "deathDate": "GREGORIAN:2009"
@@ -743,7 +743,7 @@
     "firstName": "James Orchard",
     "lastName": "Halliwell-Phillipps",
     "hasGender": "male",
-    "personInternalId": "#007196",
+    "hasPersonInternalId": "#007196",
     "description": "English Shakespeare scholar",
     "birthDate": "GREGORIAN:1820",
     "deathDate": "GREGORIAN:1889"
@@ -752,7 +752,7 @@
     "firstName": "Percy",
     "lastName": "Simpson",
     "hasGender": "male",
-    "personInternalId": "#007197",
+    "hasPersonInternalId": "#007197",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1944"
   },
@@ -760,7 +760,7 @@
     "firstName": "William",
     "lastName": "Rowley",
     "hasGender": "male",
-    "personInternalId": "#007198",
+    "hasPersonInternalId": "#007198",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1584:1586",
     "deathDate": "GREGORIAN:1626"
@@ -769,7 +769,7 @@
     "firstName": "David A.",
     "lastName": "Blostein",
     "hasGender": "male",
-    "personInternalId": "#007199",
+    "hasPersonInternalId": "#007199",
     "description": "Canadian (?) scholar",
     "activeDate": "GREGORIAN:1975:1999"
   },
@@ -777,7 +777,7 @@
     "firstName": "Thomas",
     "lastName": "Heywood",
     "hasGender": "male",
-    "personInternalId": "#007200",
+    "hasPersonInternalId": "#007200",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1570:1574",
     "deathDate": "GREGORIAN:1641"
@@ -786,7 +786,7 @@
     "firstName": "Henry",
     "lastName": "Chettle",
     "hasGender": "male",
-    "personInternalId": "#007201",
+    "hasPersonInternalId": "#007201",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1564",
     "deathDate": "GREGORIAN:1603:1606"
@@ -795,7 +795,7 @@
     "firstName": "John",
     "lastName": "Webster",
     "hasGender": "male",
-    "personInternalId": "#007202",
+    "hasPersonInternalId": "#007202",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1584",
     "deathDate": "GREGORIAN:1616"
@@ -804,7 +804,7 @@
     "firstName": "John",
     "lastName": "Day",
     "hasGender": "male",
-    "personInternalId": "#007204",
+    "hasPersonInternalId": "#007204",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1574",
     "deathDate": "GREGORIAN:1637:1639"
@@ -813,7 +813,7 @@
     "firstName": "Friedrich",
     "lastName": "Radebrecht",
     "hasGender": "male",
-    "personInternalId": "#007205",
+    "hasPersonInternalId": "#007205",
     "description": "German scholar",
     "activeDate": "GREGORIAN:1918"
   },
@@ -821,7 +821,7 @@
     "firstName": "Thomas",
     "lastName": "Middleton",
     "hasGender": "male",
-    "personInternalId": "#007206",
+    "hasPersonInternalId": "#007206",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1580",
     "deathDate": "GREGORIAN:1627"
@@ -830,7 +830,7 @@
     "firstName": "Peter",
     "lastName": "Woodhouse",
     "hasGender": "male",
-    "personInternalId": "#007207",
+    "hasPersonInternalId": "#007207",
     "description": "English poet",
     "activeDate": "GREGORIAN:1605"
   },
@@ -838,7 +838,7 @@
     "firstName": "Margreta",
     "lastName": "de Grazia",
     "hasGender": "female",
-    "personInternalId": "#007208",
+    "hasPersonInternalId": "#007208",
     "description": "*U.S. scholar",
     "activeDate": "GREGORIAN:1991"
   },
@@ -846,7 +846,7 @@
     "firstName": "Francis",
     "lastName": "Beaumont",
     "hasGender": "male",
-    "personInternalId": "#007209",
+    "hasPersonInternalId": "#007209",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1584",
     "deathDate": "GREGORIAN:1616"
@@ -855,7 +855,7 @@
     "firstName": "John",
     "lastName": "Fletcher",
     "hasGender": "male",
-    "personInternalId": "#007210",
+    "hasPersonInternalId": "#007210",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1579",
     "deathDate": "GREGORIAN:1625"
@@ -864,7 +864,7 @@
     "firstName": "Harold",
     "lastName": "Jenkins",
     "hasGender": "male",
-    "personInternalId": "#007211",
+    "hasPersonInternalId": "#007211",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1909",
     "deathDate": "GREGORIAN:2000"
@@ -873,14 +873,14 @@
     "firstName": "Martin",
     "lastName": "Wiggins",
     "hasGender": "male",
-    "personInternalId": "#007212",
+    "hasPersonInternalId": "#007212",
     "description": "English scholar"
   },
   "ww_9186050dfac2d550": {
     "firstName": "Thomas",
     "lastName": "Tomkis",
     "hasGender": "male",
-    "personInternalId": "#007213",
+    "hasPersonInternalId": "#007213",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1604:1615"
   },
@@ -888,7 +888,7 @@
     "firstName": "George",
     "lastName": "Wilkins",
     "hasGender": "male",
-    "personInternalId": "#007214",
+    "hasPersonInternalId": "#007214",
     "description": "English dramatist and pamphleteer",
     "deathDate": "GREGORIAN:1618"
   },
@@ -896,7 +896,7 @@
     "firstName": "Edward",
     "lastName": "Sharpham",
     "hasGender": "male",
-    "personInternalId": "#007215",
+    "hasPersonInternalId": "#007215",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1576",
     "deathDate": "GREGORIAN:1608"
@@ -905,7 +905,7 @@
     "firstName": "Henry",
     "lastName": "Glapthorne",
     "hasGender": "male",
-    "personInternalId": "#007216",
+    "hasPersonInternalId": "#007216",
     "description": "British poet and dramatist",
     "activeDate": "GREGORIAN:1639"
   },
@@ -913,7 +913,7 @@
     "firstName": "Lording",
     "lastName": "Barry",
     "hasGender": "male",
-    "personInternalId": "#007217",
+    "hasPersonInternalId": "#007217",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1580",
     "deathDate": "GREGORIAN:1629"
@@ -922,7 +922,7 @@
     "firstName": "Nathan",
     "lastName": "Field",
     "hasGender": "male",
-    "personInternalId": "#007218",
+    "hasPersonInternalId": "#007218",
     "description": "English dramatist and actor",
     "birthDate": "GREGORIAN:1587",
     "deathDate": "GREGORIAN:1620",
@@ -932,7 +932,7 @@
     "firstName": "Robert",
     "lastName": "Armin",
     "hasGender": "male",
-    "personInternalId": "#007219",
+    "hasPersonInternalId": "#007219",
     "description": "English actor and dramatist",
     "birthDate": "GREGORIAN:1562:1564",
     "deathDate": "GREGORIAN:1615",
@@ -942,7 +942,7 @@
     "firstName": "Cyril",
     "lastName": "Tourneur",
     "hasGender": "male",
-    "personInternalId": "#007220",
+    "hasPersonInternalId": "#007220",
     "description": "English poet and dramatist",
     "deathDate": "GREGORIAN:1626"
   },
@@ -950,7 +950,7 @@
     "firstName": "Henry",
     "lastName": "Condell",
     "hasGender": "male",
-    "personInternalId": "#007006",
+    "hasPersonInternalId": "#007006",
     "description": "English actor",
     "birthDate": "GREGORIAN:1576",
     "deathDate": "GREGORIAN:1627",
@@ -961,7 +961,7 @@
     "firstName": "Sir John",
     "lastName": "Davies of Hereford",
     "hasGender": "male",
-    "personInternalId": "#007222",
+    "hasPersonInternalId": "#007222",
     "description": "Anglo-Welsh poet",
     "birthDate": "GREGORIAN:1563:1567",
     "deathDate": "GREGORIAN:1618"
@@ -970,7 +970,7 @@
     "firstName": "John",
     "lastName": "Cooke",
     "hasGender": "male",
-    "personInternalId": "#007223",
+    "hasPersonInternalId": "#007223",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1612:1614"
   },
@@ -978,7 +978,7 @@
     "firstName": "Sir John",
     "lastName": "Hayward",
     "hasGender": "male",
-    "personInternalId": "#007224",
+    "hasPersonInternalId": "#007224",
     "description": "English historian",
     "birthDate": "GREGORIAN:1563:1565",
     "deathDate": "GREGORIAN:1627"
@@ -987,7 +987,7 @@
     "firstName": "Christopher",
     "lastName": "Brooke",
     "hasGender": "male",
-    "personInternalId": "#007225",
+    "hasPersonInternalId": "#007225",
     "description": "English poet Christopher Brooke",
     "deathDate": "GREGORIAN:1628"
   },
@@ -995,7 +995,7 @@
     "firstName": "Philip",
     "lastName": "Massinger",
     "hasGender": "male",
-    "personInternalId": "#007226",
+    "hasPersonInternalId": "#007226",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1583",
     "deathDate": "GREGORIAN:1640"
@@ -1004,7 +1004,7 @@
     "firstName": "Joseph",
     "lastName": "Taylor",
     "hasGender": "male",
-    "personInternalId": "#007227",
+    "hasPersonInternalId": "#007227",
     "description": "English actor",
     "deathDate": "GREGORIAN:1652",
     "personPerformedIn": "ww_59671ec300eb8f66"
@@ -1013,7 +1013,7 @@
     "firstName": "Nicholas",
     "lastName": "Tooley",
     "hasGender": "male",
-    "personInternalId": "#007228",
+    "hasPersonInternalId": "#007228",
     "description": "English actor",
     "birthDate": "GREGORIAN:1583",
     "deathDate": "GREGORIAN:1623",
@@ -1023,7 +1023,7 @@
     "firstName": "William",
     "lastName": "Ecclestone",
     "hasGender": "male",
-    "personInternalId": "#007229",
+    "hasPersonInternalId": "#007229",
     "description": "English actor",
     "activeDate": "GREGORIAN:1610:1623",
     "personPerformedIn": "ww_bf4da010b6ad6774"
@@ -1032,7 +1032,7 @@
     "firstName": "Robert",
     "lastName": "Burton",
     "hasGender": "male",
-    "personInternalId": "#007230",
+    "hasPersonInternalId": "#007230",
     "description": "English essayist",
     "birthDate": "GREGORIAN:1577",
     "deathDate": "GREGORIAN:1640"
@@ -1041,7 +1041,7 @@
     "firstName": "Robert",
     "lastName": "Davenport",
     "hasGender": "male",
-    "personInternalId": "#007231",
+    "hasPersonInternalId": "#007231",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1623:1639"
   },
@@ -1049,7 +1049,7 @@
     "firstName": "Sir William",
     "lastName": "D'Avenant",
     "hasGender": "male",
-    "personInternalId": "#007232",
+    "hasPersonInternalId": "#007232",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1606",
     "deathDate": "GREGORIAN:1668"
@@ -1058,7 +1058,7 @@
     "firstName": "W. H.",
     "lastName": "Logan",
     "hasGender": "male",
-    "personInternalId": "#007233",
+    "hasPersonInternalId": "#007233",
     "description": "Scottish journalist",
     "activeDate": "GREGORIAN:1862"
   },
@@ -1066,7 +1066,7 @@
     "firstName": "James",
     "lastName": "Maidment",
     "hasGender": "male",
-    "personInternalId": "#007234",
+    "hasPersonInternalId": "#007234",
     "description": "British scholar",
     "birthDate": "GREGORIAN:1793",
     "deathDate": "GREGORIAN:1879"
@@ -1075,7 +1075,7 @@
     "firstName": "William",
     "lastName": "Sampson",
     "hasGender": "male",
-    "personInternalId": "#007235",
+    "hasPersonInternalId": "#007235",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1589:1591",
     "deathDate": "GREGORIAN:1636:1637"
@@ -1084,7 +1084,7 @@
     "firstName": "Hans",
     "lastName": "Wallrath",
     "hasGender": "male",
-    "personInternalId": "#007236",
+    "hasPersonInternalId": "#007236",
     "description": "German (?) scholar",
     "activeDate": "GREGORIAN:1914"
   },
@@ -1092,7 +1092,7 @@
     "firstName": "Thomas",
     "lastName": "Randolph",
     "hasGender": "male",
-    "personInternalId": "#007237",
+    "hasPersonInternalId": "#007237",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1605",
     "deathDate": "GREGORIAN:1635"
@@ -1101,7 +1101,7 @@
     "firstName": "James",
     "lastName": "Hart",
     "hasGender": "male",
-    "personInternalId": "#007238",
+    "hasPersonInternalId": "#007238",
     "description": "English physician",
     "activeDate": "GREGORIAN:1633"
   },
@@ -1109,7 +1109,7 @@
     "firstName": "William",
     "lastName": "Hemings",
     "hasGender": "male",
-    "personInternalId": "#007239",
+    "hasPersonInternalId": "#007239",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1602"
   },
@@ -1117,7 +1117,7 @@
     "firstName": "Joseph Quincy Jr.",
     "lastName": "Adams",
     "hasGender": "male",
-    "personInternalId": "#007240",
+    "hasPersonInternalId": "#007240",
     "description": "U.S. scholar",
     "birthDate": "GREGORIAN:1880",
     "deathDate": "GREGORIAN:1946"
@@ -1126,7 +1126,7 @@
     "firstName": "James",
     "lastName": "Shirley",
     "hasGender": "male",
-    "personInternalId": "#007241",
+    "hasPersonInternalId": "#007241",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1596",
     "deathDate": "GREGORIAN:1666"
@@ -1135,7 +1135,7 @@
     "firstName": "Thomas",
     "lastName": "Adams",
     "hasGender": "male",
-    "personInternalId": "#007242",
+    "hasPersonInternalId": "#007242",
     "description": "English writer",
     "activeDate": "GREGORIAN:1612:1653"
   },
@@ -1143,7 +1143,7 @@
     "firstName": "W.",
     "lastName": "B.",
     "hasGender": "male",
-    "personInternalId": "#007244",
+    "hasPersonInternalId": "#007244",
     "description": "English translator",
     "activeDate": "GREGORIAN:1614"
   },
@@ -1151,7 +1151,7 @@
     "firstName": "Anthony",
     "lastName": "Stafford",
     "hasGender": "male",
-    "personInternalId": "#007245",
+    "hasPersonInternalId": "#007245",
     "description": "English devotional writer 1587\u2013[]",
     "birthDate": "GREGORIAN:1645",
     "deathDate": "GREGORIAN:1660"
@@ -1160,7 +1160,7 @@
     "firstName": "Nathaniel",
     "lastName": "Richards",
     "hasGender": "male",
-    "personInternalId": "#007246",
+    "hasPersonInternalId": "#007246",
     "description": "English poet",
     "birthDate": "GREGORIAN:1611",
     "deathDate": "GREGORIAN:1660"
@@ -1169,7 +1169,7 @@
     "firstName": "Arthur Rowland",
     "lastName": "Skemp",
     "hasGender": "male",
-    "personInternalId": "#007247",
+    "hasPersonInternalId": "#007247",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1910"
   },
@@ -1177,7 +1177,7 @@
     "firstName": "R.",
     "lastName": "Junius",
     "hasGender": "male",
-    "personInternalId": "#007248",
+    "hasPersonInternalId": "#007248",
     "description": "English writer ,  real name Richard E. Younge",
     "activeDate": "GREGORIAN:1638"
   },
@@ -1185,7 +1185,7 @@
     "firstName": "Samuel",
     "lastName": "Harding",
     "hasGender": "male",
-    "personInternalId": "#007249",
+    "hasPersonInternalId": "#007249",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1640"
   },
@@ -1193,7 +1193,7 @@
     "firstName": "Jerome W.",
     "lastName": "Hogan",
     "hasGender": "male",
-    "personInternalId": "#007250",
+    "hasPersonInternalId": "#007250",
     "description": "U.S. (?) academic",
     "activeDate": "GREGORIAN:1975"
   },
@@ -1201,7 +1201,7 @@
     "firstName": "Sir John",
     "lastName": "Suckling",
     "hasGender": "male",
-    "personInternalId": "#007251",
+    "hasPersonInternalId": "#007251",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1609",
     "deathDate": "GREGORIAN:1642"
@@ -1210,7 +1210,7 @@
     "firstName": "Thomas",
     "lastName": "Killigrew",
     "hasGender": "male",
-    "personInternalId": "#007254",
+    "hasPersonInternalId": "#007254",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1612",
     "deathDate": "GREGORIAN:1683"
@@ -1219,7 +1219,7 @@
     "firstName": "Cosmo",
     "lastName": "Manuche",
     "hasGender": "male",
-    "personInternalId": "#007255",
+    "hasPersonInternalId": "#007255",
     "description": "Anglo-Italian dramatist",
     "activeDate": "GREGORIAN:1650:1652"
   },
@@ -1227,7 +1227,7 @@
     "firstName": "Richard",
     "lastName": "Faber",
     "hasGender": "male",
-    "personInternalId": "#007256",
+    "hasPersonInternalId": "#007256",
     "description": "English (?) dramatist",
     "activeDate": "GREGORIAN:1655"
   },
@@ -1235,7 +1235,7 @@
     "firstName": "Barbara",
     "lastName": "Paul",
     "hasGender": "female",
-    "personInternalId": "#007257",
+    "hasPersonInternalId": "#007257",
     "description": "*U.S. science-fiction and mistery writer",
     "birthDate": "GREGORIAN:1931"
   },
@@ -1243,7 +1243,7 @@
     "firstName": "Richard",
     "lastName": "Flecknoe",
     "hasGender": "male",
-    "personInternalId": "#007258",
+    "hasPersonInternalId": "#007258",
     "description": "English dramatist, poet and musician",
     "birthDate": "GREGORIAN:1600",
     "deathDate": "GREGORIAN:1678"
@@ -1252,7 +1252,7 @@
     "firstName": "Thomas",
     "lastName": "Fuller",
     "hasGender": "male",
-    "personInternalId": "#007259",
+    "hasPersonInternalId": "#007259",
     "description": "English priest and historian",
     "birthDate": "GREGORIAN:1608",
     "deathDate": "GREGORIAN:1661"
@@ -1261,7 +1261,7 @@
     "firstName": "Katherine",
     "lastName": "Philips",
     "hasGender": "female",
-    "personInternalId": "#007260",
+    "hasPersonInternalId": "#007260",
     "description": "*Welsh poet",
     "birthDate": "GREGORIAN:1631",
     "deathDate": "GREGORIAN:1664"
@@ -1270,7 +1270,7 @@
     "firstName": "John",
     "lastName": "Dryden",
     "hasGender": "male",
-    "personInternalId": "#007261",
+    "hasPersonInternalId": "#007261",
     "description": "English poet",
     "birthDate": "GREGORIAN:1631",
     "deathDate": "GREGORIAN:1700"
@@ -1279,7 +1279,7 @@
     "firstName": "John",
     "lastName": "Caryll",
     "hasGender": "male",
-    "personInternalId": "#007262",
+    "hasPersonInternalId": "#007262",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1625",
     "deathDate": "GREGORIAN:1711"
@@ -1288,7 +1288,7 @@
     "firstName": "John",
     "lastName": "Lacy",
     "hasGender": "male",
-    "personInternalId": "#007263",
+    "hasPersonInternalId": "#007263",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1613:1618",
     "deathDate": "GREGORIAN:1681"
@@ -1297,7 +1297,7 @@
     "firstName": "Aphra",
     "lastName": "Behn",
     "hasGender": "female",
-    "personInternalId": "#007264",
+    "hasPersonInternalId": "#007264",
     "description": "*English dramatist and novelist",
     "birthDate": "GREGORIAN:1640",
     "deathDate": "GREGORIAN:1689"
@@ -1306,7 +1306,7 @@
     "firstName": "Henry Neville",
     "lastName": "Payne",
     "hasGender": "male",
-    "personInternalId": "#007265",
+    "hasPersonInternalId": "#007265",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1672",
     "deathDate": "GREGORIAN:1710"
@@ -1315,7 +1315,7 @@
     "firstName": "Edward",
     "lastName": "Ravenscroft",
     "hasGender": "male",
-    "personInternalId": "#007266",
+    "hasPersonInternalId": "#007266",
     "description": "British dramatist",
     "birthDate": "GREGORIAN:1652:1654",
     "deathDate": "GREGORIAN:1707"
@@ -1324,14 +1324,14 @@
     "firstName": "William Cavendish, Duke of",
     "lastName": "Newcastle",
     "hasGender": "male",
-    "personInternalId": "#007267",
+    "hasPersonInternalId": "#007267",
     "description": "(?)"
   },
   "ww_0fa63d0ba5908460": {
     "firstName": "John",
     "lastName": "Banks",
     "hasGender": "male",
-    "personInternalId": "#007268",
+    "hasPersonInternalId": "#007268",
     "description": "English (?) dramatist",
     "deathDate": "GREGORIAN:1702"
   },
@@ -1339,7 +1339,7 @@
     "firstName": "Thomas",
     "lastName": "Otway",
     "hasGender": "male",
-    "personInternalId": "#007269",
+    "hasPersonInternalId": "#007269",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1652",
     "deathDate": "GREGORIAN:1685"
@@ -1348,7 +1348,7 @@
     "firstName": "Nathaniel",
     "lastName": "Lee",
     "hasGender": "male",
-    "personInternalId": "#007270",
+    "hasPersonInternalId": "#007270",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1652:1654",
     "deathDate": "GREGORIAN:1692"
@@ -1357,7 +1357,7 @@
     "firstName": "Thomas",
     "lastName": "Southerne",
     "hasGender": "male",
-    "personInternalId": "#007271",
+    "hasPersonInternalId": "#007271",
     "description": "Irish dramatist",
     "birthDate": "GREGORIAN:1660",
     "deathDate": "GREGORIAN:1746"
@@ -1366,7 +1366,7 @@
     "firstName": "Nahum",
     "lastName": "Tate",
     "hasGender": "male",
-    "personInternalId": "#007272",
+    "hasPersonInternalId": "#007272",
     "description": "Irish poet and dramatist",
     "birthDate": "GREGORIAN:1652",
     "deathDate": "GREGORIAN:1715"
@@ -1375,7 +1375,7 @@
     "firstName": "George Villiers, Duke of",
     "lastName": "Buckingham",
     "hasGender": "male",
-    "personInternalId": "#007273",
+    "hasPersonInternalId": "#007273",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1628",
     "deathDate": "GREGORIAN:1687"
@@ -1384,7 +1384,7 @@
     "firstName": "R. H.",
     "lastName": "Bowers",
     "hasGender": "male",
-    "personInternalId": "#007274",
+    "hasPersonInternalId": "#007274",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1953"
   },
@@ -1392,7 +1392,7 @@
     "firstName": "William",
     "lastName": "Tyndale",
     "hasGender": "male",
-    "personInternalId": "#007275",
+    "hasPersonInternalId": "#007275",
     "description": "English scholar and translator",
     "birthDate": "GREGORIAN:1494",
     "deathDate": "GREGORIAN:1536"
@@ -1401,7 +1401,7 @@
     "firstName": "Thomas",
     "lastName": "Norton",
     "hasGender": "male",
-    "personInternalId": "#007276",
+    "hasPersonInternalId": "#007276",
     "description": "English dramatist and politician",
     "birthDate": "GREGORIAN:1532",
     "deathDate": "GREGORIAN:1584"
@@ -1410,7 +1410,7 @@
     "firstName": "Sir Thomas",
     "lastName": "Sackville",
     "hasGender": "male",
-    "personInternalId": "#007002",
+    "hasPersonInternalId": "#007002",
     "description": "English politician, poet and dramatist",
     "birthDate": "GREGORIAN:1536",
     "deathDate": "GREGORIAN:1608",
@@ -1420,7 +1420,7 @@
     "firstName": "John",
     "lastName": "Higgins",
     "hasGender": "male",
-    "personInternalId": "#007278",
+    "hasPersonInternalId": "#007278",
     "description": "English poet",
     "activeDate": "GREGORIAN:1570:1602"
   },
@@ -1428,7 +1428,7 @@
     "firstName": "Thomas",
     "lastName": "Kyd",
     "hasGender": "male",
-    "personInternalId": "#007279",
+    "hasPersonInternalId": "#007279",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1558",
     "deathDate": "GREGORIAN:1594"
@@ -1437,7 +1437,7 @@
     "firstName": "Marjorie",
     "lastName": "Garber",
     "hasGender": "female",
-    "personInternalId": "#007280",
+    "hasPersonInternalId": "#007280",
     "description": "*U.S. academic",
     "birthDate": "GREGORIAN:1944"
   },
@@ -1445,7 +1445,7 @@
     "firstName": "William B.",
     "lastName": "Hunter",
     "hasGender": "male",
-    "personInternalId": "#007281",
+    "hasPersonInternalId": "#007281",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1978:1983"
   },
@@ -1453,7 +1453,7 @@
     "firstName": "Friedrich",
     "lastName": "Ernst",
     "hasGender": "male",
-    "personInternalId": "#007282",
+    "hasPersonInternalId": "#007282",
     "description": "German (?) scholar",
     "activeDate": "GREGORIAN:1913"
   },
@@ -1461,7 +1461,7 @@
     "firstName": "Thomas",
     "lastName": "Nashe",
     "hasGender": "male",
-    "personInternalId": "#007038",
+    "hasPersonInternalId": "#007038",
     "description": "English pamphleteer and dramatist",
     "birthDate": "GREGORIAN:1567",
     "deathDate": "GREGORIAN:1601",
@@ -1471,7 +1471,7 @@
     "firstName": "Samuel",
     "lastName": "Daniel",
     "hasGender": "male",
-    "personInternalId": "#007032",
+    "hasPersonInternalId": "#007032",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1562",
     "deathDate": "GREGORIAN:1619",
@@ -1481,7 +1481,7 @@
     "firstName": "Robert",
     "lastName": "Greene",
     "hasGender": "male",
-    "personInternalId": "#007046",
+    "hasPersonInternalId": "#007046",
     "description": "English dramatist and pamphleteer",
     "birthDate": "GREGORIAN:1558",
     "deathDate": "GREGORIAN:1592",
@@ -1491,7 +1491,7 @@
     "firstName": "Thomas",
     "lastName": "Churchyard",
     "hasGender": "male",
-    "personInternalId": "#007037",
+    "hasPersonInternalId": "#007037",
     "description": "English poet",
     "birthDate": "GREGORIAN:1520",
     "deathDate": "GREGORIAN:1604",
@@ -1501,7 +1501,7 @@
     "firstName": "Kate",
     "lastName": "Wilkinson",
     "hasGender": "female",
-    "personInternalId": "#007287",
+    "hasPersonInternalId": "#007287",
     "description": "*English (?) academic",
     "activeDate": "GREGORIAN:2013"
   },
@@ -1509,7 +1509,7 @@
     "firstName": "Robert",
     "lastName": "Southwell",
     "hasGender": "male",
-    "personInternalId": "#007288",
+    "hasPersonInternalId": "#007288",
     "description": "English Jesuit priest and poet",
     "birthDate": "GREGORIAN:1560:1562",
     "deathDate": "GREGORIAN:1595"
@@ -1518,7 +1518,7 @@
     "firstName": "C. F. Tucker",
     "lastName": "Brooke",
     "hasGender": "male",
-    "personInternalId": "#007289",
+    "hasPersonInternalId": "#007289",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1930"
   },
@@ -1526,7 +1526,7 @@
     "firstName": "Thomas",
     "lastName": "Lodge",
     "hasGender": "male",
-    "personInternalId": "#007030",
+    "hasPersonInternalId": "#007030",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1556:1559",
     "deathDate": "GREGORIAN:1625",
@@ -1536,7 +1536,7 @@
     "firstName": "Charles A.",
     "lastName": "Herpich",
     "hasGender": "male",
-    "personInternalId": "#007291",
+    "hasPersonInternalId": "#007291",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1902"
   },
@@ -1544,7 +1544,7 @@
     "firstName": "Hunold",
     "lastName": "Nibbe",
     "hasGender": "male",
-    "personInternalId": "#007292",
+    "hasPersonInternalId": "#007292",
     "description": "Gemran scholar",
     "activeDate": "GREGORIAN:1911:1912"
   },
@@ -1552,7 +1552,7 @@
     "firstName": "Leonard",
     "lastName": "Nathanson",
     "hasGender": "male",
-    "personInternalId": "#007293",
+    "hasPersonInternalId": "#007293",
     "description": "U.S. scholar",
     "birthDate": "GREGORIAN:1933",
     "deathDate": "GREGORIAN:2015"
@@ -1561,14 +1561,14 @@
     "firstName": "Maurice",
     "lastName": "Charney",
     "hasGender": "male",
-    "personInternalId": "#007294",
+    "hasPersonInternalId": "#007294",
     "description": "U.S. academic"
   },
   "ww_2414739563fb0f54": {
     "firstName": "Andrew",
     "lastName": "Gurr",
     "hasGender": "male",
-    "personInternalId": "#007295",
+    "hasPersonInternalId": "#007295",
     "description": "British-born scholar",
     "birthDate": "GREGORIAN:1936"
   },
@@ -1576,7 +1576,7 @@
     "firstName": "Maurice",
     "lastName": "Jonas",
     "hasGender": "male",
-    "personInternalId": "#007296",
+    "hasPersonInternalId": "#007296",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1918"
   },
@@ -1584,7 +1584,7 @@
     "firstName": "George L.",
     "lastName": "Geckle",
     "hasGender": "male",
-    "personInternalId": "#007297",
+    "hasPersonInternalId": "#007297",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1980"
   },
@@ -1592,7 +1592,7 @@
     "firstName": "Sir Andrew Jonathan",
     "lastName": "Bate",
     "hasGender": "male",
-    "personInternalId": "#007298",
+    "hasPersonInternalId": "#007298",
     "description": "English academic",
     "birthDate": "GREGORIAN:1958"
   },
@@ -1600,7 +1600,7 @@
     "firstName": "Eric",
     "lastName": "Rasmussen",
     "hasGender": "male",
-    "personInternalId": "#007299",
+    "hasPersonInternalId": "#007299",
     "description": "U.S. academic",
     "birthDate": "GREGORIAN:1959:1963"
   },
@@ -1608,7 +1608,7 @@
     "firstName": "Walter",
     "lastName": "Whiter",
     "hasGender": "male",
-    "personInternalId": "#007300",
+    "hasPersonInternalId": "#007300",
     "description": "English philologist",
     "birthDate": "GREGORIAN:1758",
     "deathDate": "GREGORIAN:1832"
@@ -1617,7 +1617,7 @@
     "firstName": "Robert Witback",
     "lastName": "Babcock",
     "hasGender": "male",
-    "personInternalId": "#007301",
+    "hasPersonInternalId": "#007301",
     "description": "U.S. academic",
     "activeDate": "GREGORIAN:1964"
   },
@@ -1625,7 +1625,7 @@
     "firstName": "Sir Stanley William",
     "lastName": "Wells",
     "hasGender": "male",
-    "personInternalId": "#007302",
+    "hasPersonInternalId": "#007302",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1930"
   },
@@ -1633,7 +1633,7 @@
     "firstName": "Lilian M.",
     "lastName": "Ruff",
     "hasGender": "female",
-    "personInternalId": "#007303",
+    "hasPersonInternalId": "#007303",
     "description": "*U.S. (?) scholar",
     "activeDate": "GREGORIAN:1969"
   },
@@ -1641,7 +1641,7 @@
     "firstName": "D. Arnold",
     "lastName": "Wilson",
     "hasGender": "male",
-    "personInternalId": "#007304",
+    "hasPersonInternalId": "#007304",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1969"
   },
@@ -1649,7 +1649,7 @@
     "firstName": "David L.",
     "lastName": "Frost",
     "hasGender": "male",
-    "personInternalId": "#007305",
+    "hasPersonInternalId": "#007305",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1968:1978"
   },
@@ -1657,7 +1657,7 @@
     "firstName": "Giorgio",
     "lastName": "Melchiori",
     "hasGender": "male",
-    "personInternalId": "#007306",
+    "hasPersonInternalId": "#007306",
     "description": "Italian scholar",
     "birthDate": "GREGORIAN:1920",
     "deathDate": "GREGORIAN:2008"
@@ -1666,7 +1666,7 @@
     "firstName": "F. L.",
     "lastName": "Lucas",
     "hasGender": "male",
-    "personInternalId": "#007307",
+    "hasPersonInternalId": "#007307",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1927"
   },
@@ -1674,14 +1674,14 @@
     "firstName": "Norbert F.",
     "lastName": "O'Donnell",
     "hasGender": "male",
-    "personInternalId": "#007308",
+    "hasPersonInternalId": "#007308",
     "description": "U.S. academic"
   },
   "ww_ac792c172bd4228f": {
     "firstName": "Howard",
     "lastName": "Schultz",
     "hasGender": "male",
-    "personInternalId": "#007309",
+    "hasPersonInternalId": "#007309",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1941"
   },
@@ -1689,7 +1689,7 @@
     "firstName": "Thomas Wallace",
     "lastName": "Craik",
     "hasGender": "male",
-    "personInternalId": "#007310",
+    "hasPersonInternalId": "#007310",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1975:2008"
   },
@@ -1697,7 +1697,7 @@
     "firstName": "Ernest",
     "lastName": "Sirluck",
     "hasGender": "male",
-    "personInternalId": "#007311",
+    "hasPersonInternalId": "#007311",
     "description": "Canadian academic",
     "birthDate": "GREGORIAN:1918",
     "deathDate": "GREGORIAN:2013"
@@ -1706,7 +1706,7 @@
     "firstName": "Barbara",
     "lastName": "Str\u00e4uli",
     "hasGender": "female",
-    "personInternalId": "#007312",
+    "hasPersonInternalId": "#007312",
     "description": "*Swiss scholar",
     "birthDate": "GREGORIAN:1949"
   },
@@ -1714,7 +1714,7 @@
     "firstName": "Else",
     "lastName": "von Schaubert",
     "hasGender": "female",
-    "personInternalId": "#007313",
+    "hasPersonInternalId": "#007313",
     "description": "*German scholar , full name Else Constanze Wilhelmine von Schaubert",
     "birthDate": "GREGORIAN:1886",
     "deathDate": "GREGORIAN:1977"
@@ -1723,7 +1723,7 @@
     "firstName": "Jacob",
     "lastName": "Feis",
     "hasGender": "male",
-    "personInternalId": "#007314",
+    "hasPersonInternalId": "#007314",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1884"
   },
@@ -1731,7 +1731,7 @@
     "firstName": "William Lowes",
     "lastName": "Rushton",
     "hasGender": "male",
-    "personInternalId": "#007315",
+    "hasPersonInternalId": "#007315",
     "description": "English scholar",
     "activeDate": "GREGORIAN:1869:1871"
   },
@@ -1739,7 +1739,7 @@
     "firstName": "Roland Mushat",
     "lastName": "Frye",
     "hasGender": "male",
-    "personInternalId": "#007316",
+    "hasPersonInternalId": "#007316",
     "description": "U.S. literary scholar and theologian",
     "birthDate": "GREGORIAN:1921",
     "deathDate": "GREGORIAN:2005"
@@ -1748,7 +1748,7 @@
     "firstName": "Thomas",
     "lastName": "Warton",
     "hasGender": "male",
-    "personInternalId": "#007317",
+    "hasPersonInternalId": "#007317",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1728",
     "deathDate": "GREGORIAN:1790"
@@ -1757,7 +1757,7 @@
     "firstName": "John Dover",
     "lastName": "Wilson",
     "hasGender": "male",
-    "personInternalId": "#007318",
+    "hasPersonInternalId": "#007318",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1881",
     "deathDate": "GREGORIAN:1969"
@@ -1766,7 +1766,7 @@
     "firstName": "Clive",
     "lastName": "Francis",
     "hasGender": "male",
-    "personInternalId": "#007319",
+    "hasPersonInternalId": "#007319",
     "description": "English actor",
     "birthDate": "GREGORIAN:1946"
   },
@@ -1774,7 +1774,7 @@
     "firstName": "Josephine Waters",
     "lastName": "Bennett",
     "hasGender": "female",
-    "personInternalId": "#007320",
+    "hasPersonInternalId": "#007320",
     "description": "*U.S. scholar",
     "birthDate": "GREGORIAN:1900",
     "deathDate": "GREGORIAN:1976"
@@ -1783,7 +1783,7 @@
     "firstName": "G. P. V. ",
     "lastName": "Akrigg",
     "hasGender": "male",
-    "personInternalId": "#007321",
+    "hasPersonInternalId": "#007321",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1958"
   },
@@ -1791,14 +1791,14 @@
     "firstName": "Neil",
     "lastName": "Rhodes",
     "hasGender": "male",
-    "personInternalId": "#007322",
+    "hasPersonInternalId": "#007322",
     "description": "English academic"
   },
   "ww_e5ff1210c152c993": {
     "firstName": "Gail Kern",
     "lastName": "Paster",
     "hasGender": "female",
-    "personInternalId": "#007323",
+    "hasPersonInternalId": "#007323",
     "description": "*U.S. scholar",
     "birthDate": "GREGORIAN:1944"
   },
@@ -1806,7 +1806,7 @@
     "firstName": "An.",
     "lastName": "Sc.",
     "hasGender": "male",
-    "personInternalId": "#007324",
+    "hasPersonInternalId": "#007324",
     "description": "English dramatist , full name Anthony Scoloker?",
     "activeDate": "GREGORIAN:1604"
   },
@@ -1814,7 +1814,7 @@
     "firstName": "John",
     "lastName": "Lavagnino",
     "hasGender": "male",
-    "personInternalId": "#007325",
+    "hasPersonInternalId": "#007325",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1957:1959"
   },
@@ -1822,7 +1822,7 @@
     "firstName": "Gary",
     "lastName": "Taylor",
     "hasGender": "male",
-    "personInternalId": "#007326",
+    "hasPersonInternalId": "#007326",
     "description": "U.S. academic",
     "birthDate": "GREGORIAN:1953"
   },
@@ -1830,7 +1830,7 @@
     "firstName": "Harvey Scott",
     "lastName": "McMillin",
     "hasGender": "male",
-    "personInternalId": "#007327",
+    "hasPersonInternalId": "#007327",
     "description": "U.S. scholar",
     "birthDate": "GREGORIAN:1920:1921",
     "deathDate": "GREGORIAN:2006"
@@ -1839,7 +1839,7 @@
     "firstName": "T.",
     "lastName": "Walkington",
     "hasGender": "male",
-    "personInternalId": "#007328",
+    "hasPersonInternalId": "#007328",
     "description": "English (?) poet",
     "activeDate": "GREGORIAN:1607"
   },
@@ -1847,7 +1847,7 @@
     "firstName": "John (1)",
     "lastName": "Mason",
     "hasGender": "male",
-    "personInternalId": "#007329",
+    "hasPersonInternalId": "#007329",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1609"
   },
@@ -1855,7 +1855,7 @@
     "firstName": "Roberta Florence",
     "lastName": "Brinkley",
     "hasGender": "female",
-    "personInternalId": "#007330",
+    "hasPersonInternalId": "#007330",
     "description": "*U.S. scholar",
     "activeDate": "GREGORIAN:1928:1932"
   },
@@ -1863,7 +1863,7 @@
     "firstName": "William",
     "lastName": "Barksted",
     "hasGender": "male",
-    "personInternalId": "#007331",
+    "hasPersonInternalId": "#007331",
     "description": "English poet and dramatist",
     "activeDate": "GREGORIAN:1611",
     "personPerformedIn": "ww_1e80f9a92e3a09cc"
@@ -1872,7 +1872,7 @@
     "firstName": "Lewis",
     "lastName": "Mackin",
     "hasGender": "male",
-    "personInternalId": "#007332",
+    "hasPersonInternalId": "#007332",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1698"
   },
@@ -1880,7 +1880,7 @@
     "firstName": "Robert",
     "lastName": "Tailor",
     "hasGender": "male",
-    "personInternalId": "#007334",
+    "hasPersonInternalId": "#007334",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1613:1614"
   },
@@ -1888,7 +1888,7 @@
     "firstName": "Thomas",
     "lastName": "Goffe",
     "hasGender": "male",
-    "personInternalId": "#007335",
+    "hasPersonInternalId": "#007335",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1591",
     "deathDate": "GREGORIAN:1629"
@@ -1897,7 +1897,7 @@
     "firstName": "John",
     "lastName": "Heath",
     "hasGender": "male",
-    "personInternalId": "#007336",
+    "hasPersonInternalId": "#007336",
     "description": "English poet",
     "activeDate": "GREGORIAN:1615"
   },
@@ -1905,7 +1905,7 @@
     "firstName": "John (1)",
     "lastName": "Ford",
     "hasGender": "male",
-    "personInternalId": "#007337",
+    "hasPersonInternalId": "#007337",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1586",
     "deathDate": "GREGORIAN:1639:1640"
@@ -1914,7 +1914,7 @@
     "firstName": "Thomas",
     "lastName": "Nabbes",
     "hasGender": "male",
-    "personInternalId": "#007338",
+    "hasPersonInternalId": "#007338",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1605",
     "deathDate": "GREGORIAN:1641"
@@ -1923,7 +1923,7 @@
     "firstName": "Shackerley",
     "lastName": "Marmion",
     "hasGender": "male",
-    "personInternalId": "#007339",
+    "hasPersonInternalId": "#007339",
     "description": "English dramatist and poet",
     "birthDate": "GREGORIAN:1603",
     "deathDate": "GREGORIAN:1639"
@@ -1932,7 +1932,7 @@
     "firstName": "John",
     "lastName": "Swan",
     "hasGender": "male",
-    "personInternalId": "#007340",
+    "hasPersonInternalId": "#007340",
     "description": "English (?) poet",
     "activeDate": "GREGORIAN:1635"
   },
@@ -1940,7 +1940,7 @@
     "firstName": "Sir Ralph",
     "lastName": "Freeman",
     "hasGender": "male",
-    "personInternalId": "#007341",
+    "hasPersonInternalId": "#007341",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1610:1655"
   },
@@ -1948,7 +1948,7 @@
     "firstName": "Samuel",
     "lastName": "Pick",
     "hasGender": "male",
-    "personInternalId": "#007342",
+    "hasPersonInternalId": "#007342",
     "description": "British anthologist",
     "activeDate": "GREGORIAN:1639"
   },
@@ -1956,7 +1956,7 @@
     "firstName": "Samuel ",
     "lastName": "Sheppard",
     "hasGender": "male",
-    "personInternalId": "#007343",
+    "hasPersonInternalId": "#007343",
     "description": "English poet and prose writer",
     "birthDate": "GREGORIAN:1624",
     "deathDate": "GREGORIAN:1655"
@@ -1965,7 +1965,7 @@
     "firstName": "Sir Richard",
     "lastName": "Fanshawe",
     "hasGender": "male",
-    "personInternalId": "#007345",
+    "hasPersonInternalId": "#007345",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1608",
     "deathDate": "GREGORIAN:1666"
@@ -1974,7 +1974,7 @@
     "firstName": "Gilbert",
     "lastName": "Swinhoe",
     "hasGender": "male",
-    "personInternalId": "#007346",
+    "hasPersonInternalId": "#007346",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1658"
   },
@@ -1982,7 +1982,7 @@
     "firstName": "George R.",
     "lastName": "Coffman",
     "hasGender": "male",
-    "personInternalId": "#007347",
+    "hasPersonInternalId": "#007347",
     "description": "U.S. scholar",
     "activeDate": "GREGORIAN:1927"
   },
@@ -1990,21 +1990,21 @@
     "firstName": "Laura",
     "lastName": "Estill",
     "hasGender": "female",
-    "personInternalId": "#007348",
+    "hasPersonInternalId": "#007348",
     "description": "*Canadian (?) scholar"
   },
   "ww_dbf15ae40aa8f01d": {
     "firstName": "Beatrice",
     "lastName": "Montedoro",
     "hasGender": "female",
-    "personInternalId": "#007349",
+    "hasPersonInternalId": "#007349",
     "description": "*Swiss scholar"
   },
   "ww_220a73def979f4a4": {
     "firstName": "Nicholas",
     "lastName": "Udall",
     "hasGender": "male",
-    "personInternalId": "#007350",
+    "hasPersonInternalId": "#007350",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1504",
     "deathDate": "GREGORIAN:1556"
@@ -2013,14 +2013,14 @@
     "firstName": "Thomas",
     "lastName": "Wilson",
     "hasGender": "male",
-    "personInternalId": "#007351",
+    "hasPersonInternalId": "#007351",
     "description": "English diplomat and rhetorician 1524\u20131581"
   },
   "ww_2328c74af1f27243": {
     "firstName": "Marcus Tullius",
     "lastName": "Cicero",
     "hasGender": "male",
-    "personInternalId": "#007013",
+    "hasPersonInternalId": "#007013",
     "description": "Roman politician, orator and philosopher 106 BC-43 BC",
     "lexiaAsPerson": "ww_00825941bc63ca6f"
   },
@@ -2028,7 +2028,7 @@
     "firstName": "John",
     "lastName": "Dolman",
     "hasGender": "male",
-    "personInternalId": "#007353",
+    "hasPersonInternalId": "#007353",
     "description": "English translator",
     "activeDate": "GREGORIAN:1561"
   },
@@ -2036,7 +2036,7 @@
     "firstName": "Sir Brian William ",
     "lastName": "Vickers",
     "hasGender": "male",
-    "personInternalId": "#007354",
+    "hasPersonInternalId": "#007354",
     "description": "British academic",
     "birthDate": "GREGORIAN:1937"
   },
@@ -2044,7 +2044,7 @@
     "firstName": "John V.",
     "lastName": "Velz",
     "hasGender": "male",
-    "personInternalId": "#007355",
+    "hasPersonInternalId": "#007355",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1968"
   },
@@ -2052,7 +2052,7 @@
     "firstName": "Richard",
     "lastName": "Rainolde",
     "hasGender": "male",
-    "personInternalId": "#007356",
+    "hasPersonInternalId": "#007356",
     "description": "English (?) rhetorician and historian",
     "activeDate": "GREGORIAN:1563:1571"
   },
@@ -2060,7 +2060,7 @@
     "firstName": "Louise",
     "lastName": "Schleiner",
     "hasGender": "female",
-    "personInternalId": "#007357",
+    "hasPersonInternalId": "#007357",
     "description": "*U.S. academic",
     "deathDate": "GREGORIAN:2000"
   },
@@ -2068,7 +2068,7 @@
     "firstName": "Henry ",
     "lastName": "Smith",
     "hasGender": "male",
-    "personInternalId": "#007358",
+    "hasPersonInternalId": "#007358",
     "description": "English priest",
     "birthDate": "GREGORIAN:1559:1561",
     "deathDate": "GREGORIAN:1591:1613"
@@ -2077,7 +2077,7 @@
     "firstName": "George",
     "lastName": "Buchanan",
     "hasGender": "male",
-    "personInternalId": "#007359",
+    "hasPersonInternalId": "#007359",
     "description": "Scottish poet and dramatist",
     "birthDate": "GREGORIAN:1506",
     "deathDate": "GREGORIAN:1582"
@@ -2086,7 +2086,7 @@
     "firstName": "Lucius Annaeus",
     "lastName": "Seneca",
     "hasGender": "male",
-    "personInternalId": "#007012",
+    "hasPersonInternalId": "#007012",
     "description": "Roman tragedian and philosopher 4 BC-65 AD",
     "lexiaAsPerson": "ww_b70f29cbed74fc06"
   },
@@ -2094,7 +2094,7 @@
     "firstName": "John",
     "lastName": "Studley",
     "hasGender": "male",
-    "personInternalId": "#007361",
+    "hasPersonInternalId": "#007361",
     "description": "English translator",
     "birthDate": "GREGORIAN:1544:1546",
     "deathDate": "GREGORIAN:1573:1595"
@@ -2103,7 +2103,7 @@
     "firstName": "Anthony Brian",
     "lastName": "Taylor",
     "hasGender": "male",
-    "personInternalId": "#007362",
+    "hasPersonInternalId": "#007362",
     "description": "English academic",
     "activeDate": "GREGORIAN:1988:1999"
   },
@@ -2111,7 +2111,7 @@
     "firstName": "Arthur",
     "lastName": "Golding",
     "hasGender": "male",
-    "personInternalId": "#007363",
+    "hasPersonInternalId": "#007363",
     "description": "English translator",
     "birthDate": "GREGORIAN:1536",
     "deathDate": "GREGORIAN:1606"
@@ -2120,7 +2120,7 @@
     "firstName": "Publius",
     "lastName": "Ovidius Naso",
     "hasGender": "male",
-    "personInternalId": "#007015",
+    "hasPersonInternalId": "#007015",
     "description": "Roman poet 43 BC-18 AD",
     "lexiaAsPerson": "ww_5c261f335216e1ce"
   },
@@ -2128,7 +2128,7 @@
     "firstName": "Mary M.",
     "lastName": "Wills",
     "hasGender": "female",
-    "personInternalId": "#007365",
+    "hasPersonInternalId": "#007365",
     "description": "*U.S. scholar",
     "activeDate": "GREGORIAN:1937:1962"
   },
@@ -2136,7 +2136,7 @@
     "firstName": "John",
     "lastName": "Skelton",
     "hasGender": "male",
-    "personInternalId": "#007366",
+    "hasPersonInternalId": "#007366",
     "description": "English poet",
     "birthDate": "GREGORIAN:1463",
     "deathDate": "GREGORIAN:1529"
@@ -2145,7 +2145,7 @@
     "firstName": "_",
     "lastName": "Elizabeth I",
     "hasGender": "male",
-    "personInternalId": "#007367",
+    "hasPersonInternalId": "#007367",
     "description": "Queen of England",
     "birthDate": "GREGORIAN:1533",
     "deathDate": "GREGORIAN:1603"
@@ -2154,7 +2154,7 @@
     "firstName": "Sir Christopher",
     "lastName": "Hatton",
     "hasGender": "male",
-    "personInternalId": "#007368",
+    "hasPersonInternalId": "#007368",
     "description": "English politician",
     "birthDate": "GREGORIAN:1540",
     "deathDate": "GREGORIAN:1591"
@@ -2163,14 +2163,14 @@
     "firstName": "Thomas",
     "lastName": "Bedingfield",
     "hasGender": "male",
-    "personInternalId": "#007369",
+    "hasPersonInternalId": "#007369",
     "description": "English translator 1613"
   },
   "ww_f1930a433a3b1444": {
     "firstName": "Craig",
     "lastName": "Hardin",
     "hasGender": "male",
-    "personInternalId": "#007370",
+    "hasPersonInternalId": "#007370",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1934"
   },
@@ -2178,7 +2178,7 @@
     "firstName": "Frans",
     "lastName": "de Bruyn",
     "hasGender": "male",
-    "personInternalId": "#007371",
+    "hasPersonInternalId": "#007371",
     "description": "Canadian academic",
     "activeDate": "GREGORIAN:2008"
   },
@@ -2186,7 +2186,7 @@
     "firstName": "John",
     "lastName": "Lyly",
     "hasGender": "male",
-    "personInternalId": "#007372",
+    "hasPersonInternalId": "#007372",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1553:1554",
     "deathDate": "GREGORIAN:1606"
@@ -2195,7 +2195,7 @@
     "firstName": "Edward",
     "lastName": "Dowden",
     "hasGender": "male",
-    "personInternalId": "#007373",
+    "hasPersonInternalId": "#007373",
     "description": "Irish poet and literary critic",
     "birthDate": "GREGORIAN:1843",
     "deathDate": "GREGORIAN:1913"
@@ -2204,7 +2204,7 @@
     "firstName": "Warwick",
     "lastName": "Bond",
     "hasGender": "male",
-    "personInternalId": "#007374",
+    "hasPersonInternalId": "#007374",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1092"
   },
@@ -2212,7 +2212,7 @@
     "firstName": "Thomas",
     "lastName": "Tusser",
     "hasGender": "male",
-    "personInternalId": "#007375",
+    "hasPersonInternalId": "#007375",
     "description": "English poet",
     "birthDate": "GREGORIAN:1524",
     "deathDate": "GREGORIAN:1580"
@@ -2221,7 +2221,7 @@
     "firstName": "John ",
     "lastName": "Merbeck or Marbeck",
     "hasGender": "male",
-    "personInternalId": "#007376",
+    "hasPersonInternalId": "#007376",
     "description": "English theological writer",
     "birthDate": "GREGORIAN:1508:1512",
     "deathDate": "GREGORIAN:1583:1587"
@@ -2230,7 +2230,7 @@
     "firstName": "George",
     "lastName": "Pettie",
     "hasGender": "male",
-    "personInternalId": "#007377",
+    "hasPersonInternalId": "#007377",
     "description": "English novelist and translator",
     "birthDate": "GREGORIAN:1548",
     "deathDate": "GREGORIAN:1589"
@@ -2239,7 +2239,7 @@
     "firstName": "Richard",
     "lastName": "Mulcaster",
     "hasGender": "male",
-    "personInternalId": "#007378",
+    "hasPersonInternalId": "#007378",
     "description": "English educator",
     "birthDate": "GREGORIAN:1530:1531",
     "deathDate": "GREGORIAN:1611"
@@ -2248,7 +2248,7 @@
     "firstName": "Robert",
     "lastName": "Persons",
     "hasGender": "male",
-    "personInternalId": "#007379",
+    "hasPersonInternalId": "#007379",
     "description": "English Jesuit missionary",
     "birthDate": "GREGORIAN:1546",
     "deathDate": "GREGORIAN:1610"
@@ -2257,21 +2257,21 @@
     "firstName": "Richard",
     "lastName": "Stanyhurst",
     "hasGender": "male",
-    "personInternalId": "#007380",
+    "hasPersonInternalId": "#007380",
     "description": "Irish  translator, poet and historian 1547\u20131618"
   },
   "ww_81a0be98745dd98b": {
     "firstName": "Publius",
     "lastName": "Vergilius Maro",
     "hasGender": "male",
-    "personInternalId": "#007381",
+    "hasPersonInternalId": "#007381",
     "description": "Roman epic poet 70 BC-19 BC"
   },
   "ww_2a3b4daed2941136": {
     "firstName": "James",
     "lastName": "Yates",
     "hasGender": "male",
-    "personInternalId": "#007382",
+    "hasPersonInternalId": "#007382",
     "description": "English poet",
     "activeDate": "GREGORIAN:1582"
   },
@@ -2279,14 +2279,14 @@
     "firstName": "Brian",
     "lastName": "Melbancke",
     "hasGender": "male",
-    "personInternalId": "#007383",
+    "hasPersonInternalId": "#007383",
     "description": "English dramatist fl.1583"
   },
   "ww_e746ef3ff7ed65a8": {
     "firstName": "Dudley",
     "lastName": "Fenner",
     "hasGender": "male",
-    "personInternalId": "#007384",
+    "hasPersonInternalId": "#007384",
     "description": "English puritan writer",
     "birthDate": "GREGORIAN:1556:1360",
     "deathDate": "GREGORIAN:1587"
@@ -2295,7 +2295,7 @@
     "firstName": "Reginald",
     "lastName": "Scot",
     "hasGender": "male",
-    "personInternalId": "#007385",
+    "hasPersonInternalId": "#007385",
     "description": "English politician",
     "birthDate": "GREGORIAN:1538",
     "deathDate": "GREGORIAN:1599"
@@ -2304,7 +2304,7 @@
     "firstName": "Edward Kerchever",
     "lastName": "Chambers",
     "hasGender": "male",
-    "personInternalId": "#007386",
+    "hasPersonInternalId": "#007386",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1866",
     "deathDate": "GREGORIAN:1954"
@@ -2313,7 +2313,7 @@
     "firstName": "John",
     "lastName": "Norden",
     "hasGender": "male",
-    "personInternalId": "#007387",
+    "hasPersonInternalId": "#007387",
     "description": "English devotional writer",
     "birthDate": "GREGORIAN:1546:1549",
     "deathDate": "GREGORIAN:1625"
@@ -2322,7 +2322,7 @@
     "firstName": "Thomas",
     "lastName": "Bilson",
     "hasGender": "male",
-    "personInternalId": "#007388",
+    "hasPersonInternalId": "#007388",
     "description": "English bishop and final editor of the King James Bible",
     "birthDate": "GREGORIAN:1547",
     "deathDate": "GREGORIAN:1616"
@@ -2331,7 +2331,7 @@
     "firstName": "Sir Philip",
     "lastName": "Sidney",
     "hasGender": "male",
-    "personInternalId": "#007018",
+    "hasPersonInternalId": "#007018",
     "description": "English poet",
     "birthDate": "GREGORIAN:1554",
     "deathDate": "GREGORIAN:1586",
@@ -2341,7 +2341,7 @@
     "firstName": "Timothy",
     "lastName": "Bright",
     "hasGender": "male",
-    "personInternalId": "#007390",
+    "hasPersonInternalId": "#007390",
     "description": "English physician and stenographer",
     "birthDate": "GREGORIAN:1550:1552",
     "deathDate": "GREGORIAN:1615"
@@ -2350,7 +2350,7 @@
     "firstName": "M. L.",
     "lastName": "Stapleton",
     "hasGender": "male",
-    "personInternalId": "#007391",
+    "hasPersonInternalId": "#007391",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:2014"
   },
@@ -2358,7 +2358,7 @@
     "firstName": "Charles",
     "lastName": "Crawford",
     "hasGender": "male",
-    "personInternalId": "#007392",
+    "hasPersonInternalId": "#007392",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1911"
   },
@@ -2366,7 +2366,7 @@
     "firstName": "Jacob Sider",
     "lastName": "Jost",
     "hasGender": "male",
-    "personInternalId": "#007393",
+    "hasPersonInternalId": "#007393",
     "description": "U.S. academic",
     "birthDate": "GREGORIAN:1979:1982"
   },
@@ -2374,7 +2374,7 @@
     "firstName": "Linda M.",
     "lastName": "Charnes",
     "hasGender": "female",
-    "personInternalId": "#007394",
+    "hasPersonInternalId": "#007394",
     "description": "*U.S. (?) scholar",
     "activeDate": "GREGORIAN:1997"
   },
@@ -2382,7 +2382,7 @@
     "firstName": "Marvin W.",
     "lastName": "Hunt",
     "hasGender": "male",
-    "personInternalId": "#007395",
+    "hasPersonInternalId": "#007395",
     "description": "English (?) academic",
     "activeDate": "GREGORIAN:2007"
   },
@@ -2390,7 +2390,7 @@
     "firstName": "Rudolf",
     "lastName": "S\u00fchnel",
     "hasGender": "male",
-    "personInternalId": "#007396",
+    "hasPersonInternalId": "#007396",
     "description": "German academic",
     "birthDate": "GREGORIAN:1907",
     "deathDate": "GREGORIAN:2007"
@@ -2399,7 +2399,7 @@
     "firstName": "David Martin",
     "lastName": "Bevington",
     "hasGender": "male",
-    "personInternalId": "#007397",
+    "hasPersonInternalId": "#007397",
     "description": "American scholar",
     "birthDate": "GREGORIAN:1931",
     "deathDate": "GREGORIAN:2019"
@@ -2408,7 +2408,7 @@
     "firstName": "Abraham",
     "lastName": "Fraunce",
     "hasGender": "male",
-    "personInternalId": "#007398",
+    "hasPersonInternalId": "#007398",
     "description": "English poet",
     "birthDate": "GREGORIAN:1558:1560",
     "deathDate": "GREGORIAN:1592:1593"
@@ -2417,7 +2417,7 @@
     "firstName": "Thomas",
     "lastName": "Smith",
     "hasGender": "male",
-    "personInternalId": "#007399",
+    "hasPersonInternalId": "#007399",
     "description": "English philosopher",
     "activeDate": "GREGORIAN:1589"
   },
@@ -2425,7 +2425,7 @@
     "firstName": "Henry",
     "lastName": "Swinburne",
     "hasGender": "male",
-    "personInternalId": "#007400",
+    "hasPersonInternalId": "#007400",
     "description": "English jurist",
     "activeDate": "GREGORIAN:1590"
   },
@@ -2433,7 +2433,7 @@
     "firstName": "Sir Everard",
     "lastName": "Digby",
     "hasGender": "male",
-    "personInternalId": "#007401",
+    "hasPersonInternalId": "#007401",
     "description": "English Catholic activist",
     "birthDate": "GREGORIAN:1578",
     "deathDate": "GREGORIAN:1606"
@@ -2442,7 +2442,7 @@
     "firstName": "John",
     "lastName": "Florio",
     "hasGender": "male",
-    "personInternalId": "#007402",
+    "hasPersonInternalId": "#007402",
     "description": "Anglo-Italian translator and anthologist",
     "birthDate": "GREGORIAN:1553",
     "deathDate": "GREGORIAN:1625"
@@ -2451,7 +2451,7 @@
     "firstName": "Richard",
     "lastName": "Barnfield",
     "hasGender": "male",
-    "personInternalId": "#007403",
+    "hasPersonInternalId": "#007403",
     "description": "English poet",
     "birthDate": "GREGORIAN:1574",
     "deathDate": "GREGORIAN:1627"
@@ -2460,7 +2460,7 @@
     "firstName": "John",
     "lastName": "King",
     "hasGender": "male",
-    "personInternalId": "#007404",
+    "hasPersonInternalId": "#007404",
     "description": "English theologian",
     "activeDate": "GREGORIAN:1594"
   },
@@ -2468,14 +2468,14 @@
     "firstName": "Anthony",
     "lastName": "Copley",
     "hasGender": "male",
-    "personInternalId": "#007406",
+    "hasPersonInternalId": "#007406",
     "description": "(?)"
   },
   "ww_84ff74beb4a95aa1": {
     "firstName": "William",
     "lastName": "Perkins",
     "hasGender": "male",
-    "personInternalId": "#007407",
+    "hasPersonInternalId": "#007407",
     "description": "English Puritan theologian",
     "birthDate": "GREGORIAN:1558",
     "deathDate": "GREGORIAN:1602"
@@ -2484,14 +2484,14 @@
     "firstName": "Adele",
     "lastName": "Davidson",
     "hasGender": "male",
-    "personInternalId": "#007408",
+    "hasPersonInternalId": "#007408",
     "description": "U.S. academic"
   },
   "ww_196318c17e1ae6d2": {
     "firstName": "Richard",
     "lastName": "Knowles",
     "hasGender": "male",
-    "personInternalId": "#007409",
+    "hasPersonInternalId": "#007409",
     "description": "U.S. academic",
     "activeDate": "GREGORIAN:2010"
   },
@@ -2499,7 +2499,7 @@
     "firstName": "William",
     "lastName": "Kempe",
     "hasGender": "male",
-    "personInternalId": "#007004",
+    "hasPersonInternalId": "#007004",
     "description": "English comic actor , also known as Will Kemp",
     "deathDate": "GREGORIAN:1603",
     "personPerformedIn": "ww_663bc260dc952b96",
@@ -2509,7 +2509,7 @@
     "firstName": "Sir Francis",
     "lastName": "Hubert",
     "hasGender": "male",
-    "personInternalId": "#007411",
+    "hasPersonInternalId": "#007411",
     "description": "English poet",
     "deathDate": "GREGORIAN:1629"
   },
@@ -2517,7 +2517,7 @@
     "firstName": "Josuah",
     "lastName": "Sylvester",
     "hasGender": "male",
-    "personInternalId": "#007412",
+    "hasPersonInternalId": "#007412",
     "description": "English translator",
     "birthDate": "GREGORIAN:1563",
     "deathDate": "GREGORIAN:1618"
@@ -2526,7 +2526,7 @@
     "firstName": "John",
     "lastName": "Dowland",
     "hasGender": "male",
-    "personInternalId": "#007413",
+    "hasPersonInternalId": "#007413",
     "description": "English composer and poet",
     "birthDate": "GREGORIAN:1563",
     "deathDate": "GREGORIAN:1626"
@@ -2535,7 +2535,7 @@
     "firstName": "W. M.",
     "lastName": "Theobald",
     "hasGender": "male",
-    "personInternalId": "#007414",
+    "hasPersonInternalId": "#007414",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1909"
   },
@@ -2543,14 +2543,14 @@
     "firstName": "Duncan",
     "lastName": "Salkeld",
     "hasGender": "male",
-    "personInternalId": "#007415",
+    "hasPersonInternalId": "#007415",
     "description": "English academic"
   },
   "ww_09a5cd76696f88a5": {
     "firstName": "F. W.",
     "lastName": "Sternfeld",
     "hasGender": "male",
-    "personInternalId": "#007416",
+    "hasPersonInternalId": "#007416",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1964"
   },
@@ -2558,7 +2558,7 @@
     "firstName": "Thomas O.",
     "lastName": "Calhoun",
     "hasGender": "male",
-    "personInternalId": "#007417",
+    "hasPersonInternalId": "#007417",
     "description": "U.S. (?) academic",
     "activeDate": "GREGORIAN:1989:1993"
   },
@@ -2566,7 +2566,7 @@
     "firstName": "Laurence",
     "lastName": "Heyworth",
     "hasGender": "male",
-    "personInternalId": "#007418",
+    "hasPersonInternalId": "#007418",
     "description": " \tU.S. (?) academic",
     "activeDate": "GREGORIAN:1989:1993"
   },
@@ -2574,7 +2574,7 @@
     "firstName": "Allan",
     "lastName": "Pritchard",
     "hasGender": "male",
-    "personInternalId": "#007419",
+    "hasPersonInternalId": "#007419",
     "description": " \tU.S. (?) academic",
     "activeDate": "GREGORIAN:1989:1993"
   },
@@ -2582,7 +2582,7 @@
     "firstName": "Robert William",
     "lastName": "Dent",
     "hasGender": "male",
-    "personInternalId": "#007420",
+    "hasPersonInternalId": "#007420",
     "description": "U.S. scholar",
     "birthDate": "GREGORIAN:1917",
     "deathDate": "GREGORIAN:2005"
@@ -2591,7 +2591,7 @@
     "firstName": "Fredson Thayer",
     "lastName": "Bowers",
     "hasGender": "male",
-    "personInternalId": "#007421",
+    "hasPersonInternalId": "#007421",
     "description": "U.S. scholar",
     "birthDate": "GREGORIAN:1905",
     "deathDate": "GREGORIAN:1991"
@@ -2600,7 +2600,7 @@
     "firstName": "Robert",
     "lastName": "Allott",
     "hasGender": "male",
-    "personInternalId": "#007422",
+    "hasPersonInternalId": "#007422",
     "description": "English publisher",
     "deathDate": "GREGORIAN:1635"
   },
@@ -2608,7 +2608,7 @@
     "firstName": "Arthur H.",
     "lastName": "King",
     "hasGender": "male",
-    "personInternalId": "#007423",
+    "hasPersonInternalId": "#007423",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1941"
   },
@@ -2616,7 +2616,7 @@
     "firstName": "John",
     "lastName": "Deacon",
     "hasGender": "male",
-    "personInternalId": "#007424",
+    "hasPersonInternalId": "#007424",
     "description": "English preacher",
     "activeDate": "GREGORIAN:1585:1616"
   },
@@ -2624,7 +2624,7 @@
     "firstName": "John (1)",
     "lastName": "Walker",
     "hasGender": "male",
-    "personInternalId": "#007425",
+    "hasPersonInternalId": "#007425",
     "description": "English preacher",
     "activeDate": "GREGORIAN:1601"
   },
@@ -2632,7 +2632,7 @@
     "firstName": "A. E. H.",
     "lastName": "Swaen",
     "hasGender": "male",
-    "personInternalId": "#007426",
+    "hasPersonInternalId": "#007426",
     "description": "Dutch (?) scholar",
     "activeDate": "GREGORIAN:1912"
   },
@@ -2640,7 +2640,7 @@
     "firstName": "John",
     "lastName": "Willis",
     "hasGender": "male",
-    "personInternalId": "#007427",
+    "hasPersonInternalId": "#007427",
     "description": "English clergyman and stenographer ca.",
     "birthDate": "GREGORIAN:1575",
     "deathDate": "GREGORIAN:1625"
@@ -2649,7 +2649,7 @@
     "firstName": "T. J. B.",
     "lastName": "Spencer",
     "hasGender": "male",
-    "personInternalId": "#007428",
+    "hasPersonInternalId": "#007428",
     "description": "U.S. (?) schoalar",
     "activeDate": "GREGORIAN:1980"
   },
@@ -2657,7 +2657,7 @@
     "firstName": "Robert",
     "lastName": "Dodsley",
     "hasGender": "male",
-    "personInternalId": "#007429",
+    "hasPersonInternalId": "#007429",
     "description": "British publisher, poet and dramatist",
     "birthDate": "GREGORIAN:1703",
     "deathDate": "GREGORIAN:1764"
@@ -2666,7 +2666,7 @@
     "firstName": "Charles",
     "lastName": "Whitney",
     "hasGender": "male",
-    "personInternalId": "#007430",
+    "hasPersonInternalId": "#007430",
     "description": "U.S. academic",
     "activeDate": "GREGORIAN:2006"
   },
@@ -2674,7 +2674,7 @@
     "firstName": "Elizabeth, Viscountess Falkland ",
     "lastName": "Cary",
     "hasGender": "female",
-    "personInternalId": "#007432",
+    "hasPersonInternalId": "#007432",
     "description": "*English poet, dramatist and translator",
     "birthDate": "GREGORIAN:1585",
     "deathDate": "GREGORIAN:1639"
@@ -2683,7 +2683,7 @@
     "firstName": "Samuel",
     "lastName": "Garey",
     "hasGender": "male",
-    "personInternalId": "#007433",
+    "hasPersonInternalId": "#007433",
     "description": "English",
     "activeDate": "GREGORIAN:1605"
   },
@@ -2691,7 +2691,7 @@
     "firstName": "John M.",
     "lastName": "Robertson",
     "hasGender": "male",
-    "personInternalId": "#007434",
+    "hasPersonInternalId": "#007434",
     "description": "Scottish politician and scholar",
     "birthDate": "GREGORIAN:1856",
     "deathDate": "GREGORIAN:1933"
@@ -2700,14 +2700,14 @@
     "firstName": "Thomas",
     "lastName": "Pickering",
     "hasGender": "male",
-    "personInternalId": "#007435",
+    "hasPersonInternalId": "#007435",
     "description": "English (?) writer"
   },
   "ww_ba2bed49492fef13": {
     "firstName": "Robert",
     "lastName": "Daborne",
     "hasGender": "male",
-    "personInternalId": "#007436",
+    "hasPersonInternalId": "#007436",
     "description": "English dramatist",
     "deathDate": "GREGORIAN:1628"
   },
@@ -2715,7 +2715,7 @@
     "firstName": "Alexander",
     "lastName": "Niccholes",
     "hasGender": "male",
-    "personInternalId": "#007437",
+    "hasPersonInternalId": "#007437",
     "description": "British poet",
     "activeDate": "GREGORIAN:1615"
   },
@@ -2723,7 +2723,7 @@
     "firstName": "William",
     "lastName": "Basse",
     "hasGender": "male",
-    "personInternalId": "#007438",
+    "hasPersonInternalId": "#007438",
     "description": "English anthologist",
     "activeDate": "GREGORIAN:1615:1653"
   },
@@ -2731,7 +2731,7 @@
     "firstName": "Edward",
     "lastName": "Phillips",
     "hasGender": "male",
-    "personInternalId": "#007439",
+    "hasPersonInternalId": "#007439",
     "description": "British anthologist",
     "birthDate": "GREGORIAN:1630",
     "deathDate": "GREGORIAN:1696:1700"
@@ -2740,7 +2740,7 @@
     "firstName": "Edward",
     "lastName": "Pond",
     "hasGender": "male",
-    "personInternalId": "#007440",
+    "hasPersonInternalId": "#007440",
     "description": "British writer",
     "deathDate": "GREGORIAN:1629"
   },
@@ -2748,7 +2748,7 @@
     "firstName": "William",
     "lastName": "Twisse",
     "hasGender": "male",
-    "personInternalId": "#007441",
+    "hasPersonInternalId": "#007441",
     "description": "English Puritan priest",
     "birthDate": "GREGORIAN:1578",
     "deathDate": "GREGORIAN:1646"
@@ -2757,7 +2757,7 @@
     "firstName": "John",
     "lastName": "Milton",
     "hasGender": "male",
-    "personInternalId": "#007442",
+    "hasPersonInternalId": "#007442",
     "description": "English poet",
     "birthDate": "GREGORIAN:1608",
     "deathDate": "GREGORIAN:1674"
@@ -2766,7 +2766,7 @@
     "firstName": "Sir Thomas",
     "lastName": "Browne",
     "hasGender": "male",
-    "personInternalId": "#007443",
+    "hasPersonInternalId": "#007443",
     "description": "English physician, antiquarian and philosopher",
     "birthDate": "GREGORIAN:1605",
     "deathDate": "GREGORIAN:1682"
@@ -2775,7 +2775,7 @@
     "firstName": "George Gerbier ",
     "lastName": "d'Ouvilly",
     "hasGender": "male",
-    "personInternalId": "#007444",
+    "hasPersonInternalId": "#007444",
     "description": "Dutch-born English dramatist",
     "activeDate": "GREGORIAN:1661"
   },
@@ -2783,7 +2783,7 @@
     "firstName": "Thomas",
     "lastName": "D'Urfey",
     "hasGender": "male",
-    "personInternalId": "#007445",
+    "hasPersonInternalId": "#007445",
     "description": "English dramatist and songwriter",
     "birthDate": "GREGORIAN:1653",
     "deathDate": "GREGORIAN:1723"
@@ -2792,7 +2792,7 @@
     "firstName": "Larry",
     "lastName": "Sanger",
     "hasGender": "male",
-    "personInternalId": "#007446",
+    "hasPersonInternalId": "#007446",
     "description": "U.S. internet project developer , realk name Lawrence Mark Sanger",
     "birthDate": "GREGORIAN:1986"
   },
@@ -2800,7 +2800,7 @@
     "firstName": "Jimmy Donal",
     "lastName": "Wales",
     "hasGender": "male",
-    "personInternalId": "#007447",
+    "hasPersonInternalId": "#007447",
     "description": "U.S.-British internet entrepreneur",
     "birthDate": "GREGORIAN:1966"
   },
@@ -2808,14 +2808,14 @@
     "firstName": "Decimus Junius",
     "lastName": "Juvenalis",
     "hasGender": "male",
-    "personInternalId": "#007448",
+    "hasPersonInternalId": "#007448",
     "description": "Roman poet fl. 100-130"
   },
   "ww_61c49b5f6ed43c33": {
     "firstName": "Quintus Flaccus",
     "lastName": "Horatius",
     "hasGender": "male",
-    "personInternalId": "#007017",
+    "hasPersonInternalId": "#007017",
     "description": "Roman poet 65 BC-8 BC",
     "lexiaAsPerson": "ww_56b55e9b674b80ba"
   },
@@ -2823,14 +2823,14 @@
     "firstName": "_",
     "lastName": "St Augustine of Hippo",
     "hasGender": "male",
-    "personInternalId": "#007450",
+    "hasPersonInternalId": "#007450",
     "description": "Roman theologian 354-430"
   },
   "ww_fd2bbed82dcb70a3": {
     "firstName": "Titus Maccius",
     "lastName": "Plautus",
     "hasGender": "male",
-    "personInternalId": "#007011",
+    "hasPersonInternalId": "#007011",
     "description": "Roman dramatist 254 BC\u2013184 BC",
     "lexiaAsPerson": "ww_153d2b40d32bdbf9"
   },
@@ -2838,7 +2838,7 @@
     "firstName": "George E.",
     "lastName": "Duckworth",
     "hasGender": "male",
-    "personInternalId": "#007452",
+    "hasPersonInternalId": "#007452",
     "description": "U.S. academic",
     "birthDate": "GREGORIAN:1902:1903",
     "deathDate": "GREGORIAN:1972"
@@ -2847,14 +2847,14 @@
     "firstName": "Syrus",
     "lastName": "Publilius",
     "hasGender": "male",
-    "personInternalId": "#007453",
+    "hasPersonInternalId": "#007453",
     "description": "Roman aphorist fl. 85 BC\u201343 BC"
   },
   "ww_d8fac036ba8d11bb": {
     "firstName": "Sir John",
     "lastName": "Bowring",
     "hasGender": "male",
-    "personInternalId": "#007454",
+    "hasPersonInternalId": "#007454",
     "description": "English scholar and Governor of Hong Kong",
     "birthDate": "GREGORIAN:1792",
     "deathDate": "GREGORIAN:1872"
@@ -2863,21 +2863,21 @@
     "firstName": "Publius",
     "lastName": "Terentius Afer",
     "hasGender": "male",
-    "personInternalId": "#007455",
+    "hasPersonInternalId": "#007455",
     "description": "Roman dramatist  195 BC-159 BC"
   },
   "ww_ddd6c71bd41db79c": {
     "firstName": "Marcus Annaeus",
     "lastName": "Seneca",
     "hasGender": "male",
-    "personInternalId": "#007456",
+    "hasPersonInternalId": "#007456",
     "description": "Roman writer 39 BC-54 AD"
   },
   "ww_e64ab7a76b62b42b": {
     "firstName": "J. A. K. ",
     "lastName": "Thomson",
     "hasGender": "male",
-    "personInternalId": "#007457",
+    "hasPersonInternalId": "#007457",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1952"
   },
@@ -2885,21 +2885,21 @@
     "firstName": "Valerius",
     "lastName": "Maximus",
     "hasGender": "male",
-    "personInternalId": "#007458",
+    "hasPersonInternalId": "#007458",
     "description": "Roman rhetorician and anthologist fl. 27"
   },
   "ww_5543dbfff599bfd5": {
     "firstName": "Gaius Valerius ",
     "lastName": "Catullus",
     "hasGender": "male",
-    "personInternalId": "#007459",
+    "hasPersonInternalId": "#007459",
     "description": "Roman poet 84 BC-54 BC"
   },
   "ww_9a8e158285763a3c": {
     "firstName": "Desiderius",
     "lastName": "Erasmus",
     "hasGender": "male",
-    "personInternalId": "#007460",
+    "hasPersonInternalId": "#007460",
     "description": "Dutch scholar and theologian",
     "birthDate": "GREGORIAN:1466",
     "deathDate": "GREGORIAN:1536"
@@ -2908,7 +2908,7 @@
     "firstName": "John",
     "lastName": "Colet",
     "hasGender": "male",
-    "personInternalId": "#007461",
+    "hasPersonInternalId": "#007461",
     "description": "English priest and educator",
     "birthDate": "GREGORIAN:1467",
     "deathDate": "GREGORIAN:1519"
@@ -2917,7 +2917,7 @@
     "firstName": "William",
     "lastName": "Lily",
     "hasGender": "male",
-    "personInternalId": "#007462",
+    "hasPersonInternalId": "#007462",
     "description": "English classical grammarian and scholar",
     "birthDate": "GREGORIAN:1468",
     "deathDate": "GREGORIAN:1522"
@@ -2926,7 +2926,7 @@
     "firstName": "Marcellus Stellatus",
     "lastName": "Palingenius",
     "hasGender": "male",
-    "personInternalId": "#007463",
+    "hasPersonInternalId": "#007463",
     "description": "Italian astrologer ,  real name Pier Angelo Manzolli",
     "activeDate": "GREGORIAN:1543"
   },
@@ -2934,14 +2934,14 @@
     "firstName": "Dionysius ",
     "lastName": "Cato",
     "hasGender": "male",
-    "personInternalId": "#007464",
+    "hasPersonInternalId": "#007464",
     "description": "Roman writer [250-350]-[300-400]"
   },
   "ww_35d1cd927a05d91f": {
     "firstName": "Juan Luis",
     "lastName": "Vives",
     "hasGender": "male",
-    "personInternalId": "#007465",
+    "hasPersonInternalId": "#007465",
     "description": "Spanish reformer and humanist",
     "birthDate": "GREGORIAN:1493",
     "deathDate": "GREGORIAN:1540"
@@ -2950,7 +2950,7 @@
     "firstName": "Richard",
     "lastName": "Edwards",
     "hasGender": "male",
-    "personInternalId": "#007466",
+    "hasPersonInternalId": "#007466",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1525",
     "deathDate": "GREGORIAN:1566"
@@ -2959,7 +2959,7 @@
     "firstName": "Alan B.",
     "lastName": "Farmer",
     "hasGender": "male",
-    "personInternalId": "#007467",
+    "hasPersonInternalId": "#007467",
     "description": " \tU.S. academic",
     "birthDate": "GREGORIAN:1971:1974"
   },
@@ -2967,7 +2967,7 @@
     "firstName": "Zachary",
     "lastName": "Lesser",
     "hasGender": "male",
-    "personInternalId": "#007468",
+    "hasPersonInternalId": "#007468",
     "description": " \tU.S. academic",
     "birthDate": "GREGORIAN:1971:174"
   },
@@ -2975,7 +2975,7 @@
     "firstName": "Peter",
     "lastName": "Milward",
     "hasGender": "male",
-    "personInternalId": "#007469",
+    "hasPersonInternalId": "#007469",
     "description": "English Jesuit priest and scholar",
     "birthDate": "GREGORIAN:1925",
     "deathDate": "GREGORIAN:2017"
@@ -2984,7 +2984,7 @@
     "firstName": "Robert",
     "lastName": "Wilson",
     "hasGender": "male",
-    "personInternalId": "#007470",
+    "hasPersonInternalId": "#007470",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1540",
     "deathDate": "GREGORIAN:1600"
@@ -2993,7 +2993,7 @@
     "firstName": "Clement",
     "lastName": "Robinson",
     "hasGender": "male",
-    "personInternalId": "#007471",
+    "hasPersonInternalId": "#007471",
     "description": "British poet",
     "activeDate": "GREGORIAN:1566:1584"
   },
@@ -3001,7 +3001,7 @@
     "firstName": "John",
     "lastName": "Donne",
     "hasGender": "male",
-    "personInternalId": "#007472",
+    "hasPersonInternalId": "#007472",
     "description": "English poet",
     "birthDate": "GREGORIAN:1572",
     "deathDate": "GREGORIAN:1631"
@@ -3010,7 +3010,7 @@
     "firstName": "Joseph W.",
     "lastName": "DeMent",
     "hasGender": "male",
-    "personInternalId": "#007474",
+    "hasPersonInternalId": "#007474",
     "description": "U.S. (?( scholar",
     "activeDate": "GREGORIAN:1964"
   },
@@ -3018,7 +3018,7 @@
     "firstName": "Wolfgang",
     "lastName": "M\u00fcller",
     "hasGender": "male",
-    "personInternalId": "#007475",
+    "hasPersonInternalId": "#007475",
     "description": "German scholar",
     "activeDate": "GREGORIAN:2006"
   },
@@ -3026,7 +3026,7 @@
     "firstName": "Eric",
     "lastName": "Sams",
     "hasGender": "male",
-    "personInternalId": "#007476",
+    "hasPersonInternalId": "#007476",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1926",
     "deathDate": "GREGORIAN:2004"
@@ -3035,7 +3035,7 @@
     "firstName": "Francis",
     "lastName": "Meres",
     "hasGender": "male",
-    "personInternalId": "#007477",
+    "hasPersonInternalId": "#007477",
     "description": "English anthologist",
     "birthDate": "GREGORIAN:1565:1566",
     "deathDate": "GREGORIAN:1647"
@@ -3044,7 +3044,7 @@
     "firstName": "Robert",
     "lastName": "Jones",
     "hasGender": "male",
-    "personInternalId": "#007478",
+    "hasPersonInternalId": "#007478",
     "description": "English composer",
     "birthDate": "GREGORIAN:1577",
     "deathDate": "GREGORIAN:1617"
@@ -3053,7 +3053,7 @@
     "firstName": "Thomas",
     "lastName": "Acheley or Achelow",
     "hasGender": "male",
-    "personInternalId": "#007479",
+    "hasPersonInternalId": "#007479",
     "description": "English poet",
     "activeDate": "GREGORIAN:1589:1602"
   },
@@ -3061,7 +3061,7 @@
     "firstName": "Michel de",
     "lastName": "Montaigne",
     "hasGender": "male",
-    "personInternalId": "#007480",
+    "hasPersonInternalId": "#007480",
     "description": "French philosopher",
     "birthDate": "GREGORIAN:1533",
     "deathDate": "GREGORIAN:1592"
@@ -3070,7 +3070,7 @@
     "firstName": "Katherine Dorothea",
     "lastName": "Duncan-Jones",
     "hasGender": "female",
-    "personInternalId": "#007481",
+    "hasPersonInternalId": "#007481",
     "description": "*English scholar",
     "birthDate": "GREGORIAN:1941"
   },
@@ -3078,14 +3078,14 @@
     "firstName": "Richard Herne",
     "lastName": "Shepherd",
     "hasGender": "male",
-    "personInternalId": "#007482",
+    "hasPersonInternalId": "#007482",
     "description": "English bibliographer 1842\u20131895"
   },
   "ww_83e21e7a9246faa2": {
     "firstName": "Sir Thomas",
     "lastName": "Smith",
     "hasGender": "male",
-    "personInternalId": "#007483",
+    "hasPersonInternalId": "#007483",
     "description": "English writer",
     "birthDate": "GREGORIAN:1558",
     "deathDate": "GREGORIAN:1625"
@@ -3094,7 +3094,7 @@
     "firstName": "Tom",
     "lastName": "Matheson",
     "hasGender": "male",
-    "personInternalId": "#007484",
+    "hasPersonInternalId": "#007484",
     "description": "English academic",
     "birthDate": "GREGORIAN:1937",
     "deathDate": "GREGORIAN:2006"
@@ -3103,7 +3103,7 @@
     "firstName": "John",
     "lastName": "Reynolds",
     "hasGender": "male",
-    "personInternalId": "#007485",
+    "hasPersonInternalId": "#007485",
     "description": "English religious writer",
     "activeDate": "GREGORIAN:1621:1650"
   },
@@ -3111,21 +3111,21 @@
     "firstName": "Barnabe",
     "lastName": "Barnes",
     "hasGender": "male",
-    "personInternalId": "#007486",
+    "hasPersonInternalId": "#007486",
     "description": "English poet 1571\u20131609"
   },
   "ww_f32bede8ddcef974": {
     "firstName": "Richard",
     "lastName": "Niccols",
     "hasGender": "male",
-    "personInternalId": "#007487",
+    "hasPersonInternalId": "#007487",
     "description": "English poet and editor 1584\u20131616"
   },
   "ww_20d6b3bf3fdfeac2": {
     "firstName": "Anthony",
     "lastName": "Munday",
     "hasGender": "male",
-    "personInternalId": "#007488",
+    "hasPersonInternalId": "#007488",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1560",
     "deathDate": "GREGORIAN:1633"
@@ -3134,7 +3134,7 @@
     "firstName": "Thomas",
     "lastName": "Campion",
     "hasGender": "male",
-    "personInternalId": "#007489",
+    "hasPersonInternalId": "#007489",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1567",
     "deathDate": "GREGORIAN:1620"
@@ -3143,7 +3143,7 @@
     "firstName": "Richard",
     "lastName": "Brathwait",
     "hasGender": "male",
-    "personInternalId": "#007490",
+    "hasPersonInternalId": "#007490",
     "description": "English poet",
     "birthDate": "GREGORIAN:1588",
     "deathDate": "GREGORIAN:1673"
@@ -3152,14 +3152,14 @@
     "firstName": "Barten",
     "lastName": "Holyday",
     "hasGender": "male",
-    "personInternalId": "#007491",
+    "hasPersonInternalId": "#007491",
     "description": "English dramatist and clergyman 1593\u20131661"
   },
   "ww_993a2c8b25ef3953": {
     "firstName": "Samuel",
     "lastName": "Rowlands",
     "hasGender": "male",
-    "personInternalId": "#007492",
+    "hasPersonInternalId": "#007492",
     "description": "British dramatist",
     "birthDate": "GREGORIAN:1568:1872",
     "deathDate": "GREGORIAN:1630"
@@ -3168,7 +3168,7 @@
     "firstName": "J.",
     "lastName": "W.",
     "hasGender": "male",
-    "personInternalId": "#007493",
+    "hasPersonInternalId": "#007493",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1626"
   },
@@ -3176,7 +3176,7 @@
     "firstName": "John",
     "lastName": "Taylor",
     "hasGender": "male",
-    "personInternalId": "#007494",
+    "hasPersonInternalId": "#007494",
     "description": "English poet",
     "birthDate": "GREGORIAN:1578",
     "deathDate": "GREGORIAN:1653"
@@ -3185,21 +3185,21 @@
     "firstName": "Margaret",
     "lastName": "Bellasys",
     "hasGender": "female",
-    "personInternalId": "#007495",
+    "hasPersonInternalId": "#007495",
     "description": "*English (?) commonplace book keeper"
   },
   "ww_0ca6a30387f03401": {
     "firstName": "Marcus Annaeus",
     "lastName": "Lucanus",
     "hasGender": "male",
-    "personInternalId": "#007496",
+    "hasPersonInternalId": "#007496",
     "description": "Roman poet 39-65"
   },
   "ww_219cd36657c56d00": {
     "firstName": "Thomas",
     "lastName": "May",
     "hasGender": "male",
-    "personInternalId": "#007497",
+    "hasPersonInternalId": "#007497",
     "description": "English dramatist, poet and historian",
     "birthDate": "GREGORIAN:1594",
     "deathDate": "GREGORIAN:1650"
@@ -3208,7 +3208,7 @@
     "firstName": "Robert (2)",
     "lastName": "Abbot",
     "hasGender": "male",
-    "personInternalId": "#007498",
+    "hasPersonInternalId": "#007498",
     "description": "English Puritan theologian",
     "activeDate": "GREGORIAN:1616:1662"
   },
@@ -3216,7 +3216,7 @@
     "firstName": "Richard",
     "lastName": "Brome",
     "hasGender": "male",
-    "personInternalId": "#007499",
+    "hasPersonInternalId": "#007499",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1585:1595",
     "deathDate": "GREGORIAN:1652"
@@ -3225,7 +3225,7 @@
     "firstName": "John",
     "lastName": "Clarke",
     "hasGender": "male",
-    "personInternalId": "#007500",
+    "hasPersonInternalId": "#007500",
     "description": "English schoolmaster",
     "birthDate": "GREGORIAN:1596",
     "deathDate": "GREGORIAN:1658"
@@ -3234,7 +3234,7 @@
     "firstName": "John Payne",
     "lastName": "Collier",
     "hasGender": "male",
-    "personInternalId": "#007501",
+    "hasPersonInternalId": "#007501",
     "description": "English scholar and forger",
     "birthDate": "GREGORIAN:1789",
     "deathDate": "GREGORIAN:1883"
@@ -3243,7 +3243,7 @@
     "firstName": "Richard",
     "lastName": "Corbet",
     "hasGender": "male",
-    "personInternalId": "#007502",
+    "hasPersonInternalId": "#007502",
     "description": "English clergyman and poet",
     "birthDate": "GREGORIAN:1582",
     "deathDate": "GREGORIAN:1635"
@@ -3252,7 +3252,7 @@
     "firstName": "J.",
     "lastName": "S.",
     "hasGender": "male",
-    "personInternalId": "#007503",
+    "hasPersonInternalId": "#007503",
     "description": "English anthologist",
     "activeDate": "GREGORIAN:1648"
   },
@@ -3260,7 +3260,7 @@
     "firstName": "Thomas",
     "lastName": "Bayly",
     "hasGender": "male",
-    "personInternalId": "#007504",
+    "hasPersonInternalId": "#007504",
     "description": "English theologian",
     "deathDate": "GREGORIAN:1657"
   },
@@ -3268,7 +3268,7 @@
     "firstName": "Edward",
     "lastName": "Williams",
     "hasGender": "male",
-    "personInternalId": "#007505",
+    "hasPersonInternalId": "#007505",
     "description": "English travel (?) writer",
     "activeDate": "GREGORIAN:1650"
   },
@@ -3276,7 +3276,7 @@
     "firstName": "Richard",
     "lastName": "Baxter",
     "hasGender": "male",
-    "personInternalId": "#007506",
+    "hasPersonInternalId": "#007506",
     "description": "English protestant priest",
     "birthDate": "GREGORIAN:1615",
     "deathDate": "GREGORIAN:1691"
@@ -3285,7 +3285,7 @@
     "firstName": "Thomas",
     "lastName": "Hobbes",
     "hasGender": "male",
-    "personInternalId": "#007507",
+    "hasPersonInternalId": "#007507",
     "description": "English philosopher",
     "birthDate": "GREGORIAN:1588",
     "deathDate": "GREGORIAN:1679"
@@ -3294,7 +3294,7 @@
     "firstName": "John",
     "lastName": "Smith",
     "hasGender": "male",
-    "personInternalId": "#007508",
+    "hasPersonInternalId": "#007508",
     "description": "English (?) priest",
     "birthDate": "GREGORIAN:1618",
     "deathDate": "GREGORIAN:1652"
@@ -3303,7 +3303,7 @@
     "firstName": "Thomas",
     "lastName": "Brooks",
     "hasGender": "male",
-    "personInternalId": "#007509",
+    "hasPersonInternalId": "#007509",
     "description": "English Puritan priest",
     "birthDate": "GREGORIAN:1608",
     "deathDate": "GREGORIAN:1680"
@@ -3312,14 +3312,14 @@
     "firstName": "James",
     "lastName": "Harrington",
     "hasGender": "male",
-    "personInternalId": "#007510",
+    "hasPersonInternalId": "#007510",
     "description": "(?)"
   },
   "ww_f35c2f8694b10626": {
     "firstName": "John",
     "lastName": "Cotgrave",
     "hasGender": "male",
-    "personInternalId": "#007511",
+    "hasPersonInternalId": "#007511",
     "description": "English anthologist",
     "birthDate": "GREGORIAN:1610:1612",
     "deathDate": "GREGORIAN:1654:1656"
@@ -3328,7 +3328,7 @@
     "firstName": "Abraham",
     "lastName": "Cowley",
     "hasGender": "male",
-    "personInternalId": "#007512",
+    "hasPersonInternalId": "#007512",
     "description": "English poet",
     "birthDate": "GREGORIAN:1618",
     "deathDate": "GREGORIAN:1667"
@@ -3337,7 +3337,7 @@
     "firstName": "Henry",
     "lastName": "King",
     "hasGender": "male",
-    "personInternalId": "#007513",
+    "hasPersonInternalId": "#007513",
     "description": "English bishop",
     "activeDate": "GREGORIAN:1657"
   },
@@ -3345,7 +3345,7 @@
     "firstName": "Lawrence",
     "lastName": "Mason",
     "hasGender": "male",
-    "personInternalId": "#007514",
+    "hasPersonInternalId": "#007514",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1918"
   },
@@ -3353,7 +3353,7 @@
     "firstName": "Francis",
     "lastName": "Roberts",
     "hasGender": "male",
-    "personInternalId": "#007515",
+    "hasPersonInternalId": "#007515",
     "description": "Protestant theologian",
     "birthDate": "GREGORIAN:1609",
     "deathDate": "GREGORIAN:1675"
@@ -3362,7 +3362,7 @@
     "firstName": "John",
     "lastName": "Bunyan",
     "hasGender": "male",
-    "personInternalId": "#007516",
+    "hasPersonInternalId": "#007516",
     "description": "English writer and Puritan preacher",
     "birthDate": "GREGORIAN:1628",
     "deathDate": "GREGORIAN:1688"
@@ -3371,7 +3371,7 @@
     "firstName": "Sir John",
     "lastName": "Mennes",
     "hasGender": "male",
-    "personInternalId": "#007517",
+    "hasPersonInternalId": "#007517",
     "description": "English naval officer and poet",
     "birthDate": "GREGORIAN:1599",
     "deathDate": "GREGORIAN:1671"
@@ -3380,7 +3380,7 @@
     "firstName": "James (1)",
     "lastName": "Smith",
     "hasGender": "male",
-    "personInternalId": "#007518",
+    "hasPersonInternalId": "#007518",
     "description": "English clergyman and poet",
     "birthDate": "GREGORIAN:1605",
     "deathDate": "GREGORIAN:1667"
@@ -3389,7 +3389,7 @@
     "firstName": "William",
     "lastName": "Chamberlayne",
     "hasGender": "male",
-    "personInternalId": "#007519",
+    "hasPersonInternalId": "#007519",
     "description": "English poet",
     "birthDate": "GREGORIAN:1619",
     "deathDate": "GREGORIAN:1679:1689"
@@ -3398,7 +3398,7 @@
     "firstName": "Henry",
     "lastName": "Cromwell",
     "hasGender": "male",
-    "personInternalId": "#007520",
+    "hasPersonInternalId": "#007520",
     "description": "English politician",
     "birthDate": "GREGORIAN:1628",
     "deathDate": "GREGORIAN:1674"
@@ -3407,7 +3407,7 @@
     "firstName": "Michael",
     "lastName": "Dobson",
     "hasGender": "male",
-    "personInternalId": "#007521",
+    "hasPersonInternalId": "#007521",
     "description": "British academic",
     "birthDate": "GREGORIAN:1960"
   },
@@ -3415,7 +3415,7 @@
     "firstName": "Rowland",
     "lastName": "Watkins",
     "hasGender": "male",
-    "personInternalId": "#007522",
+    "hasPersonInternalId": "#007522",
     "description": "English physician",
     "activeDate": "GREGORIAN:1662"
   },
@@ -3423,7 +3423,7 @@
     "firstName": "Henry",
     "lastName": "Bold",
     "hasGender": "male",
-    "personInternalId": "#007523",
+    "hasPersonInternalId": "#007523",
     "description": "English poet",
     "activeDate": "GREGORIAN:1664"
   },
@@ -3431,14 +3431,14 @@
     "firstName": "Samuel",
     "lastName": "Pepys",
     "hasGender": "male",
-    "personInternalId": "#007524",
+    "hasPersonInternalId": "#007524",
     "description": "English diarist"
   },
   "ww_074785f50aa8a606": {
     "firstName": "John",
     "lastName": "Gross",
     "hasGender": "male",
-    "personInternalId": "#007525",
+    "hasPersonInternalId": "#007525",
     "description": "English scholar and editor",
     "birthDate": "GREGORIAN:1935",
     "deathDate": "GREGORIAN:2011"
@@ -3447,7 +3447,7 @@
     "firstName": "Robert Clifford",
     "lastName": "Latham",
     "hasGender": "male",
-    "personInternalId": "#007526",
+    "hasPersonInternalId": "#007526",
     "description": "English librarian and scholar",
     "birthDate": "GREGORIAN:1912",
     "deathDate": "GREGORIAN:1995"
@@ -3456,7 +3456,7 @@
     "firstName": "William",
     "lastName": "Matthews",
     "hasGender": "male",
-    "personInternalId": "#007527",
+    "hasPersonInternalId": "#007527",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1970:1983"
   },
@@ -3464,7 +3464,7 @@
     "firstName": "Richard",
     "lastName": "Head",
     "hasGender": "male",
-    "personInternalId": "#007528",
+    "hasPersonInternalId": "#007528",
     "description": "Irish dramatist and novelist",
     "birthDate": "GREGORIAN:1637",
     "deathDate": "GREGORIAN:1686"
@@ -3473,14 +3473,14 @@
     "firstName": "Charles",
     "lastName": "Dunster",
     "hasGender": "male",
-    "personInternalId": "#007529",
+    "hasPersonInternalId": "#007529",
     "description": "English priest and editor 1750\u20131816"
   },
   "ww_b45b41759c4e5085": {
     "firstName": "Edmund",
     "lastName": "Waller",
     "hasGender": "male",
-    "personInternalId": "#007530",
+    "hasPersonInternalId": "#007530",
     "description": "English poet",
     "birthDate": "GREGORIAN:1696",
     "deathDate": "GREGORIAN:1687"
@@ -3489,7 +3489,7 @@
     "firstName": "Charles, Earl of Dorset",
     "lastName": "Sackville",
     "hasGender": "male",
-    "personInternalId": "#007531",
+    "hasPersonInternalId": "#007531",
     "description": "English poet and anthologist",
     "birthDate": "GREGORIAN:1638",
     "deathDate": "GREGORIAN:1706"
@@ -3498,7 +3498,7 @@
     "firstName": "Sir Charles",
     "lastName": "Sedley",
     "hasGender": "male",
-    "personInternalId": "#007532",
+    "hasPersonInternalId": "#007532",
     "description": "Engilsh dramatist and anthologist",
     "birthDate": "GREGORIAN:1639",
     "deathDate": "GREGORIAN:1701"
@@ -3507,7 +3507,7 @@
     "firstName": "William",
     "lastName": "Wycherley",
     "hasGender": "male",
-    "personInternalId": "#007533",
+    "hasPersonInternalId": "#007533",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1641",
     "deathDate": "GREGORIAN:1716"
@@ -3516,7 +3516,7 @@
     "firstName": "John",
     "lastName": "Norris",
     "hasGender": "male",
-    "personInternalId": "#007534",
+    "hasPersonInternalId": "#007534",
     "description": "English poet",
     "birthDate": "GREGORIAN:1657",
     "deathDate": "GREGORIAN:1711"
@@ -3525,7 +3525,7 @@
     "firstName": "Robert",
     "lastName": "Dixon",
     "hasGender": "male",
-    "personInternalId": "#007535",
+    "hasPersonInternalId": "#007535",
     "description": "English clergyman and poet",
     "birthDate": "GREGORIAN:1614",
     "deathDate": "GREGORIAN:1688"
@@ -3534,7 +3534,7 @@
     "firstName": "Karl P.",
     "lastName": "Wentersdorf",
     "hasGender": "male",
-    "personInternalId": "#007536",
+    "hasPersonInternalId": "#007536",
     "description": "German-born U.S. scholar",
     "birthDate": "GREGORIAN:1915",
     "deathDate": "GREGORIAN:2011"
@@ -3543,7 +3543,7 @@
     "firstName": "Anthony",
     "lastName": "Parr",
     "hasGender": "male",
-    "personInternalId": "#007537",
+    "hasPersonInternalId": "#007537",
     "description": "Professor Emeritus of English at the University of the Western Cape, South Africa",
     "activeDate": "GREGORIAN:1995"
   },
@@ -3551,14 +3551,14 @@
     "firstName": "Aulus",
     "lastName": "Persius Flaccus",
     "hasGender": "male",
-    "personInternalId": "#007538",
+    "hasPersonInternalId": "#007538",
     "description": "Roman poet and satirist 34-62"
   },
   "ww_e212a52f4b94ffc2": {
     "firstName": "Edmond",
     "lastName": "Malone",
     "hasGender": "male",
-    "personInternalId": "#007539",
+    "hasPersonInternalId": "#007539",
     "description": "Irish Shakespearean scholar",
     "birthDate": "GREGORIAN:1741",
     "deathDate": "GREGORIAN:1812"
@@ -3567,7 +3567,7 @@
     "firstName": "James",
     "lastName": "Mabbe",
     "hasGender": "male",
-    "personInternalId": "#007540",
+    "hasPersonInternalId": "#007540",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1572",
     "deathDate": "GREGORIAN:1642"
@@ -3576,7 +3576,7 @@
     "firstName": "Gerald Eades",
     "lastName": "Bentley",
     "hasGender": "male",
-    "personInternalId": "#007542",
+    "hasPersonInternalId": "#007542",
     "description": "U.S. scholar and academic",
     "birthDate": "GREGORIAN:1901",
     "deathDate": "GREGORIAN:1994"
@@ -3585,7 +3585,7 @@
     "firstName": "Thomas",
     "lastName": "Percy",
     "hasGender": "male",
-    "personInternalId": "#007543",
+    "hasPersonInternalId": "#007543",
     "description": "English bishop and scholar",
     "birthDate": "GREGORIAN:1729",
     "deathDate": "GREGORIAN:1811"
@@ -3594,7 +3594,7 @@
     "firstName": "Peter",
     "lastName": "Erickson",
     "hasGender": "male",
-    "personInternalId": "#007544",
+    "hasPersonInternalId": "#007544",
     "description": "U.S. (?) academic",
     "activeDate": "GREGORIAN:1991"
   },
@@ -3602,7 +3602,7 @@
     "firstName": "Samuel",
     "lastName": "Nicholson",
     "hasGender": "male",
-    "personInternalId": "#007545",
+    "hasPersonInternalId": "#007545",
     "description": "English poet",
     "activeDate": "GREGORIAN:1600:1602"
   },
@@ -3610,7 +3610,7 @@
     "firstName": "Don Marion",
     "lastName": "Wolfe",
     "hasGender": "male",
-    "personInternalId": "#007546",
+    "hasPersonInternalId": "#007546",
     "description": "U.S. academic",
     "birthDate": "GREGORIAN:1903",
     "deathDate": "GREGORIAN:1976"
@@ -3619,7 +3619,7 @@
     "firstName": "Robert",
     "lastName": "Rollock",
     "hasGender": "male",
-    "personInternalId": "#007547",
+    "hasPersonInternalId": "#007547",
     "description": "Scottish theologian",
     "birthDate": "GREGORIAN:1553:1557",
     "deathDate": "GREGORIAN:1599"
@@ -3628,14 +3628,14 @@
     "firstName": "Lukas",
     "lastName": "Erne",
     "hasGender": "male",
-    "personInternalId": "#007548",
+    "hasPersonInternalId": "#007548",
     "description": "Swiss academic"
   },
   "ww_dde0d08a12d83237": {
     "firstName": "Henoch",
     "lastName": "Clapham",
     "hasGender": "male",
-    "personInternalId": "#007549",
+    "hasPersonInternalId": "#007549",
     "description": "English theologian",
     "activeDate": "GREGORIAN:1595:1602"
   },
@@ -3643,7 +3643,7 @@
     "firstName": "Nicholas",
     "lastName": "Breton",
     "hasGender": "male",
-    "personInternalId": "#007550",
+    "hasPersonInternalId": "#007550",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1545",
     "deathDate": "GREGORIAN:1626"
@@ -3652,7 +3652,7 @@
     "firstName": "John Ramsay Allardyce",
     "lastName": "Nicholl",
     "hasGender": "male",
-    "personInternalId": "#007551",
+    "hasPersonInternalId": "#007551",
     "description": "British scholar",
     "birthDate": "GREGORIAN:1894",
     "deathDate": "GREGORIAN:1976"
@@ -3661,7 +3661,7 @@
     "firstName": "Joseph",
     "lastName": "Hall",
     "hasGender": "male",
-    "personInternalId": "#007552",
+    "hasPersonInternalId": "#007552",
     "description": "English Puritan priest",
     "birthDate": "GREGORIAN:1627",
     "deathDate": "GREGORIAN:1656"
@@ -3670,7 +3670,7 @@
     "firstName": "John",
     "lastName": "Hind",
     "hasGender": "male",
-    "personInternalId": "#007553",
+    "hasPersonInternalId": "#007553",
     "description": "English",
     "activeDate": "GREGORIAN:1606"
   },
@@ -3678,14 +3678,14 @@
     "firstName": "James",
     "lastName": "Hirsh",
     "hasGender": "male",
-    "personInternalId": "#007554",
+    "hasPersonInternalId": "#007554",
     "description": "U.S. academic"
   },
   "ww_9df8dac4cf0e808f": {
     "firstName": "William",
     "lastName": "Heale",
     "hasGender": "male",
-    "personInternalId": "#007555",
+    "hasPersonInternalId": "#007555",
     "description": "English theologian or lawyer",
     "birthDate": "GREGORIAN:1581",
     "deathDate": "GREGORIAN:1627"
@@ -3694,7 +3694,7 @@
     "firstName": "Robert",
     "lastName": "Cawdrey",
     "hasGender": "male",
-    "personInternalId": "#007556",
+    "hasPersonInternalId": "#007556",
     "description": "English clergyman and lexicographer ca.",
     "birthDate": "GREGORIAN:1538",
     "deathDate": "GREGORIAN:1604"
@@ -3703,7 +3703,7 @@
     "firstName": "John",
     "lastName": "Healey",
     "hasGender": "male",
-    "personInternalId": "#007557",
+    "hasPersonInternalId": "#007557",
     "description": "English translator",
     "activeDate": "GREGORIAN:1609:1620"
   },
@@ -3711,14 +3711,14 @@
     "firstName": "Dennis",
     "lastName": "McCarthy",
     "hasGender": "male",
-    "personInternalId": "#007558",
+    "hasPersonInternalId": "#007558",
     "description": "U.S. scholar"
   },
   "ww_e80f39737bc8821a": {
     "firstName": "Robert (1)",
     "lastName": "Abbot",
     "hasGender": "male",
-    "personInternalId": "#007559",
+    "hasPersonInternalId": "#007559",
     "description": "English theologian and bishop",
     "birthDate": "GREGORIAN:1560",
     "deathDate": "GREGORIAN:1617"
@@ -3727,7 +3727,7 @@
     "firstName": "Alexander",
     "lastName": "Cooke",
     "hasGender": "male",
-    "personInternalId": "#007560",
+    "hasPersonInternalId": "#007560",
     "description": "English actor",
     "deathDate": "GREGORIAN:1614",
     "personPerformedIn": "ww_e1bcca76480c58de"
@@ -3736,7 +3736,7 @@
     "firstName": "William",
     "lastName": "Ostler",
     "hasGender": "male",
-    "personInternalId": "#007561",
+    "hasPersonInternalId": "#007561",
     "description": "English actor",
     "deathDate": "GREGORIAN:1614",
     "personPerformedIn": "ww_e1bcca76480c58de"
@@ -3745,7 +3745,7 @@
     "firstName": "John",
     "lastName": "Underwood",
     "hasGender": "male",
-    "personInternalId": "#007562",
+    "hasPersonInternalId": "#007562",
     "description": "English actor",
     "deathDate": "GREGORIAN:1624",
     "personPerformedIn": "ww_7c7c54b935aab85a"
@@ -3754,7 +3754,7 @@
     "firstName": "John",
     "lastName": "Lowin",
     "hasGender": "male",
-    "personInternalId": "#007563",
+    "hasPersonInternalId": "#007563",
     "description": "English actor",
     "birthDate": "GREGORIAN:1576",
     "deathDate": "GREGORIAN:1653",
@@ -3764,7 +3764,7 @@
     "firstName": "Richard",
     "lastName": "Robinson",
     "hasGender": "male",
-    "personInternalId": "#007564",
+    "hasPersonInternalId": "#007564",
     "description": "English actor",
     "deathDate": "GREGORIAN:1648",
     "personPerformedIn": "ww_e1bcca76480c58de"
@@ -3773,7 +3773,7 @@
     "firstName": "T. C.",
     "lastName": "C.",
     "hasGender": "male",
-    "personInternalId": "#007565",
+    "hasPersonInternalId": "#007565",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1938"
   },
@@ -3781,7 +3781,7 @@
     "firstName": "Elizabeth",
     "lastName": "Cook",
     "hasGender": "female",
-    "personInternalId": "#007566",
+    "hasPersonInternalId": "#007566",
     "description": "*English (?) scholar",
     "activeDate": "GREGORIAN:1997:2003"
   },
@@ -3789,7 +3789,7 @@
     "firstName": "Sir Edward",
     "lastName": "Hoby",
     "hasGender": "male",
-    "personInternalId": "#007567",
+    "hasPersonInternalId": "#007567",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1560",
     "deathDate": "GREGORIAN:1617"
@@ -3798,7 +3798,7 @@
     "firstName": "Henry",
     "lastName": "Parrot",
     "hasGender": "male",
-    "personInternalId": "#007568",
+    "hasPersonInternalId": "#007568",
     "description": "English poet",
     "activeDate": "GREGORIAN:1608:1615"
   },
@@ -3806,7 +3806,7 @@
     "firstName": "Michael",
     "lastName": "Scot",
     "hasGender": "male",
-    "personInternalId": "#007569",
+    "hasPersonInternalId": "#007569",
     "description": "Scottish (?) philosopher",
     "birthDate": "GREGORIAN:1175",
     "deathDate": "GREGORIAN:1232:1234"
@@ -3815,7 +3815,7 @@
     "firstName": "Joseph",
     "lastName": "Swetnam",
     "hasGender": "male",
-    "personInternalId": "#007570",
+    "hasPersonInternalId": "#007570",
     "description": "English pamphleteer",
     "deathDate": "GREGORIAN:1621"
   },
@@ -3823,7 +3823,7 @@
     "firstName": "Anthony",
     "lastName": "Brewer",
     "hasGender": "male",
-    "personInternalId": "#007571",
+    "hasPersonInternalId": "#007571",
     "description": "British dramatist",
     "activeDate": "GREGORIAN:1630:1655"
   },
@@ -3831,7 +3831,7 @@
     "firstName": "Henry",
     "lastName": "Peacham",
     "hasGender": "male",
-    "personInternalId": "#007572",
+    "hasPersonInternalId": "#007572",
     "description": "English poet",
     "birthDate": "GREGORIAN:1578",
     "deathDate": "GREGORIAN:1644"
@@ -3840,7 +3840,7 @@
     "firstName": "George",
     "lastName": "Wither",
     "hasGender": "male",
-    "personInternalId": "#007573",
+    "hasPersonInternalId": "#007573",
     "description": "English poet",
     "birthDate": "GREGORIAN:1588",
     "deathDate": "GREGORIAN:1667"
@@ -3849,7 +3849,7 @@
     "firstName": "Robert, Earl of Essex",
     "lastName": "Devereux",
     "hasGender": "male",
-    "personInternalId": "#007574",
+    "hasPersonInternalId": "#007574",
     "description": "English soldier and poet",
     "birthDate": "GREGORIAN:1565",
     "deathDate": "GREGORIAN:1601"
@@ -3858,7 +3858,7 @@
     "firstName": "Robert",
     "lastName": "Aylett",
     "hasGender": "male",
-    "personInternalId": "#007575",
+    "hasPersonInternalId": "#007575",
     "description": "British poet",
     "birthDate": "GREGORIAN:1581:1585",
     "deathDate": "GREGORIAN:1655"
@@ -3867,7 +3867,7 @@
     "firstName": "Mateo",
     "lastName": "Alema\u0301n",
     "hasGender": "male",
-    "personInternalId": "#007576",
+    "hasPersonInternalId": "#007576",
     "description": "Spanish novelist",
     "birthDate": "GREGORIAN:1547",
     "deathDate": "GREGORIAN:1614"
@@ -3876,7 +3876,7 @@
     "firstName": "William",
     "lastName": "Drummond",
     "hasGender": "male",
-    "personInternalId": "#007577",
+    "hasPersonInternalId": "#007577",
     "description": "English poet",
     "birthDate": "GREGORIAN:1585",
     "deathDate": "GREGORIAN:1649"
@@ -3885,7 +3885,7 @@
     "firstName": "Edward",
     "lastName": "Sutton",
     "hasGender": "male",
-    "personInternalId": "#007578",
+    "hasPersonInternalId": "#007578",
     "description": "British writer",
     "activeDate": "GREGORIAN:1624"
   },
@@ -3893,7 +3893,7 @@
     "firstName": "John",
     "lastName": "Gee",
     "hasGender": "male",
-    "personInternalId": "#007579",
+    "hasPersonInternalId": "#007579",
     "description": "English",
     "activeDate": "GREGORIAN:1624"
   },
@@ -3901,7 +3901,7 @@
     "firstName": "Sir Thomas",
     "lastName": "Herbert",
     "hasGender": "male",
-    "personInternalId": "#007580",
+    "hasPersonInternalId": "#007580",
     "description": "English traveller and historian",
     "birthDate": "GREGORIAN:1606",
     "deathDate": "GREGORIAN:1682"
@@ -3910,7 +3910,7 @@
     "firstName": "Joseph",
     "lastName": "Fletcher",
     "hasGender": "male",
-    "personInternalId": "#007581",
+    "hasPersonInternalId": "#007581",
     "description": "English poet",
     "birthDate": "GREGORIAN:1575:1579",
     "deathDate": "GREGORIAN:1637"
@@ -3919,7 +3919,7 @@
     "firstName": "David",
     "lastName": "Hume",
     "hasGender": "male",
-    "personInternalId": "#007582",
+    "hasPersonInternalId": "#007582",
     "description": "Scottish historian and political theorist",
     "birthDate": "GREGORIAN:1558",
     "deathDate": "GREGORIAN:1629"
@@ -3928,7 +3928,7 @@
     "firstName": "Anthony",
     "lastName": "Cade",
     "hasGender": "male",
-    "personInternalId": "#007583",
+    "hasPersonInternalId": "#007583",
     "description": "English theologian",
     "birthDate": "GREGORIAN:1564",
     "deathDate": "GREGORIAN:1641"
@@ -3937,7 +3937,7 @@
     "firstName": "William",
     "lastName": "Camden",
     "hasGender": "male",
-    "personInternalId": "#007584",
+    "hasPersonInternalId": "#007584",
     "description": "English historian",
     "birthDate": "GREGORIAN:1551",
     "deathDate": "GREGORIAN:1623"
@@ -3946,7 +3946,7 @@
     "firstName": "Robert",
     "lastName": "Norton",
     "hasGender": "male",
-    "personInternalId": "#007585",
+    "hasPersonInternalId": "#007585",
     "description": "English engineer",
     "deathDate": "GREGORIAN:1635"
   },
@@ -3954,7 +3954,7 @@
     "firstName": "William",
     "lastName": "Bradford",
     "hasGender": "male",
-    "personInternalId": "#007586",
+    "hasPersonInternalId": "#007586",
     "description": "Separatist settler and first Governor of Maryland",
     "birthDate": "GREGORIAN:1590",
     "deathDate": "GREGORIAN:1657"
@@ -3963,7 +3963,7 @@
     "firstName": "Wye",
     "lastName": "Saltonstall",
     "hasGender": "male",
-    "personInternalId": "#007587",
+    "hasPersonInternalId": "#007587",
     "description": "English writer",
     "activeDate": "GREGORIAN:1631"
   },
@@ -3971,7 +3971,7 @@
     "firstName": "Peter",
     "lastName": "Hausted",
     "hasGender": "male",
-    "personInternalId": "#007588",
+    "hasPersonInternalId": "#007588",
     "description": "British dramatist",
     "deathDate": "GREGORIAN:1645"
   },
@@ -3979,7 +3979,7 @@
     "firstName": "John",
     "lastName": "Kirke",
     "hasGender": "male",
-    "personInternalId": "#007589",
+    "hasPersonInternalId": "#007589",
     "description": "British dramatist",
     "deathDate": "GREGORIAN:1643"
   },
@@ -3987,7 +3987,7 @@
     "firstName": "Thomas",
     "lastName": "Bushell",
     "hasGender": "male",
-    "personInternalId": "#007590",
+    "hasPersonInternalId": "#007590",
     "description": "English engineer",
     "birthDate": "GREGORIAN:1593",
     "deathDate": "GREGORIAN:1674"
@@ -3996,7 +3996,7 @@
     "firstName": "William",
     "lastName": "Peaps",
     "hasGender": "male",
-    "personInternalId": "#007591",
+    "hasPersonInternalId": "#007591",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1636"
   },
@@ -4004,7 +4004,7 @@
     "firstName": "Henry John",
     "lastName": "Todd",
     "hasGender": "male",
-    "personInternalId": "#007592",
+    "hasPersonInternalId": "#007592",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1801"
   },
@@ -4012,7 +4012,7 @@
     "firstName": "Humphrey",
     "lastName": "Sydenham",
     "hasGender": "male",
-    "personInternalId": "#007593",
+    "hasPersonInternalId": "#007593",
     "description": "English clergyman",
     "birthDate": "GREGORIAN:1591",
     "deathDate": "GREGORIAN:1649:1651"
@@ -4021,7 +4021,7 @@
     "firstName": "Lewis",
     "lastName": "Sharpe",
     "hasGender": "male",
-    "personInternalId": "#007594",
+    "hasPersonInternalId": "#007594",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1640"
   },
@@ -4029,7 +4029,7 @@
     "firstName": "Jasper",
     "lastName": "Mayne",
     "hasGender": "male",
-    "personInternalId": "#007595",
+    "hasPersonInternalId": "#007595",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1604",
     "deathDate": "GREGORIAN:1672"
@@ -4038,7 +4038,7 @@
     "firstName": "George",
     "lastName": "Sandys",
     "hasGender": "male",
-    "personInternalId": "#007596",
+    "hasPersonInternalId": "#007596",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1578",
     "deathDate": "GREGORIAN:1644"
@@ -4047,7 +4047,7 @@
     "firstName": "Humphrey",
     "lastName": "Mill",
     "hasGender": "male",
-    "personInternalId": "#007597",
+    "hasPersonInternalId": "#007597",
     "description": "English writer",
     "activeDate": "GREGORIAN:1646"
   },
@@ -4055,7 +4055,7 @@
     "firstName": "Thomas",
     "lastName": "Carew",
     "hasGender": "male",
-    "personInternalId": "#007598",
+    "hasPersonInternalId": "#007598",
     "description": "English poet",
     "birthDate": "GREGORIAN:1595",
     "deathDate": "GREGORIAN:1640"
@@ -4064,14 +4064,14 @@
     "firstName": "(nickname or initials)",
     "lastName": "0_Anon",
     "hasGender": "male",
-    "personInternalId": "#007599",
+    "hasPersonInternalId": "#007599",
     "description": "_"
   },
   "ww_71f5892cce571656": {
     "firstName": "William",
     "lastName": "Chillingworth",
     "hasGender": "male",
-    "personInternalId": "#007600",
+    "hasPersonInternalId": "#007600",
     "description": "English theologian",
     "birthDate": "GREGORIAN:1602",
     "deathDate": "GREGORIAN:1644"
@@ -4080,7 +4080,7 @@
     "firstName": "Samuel",
     "lastName": "Drake",
     "hasGender": "male",
-    "personInternalId": "#007601",
+    "hasPersonInternalId": "#007601",
     "description": "English letter writer",
     "activeDate": "GREGORIAN:1646"
   },
@@ -4088,7 +4088,7 @@
     "firstName": "Edward J. L.",
     "lastName": "Scott",
     "hasGender": "male",
-    "personInternalId": "#007602",
+    "hasPersonInternalId": "#007602",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:1898"
   },
@@ -4096,7 +4096,7 @@
     "firstName": "Nathan",
     "lastName": "Drake",
     "hasGender": "male",
-    "personInternalId": "#007603",
+    "hasPersonInternalId": "#007603",
     "description": "English essayist",
     "birthDate": "GREGORIAN:1766",
     "deathDate": "GREGORIAN:1836"
@@ -4105,7 +4105,7 @@
     "firstName": "Jeremy",
     "lastName": "Taylor",
     "hasGender": "male",
-    "personInternalId": "#007604",
+    "hasPersonInternalId": "#007604",
     "description": "English priest",
     "birthDate": "GREGORIAN:1613",
     "deathDate": "GREGORIAN:1667"
@@ -4114,7 +4114,7 @@
     "firstName": "Henry",
     "lastName": "Tubbe",
     "hasGender": "male",
-    "personInternalId": "#007605",
+    "hasPersonInternalId": "#007605",
     "description": "English poet",
     "birthDate": "GREGORIAN:1617",
     "deathDate": "GREGORIAN:1655"
@@ -4123,7 +4123,7 @@
     "firstName": "Henry",
     "lastName": "Hammond",
     "hasGender": "male",
-    "personInternalId": "#007606",
+    "hasPersonInternalId": "#007606",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1605",
     "deathDate": "GREGORIAN:1660"
@@ -4132,7 +4132,7 @@
     "firstName": "Robert",
     "lastName": "Heath",
     "hasGender": "male",
-    "personInternalId": "#007607",
+    "hasPersonInternalId": "#007607",
     "description": "English poet",
     "activeDate": "GREGORIAN:1636:1659"
   },
@@ -4140,7 +4140,7 @@
     "firstName": "John",
     "lastName": "Cleveland",
     "hasGender": "male",
-    "personInternalId": "#007608",
+    "hasPersonInternalId": "#007608",
     "description": "English Royalist poet",
     "birthDate": "GREGORIAN:1613",
     "deathDate": "GREGORIAN:1658"
@@ -4149,7 +4149,7 @@
     "firstName": "Thomas",
     "lastName": "Washbourne",
     "hasGender": "male",
-    "personInternalId": "#007609",
+    "hasPersonInternalId": "#007609",
     "description": "English poet",
     "birthDate": "GREGORIAN:1606",
     "deathDate": "GREGORIAN:1687"
@@ -4158,7 +4158,7 @@
     "firstName": "Henry",
     "lastName": "Birkhead",
     "hasGender": "male",
-    "personInternalId": "#007610",
+    "hasPersonInternalId": "#007610",
     "description": "English academic, dramatist and poet",
     "birthDate": "GREGORIAN:1617",
     "deathDate": "GREGORIAN:1696"
@@ -4167,7 +4167,7 @@
     "firstName": "John",
     "lastName": "Phillips",
     "hasGender": "male",
-    "personInternalId": "#007611",
+    "hasPersonInternalId": "#007611",
     "description": "English poet, translator and polemicist , nephew of John Milton",
     "birthDate": "GREGORIAN:1631",
     "deathDate": "GREGORIAN:1706"
@@ -4176,7 +4176,7 @@
     "firstName": "Andrew",
     "lastName": "Marvell",
     "hasGender": "male",
-    "personInternalId": "#007612",
+    "hasPersonInternalId": "#007612",
     "description": "English poet and political satirist",
     "birthDate": "GREGORIAN:1621",
     "deathDate": "GREGORIAN:1678"
@@ -4185,7 +4185,7 @@
     "firstName": "Thomas",
     "lastName": "Traherne",
     "hasGender": "male",
-    "personInternalId": "#007613",
+    "hasPersonInternalId": "#007613",
     "description": "English poet",
     "birthDate": "GREGORIAN:1637",
     "deathDate": "GREGORIAN:1674"
@@ -4194,7 +4194,7 @@
     "firstName": "John, Earl of Mulgrave, Marquis of Normanby and Duke of Buckingh",
     "lastName": "Sheffield",
     "hasGender": "male",
-    "personInternalId": "#007614",
+    "hasPersonInternalId": "#007614",
     "description": "English poet",
     "birthDate": "GREGORIAN:1648",
     "deathDate": "GREGORIAN:1721"
@@ -4203,7 +4203,7 @@
     "firstName": "Samuel",
     "lastName": "Butler",
     "hasGender": "male",
-    "personInternalId": "#007615",
+    "hasPersonInternalId": "#007615",
     "description": "English poet",
     "birthDate": "GREGORIAN:1612",
     "deathDate": "GREGORIAN:1680"
@@ -4212,7 +4212,7 @@
     "firstName": "Zachary",
     "lastName": "Grey",
     "hasGender": "male",
-    "personInternalId": "#007616",
+    "hasPersonInternalId": "#007616",
     "description": "English divine and editor",
     "birthDate": "GREGORIAN:1688",
     "deathDate": "GREGORIAN:1766"
@@ -4221,7 +4221,7 @@
     "firstName": "Sir Roger",
     "lastName": "L'Estrange",
     "hasGender": "male",
-    "personInternalId": "#007617",
+    "hasPersonInternalId": "#007617",
     "description": "English journalist",
     "birthDate": "GREGORIAN:1616",
     "deathDate": "GREGORIAN:1704"
@@ -4230,7 +4230,7 @@
     "firstName": "James, Sir",
     "lastName": "Chamberlaine",
     "hasGender": "male",
-    "personInternalId": "#007618",
+    "hasPersonInternalId": "#007618",
     "description": "English writer",
     "deathDate": "GREGORIAN:1699"
   },
@@ -4238,7 +4238,7 @@
     "firstName": "John (2)",
     "lastName": "Mason",
     "hasGender": "male",
-    "personInternalId": "#007619",
+    "hasPersonInternalId": "#007619",
     "description": "English poet",
     "birthDate": "GREGORIAN:1644:1648",
     "deathDate": "GREGORIAN:1694"
@@ -4247,7 +4247,7 @@
     "firstName": "Robert",
     "lastName": "Gould",
     "hasGender": "male",
-    "personInternalId": "#007620",
+    "hasPersonInternalId": "#007620",
     "description": "English poet",
     "birthDate": "GREGORIAN:1658:1662",
     "deathDate": "GREGORIAN:1708:1709"
@@ -4256,7 +4256,7 @@
     "firstName": "Thomas",
     "lastName": "Flatman",
     "hasGender": "male",
-    "personInternalId": "#007621",
+    "hasPersonInternalId": "#007621",
     "description": "English poet",
     "birthDate": "GREGORIAN:1637",
     "deathDate": "GREGORIAN:1688"
@@ -4265,7 +4265,7 @@
     "firstName": "Thomas",
     "lastName": "Jevon",
     "hasGender": "male",
-    "personInternalId": "#007622",
+    "hasPersonInternalId": "#007622",
     "description": "English dramatist and actor",
     "birthDate": "GREGORIAN:1652",
     "deathDate": "GREGORIAN:1688"
@@ -4274,7 +4274,7 @@
     "firstName": "George",
     "lastName": "Etherege",
     "hasGender": "male",
-    "personInternalId": "#007623",
+    "hasPersonInternalId": "#007623",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1636",
     "deathDate": "GREGORIAN:1692"
@@ -4283,7 +4283,7 @@
     "firstName": "Philip",
     "lastName": "Ayres",
     "hasGender": "male",
-    "personInternalId": "#007624",
+    "hasPersonInternalId": "#007624",
     "description": "English poet",
     "birthDate": "GREGORIAN:1638",
     "deathDate": "GREGORIAN:1712"
@@ -4292,7 +4292,7 @@
     "firstName": "Charles",
     "lastName": "Cotton",
     "hasGender": "male",
-    "personInternalId": "#007625",
+    "hasPersonInternalId": "#007625",
     "description": "English poet",
     "birthDate": "GREGORIAN:1630",
     "deathDate": "GREGORIAN:1687"
@@ -4301,7 +4301,7 @@
     "firstName": "Edward (1)",
     "lastName": "Howard",
     "hasGender": "male",
-    "personInternalId": "#007626",
+    "hasPersonInternalId": "#007626",
     "description": "English dramatist and poet",
     "birthDate": "GREGORIAN:1624",
     "deathDate": "GREGORIAN:1712"
@@ -4310,7 +4310,7 @@
     "firstName": "H. Kendra",
     "lastName": "Baker",
     "hasGender": "male",
-    "personInternalId": "#007627",
+    "hasPersonInternalId": "#007627",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1938"
   },
@@ -4318,14 +4318,14 @@
     "firstName": "Christopher",
     "lastName": "Wase",
     "hasGender": "male",
-    "personInternalId": "#007628",
+    "hasPersonInternalId": "#007628",
     "description": "English scholar and translator 1627\u20131690"
   },
   "ww_0ab760c0580db329": {
     "firstName": "T. H.",
     "lastName": "Howard-Hill",
     "hasGender": "male",
-    "personInternalId": "#007629",
+    "hasPersonInternalId": "#007629",
     "description": "English (?) academic",
     "activeDate": "GREGORIAN:1993"
   },
@@ -4333,21 +4333,21 @@
     "firstName": "Marcus Valerius ",
     "lastName": "Martialis",
     "hasGender": "male",
-    "personInternalId": "#007630",
+    "hasPersonInternalId": "#007630",
     "description": "Roman poet  [38-41]-[102-104]"
   },
   "ww_866452f5d0d913c3": {
     "firstName": "_",
     "lastName": "St Jerome",
     "hasGender": "male",
-    "personInternalId": "#007631",
+    "hasPersonInternalId": "#007631",
     "description": "Roman theologian 347-420"
   },
   "ww_4db497a9138e962c": {
     "firstName": "Ruth",
     "lastName": "Stevenson",
     "hasGender": "female",
-    "personInternalId": "#007632",
+    "hasPersonInternalId": "#007632",
     "description": "*U.S. (?) academic",
     "activeDate": "GREGORIAN:2002"
   },
@@ -4355,7 +4355,7 @@
     "firstName": "Lee",
     "lastName": "Bliss",
     "hasGender": "male",
-    "personInternalId": "#007633",
+    "hasPersonInternalId": "#007633",
     "description": "U.S. academic",
     "birthDate": "GREGORIAN:1943",
     "deathDate": "GREGORIAN:2006"
@@ -4364,14 +4364,14 @@
     "firstName": "Gaius",
     "lastName": "Suetonius Tranquillus",
     "hasGender": "male",
-    "personInternalId": "#007634",
+    "hasPersonInternalId": "#007634",
     "description": "Roman biographer 70-140"
   },
   "ww_07f635a099120296": {
     "firstName": "Giovanni",
     "lastName": "Boccaccio",
     "hasGender": "male",
-    "personInternalId": "#007635",
+    "hasPersonInternalId": "#007635",
     "description": "Italian poet",
     "birthDate": "GREGORIAN:1313",
     "deathDate": "GREGORIAN:1375"
@@ -4380,7 +4380,7 @@
     "firstName": "Ros",
     "lastName": "King",
     "hasGender": "female",
-    "personInternalId": "#007636",
+    "hasPersonInternalId": "#007636",
     "description": "*British academic",
     "activeDate": "GREGORIAN:1984"
   },
@@ -4388,7 +4388,7 @@
     "firstName": "John",
     "lastName": "Heywood",
     "hasGender": "male",
-    "personInternalId": "#007637",
+    "hasPersonInternalId": "#007637",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1497",
     "deathDate": "GREGORIAN:1580"
@@ -4397,14 +4397,14 @@
     "firstName": "_",
     "lastName": "Isocrates",
     "hasGender": "male",
-    "personInternalId": "#007638",
+    "hasPersonInternalId": "#007638",
     "description": "Greek orator"
   },
   "ww_1640040af2cc3bf6": {
     "firstName": "Theodore J.",
     "lastName": "Beardsley Jr.",
     "hasGender": "male",
-    "personInternalId": "#007639",
+    "hasPersonInternalId": "#007639",
     "description": "U.S. (?) scholar",
     "activeDate": "GREGORIAN:1974"
   },
@@ -4412,7 +4412,7 @@
     "firstName": "Henry, Earl of Surrey",
     "lastName": "Howard",
     "hasGender": "male",
-    "personInternalId": "#007640",
+    "hasPersonInternalId": "#007640",
     "description": "English politician and poet",
     "birthDate": "GREGORIAN:1516:1517",
     "deathDate": "GREGORIAN:1547"
@@ -4421,7 +4421,7 @@
     "firstName": "Sir Thomas",
     "lastName": "North",
     "hasGender": "male",
-    "personInternalId": "#007641",
+    "hasPersonInternalId": "#007641",
     "description": "English translator",
     "birthDate": "GREGORIAN:1535",
     "deathDate": "GREGORIAN:1603"
@@ -4430,14 +4430,14 @@
     "firstName": "William",
     "lastName": "Cole",
     "hasGender": "male",
-    "personInternalId": "#007642",
+    "hasPersonInternalId": "#007642",
     "description": "English puritan theologian and translator"
   },
   "ww_240a0754bd0ee196": {
     "firstName": "Myles",
     "lastName": "Coverdale",
     "hasGender": "male",
-    "personInternalId": "#007643",
+    "hasPersonInternalId": "#007643",
     "description": "English ecclesiastical reformer and translator",
     "birthDate": "GREGORIAN:1488",
     "deathDate": "GREGORIAN:1569"
@@ -4446,35 +4446,35 @@
     "firstName": "Anthony",
     "lastName": "Gilby",
     "hasGender": "male",
-    "personInternalId": "#007644",
+    "hasPersonInternalId": "#007644",
     "description": "English Puritan clergyman and translator 1510\u20131585"
   },
   "ww_5e5e8f5620d2719a": {
     "firstName": "Christopher",
     "lastName": "Goodman",
     "hasGender": "male",
-    "personInternalId": "#007645",
+    "hasPersonInternalId": "#007645",
     "description": "English ecclesiastical reforming clergyman and translator 1520\u20131603"
   },
   "ww_d6693f3e9bbd4cc4": {
     "firstName": "Thomas",
     "lastName": "Sampson",
     "hasGender": "male",
-    "personInternalId": "#007646",
+    "hasPersonInternalId": "#007646",
     "description": "English Puritan theologian and translator 1517\u20131589"
   },
   "ww_76f7ad166cf8422f": {
     "firstName": "William",
     "lastName": "Whittingham",
     "hasGender": "male",
-    "personInternalId": "#007647",
+    "hasPersonInternalId": "#007647",
     "description": "English Puritan theologian and translator 1524\u20131579"
   },
   "ww_64c0a6cc1ab8e355": {
     "firstName": "Jasper",
     "lastName": "Heywood",
     "hasGender": "male",
-    "personInternalId": "#007648",
+    "hasPersonInternalId": "#007648",
     "description": "English priest an d translato",
     "birthDate": "GREGORIAN:1535",
     "deathDate": "GREGORIAN:1598"
@@ -4483,7 +4483,7 @@
     "firstName": "Martin",
     "lastName": "White",
     "hasGender": "male",
-    "personInternalId": "#007649",
+    "hasPersonInternalId": "#007649",
     "description": "English (?) scholar",
     "activeDate": "GREGORIAN:2007"
   },
@@ -4491,7 +4491,7 @@
     "firstName": "Edward",
     "lastName": "Halliwell",
     "hasGender": "male",
-    "personInternalId": "#007650",
+    "hasPersonInternalId": "#007650",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1535:1564"
   },
@@ -4499,7 +4499,7 @@
     "firstName": "Matthew",
     "lastName": "Parker",
     "hasGender": "male",
-    "personInternalId": "#007651",
+    "hasPersonInternalId": "#007651",
     "description": "English bishop and translator",
     "birthDate": "GREGORIAN:1504",
     "deathDate": "GREGORIAN:1575"
@@ -4508,7 +4508,7 @@
     "firstName": "George",
     "lastName": "Gascoigne",
     "hasGender": "male",
-    "personInternalId": "#007652",
+    "hasPersonInternalId": "#007652",
     "description": "English poet",
     "birthDate": "GREGORIAN:1535",
     "deathDate": "GREGORIAN:1577"
@@ -4517,14 +4517,14 @@
     "firstName": "William",
     "lastName": "Gager",
     "hasGender": "male",
-    "personInternalId": "#007653",
+    "hasPersonInternalId": "#007653",
     "description": "English jurist and dramatist 1555\u20131622"
   },
   "ww_00e051f6e8775242": {
     "firstName": "John Churton",
     "lastName": "Collins",
     "hasGender": "male",
-    "personInternalId": "#007654",
+    "hasPersonInternalId": "#007654",
     "description": "British scholar",
     "birthDate": "GREGORIAN:1848",
     "deathDate": "GREGORIAN:1908"
@@ -4533,7 +4533,7 @@
     "firstName": "Niall",
     "lastName": "Rudd",
     "hasGender": "male",
-    "personInternalId": "#007655",
+    "hasPersonInternalId": "#007655",
     "description": "Irish-born British classical scholar , full name William James Niall Rudd",
     "birthDate": "GREGORIAN:1927",
     "deathDate": "GREGORIAN:1915"
@@ -4542,7 +4542,7 @@
     "firstName": "Millar",
     "lastName": "Maclure",
     "hasGender": "male",
-    "personInternalId": "#007656",
+    "hasPersonInternalId": "#007656",
     "description": "Canadian scholar",
     "birthDate": "GREGORIAN:1917",
     "deathDate": "GREGORIAN:1990"
@@ -4551,14 +4551,14 @@
     "firstName": "Thomas",
     "lastName": "Harriot",
     "hasGender": "male",
-    "personInternalId": "#007657",
+    "hasPersonInternalId": "#007657",
     "description": "English anthologist"
   },
   "ww_8c5ba897096c644c": {
     "firstName": "Michael",
     "lastName": "Drayton",
     "hasGender": "male",
-    "personInternalId": "#007027",
+    "hasPersonInternalId": "#007027",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1563",
     "deathDate": "GREGORIAN:1631",
@@ -4568,7 +4568,7 @@
     "firstName": "Sir John",
     "lastName": "Harington",
     "hasGender": "male",
-    "personInternalId": "#007659",
+    "hasPersonInternalId": "#007659",
     "description": "Emglish poet and engineer",
     "birthDate": "GREGORIAN:1560",
     "deathDate": "GREGORIAN:1612"
@@ -4577,7 +4577,7 @@
     "firstName": "Richard",
     "lastName": "Johnson",
     "hasGender": "male",
-    "personInternalId": "#007660",
+    "hasPersonInternalId": "#007660",
     "description": "English romance writer",
     "birthDate": "GREGORIAN:1573",
     "deathDate": "GREGORIAN:1659"
@@ -4586,21 +4586,21 @@
     "firstName": "David",
     "lastName": "Carnegie",
     "hasGender": "male",
-    "personInternalId": "#007661",
+    "hasPersonInternalId": "#007661",
     "description": "New Zealand academic"
   },
   "ww_155a667b93f423ae": {
     "firstName": "David",
     "lastName": "Gunby",
     "hasGender": "male",
-    "personInternalId": "#007662",
+    "hasPersonInternalId": "#007662",
     "description": "New Zealand academic"
   },
   "ww_b4954e25adae9b96": {
     "firstName": "Samuel",
     "lastName": "Brandon",
     "hasGender": "male",
-    "personInternalId": "#007663",
+    "hasPersonInternalId": "#007663",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1598"
   },
@@ -4608,7 +4608,7 @@
     "firstName": "Richard",
     "lastName": "Haydock",
     "hasGender": "male",
-    "personInternalId": "#007664",
+    "hasPersonInternalId": "#007664",
     "description": "English artist and translator of Lomazzo's \"A Tracte\"",
     "birthDate": "GREGORIAN:1569",
     "deathDate": "GREGORIAN:1642"
@@ -4617,7 +4617,7 @@
     "firstName": "Giovanni Paolo",
     "lastName": "Lomazzo",
     "hasGender": "male",
-    "personInternalId": "#007665",
+    "hasPersonInternalId": "#007665",
     "description": "Italian painter",
     "birthDate": "GREGORIAN:1538",
     "deathDate": "GREGORIAN:1600"
@@ -4626,7 +4626,7 @@
     "firstName": "Richard",
     "lastName": "Hathaway",
     "hasGender": "male",
-    "personInternalId": "#007666",
+    "hasPersonInternalId": "#007666",
     "description": "English dramatist",
     "activeDate": "GREGORIAN:1597:1603"
   },
@@ -4634,7 +4634,7 @@
     "firstName": "Charles",
     "lastName": "Dymock",
     "hasGender": "male",
-    "personInternalId": "#007667",
+    "hasPersonInternalId": "#007667",
     "description": "English translator",
     "activeDate": "GREGORIAN:1601"
   },
@@ -4642,7 +4642,7 @@
     "firstName": "Battista",
     "lastName": "Guarini",
     "hasGender": "male",
-    "personInternalId": "#007668",
+    "hasPersonInternalId": "#007668",
     "description": "Italian poet",
     "birthDate": "GREGORIAN:1538",
     "deathDate": "GREGORIAN:1612"
@@ -4651,14 +4651,14 @@
     "firstName": "Edward",
     "lastName": "Pudsey",
     "hasGender": "male",
-    "personInternalId": "#007669",
+    "hasPersonInternalId": "#007669",
     "description": "English anthologist"
   },
   "ww_8cda19585857a98c": {
     "firstName": "William",
     "lastName": "Alexander, 1st Earl of Stirling",
     "hasGender": "male",
-    "personInternalId": "#007670",
+    "hasPersonInternalId": "#007670",
     "description": "Scottish dramatist and poet",
     "birthDate": "GREGORIAN:1567",
     "deathDate": "GREGORIAN:1640"
@@ -4667,14 +4667,14 @@
     "firstName": "Richard",
     "lastName": "Dutton",
     "hasGender": "male",
-    "personInternalId": "#007671",
+    "hasPersonInternalId": "#007671",
     "description": "English academic"
   },
   "ww_22d61ad3a743127f": {
     "firstName": "George",
     "lastName": "Ruggle",
     "hasGender": "male",
-    "personInternalId": "#007672",
+    "hasPersonInternalId": "#007672",
     "description": "English dramatist",
     "birthDate": "GREGORIAN:1575",
     "deathDate": "GREGORIAN:1621:1622"
@@ -4683,7 +4683,7 @@
     "firstName": "T.",
     "lastName": "G.",
     "hasGender": "male",
-    "personInternalId": "#007673",
+    "hasPersonInternalId": "#007673",
     "description": "English (?) anthologist",
     "activeDate": "GREGORIAN:1616"
   },
@@ -4691,21 +4691,21 @@
     "firstName": "Camillo",
     "lastName": "Cerdagni",
     "hasGender": "male",
-    "personInternalId": "#007674",
+    "hasPersonInternalId": "#007674",
     "description": "English (?) anthologist"
   },
   "ww_2044141f05be1d1c": {
     "firstName": "Philippe de",
     "lastName": "B\u00e9thune",
     "hasGender": "male",
-    "personInternalId": "#007675",
+    "hasPersonInternalId": "#007675",
     "description": "French diplomat 1566\u20131649"
   },
   "ww_cb5d9718ccb90165": {
     "firstName": "E.",
     "lastName": "G.",
     "hasGender": "male",
-    "personInternalId": "#007676",
+    "hasPersonInternalId": "#007676",
     "description": "English (?) translator",
     "activeDate": "GREGORIAN:1634"
   },
@@ -4713,7 +4713,7 @@
     "firstName": "William",
     "lastName": "Cartwright",
     "hasGender": "male",
-    "personInternalId": "#007677",
+    "hasPersonInternalId": "#007677",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1611",
     "deathDate": "GREGORIAN:1643"
@@ -4722,7 +4722,7 @@
     "firstName": "William",
     "lastName": "Sancroft",
     "hasGender": "male",
-    "personInternalId": "#007678",
+    "hasPersonInternalId": "#007678",
     "description": "English theologian , Archbishop of Canterbury",
     "birthDate": "GREGORIAN:1617",
     "deathDate": "GREGORIAN:1693"
@@ -4731,7 +4731,7 @@
     "firstName": "Francis",
     "lastName": "Quarles",
     "hasGender": "male",
-    "personInternalId": "#007679",
+    "hasPersonInternalId": "#007679",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1592",
     "deathDate": "GREGORIAN:1644"
@@ -4740,7 +4740,7 @@
     "firstName": "Sir John",
     "lastName": "Denham",
     "hasGender": "male",
-    "personInternalId": "#007680",
+    "hasPersonInternalId": "#007680",
     "description": "English poet and dramatist",
     "birthDate": "GREGORIAN:1614:1615",
     "deathDate": "GREGORIAN:1669"
@@ -4749,14 +4749,14 @@
     "firstName": "Abraham",
     "lastName": "Wright",
     "hasGender": "male",
-    "personInternalId": "#007681",
+    "hasPersonInternalId": "#007681",
     "description": "English anthologist"
   },
   "ww_3aa0290883fa0efa": {
     "firstName": "Izaak",
     "lastName": "Walton",
     "hasGender": "male",
-    "personInternalId": "#007682",
+    "hasPersonInternalId": "#007682",
     "description": "English biographer",
     "birthDate": "GREGORIAN:1593",
     "deathDate": "GREGORIAN:1683"
@@ -4765,7 +4765,7 @@
     "firstName": "John",
     "lastName": "Rogers",
     "hasGender": "male",
-    "personInternalId": "#007683",
+    "hasPersonInternalId": "#007683",
     "description": "English religious writer",
     "birthDate": "GREGORIAN:1627",
     "deathDate": "GREGORIAN:1665"
@@ -4774,14 +4774,14 @@
     "firstName": "William",
     "lastName": "Deedes",
     "hasGender": "male",
-    "personInternalId": "#007684",
+    "hasPersonInternalId": "#007684",
     "description": "Engish anthologist"
   },
   "ww_762c5f998d30b4b1": {
     "firstName": "Marmaduke",
     "lastName": "Rawdon or Roydon",
     "hasGender": "male",
-    "personInternalId": "#007685",
+    "hasPersonInternalId": "#007685",
     "description": "English merchant",
     "birthDate": "GREGORIAN:1610",
     "deathDate": "GREGORIAN:1669"
@@ -4790,14 +4790,14 @@
     "firstName": "John",
     "lastName": "Muddyclift",
     "hasGender": "male",
-    "personInternalId": "#007686",
+    "hasPersonInternalId": "#007686",
     "description": "English (?) anthologist"
   },
   "ww_0cc81a10de8c5114": {
     "firstName": "Thomas Grant Steven",
     "lastName": "Cain",
     "hasGender": "male",
-    "personInternalId": "#007687",
+    "hasPersonInternalId": "#007687",
     "description": "contemporary scholar (?)",
     "activeDate": "GREGORIAN:1995"
   },
@@ -4805,14 +4805,14 @@
     "firstName": "William Dunn",
     "lastName": "Macray",
     "hasGender": "male",
-    "personInternalId": "#007688",
+    "hasPersonInternalId": "#007688",
     "description": "English librarian, cleric and historian 1826\u20131916"
   },
   "ww_130467c69828affb": {
     "firstName": "Philip",
     "lastName": "Edwards",
     "hasGender": "male",
-    "personInternalId": "#007689",
+    "hasPersonInternalId": "#007689",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1975"
   },
@@ -4820,7 +4820,7 @@
     "firstName": "Colin",
     "lastName": "Gibson",
     "hasGender": "male",
-    "personInternalId": "#007690",
+    "hasPersonInternalId": "#007690",
     "description": " \tBritish (?) scholar",
     "activeDate": "GREGORIAN:1975"
   },
@@ -4828,7 +4828,7 @@
     "firstName": "Paul A.",
     "lastName": "Mulholland",
     "hasGender": "male",
-    "personInternalId": "#007691",
+    "hasPersonInternalId": "#007691",
     "description": "Canadian scholar",
     "activeDate": "GREGORIAN:2013"
   },
@@ -4836,7 +4836,7 @@
     "firstName": "Walther",
     "lastName": "Sperrhake",
     "hasGender": "male",
-    "personInternalId": "#007692",
+    "hasPersonInternalId": "#007692",
     "description": "German scholar",
     "activeDate": "GREGORIAN:1905"
   },
@@ -4844,7 +4844,7 @@
     "firstName": "G. B.",
     "lastName": "Harrison",
     "hasGender": "male",
-    "personInternalId": "#007693",
+    "hasPersonInternalId": "#007693",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1957"
   },
@@ -4852,14 +4852,14 @@
     "firstName": "_",
     "lastName": "Apuleius",
     "hasGender": "male",
-    "personInternalId": "#007694",
+    "hasPersonInternalId": "#007694",
     "description": "Roman novelist 124-170, also known as Lucius Apuleius Madaurensis"
   },
   "ww_1a86168ae67496b4": {
     "firstName": "Adolf",
     "lastName": "Hoffmann",
     "hasGender": "male",
-    "personInternalId": "#007695",
+    "hasPersonInternalId": "#007695",
     "description": "German scholar",
     "activeDate": "GREGORIAN:1908"
   },
@@ -4867,7 +4867,7 @@
     "firstName": "John",
     "lastName": "Rutherford",
     "hasGender": "male",
-    "personInternalId": "#007696",
+    "hasPersonInternalId": "#007696",
     "description": "Scottish (?) translator",
     "activeDate": "GREGORIAN:1799"
   },
@@ -4875,14 +4875,14 @@
     "firstName": "Titus ",
     "lastName": "Livius",
     "hasGender": "male",
-    "personInternalId": "#007697",
+    "hasPersonInternalId": "#007697",
     "description": "Roman historian [64 BC-59 BC]-[12 AD-17 AD]"
   },
   "ww_bd3d075273a8881e": {
     "firstName": "Julius",
     "lastName": "Caesar",
     "hasGender": "male",
-    "personInternalId": "#007007",
+    "hasPersonInternalId": "#007007",
     "description": "Roman politician 100 BC-44 BC",
     "lexiaAsPerson": "ww_eeebd32a82318509"
   },
@@ -4890,14 +4890,14 @@
     "firstName": "David",
     "lastName": "Currell",
     "hasGender": "male",
-    "personInternalId": "#007699",
+    "hasPersonInternalId": "#007699",
     "description": "U.S. academic"
   },
   "ww_bc20ff65060e68ce": {
     "firstName": "Sir Thomas",
     "lastName": "More",
     "hasGender": "male",
-    "personInternalId": "#007700",
+    "hasPersonInternalId": "#007700",
     "description": "English philosopher and lawyer",
     "birthDate": "GREGORIAN:1478",
     "deathDate": "GREGORIAN:1535"
@@ -4906,7 +4906,7 @@
     "firstName": "John",
     "lastName": "Rastell",
     "hasGender": "male",
-    "personInternalId": "#007701",
+    "hasPersonInternalId": "#007701",
     "description": "English printer, translator and barrister",
     "birthDate": "GREGORIAN:1475",
     "deathDate": "GREGORIAN:1536"
@@ -4915,7 +4915,7 @@
     "firstName": "Leonard",
     "lastName": "Culman",
     "hasGender": "male",
-    "personInternalId": "#007702",
+    "hasPersonInternalId": "#007702",
     "description": "German dramatist and anthologist",
     "birthDate": "GREGORIAN:1500",
     "deathDate": "GREGORIAN:1561"
@@ -4924,14 +4924,14 @@
     "firstName": "Julie",
     "lastName": "Maxwell",
     "hasGender": "female",
-    "personInternalId": "#007703",
+    "hasPersonInternalId": "#007703",
     "description": "*English academic"
   },
   "ww_e298a7cd553a5b00": {
     "firstName": "Charles",
     "lastName": "Wordsworth",
     "hasGender": "male",
-    "personInternalId": "#007704",
+    "hasPersonInternalId": "#007704",
     "description": "English bishop and scholar",
     "birthDate": "GREGORIAN:1806",
     "deathDate": "GREGORIAN:1892"
@@ -4940,7 +4940,7 @@
     "firstName": "Roger A.",
     "lastName": "Stritmatter",
     "hasGender": "male",
-    "personInternalId": "#007705",
+    "hasPersonInternalId": "#007705",
     "description": "U.D. scholar",
     "birthDate": "GREGORIAN:1958"
   },
@@ -4948,7 +4948,7 @@
     "firstName": "Arthur",
     "lastName": "Brooke",
     "hasGender": "male",
-    "personInternalId": "#007706",
+    "hasPersonInternalId": "#007706",
     "description": "English poet",
     "deathDate": "GREGORIAN:1563"
   },
@@ -4956,7 +4956,7 @@
     "firstName": "Nicolaus",
     "lastName": "Delius",
     "hasGender": "male",
-    "personInternalId": "#007707",
+    "hasPersonInternalId": "#007707",
     "description": "German scholar",
     "birthDate": "GREGORIAN:1813",
     "deathDate": "GREGORIAN:1888"
@@ -4965,14 +4965,14 @@
     "firstName": "Charles Wentworth",
     "lastName": "Dilke",
     "hasGender": "male",
-    "personInternalId": "#007708",
+    "hasPersonInternalId": "#007708",
     "description": "English literary critic 1789\u20131864"
   },
   "ww_2b5b422d9bd3e711": {
     "firstName": "Laurentius Grimaldius",
     "lastName": "Goslicius",
     "hasGender": "male",
-    "personInternalId": "#007709",
+    "hasPersonInternalId": "#007709",
     "description": "Polish bishop and philosopher , Polish name Wawrzyniec Grzyma\u0142a Go\u015blicki",
     "birthDate": "GREGORIAN:1530:1540",
     "deathDate": "GREGORIAN:1607"
@@ -4981,7 +4981,7 @@
     "firstName": "Geoffrey",
     "lastName": "Bullough",
     "hasGender": "male",
-    "personInternalId": "#007710",
+    "hasPersonInternalId": "#007710",
     "description": "English academic",
     "activeDate": "GREGORIAN:1946:1968"
   },
@@ -4989,14 +4989,14 @@
     "firstName": "Matthew R.",
     "lastName": "Martin",
     "hasGender": "male",
-    "personInternalId": "#007711",
+    "hasPersonInternalId": "#007711",
     "description": "British (?) scholar"
   },
   "ww_6b21f2c0bdd4b4c5": {
     "firstName": "Thomas",
     "lastName": "Hughes",
     "hasGender": "male",
-    "personInternalId": "#007712",
+    "hasPersonInternalId": "#007712",
     "description": "English lawyer and dramatist",
     "activeDate": "GREGORIAN:1571:1623"
   },
@@ -5004,7 +5004,7 @@
     "firstName": "W. W.",
     "lastName": "Greg",
     "hasGender": "male",
-    "personInternalId": "#007713",
+    "hasPersonInternalId": "#007713",
     "description": "British scholar , full name Sir Walter Wilson Greg",
     "birthDate": "GREGORIAN:1875",
     "deathDate": "GREGORIAN:1959"
@@ -5013,7 +5013,7 @@
     "firstName": "Jeanette",
     "lastName": "Dillon",
     "hasGender": "male",
-    "personInternalId": "#007714",
+    "hasPersonInternalId": "#007714",
     "description": "U.S. academic",
     "activeDate": "GREGORIAN:2000"
   },
@@ -5021,7 +5021,7 @@
     "firstName": "Peter",
     "lastName": "Corbin",
     "hasGender": "male",
-    "personInternalId": "#007715",
+    "hasPersonInternalId": "#007715",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:2002"
   },
@@ -5029,7 +5029,7 @@
     "firstName": "Thomas",
     "lastName": "Sedge",
     "hasGender": "male",
-    "personInternalId": "#007716",
+    "hasPersonInternalId": "#007716",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:2002"
   },
@@ -5037,7 +5037,7 @@
     "firstName": "E. H. C.",
     "lastName": "Oliphant",
     "hasGender": "male",
-    "personInternalId": "#007717",
+    "hasPersonInternalId": "#007717",
     "description": "Australian scholar",
     "birthDate": "GREGORIAN:1863",
     "deathDate": "GREGORIAN:1936"
@@ -5046,7 +5046,7 @@
     "firstName": "Henry, 9th Earl of Northumberland",
     "lastName": "Percy",
     "hasGender": "male",
-    "personInternalId": "#007718",
+    "hasPersonInternalId": "#007718",
     "description": "English nobleman",
     "birthDate": "GREGORIAN:1564",
     "deathDate": "GREGORIAN:1632"
@@ -5055,7 +5055,7 @@
     "firstName": "E. M.",
     "lastName": "Yearling",
     "hasGender": "male",
-    "personInternalId": "#007719",
+    "hasPersonInternalId": "#007719",
     "description": "British (?) scholar",
     "activeDate": "GREGORIAN:1986"
   },
@@ -5063,14 +5063,14 @@
     "firstName": "Thomas",
     "lastName": "Rawlins",
     "hasGender": "male",
-    "personInternalId": "#007720",
+    "hasPersonInternalId": "#007720",
     "description": "English medallist and playwright 1620?-1670"
   },
   "ww_5fe98d25e4d26727": {
     "firstName": "Stephen",
     "lastName": "Hammerton",
     "hasGender": "male",
-    "personInternalId": "#007721",
+    "hasPersonInternalId": "#007721",
     "description": "English actor",
     "activeDate": "GREGORIAN:1629:1647",
     "personPerformedIn": "ww_59671ec300eb8f66"
@@ -5079,7 +5079,7 @@
     "firstName": "Robert Gale",
     "lastName": "Noyes",
     "hasGender": "male",
-    "personInternalId": "#007722",
+    "hasPersonInternalId": "#007722",
     "description": "English scholar",
     "birthDate": "GREGORIAN:1898",
     "deathDate": "GREGORIAN:1961"
@@ -5088,7 +5088,7 @@
     "firstName": "Georg",
     "lastName": "Schr\u00f6der",
     "hasGender": "male",
-    "personInternalId": "#007723",
+    "hasPersonInternalId": "#007723",
     "description": "German councillor and dramatist",
     "birthDate": "GREGORIAN:1635",
     "deathDate": "GREGORIAN:1703"
@@ -5097,14 +5097,14 @@
     "firstName": "tbe (male)",
     "lastName": "0_Author",
     "hasGender": "male",
-    "personInternalId": "#007724",
+    "hasPersonInternalId": "#007724",
     "description": "_"
   },
   "ww_38111ba19729d300": {
     "firstName": "Henry",
     "lastName": "Constable",
     "hasGender": "male",
-    "personInternalId": "#007725",
+    "hasPersonInternalId": "#007725",
     "description": "English poet",
     "birthDate": "GREGORIAN:1562",
     "deathDate": "GREGORIAN:1613"
@@ -5113,7 +5113,7 @@
     "firstName": "John",
     "lastName": "Davis",
     "hasGender": "male",
-    "personInternalId": "#007726",
+    "hasPersonInternalId": "#007726",
     "description": "English explorer",
     "birthDate": "GREGORIAN:1550",
     "deathDate": "GREGORIAN:1605"
@@ -5122,7 +5122,7 @@
     "firstName": "Thomas",
     "lastName": "Hudson",
     "hasGender": "male",
-    "personInternalId": "#007727",
+    "hasPersonInternalId": "#007727",
     "description": "English poet and musician",
     "deathDate": "GREGORIAN:1605"
   },
@@ -5130,7 +5130,7 @@
     "firstName": "Henry",
     "lastName": "Lok",
     "hasGender": "male",
-    "personInternalId": "#007728",
+    "hasPersonInternalId": "#007728",
     "description": "English poet",
     "birthDate": "GREGORIAN:1553",
     "deathDate": "GREGORIAN:1608"
@@ -5139,14 +5139,14 @@
     "firstName": "Claudius Caesar Augustus Germanicus",
     "lastName": "Nero",
     "hasGender": "male",
-    "personInternalId": "#007729",
+    "hasPersonInternalId": "#007729",
     "description": "Roman emperor 37-68"
   },
   "ww_5f7aaf29e328df2b": {
     "firstName": "Sir John",
     "lastName": "Oldcastle",
     "hasGender": "male",
-    "personInternalId": "#007730",
+    "hasPersonInternalId": "#007730",
     "description": "English aristocrat and rebel leader",
     "deathDate": "GREGORIAN:1417"
   },
@@ -5154,28 +5154,28 @@
     "firstName": "_",
     "lastName": "Piovano Arlotto",
     "hasGender": "male",
-    "personInternalId": "#007731",
+    "hasPersonInternalId": "#007731",
     "description": "Italian comic writer 1396\u20131484, real name Arlotto Mainardi"
   },
   "ww_ba6d84f2f8696411": {
     "firstName": "_",
     "lastName": "Plato",
     "hasGender": "male",
-    "personInternalId": "#007732",
+    "hasPersonInternalId": "#007732",
     "description": "Greek philosopher [428-423] BC \u2013 [348-347] BC"
   },
   "ww_bc8c526a262fb9c0": {
     "firstName": "Gnaeus",
     "lastName": "Pompeius Magnus",
     "hasGender": "male",
-    "personInternalId": "#007733",
+    "hasPersonInternalId": "#007733",
     "description": "Roman general and politician 106 BC-48 BC, known as Pompey the Great"
   },
   "ww_2537ec27870af62b": {
     "firstName": "_",
     "lastName": "Richard III",
     "hasGender": "male",
-    "personInternalId": "#007734",
+    "hasPersonInternalId": "#007734",
     "description": "King of England",
     "birthDate": "GREGORIAN:1452",
     "deathDate": "GREGORIAN:1485"
@@ -5184,7 +5184,7 @@
     "firstName": "John",
     "lastName": "Talbot, 1st Earl of Shrewsbury",
     "hasGender": "male",
-    "personInternalId": "#007735",
+    "hasPersonInternalId": "#007735",
     "description": "English military commander",
     "birthDate": "GREGORIAN:1387",
     "deathDate": "GREGORIAN:1453"
@@ -5193,21 +5193,21 @@
     "firstName": "Albius",
     "lastName": "Tibullus",
     "hasGender": "male",
-    "personInternalId": "#007736",
+    "hasPersonInternalId": "#007736",
     "description": "Roman poet 55 BC-19 BC"
   },
   "ww_cab245e8a8b4f7d5": {
     "firstName": "Thomas",
     "lastName": "Watson",
     "hasGender": "male",
-    "personInternalId": "#007737",
+    "hasPersonInternalId": "#007737",
     "description": "English poet and translator 1555\u20131592"
   },
   "ww_aa9d769d4c22a17a": {
     "firstName": "William",
     "lastName": "Sly",
     "hasGender": "male",
-    "personInternalId": "#007738",
+    "hasPersonInternalId": "#007738",
     "description": "English actor",
     "deathDate": "GREGORIAN:1608"
   },
@@ -5215,7 +5215,7 @@
     "firstName": "Augustine",
     "lastName": "Phillips",
     "hasGender": "male",
-    "personInternalId": "#007739",
+    "hasPersonInternalId": "#007739",
     "description": "English actor",
     "deathDate": "GREGORIAN:1605"
   },
@@ -5223,7 +5223,7 @@
     "firstName": "Richard",
     "lastName": "Cowley",
     "hasGender": "male",
-    "personInternalId": "#007740",
+    "hasPersonInternalId": "#007740",
     "description": "English actor",
     "deathDate": "GREGORIAN:1619"
   }

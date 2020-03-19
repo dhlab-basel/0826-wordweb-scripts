@@ -114,7 +114,7 @@ def create_author(auth_id):
         "firstName": allAuthors[auth_id]["firstName"],
         "lastName": allAuthors[auth_id]["lastName"],
         "hasGender": allAuthors[auth_id]["hasGender"],
-        "personInternalId": "#00" + str(person_id_start)
+        "hasPersonInternalId": "#00" + str(person_id_start)
     }
 
     if "description" in allAuthors[auth_id]:
@@ -144,7 +144,7 @@ def create_author(auth_id):
 
 def update_author(auth_id, auth_int_id, lex_id):
     if auth_int_id:
-        authors[auth_id]["personInternalId"] = auth_int_id
+        authors[auth_id]["hasPersonInternalId"] = auth_int_id
 
     if lex_id:
         authors[auth_id]["lexiaAsPerson"] = lex_id
@@ -159,8 +159,8 @@ def update_actor(act_id, book_id):
 
 def create_book(b_id, data_row, pub_info, pub_or_info, dates):
     book = {
-        "bookInternalId": allBooks[b_id]["bookInternalId"],
-        "bookTitle": allBooks[b_id]["bookTitle"],
+        "hasBookInternalId": allBooks[b_id]["hasBookInternalId"],
+        "hasBookTitle": allBooks[b_id]["hasBookTitle"],
         "isWrittenBy": [],
         "hasLanguage": data_row[9]
     }
@@ -243,8 +243,8 @@ def update_book(b_id, auth_names, ven_id, comp_id, gen, sub, lex_id):
 
 def create_sec_book(sec_b_id, pub_info):
     book = {
-        "bookInternalId": allSecBooks[sec_b_id]["bookInternalId"],
-        "bookTitle": allSecBooks[sec_b_id]["bookTitle"],
+        "hasBookInternalId": allSecBooks[sec_b_id]["hasBookInternalId"],
+        "hasBookTitle": allSecBooks[sec_b_id]["hasBookTitle"],
         "edition": pub_info["pubInfo"],
         "isWrittenBy": [],
         "hasLanguage": pub_info["hasLanguage"]
@@ -300,7 +300,7 @@ def create_passage(pa_id, dis_tit, text, text_or, pub, pub_or, com):
         passage["hasPageHist"] = pub_or["page"]
 
     if com:
-        passage["publicComment"] = com
+        passage["hasPublicComment"] = com
 
     passages[pa_id] = passage
 
@@ -373,7 +373,7 @@ def create_contributor(co_id):
         "firstName": allContributors[co_id]["firstName"],
         "lastName": allContributors[co_id]["lastName"],
         "email": allContributors[co_id]["email"],
-        "personInternalId":  "#00" + str(person_id_start)
+        "hasPersonInternalId":  "#00" + str(person_id_start)
     }
 
     contributors[co_id] = contributor
@@ -607,7 +607,7 @@ def start():
 
                             # Creates a key which has the following format{title internalID}. {internalID title} will cause error later because
                             # it already exists
-                            unique_key = "{} {}".format(le["lexiaTitle"], le["lexiaInternalId"])
+                            unique_key = "{} {}".format(le["hasLexiaTitle"], le["hasLexiaInternalId"])
 
                             lexia_id = id.generate(unique_key)
 
@@ -621,13 +621,13 @@ def start():
                             # Updates the lexia reference
                             update_passage(passage_id, None, None, None, lexia_id, None, None, None, None)
 
-                            lexiaAsAuthor = id.generate(le["lexiaTitle"])
+                            lexiaAsAuthor = id.generate(le["hasLexiaTitle"])
                             if lexiaAsAuthor in authors:
                                 # Internal ID of author must be overwritten because the initial internal ID comes form incrementation and in this case
                                 # the ID comes from the user
-                                update_author(lexiaAsAuthor, le["lexiaInternalId"], lexia_id)
+                                update_author(lexiaAsAuthor, le["hasLexiaInternalId"], lexia_id)
 
-                            key = "{} {}".format(le["lexiaInternalId"], le["lexiaTitle"])
+                            key = "{} {}".format(le["hasLexiaInternalId"], le["hasLexiaTitle"])
                             lexiaAsBookVenue = id.generate(key)
 
                             if lexiaAsBookVenue in books:
@@ -644,8 +644,8 @@ def start():
                                 comp_ven_data, type = comp_ven.info(comp_ven_name, line, csv_file)
 
                                 if type is "venue":
-                                    unique_key = "{} {}".format(comp_ven_data["venueInternalId"],
-                                                                comp_ven_data["hasVenuePlace"])
+                                    unique_key = "{} {}".format(comp_ven_data["hasVenueInternalId"],
+                                                                comp_ven_data["hasPlaceVenue"])
 
                                     venue_id = id.generate(unique_key)
 
@@ -659,7 +659,7 @@ def start():
                                     update_book(book_id, None, venue_id, None, None, None, None)
 
                                 elif type is "company":
-                                    company_id = id.generate(comp_ven_data["companyInternalId"])
+                                    company_id = id.generate(comp_ven_data["hasCompanyInternalId"])
 
                                     if company_id not in allCompanies:
                                         print("FAIL Company", company_id, line, csv_file)
@@ -752,8 +752,8 @@ def start():
                         ven_data, type = comp_ven.info(ven_name, line3, non_venues)
 
                         if type is "venue":
-                            unique_key = "{} {}".format(ven_data["venueInternalId"],
-                                                        ven_data["hasVenuePlace"])
+                            unique_key = "{} {}".format(ven_data["hasVenueInternalId"],
+                                                        ven_data["hasPlaceVenue"])
 
                             venue_id = id.generate(unique_key)
 
@@ -801,7 +801,7 @@ def start():
                         if type1 is "company":
 
                             # Generates id for company
-                            company_id = id.generate(comp_data["companyInternalId"])
+                            company_id = id.generate(comp_data["hasCompanyInternalId"])
 
                             # Checks if company_id is valid
                             if company_id not in allCompanies:
@@ -846,7 +846,7 @@ def start():
     # Prints all the books with more than one genre
     # for b in books:
     #     if (len(books[b]["hasGenre"])) > 1:
-    #         print(books[b]["hasGenre"], books[b]["bookTitle"])
+    #         print(books[b]["hasGenre"], books[b]["hasBookTitle"])
 
     # Prints all the found genres
     # allGenres = []

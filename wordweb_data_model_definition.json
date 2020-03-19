@@ -1425,7 +1425,7 @@
         ]
       },
       {
-        "name": "venuePlace",
+        "name": "placeVenue",
         "labels": {
           "de": "Theater Ort",
           "en": "venue place"
@@ -1747,14 +1747,14 @@
           },
           "properties": [
             {
-              "name": "personInternalId",
+              "name": "hasPersonInternalId",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Internal ID",
-                "de": "Interne ID"
+                "en": "has internal person ID",
+                "de": "hat interne Personen ID"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -1913,14 +1913,14 @@
           },
           "properties": [
             {
-              "name": "bookInternalId",
+              "name": "hasBookInternalId",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Internal ID",
-                "de": "Interne ID"
+                "en": "has internal book ID",
+                "de": "hat interne Buch ID"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -1943,14 +1943,14 @@
               "cardinality": "0-n"
             },
             {
-              "name": "bookTitle",
+              "name": "hasBookTitle",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Book title",
-                "de": "Buchtitel"
+                "en": "has book title",
+                "de": "hat Buchtitel"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2319,27 +2319,27 @@
               "cardinality": "0-n"
             },
             {
-              "name": "internalComment",
+              "name": "hasInternalComment",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "internal comment",
-                "de": "Interner Kommentar"
+                "en": "has internal comment",
+                "de": "hat internen Kommentar"
               },
               "gui_element": "Textarea",
               "cardinality": "0-1"
             },
             {
-              "name": "publicComment",
+              "name": "hasPublicComment",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "public comment",
-                "de": "Öffentlicher Kommentar"
+                "en": "has public comment",
+                "de": "hat öffentlichen Kommentar"
               },
               "gui_element": "Textarea",
               "cardinality": "0-1"
@@ -2359,14 +2359,14 @@
           },
           "properties": [
             {
-              "name": "lexiaInternalId",
+              "name": "hasLexiaInternalId",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Internal ID",
-                "de": "Interne ID"
+                "en": "has internal lexia ID",
+                "de": "hat interne Lexia ID"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2376,14 +2376,14 @@
               "cardinality": "1"
             },
             {
-              "name": "lexiaTitle",
+              "name": "hasLexiaTitle",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Lexia title",
-                "de": "Lexiatitel"
+                "en": "has lexia title",
+                "de": "hat Lexiatitel"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2439,14 +2439,14 @@
           },
           "properties": [
             {
-              "name": "companyInternalId",
+              "name": "hasCompanyInternalId",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Internal ID",
-                "de": "Interne ID"
+                "en": "has internal company ID",
+                "de": "hat interne Theater ID"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2456,14 +2456,14 @@
               "cardinality": "1"
             },
             {
-              "name": "companyTitle",
+              "name": "hasCompanyTitle",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Company title",
-                "de": "Theatergruppentitel"
+                "en": "has company title",
+                "de": "hat Theatergruppentitel"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2513,14 +2513,14 @@
           },
           "properties": [
             {
-              "name": "venueInternalId",
+              "name": "hasVenueInternalId",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Internal ID",
-                "de": "Interne ID"
+                "en": "has internal venue ID",
+                "de": "hat interne Aufführungsort ID"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2530,18 +2530,18 @@
               "cardinality": "1"
             },
             {
-              "name": "hasVenuePlace",
+              "name": "hasPlaceVenue",
               "super": [
                 "hasValue"
               ],
               "object": "ListValue",
               "labels": {
-                "en": "Venue Place",
+                "en": "Place Venue",
                 "de": "Aufführungsort"
               },
               "gui_element": "Pulldown",
               "gui_attributes": [
-                "hlist=venuePlace"
+                "hlist=placeVenue"
               ],
               "cardinality": "1"
             },

@@ -84,31 +84,31 @@ def prepare():
 
                         book = add_performance_dates(dates_a_d.group(3), dates_a_d.group(4), dates_a_d.group(5), book)
                         book = add_publish_dates(dates_a_d.group(8), dates_a_d.group(9), dates_a_d.group(10), book)
-                        book["bookTitle"] = dates_a_d.group(11)
+                        book["hasBookTitle"] = dates_a_d.group(11)
 
                     elif only_a and not only_d:
                         dates_a = re.search("(_A((\d{2})-(\d{2})|(\d{2})))(.*)", books.group(2))
 
                         book = add_performance_dates(dates_a.group(3), dates_a.group(4), dates_a.group(5), book)
-                        book["bookTitle"] = dates_a.group(6).strip()
+                        book["hasBookTitle"] = dates_a.group(6).strip()
 
                     elif only_d and not only_a:
                         dates_d = re.search("(_D((\d{2})-(\d{2})|(\d{2})))(.*)", books.group(2))
 
                         book = add_publish_dates(dates_d.group(3), dates_d.group(4), dates_d.group(5), book)
-                        book["bookTitle"] = dates_d.group(6).strip()
+                        book["hasBookTitle"] = dates_d.group(6).strip()
 
                     else:
-                        book["bookTitle"] = books.group(2).strip()
+                        book["hasBookTitle"] = books.group(2).strip()
 
 
-                    if "bookTitle" in book:
+                    if "hasBookTitle" in book:
 
                         # Adding internal ID
-                        book["bookInternalId"] = books.group(1)
+                        book["hasBookInternalId"] = books.group(1)
 
                         # Create a key which has the following format {internalID title}
-                        unique_key = "{} {}".format(book["bookInternalId"], book["bookTitle"])
+                        unique_key = "{} {}".format(book["hasBookInternalId"], book["hasBookTitle"])
 
                         # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
                         book_id = id.generate(unique_key)

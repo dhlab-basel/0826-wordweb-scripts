@@ -32,11 +32,11 @@ def prepare():
                 company = {}
 
                 if companies:
-                    company["companyInternalId"] = companies.group(1)
-                    company["companyTitle"] = companies.group(2)
+                    company["hasCompanyInternalId"] = companies.group(1)
+                    company["hasCompanyTitle"] = companies.group(2)
 
                     # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
-                    company_id = id.generate(company["companyInternalId"])
+                    company_id = id.generate(company["hasCompanyInternalId"])
 
                     # Adding the book to the allBooks object
                     all_companies[company_id] = company

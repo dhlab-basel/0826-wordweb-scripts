@@ -28,7 +28,7 @@ def prepare():
 
             if lexia:
                 # Create a key which has the following format{firstName lastName}
-                unique_key = "{} {}".format(lexia["lexiaTitle"], lexia["lexiaInternalId"])
+                unique_key = "{} {}".format(lexia["hasLexiaTitle"], lexia["hasLexiaInternalId"])
 
                 lexia_id = id.generate(unique_key)
                 all_lexia[lexia_id] = lexia

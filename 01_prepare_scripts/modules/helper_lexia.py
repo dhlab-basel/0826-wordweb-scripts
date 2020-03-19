@@ -117,8 +117,8 @@ def info(text, line, csv_file):
     if lexia_info:
 
         lexia = {
-            "lexiaInternalId": lexia_info.group(4),
-            "lexiaTitle": lexia_info.group(6)
+            "hasLexiaInternalId": lexia_info.group(4),
+            "hasLexiaTitle": lexia_info.group(6)
         }
 
         images_infos = re.findall("_\w\w\w\w\w\w", lexia_info.group(3))

@@ -71,7 +71,7 @@ def start():
         ww_bulk_object.add_resource(
             "book",
             book,
-            books[book]["bookTitle"][:16],
+            books[book]["hasBookTitle"][:16],
             books[book]
         )
 
@@ -87,7 +87,7 @@ def start():
         ww_bulk_object.add_resource(
             "lexia",
             lexia,
-            "L: " + lexias[lexia]["lexiaTitle"][:16],
+            "L: " + lexias[lexia]["hasLexiaTitle"][:16],
             lexias[lexia]
         )
 
