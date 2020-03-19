@@ -90,8 +90,8 @@ def prepare_csv():
                         sec_book["hasLanguage"] = row[9]
 
                         if row[5] and row[6]:
-                            sec_book["createdDate"] = "GREGORIAN:{}:{}".format(row[5], row[6])
-                            sec_book["publishDate"] = "GREGORIAN:{}:{}".format(row[5], row[6])
+                            sec_book["hasCreationDate"] = "GREGORIAN:{}:{}".format(row[5], row[6])
+                            sec_book["hasPublicationDate"] = "GREGORIAN:{}:{}".format(row[5], row[6])
 
                         if row[18]:
                             sec_book["hasGenre"] = []

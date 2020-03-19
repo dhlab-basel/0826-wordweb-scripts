@@ -27,8 +27,8 @@ def prepare():
         for row in results:
 
             author = {
-                "firstName": row["firstname"],
-                "lastName": row["lastname"]
+                "hasFirstName": row["firstname"],
+                "hasLastName": row["lastname"]
             }
 
             # Start with empty description
@@ -58,8 +58,8 @@ def prepare():
                     birth_span = re.search("(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))(.*)", birth.group(2))
 
                     if birth_span.group(4) is None:
-                        author["birthSpanStart"] = birth_span.group(2)
-                        author["birthSpanEnd"] = birth_span.group(3)
+                        author["birthStart"] = birth_span.group(2)
+                        author["birthEnd"] = birth_span.group(3)
                         # print("Not Exact Birth", birth_span.groups(), row)
                     else:
                         author["birthExact"]= birth_span.group(1)
@@ -73,8 +73,8 @@ def prepare():
                     death_span = re.search("(\[(\d{1,4})-(\d{1,4})\]|(\d{1,4}))(.*)", death.group(2))
 
                     if death_span.group(4) is None:
-                        author["deathSpanStart"] = death_span.group(2)
-                        author["deathSpanEnd"] = death_span.group(3)
+                        author["deathStart"] = death_span.group(2)
+                        author["deathEnd"] = death_span.group(3)
                         # print("Not Exact Death", death_span.groups(), row)
                     else:
                         author["deathExact"] = death_span.group(1)
@@ -92,11 +92,11 @@ def prepare():
                         # print(floruit_span.groups())
 
                         if floruit_span.group(4) is None:
-                            author["floruitSpanStart"] = floruit_span.group(2)
-                            author["floruitSpanEnd"] = floruit_span.group(3)
+                            author["activeStart"] = floruit_span.group(2)
+                            author["activeEnd"] = floruit_span.group(3)
                             # print("Not Exact Floruit", floruit_span.groups(), row["description"])
                         else:
-                            author["floruitExact"] = floruit_span.group(1)
+                            author["activeExact"] = floruit_span.group(1)
                             # print("Exact Floruit", floruit_span.groups(), row["description"])
 
                         # add description
@@ -105,16 +105,16 @@ def prepare():
                 elif birthDeath:
 
                     if birthDeath.group(3):
-                        author["birthSpanStart"] = birthDeath.group(3)
-                        author["birthSpanEnd"] = birthDeath.group(4)
+                        author["birthStart"] = birthDeath.group(3)
+                        author["birthEnd"] = birthDeath.group(4)
                         # print("Span Birth: ", birthDeath.groups(), row)
                     else:
                         author["birthExact"] = birthDeath.group(5)
                         # print("Exact Birth in Span: ", birthDeath.groups(), row)
 
                     if birthDeath.group(7):
-                        author["deathSpanStart"] = birthDeath.group(7)
-                        author["deathSpanEnd"] = birthDeath.group(8)
+                        author["deathStart"] = birthDeath.group(7)
+                        author["deathEnd"] = birthDeath.group(8)
                         # print("Span Death: ", birthDeath.groups(), row)
                     else:
                         author["deathExact"] = birthDeath.group(9)
@@ -129,7 +129,7 @@ def prepare():
                 # checks if there are only whitespaces or empty strings (excluding year numbers)
                 if description.strip():
                     # add description to author after it has trimmed the string
-                    author["description"] = description.rstrip()
+                    author["hasDescription"] = description.rstrip()
                     # add sex of author
                     if female:
                         author["hasGender"] = "female"
@@ -137,7 +137,7 @@ def prepare():
                         author["hasGender"] = "male"
 
             # Create a key which has the following format{firstName lastName}
-            unique_key = "{} {}".format(author["firstName"], author["lastName"])
+            unique_key = "{} {}".format(author["hasFirstName"], author["hasLastName"])
 
             # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
             author_id = id.generate(unique_key)

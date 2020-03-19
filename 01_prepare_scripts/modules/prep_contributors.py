@@ -27,13 +27,15 @@ def prepare():
         for row in results:
 
             contributor = {
-                "firstName": row["firstname"].strip(),
-                "lastName": row["lastname"].strip(),
-                "email": row["email"]
+                "hasFirstName": row["firstname"].strip(),
+                "hasLastName": row["lastname"].strip(),
             }
 
+            if row["email"]:
+                contributor["hasEmail"] = row["email"]
+
             # Create a key which has the following format{firstName lastName}
-            unique_key = "{} {}".format(contributor["lastName"], contributor["firstName"])
+            unique_key = "{} {}".format(contributor["hasLastName"], contributor["hasFirstName"])
 
             # Creates id with the key from above. ID contains prefix and a hash which is a hexadecimal with 16 characters
             contributor_id = id.generate(unique_key)

@@ -20,21 +20,21 @@
         "name": "gender",
         "labels": {
           "de": "Geschlecht",
-          "en": "gender"
+          "en": "Gender"
         },
         "nodes": [
           {
             "name": "male",
             "labels": {
-              "de": "männlich",
-              "en": "male"
+              "de": "Männlich",
+              "en": "Male"
             }
           },
           {
             "name": "female",
             "labels": {
-              "de": "weiblich",
-              "en": "female"
+              "de": "Weiblich",
+              "en": "Female"
             }
           }
         ]
@@ -43,7 +43,7 @@
         "name": "language",
         "labels": {
           "de": "Sprache",
-          "en": "language"
+          "en": "Language"
         },
         "nodes": [
           {
@@ -126,7 +126,7 @@
           {
             "name": "New Testament Greek",
             "labels": {
-              "de": "???",
+              "de": "Neues Testament Griechisch",
               "en": "New Testament Greek"
             }
           }
@@ -136,7 +136,7 @@
         "name": "image",
         "labels": {
           "de": "Bild",
-          "en": "image"
+          "en": "Image"
         },
         "nodes": [
           {
@@ -201,14 +201,14 @@
                 "name": "clothes, hair, cosmetics",
                 "labels": {
                   "de": "Kleider, Haare, Kosmetik",
-                  "en": "clothes, hair, cosmetics"
+                  "en": "Clothes, hair, cosmetics"
                 }
               },
               {
                 "name": "medicine",
                 "labels": {
                   "de": "Medizin",
-                  "en": "medicine"
+                  "en": "Medicine"
                 }
               }
             ]
@@ -246,7 +246,7 @@
           {
             "name": "News",
             "labels": {
-              "de": "???",
+              "de": "Neugikeiten",
               "en": "News"
             },
             "nodes": [
@@ -275,7 +275,7 @@
                 "name": "companies",
                 "labels": {
                   "de": "???",
-                  "en": "companies"
+                  "en": "Companies"
                 }
               },
               {
@@ -298,7 +298,7 @@
                 "name": "war, combat",
                 "labels": {
                   "de": "???",
-                  "en": "war, combat"
+                  "en": "War, combat"
                 }
               },
               {
@@ -319,7 +319,7 @@
                 "name": "religion",
                 "labels": {
                   "de": "Religion",
-                  "en": "religion"
+                  "en": "Religion"
                 }
               },
               {
@@ -333,7 +333,7 @@
                 "name": "education",
                 "labels": {
                   "de": "Ausbildung",
-                  "en": "education"
+                  "en": "Education"
                 }
               }
             ]
@@ -373,8 +373,8 @@
       {
         "name": "researchField",
         "labels": {
-          "de": "research field",
-          "en": "research field"
+          "de": "Research field",
+          "en": "Research field"
         },
         "nodes": [
           {
@@ -403,7 +403,7 @@
       {
         "name": "marking",
         "labels": {
-          "de": "Marking",
+          "de": "Markierung",
           "en": "Marking"
         },
         "nodes": [
@@ -709,8 +709,8 @@
       {
         "name": "functionVoice",
         "labels": {
-          "de": "???",
-          "en": "function voice"
+          "de": "Funktion",
+          "en": "Function voice"
         },
         "nodes": [
           {
@@ -724,7 +724,7 @@
             "name": "TITLE",
             "labels": {
               "de": "Titel",
-              "en": "title"
+              "en": "Title"
             }
           },
           {
@@ -744,7 +744,7 @@
               {
                 "name": "Dialogue",
                 "labels": {
-                  "de": "???",
+                  "de": "Dialog",
                   "en": "Dialogue"
                 }
               },
@@ -789,7 +789,7 @@
             "name": "ANTHOLOGY ENTRY",
             "labels": {
               "de": "???",
-              "en": "anthology entry"
+              "en": "Anthology entry"
             }
           },
           {
@@ -1046,7 +1046,7 @@
         "name": "genre",
         "labels": {
           "de": "Genre",
-          "en": "genre"
+          "en": "Genre"
         },
         "nodes": [
           {
@@ -1277,7 +1277,7 @@
         "name": "subject",
         "labels": {
           "de": "Thema",
-          "en": "subject"
+          "en": "Subject"
         },
         "nodes": [
           {
@@ -1391,7 +1391,7 @@
         "name": "status",
         "labels": {
           "de": "Status",
-          "en": "status"
+          "en": "Status"
         },
         "nodes": [
           {
@@ -1428,7 +1428,7 @@
         "name": "placeVenue",
         "labels": {
           "de": "Theater Ort",
-          "en": "venue place"
+          "en": "Venue place"
         },
         "nodes": [
           {
@@ -1742,8 +1742,8 @@
             "de": "Person"
           },
           "comments": {
-            "en": "Represents a human being",
-            "de": "Repräsentiert eine Person/Menschen"
+            "en": "Represents a person",
+            "de": "Repräsentiert eine Person"
           },
           "properties": [
             {
@@ -1753,8 +1753,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has internal person ID",
-                "de": "hat interne Personen ID"
+                "en": "Internal ID",
+                "de": "Interne ID"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -1764,14 +1764,14 @@
               "cardinality": "0-1"
             },
             {
-              "name": "firstName",
+              "name": "hasFirstName",
               "super": [
                 "hasValue",
                 "foaf:givenName"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Firstname",
+                "en": "First name",
                 "de": "Vorname"
               },
               "gui_element": "SimpleText",
@@ -1782,14 +1782,14 @@
               "cardinality": "0-1"
             },
             {
-              "name": "lastName",
+              "name": "hasLastName",
               "super": [
                 "hasValue",
                 "foaf:familyName"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Lastname",
+                "en": "Last name",
                 "de": "Nachname"
               },
               "gui_element": "SimpleText",
@@ -1800,7 +1800,7 @@
               "cardinality": "0-1"
             },
             {
-              "name": "description",
+              "name": "hasDescription",
               "super": [
                 "hasValue"
               ],
@@ -1817,40 +1817,40 @@
               "cardinality": "0-1"
             },
             {
-              "name": "birthDate",
+              "name": "hasBirthDate",
               "super": [
                 "hasValue"
               ],
               "object": "DateValue",
               "labels": {
-                "en": "Birth Date",
+                "en": "Birth date",
                 "de": "Geburtsdatum"
               },
               "gui_element": "Date",
               "cardinality": "0-1"
             },
             {
-              "name": "deathDate",
+              "name": "hasDeathDate",
               "super": [
                 "hasValue"
               ],
               "object": "DateValue",
               "labels": {
-                "en": "Death Date",
+                "en": "Death date",
                 "de": "Todesdatum"
               },
               "gui_element": "Date",
               "cardinality": "0-1"
             },
             {
-              "name": "activeDate",
+              "name": "hasActiveDate",
               "super": [
                 "hasValue"
               ],
               "object": "DateValue",
               "labels": {
-                "en": "Active Date",
-                "de": "Aktivitätsdatum"
+                "en": "Active date",
+                "de": "Aktives Datum"
               },
               "gui_element": "Date",
               "cardinality": "0-1"
@@ -1873,14 +1873,31 @@
               "cardinality": "0-1"
             },
             {
-              "name": "lexiaAsPerson",
+              "name": "hasEmail",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Email",
+                "de": "Email"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "0-1"
+            },
+            {
+              "name": "isLexiaPerson",
               "super": [
                 "hasLinkTo"
               ],
               "object": "teimww:lexia",
               "labels": {
-                "en": "lexia as person",
-                "de": "Lexia als Person"
+                "en": "is Lexia person",
+                "de": "ist Lexia Person"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
@@ -1892,8 +1909,8 @@
               ],
               "object": "teimww:book",
               "labels": {
-                "en": "person has a role in a play",
-                "de": "Person hat eine Rolle in einem Stück"
+                "en": "performed in",
+                "de": "spielte mit in"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
@@ -1919,8 +1936,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has internal book ID",
-                "de": "hat interne Buch ID"
+                "en": "Internal Id",
+                "de": "Interne Id"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -1949,8 +1966,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has book title",
-                "de": "hat Buchtitel"
+                "en": "Book title",
+                "de": "Buchtitel"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -1966,8 +1983,8 @@
               ],
               "object": "teimww:company",
               "labels": {
-                "en": "is performed by",
-                "de": "wurde performed von"
+                "en": "performed by",
+                "de": "gespielt von"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
@@ -1979,47 +1996,47 @@
               ],
               "object": "teimww:venue",
               "labels": {
-                "en": "is performed in",
-                "de": "wurde performed in"
+                "en": "performed in",
+                "de": "gespielt in"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
             },
             {
-              "name": "lexiaAsBook",
+              "name": "isLexiaBook",
               "super": [
                 "hasLinkTo"
               ],
               "object": "teimww:lexia",
               "labels": {
-                "en": "lexia as book",
-                "de": "Lexia als Buch"
+                "en": "lexia book",
+                "de": "Lexia Buch"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
             },
             {
-              "name": "edition",
+              "name": "hasEdition",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "edition normalized",
-                "de": "Edition normalisiert"
+                "en": "Edition (normalized)",
+                "de": "Edition (normalisiert)"
               },
               "gui_element": "Textarea",
               "cardinality": "0-1"
             },
             {
-              "name": "editionHist",
+              "name": "hasEditionHist",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "edition historical",
-                "de": "Edition historisch"
+                "en": "Edition (historical)",
+                "de": "Edition (historisch)"
               },
               "gui_element": "Textarea",
               "cardinality": "0-1"
@@ -2031,7 +2048,7 @@
               ],
               "object": "ListValue",
               "labels": {
-                "en": "language",
+                "en": "Language",
                 "de": "Sprache"
               },
               "gui_element": "Pulldown",
@@ -2047,8 +2064,8 @@
               ],
               "object": "ListValue",
               "labels": {
-                "en": "has a genre",
-                "de": "hat ein Genre"
+                "en": "Genre",
+                "de": "Genre"
               },
               "gui_element": "Pulldown",
               "gui_attributes": [
@@ -2063,8 +2080,8 @@
               ],
               "object": "ListValue",
               "labels": {
-                "en": "has a subject",
-                "de": "hat Thema"
+                "en": "Subject",
+                "de": "Thema"
               },
               "gui_element": "Pulldown",
               "gui_attributes": [
@@ -2073,40 +2090,40 @@
               "cardinality": "0-n"
             },
             {
-              "name": "createdDate",
+              "name": "hasCreationDate",
               "super": [
                 "hasValue"
               ],
               "object": "DateValue",
               "labels": {
-                "en": "Created",
-                "de": "???"
+                "en": "Creation date",
+                "de": "Erstellungsdatum"
               },
               "gui_element": "Date",
               "cardinality": "0-1"
             },
             {
-              "name": "publishDate",
+              "name": "hasPublicationDate",
               "super": [
                 "hasValue"
               ],
               "object": "DateValue",
               "labels": {
-                "en": "Published",
-                "de": "???"
+                "en": "Publication date",
+                "de": "Veröffentlichungsdatum"
               },
               "gui_element": "Date",
               "cardinality": "0-1"
             },
             {
-              "name": "firstPerformanceDate",
+              "name": "hasFirstPerformanceDate",
               "super": [
                 "hasValue"
               ],
               "object": "DateValue",
               "labels": {
-                "en": "First Performed",
-                "de": "???"
+                "en": "First performance date",
+                "de": "Erstaufführungsdatum"
               },
               "gui_element": "Date",
               "cardinality": "0-1"
@@ -2132,8 +2149,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has text",
-                "de": "Textpassage"
+                "en": "Text",
+                "de": "Text"
               },
               "gui_element": "Textarea",
               "cardinality": "0-1"
@@ -2145,8 +2162,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has text hist",
-                "de": "Textpassage hist."
+                "en": "Historical text",
+                "de": "Historischer Text"
               },
               "gui_element": "Textarea",
               "cardinality": "0-1"
@@ -2158,8 +2175,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "displayed title",
-                "de": "angezeigter Title"
+                "en": "Displayed title",
+                "de": "Angezeigter Title"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2175,7 +2192,7 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has page",
+                "en": "Page",
                 "de": "Seitenzahl"
               },
               "gui_element": "SimpleText",
@@ -2192,8 +2209,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has page hist",
-                "de": "Seitenzahl hist."
+                "en": "Page (historical)",
+                "de": "Seitenzahl (historisch)"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2209,8 +2226,8 @@
               ],
               "object": "ListValue",
               "labels": {
-                "en": "has research field",
-                "de": "???"
+                "en": "Research field",
+                "de": "Research field"
               },
               "gui_element": "Pulldown",
               "gui_attributes": [
@@ -2225,8 +2242,8 @@
               ],
               "object": "ListValue",
               "labels": {
-                "en": "has function voice",
-                "de": "???"
+                "en": "Function voice",
+                "de": "Funktion"
               },
               "gui_element": "Pulldown",
               "gui_attributes": [
@@ -2241,8 +2258,8 @@
               ],
               "object": "ListValue",
               "labels": {
-                "en": "has marking",
-                "de": "hat Marking"
+                "en": "Marking",
+                "de": "Markierung"
               },
               "gui_element": "Pulldown",
               "gui_attributes": [
@@ -2257,8 +2274,8 @@
               ],
               "object": "ListValue",
               "labels": {
-                "en": "has status",
-                "de": "hat Status"
+                "en": "Status",
+                "de": "Status"
               },
               "gui_element": "Pulldown",
               "gui_attributes": [
@@ -2325,8 +2342,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has internal comment",
-                "de": "hat internen Kommentar"
+                "en": "Internal comment",
+                "de": "Interner Kommentar"
               },
               "gui_element": "Textarea",
               "cardinality": "0-1"
@@ -2338,8 +2355,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has public comment",
-                "de": "hat öffentlichen Kommentar"
+                "en": "Public comment",
+                "de": "Öffentlicher Kommentar"
               },
               "gui_element": "Textarea",
               "cardinality": "0-1"
@@ -2365,8 +2382,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has internal lexia ID",
-                "de": "hat interne Lexia ID"
+                "en": "Internal Id",
+                "de": "Interne Id"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2382,8 +2399,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has lexia title",
-                "de": "hat Lexiatitel"
+                "en": "Lexia title",
+                "de": "Lexiatitel"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2399,7 +2416,7 @@
               ],
               "object": "ListValue",
               "labels": {
-                "en": "formal class",
+                "en": "Formal class",
                 "de": "Formale Klasse"
               },
               "gui_element": "Pulldown",
@@ -2415,7 +2432,7 @@
               ],
               "object": "ListValue",
               "labels": {
-                "en": "image",
+                "en": "Image",
                 "de": "Bilder"
               },
               "gui_element": "Pulldown",
@@ -2445,8 +2462,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has internal company ID",
-                "de": "hat interne Theater ID"
+                "en": "Internal Id",
+                "de": "Interne Id"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2462,8 +2479,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has company title",
-                "de": "hat Theatergruppentitel"
+                "en": "Company title",
+                "de": "Theatergruppentitel"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2473,14 +2490,14 @@
               "cardinality": "1"
             },
             {
-              "name": "lexiaAsCompany",
+              "name": "isLexiaCompany",
               "super": [
                 "hasLinkTo"
               ],
               "object": "teimww:lexia",
               "labels": {
-                "en": "lexia as company",
-                "de": "Lexia als Theatergruppe"
+                "en": "Lexia company",
+                "de": "Lexia Theatergruppe"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
@@ -2492,8 +2509,8 @@
               ],
               "object": "teimww:person",
               "labels": {
-                "en": "has member",
-                "de": "hat Mitglieder"
+                "en": "Member",
+                "de": "Mitglieder"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
@@ -2519,8 +2536,8 @@
               ],
               "object": "TextValue",
               "labels": {
-                "en": "has internal venue ID",
-                "de": "hat interne Aufführungsort ID"
+                "en": "Internal Id",
+                "de": "Interne Id"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2546,14 +2563,14 @@
               "cardinality": "1"
             },
             {
-              "name": "lexiaAsVenue",
+              "name": "isLexiaVenue",
               "super": [
                 "hasLinkTo"
               ],
               "object": "teimww:lexia",
               "labels": {
-                "en": "lexia as venue",
-                "de": "Lexia als Aufführungsort"
+                "en": "Lexia venue",
+                "de": "Lexia Aufführungsort"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"

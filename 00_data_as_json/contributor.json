@@ -1,104 +1,96 @@
 {
   "ww_791eea3681551358": {
-    "firstName": "Regula",
-    "lastName": "Hohl",
-    "email": "",
+    "hasFirstName": "Regula",
+    "hasLastName": "Hohl",
     "hasPersonInternalId": "#007102"
   },
   "ww_b05ab3db9fd9054a": {
-    "firstName": "Christian",
-    "lastName": "Gebhard",
-    "email": "christian.gebhard@stud.unibas.ch",
-    "hasPersonInternalId": "#007117"
+    "hasFirstName": "Christian",
+    "hasLastName": "Gebhard",
+    "hasPersonInternalId": "#007117",
+    "hasEmail": "christian.gebhard@stud.unibas.ch"
   },
   "ww_8106744e44c77c96": {
-    "firstName": "Maria",
-    "lastName": "Tranter",
-    "email": "M.Tranter@stud.unibas.ch",
-    "hasPersonInternalId": "#007127"
+    "hasFirstName": "Maria",
+    "hasLastName": "Tranter",
+    "hasPersonInternalId": "#007127",
+    "hasEmail": "M.Tranter@stud.unibas.ch"
   },
   "ww_7f35f6802efd910d": {
-    "firstName": "Stefanie",
-    "lastName": "Heeg",
-    "email": "",
+    "hasFirstName": "Stefanie",
+    "hasLastName": "Heeg",
     "hasPersonInternalId": "#007137"
   },
   "ww_b604df587d93b768": {
-    "firstName": "Elliot",
-    "lastName": "Reitzer",
-    "email": "",
+    "hasFirstName": "Elliot",
+    "hasLastName": "Reitzer",
     "hasPersonInternalId": "#007142"
   },
   "ww_e3d06d88eb4427b0": {
-    "firstName": "Nickie",
-    "lastName": "Tryfona",
-    "email": "",
+    "hasFirstName": "Nickie",
+    "hasLastName": "Tryfona",
     "hasPersonInternalId": "#007170"
   },
   "ww_6202c1bb6957c9cc": {
-    "firstName": "Martin",
-    "lastName": "Danneck",
-    "email": "",
+    "hasFirstName": "Martin",
+    "hasLastName": "Danneck",
     "hasPersonInternalId": "#007191"
   },
   "ww_b98e7021b3193ae3": {
-    "firstName": "Stefan",
-    "lastName": "Kristmann",
-    "email": "Stefan.Kristmann@stud.unibas.ch",
-    "hasPersonInternalId": "#007203"
+    "hasFirstName": "Stefan",
+    "hasLastName": "Kristmann",
+    "hasPersonInternalId": "#007203",
+    "hasEmail": "Stefan.Kristmann@stud.unibas.ch"
   },
   "ww_5fbb1eab1b30dfee": {
-    "firstName": "Sixta",
-    "lastName": "Quassdorf",
-    "email": "sixta.quassdorf@unibas.ch",
-    "hasPersonInternalId": "#007243"
+    "hasFirstName": "Sixta",
+    "hasLastName": "Quassdorf",
+    "hasPersonInternalId": "#007243",
+    "hasEmail": "sixta.quassdorf@unibas.ch"
   },
   "ww_bff7390e4e734f4c": {
-    "firstName": "Olivia",
-    "lastName": "Rottmann",
-    "email": "olivia.rottmann@unibas.ch",
-    "hasPersonInternalId": "#007252"
+    "hasFirstName": "Olivia",
+    "hasLastName": "Rottmann",
+    "hasPersonInternalId": "#007252",
+    "hasEmail": "olivia.rottmann@unibas.ch"
   },
   "ww_6965a91ff78934d7": {
-    "firstName": "Rene",
-    "lastName": "Wallrodt",
-    "email": "rene.wallrodt@stud.unibas.ch",
-    "hasPersonInternalId": "#007253"
+    "hasFirstName": "Rene",
+    "hasLastName": "Wallrodt",
+    "hasPersonInternalId": "#007253",
+    "hasEmail": "rene.wallrodt@stud.unibas.ch"
   },
   "ww_d5030ba888f64f29": {
-    "firstName": "Gustavo",
-    "lastName": "Grandi de Souza",
-    "email": "",
+    "hasFirstName": "Gustavo",
+    "hasLastName": "Grandi de Souza",
     "hasPersonInternalId": "#007333"
   },
   "ww_72ab59d77214a6f8": {
-    "firstName": "Chantal",
-    "lastName": "Battilana",
-    "email": "chantal.battilana@stud.unibas.ch",
-    "hasPersonInternalId": "#007344"
+    "hasFirstName": "Chantal",
+    "hasLastName": "Battilana",
+    "hasPersonInternalId": "#007344",
+    "hasEmail": "chantal.battilana@stud.unibas.ch"
   },
   "ww_caa8f9e4a628f638": {
-    "firstName": "Balz",
-    "lastName": "Engler B.",
-    "email": "Balz.Engler@unibas.ch",
-    "hasPersonInternalId": "#007405"
+    "hasFirstName": "Balz",
+    "hasLastName": "Engler B.",
+    "hasPersonInternalId": "#007405",
+    "hasEmail": "Balz.Engler@unibas.ch"
   },
   "ww_89c0be6dd7262995": {
-    "firstName": "Vea-Murguia",
-    "lastName": "Thomson",
-    "email": "",
+    "hasFirstName": "Vea-Murguia",
+    "hasLastName": "Thomson",
     "hasPersonInternalId": "#007431"
   },
   "ww_ad4ed5850132d51e": {
-    "firstName": "Eftychia",
-    "lastName": "Fountoulakis",
-    "email": "E.Fountoulakis@stud.unibas.ch",
-    "hasPersonInternalId": "#007473"
+    "hasFirstName": "Eftychia",
+    "hasLastName": "Fountoulakis",
+    "hasPersonInternalId": "#007473",
+    "hasEmail": "E.Fountoulakis@stud.unibas.ch"
   },
   "ww_f4d0b9d33729f20b": {
-    "firstName": "Elisabeth",
-    "lastName": "M\u00e4der",
-    "email": "",
+    "hasFirstName": "Elisabeth",
+    "hasLastName": "M\u00e4der",
     "hasPersonInternalId": "#007541"
   }
 }

@@ -111,32 +111,32 @@ def create_author(auth_id):
 
     # Author with all the properties defined in the data_model_definition.json
     person = {
-        "firstName": allAuthors[auth_id]["firstName"],
-        "lastName": allAuthors[auth_id]["lastName"],
+        "hasFirstName": allAuthors[auth_id]["hasFirstName"],
+        "hasLastName": allAuthors[auth_id]["hasLastName"],
         "hasGender": allAuthors[auth_id]["hasGender"],
         "hasPersonInternalId": "#00" + str(person_id_start)
     }
 
-    if "description" in allAuthors[auth_id]:
-        person["description"] = allAuthors[auth_id]["description"]
+    if "hasDescription" in allAuthors[auth_id]:
+        person["hasDescription"] = allAuthors[auth_id]["hasDescription"]
 
     if "birthExact" in allAuthors[auth_id]:
-        person["birthDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["birthExact"])
-    elif "birthSpanStart" in allAuthors[auth_id]:
-        person["birthDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["birthSpanStart"],
-                                                       allAuthors[auth_id]["birthSpanEnd"])
+        person["hasBirthDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["birthExact"])
+    elif "birthStart" in allAuthors[auth_id]:
+        person["hasBirthDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["birthStart"],
+                                                       allAuthors[auth_id]["birthEnd"])
 
     if "deathExact" in allAuthors[auth_id]:
-        person["deathDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["deathExact"])
-    elif "deathSpanStart" in allAuthors[auth_id]:
-        person["deathDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["deathSpanStart"],
-                                                       allAuthors[auth_id]["deathSpanEnd"])
+        person["hasDeathDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["deathExact"])
+    elif "deathStart" in allAuthors[auth_id]:
+        person["hasDeathDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["deathStart"],
+                                                       allAuthors[auth_id]["deathEnd"])
 
-    if "floruitExact" in allAuthors[auth_id]:
-        person["activeDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["floruitExact"])
-    elif "floruitSpanStart" in allAuthors[auth_id]:
-        person["activeDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["floruitSpanStart"],
-                                                        allAuthors[auth_id]["floruitSpanEnd"])
+    if "activeExact" in allAuthors[auth_id]:
+        person["activeDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["activeExact"])
+    elif "activeStart" in allAuthors[auth_id]:
+        person["activeDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["activeStart"],
+                                                        allAuthors[auth_id]["activeEnd"])
 
     # Adding the new author to the list of authors
     authors[auth_id] = person
@@ -147,7 +147,7 @@ def update_author(auth_id, auth_int_id, lex_id):
         authors[auth_id]["hasPersonInternalId"] = auth_int_id
 
     if lex_id:
-        authors[auth_id]["lexiaAsPerson"] = lex_id
+        authors[auth_id]["isLexiaPerson"] = lex_id
 
 
 def update_actor(act_id, book_id):
@@ -166,23 +166,23 @@ def create_book(b_id, data_row, pub_info, pub_or_info, dates):
     }
 
     if data_row[5] and data_row[6]:
-        book["createdDate"] = "GREGORIAN:{}:{}".format(data_row[5], data_row[6])
+        book["hasCreationDate"] = "GREGORIAN:{}:{}".format(data_row[5], data_row[6])
 
-    if "performanceExact" in dates:
-        book["firstPerformanceDate"] = "GREGORIAN:{}".format(dates["performanceExact"])
-    elif "performanceSpanStart" in dates:
-        book["firstPerformanceDate"] = "GREGORIAN:{}:{}".format(dates["performanceSpanStart"], dates["performanceSpanEnd"])
+    if "firstPerformanceExact" in dates:
+        book["hasFirstPerformanceDate"] = "GREGORIAN:{}".format(dates["firstPerformanceExact"])
+    elif "firstPerformanceStart" in dates:
+        book["hasFirstPerformanceDate"] = "GREGORIAN:{}:{}".format(dates["firstPerformanceStart"], dates["firstPerformanceEnd"])
 
-    if "publishExact" in dates:
-        book["publishDate"] = "GREGORIAN:{}".format(dates["publishExact"])
-    elif "publishSpanStart" in dates:
-        book["publishDate"] = "GREGORIAN:{}:{}".format(dates["publishSpanStart"], dates["publishSpanEnd"])
+    if "publicationExact" in dates:
+        book["hasPublicationDate"] = "GREGORIAN:{}".format(dates["publicationExact"])
+    elif "publicationStart" in dates:
+        book["hasPublicationDate"] = "GREGORIAN:{}:{}".format(dates["publicationStart"], dates["publicationEnd"])
 
     if "pubInfo" in pub_info:
-        book["edition"] = pub_info["pubInfo"]
+        book["hasEdition"] = pub_info["pubInfo"]
 
     if "pubInfo" in pub_or_info:
-        book["editionHist"] = pub_or_info["pubInfo"]
+        book["hasEditionHist"] = pub_or_info["pubInfo"]
 
     books[b_id] = book
 
@@ -238,21 +238,21 @@ def update_book(b_id, auth_names, ven_id, comp_id, gen, sub, lex_id):
         books[b_id]["hasSubject"] = list(temp)
 
     if lex_id:
-        books[b_id]["lexiaAsBook"] = lex_id
+        books[b_id]["isLexiaBook"] = lex_id
 
 
 def create_sec_book(sec_b_id, pub_info):
     book = {
         "hasBookInternalId": allSecBooks[sec_b_id]["hasBookInternalId"],
         "hasBookTitle": allSecBooks[sec_b_id]["hasBookTitle"],
-        "edition": pub_info["pubInfo"],
+        "hasEdition": pub_info["pubInfo"],
         "isWrittenBy": [],
         "hasLanguage": pub_info["hasLanguage"]
     }
 
-    if "createdDate" in pub_info and "publishDate" in pub_info:
-        book["createdDate"] = pub_info["createdDate"]
-        book["publishDate"] = pub_info["publishDate"]
+    if "hasCreationDate" in pub_info and "hasPublicationDate" in pub_info:
+        book["hasCreationDate"] = pub_info["hasCreationDate"]
+        book["hasPublicationDate"] = pub_info["hasPublicationDate"]
 
     if "hasGenre" in pub_info:
         book["hasGenre"] = pub_info["hasGenre"]
@@ -370,11 +370,13 @@ def create_contributor(co_id):
     person_id_start = person_id_start + 1
 
     contributor = {
-        "firstName": allContributors[co_id]["firstName"],
-        "lastName": allContributors[co_id]["lastName"],
-        "email": allContributors[co_id]["email"],
+        "hasFirstName": allContributors[co_id]["hasFirstName"],
+        "hasLastName": allContributors[co_id]["hasLastName"],
         "hasPersonInternalId":  "#00" + str(person_id_start)
     }
+
+    if "hasEmail" in allContributors[co_id]:
+        contributor["hasEmail"] = allContributors[co_id]["hasEmail"]
 
     contributors[co_id] = contributor
 
@@ -390,7 +392,7 @@ def create_company(comp_id, comp):
 def update_company(comp_id, lex_id, human_id):
 
     if lex_id:
-        companies[comp_id]["lexiaAsCompany"] = lex_id
+        companies[comp_id]["isLexiaCompany"] = lex_id
 
     if human_id:
         if "hasMember" not in companies[comp_id]:
@@ -406,7 +408,7 @@ def create_venue(ven_id, ven):
 
 
 def update_venue(ven_id, lex_id):
-    venues[ven_id]["lexiaAsVenue"] = lex_id
+    venues[ven_id]["isLexiaVenue"] = lex_id
 
 
 def start():
@@ -621,20 +623,20 @@ def start():
                             # Updates the lexia reference
                             update_passage(passage_id, None, None, None, lexia_id, None, None, None, None)
 
-                            lexiaAsAuthor = id.generate(le["hasLexiaTitle"])
-                            if lexiaAsAuthor in authors:
+                            isLexiaAuthor = id.generate(le["hasLexiaTitle"])
+                            if isLexiaAuthor in authors:
                                 # Internal ID of author must be overwritten because the initial internal ID comes form incrementation and in this case
                                 # the ID comes from the user
-                                update_author(lexiaAsAuthor, le["hasLexiaInternalId"], lexia_id)
+                                update_author(isLexiaAuthor, le["hasLexiaInternalId"], lexia_id)
 
                             key = "{} {}".format(le["hasLexiaInternalId"], le["hasLexiaTitle"])
-                            lexiaAsBookVenue = id.generate(key)
+                            isLexiaBookVenue = id.generate(key)
 
-                            if lexiaAsBookVenue in books:
-                                update_book(lexiaAsBookVenue, None, None, None, None, None, lexia_id)
+                            if isLexiaBookVenue in books:
+                                update_book(isLexiaBookVenue, None, None, None, None, None, lexia_id)
 
-                            if lexiaAsBookVenue in venues:
-                                update_venue(lexiaAsBookVenue, lexia_id)
+                            if isLexiaBookVenue in venues:
+                                update_venue(isLexiaBookVenue, lexia_id)
 
                         # --------------- COMPANY & VENUES
                         if row[12]:
@@ -880,6 +882,22 @@ def start():
         for p in no_marking_pas:
             print("Fail - Passage with no marking", p["hasText"])
         raise SystemExit(0)
+
+    # ------------------------------------------
+    # Checks if there are passages with no status
+    no_status_counter = 0
+    no_status_pas = []
+
+    for p in passages:
+        if not "hasStatus" in passages[p]:
+            no_status_counter += 1
+            no_status_pas.append(passages[p])
+
+    if no_status_counter > 0:
+        for p in no_status_pas:
+            print("Fail - Passage with no status", p["hasText"])
+        raise SystemExit(0)
+
 
 
     # Saves the objects which occurs in the csv files in to json files

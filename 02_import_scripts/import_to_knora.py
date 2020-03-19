@@ -55,7 +55,7 @@ def start():
         ww_bulk_object.add_resource(
             "person",
             author,
-            "{} {}".format(authors[author]["firstName"], authors[author]["lastName"]),
+            "{} {}".format(authors[author]["hasFirstName"], authors[author]["hasLastName"]),
             authors[author]
         )
 
@@ -63,7 +63,7 @@ def start():
         ww_bulk_object.add_resource(
             "person",
             contributor,
-            "{} {}".format(contributors[contributor]["firstName"], contributors[contributor]["lastName"]),
+            "{} {}".format(contributors[contributor]["hasFirstName"], contributors[contributor]["hasLastName"]),
             contributors[contributor]
         )
 

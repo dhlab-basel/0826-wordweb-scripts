@@ -30,10 +30,10 @@ def get_full_year(number):
 def add_performance_dates(span_start, span_end, only_year, object):
 
     if span_start and span_end:
-        object["performanceSpanStart"] = get_full_year(int(span_start))
-        object["performanceSpanEnd"] = get_full_year(int(span_end))
+        object["firstPerformanceStart"] = get_full_year(int(span_start))
+        object["firstPerformanceEnd"] = get_full_year(int(span_end))
     else:
-        object["performanceExact"] = get_full_year(int(only_year))
+        object["firstPerformanceExact"] = get_full_year(int(only_year))
 
     return object
 
@@ -41,10 +41,10 @@ def add_performance_dates(span_start, span_end, only_year, object):
 def add_publish_dates(span_start, span_end, only_year, object):
 
     if span_start and span_end:
-        object["publishSpanStart"] = get_full_year(int(span_start))
-        object["publishSpanEnd"] = get_full_year(int(span_end))
+        object["publicationStart"] = get_full_year(int(span_start))
+        object["publicationEnd"] = get_full_year(int(span_end))
     else:
-        object["publishExact"] = get_full_year(int(only_year))
+        object["publicationExact"] = get_full_year(int(only_year))
 
     return object
 
