@@ -349,6 +349,7 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, sta
 
 def create_sec_passage(sec_pa_id, pag):
     passage = {
+        "hasText": "-",
         "hasPage": pag,
         "occursIn": [],
         "hasStatus": "weak",
@@ -896,6 +897,21 @@ def start():
     if no_status_counter > 0:
         for p in no_status_pas:
             print("Fail - Passage with no status", p["hasText"])
+        raise SystemExit(0)
+
+    # ------------------------------------------
+    # Checks if there are passages with no text
+    no_text_counter = 0
+    no_text_pas = []
+
+    for p in passages:
+        if not "hasText" in passages[p]:
+            no_text_counter += 1
+            no_text_pas.append(passages[p])
+
+    if no_text_counter > 0:
+        for p in no_text_pas:
+            print("Fail - Passage with no text - Book ID: ", p["occursIn"])
         raise SystemExit(0)
 
 
