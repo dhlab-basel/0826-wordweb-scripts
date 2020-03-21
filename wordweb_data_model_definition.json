@@ -1947,19 +1947,6 @@
               "cardinality": "0-1"
             },
             {
-              "name": "isWrittenBy",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:person",
-              "labels": {
-                "en": "is written by",
-                "de": "wurde geschrieben von"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
               "name": "hasBookTitle",
               "super": [
                 "hasValue"
@@ -1975,45 +1962,6 @@
                 "maxlength=64"
               ],
               "cardinality": "0-1"
-            },
-            {
-              "name": "performedBy",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:company",
-              "labels": {
-                "en": "performed by",
-                "de": "gespielt von"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "performedIn",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:venue",
-              "labels": {
-                "en": "performed in",
-                "de": "gespielt in"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "isLexiaBook",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:lexia",
-              "labels": {
-                "en": "lexia book",
-                "de": "Lexia Buch"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
             },
             {
               "name": "hasEdition",
@@ -2127,6 +2075,58 @@
               },
               "gui_element": "Date",
               "cardinality": "0-1"
+            },
+            {
+              "name": "isWrittenBy",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:person",
+              "labels": {
+                "en": "is written by",
+                "de": "wurde geschrieben von"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "performedBy",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:company",
+              "labels": {
+                "en": "performed by",
+                "de": "gespielt von"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "performedIn",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:venue",
+              "labels": {
+                "en": "performed in",
+                "de": "gespielt in"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "isLexiaBook",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:lexia",
+              "labels": {
+                "en": "lexia book",
+                "de": "Lexia Buch"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
             }
           ]
         },
@@ -2284,6 +2284,32 @@
               "cardinality": "0-1"
             },
             {
+              "name": "hasInternalComment",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Internal comment",
+                "de": "Interner Kommentar"
+              },
+              "gui_element": "Textarea",
+              "cardinality": "0-1"
+            },
+            {
+              "name": "hasPublicComment",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Public comment",
+                "de": "Öffentlicher Kommentar"
+              },
+              "gui_element": "Textarea",
+              "cardinality": "0-1"
+            },
+            {
               "name": "occursIn",
               "super": [
                 "hasLinkTo"
@@ -2334,32 +2360,6 @@
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
-            },
-            {
-              "name": "hasInternalComment",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Internal comment",
-                "de": "Interner Kommentar"
-              },
-              "gui_element": "Textarea",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasPublicComment",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Public comment",
-                "de": "Öffentlicher Kommentar"
-              },
-              "gui_element": "Textarea",
-              "cardinality": "0-1"
             }
           ]
         },
@@ -2490,19 +2490,6 @@
               "cardinality": "1"
             },
             {
-              "name": "isLexiaCompany",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:lexia",
-              "labels": {
-                "en": "Lexia company",
-                "de": "Lexia Theatergruppe"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
               "name": "hasMember",
               "super": [
                 "hasLinkTo"
@@ -2511,6 +2498,19 @@
               "labels": {
                 "en": "Member",
                 "de": "Mitglieder"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "isLexiaCompany",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:lexia",
+              "labels": {
+                "en": "Lexia company",
+                "de": "Lexia Theatergruppe"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
