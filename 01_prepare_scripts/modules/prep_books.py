@@ -82,6 +82,10 @@ def prepare():
                     if only_a and only_d:
                         dates_a_d = re.search("(_A((\d{2})-(\d{2})|(\d{2})))(_D((\d{2})-(\d{2})|(\d{2}))) (.*)", books.group(2))
 
+                        if not dates_a_d:
+                            print("Fail - prep_books.py: Wrong pattern (1) in book title")
+                            raise SystemExit(0)
+
                         book = add_performance_dates(dates_a_d.group(3), dates_a_d.group(4), dates_a_d.group(5), book)
                         book = add_publish_dates(dates_a_d.group(8), dates_a_d.group(9), dates_a_d.group(10), book)
                         book["hasBookTitle"] = dates_a_d.group(11)
@@ -89,11 +93,19 @@ def prepare():
                     elif only_a and not only_d:
                         dates_a = re.search("(_A((\d{2})-(\d{2})|(\d{2})))(.*)", books.group(2))
 
+                        if not dates_a:
+                            print("Fail - prep_books.py: Wrong pattern (2) in book title")
+                            raise SystemExit(0)
+
                         book = add_performance_dates(dates_a.group(3), dates_a.group(4), dates_a.group(5), book)
                         book["hasBookTitle"] = dates_a.group(6).strip()
 
                     elif only_d and not only_a:
                         dates_d = re.search("(_D((\d{2})-(\d{2})|(\d{2})))(.*)", books.group(2))
+
+                        if not dates_d:
+                            print("Fail - prep_books.py: Wrong pattern (3) in book title")
+                            raise SystemExit(0)
 
                         book = add_publish_dates(dates_d.group(3), dates_d.group(4), dates_d.group(5), book)
                         book["hasBookTitle"] = dates_d.group(6).strip()

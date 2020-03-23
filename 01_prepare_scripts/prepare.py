@@ -50,7 +50,7 @@ csv_files = [
     "01_prepare_scripts/csv/export_5.csv",
     "01_prepare_scripts/csv/export_6.csv",
     "01_prepare_scripts/csv/export_7.csv",
-    # "01_prepare_scripts/csv/export_8.csv"
+    "01_prepare_scripts/csv/export_8.csv"
 ]
 
 # Every object contains all the resources of the same type which occurs in HyperHamlet.
@@ -351,9 +351,11 @@ def create_sec_passage(sec_pa_id, pag):
     passage = {
         "hasText": "-",
         "hasPage": pag,
-        "occursIn": [],
         "hasStatus": "weak",
+        "hasResearchField": ["Reading"],
+        "hasFunctionVoice": ["Not defined"],
         "hasMarking": ["Unmarked"],
+        "occursIn": []
     }
 
     passages[sec_pa_id] = passage
@@ -410,6 +412,194 @@ def create_venue(ven_id, ven):
 
 def update_venue(ven_id, lex_id):
     venues[ven_id]["isLexiaVenue"] = lex_id
+
+
+def check_persons():
+    # Checks if there are authors without internal id or last name
+    for p in authors:
+        if not "hasPersonInternalId" in authors[p]:
+            print("Fail - Author without person internal ID: ", p, authors[p])
+            raise SystemExit(0)
+
+        if not "hasLastName" in authors[p]:
+            print("Fail - Author without last name: ", p, authors[p])
+            raise SystemExit(0)
+
+    # Checks if there are contributors without internal id or last name
+    for p in contributors:
+        if not "hasPersonInternalId" in contributors[p]:
+            print("Fail - Contributor without person internal ID: ", p, contributors[p])
+            raise SystemExit(0)
+
+        if not "hasLastName" in contributors[p]:
+            print("Fail - Contributor without last name: ", p, contributors[p])
+            raise SystemExit(0)
+
+
+def check_books():
+    book_check_successful = True
+    for b in books:
+
+        # Checks if there are books without internal id
+        if not "hasBookInternalId" in books[b]:
+            print("Fail - Book without book internal ID: ", b, books[b])
+            raise SystemExit(0)
+
+        # Checks if there are books without title
+        if not "hasBookTitle" in books[b]:
+            print("Fail - Book without book title: ", b, books[b])
+            raise SystemExit(0)
+
+        # Checks if there are books without edition
+        if not "hasEdition" in books[b]:
+            print("Fail - Book without edition: ", b, books[b])
+            raise SystemExit(0)
+
+        # Checks if there are books without language
+        if not "hasLanguage" in books[b]:
+            print("Fail - Book without language: ", b, books[b])
+            raise SystemExit(0)
+
+        # Checks if there are books without genre
+        if not "hasGenre" in books[b]:
+            print("Fail - Book without genre: ", b, books[b])
+            raise SystemExit(0)
+        elif len(books[b]["hasGenre"]) == 0:
+            print("Fail - Book with empty Array hasGenre", b, books[b])
+            book_check_successful = False
+
+        # Checks if there are books without creation date
+        if not "hasCreationDate" in books[b]:
+            print("Fail - Book without creation date: ", b, books[b])
+            raise SystemExit(0)
+
+        # Checks if there are books without authors
+        if not "isWrittenBy" in books[b]:
+            print("Fail - Book without authors: ", b, books[b])
+            raise SystemExit(0)
+        elif len(books[b]["isWrittenBy"]) == 0:
+            print("Fail - Book with empty Array isWrittenBy", b, books[b])
+            book_check_successful = False
+
+    if not book_check_successful:
+        raise SystemExit(0)
+
+
+def check_passages():
+    passage_check_successful = True
+    for p in passages:
+
+        # Checks if there are passages without text
+        if not "hasText" in passages[p]:
+            print("Fail - Passage without edition: ", p, passages[p])
+            raise SystemExit(0)
+
+        # Checks if there are passages without displayed title
+        if not "hasDisplayedTitle" in passages[p]:
+            print("Fail - Passage without displayed title: ", p, passages[p])
+            raise SystemExit(0)
+
+        # Checks if there are passages without research field
+        if not "hasResearchField" in passages[p]:
+            print("Fail - Passage without research field: ", p, passages[p])
+            raise SystemExit(0)
+
+        # Checks if there are passages without function voice
+        if not "hasFunctionVoice" in passages[p]:
+            print("Fail - Passage without function voice: ", p, passages[p])
+            raise SystemExit(0)
+        elif len(passages[p]["hasFunctionVoice"]) == 0:
+            print("Fail - Passage with empty Array hasFunctionVoice", p, passages[p])
+            passage_check_successful = False
+
+        # Checks if there are passages without markings
+        if not "hasMarking" in passages[p]:
+            print("Fail - Passage without marking: ", p, passages[p])
+            raise SystemExit(0)
+        elif len(passages[p]["hasMarking"]) == 0:
+            print("Fail - Passage with empty Array hasMarking", p, passages[p])
+            passage_check_successful = False
+
+        # Checks if there are passages without status
+        if not "hasStatus" in passages[p]:
+            print("Fail - Passage without status: ", p, passages[p])
+            raise SystemExit(0)
+        elif len(passages[p]["hasStatus"]) == 0:
+            print("Fail - Passage with empty Array hasStatus", p, passages[p])
+            passage_check_successful = False
+
+        # Checks if there are passages not occurring in a book
+        if not "occursIn" in passages[p]:
+            print("Fail - Passage not occurring in a book: ", p, passages[p])
+            raise SystemExit(0)
+        elif len(passages[p]["occursIn"]) == 0:
+            print("Fail - Passage with empty Array occursIn", p, passages[p])
+            passage_check_successful = False
+
+        # Checks if there are passages without contributor
+        if not "wasContributedBy" in passages[p]:
+            print("Fail - Passage without contributor: ", p, passages[p])
+            raise SystemExit(0)
+        elif len(passages[p]["wasContributedBy"]) == 0:
+            print("Fail - Passage with empty Array wasContributedBy", p, passages[p])
+            passage_check_successful = False
+
+    if not passage_check_successful:
+        raise SystemExit(0)
+
+
+def check_lexias():
+    lexia_check_successful = True
+    for l in lexias:
+
+        # Checks if there are lexias without internal id
+        if not "hasLexiaInternalId" in lexias[l]:
+            print("Fail - Lexia without lexia internal ID: ", l, lexias[l])
+            raise SystemExit(0)
+
+        # Checks if there are lexias without title
+        if not "hasLexiaTitle" in books[b]:
+            print("Fail - Lexia without lexia title: ", l, lexias[l])
+            raise SystemExit(0)
+
+        # Checks if there are lexias without formal classes
+        if not "hasFormalClass" in passages[p]:
+            print("Fail - Lexia without formal class: ", l, lexias[l])
+            raise SystemExit(0)
+        elif len(passages[p]["hasFormalClass"]) == 0:
+            print("Fail - Lexia with empty Array hasFormalClass", l, lexias[l])
+            lexia_check_successful = False
+
+    if not lexia_check_successful:
+        raise SystemExit(0)
+
+
+def check_companies():
+    for c in companies:
+
+        # Checks if there are company without internal id
+        if not "hasCompanyInternalId" in companies[c]:
+            print("Fail - Company without company internal ID: ", c, companies[c])
+            raise SystemExit(0)
+
+        # Checks if there are company without title
+        if not "hasCompanyTitle" in companies[c]:
+            print("Fail - Company without company title: ", c, companies[c])
+            raise SystemExit(0)
+
+
+def check_venues():
+    for v in venues:
+
+        # Checks if there are venue without internal id
+        if not "hasVenueInternalId" in venues[v]:
+            print("Fail - Venue without venue internal ID: ", v, venues[v])
+            raise SystemExit(0)
+
+        # Checks if there are venue without place venue
+        if not "hasPlaceVenue" in venues[c]:
+            print("Fail - Venue without place venue: ",  v, venues[v])
+            raise SystemExit(0)
 
 
 def start():
@@ -591,12 +781,10 @@ def start():
                             # Updates the authors reference
                             update_sec_book(sec_book_id, s_book["authors"])
 
-                            if sec_book["page"] == "no page":
-                                unique_key = random.randint(100000, 999999)
-                            else:
-                                unique_key = "{} {}".format(sec_book["id"], sec_book["page"])
-
+                            # Creates sec passage id with random generator
+                            unique_key = random.randint(100000, 999999)
                             sec_passage_id = id.generate(str(unique_key))
+
                             create_sec_passage(sec_passage_id, sec_book["page"])
                             update_sec_passage(sec_passage_id, sec_book_id)
                             update_passage(passage_id, None, None, sec_passage_id, None, None, None, None, None)
@@ -830,92 +1018,6 @@ def start():
 
 
     # ------------------------------------------
-    # Checks if there are books with no genre
-    no_genre_counter = 0
-    no_genre_books = []
-
-    for b in books:
-        if not "hasGenre" in books[b]:
-            no_genre_counter += 1
-            no_genre_books.append(books[b])
-
-    if no_genre_counter > 0:
-        for b in no_genre_books:
-            print("Fail - Book with no genre: ", b)
-        raise SystemExit(0)
-
-
-    # ------------------------------------------
-    # Prints all the books with more than one genre
-    # for b in books:
-    #     if (len(books[b]["hasGenre"])) > 1:
-    #         print(books[b]["hasGenre"], books[b]["hasBookTitle"])
-
-    # Prints all the found genres
-    # allGenres = []
-    #
-    # for g in books:
-    #     temp = set(allGenres)
-    #     for b in books[g]["hasGenre"]:
-    #         temp.add(b)
-    #     allGenres = list(temp)
-
-
-    # ------------------------------------------
-    # Prints all the passages with more than one research fields
-    # for p in passages:
-    #     if "hasResearchFields" in passages[p] and len(passages[p]["hasResearchField"]) > 1:
-    #         print("Fail - Passage has more than one research field", passages[p])
-    #         raise SystemExit(0)
-
-
-    # ------------------------------------------
-    # Checks if there are passages with no marking
-    no_marking_counter = 0
-    no_marking_pas = []
-
-    for p in passages:
-        if not "hasMarking" in passages[p]:
-            no_marking_counter += 1
-            no_marking_pas.append(passages[p])
-
-    if no_marking_counter > 0:
-        for p in no_marking_pas:
-            print("Fail - Passage with no marking", p["hasText"])
-        raise SystemExit(0)
-
-    # ------------------------------------------
-    # Checks if there are passages with no status
-    no_status_counter = 0
-    no_status_pas = []
-
-    for p in passages:
-        if not "hasStatus" in passages[p]:
-            no_status_counter += 1
-            no_status_pas.append(passages[p])
-
-    if no_status_counter > 0:
-        for p in no_status_pas:
-            print("Fail - Passage with no status", p["hasText"])
-        raise SystemExit(0)
-
-    # ------------------------------------------
-    # Checks if there are passages with no text
-    no_text_counter = 0
-    no_text_pas = []
-
-    for p in passages:
-        if not "hasText" in passages[p]:
-            no_text_counter += 1
-            no_text_pas.append(passages[p])
-
-    if no_text_counter > 0:
-        for p in no_text_pas:
-            print("Fail - Passage with no text - Book ID: ", p["occursIn"])
-        raise SystemExit(0)
-
-
-
     # Saves the objects which occurs in the csv files in to json files
     json.save(json_files[0], authors)
     json.save(json_files[1], books)
@@ -924,3 +1026,11 @@ def start():
     json.save(json_files[4], lexias)
     json.save(json_files[5], companies)
     json.save(json_files[6], venues)
+
+    # Checks all the cardinality
+    check_persons()
+    check_books()
+    check_passages()
+    check_lexias()
+    check_companies()
+    check_venues()

@@ -1761,7 +1761,7 @@
                 "size=24",
                 "maxlength=64"
               ],
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasFirstName",
@@ -1797,7 +1797,7 @@
                 "size=24",
                 "maxlength=64"
               ],
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasDescription",
@@ -1944,7 +1944,7 @@
                 "size=24",
                 "maxlength=64"
               ],
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasBookTitle",
@@ -1955,6 +1955,23 @@
               "labels": {
                 "en": "Book title",
                 "de": "Buchtitel"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
+            },
+            {
+              "name": "hasBookDescription",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Book description",
+                "de": "Buchbeschreibung"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
@@ -2233,7 +2250,7 @@
               "gui_attributes": [
                 "hlist=researchField"
               ],
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasFunctionVoice",
@@ -2249,7 +2266,7 @@
               "gui_attributes": [
                 "hlist=functionVoice"
               ],
-              "cardinality": "0-n"
+              "cardinality": "1-n"
             },
             {
               "name": "hasMarking",
@@ -2401,6 +2418,23 @@
               "labels": {
                 "en": "Lexia title",
                 "de": "Lexiatitel"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "1"
+            },
+            {
+              "name": "hasLexiaDescription",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Lexia description",
+                "de": "Lexiabeschreibung"
               },
               "gui_element": "SimpleText",
               "gui_attributes": [
