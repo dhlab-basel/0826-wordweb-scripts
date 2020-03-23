@@ -187,7 +187,7 @@ def create_book(b_id, data_row, pub_info, pub_or_info, dates):
     books[b_id] = book
 
 
-def update_book(b_id, auth_names, ven_id, comp_id, gen, sub, lex_id):
+def update_book(b_id, auth_names, pub_info, ven_id, comp_id, gen, sub, lex_id):
     if auth_names:
         # Iterates through the names per entry
         for auth_name in auth_names:
@@ -204,7 +204,9 @@ def update_book(b_id, auth_names, ven_id, comp_id, gen, sub, lex_id):
                 temp.add(auth_id)
                 books[b_id]["isWrittenBy"] = list(temp)
 
-    # set function makes sure that every key exists once
+    if pub_info and "pubInfo" in pub_info and not "hasEdition" in books[b_id]:
+            books[b_id]["hasEdition"] = pub_info["pubInfo"]
+
     if ven_id:
         if "performedIn" not in books[b_id]:
             books[b_id]["performedIn"] = []
@@ -661,7 +663,7 @@ def start():
                             create_book(book_id, row, publication, publication_original, allBooks[book_id])
 
                         # Updates the author references and genre
-                        update_book(book_id, names, None, None, row[18], None, None)
+                        update_book(book_id, names, publication, None, None, row[18], None, None)
 
                         # ------------- PASSAGE - Part I
                         # generates passage id
@@ -678,7 +680,7 @@ def start():
                         subjects = row[19].split(" / ")
 
                         for subject in subjects:
-                            update_book(book_id, None, None, None, None, subject, None)
+                            update_book(book_id, None, None, None, None, None, subject, None)
 
                         # Updating status for a passage
                         if row[1] == "ok":
@@ -822,7 +824,7 @@ def start():
                             isLexiaBookVenue = id.generate(key)
 
                             if isLexiaBookVenue in books:
-                                update_book(isLexiaBookVenue, None, None, None, None, None, lexia_id)
+                                update_book(isLexiaBookVenue, None, None, None, None, None, None, lexia_id)
 
                             if isLexiaBookVenue in venues:
                                 update_venue(isLexiaBookVenue, lexia_id)
@@ -847,7 +849,7 @@ def start():
                                         create_venue(venue_id, comp_ven_data)
 
                                     # Updates the venue reference
-                                    update_book(book_id, None, venue_id, None, None, None, None)
+                                    update_book(book_id, None, None, venue_id, None, None, None, None)
 
                                 elif type is "company":
                                     company_id = id.generate(comp_ven_data["hasCompanyInternalId"])
@@ -859,7 +861,7 @@ def start():
                                         create_company(company_id, comp_ven_data)
 
                                     # Updates the company reference
-                                    update_book(book_id, None, None, company_id, None, None, None)
+                                    update_book(book_id, None, None, None, company_id, None, None, None)
 
                                 else:
                                     print("FAIL Venue or Company", type, line, csv_file)
