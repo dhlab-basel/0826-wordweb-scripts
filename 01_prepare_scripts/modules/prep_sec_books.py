@@ -78,16 +78,16 @@ def prepare_csv():
                 # Skip first row with column title
                 if line is not 0:
                     sec_book = {}
-                    # print(row[13], row[2])
+
                     sec_books = re.search("(@\d{6})\sSEC\s\-\s(.*)", row[13])
                     if sec_books:
                         sec_book["hasBookInternalId"] = sec_books.group(1)
                         sec_book["hasBookTitle"] = sec_books.group(2)
+                        sec_book["hasDisplayedTitle"] = row[3]
+                        sec_book["hasLanguage"] = row[9]
 
                         s = ed.info(row[4])
-
                         sec_book["pubInfo"] = s["pubInfo"]
-                        sec_book["hasLanguage"] = row[9]
 
                         if row[5] and row[6]:
                             sec_book["hasCreationDate"] = "GREGORIAN:{}:{}".format(row[5], row[6])

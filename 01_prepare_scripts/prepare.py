@@ -349,14 +349,15 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, sta
         passages[pa_id]["hasMarking"] = list(temp)
 
 
-def create_sec_passage(sec_pa_id, pag):
+def create_sec_passage(sec_pa_id, pag, dis_tit):
     passage = {
         "hasText": "-",
+        "hasDisplayedTitle": dis_tit,
         "hasPage": pag,
-        "hasStatus": "weak",
         "hasResearchField": ["Reading"],
         "hasFunctionVoice": ["Not defined"],
         "hasMarking": ["Unmarked"],
+        "hasStatus": "weak",
         "occursIn": []
     }
 
@@ -787,7 +788,7 @@ def start():
                             unique_key = random.randint(100000, 999999)
                             sec_passage_id = id.generate(str(unique_key))
 
-                            create_sec_passage(sec_passage_id, sec_book["page"])
+                            create_sec_passage(sec_passage_id, sec_book["page"], s_book["hasDisplayedTitle"])
                             update_sec_passage(sec_passage_id, sec_book_id)
                             update_passage(passage_id, None, None, sec_passage_id, None, None, None, None, None)
 
