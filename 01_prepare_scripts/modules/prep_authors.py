@@ -128,8 +128,8 @@ def prepare():
 
                 # checks if there are only whitespaces or empty strings (excluding year numbers)
                 if description.strip():
-                    # add description to author after it has trimmed the string
-                    author["hasDescription"] = description.rstrip()
+                    # add description to author after it has trimmed the string and removed the '*' (for gender)
+                    author["hasDescription"] = description.rstrip().replace('*','')
                     # add sex of author
                     if female:
                         author["hasGender"] = "female"
