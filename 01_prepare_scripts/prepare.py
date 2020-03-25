@@ -361,6 +361,11 @@ def create_sec_passage(sec_pa_id, pag, dis_tit):
         "occursIn": []
     }
 
+    # Set Regula Hohl as default contributor
+    id_rh = id.generate("Hohl Regula")
+    if id_rh in allContributors:
+        passage["wasContributedBy"] = id_rh
+
     passages[sec_pa_id] = passage
 
 
@@ -378,11 +383,12 @@ def create_contributor(co_id):
     contributor = {
         "hasFirstName": allContributors[co_id]["hasFirstName"],
         "hasLastName": allContributors[co_id]["hasLastName"],
-        "hasPersonInternalId":  "#00" + str(person_id_start)
+        "hasPersonInternalId":  "#00" + str(person_id_start),
+        "hasGender": allContributors[co_id]["hasGender"]
     }
 
-    if "hasEmail" in allContributors[co_id]:
-        contributor["hasEmail"] = allContributors[co_id]["hasEmail"]
+    if "hasDescription" in allContributors[co_id]:
+        contributor["hasDescription"] = allContributors[co_id]["hasDescription"]
 
     contributors[co_id] = contributor
 
@@ -561,15 +567,15 @@ def check_lexias():
             raise SystemExit(0)
 
         # Checks if there are lexias without title
-        if not "hasLexiaTitle" in books[b]:
+        if not "hasLexiaTitle" in lexias[l]:
             print("Fail - Lexia without lexia title: ", l, lexias[l])
             raise SystemExit(0)
 
         # Checks if there are lexias without formal classes
-        if not "hasFormalClass" in passages[p]:
+        if not "hasFormalClass" in lexias[l]:
             print("Fail - Lexia without formal class: ", l, lexias[l])
             raise SystemExit(0)
-        elif len(passages[p]["hasFormalClass"]) == 0:
+        elif len(lexias[l]["hasFormalClass"]) == 0:
             print("Fail - Lexia with empty Array hasFormalClass", l, lexias[l])
             lexia_check_successful = False
 
@@ -600,7 +606,7 @@ def check_venues():
             raise SystemExit(0)
 
         # Checks if there are venue without place venue
-        if not "hasPlaceVenue" in venues[c]:
+        if not "hasPlaceVenue" in venues[v]:
             print("Fail - Venue without place venue: ",  v, venues[v])
             raise SystemExit(0)
 

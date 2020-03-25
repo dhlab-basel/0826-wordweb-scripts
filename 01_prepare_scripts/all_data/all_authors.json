@@ -1,46 +1,4 @@
 {
-  "ww_bc5416a73ab4f15d": {
-    "hasFirstName": "_",
-    "hasLastName": "0_",
-    "hasDescription": "_",
-    "hasGender": "male",
-    "sql": 3827
-  },
-  "ww_212c78497ddc32c5": {
-    "hasFirstName": "_",
-    "hasLastName": "0_Anon",
-    "hasDescription": "_",
-    "hasGender": "male",
-    "sql": 86
-  },
-  "ww_0989e07eda6de68c": {
-    "hasFirstName": "(female)",
-    "hasLastName": "0_Anon",
-    "hasDescription": "*",
-    "hasGender": "female",
-    "sql": 4056
-  },
-  "ww_d9a0f38107e50298": {
-    "hasFirstName": "(nickname or initials)",
-    "hasLastName": "0_Anon",
-    "hasDescription": "_",
-    "hasGender": "male",
-    "sql": 2797
-  },
-  "ww_3cc4a40573cfe358": {
-    "hasFirstName": "tbe (male)",
-    "hasLastName": "0_Author",
-    "hasDescription": "_",
-    "hasGender": "male",
-    "sql": 2668
-  },
-  "ww_aced097ce058e38c": {
-    "hasFirstName": "tbe (female)",
-    "hasLastName": "0_Author",
-    "hasDescription": "*",
-    "hasGender": "female",
-    "sql": 4089
-  },
   "ww_12dc8ce407b8b563": {
     "hasFirstName": "_",
     "hasLastName": "A Hawk and a Hacksaw",
@@ -430,6 +388,15 @@
     "hasGender": "male",
     "sql": 4385
   },
+  "ww_944f2b9d8513aa11": {
+    "hasFirstName": "William, 1st Earl of Stirling",
+    "hasLastName": "Alexander",
+    "birthExact": "1567",
+    "deathExact": "1640",
+    "hasDescription": "Scottish dramatist and poet",
+    "hasGender": "male",
+    "sql": 4352
+  },
   "ww_c256f1d8a3ee9411": {
     "hasFirstName": "Mrs.",
     "hasLastName": "Alexander",
@@ -463,14 +430,12 @@
     "hasGender": "male",
     "sql": 3719
   },
-  "ww_8cda19585857a98c": {
-    "hasFirstName": "William",
-    "hasLastName": "Alexander, 1st Earl of Stirling",
-    "birthExact": "1567",
-    "deathExact": "1640",
-    "hasDescription": "Scottish dramatist and poet",
+  "ww_4e925c6ea240b596": {
+    "hasFirstName": "_",
+    "hasLastName": "Alexander the Great",
+    "hasDescription": "Macedonian king 356 BC-323 BC, full title Alexander III of Macedon",
     "hasGender": "male",
-    "sql": 4352
+    "sql": 4556
   },
   "ww_d9746d0b0a658c05": {
     "hasFirstName": "William",
@@ -736,12 +701,26 @@
     "hasGender": "male",
     "sql": 2585
   },
-  "ww_04208bd21234e59b": {
-    "hasFirstName": "translator",
-    "hasLastName": "Anon.",
-    "hasDescription": "(?)",
+  "ww_2cf1666885d87ec4": {
+    "hasFirstName": "_",
+    "hasLastName": "Anon",
+    "hasDescription": "_",
     "hasGender": "male",
-    "sql": 1802
+    "sql": 86
+  },
+  "ww_ce8e8543e3bfa583": {
+    "hasFirstName": "(female)",
+    "hasLastName": "Anon",
+    "hasDescription": "_",
+    "hasGender": "female",
+    "sql": 4056
+  },
+  "ww_a6704903bec3d62d": {
+    "hasFirstName": "(nickname or initials)",
+    "hasLastName": "Anon",
+    "hasDescription": "_",
+    "hasGender": "male",
+    "sql": 2797
   },
   "ww_8afc9e707af39840": {
     "hasFirstName": "Heinrich Johann Immanuel ",
@@ -835,6 +814,7 @@
     "hasFirstName": "Jakob",
     "hasLastName": "Arjouni",
     "birthExact": "1964",
+    "deathExact": "2013",
     "hasDescription": "German novelist and crime writer",
     "hasGender": "male",
     "sql": 789
@@ -1220,6 +1200,20 @@
     "hasGender": "male",
     "sql": 1761
   },
+  "ww_06db2578f30a8aee": {
+    "hasFirstName": "tbe (male)",
+    "hasLastName": "Author",
+    "hasDescription": "_",
+    "hasGender": "male",
+    "sql": 2668
+  },
+  "ww_58d800f39577b7b4": {
+    "hasFirstName": "tbe (female)",
+    "hasLastName": "Author",
+    "hasDescription": "_",
+    "hasGender": "female",
+    "sql": 4089
+  },
   "ww_67f20d572fe6793c": {
     "hasFirstName": "Emilie",
     "hasLastName": "Autumn",
@@ -1512,9 +1506,9 @@
     "hasGender": "male",
     "sql": 3942
   },
-  "ww_644ac603c0d32355": {
+  "ww_a721d169203fbcb9": {
     "hasFirstName": "Anna Laetitita",
-    "hasLastName": "Barbauld ",
+    "hasLastName": "Barbauld",
     "birthExact": "1743",
     "deathExact": "1825",
     "hasDescription": "English poet, critic and essayist",
@@ -2053,6 +2047,15 @@
     "hasGender": "male",
     "sql": 3592
   },
+  "ww_5cd005af5468bfdc": {
+    "hasFirstName": "Thomas",
+    "hasLastName": "Becon",
+    "birthExact": "1511",
+    "deathExact": "1567",
+    "hasDescription": "English cleric and reformer",
+    "hasGender": "male",
+    "sql": 4548
+  },
   "ww_e5515a0cc5731cc3": {
     "hasFirstName": "Thomas",
     "hasLastName": "Beddoes",
@@ -2102,6 +2105,15 @@
     "hasGender": "male",
     "sql": 2500
   },
+  "ww_d57002bb2284405d": {
+    "hasFirstName": "Christopher",
+    "hasLastName": "Beeston",
+    "birthExact": "1579",
+    "deathExact": "1638",
+    "hasDescription": "English actor",
+    "hasGender": "male",
+    "sql": 4546
+  },
   "ww_63bbc3810797159b": {
     "hasFirstName": "Harold",
     "hasLastName": "Begbie",
@@ -2116,7 +2128,7 @@
     "hasLastName": "Behn",
     "birthExact": "1640",
     "deathExact": "1689",
-    "hasDescription": "*English dramatist and novelist",
+    "hasDescription": "English dramatist and novelist",
     "hasGender": "female",
     "sql": 216
   },
@@ -2227,7 +2239,7 @@
   "ww_06d91df69419f649": {
     "hasFirstName": "Margaret",
     "hasLastName": "Bellasys",
-    "hasDescription": "*English (?) commonplace book keeper",
+    "hasDescription": "English (?) commonplace book keeper",
     "hasGender": "female",
     "sql": 4338
   },
@@ -2265,6 +2277,14 @@
     "hasGender": "male",
     "sql": 1542
   },
+  "ww_463b20e6963d2636": {
+    "hasFirstName": "Robert",
+    "hasLastName": "Benfield",
+    "deathExact": "1649",
+    "hasDescription": "English actor",
+    "hasGender": "male",
+    "sql": 4566
+  },
   "ww_ab4b1df5db29e6ba": {
     "hasFirstName": "John Wilson",
     "hasLastName": "Bengough",
@@ -2296,7 +2316,7 @@
     "hasLastName": "Bennett",
     "birthExact": "1900",
     "deathExact": "1976",
-    "hasDescription": "*U.S. scholar",
+    "hasDescription": "U.S. scholar",
     "hasGender": "female",
     "sql": 4229
   },
@@ -2603,6 +2623,15 @@
     "hasGender": "male",
     "sql": 854
   },
+  "ww_05335cc173ae4fc9": {
+    "hasFirstName": "Thomas",
+    "hasLastName": "Betterton",
+    "birthExact": "1635",
+    "deathExact": "1710",
+    "hasDescription": "English actor and dramatist",
+    "hasGender": "male",
+    "sql": 4564
+  },
   "ww_99ef0d012540e3a3": {
     "hasFirstName": "Jean",
     "hasLastName": "Betts",
@@ -2628,8 +2657,8 @@
     "hasGender": "male",
     "sql": 3308
   },
-  "ww_01215347c14e0351": {
-    "hasFirstName": "David Martin",
+  "ww_e31526b71399652f": {
+    "hasFirstName": "David",
     "hasLastName": "Bevington",
     "birthExact": "1931",
     "deathExact": "2019",
@@ -3765,17 +3794,9 @@
     "hasLastName": "Brinkley",
     "activeStart": "1928",
     "activeEnd": "1932",
-    "hasDescription": "*U.S. scholar",
+    "hasDescription": "U.S. scholar",
     "hasGender": "female",
     "sql": 4219
-  },
-  "ww_fd0b3545953a41f0": {
-    "hasFirstName": "John",
-    "hasLastName": "Brinsley the Elder",
-    "activeExact": "1581",
-    "hasDescription": "English schoolmaster \u20131624",
-    "hasGender": "male",
-    "sql": 4292
   },
   "ww_0570b0d92c4bcff5": {
     "hasFirstName": "Margaret Sutton ",
@@ -4705,6 +4726,13 @@
     "hasGender": "male",
     "sql": 2245
   },
+  "ww_8c7910f3d7e53686": {
+    "hasFirstName": "Martin",
+    "hasLastName": "Butler",
+    "hasDescription": "English academic",
+    "hasGender": "male",
+    "sql": 4549
+  },
   "ww_68f57de5f858d7db": {
     "hasFirstName": "Mary Martha",
     "hasLastName": "Butt",
@@ -5414,7 +5442,7 @@
     "hasLastName": "Cary",
     "birthExact": "1585",
     "deathExact": "1639",
-    "hasDescription": "*English poet, dramatist and translator",
+    "hasDescription": "English poet, dramatist and translator",
     "hasGender": "female",
     "sql": 4115
   },
@@ -5751,7 +5779,7 @@
     "hasFirstName": "Linda M.",
     "hasLastName": "Charnes",
     "activeExact": "1997",
-    "hasDescription": "*U.S. (?) scholar",
+    "hasDescription": "U.S. (?) scholar",
     "hasGender": "female",
     "sql": 4190
   },
@@ -6663,7 +6691,7 @@
     "hasLastName": "Cook",
     "activeStart": "1997",
     "activeEnd": "2003",
-    "hasDescription": "*English (?) scholar",
+    "hasDescription": "English (?) scholar",
     "hasGender": "female",
     "sql": 4272
   },
@@ -6772,7 +6800,7 @@
   "ww_3bba108f51aa8607": {
     "hasFirstName": "Anthony",
     "hasLastName": "Copley",
-    "hasDescription": "(?)",
+    "hasDescription": "English Catholic poet 1567\u20131609",
     "hasGender": "male",
     "sql": 2987
   },
@@ -7233,13 +7261,6 @@
     "hasGender": "male",
     "sql": 564
   },
-  "ww_d87ad578d9ab76ef": {
-    "hasFirstName": "Isaac",
-    "hasLastName": "Cruikshank",
-    "hasDescription": "Englis caricaturist and illustrator",
-    "hasGender": "male",
-    "sql": 3565
-  },
   "ww_026682a9e8153dd8": {
     "hasFirstName": "Fred",
     "hasLastName": "Crutchfield",
@@ -7256,12 +7277,12 @@
     "hasGender": "male",
     "sql": 470
   },
-  "ww_7c995c49e596abfc": {
-    "hasFirstName": "Annie Hall, n\u00e9e Thomas ",
+  "ww_92f71b7ef7f8a8d8": {
+    "hasFirstName": "Annie Hall",
     "hasLastName": "Cudlip ",
     "birthExact": "1838",
     "deathExact": "1918",
-    "hasDescription": "English novelist",
+    "hasDescription": "English novelist , n\u00e9e Thomas",
     "hasGender": "male",
     "sql": 3986
   },
@@ -7872,7 +7893,7 @@
     "hasFirstName": "Margreta",
     "hasLastName": "de Grazia",
     "activeExact": "1991",
-    "hasDescription": "*U.S. scholar",
+    "hasDescription": "U.S. scholar",
     "hasGender": "female",
     "sql": 4132
   },
@@ -8247,7 +8268,7 @@
   "ww_3783943aa69e8337": {
     "hasFirstName": "Bruce",
     "hasLastName": "Dessau",
-    "hasDescription": "(?)",
+    "hasDescription": "British journalist and biographer",
     "hasGender": "male",
     "sql": 1557
   },
@@ -8564,6 +8585,13 @@
     "hasDescription": "English (?) writer",
     "hasGender": "male",
     "sql": 2600
+  },
+  "ww_1dc363175af9132f": {
+    "hasFirstName": "Ian",
+    "hasLastName": "Donaldson",
+    "hasDescription": "Scottish (?) academic",
+    "hasGender": "male",
+    "sql": 4550
   },
   "ww_16c1195bda020eff": {
     "hasFirstName": "John",
@@ -8910,7 +8938,7 @@
     "hasFirstName": "Katherine Dorothea",
     "hasLastName": "Duncan-Jones",
     "birthExact": "1941",
-    "hasDescription": "*English scholar",
+    "hasDescription": "English scholar",
     "hasGender": "female",
     "sql": 4209
   },
@@ -9473,7 +9501,7 @@
   "ww_0dcc7c7b0e0a7ba2": {
     "hasFirstName": "Laura",
     "hasLastName": "Estill",
-    "hasDescription": "*Canadian (?) scholar",
+    "hasDescription": "Canadian (?) scholar",
     "hasGender": "female",
     "sql": 4332
   },
@@ -10685,7 +10713,7 @@
     "hasFirstName": "Kate G.",
     "hasLastName": "Frost",
     "activeExact": "1984",
-    "hasDescription": "*U.S. (?) scholar",
+    "hasDescription": "U.S. (?) scholar",
     "hasGender": "female",
     "sql": 4262
   },
@@ -10814,7 +10842,8 @@
   "ww_dc6a67904323ea54": {
     "hasFirstName": "Jostein",
     "hasLastName": "Gaarder",
-    "hasDescription": "(?)",
+    "birthExact": "1852",
+    "hasDescription": "Norwegian novelist",
     "hasGender": "male",
     "sql": 3048
   },
@@ -10845,7 +10874,8 @@
   "ww_a033818e7df3ae56": {
     "hasFirstName": "Neil",
     "hasLastName": "Gaiman",
-    "hasDescription": "(?)",
+    "birthExact": "1960",
+    "hasDescription": "English novelist",
     "hasGender": "male",
     "sql": 2938
   },
@@ -10914,7 +10944,7 @@
     "hasFirstName": "Marjorie",
     "hasLastName": "Garber",
     "birthExact": "1944",
-    "hasDescription": "*U.S. academic",
+    "hasDescription": "U.S. academic",
     "hasGender": "female",
     "sql": 4123
   },
@@ -10978,6 +11008,15 @@
     "hasGender": "male",
     "sql": 2924
   },
+  "ww_8931b691edb3063e": {
+    "hasFirstName": "Robert",
+    "hasLastName": "Garnier",
+    "birthExact": "1544",
+    "deathExact": "1590",
+    "hasDescription": "French dramatist",
+    "hasGender": "male",
+    "sql": 4553
+  },
   "ww_7741621d41b6727f": {
     "hasFirstName": "David",
     "hasLastName": "Garrick",
@@ -11034,7 +11073,7 @@
   "ww_be75add80bbea91e": {
     "hasFirstName": "Robert",
     "hasLastName": "Gaskins",
-    "hasDescription": "(?)",
+    "hasDescription": "U.S. computer engineer and inventor of PowerPoint",
     "hasGender": "male",
     "sql": 2718
   },
@@ -11066,7 +11105,7 @@
   "ww_28359be71257ee6e": {
     "hasFirstName": "Markus",
     "hasLastName": "Gasser",
-    "hasDescription": "(?)",
+    "hasDescription": "Swiss journalist",
     "hasGender": "male",
     "sql": 2667
   },
@@ -11141,14 +11180,6 @@
     "hasDescription": "English",
     "hasGender": "male",
     "sql": 3517
-  },
-  "ww_013109da166b50c0": {
-    "hasFirstName": "Shira",
-    "hasLastName": "Geffen",
-    "birthExact": "1971",
-    "hasDescription": "Israeli director, screenwriter and actress",
-    "hasGender": "male",
-    "sql": 1986
   },
   "ww_685301a3dd8cb5a0": {
     "hasFirstName": "G\u00e9rard",
@@ -11363,14 +11394,6 @@
     "hasDescription": "English librettist",
     "hasGender": "male",
     "sql": 1026
-  },
-  "ww_3f0cb66fe6fb7686": {
-    "hasFirstName": "Allan",
-    "hasLastName": "Gilbert",
-    "activeExact": "1953",
-    "hasDescription": "British (?) scholar",
-    "hasGender": "male",
-    "sql": 4441
   },
   "ww_8370026ebdec73ae": {
     "hasFirstName": "Anthony",
@@ -11793,6 +11816,15 @@
     "hasDescription": "Canadian entrepreneur",
     "hasGender": "male",
     "sql": 168
+  },
+  "ww_0222ba91a76da157": {
+    "hasFirstName": "Alexander",
+    "hasLastName": "Gough",
+    "activeStart": "1626",
+    "activeEnd": "1655",
+    "hasDescription": "English actor",
+    "hasGender": "male",
+    "sql": 4567
   },
   "ww_3a3e23211ea6ae85": {
     "hasFirstName": "Robert",
@@ -12291,6 +12323,13 @@
     "hasGender": "male",
     "sql": 4403
   },
+  "ww_504c9c25bd694690": {
+    "hasFirstName": "Stefano",
+    "hasLastName": "Guazzo",
+    "hasDescription": "Italian writer 1530\u20131593",
+    "hasGender": "male",
+    "sql": 4562
+  },
   "ww_8912b15ed76dcc9a": {
     "hasFirstName": "Philip",
     "hasLastName": "Guedalla",
@@ -12430,6 +12469,15 @@
     "hasDescription": "German dramatist and journalist",
     "hasGender": "male",
     "sql": 1377
+  },
+  "ww_4c116f09764d7964": {
+    "hasFirstName": "Matthew",
+    "hasLastName": "Gwinne",
+    "birthExact": "1558",
+    "deathExact": "1627",
+    "hasDescription": "English dramatist and doctor",
+    "hasGender": "male",
+    "sql": 4554
   },
   "ww_e33a96091d072bc9": {
     "hasFirstName": "R. S.",
@@ -12722,7 +12770,7 @@
     "hasFirstName": "David",
     "hasLastName": "Hammond",
     "activeExact": "1979",
-    "hasDescription": "Canadian(?) philosopher",
+    "hasDescription": "Canadian (?) philosopher",
     "hasGender": "male",
     "sql": 2699
   },
@@ -12891,7 +12939,9 @@
   "ww_45fdb82cc1c57b49": {
     "hasFirstName": "James",
     "hasLastName": "Harrington",
-    "hasDescription": "(?)",
+    "birthExact": "1611",
+    "deathExact": "1677",
+    "hasDescription": "English political theorist",
     "hasGender": "male",
     "sql": 2942
   },
@@ -13051,6 +13101,15 @@
     "hasDescription": "U.S. crime writer",
     "hasGender": "male",
     "sql": 1680
+  },
+  "ww_6fd51c222e0763c0": {
+    "hasFirstName": "Richard",
+    "hasLastName": "Harvey",
+    "birthExact": "1560",
+    "deathExact": "1630",
+    "hasDescription": "English theologian",
+    "hasGender": "male",
+    "sql": 4559
   },
   "ww_0f6263dacc0ac901": {
     "hasFirstName": "_",
@@ -13532,7 +13591,7 @@
     "hasFirstName": "Harry Joseph",
     "hasLastName": "Heltman",
     "activeExact": "1955",
-    "hasDescription": "(?)",
+    "hasDescription": "U.S. elocution coach",
     "hasGender": "male",
     "sql": 3305
   },
@@ -13619,6 +13678,15 @@
     "hasGender": "male",
     "sql": 2507
   },
+  "ww_7976ba9f6534b26b": {
+    "hasFirstName": "_",
+    "hasLastName": "Henry V",
+    "birthExact": "1386",
+    "deathExact": "1422",
+    "hasDescription": "King of England , in his youth known as Prince Hal",
+    "hasGender": "male",
+    "sql": 4561
+  },
   "ww_034451896f15ebac": {
     "hasFirstName": "Philip",
     "hasLastName": "Hensher",
@@ -13662,6 +13730,15 @@
     "hasDescription": "English traveller and historian",
     "hasGender": "male",
     "sql": 2351
+  },
+  "ww_b5b499fc10200d25": {
+    "hasFirstName": "Mary, Countess of Pembroke",
+    "hasLastName": "Herbert",
+    "birthExact": "1561",
+    "deathExact": "1621",
+    "hasDescription": "English poet, dramatist and translator",
+    "hasGender": "female",
+    "sql": 4552
   },
   "ww_93de2c5eb03aa39e": {
     "hasFirstName": "Henry William",
@@ -14181,7 +14258,7 @@
     "hasFirstName": "Regula",
     "hasLastName": "Hohl Trillini",
     "birthExact": "1964",
-    "hasDescription": "*Swiss scholar",
+    "hasDescription": "Swiss scholar",
     "hasGender": "female",
     "sql": 4464
   },
@@ -14389,6 +14466,13 @@
     "hasGender": "male",
     "sql": 1171
   },
+  "ww_129a8fe47c034804": {
+    "hasFirstName": "Charles",
+    "hasLastName": "Hoole",
+    "hasDescription": "English cleric, educationalist and translator 1610\u20131667",
+    "hasGender": "male",
+    "sql": 4555
+  },
   "ww_e718d101361b0142": {
     "hasFirstName": "Kay",
     "hasLastName": "Hooper",
@@ -14417,7 +14501,7 @@
     "hasFirstName": "Lisa",
     "hasLastName": "Hopkins",
     "activeExact": "2008",
-    "hasDescription": "*British academic",
+    "hasDescription": "British academic",
     "hasGender": "female",
     "sql": 4296
   },
@@ -14677,7 +14761,7 @@
     "hasLastName": "Huddesford",
     "birthExact": "1749",
     "deathExact": "1809",
-    "hasDescription": "(?)",
+    "hasDescription": "English poet and painter",
     "hasGender": "male",
     "sql": 3485
   },
@@ -14752,7 +14836,9 @@
   "ww_bf5b26ee40666030": {
     "hasFirstName": "John",
     "hasLastName": "Hughes",
-    "hasDescription": "(?)",
+    "birthExact": "1677",
+    "deathExact": "1720",
+    "hasDescription": "English poet",
     "hasGender": "male",
     "sql": 3274
   },
@@ -14791,8 +14877,8 @@
     "hasGender": "male",
     "sql": 638
   },
-  "ww_348ac0c59bc3996c": {
-    "hasFirstName": "David2",
+  "ww_68fb360e628a5b6e": {
+    "hasFirstName": "David",
     "hasLastName": "Hume",
     "birthExact": "1711",
     "deathExact": "1776",
@@ -14800,9 +14886,9 @@
     "hasGender": "male",
     "sql": 1327
   },
-  "ww_68fb360e628a5b6e": {
+  "ww_c029e8d37fdab621": {
     "hasFirstName": "David",
-    "hasLastName": "Hume",
+    "hasLastName": "Hume of Godscroft",
     "birthExact": "1558",
     "deathExact": "1629",
     "hasDescription": "Scottish historian and political theorist",
@@ -15202,7 +15288,7 @@
     "hasFirstName": "Anne Christine",
     "hasLastName": "Isherwood",
     "activeExact": "2014",
-    "hasDescription": "*British (?) scholar",
+    "hasDescription": "British (?) scholar",
     "hasGender": "female",
     "sql": 4322
   },
@@ -15664,7 +15750,7 @@
     "hasLastName": "Johnston",
     "birthExact": "1870",
     "deathExact": "1936",
-    "hasDescription": " U.S. novelist",
+    "hasDescription": "U.S. novelist",
     "hasGender": "male",
     "sql": 4002
   },
@@ -15891,15 +15977,6 @@
     "hasDescription": "U.S. novelist",
     "hasGender": "male",
     "sql": 1278
-  },
-  "ww_2668afbb3aa7dfb1": {
-    "hasFirstName": "Alexander Corbin",
-    "hasLastName": "Judson",
-    "birthExact": "1883",
-    "deathExact": "1973",
-    "hasDescription": "U.S. scholar",
-    "hasGender": "male",
-    "sql": 4512
   },
   "ww_5c7d3fc631db2ef4": {
     "hasFirstName": "H.",
@@ -16456,22 +16533,14 @@
     "hasGender": "male",
     "sql": 72
   },
-  "ww_4782723d478dc295": {
+  "ww_ae36b9df3e962fa5": {
     "hasFirstName": "Anne",
-    "hasLastName": "Ker, n\u00e9e Phillips",
+    "hasLastName": "Ker",
     "birthExact": "1766",
     "deathExact": "1821",
-    "hasDescription": "English Gothic novelist",
+    "hasDescription": "English Gothic novelist , n\u00e9e Phillips",
     "hasGender": "male",
     "sql": 4066
-  },
-  "ww_f60add11287fe309": {
-    "hasFirstName": "Etgar",
-    "hasLastName": "Keret",
-    "birthExact": "1967",
-    "hasDescription": "Israeli screenwriter, actor and director",
-    "hasGender": "male",
-    "sql": 2728
   },
   "ww_18ae6b22666cc8bd": {
     "hasFirstName": "Philip",
@@ -16586,8 +16655,7 @@
   "ww_722e698f16327e45": {
     "hasFirstName": "Ros",
     "hasLastName": "King",
-    "activeExact": "1984",
-    "hasDescription": "*British academic",
+    "hasDescription": "British academic",
     "hasGender": "female",
     "sql": 3684
   },
@@ -17828,8 +17896,7 @@
   "ww_f746fcea06feaf4f": {
     "hasFirstName": "Inge",
     "hasLastName": "Leimberg",
-    "activeExact": "2005",
-    "hasDescription": "Academic",
+    "hasDescription": "German academic",
     "hasGender": "male",
     "sql": 1233
   },
@@ -18862,7 +18929,7 @@
     "hasFirstName": "Geddes",
     "hasLastName": "MacGregor",
     "activeExact": "1987",
-    "hasDescription": "Welsh? academic and writer on philosophy",
+    "hasDescription": "Welsh (?) academic and writer on philosophy",
     "hasGender": "male",
     "sql": 3303
   },
@@ -19407,6 +19474,15 @@
     "hasGender": "male",
     "sql": 1508
   },
+  "ww_51b35f130eed9684": {
+    "hasFirstName": "_",
+    "hasLastName": "Marguerite de Navarre",
+    "birthExact": "1492",
+    "deathExact": "1549",
+    "hasDescription": "Queen of Navarre",
+    "hasGender": "male",
+    "sql": 4565
+  },
   "ww_45a2ce21c8323cd8": {
     "hasFirstName": "Peter",
     "hasLastName": "Markoe",
@@ -19804,7 +19880,7 @@
   "ww_a1bc738db7214921": {
     "hasFirstName": "Julie",
     "hasLastName": "Maxwell",
-    "hasDescription": "*English academic",
+    "hasDescription": "English academic",
     "hasGender": "female",
     "sql": 4413
   },
@@ -19981,6 +20057,13 @@
     "hasDescription": "U.S. novelist",
     "hasGender": "male",
     "sql": 649
+  },
+  "ww_fc5d42be67d5a977": {
+    "hasFirstName": "David",
+    "hasLastName": "McInnis",
+    "hasDescription": "Australian academic",
+    "hasGender": "male",
+    "sql": 4563
   },
   "ww_a5bef6f2ebd12c6b": {
     "hasFirstName": "Jamie",
@@ -20199,7 +20282,7 @@
   "ww_ad4ff95fa3558b0e": {
     "hasFirstName": "_",
     "hasLastName": "Member of the public",
-    "hasDescription": "(?)",
+    "hasDescription": "_",
     "hasGender": "male",
     "sql": 2798
   },
@@ -20629,14 +20712,6 @@
     "hasGender": "male",
     "sql": 4241
   },
-  "ww_0314a7dd3746caf9": {
-    "hasFirstName": "Tim",
-    "hasLastName": "Minchin",
-    "birthExact": "1975",
-    "hasDescription": "British-born Australian comedian, actor and musician",
-    "hasGender": "male",
-    "sql": 3541
-  },
   "ww_d37cd31cdb9179a4": {
     "hasFirstName": "Anthony",
     "hasLastName": "Minghella",
@@ -20835,7 +20910,7 @@
   "ww_dbf15ae40aa8f01d": {
     "hasFirstName": "Beatrice",
     "hasLastName": "Montedoro",
-    "hasDescription": "*Swiss scholar",
+    "hasDescription": "Swiss scholar",
     "hasGender": "female",
     "sql": 4331
   },
@@ -21271,7 +21346,7 @@
     "hasLastName": "Mowat",
     "birthExact": "1934",
     "deathExact": "2017",
-    "hasDescription": "*U.S. academic",
+    "hasDescription": "U.S. academic",
     "hasGender": "female",
     "sql": 4263
   },
@@ -21497,7 +21572,7 @@
   "ww_0dc9b239be063569": {
     "hasFirstName": "Donna Nielsen",
     "hasLastName": "Murphy",
-    "hasDescription": "*U.S. academic",
+    "hasDescription": "U.S. academic",
     "hasGender": "female",
     "sql": 4192
   },
@@ -22019,7 +22094,7 @@
   "ww_4d01a832f50d804e": {
     "hasFirstName": "Rebecca",
     "hasLastName": "Niles",
-    "hasDescription": "*Canadian scholar and consultant",
+    "hasDescription": "Canadian scholar and consultant",
     "hasGender": "female",
     "sql": 4266
   },
@@ -22416,7 +22491,9 @@
   "ww_edf53175e8142de4": {
     "hasFirstName": "John",
     "hasLastName": "Oldmixon",
-    "hasDescription": "(?)",
+    "birthExact": "1673",
+    "deathExact": "1742",
+    "hasDescription": "English poet, dramatist and historian",
     "hasGender": "male",
     "sql": 2982
   },
@@ -22521,13 +22598,6 @@
     "hasGender": "male",
     "sql": 4539
   },
-  "ww_adcda6b7d080a5f5": {
-    "hasFirstName": "Helen",
-    "hasLastName": "Ostovich",
-    "hasDescription": "Canadian academic",
-    "hasGender": "male",
-    "sql": 4535
-  },
   "ww_db576940fd676e08": {
     "hasFirstName": "Gerd",
     "hasLastName": "Oswald",
@@ -22616,7 +22686,9 @@
   "ww_3054a5d1b23c937e": {
     "hasFirstName": "Thomas Catesby",
     "hasLastName": "Pagett",
-    "hasDescription": "(?)",
+    "birthExact": "1689",
+    "deathExact": "1742",
+    "hasDescription": "English poet and essayist",
     "hasGender": "male",
     "sql": 2940
   },
@@ -22805,14 +22877,6 @@
     "hasGender": "male",
     "sql": 4304
   },
-  "ww_e6ed41e1d31c1454": {
-    "hasFirstName": "Richard",
-    "hasLastName": "Parson",
-    "activeExact": "2005",
-    "hasDescription": "(?)",
-    "hasGender": "male",
-    "sql": 3393
-  },
   "ww_14b3a2f8cec3e600": {
     "hasFirstName": "Eliza",
     "hasLastName": "Parsons",
@@ -22821,6 +22885,14 @@
     "hasDescription": "English novelist",
     "hasGender": "male",
     "sql": 3841
+  },
+  "ww_99c65d32866c1855": {
+    "hasFirstName": "Richard Dean",
+    "hasLastName": "Parsons",
+    "birthExact": "1955",
+    "hasDescription": "U.S. businessman",
+    "hasGender": "male",
+    "sql": 3393
   },
   "ww_7000db70f8e8bf95": {
     "hasFirstName": "Thomas William",
@@ -22862,7 +22934,7 @@
     "hasFirstName": "Gail Kern",
     "hasLastName": "Paster",
     "birthExact": "1944",
-    "hasDescription": "*U.S. scholar",
+    "hasDescription": "U.S. scholar",
     "hasGender": "female",
     "sql": 4362
   },
@@ -22924,7 +22996,7 @@
     "hasFirstName": "Barbara",
     "hasLastName": "Paul",
     "birthExact": "1931",
-    "hasDescription": "*U.S. science-fiction and mistery writer",
+    "hasDescription": "U.S. science-fiction and mistery writer",
     "hasGender": "female",
     "sql": 451
   },
@@ -23322,7 +23394,7 @@
     "hasLastName": "Philips",
     "birthExact": "1631",
     "deathExact": "1664",
-    "hasDescription": "*Welsh poet",
+    "hasDescription": "Welsh poet",
     "hasGender": "female",
     "sql": 3005
   },
@@ -23395,6 +23467,14 @@
     "hasDescription": "English (?) novelist",
     "hasGender": "male",
     "sql": 3515
+  },
+  "ww_115cb4913305fe2b": {
+    "hasFirstName": "_",
+    "hasLastName": "Philomusus",
+    "activeExact": "1640",
+    "hasDescription": "English anthologist , real name unknown",
+    "hasGender": "male",
+    "sql": 4560
   },
   "ww_e219a52388289dd8": {
     "hasFirstName": "Samuel",
@@ -23590,6 +23670,14 @@
     "hasDescription": "Greek philosopher [428-423] BC \u2013 [348-347] BC",
     "hasGender": "male",
     "sql": 4293
+  },
+  "ww_31821a5ce16c5e71": {
+    "hasFirstName": "Ann",
+    "hasLastName": "Plato",
+    "birthExact": "1824",
+    "hasDescription": "African-American writer",
+    "hasGender": "male",
+    "sql": 4568
   },
   "ww_fd2bbed82dcb70a3": {
     "hasFirstName": "Titus Maccius",
@@ -23816,7 +23904,7 @@
     "hasLastName": "Potts",
     "activeStart": "1923",
     "activeEnd": "1963",
-    "hasDescription": "*U.S. (?) scholar",
+    "hasDescription": "U.S. (?) scholar",
     "hasGender": "female",
     "sql": 4143
   },
@@ -24082,7 +24170,7 @@
     "hasFirstName": "Sixta",
     "hasLastName": "Qua\u00dfdorf",
     "birthExact": "1964",
-    "hasDescription": "*German scholar",
+    "hasDescription": "German scholar",
     "hasGender": "female",
     "sql": 4466
   },
@@ -24137,7 +24225,8 @@
   "ww_88f73976b9865068": {
     "hasFirstName": "Laurent",
     "hasLastName": "Quintreau",
-    "hasDescription": "(?)",
+    "birthExact": "1965",
+    "hasDescription": "French essayist",
     "hasGender": "male",
     "sql": 3439
   },
@@ -24190,6 +24279,13 @@
     "hasDescription": "English academic",
     "hasGender": "male",
     "sql": 447
+  },
+  "ww_adbda22b051734e3": {
+    "hasFirstName": "Harris",
+    "hasLastName": "Rackham",
+    "hasDescription": "English scholar 1868\u20131944",
+    "hasGender": "male",
+    "sql": 4551
   },
   "ww_082f381924691fec": {
     "hasFirstName": "Ann",
@@ -24468,7 +24564,7 @@
     "hasFirstName": "Miss",
     "hasLastName": "Read",
     "birthExact": "1913",
-    "hasDescription": "English novelist ,  real name Dora Jessie Saint, nee Shafe.",
+    "hasDescription": "English novelist ,  real name Dora Jessie Saint, n\u00e9e Shafe",
     "hasGender": "male",
     "sql": 2377
   },
@@ -25284,14 +25380,6 @@
     "hasGender": "male",
     "sql": 2712
   },
-  "ww_07edc37cb821fd54": {
-    "hasFirstName": "Gil",
-    "hasLastName": "Roman",
-    "birthExact": "1960",
-    "hasDescription": "French dancer and choreographer",
-    "hasGender": "male",
-    "sql": 2010
-  },
   "ww_b12a0d10cafaf078": {
     "hasFirstName": "Alan",
     "hasLastName": "Roper",
@@ -25483,7 +25571,7 @@
   "ww_56706b5e10a40c89": {
     "hasFirstName": "Elizabeth Singer",
     "hasLastName": "Rowe",
-    "hasDescription": "(?)",
+    "hasDescription": "English English poet, essayist and novelist n\u00e9e Singer, 1674\u20131737",
     "hasGender": "male",
     "sql": 2972
   },
@@ -25602,7 +25690,7 @@
     "hasFirstName": "Lilian M.",
     "hasLastName": "Ruff",
     "activeExact": "1969",
-    "hasDescription": "*U.S. (?) scholar",
+    "hasDescription": "U.S. (?) scholar",
     "hasGender": "female",
     "sql": 4188
   },
@@ -25686,7 +25774,9 @@
   "ww_31685b2b98456454": {
     "hasFirstName": "Bertrand",
     "hasLastName": "Russell",
-    "hasDescription": "(?)",
+    "birthExact": "1872",
+    "deathExact": "1970",
+    "hasDescription": "British philosopher , full name Bertrand Arthur William Russell, 3rd Earl Russell",
     "hasGender": "male",
     "sql": 2857
   },
@@ -25697,15 +25787,6 @@
     "hasDescription": "Scottish (?) translator",
     "hasGender": "male",
     "sql": 4479
-  },
-  "ww_99632a1419b798d1": {
-    "hasFirstName": "Juliusz",
-    "hasLastName": "S&#322;owacki",
-    "birthExact": "1809",
-    "deathExact": "1849",
-    "hasDescription": "Ukrainian-born Polish poet",
-    "hasGender": "male",
-    "sql": 684
   },
   "ww_d4744a4190b3f9cd": {
     "hasFirstName": "J.",
@@ -26155,7 +26236,7 @@
     "hasFirstName": "Louise",
     "hasLastName": "Schleiner",
     "deathExact": "2000",
-    "hasDescription": "*U.S. academic",
+    "hasDescription": "U.S. academic",
     "hasGender": "female",
     "sql": 4221
   },
@@ -26422,7 +26503,7 @@
     "hasLastName": "Scragg",
     "activeStart": "2006",
     "activeEnd": "2008",
-    "hasDescription": "*British (?) scholar",
+    "hasDescription": "British (?) scholar",
     "hasGender": "female",
     "sql": 4294
   },
@@ -27236,6 +27317,13 @@
     "hasGender": "male",
     "sql": 3628
   },
+  "ww_9851735baaefc295": {
+    "hasFirstName": "James",
+    "hasLastName": "Sims",
+    "hasDescription": "Liberian explorer 1832",
+    "hasGender": "male",
+    "sql": 4547
+  },
   "ww_24398cd87e6e9e2f": {
     "hasFirstName": "Stephen",
     "hasLastName": "Sims",
@@ -27416,7 +27504,7 @@
   "ww_26c25538fa69a566": {
     "hasFirstName": "Lucy Toulmin",
     "hasLastName": "Smith",
-    "hasDescription": "*Anglo-American scholar 1838\u20131911",
+    "hasDescription": "Anglo-American scholar 1838\u20131911",
     "hasGender": "female",
     "sql": 4112
   },
@@ -27921,7 +28009,7 @@
   "ww_3f15291f463cb96e": {
     "hasFirstName": "_",
     "hasLastName": "St Basil the Great",
-    "hasDescription": "Theologian and bishop [329-330]-379",
+    "hasDescription": "Greek Theologian and bishop [329-330]-379",
     "hasGender": "male",
     "sql": 4424
   },
@@ -27972,7 +28060,7 @@
     "hasFirstName": "Jon",
     "hasLastName": "Stahl",
     "activeExact": "2002",
-    "hasDescription": "blogger",
+    "hasDescription": "Blogger",
     "hasGender": "male",
     "sql": 2721
   },
@@ -28285,7 +28373,7 @@
     "hasFirstName": "Ruth",
     "hasLastName": "Stevenson",
     "activeExact": "2002",
-    "hasDescription": "*U.S. (?) academic",
+    "hasDescription": "U.S. (?) academic",
     "hasGender": "female",
     "sql": 4274
   },
@@ -28547,7 +28635,7 @@
     "hasFirstName": "Barbara",
     "hasLastName": "Str\u00e4uli",
     "birthExact": "1949",
-    "hasDescription": "*Swiss scholar",
+    "hasDescription": "Swiss scholar",
     "hasGender": "female",
     "sql": 4185
   },
@@ -28965,6 +29053,15 @@
     "hasDescription": "Irish poet and dramatist",
     "hasGender": "male",
     "sql": 4085
+  },
+  "ww_6872060fa3a5b705": {
+    "hasFirstName": "John",
+    "hasLastName": "Tatham",
+    "activeStart": "1632",
+    "activeEnd": "1664",
+    "hasDescription": "English dramatist",
+    "hasGender": "male",
+    "sql": 4557
   },
   "ww_3e61db6114435abb": {
     "hasFirstName": "Michael",
@@ -30429,7 +30526,7 @@
     "hasLastName": "von Schaubert",
     "birthExact": "1886",
     "deathExact": "1977",
-    "hasDescription": "*German scholar , full name Else Constanze Wilhelmine von Schaubert",
+    "hasDescription": "German scholar , full name Else Constanze Wilhelmine von Schaubert",
     "hasGender": "female",
     "sql": 4371
   },
@@ -30888,13 +30985,6 @@
     "hasDescription": "U.S. novelist , real name Samuel Hopkins Adams",
     "hasGender": "male",
     "sql": 940
-  },
-  "ww_05ea372cf91d3a12": {
-    "hasFirstName": "John Russell",
-    "hasLastName": "Warren",
-    "hasDescription": "(?)",
-    "hasGender": "male",
-    "sql": 2359
   },
   "ww_99768d9741fbce8b": {
     "hasFirstName": "Thomas",
@@ -31635,7 +31725,7 @@
     "hasFirstName": "Kate",
     "hasLastName": "Wilkinson",
     "activeExact": "2013",
-    "hasDescription": "*English (?) academic",
+    "hasDescription": "English (?) academic",
     "hasGender": "female",
     "sql": 4196
   },
@@ -31802,18 +31892,18 @@
     "hasLastName": "Wills",
     "activeStart": "1937",
     "activeEnd": "1962",
-    "hasDescription": "*U.S. scholar",
+    "hasDescription": "U.S. scholar",
     "hasGender": "female",
     "sql": 4397
   },
   "ww_95ca9c2bfa670a56": {
     "hasFirstName": "John",
     "hasLastName": "Wilson",
-    "birthExact": "1626",
-    "deathExact": "1696",
-    "hasDescription": "English dramatist",
+    "birthExact": "1785",
+    "deathExact": "1854",
+    "hasDescription": "Scottish poet",
     "hasGender": "male",
-    "sql": 4489
+    "sql": 534
   },
   "ww_e59f20507549cc08": {
     "hasFirstName": "John Dover",

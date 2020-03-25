@@ -1249,10 +1249,10 @@
                 }
               },
               {
-                "name": "Manuscript commonplace book",
+                "name": "Commonplace book",
                 "labels": {
                   "de": "Kollektanee",
-                  "en": "Manuscript commonplace book"
+                  "en": "Commonplace book"
                 }
               },
               {
@@ -1584,6 +1584,13 @@
                   "de": "Gray's Inn at Greenwich Palace",
                   "en": "Gray's Inn at Greenwich Palace"
                 }
+              },
+              {
+                "name": "Banqueting House, Whitehall",
+                "labels": {
+                  "de": "Banqueting House, Whitehall",
+                  "en": "Banqueting House, Whitehall"
+                }
               }
             ]
           },
@@ -1726,6 +1733,22 @@
                 }
               }
             ]
+          },
+          {
+            "name": "Leicestershire",
+            "labels": {
+              "de": "Leicestershire",
+              "en": "Leicestershire"
+            },
+            "nodes": [
+              {
+                "name": "Ashby de la Zouch Castle",
+                "labels": {
+                  "de": "Ashby de la Zouch Castle",
+                  "en": "Ashby de la Zouch Castle"
+                }
+              }
+            ]
           }
         ]
       }
@@ -1814,7 +1837,7 @@
                 "size=24",
                 "maxlength=128"
               ],
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasBirthDate",
@@ -1870,24 +1893,7 @@
               "gui_attributes": [
                 "hlist=gender"
               ],
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasEmail",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Email",
-                "de": "Email"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "isLexiaPerson",
@@ -1991,7 +1997,7 @@
                 "de": "Edition (normalisiert)"
               },
               "gui_element": "Textarea",
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasEditionHist",
@@ -2020,7 +2026,7 @@
               "gui_attributes": [
                 "hlist=language"
               ],
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasGenre",
@@ -2036,7 +2042,7 @@
               "gui_attributes": [
                 "hlist=genre"
               ],
-              "cardinality": "0-n"
+              "cardinality": "1-n"
             },
             {
               "name": "hasSubject",
@@ -2065,7 +2071,7 @@
                 "de": "Erstellungsdatum"
               },
               "gui_element": "Date",
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasPublicationDate",
@@ -2104,7 +2110,7 @@
                 "de": "wurde geschrieben von"
               },
               "gui_element": "Searchbox",
-              "cardinality": "0-n"
+              "cardinality": "1-n"
             },
             {
               "name": "performedBy",
@@ -2170,7 +2176,7 @@
                 "de": "Text"
               },
               "gui_element": "Textarea",
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasTextHist",
@@ -2200,7 +2206,7 @@
                 "size=24",
                 "maxlength=64"
               ],
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasPage",
@@ -2298,7 +2304,7 @@
               "gui_attributes": [
                 "hlist=status"
               ],
-              "cardinality": "0-1"
+              "cardinality": "1"
             },
             {
               "name": "hasInternalComment",
@@ -2337,7 +2343,7 @@
                 "de": "kommt vor in"
               },
               "gui_element": "Searchbox",
-              "cardinality": "0-n"
+              "cardinality": "1-n"
             },
             {
               "name": "isMentionedIn",
@@ -2363,7 +2369,7 @@
                 "de": "mitgewirkt von"
               },
               "gui_element": "Searchbox",
-              "cardinality": "0-n"
+              "cardinality": "1"
             },
             {
               "name": "contains",
@@ -2457,7 +2463,7 @@
               "gui_attributes": [
                 "hlist=formalClass"
               ],
-              "cardinality": "0-n"
+              "cardinality": "1-n"
             },
             {
               "name": "hasImage",
