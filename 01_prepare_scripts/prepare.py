@@ -42,6 +42,7 @@ import prep_venues
 # export_5.csv is from Act 4, Scene 6, line "He shall, sir, an't please him. There's a letter"
 # export_6.csv is from Act 4, Scene 6, line "you, sir; it comes from the ambassador that was"
 # export_7.csv is from Act 4, Scene 6, line "bound for England; if your name be Horatio, as I am"
+# export_8.csv is from Act 4, Scene 6, line "let to know it is."
 csv_files = [
     "01_prepare_scripts/csv/export_1.csv",
     "01_prepare_scripts/csv/export_2.csv",
