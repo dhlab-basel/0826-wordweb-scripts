@@ -69,13 +69,23 @@
     "hasLexiaTitle": "all that lives must die",
     "hasFormalClass": "Idea"
   },
-  "ww_7cf2374206dc4c74": {
+  "ww_27bc4fcd0e8d4bc6": {
+    "hasLexiaInternalId": "#006937",
+    "hasLexiaTitle": "respice finem",
+    "hasFormalClass": "Phrase"
+  },
+  "ww_634238d8858a88fb": {
     "hasLexiaInternalId": "#030069",
-    "hasLexiaTitle": "sleep of death",
+    "hasLexiaTitle": "death as sleep",
     "hasImage": [
       "Death"
     ],
     "hasFormalClass": "Idea"
+  },
+  "ww_fed3c695bc84cfbb": {
+    "hasLexiaInternalId": "#006941",
+    "hasLexiaTitle": "sleep of death",
+    "hasFormalClass": "Two-word item"
   },
   "ww_c584911c5b6e16fb": {
     "hasLexiaInternalId": "#032045",
@@ -168,8 +178,8 @@
     "hasLexiaInternalId": "#230104",
     "hasLexiaTitle": "cedar + kingly eagle",
     "hasImage": [
-      "Court, monarchy",
-      "Plants"
+      "Plants",
+      "Court, monarchy"
     ],
     "hasFormalClass": "Keywords"
   },
@@ -324,7 +334,7 @@
     "hasImage": [
       "Birds"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Visual motif"
   },
   "ww_1d5d472accff74cf": {
     "hasLexiaInternalId": "#030208",
@@ -609,7 +619,7 @@
     "hasImage": [
       "Love"
     ],
-    "hasFormalClass": "Visual motif"
+    "hasFormalClass": "Plot element"
   },
   "ww_0ff0c3d468ebe2a0": {
     "hasLexiaInternalId": "#032442",
@@ -759,7 +769,7 @@
     "hasImage": [
       "Animals"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Visual motif"
   },
   "ww_1a4a6d1be6447fb9": {
     "hasLexiaInternalId": "#031046",
@@ -799,9 +809,9 @@
     "hasLexiaTitle": "Diana's foresters",
     "hasFormalClass": "Motif with name"
   },
-  "ww_388dc2cda9c0ee49": {
+  "ww_95357a7a37a06557": {
     "hasLexiaInternalId": "#004001",
-    "hasLexiaTitle": "Diana or Artemis",
+    "hasLexiaTitle": "Diana or Artemis or Phoebe",
     "hasFormalClass": "Name of fictional character"
   },
   "ww_98a5b4cf2c5b5870": {
@@ -1165,7 +1175,7 @@
     "hasImage": [
       "war, combat"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Keywords"
   },
   "ww_0b3d2a296ba44765": {
     "hasLexiaInternalId": "#004214",
@@ -1341,8 +1351,8 @@
     "hasLexiaInternalId": "#032483",
     "hasLexiaTitle": "Horace = Ben Jonson",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -1350,8 +1360,8 @@
     "hasLexiaInternalId": "#032484",
     "hasLexiaTitle": "Demetrius Fannius = Thomas Dekker",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -1438,9 +1448,9 @@
     ],
     "hasFormalClass": "Plot element"
   },
-  "ww_8c85d3a3d85a504d": {
-    "hasLexiaInternalId": "#030037",
-    "hasLexiaTitle": "Othello",
+  "ww_9594e78583ac4703": {
+    "hasLexiaInternalId": "#004021",
+    "hasLexiaTitle": "Iago",
     "hasFormalClass": "Name of fictional character"
   },
   "ww_0ce8bac842f29b5b": {
@@ -1508,9 +1518,12 @@
     ],
     "hasFormalClass": "Phrase"
   },
-  "ww_fbce704562c655aa": {
+  "ww_d2d6d2f2bf808f33": {
     "hasLexiaInternalId": "#030152",
-    "hasLexiaTitle": "eagle-eyed",
+    "hasLexiaTitle": "eagle as nobly-spirited",
+    "hasImage": [
+      "Birds"
+    ],
     "hasFormalClass": "Idea"
   },
   "ww_b718c16e14e3b304": {
@@ -1740,7 +1753,7 @@
   "ww_013ae50bd01b567a": {
     "hasLexiaInternalId": "#030015",
     "hasLexiaTitle": "prophetic soul",
-    "hasFormalClass": "Phrase"
+    "hasFormalClass": "Two-word item"
   },
   "ww_061dc578a6db5deb": {
     "hasLexiaInternalId": "#030046",
@@ -1803,6 +1816,11 @@
   "ww_79b0588f88048aa6": {
     "hasLexiaInternalId": "#031052",
     "hasLexiaTitle": "mathematical",
+    "hasFormalClass": "Word"
+  },
+  "ww_01d0b509532d4c5b": {
+    "hasLexiaInternalId": "#040101",
+    "hasLexiaTitle": "bawd",
     "hasFormalClass": "Word"
   },
   "ww_3cfc2db3c85babe5": {
@@ -1952,15 +1970,15 @@
     "hasLexiaInternalId": "#030087",
     "hasLexiaTitle": "undiscovered country",
     "hasImage": [
-      "Landscape",
-      "Death"
+      "Death",
+      "Landscape"
     ],
     "hasFormalClass": "Idea"
   },
   "ww_4c0b0b0b601c1917": {
     "hasLexiaInternalId": "#030094",
     "hasLexiaTitle": "fools of nature",
-    "hasFormalClass": "Phrase"
+    "hasFormalClass": "Two-word item"
   },
   "ww_68e28539a7ec30fc": {
     "hasLexiaInternalId": "#032028",
@@ -1980,20 +1998,18 @@
     "hasLexiaTitle": "madness + method",
     "hasFormalClass": "Keywords"
   },
-  "ww_7a3a636c81a9045c": {
+  "ww_9b50d5113a182f4d": {
     "hasLexiaInternalId": "#032031",
-    "hasLexiaTitle": "crab",
-    "hasFormalClass": "Idea"
+    "hasLexiaTitle": "go backwards like a crab",
+    "hasImage": [
+      "Animals"
+    ],
+    "hasFormalClass": "Visual motif"
   },
   "ww_1659a59623e8749f": {
     "hasLexiaInternalId": "#030251",
     "hasLexiaTitle": "get out it is dangerous if my parents find you here",
     "hasFormalClass": "Plot element"
-  },
-  "ww_01d0b509532d4c5b": {
-    "hasLexiaInternalId": "#040101",
-    "hasLexiaTitle": "bawd",
-    "hasFormalClass": "Word"
   },
   "ww_5be3ee8201993680": {
     "hasLexiaInternalId": "#031045",
@@ -2164,9 +2180,9 @@
     "hasLexiaTitle": "old Truepenny",
     "hasFormalClass": "Motif with name"
   },
-  "ww_5ffe02f56c0570bd": {
+  "ww_f99dbc52d41b32d2": {
     "hasLexiaInternalId": "#032271",
-    "hasLexiaTitle": "mechanics' performance in Midsummer Night's Dream",
+    "hasLexiaTitle": "mechanics in A Midsummer Night's Dream",
     "hasFormalClass": "Name of fictional character"
   },
   "ww_60c59a813db69b83": {
@@ -2206,6 +2222,11 @@
     "hasLexiaInternalId": "#030073",
     "hasLexiaTitle": "arrant knave",
     "hasFormalClass": "Phrase"
+  },
+  "ww_9fe84ad906320b98": {
+    "hasLexiaInternalId": "#007052",
+    "hasLexiaTitle": "Alexander the Great",
+    "hasFormalClass": "Name of real person"
   },
   "ww_a3f45a0e48dce82e": {
     "hasLexiaInternalId": "#030050",
@@ -2361,6 +2382,11 @@
     "hasLexiaTitle": "Lucrece",
     "hasFormalClass": "Name of fictional character"
   },
+  "ww_582034542c5886c2": {
+    "hasLexiaInternalId": "#004341",
+    "hasLexiaTitle": "Tarquin",
+    "hasFormalClass": "Name of fictional character"
+  },
   "ww_733886ded427096a": {
     "hasLexiaInternalId": "#230188",
     "hasLexiaTitle": "womens eyes",
@@ -2499,7 +2525,7 @@
   "ww_42c1807fc6f1bf46": {
     "hasLexiaInternalId": "#032466",
     "hasLexiaTitle": "damned to Erebus and Pluto",
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Motif with name"
   },
   "ww_e0ff792aded1c973": {
     "hasLexiaInternalId": "#031145",
@@ -2551,9 +2577,17 @@
     "hasLexiaTitle": "brokers as dishonest",
     "hasFormalClass": "Idea"
   },
-  "ww_e9d870b07302330b": {
+  "ww_76f7f78aa171ef41": {
+    "hasLexiaInternalId": "#006922",
+    "hasLexiaTitle": "Castilio = William Shakespeare",
+    "hasImage": [
+      "Persons"
+    ],
+    "hasFormalClass": "Epithet for real person"
+  },
+  "ww_d78e7b92c04ed4dc": {
     "hasLexiaInternalId": "#990045",
-    "hasLexiaTitle": "cinquepace as sink apace",
+    "hasLexiaTitle": "cinquepace = sink apace",
     "hasImage": [
       "Music, dance, song"
     ],
@@ -2572,6 +2606,9 @@
   "ww_a47e0654b639a3d6": {
     "hasLexiaInternalId": "#035523",
     "hasLexiaTitle": "leading apes into hell",
+    "hasImage": [
+      "Animals"
+    ],
     "hasFormalClass": "Idea"
   },
   "ww_b8451d3f8e2fa1a2": {
@@ -2677,9 +2714,9 @@
     "hasLexiaTitle": "sycophant as a sponge",
     "hasFormalClass": "Visual motif"
   },
-  "ww_47eb7bb43743a484": {
+  "ww_0483373477fb00d1": {
     "hasLexiaInternalId": "#032122",
-    "hasLexiaTitle": "stewed plums, prunes",
+    "hasLexiaTitle": "stewed plums, prunes = brothel",
     "hasImage": [
       "Food"
     ],
@@ -2789,11 +2826,6 @@
     ],
     "hasFormalClass": "Plot element"
   },
-  "ww_a7052d064aca6dab": {
-    "hasLexiaInternalId": "#030079",
-    "hasLexiaTitle": "fathers spirit in arms",
-    "hasFormalClass": "Idea"
-  },
   "ww_09cb51462eea6ba7": {
     "hasLexiaInternalId": "#004247",
     "hasLexiaTitle": "death as sleeping in dust",
@@ -2853,6 +2885,9 @@
   "ww_f3568f634e56ff6b": {
     "hasLexiaInternalId": "#030195",
     "hasLexiaTitle": "like a porcupine",
+    "hasImage": [
+      "Animals"
+    ],
     "hasFormalClass": "Idea"
   },
   "ww_36fef2e3e2026015": {
@@ -2902,7 +2937,7 @@
     "hasImage": [
       "Animals"
     ],
-    "hasFormalClass": "Phrase"
+    "hasFormalClass": "Two-word item"
   },
   "ww_8c14e057d1251ae9": {
     "hasLexiaInternalId": "#030026",
@@ -2929,10 +2964,10 @@
     "hasLexiaTitle": "Lazarus",
     "hasFormalClass": "Name of fictional character"
   },
-  "ww_98e2790e7dac42c0": {
+  "ww_aeeddc28d9443edb": {
     "hasLexiaInternalId": "#005081",
-    "hasLexiaTitle": "carouse, sulphur",
-    "hasFormalClass": "Idea"
+    "hasLexiaTitle": "carouse + sulphur",
+    "hasFormalClass": "Keywords"
   },
   "ww_ef70433c0b388479": {
     "hasLexiaInternalId": "#030061",
@@ -3059,6 +3094,11 @@
     ],
     "hasFormalClass": "Tiger cluster"
   },
+  "ww_6bdd4014bd3086fa": {
+    "hasLexiaInternalId": "#004116",
+    "hasLexiaTitle": "eyes like carbuncles",
+    "hasFormalClass": "Phrase"
+  },
   "ww_10708fe9f3bdfc7d": {
     "hasLexiaInternalId": "#004215",
     "hasLexiaTitle": "painted face",
@@ -3151,6 +3191,11 @@
     "hasLexiaTitle": "seize land",
     "hasFormalClass": "Idea"
   },
+  "ww_a54279f9dd8519d4": {
+    "hasLexiaInternalId": "#004276",
+    "hasLexiaTitle": "mote or beam in one's eye",
+    "hasFormalClass": "Keywords"
+  },
   "ww_23bf96295b43ba6e": {
     "hasLexiaInternalId": "#030126",
     "hasLexiaTitle": "precurse",
@@ -3241,7 +3286,7 @@
   "ww_176880125ba18c25": {
     "hasLexiaInternalId": "#030186",
     "hasLexiaTitle": "reason + beast",
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Keywords"
   },
   "ww_1193445b7cbfb116": {
     "hasLexiaInternalId": "#030187",
@@ -3300,6 +3345,11 @@
     "hasLexiaInternalId": "#230198",
     "hasLexiaTitle": "cast of chaste lips of Diana",
     "hasFormalClass": "Motif with name"
+  },
+  "ww_b54d61fab534827a": {
+    "hasLexiaInternalId": "#030079",
+    "hasLexiaTitle": "father's spirit in arms",
+    "hasFormalClass": "Idea"
   },
   "ww_05a43c192b4acc99": {
     "hasLexiaInternalId": "#030269",
@@ -3375,6 +3425,11 @@
     "hasLexiaInternalId": "#031104",
     "hasLexiaTitle": "canker",
     "hasFormalClass": "Word"
+  },
+  "ww_5c6b2352d21819dd": {
+    "hasLexiaInternalId": "#004138",
+    "hasLexiaTitle": "best safety lies in fear:",
+    "hasFormalClass": "Idea"
   },
   "ww_f3ba70be90b44b55": {
     "hasLexiaInternalId": "#004330",
@@ -3470,15 +3525,13 @@
     "hasLexiaTitle": "How absolute the knave is...",
     "hasFormalClass": "Passage"
   },
-  "ww_3029e3133462e37b": {
-    "hasLexiaInternalId": "#030181",
-    "hasLexiaTitle": "Polonius",
-    "hasFormalClass": "Name of fictional character"
-  },
-  "ww_d8d08b4783f40c82": {
-    "hasLexiaInternalId": "#007002",
-    "hasLexiaTitle": "Sir Thomas Sackville",
-    "hasFormalClass": "Name of real person"
+  "ww_9e7dd1485a6ca45c": {
+    "hasLexiaInternalId": "#004120",
+    "hasLexiaTitle": "what dreams if death is a sleep",
+    "hasImage": [
+      "Death"
+    ],
+    "hasFormalClass": "Idea"
   },
   "ww_b1a9ec9cf87b3df4": {
     "hasLexiaInternalId": "#031115",
@@ -3547,7 +3600,7 @@
   "ww_f06244181708a03a": {
     "hasLexiaInternalId": "#032192",
     "hasLexiaTitle": "ballad Arthur",
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Book title"
   },
   "ww_5ad2788c07029fb5": {
     "hasLexiaInternalId": "#004018",
@@ -3585,7 +3638,7 @@
   "ww_bee938d04f6cae9f": {
     "hasLexiaInternalId": "#030019",
     "hasLexiaTitle": "where are they now",
-    "hasFormalClass": "Visual motif"
+    "hasFormalClass": "Idea"
   },
   "ww_0fce5e918442d601": {
     "hasLexiaInternalId": "#030021",
@@ -3632,6 +3685,11 @@
     ],
     "hasFormalClass": "Idea"
   },
+  "ww_8c85d3a3d85a504d": {
+    "hasLexiaInternalId": "#030037",
+    "hasLexiaTitle": "Othello",
+    "hasFormalClass": "Name of fictional character"
+  },
   "ww_bf54ecb4a5531323": {
     "hasLexiaInternalId": "#005059",
     "hasLexiaTitle": "do not like it, will not say what",
@@ -3673,7 +3731,7 @@
   "ww_7fa20e200ecd59f6": {
     "hasLexiaInternalId": "#005099",
     "hasLexiaTitle": "drinking joke heavy-light",
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Pun"
   },
   "ww_1bed8d04a7d0d5b3": {
     "hasLexiaInternalId": "#032407",
@@ -3683,6 +3741,9 @@
   "ww_05d9f93a87f134b5": {
     "hasLexiaInternalId": "#230163",
     "hasLexiaTitle": "disorderly meal - eel by the tail",
+    "hasImage": [
+      "Animals"
+    ],
     "hasFormalClass": "Plot element"
   },
   "ww_4fab4762460f09a0": {
@@ -3791,6 +3852,11 @@
   "ww_b9e782e99ddc0983": {
     "hasLexiaInternalId": "#031173",
     "hasLexiaTitle": "talking to the ghost of one you murdered",
+    "hasFormalClass": "Plot element"
+  },
+  "ww_58a063dbcb44ed1f": {
+    "hasLexiaInternalId": "#031174",
+    "hasLexiaTitle": "sudden regret for murder",
     "hasFormalClass": "Plot element"
   },
   "ww_9c6bb0cc80ef79ae": {
@@ -3904,11 +3970,6 @@
     "hasLexiaTitle": "popering pear (innuendo)",
     "hasFormalClass": "Two-word item"
   },
-  "ww_58a063dbcb44ed1f": {
-    "hasLexiaInternalId": "#031174",
-    "hasLexiaTitle": "sudden regret for murder",
-    "hasFormalClass": "Plot element"
-  },
   "ww_dc31b4051ded34c8": {
     "hasLexiaInternalId": "#031175",
     "hasLexiaTitle": "mountains overwhelm me",
@@ -4004,8 +4065,8 @@
     "hasLexiaInternalId": "#032140",
     "hasLexiaTitle": "love like lightning",
     "hasImage": [
-      "Love",
-      "Sky and wether"
+      "Sky and wether",
+      "Love"
     ],
     "hasFormalClass": "Idea"
   },
@@ -4102,7 +4163,7 @@
   "ww_20aa367a5b94c13f": {
     "hasLexiaInternalId": "#032506",
     "hasLexiaTitle": "Ben Jonson having a scarce beard",
-    "hasFormalClass": "Plot element"
+    "hasFormalClass": "Motif with name"
   },
   "ww_4726e50f20d9a13f": {
     "hasLexiaInternalId": "#030211",
@@ -4125,7 +4186,7 @@
     "hasImage": [
       "war, combat"
     ],
-    "hasFormalClass": "Visual motif"
+    "hasFormalClass": "Scene"
   },
   "ww_8bf9baae3b133bc7": {
     "hasLexiaInternalId": "#006903",
@@ -4327,10 +4388,6 @@
   "ww_beaf21e19bd76dd4": {
     "hasLexiaInternalId": "#004154",
     "hasLexiaTitle": "courtier's, soldier's, scholar's",
-    "hasImage": [
-      "Court, monarchy",
-      "war, combat"
-    ],
     "hasFormalClass": "Snowclone"
   },
   "ww_ac7b6cb8053184e6": {
@@ -4764,8 +4821,8 @@
     "hasLexiaInternalId": "@001303",
     "hasLexiaTitle": "How a Man May Choose a Good Wife From A Bad",
     "hasImage": [
-      "Men",
-      "Marriage"
+      "Marriage",
+      "Men"
     ],
     "hasFormalClass": "Book title"
   },
@@ -4922,9 +4979,9 @@
     "hasLexiaTitle": "absent messenger",
     "hasFormalClass": "Plot element"
   },
-  "ww_009c813b8fd6f2cd": {
+  "ww_6a7c7aa39c4d95c0": {
     "hasLexiaInternalId": "#032227",
-    "hasLexiaTitle": "whips of time image",
+    "hasLexiaTitle": "whips of time",
     "hasImage": [
       "Time"
     ],
@@ -5064,7 +5121,7 @@
   "ww_6fcc79a83c11b238": {
     "hasLexiaInternalId": "#230121",
     "hasLexiaTitle": "historico-politico-comical",
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Snowclone"
   },
   "ww_b1d988a0746c1897": {
     "hasLexiaInternalId": "#030707",
@@ -5158,6 +5215,11 @@
     "hasLexiaInternalId": "#032236",
     "hasLexiaTitle": "Damon and Pythias",
     "hasFormalClass": "Name of fictional character"
+  },
+  "ww_7b21fd0f9cd88f3d": {
+    "hasLexiaInternalId": "@000389",
+    "hasLexiaTitle": "Damon and Pythias",
+    "hasFormalClass": "Book title"
   },
   "ww_7abd27357ea257db": {
     "hasLexiaInternalId": "#080000",
@@ -5299,6 +5361,11 @@
     ],
     "hasFormalClass": "Tiger cluster"
   },
+  "ww_45bb8f97d472e229": {
+    "hasLexiaInternalId": "#004225",
+    "hasLexiaTitle": "Philomela",
+    "hasFormalClass": "Tiger cluster"
+  },
   "ww_56e1c39922efd58d": {
     "hasLexiaInternalId": "#004340",
     "hasLexiaTitle": "Thracian",
@@ -5362,7 +5429,7 @@
     "hasLexiaInternalId": "#032414",
     "hasLexiaTitle": "gnats and eagles",
     "hasImage": [
-      "Animals"
+      "Birds"
     ],
     "hasFormalClass": "Phrase"
   },
@@ -5402,6 +5469,21 @@
     ],
     "hasFormalClass": "Idea"
   },
+  "ww_da022c3a2d8e7247": {
+    "hasLexiaInternalId": "#007044",
+    "hasLexiaTitle": "Cleopatra",
+    "hasFormalClass": "Name of real person"
+  },
+  "ww_21edd6ddeb860eb1": {
+    "hasLexiaInternalId": "#007060",
+    "hasLexiaTitle": "Francesco Petrarca",
+    "hasFormalClass": "Name of real person"
+  },
+  "ww_1a1e837a12ff4eed": {
+    "hasLexiaInternalId": "#006950",
+    "hasLexiaTitle": "Hero",
+    "hasFormalClass": "Name of fictional character"
+  },
   "ww_cdb07610484fbae2": {
     "hasLexiaInternalId": "#030059",
     "hasLexiaTitle": "fortune's fool",
@@ -5433,6 +5515,9 @@
   "ww_3267e445eb7fa45d": {
     "hasLexiaInternalId": "#030173",
     "hasLexiaTitle": "pale swan",
+    "hasImage": [
+      "Birds"
+    ],
     "hasFormalClass": "Idea"
   },
   "ww_433dde86a0c23217": {
@@ -5484,6 +5569,9 @@
   "ww_b9bf57485e2a8dd7": {
     "hasLexiaInternalId": "#006915",
     "hasLexiaTitle": "thunder wakes eels",
+    "hasImage": [
+      "Animals"
+    ],
     "hasFormalClass": "Keywords"
   },
   "ww_dc9bd039cd85de9b": {
@@ -5495,8 +5583,8 @@
     "hasLexiaInternalId": "#006887",
     "hasLexiaTitle": "Mellidus = John Marston",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -5524,6 +5612,14 @@
     "hasLexiaInternalId": "#004099",
     "hasLexiaTitle": "fratricide",
     "hasFormalClass": "Plot element"
+  },
+  "ww_c0817d6cf329364b": {
+    "hasLexiaInternalId": "#004254",
+    "hasLexiaTitle": "full of bread",
+    "hasImage": [
+      "Food"
+    ],
+    "hasFormalClass": "Two-word item"
   },
   "ww_89009aa97f04e210": {
     "hasLexiaInternalId": "#032315",
@@ -5560,6 +5656,11 @@
     "hasLexiaInternalId": "#004041",
     "hasLexiaTitle": "That monster custom...",
     "hasFormalClass": "Passage"
+  },
+  "ww_a0d52a10022a1434": {
+    "hasLexiaInternalId": "#004137",
+    "hasLexiaTitle": "assume a virtue if you have it not",
+    "hasFormalClass": "Idea"
   },
   "ww_b61712c981ab81c9": {
     "hasLexiaInternalId": "#004042",
@@ -5674,20 +5775,20 @@
     "hasLexiaTitle": "Aeneas telling Dido about the fall of Troy",
     "hasFormalClass": "Motif with name"
   },
-  "ww_6c8d2777f7c13782": {
+  "ww_af5721f93ed0f63e": {
     "hasLexiaInternalId": "#032513",
-    "hasLexiaTitle": "Ben Jonson&#039;s face",
+    "hasLexiaTitle": "Ben Jonson's face",
     "hasImage": [
       "War of the Theatres"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Motif with name"
   },
   "ww_aa5aeda5828efe00": {
     "hasLexiaInternalId": "#032491",
     "hasLexiaTitle": "Quadratus = John Marston",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -5695,8 +5796,8 @@
     "hasLexiaInternalId": "#032492",
     "hasLexiaTitle": "Lampatho = Ben Jonson",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -5704,9 +5805,9 @@
     "hasLexiaInternalId": "#032497",
     "hasLexiaTitle": "plagiarism",
     "hasImage": [
-      "Persons",
       "Theatre",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Idea"
   },
@@ -5714,8 +5815,8 @@
     "hasLexiaInternalId": "#004998",
     "hasLexiaTitle": "Crispinus = John Marston",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -5751,7 +5852,7 @@
     "hasImage": [
       "War of the Theatres"
     ],
-    "hasFormalClass": "Word"
+    "hasFormalClass": "Motif with name"
   },
   "ww_0ea10843bb62776a": {
     "hasLexiaInternalId": "#032515",
@@ -5903,8 +6004,8 @@
     "hasLexiaInternalId": "#032303",
     "hasLexiaTitle": "women burnt when not useful",
     "hasImage": [
-      "Women",
-      "war, combat"
+      "war, combat",
+      "Women"
     ],
     "hasFormalClass": "Idea"
   },
@@ -5959,11 +6060,6 @@
     "hasLexiaTitle": "Nature's hand shook when she was making",
     "hasFormalClass": "Passage"
   },
-  "ww_da022c3a2d8e7247": {
-    "hasLexiaInternalId": "#007044",
-    "hasLexiaTitle": "Cleopatra",
-    "hasFormalClass": "Name of real person"
-  },
   "ww_9519f7afa6bc4c41": {
     "hasLexiaInternalId": "#006898",
     "hasLexiaTitle": "new heaven and new earth",
@@ -5979,10 +6075,10 @@
     "hasLexiaTitle": "There is no such thing",
     "hasFormalClass": "Phrase"
   },
-  "ww_9fe84ad906320b98": {
-    "hasLexiaInternalId": "#007052",
-    "hasLexiaTitle": "Alexander the Great",
-    "hasFormalClass": "Name of real person"
+  "ww_7d8ffd96e12059a0": {
+    "hasLexiaInternalId": "#006942",
+    "hasLexiaTitle": "Hamlet",
+    "hasFormalClass": "Complete plot"
   },
   "ww_3710618e53963e24": {
     "hasLexiaInternalId": "#004160",
@@ -6017,7 +6113,7 @@
   "ww_382a5651db98b5e4": {
     "hasLexiaInternalId": "#004166",
     "hasLexiaTitle": "iron age returns to Erebus",
-    "hasFormalClass": "Phrase"
+    "hasFormalClass": "Motif with name"
   },
   "ww_e6d71d186dba9aeb": {
     "hasLexiaInternalId": "#007005",
@@ -6051,8 +6147,8 @@
     "hasLexiaInternalId": "#004162",
     "hasLexiaTitle": "making quarries move with song",
     "hasImage": [
-      "Landscape",
-      "Music, dance, song"
+      "Music, dance, song",
+      "Landscape"
     ],
     "hasFormalClass": "Keywords"
   },
@@ -6081,6 +6177,16 @@
       "Sky and wether"
     ],
     "hasFormalClass": "Keywords"
+  },
+  "ww_9afa1ffcb806e88b": {
+    "hasLexiaInternalId": "#004101",
+    "hasLexiaTitle": "Ixion",
+    "hasFormalClass": "Name of fictional character"
+  },
+  "ww_c081abbf7cdbff56": {
+    "hasLexiaInternalId": "#006923",
+    "hasLexiaTitle": "Ixion on the wheel",
+    "hasFormalClass": "Motif with name"
   },
   "ww_53bb0df9e9e71bd8": {
     "hasLexiaInternalId": "#007008",
@@ -6130,14 +6236,14 @@
     "hasLexiaInternalId": "#004073",
     "hasLexiaTitle": "did ever raven sing so",
     "hasImage": [
-      "Music, dance, song",
-      "Birds"
+      "Birds",
+      "Music, dance, song"
     ],
     "hasFormalClass": "Phrase"
   },
-  "ww_06fe8c0eece61961": {
+  "ww_5fabd0e7e49d01f0": {
     "hasLexiaInternalId": "#004071",
-    "hasLexiaTitle": "thanks the exchequer",
+    "hasLexiaTitle": "thanks the exchequer of the poor",
     "hasFormalClass": "Phrase"
   },
   "ww_71667b0e3fbc70e3": {
@@ -6155,13 +6261,9 @@
     "hasLexiaTitle": "malefactions",
     "hasFormalClass": "Word"
   },
-  "ww_c6e4ba4d5b464b3f": {
+  "ww_168415ec8f5d0b4e": {
     "hasLexiaInternalId": "#004169",
-    "hasLexiaTitle": "buttered moon",
-    "hasImage": [
-      "Sky and wether",
-      "Food"
-    ],
+    "hasLexiaTitle": "stewed in their grease",
     "hasFormalClass": "Phrase"
   },
   "ww_7b753fffb0334106": {
@@ -6195,32 +6297,14 @@
     "hasLexiaTitle": "peppercorn",
     "hasFormalClass": "Word"
   },
-  "ww_9e7dd1485a6ca45c": {
-    "hasLexiaInternalId": "#004120",
-    "hasLexiaTitle": "what dreams if death is a sleep",
-    "hasImage": [
-      "Death"
-    ],
-    "hasFormalClass": "Idea"
-  },
-  "ww_f1db93c15b0a7d5d": {
-    "hasLexiaInternalId": "#004105",
-    "hasLexiaTitle": "misty sunrise or sun hidden",
-    "hasFormalClass": "Visual motif"
-  },
   "ww_25015ebaa26345cc": {
     "hasLexiaInternalId": "#004097",
     "hasLexiaTitle": "delight and dole",
     "hasFormalClass": "Phrase"
   },
-  "ww_6bdd4014bd3086fa": {
-    "hasLexiaInternalId": "#004116",
-    "hasLexiaTitle": "eyes like carbuncles",
-    "hasFormalClass": "Phrase"
-  },
-  "ww_2039e08c4dd160ea": {
+  "ww_9cdc82aab11b7391": {
     "hasLexiaInternalId": "#004121",
-    "hasLexiaTitle": "thunder rents the sky",
+    "hasLexiaTitle": "thunder rends the sky",
     "hasImage": [
       "Sky and wether"
     ],
@@ -6333,11 +6417,6 @@
     "hasLexiaTitle": "The Sick Man's Salve",
     "hasFormalClass": "Book title"
   },
-  "ww_9afa1ffcb806e88b": {
-    "hasLexiaInternalId": "#004101",
-    "hasLexiaTitle": "Ixion",
-    "hasFormalClass": "Name of fictional character"
-  },
   "ww_732a9e066737b994": {
     "hasLexiaInternalId": "#005167",
     "hasLexiaTitle": "miser fondly caressing his gold",
@@ -6347,6 +6426,11 @@
     "hasLexiaInternalId": "#006900",
     "hasLexiaTitle": "chafed + boar",
     "hasFormalClass": "Two-word item"
+  },
+  "ww_1a44be5cb691231f": {
+    "hasLexiaInternalId": "#006943",
+    "hasLexiaTitle": "Richard III",
+    "hasFormalClass": "Name of fictional character"
   },
   "ww_df4caccd290f4c83": {
     "hasLexiaInternalId": "#004149",
@@ -6486,9 +6570,9 @@
     ],
     "hasFormalClass": "Idea"
   },
-  "ww_5b6be5b314cd7d5a": {
+  "ww_5b82102691b37f31": {
     "hasLexiaInternalId": "#032339",
-    "hasLexiaTitle": "hunger breaks walls",
+    "hasLexiaTitle": "hunger breaks stone walls",
     "hasFormalClass": "Phrase"
   },
   "ww_94e257a03247caa9": {
@@ -6520,6 +6604,11 @@
     "hasLexiaInternalId": "#030673",
     "hasLexiaTitle": "in a maid that out a maid",
     "hasFormalClass": "Idea"
+  },
+  "ww_6c6105a530b53567": {
+    "hasLexiaInternalId": "#006933",
+    "hasLexiaTitle": "quintessence of dust",
+    "hasFormalClass": "Two-word item"
   },
   "ww_bc17d83d93ad77cd": {
     "hasLexiaInternalId": "#032089",
@@ -6605,6 +6694,11 @@
     "hasLexiaTitle": "scant of breath",
     "hasFormalClass": "Phrase"
   },
+  "ww_d8d08b4783f40c82": {
+    "hasLexiaInternalId": "#007002",
+    "hasLexiaTitle": "Sir Thomas Sackville",
+    "hasFormalClass": "Name of real person"
+  },
   "ww_dfc6002423d1239d": {
     "hasLexiaInternalId": "#030057",
     "hasLexiaTitle": "heaves (plural)",
@@ -6688,6 +6782,11 @@
     "hasLexiaTitle": "quietus",
     "hasFormalClass": "Word"
   },
+  "ww_3cfe1a3ca1a4e484": {
+    "hasLexiaInternalId": "#004119",
+    "hasLexiaTitle": "patient merit or meekness",
+    "hasFormalClass": "Phrase"
+  },
   "ww_00da05f4232d3648": {
     "hasLexiaInternalId": "#004141",
     "hasLexiaTitle": "a knife brings freedom (suicide)",
@@ -6697,6 +6796,11 @@
     "hasLexiaInternalId": "#030758",
     "hasLexiaTitle": "imperious Caesar",
     "hasFormalClass": "Motif with name"
+  },
+  "ww_cec5959cd7cc3bdc": {
+    "hasLexiaInternalId": "#006931",
+    "hasLexiaTitle": "Why may not imagination...",
+    "hasFormalClass": "Passage"
   },
   "ww_23e7960e07aa0d3c": {
     "hasLexiaInternalId": "#030039",
@@ -6800,19 +6904,14 @@
     "hasLexiaTitle": "repentance as last resort",
     "hasFormalClass": "Plot element"
   },
-  "ww_3cfe1a3ca1a4e484": {
-    "hasLexiaInternalId": "#004119",
-    "hasLexiaTitle": "patient merit or meekness",
-    "hasFormalClass": "Phrase"
-  },
   "ww_e2fb7ebfbe361ee7": {
     "hasLexiaInternalId": "#004118",
     "hasLexiaTitle": "mobled",
     "hasFormalClass": "Word"
   },
-  "ww_07389e08c564962c": {
+  "ww_57a3a3d27722672d": {
     "hasLexiaInternalId": "#004117",
-    "hasLexiaTitle": "strumpet fortune",
+    "hasLexiaTitle": "Out, out, thou strumpet fortune",
     "hasFormalClass": "Phrase"
   },
   "ww_3225ec4a65ef701e": {
@@ -6820,9 +6919,9 @@
     "hasLexiaTitle": "Hecuba",
     "hasFormalClass": "Name of fictional character"
   },
-  "ww_9594e78583ac4703": {
-    "hasLexiaInternalId": "#004021",
-    "hasLexiaTitle": "Iago",
+  "ww_3029e3133462e37b": {
+    "hasLexiaInternalId": "#030181",
+    "hasLexiaTitle": "Polonius",
     "hasFormalClass": "Name of fictional character"
   },
   "ww_eb097d7477ee57df": {
@@ -6840,15 +6939,15 @@
     "hasLexiaTitle": "young person would rather lose family than lover",
     "hasFormalClass": "Idea"
   },
-  "ww_07c5a06342b76899": {
-    "hasLexiaInternalId": "#004188",
-    "hasLexiaTitle": "walk and hear people talk",
-    "hasFormalClass": "Keywords"
-  },
   "ww_8ae20e2e104cb8be": {
     "hasLexiaInternalId": "#004211",
     "hasLexiaTitle": "in praesenti",
     "hasFormalClass": "Phrase"
+  },
+  "ww_07c5a06342b76899": {
+    "hasLexiaInternalId": "#004188",
+    "hasLexiaTitle": "walk and hear people talk",
+    "hasFormalClass": "Keywords"
   },
   "ww_ce7245b4d8162d30": {
     "hasLexiaInternalId": "#004189",
@@ -7074,8 +7173,8 @@
     "hasLexiaInternalId": "#004221",
     "hasLexiaTitle": "a wilderness of animals",
     "hasImage": [
-      "Landscape",
-      "Animals"
+      "Animals",
+      "Landscape"
     ],
     "hasFormalClass": "Phrase"
   },
@@ -7099,6 +7198,11 @@
     "hasLexiaInternalId": "#004225",
     "hasLexiaTitle": "Integer vitae, scelerisque purus...",
     "hasFormalClass": "Passage"
+  },
+  "ww_ca85b7777c9f121e": {
+    "hasLexiaInternalId": "@005370",
+    "hasLexiaTitle": "A Short Introduction of Grammar",
+    "hasFormalClass": "Book title"
   },
   "ww_6d34d66c818870c5": {
     "hasLexiaInternalId": "#004227",
@@ -7308,7 +7412,7 @@
     "hasImage": [
       "War of the Theatres"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Motif with name"
   },
   "ww_c7b21d53ee152abf": {
     "hasLexiaInternalId": "@001296",
@@ -7325,13 +7429,18 @@
     "hasLexiaTitle": "Salt-peter",
     "hasFormalClass": "Two-word item"
   },
+  "ww_cc05e82e24dccac8": {
+    "hasLexiaInternalId": "@005110",
+    "hasLexiaTitle": "Songs and Sonnets",
+    "hasFormalClass": "Book title"
+  },
   "ww_91d3ca78bb029b3b": {
     "hasLexiaInternalId": "#032514",
     "hasLexiaTitle": "Ben Jonson vs the law",
     "hasImage": [
       "War of the Theatres"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Motif with name"
   },
   "ww_d83394e99ee7015f": {
     "hasLexiaInternalId": "#032338",
@@ -7449,9 +7558,9 @@
     "hasLexiaInternalId": "#032498",
     "hasLexiaTitle": "Ben Jonson being a slow writer",
     "hasImage": [
-      "Persons",
       "Theatre",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Motif with name"
   },
@@ -7570,9 +7679,9 @@
     "hasLexiaTitle": "Cujus livida naribus caninis...",
     "hasFormalClass": "Passage"
   },
-  "ww_0ec8f8c12cad0c22": {
+  "ww_8962a9dc3bf00b83": {
     "hasLexiaInternalId": "#032317",
-    "hasLexiaTitle": "Let us not be ashamed to speak what we are not ashamed to think",
+    "hasLexiaTitle": "not be ashamed to speak what we are not ashamed to think",
     "hasFormalClass": "Phrase"
   },
   "ww_04d879db8b0bf6b2": {
@@ -7809,20 +7918,10 @@
     "hasLexiaTitle": "Primero",
     "hasFormalClass": "Name of fictional character"
   },
-  "ww_7d21c5d21b2e2146": {
-    "hasLexiaInternalId": "#004348",
-    "hasLexiaTitle": "Scan the outward for the inward...",
-    "hasFormalClass": "Passage"
-  },
   "ww_3cbe2385db5b2eae": {
     "hasLexiaInternalId": "#004290",
     "hasLexiaTitle": "Still to be neat...",
     "hasFormalClass": "Passage"
-  },
-  "ww_582034542c5886c2": {
-    "hasLexiaInternalId": "#004341",
-    "hasLexiaTitle": "Tarquin",
-    "hasFormalClass": "Name of fictional character"
   },
   "ww_c655bf9a9b77d14f": {
     "hasLexiaInternalId": "#004417",
@@ -7928,8 +8027,8 @@
     "hasLexiaInternalId": "#004210",
     "hasLexiaTitle": "mountain giving birth to mouse",
     "hasImage": [
-      "Landscape",
-      "Animals"
+      "Animals",
+      "Landscape"
     ],
     "hasFormalClass": "Keywords"
   },
@@ -8023,6 +8122,21 @@
     "hasLexiaTitle": "Destruction o ertakes as often...",
     "hasFormalClass": "Passage"
   },
+  "ww_88551b20c4abfe58": {
+    "hasLexiaInternalId": "#007056",
+    "hasLexiaTitle": "Francis Quarles",
+    "hasFormalClass": "Name of real person"
+  },
+  "ww_032be12be6c670d4": {
+    "hasLexiaInternalId": "#007057",
+    "hasLexiaTitle": "George Wither",
+    "hasFormalClass": "Name of real person"
+  },
+  "ww_6cd5bd4206c749bd": {
+    "hasLexiaInternalId": "#007058",
+    "hasLexiaTitle": "Jacob Cats",
+    "hasFormalClass": "Name of real person"
+  },
   "ww_b09fca7c05688624": {
     "hasLexiaInternalId": "#004471",
     "hasLexiaTitle": "your sight dear friend...",
@@ -8043,6 +8157,16 @@
     "hasLexiaTitle": "She that through force her limbs...",
     "hasFormalClass": "Passage"
   },
+  "ww_958fe05c641edbf8": {
+    "hasLexiaInternalId": "#006935",
+    "hasLexiaTitle": "Portia",
+    "hasFormalClass": "Name of fictional character"
+  },
+  "ww_122b4e8c600625b0": {
+    "hasLexiaInternalId": "#006936",
+    "hasLexiaTitle": "Portia&#039;s suicide by coals",
+    "hasFormalClass": "Motif with name"
+  },
   "ww_0890ad930d185637": {
     "hasLexiaInternalId": "#004477",
     "hasLexiaTitle": "Sooner hard steel will melt...",
@@ -8059,7 +8183,7 @@
     "hasImage": [
       "Landscape"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Visual motif"
   },
   "ww_4781100e11ba00bc": {
     "hasLexiaInternalId": "#004472",
@@ -8123,7 +8247,7 @@
     "hasImage": [
       "Time"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Phrase"
   },
   "ww_5319ac9d55115915": {
     "hasLexiaInternalId": "#032473",
@@ -8242,22 +8366,9 @@
     "hasLexiaTitle": "be slow to speak and to be angry",
     "hasFormalClass": "Idea"
   },
-  "ww_c0817d6cf329364b": {
-    "hasLexiaInternalId": "#004254",
-    "hasLexiaTitle": "full of bread",
-    "hasImage": [
-      "Food"
-    ],
-    "hasFormalClass": "Passage"
-  },
-  "ww_4afe99b79b4baa1f": {
-    "hasLexiaInternalId": "#004276",
-    "hasLexiaTitle": "mote or beam in one's ey",
-    "hasFormalClass": "Keywords"
-  },
-  "ww_f8620223f0b4c659": {
+  "ww_f8a9a090d6d9aa96": {
     "hasLexiaInternalId": "#004280",
-    "hasLexiaTitle": "throw away bad part of courself to save your soul",
+    "hasLexiaTitle": "throw away bad part of yourself to save your soul",
     "hasFormalClass": "Idea"
   },
   "ww_84c1b55d35b8e32d": {
@@ -8417,8 +8528,8 @@
     "hasLexiaInternalId": "#032429",
     "hasLexiaTitle": "higher power stealing after someone trying to hit",
     "hasImage": [
-      "Love",
-      "Death"
+      "Death",
+      "Love"
     ],
     "hasFormalClass": "Idea"
   },
@@ -8464,10 +8575,10 @@
     ],
     "hasFormalClass": "Phrase"
   },
-  "ww_6fdbb7b1d726d881": {
+  "ww_01f84ee4e45a7461": {
     "hasLexiaInternalId": "#032446",
-    "hasLexiaTitle": "hell + pluto + passport",
-    "hasFormalClass": "Keywords"
+    "hasLexiaTitle": "hell + Pluto + passport",
+    "hasFormalClass": "Motif with name"
   },
   "ww_32e26995a63ab93a": {
     "hasLexiaInternalId": "#006375",
@@ -8497,7 +8608,7 @@
       "Sky and wether",
       "Women"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Motif with name"
   },
   "ww_7d7156ddea5095e4": {
     "hasLexiaInternalId": "#004491",
@@ -8513,11 +8624,6 @@
     "hasLexiaInternalId": "#032477",
     "hasLexiaTitle": "Mother Bombie",
     "hasFormalClass": "Name of fictional character"
-  },
-  "ww_1fa036f55b8b5dfe": {
-    "hasLexiaInternalId": "#032464",
-    "hasLexiaTitle": "Why then lament therefore",
-    "hasFormalClass": "Phrase"
   },
   "ww_82884fb15d584126": {
     "hasLexiaInternalId": "#032470",
@@ -8540,6 +8646,9 @@
   "ww_06332e8feb36ec44": {
     "hasLexiaInternalId": "#006271",
     "hasLexiaTitle": "kite or bird of prey",
+    "hasImage": [
+      "Birds"
+    ],
     "hasFormalClass": "Kite cluster"
   },
   "ww_59a2f288e97f33f3": {
@@ -8552,10 +8661,10 @@
     "hasLexiaTitle": "death",
     "hasFormalClass": "Kite cluster"
   },
-  "ww_a84a050b108759c5": {
+  "ww_33bc16e628ed786b": {
     "hasLexiaInternalId": "#032476",
-    "hasLexiaTitle": "Eleonor sinking at Charing Cross and rising again at Queenhith",
-    "hasFormalClass": "Visual motif"
+    "hasLexiaTitle": "Eleanor sinking at Charing Cross and rising again at Queenhith",
+    "hasFormalClass": "Motif with name"
   },
   "ww_7085bd2554e750f4": {
     "hasLexiaInternalId": "#032478",
@@ -8639,11 +8748,16 @@
     "hasLexiaTitle": "Aurum potabile",
     "hasFormalClass": "Two-word item"
   },
+  "ww_1fa036f55b8b5dfe": {
+    "hasLexiaInternalId": "#032464",
+    "hasLexiaTitle": "Why then lament therefore",
+    "hasFormalClass": "Phrase"
+  },
   "ww_75a059df9fb0eeae": {
     "hasLexiaInternalId": "#032465",
     "hasLexiaTitle": "For (birds) must have food",
     "hasImage": [
-      "Animals"
+      "Birds"
     ],
     "hasFormalClass": "Phrase"
   },
@@ -8654,6 +8768,11 @@
       "education"
     ],
     "hasFormalClass": "Scene"
+  },
+  "ww_577baa1912962088": {
+    "hasLexiaInternalId": "#006929",
+    "hasLexiaTitle": "lapis as stone + number of nouns",
+    "hasFormalClass": "Keywords"
   },
   "ww_2b69457b524cf5e4": {
     "hasLexiaInternalId": "#006252",
@@ -8770,6 +8889,11 @@
     ],
     "hasFormalClass": "Phrase"
   },
+  "ww_97eeadeeff6cfb73": {
+    "hasLexiaInternalId": "#006953",
+    "hasLexiaTitle": "get out of jail + Babylon",
+    "hasFormalClass": "Motif with name"
+  },
   "ww_2c1e18b74b1c1e26": {
     "hasLexiaInternalId": "#007032",
     "hasLexiaTitle": "Samuel Daniel",
@@ -8828,6 +8952,11 @@
     "hasLexiaTitle": "Every Man Out of His Humour",
     "hasFormalClass": "Book title"
   },
+  "ww_e30c5b9bf1f2dce9": {
+    "hasLexiaInternalId": "#007059",
+    "hasLexiaTitle": "Sextus Propertius",
+    "hasFormalClass": "Name of real person"
+  },
   "ww_a3ff724d39be9ea3": {
     "hasLexiaInternalId": "#007045",
     "hasLexiaTitle": "Albius Tibullus",
@@ -8841,6 +8970,11 @@
       "War of the Theatres"
     ],
     "hasFormalClass": "Two-word item"
+  },
+  "ww_5879d3804491949e": {
+    "hasLexiaInternalId": "#032409",
+    "hasLexiaTitle": "Crispinus",
+    "hasFormalClass": "Name of fictional character"
   },
   "ww_8f03a156b2ce5b62": {
     "hasLexiaInternalId": "#032370",
@@ -8877,10 +9011,10 @@
     "hasLexiaTitle": "The Faerie Queene",
     "hasFormalClass": "Book title"
   },
-  "ww_a09be19aff3214cd": {
-    "hasLexiaInternalId": "@005029",
-    "hasLexiaTitle": "Euphues, The Anatomy of Wit",
-    "hasFormalClass": "Book title"
+  "ww_a0c3ee2221357790": {
+    "hasLexiaInternalId": "@006940",
+    "hasLexiaTitle": "Euphues",
+    "hasFormalClass": "Name of fictional character"
   },
   "ww_2ad8b8d19716f9d6": {
     "hasLexiaInternalId": "#007027",
@@ -8922,17 +9056,12 @@
     "hasLexiaTitle": "Thomas Nashe",
     "hasFormalClass": "Name of real person"
   },
-  "ww_268bd0268aabebb6": {
-    "hasLexiaInternalId": "@000950",
-    "hasLexiaTitle": "Richard III",
-    "hasFormalClass": "Book title"
-  },
   "ww_8f2d9c1d567b37db": {
     "hasLexiaInternalId": "#032428",
     "hasLexiaTitle": "Furor Poeticus = John Marston",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -8979,6 +9108,11 @@
       "Women"
     ],
     "hasFormalClass": "Idea"
+  },
+  "ww_79605a5615ea760c": {
+    "hasLexiaInternalId": "#006939",
+    "hasLexiaTitle": "Rarus enim ferme sensus communis in illa Fortuna",
+    "hasFormalClass": "Phrase"
   },
   "ww_04c08ed4ebd7f2e3": {
     "hasLexiaInternalId": "#032406",
@@ -9100,15 +9234,15 @@
     "hasImage": [
       "Other Current events"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Motif with name"
   },
-  "ww_3845591856ced7f7": {
+  "ww_ba263caabc31778a": {
     "hasLexiaInternalId": "#006254",
-    "hasLexiaTitle": "Shakespeare&#039;s coat of arms",
+    "hasLexiaTitle": "Shakespeare's coat of arms",
     "hasImage": [
       "Other Current events"
     ],
-    "hasFormalClass": "Idea"
+    "hasFormalClass": "Motif with name"
   },
   "ww_44f0f0d1717e727b": {
     "hasLexiaInternalId": "#032467",
@@ -9131,11 +9265,6 @@
   "ww_30f1eb33468c8c81": {
     "hasLexiaInternalId": "@000928",
     "hasLexiaTitle": "Titus Andronicus",
-    "hasFormalClass": "Book title"
-  },
-  "ww_7b21fd0f9cd88f3d": {
-    "hasLexiaInternalId": "@000389",
-    "hasLexiaTitle": "Damon and Pythias",
     "hasFormalClass": "Book title"
   },
   "ww_f23b89dbe282ca31": {
@@ -9183,11 +9312,6 @@
     "hasLexiaTitle": "lampreys have no bones in their back",
     "hasFormalClass": "Idea"
   },
-  "ww_caa49dec3ed51af7": {
-    "hasLexiaInternalId": "#006251",
-    "hasLexiaTitle": "poor man&#039;s exchequer",
-    "hasFormalClass": "Phrase"
-  },
   "ww_05cde5dd03b39248": {
     "hasLexiaInternalId": "#006270",
     "hasLexiaTitle": "steeple-house = church",
@@ -9203,15 +9327,20 @@
     "hasLexiaTitle": "silly constable - what if they will not stand?",
     "hasFormalClass": "Scene"
   },
-  "ww_42720eee99d14771": {
-    "hasLexiaInternalId": "@000784",
-    "hasLexiaTitle": "Tamburlaine Part 1",
+  "ww_34aba6698fd69426": {
+    "hasLexiaInternalId": "@005547",
+    "hasLexiaTitle": "The Book of Martyrs (Fox)",
     "hasFormalClass": "Book title"
   },
-  "ww_221a9f1a866babc1": {
-    "hasLexiaInternalId": "@000789",
-    "hasLexiaTitle": "Tamburlaine Part 2",
-    "hasFormalClass": "Book title"
+  "ww_3f6da3006d975761": {
+    "hasLexiaInternalId": "#007059",
+    "hasLexiaTitle": "Bianca Maria, Countess of Challant",
+    "hasFormalClass": "Name of real person"
+  },
+  "ww_c5be6156623e814a": {
+    "hasLexiaInternalId": "#006927",
+    "hasLexiaTitle": "prevent a marriage",
+    "hasFormalClass": "Idea"
   },
   "ww_0e90950f88cb2ae0": {
     "hasLexiaInternalId": "#006916",
@@ -9251,10 +9380,35 @@
     ],
     "hasFormalClass": "Two-word item"
   },
+  "ww_b0edcf220919ae09": {
+    "hasLexiaInternalId": "#004485",
+    "hasLexiaTitle": "Aeolus",
+    "hasFormalClass": "Name of fictional character"
+  },
+  "ww_69212abf3823a615": {
+    "hasLexiaInternalId": "#004239",
+    "hasLexiaTitle": "mutilating rape victim so she cannot tell",
+    "hasFormalClass": "Plot element"
+  },
   "ww_35e3bac264b8627e": {
     "hasLexiaInternalId": "#006380",
     "hasLexiaTitle": "kill with kindness",
     "hasFormalClass": "Two-word item"
+  },
+  "ww_6c6d3c7d019db398": {
+    "hasLexiaInternalId": "#006947",
+    "hasLexiaTitle": "Montagues and Capulets",
+    "hasFormalClass": "Name of fictional character"
+  },
+  "ww_823901bdeb2718b6": {
+    "hasLexiaInternalId": "#006925",
+    "hasLexiaTitle": "Thou wilt not utter what thou dost not know",
+    "hasFormalClass": "Phrase"
+  },
+  "ww_5cd24a4abcf5c60f": {
+    "hasLexiaInternalId": "#006926",
+    "hasLexiaTitle": "guessing at problems from troubled sleep",
+    "hasFormalClass": "Idea"
   },
   "ww_f363045a66e9e721": {
     "hasLexiaInternalId": "#006888",
@@ -9276,21 +9430,44 @@
     "hasLexiaTitle": "Bartholomew Fair",
     "hasFormalClass": "Book title"
   },
+  "ww_ef3bd6524a085afb": {
+    "hasLexiaInternalId": "#006938",
+    "hasLexiaTitle": "green skin and pointed nose as signs of death",
+    "hasFormalClass": "Idea"
+  },
   "ww_f650b20720dabc17": {
     "hasLexiaInternalId": "#032493",
     "hasLexiaTitle": "Asper = Ben Jonson",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
+  },
+  "ww_4a863177e5680117": {
+    "hasLexiaInternalId": "#006928",
+    "hasLexiaTitle": "Richard Burbage&#039;s short stature",
+    "hasFormalClass": "Epithet for real person"
+  },
+  "ww_df66d405a6e170f7": {
+    "hasLexiaInternalId": "#006930",
+    "hasLexiaTitle": "A man may fish with a worm...",
+    "hasImage": [
+      "Animals"
+    ],
+    "hasFormalClass": "Passage"
+  },
+  "ww_3239fe48127a8e80": {
+    "hasLexiaInternalId": "#004129",
+    "hasLexiaTitle": "won't embarrass friend by praise",
+    "hasFormalClass": "Visual motif"
   },
   "ww_05cf76f0b450bd72": {
     "hasLexiaInternalId": "#032486",
     "hasLexiaTitle": "Should I care what every Dor...",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Passage"
   },
@@ -9298,8 +9475,8 @@
     "hasLexiaInternalId": "#032487",
     "hasLexiaTitle": "The one, a light voluptuous reveller...",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Passage"
   },
@@ -9307,8 +9484,8 @@
     "hasLexiaInternalId": "#032488",
     "hasLexiaTitle": "Criticus = Ben Jonson",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -9324,8 +9501,8 @@
     "hasLexiaInternalId": "#006886",
     "hasLexiaTitle": "Chrysogonus = Ben Jonson",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -9333,8 +9510,8 @@
     "hasLexiaInternalId": "#006885",
     "hasLexiaTitle": "Brabant Senior = Ben Jonson",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -9342,8 +9519,8 @@
     "hasLexiaInternalId": "#006899",
     "hasLexiaTitle": "Decius = Thomas Dekker",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -9367,6 +9544,11 @@
     "hasLexiaTitle": "William Sly",
     "hasFormalClass": "Name of real person"
   },
+  "ww_466c14fa6ea3f274": {
+    "hasLexiaInternalId": "#006918",
+    "hasLexiaTitle": "The Dutch Courtesan",
+    "hasFormalClass": "Complete plot"
+  },
   "ww_5ed1fd2747681624": {
     "hasLexiaInternalId": "#006902",
     "hasLexiaTitle": "woo successfully as a soldier",
@@ -9376,6 +9558,11 @@
     "hasLexiaInternalId": "#006907",
     "hasLexiaTitle": "virtue perforce is vice",
     "hasFormalClass": "Phrase"
+  },
+  "ww_a0530b235d4a403e": {
+    "hasLexiaInternalId": "#006952",
+    "hasLexiaTitle": "Cupid's Parlament",
+    "hasFormalClass": "Plot element"
   },
   "ww_2f0db435ad478791": {
     "hasLexiaInternalId": "#006912",
@@ -9401,6 +9588,27 @@
     "hasLexiaInternalId": "#006915",
     "hasLexiaTitle": "horse or chariot",
     "hasFormalClass": "Wax cluster"
+  },
+  "ww_ed0e115c4b91604f": {
+    "hasLexiaInternalId": "#006945",
+    "hasLexiaTitle": "willow symbolizing forsaken lovers",
+    "hasImage": [
+      "Plants"
+    ],
+    "hasFormalClass": "Visual motif"
+  },
+  "ww_2c9a152d7e611d30": {
+    "hasLexiaInternalId": "#006946",
+    "hasLexiaTitle": "cypress symbolizing death",
+    "hasImage": [
+      "Plants"
+    ],
+    "hasFormalClass": "Visual motif"
+  },
+  "ww_23c36730438435e6": {
+    "hasLexiaInternalId": "#006951",
+    "hasLexiaTitle": "Christ&#039;s blood washing away sins",
+    "hasFormalClass": "Idea"
   },
   "ww_b1f958d1c4232a0c": {
     "hasLexiaInternalId": "#007031",
@@ -9429,8 +9637,8 @@
     "hasLexiaInternalId": "#006907",
     "hasLexiaTitle": "Anthony Munday = Nuntius",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
@@ -9443,14 +9651,43 @@
     "hasLexiaInternalId": "#006909",
     "hasLexiaTitle": "Playwright = John Marston",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person"
   },
-  "ww_466c14fa6ea3f274": {
-    "hasLexiaInternalId": "#006918",
-    "hasLexiaTitle": "The Dutch Courtesan",
+  "ww_8e98a4e7ca19dec6": {
+    "hasLexiaInternalId": "#007055",
+    "hasLexiaTitle": "Richard Robinson",
+    "hasFormalClass": "Name of real person"
+  },
+  "ww_cffc4a97a8d6fd1c": {
+    "hasLexiaInternalId": "#006934",
+    "hasLexiaTitle": "Orestes",
+    "hasFormalClass": "Name of fictional character"
+  },
+  "ww_3f5eb87b825173a7": {
+    "hasLexiaInternalId": "#006932",
+    "hasLexiaTitle": "philosopher, carries all she has",
+    "hasFormalClass": "Keywords"
+  },
+  "ww_0d58fd710605ca5f": {
+    "hasLexiaInternalId": "#007054",
+    "hasLexiaTitle": "Joseph Taylor",
+    "hasFormalClass": "Name of real person"
+  },
+  "ww_2335548ab70ac2e4": {
+    "hasLexiaInternalId": "#006924",
+    "hasLexiaTitle": "Moltecarni = Ben Jonson",
+    "hasImage": [
+      "War of the Theatres",
+      "Persons"
+    ],
+    "hasFormalClass": "Epithet for real person"
+  },
+  "ww_caf8fd224d9f19ef": {
+    "hasLexiaInternalId": "#006944",
+    "hasLexiaTitle": "Thomaso",
     "hasFormalClass": "Complete plot"
   }
 }

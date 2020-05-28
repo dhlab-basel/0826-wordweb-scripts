@@ -15,6 +15,8 @@ import helper_lexia as lex
 import helper_comp_venue as comp_ven
 # helper for passage
 import helper_passage as pas
+# helper for comments
+import helper_comment as comment
 # my id generator
 import id_generator as id
 # my json handler
@@ -188,7 +190,7 @@ def create_book(b_id, data_row, pub_info, pub_or_info, dates):
     books[b_id] = book
 
 
-def update_book(b_id, auth_names, pub_info, ven_id, comp_id, gen, sub, lex_id):
+def update_book(b_id, auth_names, pub_info, ven_id, comp_id, gen, sub, lex_id, com):
     if auth_names:
         # Iterates through the names per entry
         for auth_name in auth_names:
@@ -243,6 +245,9 @@ def update_book(b_id, auth_names, pub_info, ven_id, comp_id, gen, sub, lex_id):
     if lex_id:
         books[b_id]["isLexiaBook"] = lex_id
 
+    if com and "hasBookComment" in com and "hasBookComment" not in books[b_id]:
+            books[b_id]["hasBookComment"] = com["hasBookComment"]
+
 
 def create_sec_book(sec_b_id, pub_info):
     book = {
@@ -282,7 +287,7 @@ def update_sec_book(sec_b_id, auth_names):
         books[sec_b_id]["isWrittenBy"] = list(temp)
 
 
-def create_passage(pa_id, dis_tit, text, text_or, pub, pub_or, com):
+def create_passage(pa_id, dis_tit, text, text_or, pub, pub_or):
     passage = {
         "hasText": text,
         "occursIn": [],
@@ -302,13 +307,10 @@ def create_passage(pa_id, dis_tit, text, text_or, pub, pub_or, com):
     if "page" in pub_or:
         passage["hasPageHist"] = pub_or["page"]
 
-    if com:
-        passage["hasPublicComment"] = com
-
     passages[pa_id] = passage
 
 
-def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, stat, mark):
+def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, stat, mark, com):
     if bo_id:
         temp = set(passages[pa_id]["occursIn"])
         temp.add(bo_id)
@@ -348,6 +350,9 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, sta
         temp = set(passages[pa_id]["hasMarking"])
         temp.add(mark)
         passages[pa_id]["hasMarking"] = list(temp)
+
+    if com and "hasPassageComment" in com:
+            passages[pa_id]["hasPassageComment"] = com["hasPassageComment"]
 
 
 def create_sec_passage(sec_pa_id, pag, dis_tit):
@@ -670,33 +675,36 @@ def start():
                         if book_id not in books:
                             create_book(book_id, row, publication, publication_original, allBooks[book_id])
 
-                        # Updates the author references and genre
-                        update_book(book_id, names, publication, None, None, row[18], None, None)
+                        # Comments
+                        comments = comment.info(row[11])
 
-                        # ------------- PASSAGE - Part I
+                        # Updates the author references, genre and comment
+                        update_book(book_id, names, publication, None, None, row[18], None, None, comments)
+
+                        # ------------- PASSAGE
                         # generates passage id
                         passage_id = id.generate(row[10])
 
                         # Creates the passage and updates the edition reference
                         if passage_id not in passages:
-                            create_passage(passage_id, row[3], row[10], row[25], publication, publication_original, row[11])
+                            create_passage(passage_id, row[3], row[10], row[25], publication, publication_original)
 
-                        # Updates the book reference
-                        update_passage(passage_id, book_id, None, None, None, None, None, None, None)
+                        # Updates the book reference and passage comment
+                        update_passage(passage_id, book_id, None, None, None, None, None, None, None, comments)
 
                         # Multiple subjects
                         subjects = row[19].split(" / ")
 
                         for subject in subjects:
-                            update_book(book_id, None, None, None, None, None, subject, None)
+                            update_book(book_id, None, None, None, None, None, subject, None, None)
 
                         # Updating status for a passage
                         if row[1] == "ok":
-                            update_passage(passage_id, None, None, None, None, None, None, "plausible", None)
+                            update_passage(passage_id, None, None, None, None, None, None, "plausible", None, None)
                         elif row[1] == "provisional":
-                            update_passage(passage_id, None, None, None, None, None, None, "weak", None)
+                            update_passage(passage_id, None, None, None, None, None, None, "weak", None, None)
                         elif row[1] == "unedited":
-                            update_passage(passage_id, None, None, None, None, None, None, "plausible", None)
+                            update_passage(passage_id, None, None, None, None, None, None, "plausible", None, None)
 
                         # Function voice
                         f_voices = row[21].split(" / ")
@@ -707,14 +715,14 @@ def start():
                                 narratives = row[20].split(" / ")
 
                                 for narrative in narratives:
-                                    update_passage(passage_id, None, None, None, None, None, narrative, None, None)
+                                    update_passage(passage_id, None, None, None, None, None, narrative, None, None, None)
                             elif f_voice == "BODY OF TEXT" and not row[20]:
-                                update_passage(passage_id, None, None, None, None, None, "Not defined", None, None)
+                                update_passage(passage_id, None, None, None, None, None, "Not defined", None, None, None)
                             elif not f_voice and row[20]:
                                 print("FAIL - No function but narrative", row[20], csv_file, line)
                                 raise SystemExit(0)
                             else:
-                                update_passage(passage_id, None, None, None, None, None, f_voice, None, None)
+                                update_passage(passage_id, None, None, None, None, None, f_voice, None, None, None)
 
                         # Evaluates markings
                         # Checks if column is empty and sets unmarked
@@ -722,7 +730,7 @@ def start():
                         author_value = "Author unmarked" if not row[17] else row[17]
 
                         if (work_value == "Work unmarked" and author_value == "Author unmarked" and not row[22]) or (work_value == "Work unmarked" and author_value == "Author unmarked" and row[22] == "Local reference"):
-                            update_passage(passage_id, None, None, None, None, None, None, None, "Unmarked")
+                            update_passage(passage_id, None, None, None, None, None, None, None, "Unmarked", None)
                         else:
 
                             if work_value != "Work unmarked":
@@ -731,16 +739,16 @@ def start():
                                     work_marked = row[16].split(" / ")
 
                                     for w_m in work_marked:
-                                        update_passage(passage_id, None, None, None, None, None, None, None, w_m)
+                                        update_passage(passage_id, None, None, None, None, None, None, None, w_m, None)
                                 else:
-                                    update_passage(passage_id, None, None, None, None, None, None, None, work_value)
+                                    update_passage(passage_id, None, None, None, None, None, None, None, work_value, None)
 
                             if author_value != "Author unmarked":
-                                update_passage(passage_id, None, None, None, None, None, None, None, author_value)
+                                update_passage(passage_id, None, None, None, None, None, None, None, author_value, None)
 
                             if row[22]:
                                 for marking in pas.get_marking(row[22]):
-                                    update_passage(passage_id, None, None, None, None, None, None, None, marking)
+                                    update_passage(passage_id, None, None, None, None, None, None, None, marking, None)
 
 
                         # ------------- CONTRIBUTOR
@@ -757,14 +765,14 @@ def start():
                             create_contributor(contributor_id)
 
                         # Updates the contributor reference
-                        update_passage(passage_id, None, contributor_id, None, None, None, None, None, None)
+                        update_passage(passage_id, None, contributor_id, None, None, None, None, None, None, None)
 
                         # -------------- SECONDARY BOOK
                         sec_books = sec.info(row[24], line, csv_file)
 
                         # Sets the research field "Reading" when there is no sec books
                         if len(sec_books) == 0:
-                            update_passage(passage_id, None, None, None, None, "Reading", None, None, None)
+                            update_passage(passage_id, None, None, None, None, "Reading", None, None, None, None)
 
                         for sec_book in sec_books:
 
@@ -782,11 +790,11 @@ def start():
 
                             # Sets the default research field
                             if not s_book["hasGenre"] == "Previous Research":
-                                update_passage(passage_id, None, None, None, None, "Electronic Search", None, None, None)
+                                update_passage(passage_id, None, None, None, None, "Electronic Search", None, None, None, None)
 
                             # Sets the research field
                             if not "Fulltext database" in s_book["hasGenre"]:
-                                update_passage(passage_id, None, None, None, None, "Previous Research", None, None,None)
+                                update_passage(passage_id, None, None, None, None, "Previous Research", None, None,None, None)
 
                             # Updates the authors reference
                             update_sec_book(sec_book_id, s_book["authors"])
@@ -797,7 +805,7 @@ def start():
 
                             create_sec_passage(sec_passage_id, sec_book["page"], s_book["hasDisplayedTitle"])
                             update_sec_passage(sec_passage_id, sec_book_id)
-                            update_passage(passage_id, None, None, sec_passage_id, None, None, None, None, None)
+                            update_passage(passage_id, None, None, sec_passage_id, None, None, None, None, None, None)
 
                         # --------------- LEXIA
                         # Multiple names of authors
@@ -820,7 +828,7 @@ def start():
                                 create_lexia(lexia_id, le)
 
                             # Updates the lexia reference
-                            update_passage(passage_id, None, None, None, lexia_id, None, None, None, None)
+                            update_passage(passage_id, None, None, None, lexia_id, None, None, None, None, None)
 
                             isLexiaAuthor = id.generate(le["hasLexiaTitle"])
                             if isLexiaAuthor in authors:
@@ -832,7 +840,7 @@ def start():
                             isLexiaBookVenue = id.generate(key)
 
                             if isLexiaBookVenue in books:
-                                update_book(isLexiaBookVenue, None, None, None, None, None, None, lexia_id)
+                                update_book(isLexiaBookVenue, None, None, None, None, None, None, lexia_id, None)
 
                             if isLexiaBookVenue in venues:
                                 update_venue(isLexiaBookVenue, lexia_id)
@@ -857,7 +865,7 @@ def start():
                                         create_venue(venue_id, comp_ven_data)
 
                                     # Updates the venue reference
-                                    update_book(book_id, None, None, venue_id, None, None, None, None)
+                                    update_book(book_id, None, None, venue_id, None, None, None, None, None)
 
                                 elif type is "company":
                                     company_id = id.generate(comp_ven_data["hasCompanyInternalId"])
@@ -869,10 +877,7 @@ def start():
                                         create_company(company_id, comp_ven_data)
 
                                     # Updates the company reference
-                                    update_book(book_id, None, None, None, company_id, None, None, None)
-
-                                else:
-                                    print("FAIL Venue or Company", type, line, csv_file)
+                                    update_book(book_id, None, None, None, company_id, None, None, None, None)
 
                         # --------------- ACTORS
                         if row[14]:

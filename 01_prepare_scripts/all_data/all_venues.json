@@ -111,9 +111,9 @@
     "venueInternalId": "#008028",
     "hasPlaceVenue": "Somerset House"
   },
-  "ww_cb6afeb22cebd39a": {
+  "ww_1b18c73c1b772771": {
     "venueInternalId": "#008029",
-    "hasPlaceVenue": "Kings College"
+    "hasPlaceVenue": "King's College"
   },
   "ww_b3259a44e5c16258": {
     "venueInternalId": "#008030",
@@ -134,5 +134,9 @@
   "ww_0565fbd7107ad14a": {
     "venueInternalId": "#008034",
     "hasPlaceVenue": "Banqueting House, Whitehall"
+  },
+  "ww_f300ec18d43b5041": {
+    "venueInternalId": "#008035",
+    "hasPlaceVenue": "Middle Temple"
   }
 }

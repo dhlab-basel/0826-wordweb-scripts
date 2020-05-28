@@ -291,9 +291,9 @@
     "hasBookInternalId": "@001522",
     "sql": 412
   },
-  "ww_4699bce2e8308213": {
+  "ww_cfaa8310c486aab4": {
     "firstPerformanceExact": "1593",
-    "hasBookTitle": "The Massacre at Paris",
+    "hasBookTitle": "The Massacre at Paris BIS HIER",
     "hasBookInternalId": "@000947",
     "sql": 413
   },
@@ -321,10 +321,10 @@
     "hasBookInternalId": "@001002",
     "sql": 417
   },
-  "ww_64eca0842de6be0a": {
+  "ww_6a4c31642f9771c5": {
     "firstPerformanceExact": "1596",
     "publicationExact": "1598",
-    "hasBookTitle": "Love's Labours Lost",
+    "hasBookTitle": "Love's Labour's Lost",
     "hasBookInternalId": "@001031",
     "sql": 418
   },
@@ -1157,10 +1157,10 @@
     "hasBookInternalId": "@001314",
     "sql": 551
   },
-  "ww_c9aefa5c0c4d263b": {
+  "ww_f5ed4991a0641cfe": {
     "firstPerformanceExact": "1601",
     "publicationExact": "1602",
-    "hasBookTitle": " Satiromastix, The Untrussing of the Humorous Po",
+    "hasBookTitle": " Satiromastix, Untrussing of the Humorous Poet",
     "hasBookInternalId": "@001304",
     "sql": 552
   },
@@ -1367,8 +1367,8 @@
     "hasBookInternalId": "@005047",
     "sql": 601
   },
-  "ww_be71f61ca94dc3b0": {
-    "hasBookTitle": "Poetical works of John Skelton",
+  "ww_df7afacd3fecd970": {
+    "hasBookTitle": "The Garland or Chaplet of Laurel",
     "hasBookInternalId": "@005048",
     "sql": 602
   },
@@ -1463,8 +1463,8 @@
     "hasBookInternalId": "@001704",
     "sql": 625
   },
-  "ww_6db63bed313c62e3": {
-    "hasBookTitle": "Poems Divine, Moral and Satyrical",
+  "ww_da6ff3f49412d5de": {
+    "hasBookTitle": "Poems Divine, Moral and Satyrical (Richards)",
     "hasBookInternalId": "@005056",
     "sql": 626
   },
@@ -1508,8 +1508,8 @@
     "hasBookInternalId": "@005604",
     "sql": 635
   },
-  "ww_8aa6f5e10fd4f01b": {
-    "hasBookTitle": "Plume Manuscript",
+  "ww_2289d665d14e837a": {
+    "hasBookTitle": "Plume MS",
     "hasBookInternalId": "@005061",
     "sql": 636
   },
@@ -1782,11 +1782,6 @@
     "hasBookInternalId": "@005105",
     "sql": 705
   },
-  "ww_063ca13ada973083": {
-    "hasBookTitle": "Brevissima Institutio",
-    "hasBookInternalId": "@005106",
-    "sql": 706
-  },
   "ww_14a3181d7c514960": {
     "hasBookTitle": "The Actor's Remonstrance",
     "hasBookInternalId": "@005107",
@@ -1802,8 +1797,8 @@
     "hasBookInternalId": "@005109",
     "sql": 710
   },
-  "ww_76295d04007c5868": {
-    "hasBookTitle": "Songs and Sonnets",
+  "ww_b8daeda02352340d": {
+    "hasBookTitle": "Songs and Sonnets (Vaux)",
     "hasBookInternalId": "@005110",
     "sql": 711
   },
@@ -1827,8 +1822,8 @@
     "hasBookInternalId": "@005113",
     "sql": 715
   },
-  "ww_524da43dee3ae2f0": {
-    "hasBookTitle": "De Optimo Senatore",
+  "ww_3f01aa1717dd9422": {
+    "hasBookTitle": "The Counsellor (Goslicius)",
     "hasBookInternalId": "@005114",
     "sql": 716
   },
@@ -1889,8 +1884,8 @@
     "hasBookInternalId": "@002650",
     "sql": 727
   },
-  "ww_71a59379238b19a9": {
-    "hasBookTitle": "Festum Voluptatis",
+  "ww_3e3b1e76ba44de39": {
+    "hasBookTitle": "Festum Voluptatis, or The Banquet of Pleasure",
     "hasBookInternalId": "@005118",
     "sql": 728
   },
@@ -3063,6 +3058,7 @@
     "sql": 1055
   },
   "ww_469781d15b89c310": {
+    "firstPerformanceExact": "1663",
     "hasBookTitle": "Pompey",
     "hasBookInternalId": "@005239",
     "sql": 1056
@@ -3462,8 +3458,8 @@
     "hasBookInternalId": "@005297",
     "sql": 1208
   },
-  "ww_3d07c11442956d0b": {
-    "hasBookTitle": "Andromache",
+  "ww_ce0170cb8f7be724": {
+    "hasBookTitle": "Andromache (Euripides)",
     "hasBookInternalId": "@005298",
     "sql": 1210
   },
@@ -3578,6 +3574,7 @@
     "sql": 1239
   },
   "ww_2e9c883e42921910": {
+    "firstPerformanceExact": "1662",
     "hasBookTitle": "History of the Worthies of England",
     "hasBookInternalId": "@005321",
     "sql": 1240
@@ -3863,10 +3860,10 @@
     "hasBookInternalId": "@001443",
     "sql": 1349
   },
-  "ww_751bc1b9f8d1ab57": {
+  "ww_0977bdcb3a93ae8b": {
     "firstPerformanceExact": "1610",
     "publicationExact": "1610",
-    "hasBookTitle": "[Water Pageant for Prince Henry: Corina and Amph",
+    "hasBookTitle": "[Water Pageant for Prince Henry]",
     "hasBookInternalId": "@001616",
     "sql": 1350
   },
@@ -3875,8 +3872,8 @@
     "hasBookInternalId": "@005356",
     "sql": 1351
   },
-  "ww_e5b5e26648e4c1a4": {
-    "hasBookTitle": "The Princess of Cleves",
+  "ww_e72ea92f737801f8": {
+    "hasBookTitle": "The Princess of Cleve",
     "hasBookInternalId": "@005357",
     "sql": 1352
   },
@@ -4126,11 +4123,6 @@
     "hasBookInternalId": "@000383",
     "sql": 1402
   },
-  "ww_0cc4b9a3c4b906ee": {
-    "hasBookTitle": "Colin Clout",
-    "hasBookInternalId": "@005365",
-    "sql": 1404
-  },
   "ww_5c4e38c8c2ec5392": {
     "hasBookTitle": "Jack Juggler",
     "hasBookInternalId": "@000278",
@@ -4254,8 +4246,8 @@
     "hasBookInternalId": "@005380",
     "sql": 1448
   },
-  "ww_3c7c08177175ac6c": {
-    "hasBookTitle": "Bodleian Library MS Don e 6",
+  "ww_af578b982bb3e378": {
+    "hasBookTitle": "Bodleian Library MS \"Don e 6\"",
     "hasBookInternalId": "@005381",
     "sql": 1449
   },
@@ -4279,8 +4271,8 @@
     "hasBookInternalId": "@005385",
     "sql": 1454
   },
-  "ww_a86f32cdfcbf106e": {
-    "hasBookTitle": "Bodleian Library MS English poetry e 14",
+  "ww_1127cfca59ab6fd2": {
+    "hasBookTitle": "Bodleian Library MS \"English Poetry e 14\"",
     "hasBookInternalId": "@005386",
     "sql": 1455
   },
@@ -4294,8 +4286,8 @@
     "hasBookInternalId": "@005388",
     "sql": 1457
   },
-  "ww_5481d2de77a1536f": {
-    "hasBookTitle": "Bodleian Library MS English miscellaneous c 34",
+  "ww_715eb30ea22fce12": {
+    "hasBookTitle": "Bodleian Library MS \"English Miscellaneous c 34\"",
     "hasBookInternalId": "@005389",
     "sql": 1458
   },
@@ -4304,13 +4296,13 @@
     "hasBookInternalId": "@005390",
     "sql": 1459
   },
-  "ww_795dd036831cfe68": {
-    "hasBookTitle": "Bodleian Library MS Rawlinson poetry 117",
+  "ww_79a54e70c7b06c19": {
+    "hasBookTitle": "Bodleian Library MS \"Rawlinson Poetry 117\"",
     "hasBookInternalId": "@005391",
     "sql": 1461
   },
-  "ww_f108c85dae4f501d": {
-    "hasBookTitle": "Bodleian Library MS Rawlinson poetry 142",
+  "ww_503348c1a60d6e8e": {
+    "hasBookTitle": "Bodleian Library MS \"Rawlinson Poetry 142\"",
     "hasBookInternalId": "@005392",
     "sql": 1462
   },
@@ -4363,11 +4355,6 @@
     "hasBookTitle": "The Gull's Hornbook",
     "hasBookInternalId": "@005401",
     "sql": 1475
-  },
-  "ww_d0a34f8e814f2fa4": {
-    "hasBookTitle": "Devreshe Evdi (Xido)",
-    "hasBookInternalId": "@100000",
-    "sql": 1476
   },
   "ww_b65e9cb67da1f591": {
     "hasBookTitle": "An Exposition upon Some Select Psalms of David",
@@ -4499,11 +4486,6 @@
     "hasBookTitle": "A Tale of a Tub",
     "hasBookInternalId": "@002403",
     "sql": 1507
-  },
-  "ww_a9b42b446b409553": {
-    "hasBookTitle": "Celil 1",
-    "hasBookInternalId": "@100001",
-    "sql": 1510
   },
   "ww_aca08b66b4baeb8c": {
     "hasBookTitle": "Mortimeriados",
@@ -5161,5 +5143,130 @@
     "hasBookTitle": "The Heptameron (Navarre)",
     "hasBookInternalId": "@005496",
     "sql": 1759
+  },
+  "ww_5d7e0333ed0c4ba8": {
+    "hasBookTitle": "Colin Clout",
+    "hasBookInternalId": "@005497",
+    "sql": 1760
+  },
+  "ww_51abd48015fc2333": {
+    "hasBookTitle": "Gesta Danorum",
+    "hasBookInternalId": "@005498",
+    "sql": 1762
+  },
+  "ww_41a4ca59c92aa927": {
+    "hasBookTitle": "The Sad One",
+    "hasBookInternalId": "@005502",
+    "sql": 1766
+  },
+  "ww_efa9659082b1c59d": {
+    "hasBookTitle": "The Observator in Dialogue",
+    "hasBookInternalId": "@005505",
+    "sql": 1769
+  },
+  "ww_6ab99f13bfd3310d": {
+    "hasBookTitle": "The Swearing-Master",
+    "hasBookInternalId": "@005506",
+    "sql": 1770
+  },
+  "ww_7d25aa797bd538bd": {
+    "hasBookTitle": "Controversiae",
+    "hasBookInternalId": "@005509",
+    "sql": 1773
+  },
+  "ww_a4bcf70bba822634": {
+    "hasBookTitle": "Caesar Borgia",
+    "hasBookInternalId": "@005511",
+    "sql": 1775
+  },
+  "ww_f5cdabbe49fa26d3": {
+    "hasBookTitle": "Gloriana, or the Court of Augustus Caesar",
+    "hasBookInternalId": "@005513",
+    "sql": 1777
+  },
+  "ww_62cee47367fd0a90": {
+    "hasBookTitle": "I Morti Vivi",
+    "hasBookInternalId": "@005516",
+    "sql": 1780
+  },
+  "ww_a7d21829bb1e071b": {
+    "hasBookTitle": "Il Decamerone",
+    "hasBookInternalId": "@005517",
+    "sql": 1781
+  },
+  "ww_1accaec99641f25e": {
+    "hasBookTitle": "The Advancement of Learning",
+    "hasBookInternalId": "@005518",
+    "sql": 1782
+  },
+  "ww_75ebe131795f81ab": {
+    "hasBookTitle": "On the Nature of the Gods",
+    "hasBookInternalId": "@005522",
+    "sql": 1786
+  },
+  "ww_42f71ad2503f2378": {
+    "hasBookTitle": "On the Orator",
+    "hasBookInternalId": "@005523",
+    "sql": 1787
+  },
+  "ww_b141fbe45559d315": {
+    "hasBookTitle": "The Republic (Plato)",
+    "hasBookInternalId": "@005524",
+    "sql": 1788
+  },
+  "ww_0b7f833bbf634bc9": {
+    "hasBookTitle": "The Younger Brother",
+    "hasBookInternalId": "@005525",
+    "sql": 1789
+  },
+  "ww_ab48b119558a4a1c": {
+    "hasBookTitle": "The Projectors",
+    "hasBookInternalId": "@005526",
+    "sql": 1790
+  },
+  "ww_fad2b18c442dbc11": {
+    "hasBookTitle": "Epitaph on Richard Edwards",
+    "hasBookInternalId": "@005527",
+    "sql": 1792
+  },
+  "ww_21d67ea0f5f0995a": {
+    "hasBookTitle": "Elegies (Maximianus)",
+    "hasBookInternalId": "@005528",
+    "sql": 1793
+  },
+  "ww_366e4c396cb500e5": {
+    "hasBookTitle": "Hieronimo Part 1",
+    "hasBookInternalId": "@001270",
+    "sql": 1794
+  },
+  "ww_d36cf2349d5b430e": {
+    "hasBookTitle": "Of Wisdom",
+    "hasBookInternalId": "@005529",
+    "sql": 1795
+  },
+  "ww_21e0e7cbb56d5f1f": {
+    "hasBookTitle": "Gesta Romanorum",
+    "hasBookInternalId": "@005530",
+    "sql": 1796
+  },
+  "ww_cd997e37fb9191d0": {
+    "hasBookTitle": "Atriola Mortis",
+    "hasBookInternalId": "@005532",
+    "sql": 1798
+  },
+  "ww_cea852d0fb37d984": {
+    "hasBookTitle": "The Rover",
+    "hasBookInternalId": "@005543",
+    "sql": 1800
+  },
+  "ww_0f1706efb0faa62b": {
+    "hasBookTitle": "Thomaso",
+    "hasBookInternalId": "@005545",
+    "sql": 1801
+  },
+  "ww_1281e6930612aaca": {
+    "hasBookTitle": "The Book of Martyrs (Fox)",
+    "hasBookInternalId": "@005547",
+    "sql": 1803
   }
 }

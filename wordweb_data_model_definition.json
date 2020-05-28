@@ -1170,6 +1170,13 @@
             },
             "nodes": [
               {
+                "name": "Journalism",
+                "labels": {
+                  "de": "Journalismus",
+                  "en": "Journalism"
+                }
+              },
+              {
                 "name": "Academic",
                 "labels": {
                   "de": "Akademisch",
@@ -1223,6 +1230,13 @@
                 "labels": {
                   "de": "Allgemein",
                   "en": "Annotated edition"
+                }
+              },
+              {
+                "name": "Educational",
+                "labels": {
+                  "de": "Allgemein",
+                  "en": "Bildung"
                 }
               }
             ]
@@ -1591,6 +1605,13 @@
                   "de": "Banqueting House, Whitehall",
                   "en": "Banqueting House, Whitehall"
                 }
+              },
+              {
+                "name": "Middle Temple",
+                "labels": {
+                  "de": "Middle Temple",
+                  "en": "Middle Temple"
+                }
               }
             ]
           },
@@ -1616,10 +1637,10 @@
                 }
               },
               {
-                "name": "Kings College",
+                "name": "King's College",
                 "labels": {
-                  "de": "Kings College",
-                  "en": "Kings College"
+                  "de": "King's College",
+                  "en": "King's College"
                 }
               }
             ]
@@ -2100,6 +2121,19 @@
               "cardinality": "0-1"
             },
             {
+              "name": "hasBookComment",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Book comment",
+                "de": "Buchkommentar"
+              },
+              "gui_element": "Textarea",
+              "cardinality": "0-1"
+            },
+            {
               "name": "isWrittenBy",
               "super": [
                 "hasLinkTo"
@@ -2320,14 +2354,14 @@
               "cardinality": "0-1"
             },
             {
-              "name": "hasPublicComment",
+              "name": "hasPassageComment",
               "super": [
                 "hasValue"
               ],
               "object": "TextValue",
               "labels": {
-                "en": "Public comment",
-                "de": "Öffentlicher Kommentar"
+                "en": "Passage comment",
+                "de": "Passage Kommentar"
               },
               "gui_element": "Textarea",
               "cardinality": "0-1"

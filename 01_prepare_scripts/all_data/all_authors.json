@@ -1,12 +1,4 @@
 {
-  "ww_12dc8ce407b8b563": {
-    "hasFirstName": "_",
-    "hasLastName": "A Hawk and a Hacksaw",
-    "activeExact": "2002",
-    "hasDescription": "U.S. folk band",
-    "hasGender": "male",
-    "sql": 2487
-  },
   "ww_8946e61d1947d7b4": {
     "hasFirstName": "Edward Austin",
     "hasLastName": "Abbey",
@@ -1122,6 +1114,15 @@
     "hasGender": "male",
     "sql": 745
   },
+  "ww_732f561328475a5b": {
+    "hasFirstName": "Wystan Hugh",
+    "hasLastName": "Auden",
+    "birthExact": "1907",
+    "deathExact": "1973",
+    "hasDescription": "English poet",
+    "hasGender": "male",
+    "sql": 4587
+  },
   "ww_aa3a5c281fb292ee": {
     "hasFirstName": "Gary",
     "hasLastName": "Auerbach",
@@ -1281,6 +1282,15 @@
     "hasDescription": "English (?) novelist",
     "hasGender": "male",
     "sql": 3699
+  },
+  "ww_be012916e65b54ab": {
+    "hasFirstName": "Francis",
+    "hasLastName": "Bacon",
+    "birthExact": "1561",
+    "deathExact": "1626",
+    "hasDescription": "English philosopher and statesman , full title 1st Viscount St Alban",
+    "hasGender": "male",
+    "sql": 4572
   },
   "ww_9c1910e1c6d6d0bd": {
     "hasFirstName": "Samuel",
@@ -2028,6 +2038,14 @@
     "hasDescription": "U.S. interior designer",
     "hasGender": "male",
     "sql": 928
+  },
+  "ww_896ab13105d6cd02": {
+    "hasFirstName": "Hermann Paul",
+    "hasLastName": "Becker",
+    "activeExact": "1904",
+    "hasDescription": "German scholar",
+    "hasGender": "male",
+    "sql": 4577
   },
   "ww_fc1c35e23c8a6155": {
     "hasFirstName": "Samuel",
@@ -5075,6 +5093,14 @@
     "hasGender": "male",
     "sql": 3075
   },
+  "ww_8be002477736064b": {
+    "hasFirstName": "Henry",
+    "hasLastName": "Campkin",
+    "activeExact": "1938",
+    "hasDescription": "British (?) scholar",
+    "hasGender": "male",
+    "sql": 4574
+  },
   "ww_016ce800ec504ac0": {
     "hasFirstName": "Albert",
     "hasLastName": "Camus",
@@ -5437,6 +5463,14 @@
     "hasGender": "male",
     "sql": 3335
   },
+  "ww_34be037da86e7b32": {
+    "hasFirstName": "P. L.",
+    "hasLastName": "Carver",
+    "activeExact": "1938",
+    "hasDescription": "British (?) scholar",
+    "hasGender": "male",
+    "sql": 4575
+  },
   "ww_a15d1ad784ef65c3": {
     "hasFirstName": "Elizabeth, Viscountess Falkland ",
     "hasLastName": "Cary",
@@ -5563,6 +5597,15 @@
     "hasGender": "male",
     "sql": 4097
   },
+  "ww_f53464b8d318f039": {
+    "hasFirstName": "Jacob",
+    "hasLastName": "Cats",
+    "birthExact": "1577",
+    "deathExact": "1660",
+    "hasDescription": "Dutch poet and politician",
+    "hasGender": "male",
+    "sql": 4579
+  },
   "ww_5543dbfff599bfd5": {
     "hasFirstName": "Gaius Valerius ",
     "hasLastName": "Catullus",
@@ -5606,13 +5649,6 @@
     "hasGender": "male",
     "sql": 435
   },
-  "ww_d5d56823b0354a4b": {
-    "hasFirstName": "Celil",
-    "hasLastName": "Celil",
-    "hasDescription": "Kurdologist",
-    "hasGender": "male",
-    "sql": 4425
-  },
   "ww_666a3a9b26c8ac7f": {
     "hasFirstName": "Susanna",
     "hasLastName": "Centlivre",
@@ -5652,6 +5688,14 @@
     "hasDescription": "Irish (?) novelist",
     "hasGender": "male",
     "sql": 3677
+  },
+  "ww_2dfc94b95644dd6f": {
+    "hasFirstName": "Bianca Maria, Countess of",
+    "hasLastName": "Challant",
+    "deathExact": "1526",
+    "hasDescription": "Italian aristocrat",
+    "hasGender": "male",
+    "sql": 4588
   },
   "ww_b2a00cc64ca555e3": {
     "hasFirstName": "George",
@@ -5723,15 +5767,6 @@
     "hasGender": "male",
     "sql": 264
   },
-  "ww_0e61be677c7caa37": {
-    "hasFirstName": "Charles",
-    "hasLastName": "Chaplin",
-    "birthExact": "1889",
-    "deathExact": "1977",
-    "hasDescription": "English actor, director and screenwriter",
-    "hasGender": "male",
-    "sql": 2746
-  },
   "ww_8501ec457f433848": {
     "hasFirstName": "George",
     "hasLastName": "Chapman",
@@ -5789,6 +5824,15 @@
     "hasDescription": "U.S. academic",
     "hasGender": "male",
     "sql": 4396
+  },
+  "ww_90010718965e9614": {
+    "hasFirstName": "Pierre",
+    "hasLastName": "Charron",
+    "birthExact": "1541",
+    "deathExact": "1603",
+    "hasDescription": "French philosopher",
+    "hasGender": "male",
+    "sql": 4583
   },
   "ww_92175f2f6ac05c2a": {
     "hasFirstName": "Roger",
@@ -7137,15 +7181,6 @@
     "hasDescription": "English crime writer",
     "hasGender": "male",
     "sql": 1138
-  },
-  "ww_8f3fa6211d0fe701": {
-    "hasFirstName": "Michael",
-    "hasLastName": "Crichton",
-    "birthExact": "1942",
-    "deathExact": "2008",
-    "hasDescription": "U.S. novelist and television writer",
-    "hasGender": "male",
-    "sql": 2755
   },
   "ww_60e5f7257701e092": {
     "hasFirstName": "Iain",
@@ -8925,15 +8960,6 @@
     "hasGender": "male",
     "sql": 412
   },
-  "ww_7e9c9bb2fe4a17bd": {
-    "hasFirstName": "Ashley",
-    "hasLastName": "Dukes",
-    "birthExact": "1885",
-    "deathExact": "1959",
-    "hasDescription": "English dramatist",
-    "hasGender": "male",
-    "sql": 2470
-  },
   "ww_20caee65dfff9798": {
     "hasFirstName": "Katherine Dorothea",
     "hasLastName": "Duncan-Jones",
@@ -10451,6 +10477,15 @@
     "hasGender": "male",
     "sql": 2537
   },
+  "ww_69d4678f4a408fd6": {
+    "hasFirstName": "John",
+    "hasLastName": "Foxe",
+    "birthExact": "1517",
+    "deathExact": "1587",
+    "hasDescription": "English historian",
+    "hasGender": "male",
+    "sql": 4590
+  },
   "ww_94add84c8a05752c": {
     "hasFirstName": "Dick",
     "hasLastName": "Francis",
@@ -10838,6 +10873,13 @@
     "hasDescription": "English (?) translator",
     "hasGender": "male",
     "sql": 4419
+  },
+  "ww_ed92f06d21f166e9": {
+    "hasFirstName": "_",
+    "hasLastName": "G. G. L.",
+    "hasDescription": "British (?) scholar fl, 1938",
+    "hasGender": "male",
+    "sql": 4578
   },
   "ww_dc6a67904323ea54": {
     "hasFirstName": "Jostein",
@@ -12238,6 +12280,13 @@
     "hasGender": "male",
     "sql": 3032
   },
+  "ww_780e677ed1d8302b": {
+    "hasFirstName": "Nicholas",
+    "hasLastName": "Grimald",
+    "hasDescription": "English poet, translator and dramatist 1519\u20131562",
+    "hasGender": "male",
+    "sql": 4569
+  },
   "ww_c82eaa1221859d60": {
     "hasFirstName": "Martha",
     "hasLastName": "Grimes",
@@ -13187,6 +13236,14 @@
     "hasGender": "male",
     "sql": 3019
   },
+  "ww_bec6ac024f9ad807": {
+    "hasFirstName": "_",
+    "hasLastName": "Hawk and a Hacksaw",
+    "activeExact": "2002",
+    "hasDescription": "U.S. folk band",
+    "hasGender": "male",
+    "sql": 2487
+  },
   "ww_948217daeae1bd6a": {
     "hasFirstName": "Terence",
     "hasLastName": "Hawkes",
@@ -13604,9 +13661,9 @@
     "hasGender": "male",
     "sql": 3069
   },
-  "ww_432e3b14d37e1fbf": {
+  "ww_e5da26b835422397": {
     "hasFirstName": "John",
-    "hasLastName": "Heminges",
+    "hasLastName": "Hemings",
     "birthExact": "1566",
     "deathExact": "1630",
     "hasDescription": "English actor",
@@ -13872,6 +13929,14 @@
     "hasGender": "male",
     "sql": 4271
   },
+  "ww_1853d4077357decc": {
+    "hasFirstName": "_",
+    "hasLastName": "Hibernicus",
+    "activeExact": "1938",
+    "hasDescription": "Scottish (?) scholar",
+    "hasGender": "male",
+    "sql": 4573
+  },
   "ww_9e5001d208065a82": {
     "hasFirstName": "Emily Henrietta ",
     "hasLastName": "Hickey",
@@ -14052,6 +14117,13 @@
     "hasDescription": "English anthologist",
     "hasGender": "male",
     "sql": 1386
+  },
+  "ww_3c6f96e4a79c7d9e": {
+    "hasFirstName": "_",
+    "hasLastName": "Hippocrates",
+    "hasDescription": "Greek physician 460-370 BC",
+    "hasGender": "male",
+    "sql": 4586
   },
   "ww_e23ccaafb836f6d3": {
     "hasFirstName": "Nadira A.",
@@ -15020,9 +15092,9 @@
     "hasGender": "male",
     "sql": 2754
   },
-  "ww_d224ff32434ca806": {
+  "ww_11136bcf02a7314f": {
     "hasFirstName": "Zora Neale",
-    "hasLastName": "Hurston ",
+    "hasLastName": "Hurston",
     "birthExact": "1891",
     "deathExact": "1960",
     "hasDescription": "U.S. novelist",
@@ -15203,7 +15275,7 @@
     "hasLastName": "Innes",
     "birthExact": "1906",
     "deathExact": "1994",
-    "hasDescription": "British academic and crime writer ,  real name John Innes Mackintosh Stewart",
+    "hasDescription": "Scottish academic and crime writer ,  real name John Innes Mackintosh Stewart",
     "hasGender": "male",
     "sql": 276
   },
@@ -15645,9 +15717,9 @@
     "hasGender": "male",
     "sql": 1007
   },
-  "ww_07ae65dfc4542e81": {
+  "ww_9154bd45ecc5d6b5": {
     "hasFirstName": "Richard Paul",
-    "hasLastName": "Jodrell ",
+    "hasLastName": "Jodrell",
     "birthExact": "1745",
     "deathExact": "1831",
     "hasDescription": "English scholar and dramatist",
@@ -16643,14 +16715,6 @@
     "hasDescription": "U.S. general and novelist",
     "hasGender": "male",
     "sql": 799
-  },
-  "ww_0ac62f5bd5dae103": {
-    "hasFirstName": "Laurie R.",
-    "hasLastName": "King",
-    "birthExact": "1952",
-    "hasDescription": "U.S. crime writer",
-    "hasGender": "male",
-    "sql": 3895
   },
   "ww_722e698f16327e45": {
     "hasFirstName": "Ros",
@@ -17806,6 +17870,15 @@
     "hasGender": "male",
     "sql": 3977
   },
+  "ww_e11f7e0a39088b4e": {
+    "hasFirstName": "Laurie",
+    "hasLastName": "Lee",
+    "birthExact": "1914",
+    "deathExact": "1997",
+    "hasDescription": "English poet and novelist",
+    "hasGender": "male",
+    "sql": 4585
+  },
   "ww_02ad5866aad78c8b": {
     "hasFirstName": "Spike",
     "hasLastName": "Lee",
@@ -18343,9 +18416,9 @@
     "hasGender": "male",
     "sql": 1516
   },
-  "ww_003bed916c34a7ce": {
+  "ww_071c8f05f4ac70dd": {
     "hasFirstName": "Ken",
-    "hasLastName": "Livingston ",
+    "hasLastName": "Livingston",
     "activeExact": "1997",
     "hasDescription": "U.S. journalist",
     "hasGender": "male",
@@ -19862,6 +19935,13 @@
     "hasGender": "male",
     "sql": 2431
   },
+  "ww_61be1f51760786a4": {
+    "hasFirstName": "_",
+    "hasLastName": "Maximianus",
+    "hasDescription": "Roman elegiac poet fl. 550",
+    "hasGender": "male",
+    "sql": 4581
+  },
   "ww_2bb1f9fa65d27c55": {
     "hasFirstName": "Valerius",
     "hasLastName": "Maximus",
@@ -20617,9 +20697,9 @@
     "hasGender": "male",
     "sql": 3957
   },
-  "ww_df3762c72bcd1dd0": {
+  "ww_dd544371746ccbe8": {
     "hasFirstName": "Alice Duer ",
-    "hasLastName": "Miller ",
+    "hasLastName": "Miller",
     "birthExact": "1874",
     "deathExact": "1942",
     "hasDescription": "US poet and novelist",
@@ -21000,9 +21080,9 @@
     "hasGender": "male",
     "sql": 1944
   },
-  "ww_96088fc780008ec1": {
+  "ww_3025d9eaeec52608": {
     "hasFirstName": "Frank Frankfort ",
-    "hasLastName": "Moore ",
+    "hasLastName": "Moore",
     "birthExact": "1855",
     "deathExact": "1931",
     "hasDescription": "Irish dramatist, novelist and poet",
@@ -22439,6 +22519,15 @@
     "hasGender": "male",
     "sql": 1660
   },
+  "ww_7cc45c39017fd3c4": {
+    "hasFirstName": "Sforza degli",
+    "hasLastName": "Oddi",
+    "birthExact": "1540",
+    "deathExact": "1611",
+    "hasDescription": "Italian dramatist",
+    "hasGender": "male",
+    "sql": 4571
+  },
   "ww_6aa0bf0f31c6e9a7": {
     "hasFirstName": "Gabriel",
     "hasLastName": "Odingsells",
@@ -22464,13 +22553,6 @@
     "hasDescription": "English painter , also known as Mrs. F. Littler",
     "hasGender": "male",
     "sql": 1652
-  },
-  "ww_1be0f35ce7152e7e": {
-    "hasFirstName": "Israel",
-    "hasLastName": "Ohaniyan",
-    "hasDescription": "Kurdish singer",
-    "hasGender": "male",
-    "sql": 4426
   },
   "ww_5f7aaf29e328df2b": {
     "hasFirstName": "Sir John",
@@ -22979,7 +23061,7 @@
     "hasLastName": "Patterson",
     "birthExact": "1884",
     "deathExact": "1848",
-    "hasDescription": "U.S. journalist  <pseudonym for Eleanor Josephine Medill Patterson>",
+    "hasDescription": "U.S. journalist",
     "hasGender": "male",
     "sql": 3237
   },
@@ -23298,6 +23380,15 @@
     "hasGender": "male",
     "sql": 1258
   },
+  "ww_2b8d4025a3168309": {
+    "hasFirstName": "Francesco",
+    "hasLastName": "Petrarca",
+    "birthExact": "1304",
+    "deathExact": "1374",
+    "hasDescription": "Italian poet",
+    "hasGender": "male",
+    "sql": 4589
+  },
   "ww_4dfeb63e70d11a43": {
     "hasFirstName": "Donald",
     "hasLastName": "Petrie",
@@ -23434,9 +23525,9 @@
     "hasGender": "male",
     "sql": 1345
   },
-  "ww_6dd768382494b3af": {
+  "ww_0eabbf0244ef9a48": {
     "hasFirstName": "Teresia Constantia ",
-    "hasLastName": "Phillips ",
+    "hasLastName": "Phillips",
     "birthExact": "1709",
     "deathExact": "1765",
     "hasDescription": "British courtesan",
@@ -24084,6 +24175,13 @@
     "hasDescription": "Italian novelist and semiotician",
     "hasGender": "male",
     "sql": 1481
+  },
+  "ww_207aa9704be62716": {
+    "hasFirstName": "Sextus",
+    "hasLastName": "Propertius",
+    "hasDescription": "Roman poet 50 BC - 15 AD",
+    "hasGender": "male",
+    "sql": 4580
   },
   "ww_5761b8ba5e718de1": {
     "hasFirstName": "Charles Tyler",
@@ -24973,9 +25071,9 @@
     "hasGender": "male",
     "sql": 1410
   },
-  "ww_ad59ecbf741e26ab": {
+  "ww_bed4e4b117dcbbc5": {
     "hasFirstName": "Bettina ",
-    "hasLastName": "Riddle von Hutten ",
+    "hasLastName": "Riddle von Hutten",
     "birthExact": "1874",
     "deathExact": "1957",
     "hasDescription": "US-born novelist",
@@ -26389,6 +26487,15 @@
     "hasGender": "male",
     "sql": 2151
   },
+  "ww_842acbd5d56d1f7a": {
+    "hasFirstName": "Robert",
+    "hasLastName": "Schweichel",
+    "birthExact": "1821",
+    "deathExact": "1907",
+    "hasDescription": "German novelist and journalist",
+    "hasGender": "male",
+    "sql": 4584
+  },
   "ww_f57fcaf92764887f": {
     "hasFirstName": "Rolf",
     "hasLastName": "Schweiger",
@@ -26589,7 +26696,7 @@
     "hasLastName": "Semple",
     "birthExact": "1916",
     "deathExact": "1982",
-    "hasDescription": "U.S. romance and erotica writer , real name William Arthur Neubauer",
+    "hasDescription": "U.S. romance writer , real name William Arthur Neubauer",
     "hasGender": "male",
     "sql": 2278
   },
@@ -27841,14 +27948,6 @@
     "hasGender": "male",
     "sql": 3870
   },
-  "ww_b267a62cb3adc96f": {
-    "hasFirstName": "Sahin Bekir",
-    "hasLastName": "Sorekli",
-    "activeExact": "1987",
-    "hasDescription": "Kurdish journalist",
-    "hasGender": "male",
-    "sql": 4400
-  },
   "ww_4fc2871c270c0a4c": {
     "hasFirstName": "_",
     "hasLastName": "Sort Sol",
@@ -28202,6 +28301,13 @@
     "hasDescription": "U.S. novelist and short story writer",
     "hasGender": "male",
     "sql": 3753
+  },
+  "ww_41d7fdbb71975328": {
+    "hasFirstName": "Verena",
+    "hasLastName": "Steiner",
+    "hasDescription": "Swiss writer",
+    "hasGender": "male",
+    "sql": 4582
   },
   "ww_b075dcf2fcda0637": {
     "hasFirstName": "Thomas",
@@ -29513,14 +29619,6 @@
     "hasDescription": "English translator",
     "hasGender": "male",
     "sql": 3228
-  },
-  "ww_bc34b894af4397ae": {
-    "hasFirstName": "Richard",
-    "hasLastName": "Thorpe",
-    "activeExact": "2002",
-    "hasDescription": "U.S. television director",
-    "hasGender": "male",
-    "sql": 2756
   },
   "ww_70c116e35093e532": {
     "hasFirstName": "Clark T.",
@@ -31252,14 +31350,6 @@
     "hasGender": "male",
     "sql": 2465
   },
-  "ww_5668d7b5802f47c1": {
-    "hasFirstName": "John",
-    "hasLastName": "Wells",
-    "birthExact": "1956",
-    "hasDescription": "U.S. television writer and producer",
-    "hasGender": "male",
-    "sql": 2757
-  },
   "ww_655a9188e188f20e": {
     "hasFirstName": "Catherine",
     "hasLastName": "Wells",
@@ -31704,6 +31794,14 @@
     "hasDescription": "Irish poet",
     "hasGender": "male",
     "sql": 3999
+  },
+  "ww_5f4e3f6850bc6331": {
+    "hasFirstName": "Malcolm L.",
+    "hasLastName": "Wilder",
+    "activeExact": "1925",
+    "hasDescription": "U.S. (?) scholar",
+    "hasGender": "male",
+    "sql": 4576
   },
   "ww_1870a58b1600ed16": {
     "hasFirstName": "Kate",
@@ -32417,15 +32515,6 @@
     "hasDescription": "U.S. social activist and novelist",
     "hasGender": "male",
     "sql": 1366
-  },
-  "ww_619fc5fff12eaacb": {
-    "hasFirstName": "Baqi",
-    "hasLastName": "Xido",
-    "birthExact": "1918",
-    "deathExact": "1995",
-    "hasDescription": "Kurdish singer",
-    "hasGender": "male",
-    "sql": 4401
   },
   "ww_d473d83a0a7121dd": {
     "hasFirstName": "Maurice",

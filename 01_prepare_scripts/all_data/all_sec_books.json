@@ -4,7 +4,7 @@
     "hasBookTitle": "A Select Collection of Old Plays",
     "hasDisplayedTitle": "A Select Collection of Old Plays",
     "hasLanguage": "English",
-    "pubInfo": "ed. A Select Collection of Old Plays in Twelve Volumes. London: Septimus Prowett, 1825.",
+    "pubInfo": "ed. <i>A Select Collection of Old Plays in Twelve Volumes. </i>London: Septimus Prowett, 1825.",
     "hasCreationDate": "GREGORIAN:1744:1744",
     "hasPublicationDate": "GREGORIAN:1744:1744",
     "hasGenre": [
@@ -22,7 +22,7 @@
     "hasBookTitle": "Paradise Lost (Newton edition)",
     "hasDisplayedTitle": "Paradise Lost (Newton Edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. Paradise Lost: A Poem in Twelve Books. A New Edition with Notes of Various Authors. 2 vols. London: J. and R. Tonson et al., 1749.",
+    "pubInfo": "ed. <i>Paradise Lost: A Poem in Twelve Books. A New Edition with Notes of Various Authors. </i>2 vols. London: J. and R. Tonson et al., 1749.",
     "hasCreationDate": "GREGORIAN:1749:1749",
     "hasPublicationDate": "GREGORIAN:1749:1749",
     "hasGenre": [
@@ -40,7 +40,7 @@
     "hasBookTitle": "Q Horatii Flacci epistola ad Augustum",
     "hasDisplayedTitle": "Q. Horatii Flacci epistola ad Augustum",
     "hasLanguage": "English",
-    "pubInfo": "ed. Q. Horatii Flacci epistola ad Augustum. With an English commentary and notes. To which is added, a discourse concerning poetical imitation [...]. London: W. Thurlbourn and R. Dodsley, 1751.",
+    "pubInfo": "ed. <i>Q. Horatii Flacci epistola ad Augustum. With an English commentary and notes. To which is added, a discourse concerning poetical imitation [...]. </i>London: W. Thurlbourn and R. Dodsley, 1751.",
     "hasCreationDate": "GREGORIAN:1751:1751",
     "hasPublicationDate": "GREGORIAN:1751:1751",
     "hasGenre": [
@@ -53,12 +53,30 @@
       "Richard Hurd"
     ]
   },
+  "ww_ce04b562ca5c764b": {
+    "hasBookInternalId": "@010097",
+    "hasBookTitle": "Hudibras (Grey edition)",
+    "hasDisplayedTitle": "Hudibras (Grey edition)",
+    "hasLanguage": "English",
+    "pubInfo": "ed. <i>Hudibras, in three parts, Written in the Tome of the late Wars, by Samuel Butler, Esq. with large annotations and a preface by Zachary Grey, LL. D. </i>2 vols. London: C. Hitch et al., 1764.",
+    "hasCreationDate": "GREGORIAN:1764:1764",
+    "hasPublicationDate": "GREGORIAN:1764:1764",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Zachary Grey"
+    ]
+  },
   "ww_afbf7a5ea45be9ae": {
     "hasBookInternalId": "@005196",
     "hasBookTitle": "Reliques of Ancient English Poetry",
     "hasDisplayedTitle": "Reliques of Ancient English Poetry",
     "hasLanguage": "English",
-    "pubInfo": "ed. Reliques of Ancient English Poetry. Consisting of Old Heroic Ballads, Songs, and other Pieces of our earlier Poets, (Chiefly of the Lyric kind.) Together with some few of later Date. Second Edition. London: J. Dodsley, 1767.",
+    "pubInfo": "ed. <i>Reliques of Ancient English Poetry. Consisting of Old Heroic Ballads, Songs, and other Pieces of our earlier Poets, (Chiefly of the Lyric kind.) Together with some few of later Date. Second Edition. </i>London: J. Dodsley, 1767.",
     "hasCreationDate": "GREGORIAN:1767:1767",
     "hasPublicationDate": "GREGORIAN:1767:1767",
     "hasGenre": [
@@ -76,7 +94,7 @@
     "hasBookTitle": "The Annual Register",
     "hasDisplayedTitle": "The Annual Register",
     "hasLanguage": "English",
-    "pubInfo": "The Annual Register. Or, A View of the History, Politics, and Literature, for the Year 1767. London: J. Dodsley, 1779.",
+    "pubInfo": "<i>The Annual Register. Or, A View of the History, Politics, and Literature, for the Year 1767. </i>London: J. Dodsley, 1779.",
     "hasCreationDate": "GREGORIAN:1779:1779",
     "hasPublicationDate": "GREGORIAN:1779:1779",
     "hasGenre": [
@@ -90,22 +108,22 @@
       "_ Anon"
     ]
   },
-  "ww_ce04b562ca5c764b": {
-    "hasBookInternalId": "@010097",
-    "hasBookTitle": "Hudibras (Grey edition)",
-    "hasDisplayedTitle": "Hudibras (Grey edition)",
+  "ww_e634fc6e0c2437db": {
+    "hasBookInternalId": "@005563",
+    "hasBookTitle": "The History of English Poetry",
+    "hasDisplayedTitle": "The History of English Poetry",
     "hasLanguage": "English",
-    "pubInfo": "ed. Hudibras, in three parts, Written in the Tome of the late Wars, by Samuel Butler, Esq. with large annotations and a preface by Zachary Grey, LL. D. 2 vols. Edinburgh: Bell and Murray, 1779.",
-    "hasCreationDate": "GREGORIAN:1779:1779",
-    "hasPublicationDate": "GREGORIAN:1779:1779",
+    "pubInfo": "<i>The History of English Poetry from the close of the Eleventh to the Commencement of the Eighteenth Century. To which are prefixed two Dissertations. </i>4 Vols. London: J. Dodsley, J. Walter, T. Becket, 1774-1781. ",
+    "hasCreationDate": "GREGORIAN:1781:1781",
+    "hasPublicationDate": "GREGORIAN:1781:1781",
     "hasGenre": [
-      "Annotated edition"
+      "Academic"
     ],
     "hasSubject": [
       "Literature and theatre"
     ],
     "authors": [
-      "Zachary Grey"
+      "Thomas Warton"
     ]
   },
   "ww_49d40eeadeef05fb": {
@@ -113,7 +131,7 @@
     "hasBookTitle": "Poems Upon Several Occasions",
     "hasDisplayedTitle": "Poems Upon Several Occasions",
     "hasLanguage": "English",
-    "pubInfo": "ed. Poems upon several occasions. English, Italian and Latin, with translations, by John Milton [...]. With Notes, critical and explanatory, and other illustrations. London: James Dodsley, 1785.",
+    "pubInfo": "ed. <i>Poems upon several occasions. English, Italian and Latin, with translations, by John Milton [...]. With Notes, critical and explanatory, and other illustrations. </i>London: James Dodsley, 1785.",
     "hasCreationDate": "GREGORIAN:1785:1785",
     "hasPublicationDate": "GREGORIAN:1785:1785",
     "hasGenre": [
@@ -131,7 +149,7 @@
     "hasBookTitle": "A Specimen of a Commentary on Shakespeare",
     "hasDisplayedTitle": "A Specimen of a Commentary on Shakespeare",
     "hasLanguage": "English",
-    "pubInfo": "A Specimen of a Commentary on Shakespeare: being the text of the first (1794) edition revised by the author and never previously published. Eds. Alan Over and Mary Bell. 2nd ed. London: Methuen, 1967.",
+    "pubInfo": "<i>A Specimen of a Commentary on Shakespeare: being the text of the first (1794) edition revised by the author and never previously published. </i>Eds. Alan Over and Mary Bell. 2nd ed. London: Methuen, 1967.",
     "hasCreationDate": "GREGORIAN:1794:1794",
     "hasPublicationDate": "GREGORIAN:1794:1794",
     "hasGenre": [
@@ -149,7 +167,7 @@
     "hasBookTitle": "Cicero's Orations",
     "hasDisplayedTitle": "Cicero's Orations (Rutherford edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. and trans. Cicero's orations, translated into English, with notes, historical, critical, and explanatory. London: T. Cadell and W. Davies, 1799.",
+    "pubInfo": "ed. and trans. <i>Cicero's orations, translated into English, with notes, historical, critical, and explanatory. </i>London: T. Cadell and W. Davies, 1799.",
     "hasCreationDate": "GREGORIAN:1799:1799",
     "hasPublicationDate": "GREGORIAN:1799:1799",
     "hasGenre": [
@@ -167,7 +185,7 @@
     "hasBookTitle": "Paradise Regained (Dunster edition)",
     "hasDisplayedTitle": "Paradise Regained (Dunster edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. Paradise Regained, a Poem by John Milton. With Notes of Various Authors. London: George Stafford, 1800.",
+    "pubInfo": "ed. <i>Paradise Regained, a Poem by John Milton. With Notes of Various Authors. </i>London: George Stafford, 1800.",
     "hasCreationDate": "GREGORIAN:1800:1800",
     "hasPublicationDate": "GREGORIAN:1800:1800",
     "hasGenre": [
@@ -185,7 +203,7 @@
     "hasBookTitle": "The Poetical Works of John Milton (Todd edition)",
     "hasDisplayedTitle": "The Poetical Works of John Milton (Todd edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. The Poetical Works of John Milton. 6 vols. London: Johnson et al., 1801.",
+    "pubInfo": "ed. <i>The Poetical Works of John Milton.</i> 6 vols. London: Johnson et al., 1801.",
     "hasCreationDate": "GREGORIAN:1801:1801",
     "hasPublicationDate": "GREGORIAN:1801:1801",
     "hasGenre": [
@@ -203,7 +221,7 @@
     "hasBookTitle": "Old Plays, A Continuation of Dodsley",
     "hasDisplayedTitle": "Old Plays, being a Continuation of Dodsley's Collection",
     "hasLanguage": "English",
-    "pubInfo": "ed. Old Plays; being a Continuation of Dodsley's Collection, with Notes Critical and Explanatory. 6 vols. London: Rodwell and Martin, 1816.",
+    "pubInfo": "ed. <i>Old Plays; being a Continuation of Dodsley's Collection, with Notes Critical and Explanatory. 6 vols. </i>London: Rodwell and Martin, 1816.",
     "hasCreationDate": "GREGORIAN:1816:1816",
     "hasPublicationDate": "GREGORIAN:1816:1816",
     "hasGenre": [
@@ -221,7 +239,7 @@
     "hasBookTitle": "Plays and Poems of Shakespeare (Malone edition)",
     "hasDisplayedTitle": "Plays and Poems of William Shakespeare",
     "hasLanguage": "English",
-    "pubInfo": "The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators : comprehending a life of the poet, and an enlarged history of the stage, by the late Edmond Malone, with a new glossarial index. London: F.C. and J. Rivington 1821.",
+    "pubInfo": "<i>The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators : comprehending a life of the poet, and an enlarged history of the stage, by the late Edmond Malone, with a new glossarial index. </i>London: F.C. and J. Rivington 1821.",
     "hasCreationDate": "GREGORIAN:1821:1821",
     "hasPublicationDate": "GREGORIAN:1821:1821",
     "hasGenre": [
@@ -234,12 +252,30 @@
       "Edmond Malone"
     ]
   },
+  "ww_eca8baf5514ac72b": {
+    "hasBookInternalId": "@005499",
+    "hasBookTitle": "New Particulars Regarding the Works of Shakespeare",
+    "hasDisplayedTitle": "New particulars regarding the works of Shakespeare",
+    "hasLanguage": "English",
+    "pubInfo": "<i>New particulars regarding the works of Shakespeare. In a letter to the Rev. A. Dyce ... from J. Payne Collier, F.S.A. </i>London: Thomas Rodd, 1836.",
+    "hasCreationDate": "GREGORIAN:1836:1836",
+    "hasPublicationDate": "GREGORIAN:1836:1836",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "John Payne Collier"
+    ]
+  },
   "ww_9d75b3d3235b2834": {
     "hasBookInternalId": "@010100",
     "hasBookTitle": "Farther Particulars Regarding Shakespeare",
     "hasDisplayedTitle": "Farther Particulars regarding Shakespeare and His Works",
     "hasLanguage": "English",
-    "pubInfo": "Farther Particulars regarding Shakespeare and His Works. In A Letter to The Rev. Joseph Hunter, F.S.A. [...] London: Thomas Rodd, 1839.",
+    "pubInfo": "<i>Farther Particulars regarding Shakespeare and His Works. In A Letter to The Rev. Joseph Hunter, F.S.A. [...]. </i>London: Thomas Rodd, 1839.",
     "hasCreationDate": "GREGORIAN:1839:1839",
     "hasPublicationDate": "GREGORIAN:1839:1839",
     "hasGenre": [
@@ -257,7 +293,7 @@
     "hasBookTitle": "Memoirs of the Principal Actors of Shakespeare",
     "hasDisplayedTitle": "Memoirs of the Principal Actors of Shakespeare",
     "hasLanguage": "English",
-    "pubInfo": "Memoirs of the Principal Actors of Shakespeare. London: Shakespeare Society, 1846.",
+    "pubInfo": "<i>Memoirs of the Principal Actors of Shakespeare. </i>London: Shakespeare Society, 1846.",
     "hasCreationDate": "GREGORIAN:1846:1846",
     "hasPublicationDate": "GREGORIAN:1846:1846",
     "hasGenre": [
@@ -270,12 +306,30 @@
       "John Payne Collier"
     ]
   },
+  "ww_3d8e7b53fcc4d502": {
+    "hasBookInternalId": "@005514",
+    "hasBookTitle": "Man in the Almanack (Campkin)",
+    "hasDisplayedTitle": "The Man in the Almanack (Campkin)",
+    "hasLanguage": "English",
+    "pubInfo": "\"The Man in the Almanack.\" <i>Notes and Queries </i>(3 April 1852): 320.",
+    "hasCreationDate": "GREGORIAN:1852:1852",
+    "hasPublicationDate": "GREGORIAN:1852:1852",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Henry Campkin"
+    ]
+  },
   "ww_58010b3b68506440": {
     "hasBookInternalId": "@006225",
     "hasBookTitle": "Shakespeare's Knowledge and Use of the Bible",
     "hasDisplayedTitle": "Shakespeares Knowledge and Use of the Bible",
     "hasLanguage": "English",
-    "pubInfo": "Shakespeare's Knowledge and Use of the Bible. London: Smith, Elder and Co., 1864.",
+    "pubInfo": "<i>Shakespeare's Knowledge and Use of the Bible. </i>London: Smith, Elder and Co., 1864.",
     "hasCreationDate": "GREGORIAN:1864:1864",
     "hasPublicationDate": "GREGORIAN:1864:1864",
     "hasGenre": [
@@ -293,7 +347,7 @@
     "hasBookTitle": "Shakespeare's Testamentary Language",
     "hasDisplayedTitle": "Shakespeare's Testamentary Language",
     "hasLanguage": "English",
-    "pubInfo": "Shakespeare's Testamentary Language. London: Longmans, Green and Co., 1869. ",
+    "pubInfo": "<i>Shakespeare's Testamentary Language. </i>London: Longmans, Green and Co., 1869. ",
     "hasCreationDate": "GREGORIAN:1869:1869",
     "hasPublicationDate": "GREGORIAN:1869:1869",
     "hasGenre": [
@@ -311,7 +365,7 @@
     "hasBookTitle": "Among My Books",
     "hasDisplayedTitle": "Among My Books",
     "hasLanguage": "English",
-    "pubInfo": "Among My Books: Six Essays. London: Macmillan, 1870.",
+    "pubInfo": "<i>Among My Books: Six Essays.</i> London: Macmillan, 1870.",
     "hasCreationDate": "GREGORIAN:1870:1870",
     "hasPublicationDate": "GREGORIAN:1870:1870",
     "hasGenre": [
@@ -329,7 +383,7 @@
     "hasBookTitle": "Shakespeare's Euphuism",
     "hasDisplayedTitle": "Shakespeare's Euphuism",
     "hasLanguage": "English",
-    "pubInfo": "Shakespeare's Euphuism. London: Longmans, Green, and Co., 1871.",
+    "pubInfo": "<i>Shakespeare's Euphuism. </i>London: Longmans, Green, and Co., 1871.",
     "hasCreationDate": "GREGORIAN:1871:1871",
     "hasPublicationDate": "GREGORIAN:1871:1871",
     "hasGenre": [
@@ -347,7 +401,7 @@
     "hasBookTitle": "Latin Aphorisms and Proverbs",
     "hasDisplayedTitle": "Latin Aphorisms and Proverbs",
     "hasLanguage": "English",
-    "pubInfo": "\"Latin Aphorisms and Proverbs.\" Transactions of the Royal Historical Society (1872): 82-103.",
+    "pubInfo": "\"Latin Aphorisms and Proverbs.\" <i>Transactions of the Royal Historical Society </i>(1872): 82-103.",
     "hasCreationDate": "GREGORIAN:1872:1872",
     "hasPublicationDate": "GREGORIAN:1872:1872",
     "hasGenre": [
@@ -362,10 +416,10 @@
   },
   "ww_cde6c9bb00f512f1": {
     "hasBookInternalId": "@006127",
-    "hasBookTitle": "The Dramatic Works of Sir William D'Avenant",
-    "hasDisplayedTitle": "The Dramatic Works of Sir William D'Avenant",
+    "hasBookTitle": "Dramatic Works of D'Avenant (Maidment edition)",
+    "hasDisplayedTitle": "Dramatic Works of Sir William D'Avenant (Maidment edition)",
     "hasLanguage": "English",
-    "pubInfo": "eds. Sir William D'Avenant. The Dramatic Works of Sir William D'Avenant with prefatory memoir and notes. 5 vols. Edinburgh: William Paterson, 1872-1874. Quoted from https://archive.org.",
+    "pubInfo": "eds. <i>The Dramatic Works of Sir William D'Avenant with prefatory memoir and notes.</i> 5 vols. Edinburgh: William Paterson, 1872-1874. Quoted from https://archive.org.",
     "hasCreationDate": "GREGORIAN:1872:1874",
     "hasPublicationDate": "GREGORIAN:1872:1874",
     "hasGenre": [
@@ -384,7 +438,7 @@
     "hasBookTitle": "The Female Rebellion (Glasgow edition)",
     "hasDisplayedTitle": "The Female Rebellion (Glasgow edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. The Female Rebelion. A Tragicomedy From A MS. In The Hunterian Museum University of Glasgow. Glasgow: Printed for Private Circulation, 1872.",
+    "pubInfo": "ed. <i>The Female Rebelion. A Tragicomedy From A MS. In The Hunterian Museum University of Glasgow. </i>Glasgow: Printed for Private Circulation, 1872.",
     "hasCreationDate": "GREGORIAN:1872:1872",
     "hasPublicationDate": "GREGORIAN:1872:1872",
     "hasGenre": [
@@ -402,7 +456,7 @@
     "hasBookTitle": "Dramatic Works of Thomas Dekker (Shepherd edition)",
     "hasDisplayedTitle": "The Dramatic Works of Thomas Dekker (Shepherd edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. The dramatic works of Thomas Dekker, now first collected with illustrative notes and a memoir of the author. London: J. Pearson, 1873.",
+    "pubInfo": "ed. <i>The dramatic works of Thomas Dekker, now first collected with illustrative notes and a memoir of the author. </i>London: J. Pearson, 1873.",
     "hasCreationDate": "GREGORIAN:1873:1873",
     "hasPublicationDate": "GREGORIAN:1873:1873",
     "hasGenre": [
@@ -420,7 +474,7 @@
     "hasBookTitle": "The Works of George Chapman (Shepherd edition)",
     "hasDisplayedTitle": "The Works of George Chapman (Shepherd edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. Chapman, George. The Works of George Chapman. Plays. London: Chatto and Windus, 1874.",
+    "pubInfo": "ed. <i>Chapman, George. The Works of George Chapman. Plays. </i>London: Chatto and Windus, 1874.",
     "hasCreationDate": "GREGORIAN:1874:1874",
     "hasPublicationDate": "GREGORIAN:1874:1874",
     "hasGenre": [
@@ -438,7 +492,7 @@
     "hasBookTitle": "Shakspere: A Critical Study of His Mind and Art",
     "hasDisplayedTitle": "Shakspere: A Critical Study of His Mind and Art",
     "hasLanguage": "English",
-    "pubInfo": "Shakspere: A Critical Study of His Mind and Art. London: H.S. King, 1875.",
+    "pubInfo": "<i>Shakspere: A Critical Study of His Mind and Art. </i>London: H.S. King, 1875.",
     "hasCreationDate": "GREGORIAN:1875:1875",
     "hasPublicationDate": "GREGORIAN:1875:1875",
     "hasGenre": [
@@ -456,7 +510,7 @@
     "hasBookTitle": "Memoranda on the Tragedy of Hamlet",
     "hasDisplayedTitle": "Memoranda on the Tragedy of Hamlet",
     "hasLanguage": "English",
-    "pubInfo": "Memoranda on the Tragedy of Hamlet. London: James Evan Adlard, 1879.",
+    "pubInfo": "<i>Memoranda on the Tragedy of Hamlet. </i>London: James Evan Adlard, 1879.",
     "hasCreationDate": "GREGORIAN:1879:1879",
     "hasPublicationDate": "GREGORIAN:1879:1879",
     "hasGenre": [
@@ -474,7 +528,7 @@
     "hasBookTitle": "Brookes und Shakespeares Romeo and Juliet",
     "hasDisplayedTitle": "Brookes episches und Shakespeares dramatisches Gedicht von Romeo and Juliet",
     "hasLanguage": "German",
-    "pubInfo": "\"Brookes episches und Shakespeares dramatisches Gedicht von Romeo and Juliet.\" Jahrbuch der Dustchen Shakespeare-Gesellschaft 16 (1881): 213-227. ",
+    "pubInfo": "\"Brookes episches und Shakespeares dramatisches Gedicht von Romeo and Juliet.\" <i>Jahrbuch der Dustchen Shakespeare-Gesellschaft </i>16 (1881): 213-227. ",
     "hasCreationDate": "GREGORIAN:1881:1881",
     "hasPublicationDate": "GREGORIAN:1881:1881",
     "hasGenre": [
@@ -492,7 +546,7 @@
     "hasBookTitle": "Shakspere and Montaigne",
     "hasDisplayedTitle": "Shakspere and Montaigne",
     "hasLanguage": "English",
-    "pubInfo": "Shakspere and Montaigne: An Endeavour to Explain the Tendency of \"Hamlet\" from Allusions in Contemporary Works. London: Kegan Paul, Trench and Co., 1884.",
+    "pubInfo": "<i>Shakspere and Montaigne: An Endeavour to Explain the Tendency of \"Hamlet\" from Allusions in Contemporary Works. </i>London: Kegan Paul, Trench and Co., 1884.",
     "hasCreationDate": "GREGORIAN:1884:1884",
     "hasPublicationDate": "GREGORIAN:1884:1884",
     "hasGenre": [
@@ -510,7 +564,7 @@
     "hasBookTitle": "The Pilgrimage to Parnassus (Macray edition)",
     "hasDisplayedTitle": "The Pilgrimage to Parnassus (Macray edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. The Pilgrimage to Parnassus with the Two Parts of The Return from Parnassus. Oxford: Clarendon Press 1886.",
+    "pubInfo": "ed. <i>The Pilgrimage to Parnassus with the Two Parts of The Return from Parnassus. </i>Oxford: Clarendon Press 1886.",
     "hasCreationDate": "GREGORIAN:1886:1886",
     "hasPublicationDate": "GREGORIAN:1886:1886",
     "hasGenre": [
@@ -528,7 +582,7 @@
     "hasBookTitle": "The Works of John Marston (Bullen edition)",
     "hasDisplayedTitle": "The Works of John Marston (Bullen edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. The Works of John Marston. 3 vols. London: Nimmo, 1887.",
+    "pubInfo": "ed. <i>The Works of John Marston. </i>3 vols. London: Nimmo, 1887.",
     "hasCreationDate": "GREGORIAN:1887:1887",
     "hasPublicationDate": "GREGORIAN:1887:1887",
     "hasGenre": [
@@ -541,12 +595,30 @@
       "A. H.  Bullen"
     ]
   },
+  "ww_4cb4223c78bb761b": {
+    "hasBookInternalId": "@005500",
+    "hasBookTitle": "Studien zur Geschichte der italienischen Novelle",
+    "hasDisplayedTitle": "Studien zur Geschichte der italienischen Novelle in der englischen Litteratur des sechzehnten Jahrhunderts",
+    "hasLanguage": "English",
+    "pubInfo": "<i>Studien zur Geschichte der italienischen Novelle in der englischen Litteratur des sechzehnten Jahrhunderts. </i>Strasbourg: Karl J. Tr\u00fcbner, 1892.",
+    "hasCreationDate": "GREGORIAN:1892:1892",
+    "hasPublicationDate": "GREGORIAN:1892:1892",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Emil Koeppel"
+    ]
+  },
   "ww_c51070f847072dc0": {
     "hasBookInternalId": "@006326",
     "hasBookTitle": "John Marston als Dramatiker",
     "hasDisplayedTitle": "John Marston als Dramatiker",
     "hasLanguage": "German",
-    "pubInfo": "\"John Marston als Dramatiker.\" Englische Studien 20 (1895): 377-396 and 21 (1895): 25-77.",
+    "pubInfo": "\"John Marston als Dramatiker.\" <ui>Englische Studien </i>20 (1895): 377-396 and 21 (1895): 25-77.",
     "hasCreationDate": "GREGORIAN:1895:1895",
     "hasPublicationDate": "GREGORIAN:1895:1895",
     "hasGenre": [
@@ -564,7 +636,7 @@
     "hasBookTitle": "Quellen-Studien zu Jonson, Marston und Beaumont",
     "hasDisplayedTitle": "Quellen-Studien zu den Dramen Ben Jonson's, John Marston's und Beaumont und Fletcher's",
     "hasLanguage": "German",
-    "pubInfo": "Quellen-Studien zu den Dramen Ben Jonson's, John Marston's, und Beaumont und Fletcher's. Erlangen und Leipzig: Deichertsche Verlagsbuchhandlung, 1895.",
+    "pubInfo": "<i>Quellen-Studien zu den Dramen Ben Jonson's, John Marston's, und Beaumont und Fletcher's. </i>Erlangen und Leipzig: Deichertsche Verlagsbuchhandlung, 1895.",
     "hasCreationDate": "GREGORIAN:1895:1895",
     "hasPublicationDate": "GREGORIAN:1895:1895",
     "hasGenre": [
@@ -582,7 +654,7 @@
     "hasBookTitle": "Quellen-Studien zu Chapman, Massinger und Ford",
     "hasDisplayedTitle": "Quellen-Studien zu den Dramen George Chapmans, Philip Massingers, und John Fords",
     "hasLanguage": "German",
-    "pubInfo": "Quellen-Studien zu den Dramen George Chapman's, Philip Massinger's, und John Ford's. Karl J. Tr\u00fcbner: Strassburg 1897.",
+    "pubInfo": "<i>Quellen-Studien zu den Dramen George Chapman's, Philip Massinger's, und John Ford's. </i>Karl J. Tr\u00fcbner: Strasbourg 1897.",
     "hasCreationDate": "GREGORIAN:1897:1897",
     "hasPublicationDate": "GREGORIAN:1897:1897",
     "hasGenre": [
@@ -600,7 +672,7 @@
     "hasBookTitle": "Shakespeareana",
     "hasDisplayedTitle": "Shakespeareana",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeareana.\" The Athenaeum 3671 (5 March 1898): 320.",
+    "pubInfo": "\"Shakespeareana.\" <i>The Athenaeum </i>3671 (5 March 1898): 320.",
     "hasCreationDate": "GREGORIAN:1898:1898",
     "hasPublicationDate": "GREGORIAN:1898:1898",
     "hasGenre": [
@@ -618,7 +690,7 @@
     "hasBookTitle": "Spenser, \"Locrine\" and \"Selimus\"",
     "hasDisplayedTitle": "Edmund Spenser, \"Locrine\" and \"Selimus\"",
     "hasLanguage": "English",
-    "pubInfo": "\"Edmund Spenser, 'Locrine' and 'Selimus'.\" Notes and Queries (16 March 1901): 203.",
+    "pubInfo": "\"Edmund Spenser, 'Locrine' and 'Selimus'.\" <i>Notes and Queries </i>(16 March 1901): 203.",
     "hasCreationDate": "GREGORIAN:1901:1901",
     "hasPublicationDate": "GREGORIAN:1901:1901",
     "hasGenre": [
@@ -636,7 +708,7 @@
     "hasBookTitle": "Old Fortunatus (Schere edition)",
     "hasDisplayedTitle": "The Pleasant Comedie of old Fortunatus (Scherer edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. Thomas Dekker. The Pleasant Comedie of old Fortunatus. Erlangen and Leipzig: 1901.",
+    "pubInfo": "ed. <i>Thomas Dekker. The Pleasant Comedie of old Fortunatus. </i>Erlangen and Leipzig: 1901.",
     "hasCreationDate": "GREGORIAN:1901:1901",
     "hasPublicationDate": "GREGORIAN:1901:1901",
     "hasGenre": [
@@ -654,7 +726,7 @@
     "hasBookTitle": "The Source of the \"Seven Ages\"",
     "hasDisplayedTitle": "The Source of the \"Seven Ages\"",
     "hasLanguage": "English",
-    "pubInfo": "\"The source of the 'Seven Ages'.\" Notes and Queries 9:212 (18 January 1902): 46-47. ",
+    "pubInfo": "\"The source of the 'Seven Ages'.\" <i>Notes and Queries </i>9:212 (18 January 1902): 46-47. ",
     "hasCreationDate": "GREGORIAN:1902:1902",
     "hasPublicationDate": "GREGORIAN:1902:1902",
     "hasGenre": [
@@ -672,7 +744,7 @@
     "hasBookTitle": "Shakespeare's Juliet Capulet und Chaucer's Troylus",
     "hasDisplayedTitle": "Shakespeares Juliet Capulet und Chaucers Troylus",
     "hasLanguage": "German",
-    "pubInfo": "\"Shakespeares Juliet Capulet und Chaucers Troylus.\" Jahrbuch der Deutschen Shakespeare-Gesellschaft 1902. 238-239.",
+    "pubInfo": "\"Shakespeares Juliet Capulet und Chaucers Troylus.\" <i>Jahrbuch der Deutschen Shakespeare-Gesellschaft </i> (1902): 238-239.",
     "hasCreationDate": "GREGORIAN:1902:1902",
     "hasPublicationDate": "GREGORIAN:1902:1902",
     "hasGenre": [
@@ -690,7 +762,7 @@
     "hasBookTitle": "The Complete Works of John Lyly (Bond edition)",
     "hasDisplayedTitle": "The Complete Works of John Lyly (Bond edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. The Complete Works of John Lyly. 4 vols. Oxford: The Clarendon Press, 1902.",
+    "pubInfo": "ed. <i>The Complete Works of John Lyly. </i>4 vols. Oxford: The Clarendon Press, 1902.",
     "hasCreationDate": "GREGORIAN:1902:1902",
     "hasPublicationDate": "GREGORIAN:1902:1902",
     "hasGenre": [
@@ -705,10 +777,10 @@
   },
   "ww_40ffb3c9fb277a67": {
     "hasBookInternalId": "@006252",
-    "hasBookTitle": "Shakespeare Allusions 1902-12-13",
+    "hasBookTitle": "Shakespeare Allusions (1902-12-13)",
     "hasDisplayedTitle": "Shakespeare Allusions (1902-12-13)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries 9-10:259 (13 December 1902): 465.",
+    "pubInfo": "\"Shakespeare Allusions.\" <i>Notes and Queries </i>9-10:259 (13 December 1902): 465.",
     "hasCreationDate": "GREGORIAN:1902:1902",
     "hasPublicationDate": "GREGORIAN:1902:1902",
     "hasGenre": [
@@ -726,7 +798,7 @@
     "hasBookTitle": "Gefl\u00fcgelte Worte",
     "hasDisplayedTitle": "Gefl\u00fcgelte Worte",
     "hasLanguage": "German",
-    "pubInfo": "Gefl\u00fcgelte Worte. Der Citatenschatz des deutschen Volkes, gesammelt und erl\u00e4utert von Georg B\u00fcchmann. Fortgesetzt von Walter Robert-tornow. 21. vermehrte und verbesserte Auflage bearbeitet von Eduard Ippel. Berlin: Verlag der Hande und Spenerschen Buchhandlung, 1903. ",
+    "pubInfo": "<i>Gefl\u00fcgelte Worte. Der Citatenschatz des deutschen Volkes, gesammelt und erl\u00e4utert von Georg B\u00fcchmann. Fortgesetzt von Walter Robert-tornow. 21. vermehrte und verbesserte Auflage bearbeitet von Eduard Ippel. </i>Berlin: Verlag der Hande und Spenerschen Buchhandlung, 1903. ",
     "hasCreationDate": "GREGORIAN:1903:1903",
     "hasPublicationDate": "GREGORIAN:1903:1903",
     "hasGenre": [
@@ -739,12 +811,30 @@
       "Georg B\u00fcchmann"
     ]
   },
+  "ww_9aa3c52b34a0da4d": {
+    "hasBookInternalId": "@005501",
+    "hasBookTitle": "John Wilsons Dramen: Eine Quellenstudie",
+    "hasDisplayedTitle": "John Wilsons Dramen: Eine Quellenstudie",
+    "hasLanguage": "English",
+    "pubInfo": "<i>John Wilsons Dramen: Eine Quellenstudie. </i>[PhD supervised by Emil Koeppel]. Wiesbaden: C. Ritter, 1904.",
+    "hasCreationDate": "GREGORIAN:1904:1904",
+    "hasPublicationDate": "GREGORIAN:1904:1904",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "tbe (male) Author"
+    ]
+  },
   "ww_2bd1ffbbee91c04b": {
     "hasBookInternalId": "@006104",
     "hasBookTitle": "Studies in Shakespeare",
     "hasDisplayedTitle": "Studies in Shakespeare",
     "hasLanguage": "English",
-    "pubInfo": "Studies in Shakespeare. Westminster: Archibald Constable, 1904.",
+    "pubInfo": "<i>Studies in Shakespeare. </i>Westminster: Archibald Constable, 1904.",
     "hasCreationDate": "GREGORIAN:1904:1904",
     "hasPublicationDate": "GREGORIAN:1904:1904",
     "hasGenre": [
@@ -757,12 +847,30 @@
       "John Churton Collins"
     ]
   },
+  "ww_433962364e097652": {
+    "hasBookInternalId": "@005515",
+    "hasBookTitle": "Verh\u00e4ltnis von \"What You Will\" zu \"I Morti Vivi\"",
+    "hasDisplayedTitle": "Das Verh\u00e4ltnis von John Marston's \"What you will\" zu Plautus' \"Amphitruo\" und Sforza d'Oddi's \"I morti vivi\".",
+    "hasLanguage": "English",
+    "pubInfo": "<i>Das Verh\u00e4ltnis von John Marston's \"What you will\" zu Plautus' \"Amphitruo\" und Sforza d'Oddi's \"I morti vivi\". </i>PhD, Halle 1904.",
+    "hasCreationDate": "GREGORIAN:1904:1904",
+    "hasPublicationDate": "GREGORIAN:1904:1904",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Hermann Paul Becker"
+    ]
+  },
   "ww_0dd5e309103973fb": {
     "hasBookInternalId": "@010151",
     "hasBookTitle": "Shakespeare's Books",
     "hasDisplayedTitle": "Shakespeare's Books",
     "hasLanguage": "English",
-    "pubInfo": "Shakespeare's Books. A Dissertation on Shakespeare's Reading and the Immediate Sources of his Words. Berlin: Georg Reimer, 1904.",
+    "pubInfo": "<i>Shakespeare's Books. A Dissertation on Shakespeare's Reading and the Immediate Sources of his Words. </i>Berlin: Georg Reimer, 1904.",
     "hasCreationDate": "GREGORIAN:1904:1904",
     "hasPublicationDate": "GREGORIAN:1904:1904",
     "hasGenre": [
@@ -796,9 +904,9 @@
   "ww_5e05435c2593a395": {
     "hasBookInternalId": "@006148",
     "hasBookTitle": "Shakespeare Allusions (1904-01-16)",
-    "hasDisplayedTitle": "Shakespearian Allusions (1901-01-16)",
+    "hasDisplayedTitle": "Shakespearian Allusions (1904-01-16)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespearian Allusions.\" Notes and Queries. 10.1 (16 January 1904): 44.",
+    "pubInfo": "\"Shakespearian Allusions.\" <i>Notes and Queries </i>10.1 (16 January 1904): 44.",
     "hasCreationDate": "GREGORIAN:1904:1904",
     "hasPublicationDate": "GREGORIAN:1904:1904",
     "hasGenre": [
@@ -816,7 +924,7 @@
     "hasBookTitle": "Das Verh\u00e4ltnis Thomas Middletons zu Shakespeare",
     "hasDisplayedTitle": "Das Verh\u00e4ltnis Thomas Middletons zu Shakspere",
     "hasLanguage": "German",
-    "pubInfo": "Das Verh\u00e4ltnis Thomas Middletons zu Shakspere. M\u00fcnchner Beitr\u00e4ge 29. Leipzig: 1904.",
+    "pubInfo": "<i>Das Verh\u00e4ltnis Thomas Middletons zu Shakspere. </i>M\u00fcnchner Beitr\u00e4ge 29. Leipzig: 1904.",
     "hasCreationDate": "GREGORIAN:1904:1904",
     "hasPublicationDate": "GREGORIAN:1904:1904",
     "hasGenre": [
@@ -834,7 +942,7 @@
     "hasBookTitle": "Sir William D'Avenant's Relation to Shakespeare",
     "hasDisplayedTitle": "Sir William Davenant's Relation to Shakespeare",
     "hasLanguage": "English",
-    "pubInfo": "Sir William Davenant's Relation to Shakespeare. With an Analysis of the Chief Characters of Davenant's Plays. PhD [supervised by Emil Koeppel], Strasbourg 1905.",
+    "pubInfo": "<i>Sir William Davenant's Relation to Shakespeare. With an Analysis of the Chief Characters of Davenant's Plays. </i>PhD [supervised by Emil Koeppel], Strasbourg 1905.",
     "hasCreationDate": "GREGORIAN:1905:1905",
     "hasPublicationDate": "GREGORIAN:1905:1905",
     "hasGenre": [
@@ -852,7 +960,7 @@
     "hasBookTitle": "Shakespeares Wirkung auf zeitg. Dramatiker",
     "hasDisplayedTitle": "Studien \u00fcber Shakespeare's Wirkung auf zeitgen\u00f6ssische Dramatiker",
     "hasLanguage": "German",
-    "pubInfo": "Studien \u00fcber Shakespeare's Wirkung auf zeitgen\u00f6ssische Dramatiker. Louvain: Uystpruyst, 1905.",
+    "pubInfo": "<i>Studien \u00fcber Shakespeare's Wirkung auf zeitgen\u00f6ssische Dramatiker. </i>Louvain: Uystpruyst, 1905.",
     "hasCreationDate": "GREGORIAN:1905:1905",
     "hasPublicationDate": "GREGORIAN:1905:1905",
     "hasGenre": [
@@ -870,7 +978,7 @@
     "hasBookTitle": "Plays and Poems of Robert Greene (Collins edition)",
     "hasDisplayedTitle": "The Plays and Poems of Robert Greene (Collins edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. The Plays and Poems of Robert Greene. 2 vols. Oxford: Clarendon Press, 1905.",
+    "pubInfo": "ed. <i>The Plays and Poems of Robert Greene. </i>2 vols. Oxford: Clarendon Press, 1905.",
     "hasCreationDate": "GREGORIAN:1905:1905",
     "hasPublicationDate": "GREGORIAN:1905:1905",
     "hasGenre": [
@@ -888,7 +996,7 @@
     "hasBookTitle": "\"Locrine\" and \"Selimus\"",
     "hasDisplayedTitle": "\"Locrine\" und \"Selimus\"",
     "hasLanguage": "German",
-    "pubInfo": "\"Locrine and Selimus.\" Jahrbuch der deutschen Shakespeare-Gesellschaft (1905): 193-199.",
+    "pubInfo": "\"Locrine and Selimus.\" <i>Jahrbuch der deutschen Shakespeare-Gesellschaft </i>(1905): 193-199.",
     "hasCreationDate": "GREGORIAN:1905:1905",
     "hasPublicationDate": "GREGORIAN:1905:1905",
     "hasGenre": [
@@ -906,7 +1014,7 @@
     "hasBookTitle": "Quellenstudien zu den Dramen Thomas Middletons",
     "hasDisplayedTitle": "Quellenstudien zu den Dramen Thomas Middletons",
     "hasLanguage": "German",
-    "pubInfo": "Quellenstudien zu den Dramen Thomas Middletons. PhD Strassburg 1905. ",
+    "pubInfo": "Quellenstudien zu den Dramen Thomas Middletons. PhD [supervised by Emil Koeppel], Strasbourg 1905. ",
     "hasCreationDate": "GREGORIAN:1905:1905",
     "hasPublicationDate": "GREGORIAN:1905:1905",
     "hasGenre": [
@@ -924,7 +1032,7 @@
     "hasBookTitle": "Poetaster (Mallory edition)",
     "hasDisplayedTitle": "Poetaster (Mallory edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. Ben Jonson. Poetaster. Edited with Introduction, Notes and Glossary. New York: Henry Holt, 1905.",
+    "pubInfo": "ed. <i>Ben Jonson. Poetaster. Edited with Introduction, Notes and Glossary. </i>New York: Henry Holt, 1905.",
     "hasCreationDate": "GREGORIAN:1905:1905",
     "hasPublicationDate": "GREGORIAN:1905:1905",
     "hasGenre": [
@@ -942,7 +1050,7 @@
     "hasBookTitle": "Ben Jonson's ",
     "hasDisplayedTitle": "Ben Jonson's \"The Case Is Altered\" und seine Quellen",
     "hasLanguage": "German",
-    "pubInfo": "\"The Case Is Altered\" und seine Quellen. Halle: Kaemmerer, 1905.",
+    "pubInfo": "\"The Case Is Altered\" und seine Quellen. </i>Halle: Kaemmerer, 1905.",
     "hasCreationDate": "GREGORIAN:1905:1905",
     "hasPublicationDate": "GREGORIAN:1905:1905",
     "hasGenre": [
@@ -960,7 +1068,7 @@
     "hasBookTitle": "Shakspere, Marston and the Malcontent Type",
     "hasDisplayedTitle": "Shakspere, Marston, and the Malcontent Type",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakspere, Marston, and the Malcontent Type.\" Modern Philology 3.3 (January 1906): 281-303.",
+    "pubInfo": "\"Shakspere, Marston, and the Malcontent Type.\" <i>Modern Philology </i>3.3 (January 1906): 281-303.",
     "hasCreationDate": "GREGORIAN:1906:1906",
     "hasPublicationDate": "GREGORIAN:1906:1906",
     "hasGenre": [
@@ -978,7 +1086,7 @@
     "hasBookTitle": "Jonson's Wirkung auf zeitgen\u00f6ssische Dramatiker",
     "hasDisplayedTitle": "Ben Jonsons Wirkung auf zeitgen\u00f6ssische Dramatiker",
     "hasLanguage": "German",
-    "pubInfo": "Ben Jonson's Wirkung auf zeitgen\u00f6ssische Dramatiker und andere Studien zur \u00e4lteren Geschichte des englischen Dramas. Anglistische Forschungen. Heidelberg: Carl Winter, 1906.",
+    "pubInfo": "<i>Ben Jonson's Wirkung auf zeitgen\u00f6ssische Dramatiker und andere Studien zur \u00e4lteren Geschichte des englischen Dramas. </i>Anglistische Forschungen. Heidelberg: Carl Winter, 1906.",
     "hasCreationDate": "GREGORIAN:1906:1906",
     "hasPublicationDate": "GREGORIAN:1906:1906",
     "hasGenre": [
@@ -996,7 +1104,7 @@
     "hasBookTitle": "Pepys and Shakespeare",
     "hasDisplayedTitle": "Pepys and Shakespeare",
     "hasLanguage": "English",
-    "pubInfo": "\"Pepys and Shakespeare.\" Fortnightly Review 79.469 (January 1906): 104-120. ",
+    "pubInfo": "\"Pepys and Shakespeare.\" <i>Fortnightly Review</i> 79.469 (January 1906): 104-120. ",
     "hasCreationDate": "GREGORIAN:1906:1906",
     "hasPublicationDate": "GREGORIAN:1906:1906",
     "hasGenre": [
@@ -1014,7 +1122,7 @@
     "hasBookTitle": "A Greene-Marlowe Parallel",
     "hasDisplayedTitle": "A Greene-Marlowe Parallel",
     "hasLanguage": "English",
-    "pubInfo": "\"A Greene-Marlowe Parallel.\" Notes and Queries, 10-6-141 (8 September 1906): 185.",
+    "pubInfo": "\"A Greene-Marlowe Parallel.\" <i>Notes and Queries </i>10-6-141 (8 September 1906): 185.",
     "hasCreationDate": "GREGORIAN:1906:1906",
     "hasPublicationDate": "GREGORIAN:1906:1906",
     "hasGenre": [
@@ -1032,7 +1140,7 @@
     "hasBookTitle": "Cambridge History English and American Literature",
     "hasDisplayedTitle": "Cambridge History of English and American Literature",
     "hasLanguage": "English",
-    "pubInfo": "The Cambridge History of English and American Literature in 18 Volumes (1907-21). Volume V. The Drama to 1642, Part One.",
+    "pubInfo": "<i>The Cambridge History of English and American Literature in 18 Volumes (1907-21). Volume V. The Drama to 1642, Part One.",
     "hasCreationDate": "GREGORIAN:1907:1921",
     "hasPublicationDate": "GREGORIAN:1907:1921",
     "hasGenre": [
@@ -1050,7 +1158,7 @@
     "hasBookTitle": "+julius Caesar\" and \"The Wisdom of Doctor Dodypoll",
     "hasDisplayedTitle": "\"Julius Caesar\" und The Wisdom of Dr. Dodypoll",
     "hasLanguage": "German",
-    "pubInfo": "\"Shakespeares Julius Caesar und die Entstehungszeit des anonymen Dramas The Wisdom of Dr. Dodypoll.\" Jahrbuch der deutschen Shakespeare-Gesellschaft (1907): 210-212.",
+    "pubInfo": "\"Shakespeares Julius Caesar und die Entstehungszeit des anonymen Dramas The Wisdom of Dr. Dodypoll.\" <i>Jahrbuch der deutschen Shakespeare-Gesellschaft </i>(1907): 210-212.",
     "hasCreationDate": "GREGORIAN:1907:1907",
     "hasPublicationDate": "GREGORIAN:1907:1907",
     "hasGenre": [
@@ -1068,7 +1176,7 @@
     "hasBookTitle": "Shakespeare Allusions (1909-10-16)",
     "hasDisplayedTitle": "Shakespeare Allusions (1909-10-16)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries 10-12:303 (16 October 1909): 307. ",
+    "pubInfo": "\"Shakespeare Allusions.\" <i>Notes and Queries </i>10-12:303 (16 October 1909): 307. ",
     "hasCreationDate": "GREGORIAN:1907:1907",
     "hasPublicationDate": "GREGORIAN:1907:1907",
     "hasGenre": [
@@ -1086,7 +1194,7 @@
     "hasBookTitle": "Satiromastix (Scherer edition)",
     "hasDisplayedTitle": "Satiromastix (Scherer edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. Thomas Dekker. Satiro-Mastix or The Vntrvssing of the Humorous Poet. Louvain: A. Uytpruyst, 1907.",
+    "pubInfo": "ed. <i>Thomas Dekker. Satiro-Mastix or The Vntrvssing of the Humorous Poet. </i>Louvain: A. Uytpruyst, 1907.",
     "hasCreationDate": "GREGORIAN:1907:1907",
     "hasPublicationDate": "GREGORIAN:1907:1907",
     "hasGenre": [
@@ -1104,7 +1212,7 @@
     "hasBookTitle": "Sonnet III and Sidney's Arcadia",
     "hasDisplayedTitle": "Sonnet III and Sidney's Arcadia",
     "hasLanguage": "English",
-    "pubInfo": "\"Sonnet and Sidney's Arcadia.\" Notes and Queries VIII (31 August 1907): 164.",
+    "pubInfo": "\"Sonnet and Sidney's Arcadia.\" <i>Notes and Queries VIII </i>(31 August 1907): 164.",
     "hasCreationDate": "GREGORIAN:1907:1907",
     "hasPublicationDate": "GREGORIAN:1907:1907",
     "hasGenre": [
@@ -1122,7 +1230,7 @@
     "hasBookTitle": "Das Psyche-M\u00e4rchen des Apuleius",
     "hasDisplayedTitle": "Das Psyche-M\u00e4rchen des Apuleius in der englischen Literatur",
     "hasLanguage": "German",
-    "pubInfo": "Das Psyche-M\u00e4rchen des Apuleius in der englischen Literatur. PhD [supervised by Emil Koeppel], Strasbourg 1908.",
+    "pubInfo": "<i>Das Psyche-M\u00e4rchen des Apuleius in der englischen Literatur. </i>PhD [supervised by Emil Koeppel], Strasbourg 1908.",
     "hasCreationDate": "GREGORIAN:1908:1908",
     "hasPublicationDate": "GREGORIAN:1908:1908",
     "hasGenre": [
@@ -1136,12 +1244,12 @@
       "Adolf Hoffmann"
     ]
   },
-  "ww_946aa6b72a58e1cb": {
-    "hasBookInternalId": "@006253",
-    "hasBookTitle": "Man in the Almanack",
-    "hasDisplayedTitle": "Man in the Almanack",
+  "ww_e24af2e573d6caea": {
+    "hasBookInternalId": "@005510",
+    "hasBookTitle": "Man in the Almanack (Thorn-Drury)",
+    "hasDisplayedTitle": "Man in the Almanack (Thorn-Drury)",
     "hasLanguage": "English",
-    "pubInfo": "\"Man in the Almanack.\" Notes and Queries (18 July 1908): 56.",
+    "pubInfo": "\"Man in the Almanack.\" <i>Notes and Queries </i>(18 July 1908): 56.",
     "hasCreationDate": "GREGORIAN:1908:1908",
     "hasPublicationDate": "GREGORIAN:1908:1908",
     "hasGenre": [
@@ -1159,7 +1267,7 @@
     "hasBookTitle": "Gleichnisse und Metaphern in Shakespeares Dramen",
     "hasDisplayedTitle": "Gleichnisse und Metaphern in Shakespeare's Dramen",
     "hasLanguage": "German",
-    "pubInfo": "Gleichnisse und Metaphern in Shakespeare's Dramen und in seinen Quellenschriften. PhD. Strassburg: Elsass-Lothringische Druckerei, 1908. ",
+    "pubInfo": "<i>Gleichnisse und Metaphern in Shakespeare's Dramen und in seinen Quellenschriften. </i>[PhD thesis supervised by Emil Koeppel]. Strasbourg: Elsass-Lothringische Druckerei, 1908. ",
     "hasCreationDate": "GREGORIAN:1908:1908",
     "hasPublicationDate": "GREGORIAN:1908:1908",
     "hasGenre": [
@@ -1177,7 +1285,7 @@
     "hasBookTitle": "The Shakspere Allusion Book",
     "hasDisplayedTitle": "The Shakspere Allusion Book",
     "hasLanguage": "English",
-    "pubInfo": "The Shakspere Allusion Book. A Collection of Allusions to Shakspere from 1591 to 1700 [...]. London: Chatto and Windus; New York: Duffield and Co., 1909.",
+    "pubInfo": "<i>The Shakspere Allusion Book. A Collection of Allusions to Shakspere from 1591 to 1700 [...]. </i>London: Chatto and Windus; New York: Duffield and Co., 1909.",
     "hasCreationDate": "GREGORIAN:1909:1909",
     "hasPublicationDate": "GREGORIAN:1909:1909",
     "hasGenre": [
@@ -1191,6 +1299,24 @@
       "Clement Mansfield Ingleby",
       "John Munro",
       "Lucy Toulmin Smith"
+    ]
+  },
+  "ww_4bc96111070dd687": {
+    "hasBookInternalId": "@005503",
+    "hasBookTitle": "Ben Jonson and Suckling",
+    "hasDisplayedTitle": "Ben Jonson and Suckling",
+    "hasLanguage": "English",
+    "pubInfo": "\"Ben Jonson and Suckling.\" <i>Notes and Queries </i>10-12:305 (30 October 1909): 345. ",
+    "hasCreationDate": "GREGORIAN:1909:1909",
+    "hasPublicationDate": "GREGORIAN:1909:1909",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "George Thorn-Drury"
     ]
   },
   "ww_094dde0bbfc7c97a": {
@@ -1216,7 +1342,7 @@
     "hasBookTitle": "The Classical Element in the Shakespeare Plays",
     "hasDisplayedTitle": "The Classical Element in the Shakespeare Plays",
     "hasLanguage": "English",
-    "pubInfo": "The Classical Element in the Shakespeare Plays. London: Robert Banks, 1909. ",
+    "pubInfo": "<i>The Classical Element in the Shakespeare Plays.</i> London: Robert Banks, 1909. ",
     "hasCreationDate": "GREGORIAN:1909:1909",
     "hasPublicationDate": "GREGORIAN:1909:1909",
     "hasGenre": [
@@ -1235,7 +1361,7 @@
     "hasBookTitle": "Shakespeare Allusions (1909-12-11)",
     "hasDisplayedTitle": "Shakespeare Allusions (1909-12-11)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries (11 December 1909): 465-466.",
+    "pubInfo": "\"Shakespeare Allusions.\" <i>Notes and Queries </i>(11 December 1909): 465-466.",
     "hasCreationDate": "GREGORIAN:1909:1909",
     "hasPublicationDate": "GREGORIAN:1909:1909",
     "hasGenre": [
@@ -1253,7 +1379,7 @@
     "hasBookTitle": "Shakespeare Allusion (1909-04-17)",
     "hasDisplayedTitle": "Shakespeare Allusion (1909-04-17)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusion.\" Notes and Queries 40 (17 April 1909): 305.",
+    "pubInfo": "\"Shakespeare Allusion.\" <i>Notes and Queries</i> 40 (17 April 1909): 305.",
     "hasCreationDate": "GREGORIAN:1909:1909",
     "hasPublicationDate": "GREGORIAN:1909:1909",
     "hasGenre": [
@@ -1271,7 +1397,7 @@
     "hasBookTitle": "Shakespeare Allusions (1909-06-12)",
     "hasDisplayedTitle": "Shakespeare Allusions (1909-06-12)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries 10-11 (12 June 1909): 465.",
+    "pubInfo": "\"Shakespeare Allusions.\" <i>Notes and Queries </i>10-11 (12 June 1909): 465.",
     "hasCreationDate": "GREGORIAN:1909:1909",
     "hasPublicationDate": "GREGORIAN:1909:1909",
     "hasGenre": [
@@ -1289,7 +1415,7 @@
     "hasBookTitle": "Montaigne and Shakespeare",
     "hasDisplayedTitle": "Montaigne and Shakespeare",
     "hasLanguage": "English",
-    "pubInfo": "Montaigne and Shakespeare. London: Adam and Charles Black, 1909.",
+    "pubInfo": "<i>Montaigne and Shakespeare. </i>London: Adam and Charles Black, 1909.",
     "hasCreationDate": "GREGORIAN:1909:1909",
     "hasPublicationDate": "GREGORIAN:1909:1909",
     "hasGenre": [
@@ -1307,7 +1433,7 @@
     "hasBookTitle": "Thomas Mays \"Julia Agrippina\"",
     "hasDisplayedTitle": "Thomas May's Tragedy of Julia Agrippina (Schmid edition)",
     "hasLanguage": "German",
-    "pubInfo": "Thomas May's tragedy of Julia Agrippina, empresse of Rome. Louvain: A. Uytspruyst, 1914. Printed version of Schmid, F. Ernst. Thomas May's tragedy of Julia Agrippina, empresse of Rome. PhD [supervised by Emil Koeppel], Strasbourg 1910. ",
+    "pubInfo": "<i>Thomas May's tragedy of Julia Agrippina, empresse of Rome. </i>Louvain: A. Uytspruyst, 1914. Printed version of F. Ernst Schmid. <i>Thomas May's tragedy of Julia Agrippina, empresse of Rome. </i>PhD [supervised by Emil Koeppel], Strasbourg 1910. ",
     "hasCreationDate": "GREGORIAN:1910:1910",
     "hasPublicationDate": "GREGORIAN:1910:1910",
     "hasGenre": [
@@ -1325,7 +1451,7 @@
     "hasBookTitle": "Shakespeare Allusions (1910-10-29)",
     "hasDisplayedTitle": "Shakespeare Allusions (1910-10-29)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries (29 October 1910): 344-345.",
+    "pubInfo": "\"Shakespeare Allusions.\" <i>Notes and Queries </i>(29 October 1910): 344-345.",
     "hasCreationDate": "GREGORIAN:1910:1910",
     "hasPublicationDate": "GREGORIAN:1910:1910",
     "hasGenre": [
@@ -1343,7 +1469,7 @@
     "hasBookTitle": "Tragedy of Messallina (Skemp edition)",
     "hasDisplayedTitle": "Tragedy of Messallina (Skemp edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. Nathanael Richards' tragedy of Messallina the Roman emperesse. Louvain: A. Uystpruyst, 1910. ",
+    "pubInfo": "ed. <i>Nathanael Richards' tragedy of Messallina the Roman emperesse. [PhD supervised by Emil Koeppel]</i>Louvain: A. Uystpruyst, 1910. ",
     "hasCreationDate": "GREGORIAN:1910:1910",
     "hasPublicationDate": "GREGORIAN:1910:1910",
     "hasGenre": [
@@ -1361,7 +1487,7 @@
     "hasBookTitle": "Notes on the Society&#039;s Publications",
     "hasDisplayedTitle": "Notes on the Society's Publications",
     "hasLanguage": "English",
-    "pubInfo": "\"Notes on the Society's Publications.\" The Malone Society Collections parts IV and V. Ed. W. W. Greg. Oxford: Oxford University Press For the Malone Society, 1911. 285-295.",
+    "pubInfo": "\"Notes on the Society's Publications.\" <i>The Malone Society Collections parts IV and V. </i>Ed. W. W. Greg. Oxford: Oxford University Press For the Malone Society, 1911. 285-295.",
     "hasCreationDate": "GREGORIAN:1911:1911",
     "hasPublicationDate": "GREGORIAN:1911:1911",
     "hasGenre": [
@@ -1379,7 +1505,7 @@
     "hasBookTitle": "Bodenham's Belvedere",
     "hasDisplayedTitle": "Bodenham's Belvedere",
     "hasLanguage": "English",
-    "pubInfo": "\"Bodenham's Belvedere.\" The Malone Society Collections parts IV and V. Ed. W. W. Greg. Oxford: Oxford University Press For the Malone Society, 1911. 296-306.",
+    "pubInfo": "\"Bodenham's Belvedere.\" <i>The Malone Society Collections parts IV and V. </i>Ed. W. W. Greg. Oxford: Oxford University Press For the Malone Society, 1911. 296-306.",
     "hasCreationDate": "GREGORIAN:1911:1911",
     "hasPublicationDate": "GREGORIAN:1911:1911",
     "hasGenre": [
@@ -1397,7 +1523,7 @@
     "hasBookTitle": "Shakespeare Allusions (1911-04-22)",
     "hasDisplayedTitle": "Shakespeare Allusions (1911-04-22)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries (22 April 1911): 305.",
+    "pubInfo": "\"Shakespeare Allusions.\" <i>Notes and Queries </i>(22 April 1911): 305.",
     "hasCreationDate": "GREGORIAN:1911:1911",
     "hasPublicationDate": "GREGORIAN:1911:1911",
     "hasGenre": [
@@ -1415,7 +1541,7 @@
     "hasBookTitle": "Shakespeare Allusions (1912-11-30)",
     "hasDisplayedTitle": "Shakespeare Allusions (1912-11-30)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries 11-6:153 (30 November 1912): 426-427.",
+    "pubInfo": "\"Shakespeare Allusions.\" <i>Notes and Queries </i>11-6:153 (30 November 1912): 426-427.",
     "hasCreationDate": "GREGORIAN:1912:1912",
     "hasPublicationDate": "GREGORIAN:1912:1912",
     "hasGenre": [
@@ -1433,7 +1559,7 @@
     "hasBookTitle": "The Fleire (Nibbe edition)",
     "hasDisplayedTitle": "The Fleire (Nibbe edition)",
     "hasLanguage": "German",
-    "pubInfo": "ed. The Fleire by Edward Sharpham nach der Quarto 1607 herausgegeben. Louvain: A. Uystpruyst, 1912. Print edition of Hunold Nibbe. The Fleire by Edward Sharpham: kritische Neuausgabe mit Einleitung und Anmerkungen. PhD Strassburg 1911. ",
+    "pubInfo": "ed. <i>The Fleire by Edward Sharpham nach der Quarto 1607 herausgegeben. </i>Louvain: A. Uystpruyst, 1912. Print edition of Hunold Nibbe, ed. <i>The Fleire by Edward Sharpham: kritische Neuausgabe mit Einleitung und Anmerkungen. </i>PhD [supervised by Emil Koeppel], Strasbourg 1911. ",
     "hasCreationDate": "GREGORIAN:1912:1912",
     "hasPublicationDate": "GREGORIAN:1912:1912",
     "hasGenre": [
@@ -1451,7 +1577,7 @@
     "hasBookTitle": "How a Man May Choose a Good Wife (Swaen edition)",
     "hasDisplayedTitle": "How a Man May Choose a Good Wife (Swaen edition)",
     "hasLanguage": "German",
-    "pubInfo": "ed. How a Man May Choose a Good Wife from a Bad von Thomas Heywood nach der Quarto 1608 herausgegeben. Louvain: A. Uystpruyst, 1912.",
+    "pubInfo": "ed. <i>How a Man May Choose a Good Wife from a Bad von Thomas Heywood nach der Quarto 1608 herausgegeben. </i>Louvain: A. Uystpruyst, 1912.",
     "hasCreationDate": "GREGORIAN:1912:1912",
     "hasPublicationDate": "GREGORIAN:1912:1912",
     "hasGenre": [
@@ -1466,10 +1592,10 @@
   },
   "ww_f3582e478658b162": {
     "hasBookInternalId": "@006000",
-    "hasBookTitle": "The Insatiate Countess: Verh\u00e4ltnis zu den Quellen",
+    "hasBookTitle": "\"The Insatiate Countess\": Verh\u00e4ltnis zu Quellen",
     "hasDisplayedTitle": "The Insatiate Countess, Verh\u00e4ltnis zu den Quellen, Charakterzeichung und Stil",
     "hasLanguage": "German",
-    "pubInfo": "The Insatiate Countess, Verh\u00e4ltnis zu den Quellen, Charakterzeichung und Stil. PhD, K\u00f6nigsberg 1913.",
+    "pubInfo": "<i>The Insatiate Countess, Verh\u00e4ltnis zu den Quellen, Charakterzeichung und Stil. </i>PhD, K\u00f6nigsberg 1913.",
     "hasCreationDate": "GREGORIAN:1913:1913",
     "hasPublicationDate": "GREGORIAN:1913:1913",
     "hasGenre": [
@@ -1487,7 +1613,7 @@
     "hasBookTitle": "Shakespeare Allusions (1913-08-02)",
     "hasDisplayedTitle": "Shakespeare Allusions (1913-08-02)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries (2 August 1913): 86.",
+    "pubInfo": "\"Shakespeare Allusions.\" <i>Notes and Queries </i>(2 August 1913): 86.",
     "hasCreationDate": "GREGORIAN:1913:1913",
     "hasPublicationDate": "GREGORIAN:1913:1913",
     "hasGenre": [
@@ -1505,7 +1631,7 @@
     "hasBookTitle": "The Turk (Adams edition)",
     "hasDisplayedTitle": "The Turk (Adams edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. John Mason's The Turke edited from the Quartos of 1610 and 1632. Louvain: A. Uytpruyst, 1913.",
+    "pubInfo": "ed. <i>John Mason's The Turke edited from the Quartos of 1610 and 1632. </i>Louvain: A. Uytpruyst, 1913.",
     "hasCreationDate": "GREGORIAN:1913:1913",
     "hasPublicationDate": "GREGORIAN:1913:1913",
     "hasGenre": [
@@ -1523,7 +1649,7 @@
     "hasBookTitle": "England's Parnassus (Crawford edition)",
     "hasDisplayedTitle": "England's Parnassus (Crawford Edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. England's Parnassus, Compiled by Robert Allot, 1600. Edited from the Original Text in the Bodleian Library and compared with the two copies in the British Museum. With Introduction, Notes, Tables and Indexes. Oxford: Clarendon Press, 1913.",
+    "pubInfo": "ed. <i>England's Parnassus, Compiled by Robert Allot, 1600. Edited from the Original Text in the Bodleian Library and compared with the two copies in the British Museum. With Introduction, Notes, Tables and Indexes. </i>Oxford: Clarendon Press, 1913.",
     "hasCreationDate": "GREGORIAN:1913:1913",
     "hasPublicationDate": "GREGORIAN:1913:1913",
     "hasGenre": [
@@ -1541,7 +1667,7 @@
     "hasBookTitle": "William Heminge and Shakespeare",
     "hasDisplayedTitle": "William Heminge and Shakespeare",
     "hasLanguage": "English",
-    "pubInfo": "\"William Heminge and Shakespeare.\" Modern Philology 12:1 (May, 1914): 51-64.",
+    "pubInfo": "\"William Heminge and Shakespeare.\" <i>Modern Philology</i> 12:1 (May, 1914): 51-64.",
     "hasCreationDate": "GREGORIAN:1914:1914",
     "hasPublicationDate": "GREGORIAN:1914:1914",
     "hasGenre": [
@@ -1559,7 +1685,7 @@
     "hasBookTitle": "The Vow-Breaker (Wallrath edition)",
     "hasDisplayedTitle": "The Vow-Breaker (Wallrath edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. William Sampson's The Vow-Breaker. Louvain: A. Uytpruyst, 1914.",
+    "pubInfo": "ed. <i>William Sampson's The Vow-Breaker. </i>Louvain: A. Uytpruyst, 1914.",
     "hasCreationDate": "GREGORIAN:1914:1914",
     "hasPublicationDate": "GREGORIAN:1914:1914",
     "hasGenre": [
@@ -1577,7 +1703,7 @@
     "hasBookTitle": "Shakespeare Allusions (1915-03-06)",
     "hasDisplayedTitle": "Shakespeare Allusions (1915-03-06)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries",
+    "pubInfo": "\"Shakespeare Allusions.\" <i>Notes and Queries </i>(6 March 1915): 184-185.",
     "hasCreationDate": "GREGORIAN:1915:1915",
     "hasPublicationDate": "GREGORIAN:1915:1915",
     "hasGenre": [
@@ -1613,7 +1739,7 @@
     "hasBookTitle": "More Shakspere Allusions",
     "hasDisplayedTitle": "More Shakspere Allusions",
     "hasLanguage": "English",
-    "pubInfo": "\"More Shakspere Allusions.\" Modern Philology 13.9 (1916): 497-544.",
+    "pubInfo": "\"More Shakspere Allusions.\" <i>Modern Philology</i> 13.9 (1916): 497-544.",
     "hasCreationDate": "GREGORIAN:1916:1916",
     "hasPublicationDate": "GREGORIAN:1916:1916",
     "hasGenre": [
@@ -1631,7 +1757,7 @@
     "hasBookTitle": "Shakespeares Abh\u00e4ngigkeit von John Marston",
     "hasDisplayedTitle": "Shakespeares Abh\u00e4ngigkeit von John Marston",
     "hasLanguage": "German",
-    "pubInfo": "Shakespeares Abh\u00e4ngigkeit von John Marston.",
+    "pubInfo": "<i>Shakespeares Abh\u00e4ngigkeit von John Marston. </i>C\u00f6then: Otto Schulze, 1918.",
     "hasCreationDate": "GREGORIAN:1918:1918",
     "hasPublicationDate": "GREGORIAN:1918:1918",
     "hasGenre": [
@@ -1649,7 +1775,7 @@
     "hasBookTitle": "Some Further Shakspere Allusions or Parallels",
     "hasDisplayedTitle": "Some Further Shakspere Allusions or Parallels",
     "hasLanguage": "English",
-    "pubInfo": "\"Some Further Shakspere Allusions or Parallels.\" Modern Language Notes 33:4 (April 1918): 204-208. ",
+    "pubInfo": "\"Some Further Shakspere Allusions or Parallels.\" <i>Modern Language Notes</i>33:4 (April 1918): 204-208. ",
     "hasCreationDate": "GREGORIAN:1918:1918",
     "hasPublicationDate": "GREGORIAN:1918:1918",
     "hasGenre": [
@@ -1667,7 +1793,7 @@
     "hasBookTitle": "Shakespeare and the Stage",
     "hasDisplayedTitle": "Shakespeare and the Stage",
     "hasLanguage": "English",
-    "pubInfo": "Shakespeare and the Stage With a Complete List of Theatrical Terms Used by Shakespeare in His Plays and Poems, Arranged in Alphabetical Order and Explanatory Notes. London: Davis and Orioli, 1918.",
+    "pubInfo": "<i>Shakespeare and the Stage With a Complete List of Theatrical Terms Used by Shakespeare in His Plays and Poems, Arranged in Alphabetical Order and Explanatory Notes. </i>London: Davis and Orioli, 1918.",
     "hasCreationDate": "GREGORIAN:1918:1918",
     "hasPublicationDate": "GREGORIAN:1918:1918",
     "hasGenre": [
@@ -1685,7 +1811,7 @@
     "hasBookTitle": "Drayton's Anteil an \"Heinrich VI 2. und 3. Teil\"",
     "hasDisplayedTitle": "Draytons Anteil an \"Heinrich VI, 2. und 3. Teil\"",
     "hasLanguage": "German",
-    "pubInfo": "Draytons Anteil an \"Heinrich VI, 2. und 3. Teil.\" C\u00f6then: Otto Schulze, 1920.",
+    "pubInfo": "<i>Draytons Anteil an \"Heinrich VI, 2. und 3. Teil.\" </i>C\u00f6then: Otto Schulze, 1920.",
     "hasCreationDate": "GREGORIAN:1920:1920",
     "hasPublicationDate": "GREGORIAN:1920:1920",
     "hasGenre": [
@@ -1703,7 +1829,7 @@
     "hasBookTitle": "Some Seventeenth-Century Allusions to Shakespeare ",
     "hasDisplayedTitle": "Some Seventeenth-Century Allusions to Shakespeare and His Works",
     "hasLanguage": "English",
-    "pubInfo": "Some Seventeenth-Century Allusions to Shakespeare and His Works, Not Hitherto Collected. London: P. J. and A. E. Dobell, 1920.",
+    "pubInfo": "<i>Some Seventeenth-Century Allusions to Shakespeare and His Works, Not Hitherto Collected. </i>London: P. J. and A. E. Dobell, 1920.",
     "hasCreationDate": "GREGORIAN:1920:1920",
     "hasPublicationDate": "GREGORIAN:1920:1920",
     "hasGenre": [
@@ -1721,7 +1847,7 @@
     "hasBookTitle": "The Jonson Allusion Book",
     "hasDisplayedTitle": "The Jonson Allusion Book",
     "hasLanguage": "English",
-    "pubInfo": "eds. The Jonson Allusion Book: A Collection of Allusions to Ben Jonson from 1597 to 1700. New Haven, Yale University Press, 1922.",
+    "pubInfo": "eds. <i>The Jonson Allusion Book: A Collection of Allusions to Ben Jonson from 1597 to 1700. </i>New Haven, Yale University Press, 1922.",
     "hasCreationDate": "GREGORIAN:1922:1922",
     "hasPublicationDate": "GREGORIAN:1922:1922",
     "hasGenre": [
@@ -1740,7 +1866,7 @@
     "hasBookTitle": "More Seventeenth-Century Allusions to Shakespeare ",
     "hasDisplayedTitle": "More Seventeenth-Century Allusions to Shakespeare",
     "hasLanguage": "English",
-    "pubInfo": "More Seventeenth-Century Allusions to Shakespeare and His Works. London: P. J. and A. E. Dobell, 1924.",
+    "pubInfo": "<i>More Seventeenth-Century Allusions to Shakespeare and His Works.</i> London: P. J. and A. E. Dobell, 1924.",
     "hasCreationDate": "GREGORIAN:1924:1924",
     "hasPublicationDate": "GREGORIAN:1924:1924",
     "hasGenre": [
@@ -1753,12 +1879,31 @@
       "George Thorn-Drury"
     ]
   },
+  "ww_e9862bcfbf333acf": {
+    "hasBookInternalId": "@005508",
+    "hasBookTitle": "Shakespeare's Small Latin",
+    "hasDisplayedTitle": "Shakespeare's Small Latin",
+    "hasLanguage": "English",
+    "pubInfo": "\"Shakespeare's Small Latin.\" <i>Modern Language Notes </i>40.6 (June 1925): 380-38. ",
+    "hasCreationDate": "GREGORIAN:1925:1925",
+    "hasPublicationDate": "GREGORIAN:1925:1925",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Classical Studies"
+    ],
+    "authors": [
+      "Malcolm L. Wilder"
+    ]
+  },
   "ww_57be8231048a91e3": {
     "hasBookInternalId": "@006435",
     "hasBookTitle": "The Authorship of \"The Revenger's Tragedy\"",
     "hasDisplayedTitle": "The Authorship of The Revenger's Tragedy",
     "hasLanguage": "English",
-    "pubInfo": "\"The Authorship of The Revenger's Tragedy.\" Studies in Philology 23 (1926): 157-168.",
+    "pubInfo": "\"The Authorship of The Revenger's Tragedy.\" <i>Studies in Philology </i>23 (1926): 157-168.",
     "hasCreationDate": "GREGORIAN:1926:1926",
     "hasPublicationDate": "GREGORIAN:1926:1926",
     "hasGenre": [
@@ -1776,7 +1921,7 @@
     "hasBookTitle": "A Note on Shakespeare and Nash",
     "hasDisplayedTitle": "A Note on Shakespeare and Nash",
     "hasLanguage": "English",
-    "pubInfo": "\"A Note on Shakespeare and Nash.\" MLN 42.5 (May 1927): 317-319.",
+    "pubInfo": "\"A Note on Shakespeare and Nash.\" <i>MOdern Language Notes</i> 42.5 (May 1927): 317-319.",
     "hasCreationDate": "GREGORIAN:1927:1927",
     "hasPublicationDate": "GREGORIAN:1927:1927",
     "hasGenre": [
@@ -1794,7 +1939,7 @@
     "hasBookTitle": "The Complete Works of John Webster (Lucas edition)",
     "hasDisplayedTitle": "The Complete Works of John Webster (Lucas edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. The Complete Works of John Webster. 4 vols. London: Chatto and Windus, 1927. ",
+    "pubInfo": "ed. <i>The Complete Works of John Webster. </i>4 vols. London: Chatto and Windus, 1927. ",
     "hasCreationDate": "GREGORIAN:1927:1927",
     "hasPublicationDate": "GREGORIAN:1927:1927",
     "hasGenre": [
@@ -1830,7 +1975,7 @@
     "hasBookTitle": "Nathan Field, The Actor-Playwright",
     "hasDisplayedTitle": "Nathan Field, The Actor-Playwright",
     "hasLanguage": "English",
-    "pubInfo": "Nathan Field, The Actor-Playwright. New Haven: Yale University Press, 1928.",
+    "pubInfo": "<i>Nathan Field, The Actor-Playwright. </i>New Haven: Yale University Press, 1928.",
     "hasCreationDate": "GREGORIAN:1928:1928",
     "hasPublicationDate": "GREGORIAN:1928:1928",
     "hasGenre": [
@@ -1848,7 +1993,7 @@
     "hasBookTitle": "Shakspere's Silences",
     "hasDisplayedTitle": "Shakspere's Silences",
     "hasLanguage": "English",
-    "pubInfo": "Shakspere's Silences. Library of Shakespearean Biography and Criticism. New York: Books for Libraries Press, 1970. 64; chapter 2 \"Shakspere and the Unhappy Happy Ending\".",
+    "pubInfo": "<i>Shakspere's Silences. Library of Shakespearean Biography and Criticism. </i>New York: Books for Libraries Press, 1970. 64; chapter 2 \"Shakspere and the Unhappy Happy Ending\".",
     "hasCreationDate": "GREGORIAN:1929:1929",
     "hasPublicationDate": "GREGORIAN:1929:1929",
     "hasGenre": [
@@ -1866,7 +2011,7 @@
     "hasBookTitle": "The Life of Marlowe",
     "hasDisplayedTitle": "The Life of Marlowe",
     "hasLanguage": "English",
-    "pubInfo": "ed. The Life of Marlowe and The Tragedy of Dido Queen of Carthage. London: Methuen and Co., 1930.",
+    "pubInfo": "ed. <i>The Life of Marlowe and The Tragedy of Dido Queen of Carthage. </i>London: Methuen and Co., 1930.",
     "hasCreationDate": "GREGORIAN:1930:1930",
     "hasPublicationDate": "GREGORIAN:1930:1930",
     "hasGenre": [
@@ -1884,7 +2029,7 @@
     "hasBookTitle": "Shakespeare - A Study of Facts and Problems",
     "hasDisplayedTitle": "Shakespeare - A Study of Facts and Problems",
     "hasLanguage": "English",
-    "pubInfo": "Shakespeare - A Study of Facts and Problems. Oxford: Clarendon Press, 1930.",
+    "pubInfo": "<i>Shakespeare - A Study of Facts and Problems.</i> Oxford: Clarendon Press, 1930.",
     "hasCreationDate": "GREGORIAN:1930:1930",
     "hasPublicationDate": "GREGORIAN:1930:1930",
     "hasGenre": [
@@ -1902,7 +2047,7 @@
     "hasBookTitle": "A Survey of Burlesques and Parody in English",
     "hasDisplayedTitle": "A Survey of Burlesques and Parody in English",
     "hasLanguage": "English",
-    "pubInfo": "A Survey of Burlesques and Parody in English. Edinburgh: Oliver and Boyd, 1931.",
+    "pubInfo": "<i>A Survey of Burlesques and Parody in English.</i> Edinburgh: Oliver and Boyd, 1931.",
     "hasCreationDate": "GREGORIAN:1931:1931",
     "hasPublicationDate": "GREGORIAN:1931:1931",
     "hasGenre": [
@@ -1920,7 +2065,7 @@
     "hasBookTitle": "Edward II (Charlton edition)",
     "hasDisplayedTitle": "Edward II (Charlton edition)",
     "hasLanguage": "English",
-    "pubInfo": "eds. Edward II by Christopher Marlowe. London: Methuen, 1933.",
+    "pubInfo": "eds. <i>Edward II by Christopher Marlowe. </i>London: Methuen, 1933.",
     "hasCreationDate": "GREGORIAN:1933:1933",
     "hasPublicationDate": "GREGORIAN:1933:1933",
     "hasGenre": [
@@ -1939,7 +2084,7 @@
     "hasBookTitle": "Hamlets Book",
     "hasDisplayedTitle": "Hamlet's Book",
     "hasLanguage": "English",
-    "pubInfo": "\"Hamlet's Book.\" Huntington Library Bulletin 6 (1934): 17-37.",
+    "pubInfo": "\"Hamlet's Book.\" <i>Huntington Library Bulletin </i>6 (1934): 17-37.",
     "hasCreationDate": "GREGORIAN:1934:1934",
     "hasPublicationDate": "GREGORIAN:1934:1934",
     "hasGenre": [
@@ -1957,7 +2102,7 @@
     "hasBookTitle": "The Plays of John Marston (Wood edition)",
     "hasDisplayedTitle": "The Plays of John Marston (Wood edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. The Plays of John Marston in Three Volumes. Edinburgh and London: Oliver and Boyd, 1934-1939.",
+    "pubInfo": "ed. <i>The Plays of John Marston in Three Volumes. </i>Edinburgh and London: Oliver and Boyd, 1934-1939.",
     "hasCreationDate": "GREGORIAN:1934:1939",
     "hasPublicationDate": "GREGORIAN:1934:1939",
     "hasGenre": [
@@ -1970,12 +2115,30 @@
       "Harvey Wood"
     ]
   },
+  "ww_ec4ce2b76d07e448": {
+    "hasBookInternalId": "@005507",
+    "hasBookTitle": "\"The Murder of Gonzago\"",
+    "hasDisplayedTitle": "\"The Murder of Gonzago\": A Probable Source",
+    "hasLanguage": "English",
+    "pubInfo": "\"'The Murder of Gonzago': A Probable Source for Hamlet.\" <i>The Modern Language Review </i>30.4 (October 1935): 433-444.  ",
+    "hasCreationDate": "GREGORIAN:1935:1935",
+    "hasPublicationDate": "GREGORIAN:1935:1935",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Geoffrey Bullough"
+    ]
+  },
   "ww_07d0fc72aea34525": {
     "hasBookInternalId": "@006477",
     "hasBookTitle": "Eudemian Ethics (Rackham edition)",
     "hasDisplayedTitle": "Eudemian Ethics (Rackham edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. Aristotle. Athenian Constitution. Eudemian Ethics. Virtues and Vices. Trans. H. Rackham. Loeb Classical Library 285. Cambridge (MA): Harvard University Press, 1935.",
+    "pubInfo": "ed. Aristotle. <i>Athenian Constitution. Eudemian Ethics. Virtues and Vices. </i>Trans. H. Rackham. Loeb Classical Library 285. Cambridge (MA): Harvard University Press, 1935.",
     "hasCreationDate": "GREGORIAN:1935:1935",
     "hasPublicationDate": "GREGORIAN:1935:1935",
     "hasGenre": [
@@ -1993,7 +2156,7 @@
     "hasBookTitle": "Restoration Drama Songs in Poetical Miscellanies",
     "hasDisplayedTitle": "Songs from Restoration Drama in Contemporary and Eighteenth-Century Poetical Miscellanies",
     "hasLanguage": "English",
-    "pubInfo": "\"Songs from Restoration Drama in Contemporary and Eighteenth-Century Poetical Miscellanies.\" ELH 3.4 (December 1936): 291-316.",
+    "pubInfo": "\"Songs from Restoration Drama in Contemporary and Eighteenth-Century Poetical Miscellanies.\" <i>ELH</i> 3.4 (December 1936): 291-316.",
     "hasCreationDate": "GREGORIAN:1936:1936",
     "hasPublicationDate": "GREGORIAN:1936:1936",
     "hasGenre": [
@@ -2011,7 +2174,7 @@
     "hasBookTitle": "Marlowe's Role in Borrowed Lines",
     "hasDisplayedTitle": "Marlowe's Role in Borrowed Lines",
     "hasLanguage": "English",
-    "pubInfo": "\"Marlowe's Role in Borrowed Lines.\" PMLA 52 (1937): 902-903.",
+    "pubInfo": "\"Marlowe's Role in Borrowed Lines.\" <i>PMLA </i>52 (1937): 902-903.",
     "hasCreationDate": "GREGORIAN:1937:1937",
     "hasPublicationDate": "GREGORIAN:1937:1937",
     "hasGenre": [
@@ -2029,7 +2192,7 @@
     "hasBookTitle": "What Happens in Hamlet",
     "hasDisplayedTitle": "What Happens in Hamlet?",
     "hasLanguage": "English",
-    "pubInfo": "What Happens in Hamlet? Cambridge: Cambridge University Press, 2003.",
+    "pubInfo": "<i>What Happens in Hamlet? </i>Cambridge: Cambridge University Press, 2003.",
     "hasCreationDate": "GREGORIAN:1937:1937",
     "hasPublicationDate": "GREGORIAN:1937:1937",
     "hasGenre": [
@@ -2065,7 +2228,7 @@
     "hasBookTitle": "Hamlet, Three Notes (Baker)",
     "hasDisplayedTitle": "Hamlet, Three Notes [Baker]",
     "hasLanguage": "English",
-    "pubInfo": "\"Hamlet, Three Notes [Baker].\" Notes and Queries (27 August 1938): 158.",
+    "pubInfo": "\"Hamlet, Three Notes [Baker].\" <i>Notes and Queries </i>(27 August 1938): 158.",
     "hasCreationDate": "GREGORIAN:1938:1938",
     "hasPublicationDate": "GREGORIAN:1938:1938",
     "hasGenre": [
@@ -2078,12 +2241,66 @@
       "H. Kendra Baker"
     ]
   },
+  "ww_7ac67fd33c82cf48": {
+    "hasBookInternalId": "@005519",
+    "hasBookTitle": "The Mind's Eye (Hibernicus)",
+    "hasDisplayedTitle": "The Mind's Eye",
+    "hasLanguage": "English",
+    "pubInfo": "\"The Mind's Eye.\" <i>Notes and Queries </i>175:11 (10 September 1938): 191.",
+    "hasCreationDate": "GREGORIAN:1938:1938",
+    "hasPublicationDate": "GREGORIAN:1938:1938",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "History, (auto-)biography"
+    ],
+    "authors": [
+      "_ Hibernicus"
+    ]
+  },
+  "ww_32b7371282cca991": {
+    "hasBookInternalId": "@005520",
+    "hasBookTitle": "The Mind's Eye (G. G. L.)",
+    "hasDisplayedTitle": "The Mind's Eye",
+    "hasLanguage": "English",
+    "pubInfo": "\"The Mind's Eye.\" Notes and Queries (10 September 1938): 191.",
+    "hasCreationDate": "GREGORIAN:1938:1938",
+    "hasPublicationDate": "GREGORIAN:1938:1938",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "_ G. G. L."
+    ]
+  },
+  "ww_8d9622a9c6f4aa46": {
+    "hasBookInternalId": "@005521",
+    "hasBookTitle": "The Mind&#039;s Eye (Carver)",
+    "hasDisplayedTitle": "The Mind's Eye",
+    "hasLanguage": "English",
+    "pubInfo": "\"The Mind's Eye.\" <i>Notes and Queries </i>(10 September 1938): 191.",
+    "hasCreationDate": "GREGORIAN:1938:1938",
+    "hasPublicationDate": "GREGORIAN:1938:1938",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "P. L. Carver"
+    ]
+  },
   "ww_0f2b8e1e06f7bc1a": {
     "hasBookInternalId": "@006108",
-    "hasBookTitle": "Hamlet, Three Notes (T.C.C.)",
-    "hasDisplayedTitle": "Hamlet, Three Notes",
+    "hasBookTitle": "\"Hamlet\" - Three Notes",
+    "hasDisplayedTitle": "\"Hamlet\" - Three Notes",
     "hasLanguage": "English",
-    "pubInfo": "\"Hamlet, Three Notes.\" Notes and Queries 175 (1938): 114.",
+    "pubInfo": "\"Hamlet. Three Notes.\" <i>Notes and Queries </i>175 (1938): 114.",
     "hasCreationDate": "GREGORIAN:1938:1938",
     "hasPublicationDate": "GREGORIAN:1938:1938",
     "hasGenre": [
@@ -2101,7 +2318,7 @@
     "hasBookTitle": "Satirized Characters in \"Poetaster\"",
     "hasDisplayedTitle": "The Language of Satirized Characters in \"Poetaster\"",
     "hasLanguage": "English",
-    "pubInfo": "The Language of Satirized Characters in Poetaster: A Socio-Stylistic Analysis 1507-1602. Lund: C.W.K. Gleerup, 1941.",
+    "pubInfo": "<i>The Language of Satirized Characters in Poetaster: A Socio-Stylistic Analysis 1507-1602. </i>Lund: C.W.K. Gleerup, 1941.",
     "hasCreationDate": "GREGORIAN:1941:1941",
     "hasPublicationDate": "GREGORIAN:1941:1941",
     "hasGenre": [
@@ -2119,7 +2336,7 @@
     "hasBookTitle": "An Early \"Hamlet\" Allusion",
     "hasDisplayedTitle": "An Early Hamlet Allusion",
     "hasLanguage": "English",
-    "pubInfo": "\"An Early Hamlet Allusion.\" The Shakespeare Association Bulletin 16.1 (1941): 50-1.",
+    "pubInfo": "\"An Early Hamlet Allusion.\" <i>The Shakespeare Association Bulletin <i>16.1 (1941): 50-1.",
     "hasCreationDate": "GREGORIAN:1941:1941",
     "hasPublicationDate": "GREGORIAN:1941:1941",
     "hasGenre": [
@@ -2132,12 +2349,12 @@
       "Howard Schultz"
     ]
   },
-  "ww_4094cacf63f9b541": {
-    "hasBookInternalId": "@006109",
+  "ww_3b0c6dbba2fa9916": {
+    "hasBookInternalId": "@005504",
     "hasBookTitle": "The Glass of Fashion and the Mould of Form",
     "hasDisplayedTitle": "The Glass of Fashion and the Mould of Form",
     "hasLanguage": "English",
-    "pubInfo": "\"The Glass of Fashion and the Mould of Form.\" Notes and Queries 185 (1943): 105.",
+    "pubInfo": "\"The Glass of Fashion and the Mould of Form.\" <i>Notes and Queries <i>185 (1943): 105.",
     "hasCreationDate": "GREGORIAN:1943:1943",
     "hasPublicationDate": "GREGORIAN:1943:1943",
     "hasGenre": [
@@ -2155,7 +2372,7 @@
     "hasBookTitle": "Shakespere's Small Latine and Lesse Greeke",
     "hasDisplayedTitle": "William Shakspere's Small Latine and Lesse Greeke",
     "hasLanguage": "English",
-    "pubInfo": "William Shakspere's Small Latine and Lesse Greeke. 2 vols. Urbana: University of Illinois Press, 1944.",
+    "pubInfo": "<i>William Shakspere's Small Latine and Lesse Greeke. </span>2 vols. Urbana: University of Illinois Press, 1944.",
     "hasCreationDate": "GREGORIAN:1944:1944",
     "hasPublicationDate": "GREGORIAN:1944:1944",
     "hasGenre": [
@@ -2329,6 +2546,24 @@
     ],
     "authors": [
       "J. W.  Olive"
+    ]
+  },
+  "ww_bd08f118fc2fbc55": {
+    "hasBookInternalId": "@006098",
+    "hasBookTitle": "Dramatic Works of George Peele (Prouty edition)",
+    "hasDisplayedTitle": "The Dramatic Works of George Peele (Prouty edition)",
+    "hasLanguage": "English",
+    "pubInfo": "ed. The Dramatic Works of George Peele. 3 vols. New Haven and London: Yale, 1970.",
+    "hasCreationDate": "GREGORIAN:1952:1970",
+    "hasPublicationDate": "GREGORIAN:1952:1970",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Charles Tyler Prouty"
     ]
   },
   "ww_47c84395b30bd53b": {
@@ -2535,7 +2770,7 @@
     "hasBookTitle": "The Authenticity of \"The Taming of the Shrew\"",
     "hasDisplayedTitle": "The Authenticity of The Taming of the Shrew",
     "hasLanguage": "English",
-    "pubInfo": "\"The Authenticity of The Taming of the Shrew.\" Shakespeare Quarterly 5.1 (January 1954):11-32.",
+    "pubInfo": "\"The Authenticity of The Taming of the Shrew.\" <i>Shakespeare Quarterly </i>5.1 (January 1954):11-32.",
     "hasCreationDate": "GREGORIAN:1954:1954",
     "hasPublicationDate": "GREGORIAN:1954:1954",
     "hasGenre": [
@@ -2676,7 +2911,7 @@
   },
   "ww_8a2b94e996b8bc5b": {
     "hasBookInternalId": "@006176",
-    "hasBookTitle": "Tamburlaine's Pampered Jades and Gascoigne",
+    "hasBookTitle": "Tamburlaine's \"Pampered Jades\" and Gascoigne",
     "hasDisplayedTitle": "Tamburlaine's 'Pampered Jades' and Gascoigne",
     "hasLanguage": "English",
     "pubInfo": "\"Tamburlaine's 'Pampered Jades' and Gascoigne.\" Notes and Queries (February 1958): 53-54.",
@@ -3199,24 +3434,6 @@
       "William Matthews"
     ]
   },
-  "ww_bd08f118fc2fbc55": {
-    "hasBookInternalId": "@006098",
-    "hasBookTitle": "Dramatic Works of George Peele (Prouty edition)",
-    "hasDisplayedTitle": "The Dramatic Works of George Peele (Prouty edition)",
-    "hasLanguage": "English",
-    "pubInfo": "ed. The Dramatic Works of George Peele. 3 vols. New Haven and London: Yale, 1970.",
-    "hasCreationDate": "GREGORIAN:1970:1970",
-    "hasPublicationDate": "GREGORIAN:1970:1970",
-    "hasGenre": [
-      "Annotated edition"
-    ],
-    "hasSubject": [
-      "Literature and theatre"
-    ],
-    "authors": [
-      "Charles Tyler Prouty"
-    ]
-  },
   "ww_b00ea4039afe0ad3": {
     "hasBookInternalId": "@006276",
     "hasBookTitle": "Imagery as a Criterion of Authenticity",
@@ -3472,8 +3689,8 @@
   },
   "ww_5f3f2f6746673107": {
     "hasBookInternalId": "@006143",
-    "hasBookTitle": "The Plays and Poems of Cyril Tourneur",
-    "hasDisplayedTitle": "The Plays and Poems of Cyril Tourneur",
+    "hasBookTitle": "Plays and Poems of Cyril Tourneur (Collins edition",
+    "hasDisplayedTitle": "The Plays and Poems of Cyril Tourneur (Collins edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. The Plays and Poems of Cyril Tourneur. London: Chatto and Windus, 1978.",
     "hasCreationDate": "GREGORIAN:1978:1978",
@@ -3547,7 +3764,7 @@
     "hasBookTitle": "\"The Taming of the Shrew\" - Notes",
     "hasDisplayedTitle": "The Taming of the Shrew: Notes on Some Classical Allusions",
     "hasLanguage": "English",
-    "pubInfo": "\"The Taming of the Shrew: Notes on Some Classical Allusions.\" Hermathena (129, In honor of William Bedell Stanford) (Winter 1980): 23-28.",
+    "pubInfo": "\"The Taming of the Shrew: Notes on Some Classical Allusions.\" <i>Hermathena </i>129 \"In honor of William Bedell Stanford\" (Winter 1980): 23-28.",
     "hasCreationDate": "GREGORIAN:1980:1980",
     "hasPublicationDate": "GREGORIAN:1980:1980",
     "hasGenre": [
@@ -4310,7 +4527,7 @@
     "hasBookTitle": "Endymion (Bevington edition)",
     "hasDisplayedTitle": "Endymion (Bevington edition)",
     "hasLanguage": "English",
-    "pubInfo": "ed. Joh n Lyly. Endymion. The Revels Plays. Manchester and New York: 1996.",
+    "pubInfo": "ed. John Lyly. Endymion. The Revels Plays. Manchester and New York: 1996.",
     "hasCreationDate": "GREGORIAN:1996:1996",
     "hasPublicationDate": "GREGORIAN:1996:1996",
     "hasGenre": [
@@ -4429,6 +4646,24 @@
     ],
     "authors": [
       "Clive Francis"
+    ]
+  },
+  "ww_bdc9942360490258": {
+    "hasBookInternalId": "@005546",
+    "hasBookTitle": "Four Jacobean Sex Tragedies (Wiggins edition)",
+    "hasDisplayedTitle": "Four Jacobean Sex Tragedies (Wiggins edition)",
+    "hasLanguage": "English",
+    "pubInfo": "ed. Four Jacobean Sex Tragedies. Oxford World's Classics. Oxford University Press, 2009.",
+    "hasCreationDate": "GREGORIAN:1998:1998",
+    "hasPublicationDate": "GREGORIAN:1998:1998",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Martin Wiggins"
     ]
   },
   "ww_85fe9d709a4d3739": {
@@ -4837,6 +5072,24 @@
     ],
     "authors": [
       "Andrew Gurr"
+    ]
+  },
+  "ww_941ab0dde5725680": {
+    "hasBookInternalId": "@005531",
+    "hasBookTitle": "\"Histriomastix\" and \"Quintessence of Duckes\"",
+    "hasDisplayedTitle": "Histriomastix, Hamlet and \"The Quintessence of Duckes\"",
+    "hasLanguage": "English",
+    "pubInfo": "\"Histriomastix, Hamlet and 'The Quintessence of Duckes'.\" Notes and Queries 248 (2003): 427-431.",
+    "hasCreationDate": "GREGORIAN:2003:2003",
+    "hasPublicationDate": "GREGORIAN:2003:2003",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Shakespeare"
+    ],
+    "authors": [
+      "Charles Cathcart"
     ]
   },
   "ww_babb5a4d66fa5459": {
@@ -5728,7 +5981,7 @@
     "hasBookTitle": "Shakespeare and \"Arden of Faversham\"",
     "hasDisplayedTitle": "Shakespeare and Arden of Faversham",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare and Arden of Faversham.\" Notes and Queries (August 2013): 391-396.",
+    "pubInfo": "\"Shakespeare and Arden of Faversham.\" Notes and Queries 258 (August 2013): 391-396.",
     "hasCreationDate": "GREGORIAN:2013:2013",
     "hasPublicationDate": "GREGORIAN:2013:2013",
     "hasGenre": [
@@ -5783,7 +6036,7 @@
     "hasBookTitle": "Allusions to Shakespeare in \"Messalina\"",
     "hasDisplayedTitle": "Allusions to Shakespeare in \"Messalina\"",
     "hasLanguage": "English",
-    "pubInfo": "\"Allusions to Shakespeare in Nathaniel Richards's The Tragedy Of Messalina.\" Notes and Queries (2013): 43-45.",
+    "pubInfo": "\"Allusions to Shakespeare in Nathaniel Richards's The Tragedy Of Messalina.\" Notes and Queries 258 (2013): 43-45.",
     "hasCreationDate": "GREGORIAN:2013:2013",
     "hasPublicationDate": "GREGORIAN:2013:2013",
     "hasGenre": [
@@ -5910,7 +6163,7 @@
     "hasBookTitle": "Was John Marston the first \"Playwright\"?",
     "hasDisplayedTitle": "Was John Marston the first \"Playwright\"?",
     "hasLanguage": "English",
-    "pubInfo": "\"Was John Marston the first 'Playwright'?\" Notes and Queries (December 2016): 547-550.",
+    "pubInfo": "\"Was John Marston the first 'Playwright'?\" Notes and Queries 261 (December 2016): 547-550.",
     "hasCreationDate": "GREGORIAN:2016:2016",
     "hasPublicationDate": "GREGORIAN:2016:2016",
     "hasGenre": [
@@ -6000,7 +6253,7 @@
     "hasBookTitle": "\"Lampatho Doria\" as Ben Jonson",
     "hasDisplayedTitle": "\"Lampatho Doria\" as Ben Jonson",
     "hasLanguage": "English",
-    "pubInfo": "\"'Lampatho Doria' as Ben Jonson.\" Notes and Queries (March 2018): 105-110.",
+    "pubInfo": "\"'Lampatho Doria' as Ben Jonson.\" Notes and Queries 263 (March 2018): 105-110.",
     "hasCreationDate": "GREGORIAN:2018:2018",
     "hasPublicationDate": "GREGORIAN:2018:2018",
     "hasGenre": [
@@ -6073,7 +6326,7 @@
     "hasBookTitle": "DEx (Dramatic Extracts)",
     "hasDisplayedTitle": "DEx - Digital Extracts",
     "hasLanguage": "English",
-    "pubInfo": "Digital Extracts. https://dex.itercommunity.org/.",
+    "pubInfo": "Dramatic Extracts. https://dex.itercommunity.org/.",
     "hasCreationDate": "GREGORIAN:2019:2019",
     "hasPublicationDate": "GREGORIAN:2019:2019",
     "hasGenre": [

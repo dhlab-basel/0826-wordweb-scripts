@@ -27,9 +27,9 @@
     "hasCompanyInternalId": "#009003",
     "hasCompanyTitle": "Admiral's (The Prince's) Men",
     "hasMember": [
+      "ww_aa9d769d4c22a17a",
       "ww_9b2d545e20d62482",
       "ww_2b461dcf3b8b54e7",
-      "ww_aa9d769d4c22a17a",
       "ww_d868186812544aa2"
     ]
   },
@@ -49,17 +49,17 @@
     "hasCompanyInternalId": "#009001",
     "hasCompanyTitle": "King's Men",
     "hasMember": [
-      "ww_2b461dcf3b8b54e7",
-      "ww_392b079084ecbf38",
-      "ww_8926bbeaa7c56023",
-      "ww_dd9a684dcb872564",
-      "ww_535dbb6e2fbfea98",
-      "ww_4af69e0a9632326b",
-      "ww_93188e55a4159eb0",
-      "ww_684176b58bc762f6",
-      "ww_e97f8919dc99b209",
       "ww_5350e0c0cddb3400",
-      "ww_aa9d769d4c22a17a"
+      "ww_8926bbeaa7c56023",
+      "ww_535dbb6e2fbfea98",
+      "ww_684176b58bc762f6",
+      "ww_2b461dcf3b8b54e7",
+      "ww_aa9d769d4c22a17a",
+      "ww_e97f8919dc99b209",
+      "ww_4af69e0a9632326b",
+      "ww_dd9a684dcb872564",
+      "ww_392b079084ecbf38",
+      "ww_93188e55a4159eb0"
     ]
   },
   "ww_b92cc9cd25fb9404": {
@@ -85,6 +85,10 @@
     "hasCompanyInternalId": "#009021",
     "hasCompanyTitle": "English court"
   },
+  "ww_fb09029608b37502": {
+    "hasCompanyInternalId": "#009009",
+    "hasCompanyTitle": "Queen Henrietta's Men"
+  },
   "ww_ae42ffd9324d5246": {
     "hasCompanyInternalId": "#009015",
     "hasCompanyTitle": "Revels Company"
@@ -93,16 +97,16 @@
     "hasCompanyInternalId": "#009012",
     "hasCompanyTitle": "Lady Elizabeth's Men"
   },
-  "ww_fb09029608b37502": {
-    "hasCompanyInternalId": "#009009",
-    "hasCompanyTitle": "Queen Henrietta's Men"
+  "ww_8e7721de65bda5cd": {
+    "hasCompanyInternalId": "#009030",
+    "hasCompanyTitle": "Oxford&#039;s Boys"
   },
   "ww_06311c47190f2d0a": {
     "hasCompanyInternalId": "#009020",
     "hasCompanyTitle": "Lord Strange's Men",
     "hasMember": [
-      "ww_2b461dcf3b8b54e7",
-      "ww_392b079084ecbf38"
+      "ww_392b079084ecbf38",
+      "ww_2b461dcf3b8b54e7"
     ]
   },
   "ww_cf1e1a78f52e58d7": {
@@ -144,10 +148,6 @@
   "ww_27246da03bb6da5b": {
     "hasCompanyInternalId": "#009028",
     "hasCompanyTitle": "Sussex&#039;s Men"
-  },
-  "ww_8e7721de65bda5cd": {
-    "hasCompanyInternalId": "#009030",
-    "hasCompanyTitle": "Oxford&#039;s Boys"
   },
   "ww_7845e1cf9f2cdc1f": {
     "hasCompanyInternalId": "#009029",
