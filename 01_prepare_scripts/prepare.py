@@ -127,13 +127,13 @@ def create_author(auth_id):
         person["hasBirthDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["birthExact"])
     elif "birthStart" in allAuthors[auth_id]:
         person["hasBirthDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["birthStart"],
-                                                       allAuthors[auth_id]["birthEnd"])
+                                                          allAuthors[auth_id]["birthEnd"])
 
     if "deathExact" in allAuthors[auth_id]:
         person["hasDeathDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["deathExact"])
     elif "deathStart" in allAuthors[auth_id]:
         person["hasDeathDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["deathStart"],
-                                                       allAuthors[auth_id]["deathEnd"])
+                                                          allAuthors[auth_id]["deathEnd"])
 
     if "activeExact" in allAuthors[auth_id]:
         person["activeDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["activeExact"])
@@ -174,7 +174,8 @@ def create_book(b_id, data_row, pub_info, pub_or_info, dates):
     if "firstPerformanceExact" in dates:
         book["hasFirstPerformanceDate"] = "GREGORIAN:{}".format(dates["firstPerformanceExact"])
     elif "firstPerformanceStart" in dates:
-        book["hasFirstPerformanceDate"] = "GREGORIAN:{}:{}".format(dates["firstPerformanceStart"], dates["firstPerformanceEnd"])
+        book["hasFirstPerformanceDate"] = "GREGORIAN:{}:{}".format(dates["firstPerformanceStart"],
+                                                                   dates["firstPerformanceEnd"])
 
     if "publicationExact" in dates:
         book["hasPublicationDate"] = "GREGORIAN:{}".format(dates["publicationExact"])
@@ -207,7 +208,8 @@ def update_book(b_id, auth_names, pub_info, ven_id, comp_id, gen, sub, lex_id, c
                 temp.add(auth_id)
                 books[b_id]["isWrittenBy"] = list(temp)
 
-    if pub_info and "pubInfo" in pub_info and not "hasEdition" in books[b_id]:
+    if pub_info:
+        if "pubInfo" in pub_info and not "hasEdition" in books[b_id]:
             books[b_id]["hasEdition"] = pub_info["pubInfo"]
 
     if ven_id:
@@ -226,9 +228,10 @@ def update_book(b_id, auth_names, pub_info, ven_id, comp_id, gen, sub, lex_id, c
         temp.add(comp_id)
         books[b_id]["performedBy"] = list(temp)
 
-    if gen and gen != "Theatre":
-        if "hasGenre" not in books[b_id]:
-            books[b_id]["hasGenre"] = []
+    if gen:
+        if gen != "Theatre":
+            if "hasGenre" not in books[b_id]:
+                books[b_id]["hasGenre"] = []
 
         temp = set(books[b_id]["hasGenre"])
         temp.add(gen)
@@ -245,7 +248,8 @@ def update_book(b_id, auth_names, pub_info, ven_id, comp_id, gen, sub, lex_id, c
     if lex_id:
         books[b_id]["isLexiaBook"] = lex_id
 
-    if com and "hasBookComment" in com and "hasBookComment" not in books[b_id]:
+    if com:
+        if "hasBookComment" in com and "hasBookComment" not in books[b_id]:
             books[b_id]["hasBookComment"] = com["hasBookComment"]
 
 
@@ -351,7 +355,8 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, sta
         temp.add(mark)
         passages[pa_id]["hasMarking"] = list(temp)
 
-    if com and "hasPassageComment" in com:
+    if com:
+        if "hasPassageComment" in com:
             passages[pa_id]["hasPassageComment"] = com["hasPassageComment"]
 
 
@@ -389,7 +394,7 @@ def create_contributor(co_id):
     contributor = {
         "hasFirstName": allContributors[co_id]["hasFirstName"],
         "hasLastName": allContributors[co_id]["hasLastName"],
-        "hasPersonInternalId":  "#00" + str(person_id_start),
+        "hasPersonInternalId": "#00" + str(person_id_start),
         "hasGender": allContributors[co_id]["hasGender"]
     }
 
@@ -408,7 +413,6 @@ def create_company(comp_id, comp):
 
 
 def update_company(comp_id, lex_id, human_id):
-
     if lex_id:
         companies[comp_id]["isLexiaCompany"] = lex_id
 
@@ -613,7 +617,7 @@ def check_venues():
 
         # Checks if there are venue without place venue
         if not "hasPlaceVenue" in venues[v]:
-            print("Fail - Venue without place venue: ",  v, venues[v])
+            print("Fail - Venue without place venue: ", v, venues[v])
             raise SystemExit(0)
 
 
@@ -715,9 +719,11 @@ def start():
                                 narratives = row[20].split(" / ")
 
                                 for narrative in narratives:
-                                    update_passage(passage_id, None, None, None, None, None, narrative, None, None, None)
+                                    update_passage(passage_id, None, None, None, None, None, narrative, None, None,
+                                                   None)
                             elif f_voice == "BODY OF TEXT" and not row[20]:
-                                update_passage(passage_id, None, None, None, None, None, "Not defined", None, None, None)
+                                update_passage(passage_id, None, None, None, None, None, "Not defined", None, None,
+                                               None)
                             elif not f_voice and row[20]:
                                 print("FAIL - No function but narrative", row[20], csv_file, line)
                                 raise SystemExit(0)
@@ -729,7 +735,9 @@ def start():
                         work_value = "Work unmarked" if not row[16] else row[16]
                         author_value = "Author unmarked" if not row[17] else row[17]
 
-                        if (work_value == "Work unmarked" and author_value == "Author unmarked" and not row[22]) or (work_value == "Work unmarked" and author_value == "Author unmarked" and row[22] == "Local reference"):
+                        if (work_value == "Work unmarked" and author_value == "Author unmarked" and not row[22]) or (
+                                work_value == "Work unmarked" and author_value == "Author unmarked" and row[
+                            22] == "Local reference"):
                             update_passage(passage_id, None, None, None, None, None, None, None, "Unmarked", None)
                         else:
 
@@ -749,7 +757,6 @@ def start():
                             if row[22]:
                                 for marking in pas.get_marking(row[22]):
                                     update_passage(passage_id, None, None, None, None, None, None, None, marking, None)
-
 
                         # ------------- CONTRIBUTOR
                         # Generates contributor id
@@ -790,11 +797,13 @@ def start():
 
                             # Sets the default research field
                             if not s_book["hasGenre"] == "Previous Research":
-                                update_passage(passage_id, None, None, None, None, "Electronic Search", None, None, None, None)
+                                update_passage(passage_id, None, None, None, None, "Electronic Search", None, None,
+                                               None, None)
 
                             # Sets the research field
                             if not "Fulltext database" in s_book["hasGenre"]:
-                                update_passage(passage_id, None, None, None, None, "Previous Research", None, None,None, None)
+                                update_passage(passage_id, None, None, None, None, "Previous Research", None, None,
+                                               None, None)
 
                             # Updates the authors reference
                             update_sec_book(sec_book_id, s_book["authors"])
@@ -814,8 +823,8 @@ def start():
                         for lex_name in lex_names:
                             le = lex.info(lex_name, line, csv_file)
 
-                            # Creates a key which has the following format{title internalID}. {internalID title} will cause error later because
-                            # it already exists
+                            # Creates a key which has the following format {title internalID}.
+                            # {internalID title} will cause error later because it already exists
                             unique_key = "{} {}".format(le["hasLexiaTitle"], le["hasLexiaInternalId"])
 
                             lexia_id = id.generate(unique_key)
@@ -832,8 +841,8 @@ def start():
 
                             isLexiaAuthor = id.generate(le["hasLexiaTitle"])
                             if isLexiaAuthor in authors:
-                                # Internal ID of author must be overwritten because the initial internal ID comes form incrementation and in this case
-                                # the ID comes from the user
+                                # Internal ID of author must be overwritten because the initial internal ID comes
+                                # form incrementation and in this case the ID comes from the user
                                 update_author(isLexiaAuthor, le["hasLexiaInternalId"], lexia_id)
 
                             key = "{} {}".format(le["hasLexiaInternalId"], le["hasLexiaTitle"])
@@ -1030,7 +1039,6 @@ def start():
     except Exception as err:
         print("FAIL: human_company.csv")
         raise SystemExit(0)
-
 
     # ------------------------------------------
     # Saves the objects which occurs in the csv files in to json files
