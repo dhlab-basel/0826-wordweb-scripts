@@ -796,7 +796,7 @@ def start():
                                 create_sec_book(sec_book_id, s_book)
 
                             # Sets the default research field
-                            if not s_book["hasGenre"] == "Previous Research":
+                            if s_book["hasGenre"] == "Fulltext database":
                                 update_passage(passage_id, None, None, None, None, "Electronic Search", None, None,
                                                None, None)
 
