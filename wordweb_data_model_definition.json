@@ -1991,23 +1991,6 @@
               "cardinality": "1"
             },
             {
-              "name": "hasBookDescription",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Book description",
-                "de": "Buchbeschreibung"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "0-1"
-            },
-            {
               "name": "hasEdition",
               "super": [
                 "hasValue"
@@ -2465,23 +2448,6 @@
                 "maxlength=64"
               ],
               "cardinality": "1"
-            },
-            {
-              "name": "hasLexiaDescription",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Lexia description",
-                "de": "Lexiabeschreibung"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "0-1"
             },
             {
               "name": "hasFormalClass",
