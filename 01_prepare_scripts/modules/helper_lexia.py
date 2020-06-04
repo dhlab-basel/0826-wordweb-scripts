@@ -23,7 +23,8 @@ formClass_structure = {
             "Ep": "Epithet for real person",
             "Ca": "Name of fictional character",
             "Vn": "Venue or place",
-            "Bo": "Book title"
+            "Bo": "Book title",
+            "Co": "Company"
         }
     },
     "Su": {
@@ -139,6 +140,14 @@ def info(text, line, csv_file):
         if formClass_structure.get(lexia_info.group(1)):
             if formClass_structure.get(lexia_info.group(1))["child"].get(lexia_info.group(2)):
                 lexia["hasFormalClass"] = formClass_structure.get(lexia_info.group(1))["child"].get(lexia_info.group(2))
-                # print(structure.get(lexias.group(1), "fail " + lexias.group(1)))
+
+                # Creates displayed title (= Hashtag)
+                disTitle = lexia_info.group(6).replace(" ", "_")
+                # Adds prefix for name and passage
+                if lexia["hasFormalClass"] == "Name of fictional character":
+                    disTitle = "Name_" + disTitle
+                if lexia["hasFormalClass"] == "Passage":
+                    disTitle = "Passage_" + disTitle
+                lexia["hasLexiaDisplayedTitle"] = "#" + disTitle
 
     return lexia

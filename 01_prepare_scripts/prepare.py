@@ -233,9 +233,9 @@ def update_book(b_id, auth_names, pub_info, ven_id, comp_id, gen, sub, lex_id, c
             if "hasGenre" not in books[b_id]:
                 books[b_id]["hasGenre"] = []
 
-        temp = set(books[b_id]["hasGenre"])
-        temp.add(gen)
-        books[b_id]["hasGenre"] = list(temp)
+            temp = set(books[b_id]["hasGenre"])
+            temp.add(gen)
+            books[b_id]["hasGenre"] = list(temp)
 
     if sub:
         if "hasSubject" not in books[b_id]:
@@ -796,7 +796,7 @@ def start():
                                 create_sec_book(sec_book_id, s_book)
 
                             # Sets the default research field
-                            if s_book["hasGenre"] == "Fulltext database":
+                            if "Fulltext database" in s_book["hasGenre"]:
                                 update_passage(passage_id, None, None, None, None, "Electronic Search", None, None,
                                                None, None)
 
@@ -815,6 +815,40 @@ def start():
                             create_sec_passage(sec_passage_id, sec_book["page"], s_book["hasDisplayedTitle"])
                             update_sec_passage(sec_passage_id, sec_book_id)
                             update_passage(passage_id, None, None, sec_passage_id, None, None, None, None, None, None)
+
+                        # --------------- COMPANY & VENUES
+                        if row[12]:
+                            comp_ven_names = row[12].split(" / ")
+
+                            for comp_ven_name in comp_ven_names:
+                                comp_ven_data, type_1 = comp_ven.info(comp_ven_name, line, csv_file)
+
+                                if type_1 is "venue":
+                                    unique_key = "{} {}".format(comp_ven_data["hasVenueInternalId"],
+                                                                comp_ven_data["hasPlaceVenue"])
+
+                                    venue_id = id.generate(unique_key)
+
+                                    if venue_id not in allVenues:
+                                        print("FAIL Venue", venue_id, line, csv_file)
+
+                                    if venue_id not in venues:
+                                        create_venue(venue_id, comp_ven_data)
+
+                                    # Updates the venue reference
+                                    update_book(book_id, None, None, venue_id, None, None, None, None, None)
+
+                                elif type_1 is "company":
+                                    company_id = id.generate(comp_ven_data["hasCompanyInternalId"])
+
+                                    if company_id not in allCompanies:
+                                        print("FAIL Company", company_id, line, csv_file)
+
+                                    if company_id not in companies:
+                                        create_company(company_id, comp_ven_data)
+
+                                    # Updates the company reference
+                                    update_book(book_id, None, None, None, company_id, None, None, None, None)
 
                         # --------------- LEXIA
                         # Multiple names of authors
@@ -841,8 +875,8 @@ def start():
 
                             isLexiaAuthor = id.generate(le["hasLexiaTitle"])
                             if isLexiaAuthor in authors:
-                                # Internal ID of author must be overwritten because the initial internal ID comes
-                                # form incrementation and in this case the ID comes from the user
+                                # Internal ID of author must be overwritten because it is generated
+                                # from incrementation and in this case the ID comes from the user
                                 update_author(isLexiaAuthor, le["hasLexiaInternalId"], lexia_id)
 
                             key = "{} {}".format(le["hasLexiaInternalId"], le["hasLexiaTitle"])
@@ -854,39 +888,9 @@ def start():
                             if isLexiaBookVenue in venues:
                                 update_venue(isLexiaBookVenue, lexia_id)
 
-                        # --------------- COMPANY & VENUES
-                        if row[12]:
-                            comp_ven_names = row[12].split(" / ")
-
-                            for comp_ven_name in comp_ven_names:
-                                comp_ven_data, type = comp_ven.info(comp_ven_name, line, csv_file)
-
-                                if type is "venue":
-                                    unique_key = "{} {}".format(comp_ven_data["hasVenueInternalId"],
-                                                                comp_ven_data["hasPlaceVenue"])
-
-                                    venue_id = id.generate(unique_key)
-
-                                    if venue_id not in allVenues:
-                                        print("FAIL Venue", venue_id, line, csv_file)
-
-                                    if venue_id not in venues:
-                                        create_venue(venue_id, comp_ven_data)
-
-                                    # Updates the venue reference
-                                    update_book(book_id, None, None, venue_id, None, None, None, None, None)
-
-                                elif type is "company":
-                                    company_id = id.generate(comp_ven_data["hasCompanyInternalId"])
-
-                                    if company_id not in allCompanies:
-                                        print("FAIL Company", company_id, line, csv_file)
-
-                                    if company_id not in companies:
-                                        create_company(company_id, comp_ven_data)
-
-                                    # Updates the company reference
-                                    update_book(book_id, None, None, None, company_id, None, None, None, None)
+                            isLexiaCompany = id.generate(le["hasLexiaInternalId"])
+                            if isLexiaCompany in companies:
+                                update_company(isLexiaCompany, lexia_id, None)
 
                         # --------------- ACTORS
                         if row[14]:
@@ -933,7 +937,7 @@ def start():
 
                         # Checks if author_id is valid
                         if author_id not in allAuthors:
-                            print("FAIL Author", author_id, line2, non_authors)
+                            print("FAIL Non-Author", author_id, line2, non_authors)
                             raise SystemExit(0)
 
                         # Creates author if it does not exist
@@ -947,7 +951,7 @@ def start():
         raise SystemExit(0)
 
     # ------------------------------------------
-    # Adds non-venues which do not have entries
+    # Adds non-venues which are not linked in the regular entries
     try:
         with open(non_venues) as v:
 
@@ -964,16 +968,16 @@ def start():
                     ven_names = row[12].split(" / ")
 
                     for ven_name in ven_names:
-                        ven_data, type = comp_ven.info(ven_name, line3, non_venues)
+                        ven_data, type_2 = comp_ven.info(ven_name, line3, non_venues)
 
-                        if type is "venue":
+                        if type_2 is "venue":
                             unique_key = "{} {}".format(ven_data["hasVenueInternalId"],
                                                         ven_data["hasPlaceVenue"])
 
                             venue_id = id.generate(unique_key)
 
                             if venue_id not in allVenues:
-                                print("FAIL Venue", venue_id, line3, non_venues)
+                                print("FAIL Non-Venues", venue_id, line3, non_venues)
                                 raise SystemExit(0)
 
                             if venue_id not in venues:
@@ -1011,9 +1015,9 @@ def start():
                     comp_names = row[12].split(" / ")
 
                     for comp_name in comp_names:
-                        comp_data, type1 = comp_ven.info(comp_name, line, human_company)
+                        comp_data, type_3 = comp_ven.info(comp_name, line, human_company)
 
-                        if type1 is "company":
+                        if type_3 is "company":
 
                             # Generates id for company
                             company_id = id.generate(comp_data["hasCompanyInternalId"])

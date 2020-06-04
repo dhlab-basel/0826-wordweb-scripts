@@ -942,6 +942,13 @@
                   "de": "Buchtitel",
                   "en": "Book title"
                 }
+              },
+              {
+                "name": "Company",
+                "labels": {
+                  "de": "Theatergruppe",
+                  "en": "Company"
+                }
               }
             ]
           },
@@ -1453,17 +1460,17 @@
             },
             "nodes": [
               {
-                "name": "Globe",
+                "name": "The Globe Theatre",
                 "labels": {
-                  "de": "Globe",
-                  "en": "Globe"
+                  "de": "The Globe Theatre",
+                  "en": "The Globe Theatre"
                 }
               },
               {
-                "name": "Blackfriars",
+                "name": "The Blackfriars",
                 "labels": {
-                  "de": "Blackfriars",
-                  "en": "Blackfriars"
+                  "de": "The Blackfriars",
+                  "en": "The Blackfriars"
                 }
               },
               {
@@ -1488,17 +1495,17 @@
                 }
               },
               {
-                "name": "Whitefriars",
+                "name": "The Whitefriars",
                 "labels": {
-                  "de": "Whitefriars",
-                  "en": "Whitefriars"
+                  "de": "The Whitefriars",
+                  "en": "The Whitefriars"
                 }
               },
               {
-                "name": "Red Bull",
+                "name": "The Red Bull",
                 "labels": {
-                  "de": "Red Bull",
-                  "en": "Red Bull"
+                  "de": "The Red Bull",
+                  "en": "The Red Bull"
                 }
               },
               {
@@ -1544,24 +1551,24 @@
                 }
               },
               {
-                "name": "Archbishop's Palace",
+                "name": "Archbishops Palace",
                 "labels": {
-                  "de": "Archbishop's Palace",
-                  "en": "Archbishop's Palace"
+                  "de": "Archbishops Palace",
+                  "en": "Archbishops Palace"
                 }
               },
               {
-                "name": "Boar's Head",
+                "name": "Boars Head",
                 "labels": {
-                  "de": "Boar's Head",
-                  "en": "Boar's Head"
+                  "de": "Boars Head",
+                  "en": "Boars Head"
                 }
               },
               {
-                "name": "Swan Theatre",
+                "name": "The Swan Theatre",
                 "labels": {
-                  "de": "Swan Theatre",
-                  "en": "Swan Theatre"
+                  "de": "The Swan Theatre",
+                  "en": "The Swan Theatre"
                 }
               },
               {
@@ -1767,6 +1774,45 @@
                 "labels": {
                   "de": "Ashby de la Zouch Castle",
                   "en": "Ashby de la Zouch Castle"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Greece",
+            "labels": {
+              "de": "Griechenland",
+              "en": "Greece"
+            },
+            "nodes": [
+              {
+                "name": "Mount Ossa",
+                "labels": {
+                  "de": "Mount Ossa",
+                  "en": "Mount Ossa"
+                }
+              },
+              {
+                "name": "Philippi",
+                "labels": {
+                  "de": "Philippi",
+                  "en": "Philippi"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Turkey",
+            "labels": {
+              "de": "Türkei",
+              "en": "Turkey"
+            },
+            "nodes": [
+              {
+                "name": "Callipolis",
+                "labels": {
+                  "de": "Callipolis",
+                  "en": "Callipolis"
                 }
               }
             ]
@@ -2448,6 +2494,23 @@
                 "maxlength=64"
               ],
               "cardinality": "1"
+            },
+            {
+              "name": "hasLexiaDisplayedTitle",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Displayed lexia title",
+                "de": "Angezeigter lexia Title"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "0-1"
             },
             {
               "name": "hasFormalClass",

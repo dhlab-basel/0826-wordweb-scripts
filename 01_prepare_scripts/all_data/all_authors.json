@@ -6040,6 +6040,15 @@
     "hasGender": "male",
     "sql": 88
   },
+  "ww_037b8bc1f9c290ff": {
+    "hasFirstName": "Mary, Lady Chudleigh",
+    "hasLastName": "Chudleigh",
+    "birthExact": "1656",
+    "deathExact": "1710",
+    "hasDescription": "English poet",
+    "hasGender": "male",
+    "sql": 4592
+  },
   "ww_6932af2bd3b1e4a8": {
     "hasFirstName": "Cindy",
     "hasLastName": "Chupack",
@@ -13102,6 +13111,15 @@
     "hasGender": "male",
     "sql": 1237
   },
+  "ww_81576dbfceb60214": {
+    "hasFirstName": "Charles",
+    "hasLastName": "Hart",
+    "birthExact": "1625",
+    "deathExact": "1683",
+    "hasDescription": "English actor",
+    "hasGender": "male",
+    "sql": 4595
+  },
   "ww_3a21699361452d98": {
     "hasFirstName": "Duff",
     "hasLastName": "Hart-Davis",
@@ -14519,6 +14537,15 @@
     "hasDescription": "U.S. psychologist",
     "hasGender": "male",
     "sql": 1803
+  },
+  "ww_5c6e0dd665217e44": {
+    "hasFirstName": "John",
+    "hasLastName": "Honyman",
+    "birthExact": "1613",
+    "deathExact": "1636",
+    "hasDescription": "English actor",
+    "hasGender": "male",
+    "sql": 4596
   },
   "ww_4593f74d5c453a08": {
     "hasFirstName": "Thomas",
@@ -16287,6 +16314,15 @@
     "hasGender": "male",
     "sql": 1273
   },
+  "ww_315b41c6abba9b0a": {
+    "hasFirstName": "William Rea",
+    "hasLastName": "Keast",
+    "birthExact": "1914",
+    "deathExact": "1998",
+    "hasDescription": "U.S. academic",
+    "hasGender": "male",
+    "sql": 4594
+  },
   "ww_67a7292b60aee59c": {
     "hasFirstName": "George",
     "hasLastName": "Keate",
@@ -17878,6 +17914,14 @@
     "hasDescription": "English poet and novelist",
     "hasGender": "male",
     "sql": 4585
+  },
+  "ww_04e7a879139e0fe9": {
+    "hasFirstName": "Hermione",
+    "hasLastName": "Lee",
+    "birthExact": "1948",
+    "hasDescription": "British biographer and academic",
+    "hasGender": "male",
+    "sql": 4593
   },
   "ww_02ad5866aad78c8b": {
     "hasFirstName": "Spike",
@@ -21925,10 +21969,10 @@
     "hasGender": "male",
     "sql": 2022
   },
-  "ww_ecd5bfdb8df89699": {
-    "hasFirstName": "Claudius Caesar Augustus Germanicus",
+  "ww_36b8ae7192640c07": {
+    "hasFirstName": "_",
     "hasLastName": "Nero",
-    "hasDescription": "Roman emperor 37-68",
+    "hasDescription": "Roman emperor 37-68, full name Claudius Caesar Augustus Germanicus Nero",
     "hasGender": "male",
     "sql": 4135
   },
@@ -22663,6 +22707,15 @@
     "hasGender": "male",
     "sql": 1407
   },
+  "ww_2d882b3c896cf535": {
+    "hasFirstName": "George",
+    "hasLastName": "Orwell",
+    "birthExact": "1903",
+    "deathExact": "1950",
+    "hasDescription": "English novelist",
+    "hasGender": "male",
+    "sql": 4591
+  },
   "ww_5613d8a34f95a177": {
     "hasFirstName": "John James",
     "hasLastName": "Osborne",
@@ -23235,6 +23288,15 @@
     "hasDescription": "U.S. dramatist",
     "hasGender": "male",
     "sql": 2224
+  },
+  "ww_dcce64bad83aa562": {
+    "hasFirstName": "Andrew",
+    "hasLastName": "Pennycuicke",
+    "activeStart": "1636",
+    "activeEnd": "1658",
+    "hasDescription": "English actor",
+    "hasGender": "male",
+    "sql": 4597
   },
   "ww_b0e8b25ec4a58d96": {
     "hasFirstName": "Samuel",
@@ -23866,6 +23928,15 @@
     "hasGender": "male",
     "sql": 326
   },
+  "ww_fabcdc97b91b0a87": {
+    "hasFirstName": "Thomas",
+    "hasLastName": "Pollard",
+    "birthExact": "1597",
+    "deathExact": "1649",
+    "hasDescription": "English actor",
+    "hasGender": "male",
+    "sql": 4598
+  },
   "ww_a10085cba7aaccb5": {
     "hasFirstName": "George",
     "hasLastName": "Pollock",
@@ -23933,6 +24004,14 @@
     "hasDescription": "English poet",
     "hasGender": "male",
     "sql": 22
+  },
+  "ww_f66ad118d0eddf94": {
+    "hasFirstName": "Thomas",
+    "hasLastName": "Pope",
+    "deathExact": "1603",
+    "hasDescription": "English actor",
+    "hasGender": "male",
+    "sql": 4599
   },
   "ww_7d22ae8046f95f60": {
     "hasFirstName": "Dorothy",
@@ -29318,7 +29397,7 @@
   "ww_9d6793c88da79727": {
     "hasFirstName": "Publius",
     "hasLastName": "Terentius Afer",
-    "hasDescription": "Roman dramatist  195 BC-159 BC",
+    "hasDescription": "Roman dramatist 195 BC-159 BC",
     "hasGender": "male",
     "sql": 3899
   },
@@ -29326,7 +29405,7 @@
     "hasFirstName": "Megan",
     "hasLastName": "Terry",
     "birthExact": "1932",
-    "hasDescription": "U.S. dramatist , Margaret Duffy",
+    "hasDescription": "U.S. dramatist , real name Margaret Duffy",
     "hasGender": "male",
     "sql": 1069
   },
