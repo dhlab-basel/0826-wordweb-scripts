@@ -27,9 +27,11 @@ def prepare():
         for row in results:
 
             author = {
-                "hasFirstName": row["firstname"],
                 "hasLastName": row["lastname"]
             }
+
+            if row["firstname"] != "_":
+                author["hasFirstName"] = row["firstname"]
 
             # Start with empty description
             description = ""
