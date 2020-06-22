@@ -145,9 +145,9 @@ def info(text, line, csv_file):
                 disTitle = lexia_info.group(6).replace(" ", "_")
                 # Adds prefix for name and passage
                 if lexia["hasFormalClass"] == "Name of fictional character":
-                    disTitle = "Name_" + disTitle
+                    disTitle = "NAME_" + disTitle
                 if lexia["hasFormalClass"] == "Passage":
-                    disTitle = "Passage_" + disTitle
+                    disTitle = "PASSAGE_" + disTitle
                 lexia["hasLexiaDisplayedTitle"] = "#" + disTitle
 
     return lexia
