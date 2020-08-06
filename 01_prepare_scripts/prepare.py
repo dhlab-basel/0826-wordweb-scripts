@@ -589,6 +589,11 @@ def check_lexias():
             print("Fail - Lexia with empty Array hasFormalClass", l, lexias[l])
             lexia_check_successful = False
 
+        # Checks if there are lexias without displayed title
+        if not "hasLexiaDisplayedTitle" in lexias[l]:
+            print("Fail - Lexia without displayed lexia title: ", l, lexias[l])
+            raise SystemExit(0)
+
     if not lexia_check_successful:
         raise SystemExit(0)
 
@@ -749,7 +754,8 @@ def start():
                                     for w_m in work_marked:
                                         update_passage(passage_id, None, None, None, None, None, None, None, w_m, None)
                                 else:
-                                    update_passage(passage_id, None, None, None, None, None, None, None, work_value, None)
+                                    update_passage(passage_id, None, None, None, None, None, None, None, work_value,
+                                                   None)
 
                             if author_value != "Author unmarked":
                                 update_passage(passage_id, None, None, None, None, None, None, None, author_value, None)
