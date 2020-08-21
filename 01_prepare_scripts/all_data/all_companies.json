@@ -25,7 +25,7 @@
   },
   "ww_312616f20d6e5e9b": {
     "hasCompanyInternalId": "#009003",
-    "hasCompanyTitle": "Admiral's (The Prince's) Men"
+    "hasCompanyTitle": "Admiral's Men"
   },
   "ww_dfe3ddd6db3b2f36": {
     "hasCompanyInternalId": "#009012",
@@ -118,5 +118,17 @@
   "ww_8e7721de65bda5cd": {
     "hasCompanyInternalId": "#009030",
     "hasCompanyTitle": "Oxford's Boys"
+  },
+  "ww_2d9d73da6661c303": {
+    "hasCompanyInternalId": "#009031",
+    "hasCompanyTitle": "The King's Company"
+  },
+  "ww_0516ed981977925e": {
+    "hasCompanyInternalId": "#009032",
+    "hasCompanyTitle": "The Duke&#039;s Company"
+  },
+  "ww_3a4f63b2c3388685": {
+    "hasCompanyInternalId": "#009033",
+    "hasCompanyTitle": "The Prince&#039;s Men"
   }
 }

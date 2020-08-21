@@ -45,6 +45,8 @@ import prep_venues
 # export_6.csv is from Act 4, Scene 6, line "you, sir; it comes from the ambassador that was"
 # export_7.csv is from Act 4, Scene 6, line "bound for England; if your name be Horatio, as I am"
 # export_8.csv is from Act 4, Scene 6, line "let to know it is."
+# export_9.csv is from Act 4, Scene 6, line "[Reads] 'Horatio, when thou shalt have overlooked."
+# export_10.csv is from Act 4, Scene 6, line "they have letters for him. Ere we were two days old."
 csv_files = [
     "01_prepare_scripts/csv/export_1.csv",
     "01_prepare_scripts/csv/export_2.csv",
@@ -53,7 +55,9 @@ csv_files = [
     "01_prepare_scripts/csv/export_5.csv",
     "01_prepare_scripts/csv/export_6.csv",
     "01_prepare_scripts/csv/export_7.csv",
-    "01_prepare_scripts/csv/export_8.csv"
+    "01_prepare_scripts/csv/export_8.csv",
+    "01_prepare_scripts/csv/export_9.csv",
+    "01_prepare_scripts/csv/export_10.csv"
 ]
 
 # Every object contains all the resources of the same type which occurs in HyperHamlet.
@@ -169,7 +173,11 @@ def create_book(b_id, data_row, pub_info, pub_or_info, dates):
     }
 
     if data_row[5] and data_row[6]:
-        book["hasCreationDate"] = "GREGORIAN:{}:{}".format(data_row[5], data_row[6])
+        if int(data_row[5]) < 1000:
+            book["hasCreationDate"] = "GREGORIAN:1000:1000"
+            book["hasBookExtraInfo"] = "Creation Date 1: {} | Creation Date 2: {}".format(data_row[5], data_row[6])
+        else:
+            book["hasCreationDate"] = "GREGORIAN:{}:{}".format(data_row[5], data_row[6])
 
     if "firstPerformanceExact" in dates:
         book["hasFirstPerformanceDate"] = "GREGORIAN:{}".format(dates["firstPerformanceExact"])

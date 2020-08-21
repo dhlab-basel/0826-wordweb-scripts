@@ -42,9 +42,9 @@
     "hasBookInternalId": "@000784",
     "sql": 370
   },
-  "ww_96f58f18ba880f24": {
+  "ww_c52a282a6d27a823": {
     "publicationExact": "1592",
-    "hasBookTitle": "The Spanish Tragedy",
+    "hasBookTitle": "Spanish Tragedy",
     "hasBookInternalId": "@000783",
     "sql": 371
   },
@@ -342,10 +342,10 @@
     "hasBookInternalId": "@001083",
     "sql": 420
   },
-  "ww_31a3fd1debd486e4": {
+  "ww_d096442f931882e8": {
     "firstPerformanceExact": "1597",
     "publicationExact": "1599",
-    "hasBookTitle": "A Humorous Day's Mirth, or The Comedy of Humours",
+    "hasBookTitle": "A Humorous Day's Mirth",
     "hasBookInternalId": "@001073",
     "sql": 421
   },
@@ -834,10 +834,10 @@
     "hasBookInternalId": "@001706",
     "sql": 493
   },
-  "ww_cc822907a2bf276a": {
+  "ww_6e39d1dd51672f8a": {
     "firstPerformanceExact": "1605",
     "publicationExact": "1630",
-    "hasBookTitle": "The Honest Whore Part 2",
+    "hasBookTitle": "Honest Whore Part 2",
     "hasBookInternalId": "@001459",
     "sql": 494
   },
@@ -888,10 +888,10 @@
     "hasBookInternalId": "@002289",
     "sql": 501
   },
-  "ww_c349487657677682": {
+  "ww_23bc64b05b688fcd": {
     "firstPerformanceExact": "1604",
     "publicationExact": "1604",
-    "hasBookTitle": "The Case Is Altered",
+    "hasBookTitle": "Case Is Altered",
     "hasBookInternalId": "@001419",
     "sql": 502
   },
@@ -1035,10 +1035,10 @@
     "hasBookInternalId": "@000426",
     "sql": 530
   },
-  "ww_5c05857819eed14d": {
+  "ww_f619b6b1cf5ba6c8": {
     "firstPerformanceExact": "1626",
     "publicationExact": "1654",
-    "hasBookTitle": "Appius and Virginia BIS HIER",
+    "hasBookTitle": "Appius and Virginia",
     "hasBookInternalId": "@002186",
     "sql": 531
   },
@@ -1100,8 +1100,8 @@
     "hasBookInternalId": "@001143",
     "sql": 541
   },
-  "ww_9f02a1b394f10efb": {
-    "hasBookTitle": "The Faerie Queene",
+  "ww_67b2ecc5b593d2ca": {
+    "hasBookTitle": "Faerie Queene",
     "hasBookInternalId": "@005017",
     "sql": 542
   },
@@ -1117,10 +1117,10 @@
     "hasBookInternalId": "@000794",
     "sql": 544
   },
-  "ww_65a8b466f961261c": {
+  "ww_75c70d44b16cec81": {
     "firstPerformanceExact": "1607",
     "publicationExact": "1608",
-    "hasBookTitle": "The Family of Love",
+    "hasBookTitle": "Family of Love",
     "hasBookInternalId": "@001529",
     "sql": 545
   },
@@ -1157,10 +1157,10 @@
     "hasBookInternalId": "@001314",
     "sql": 551
   },
-  "ww_411d3c3ead62a1b5": {
+  "ww_b641a216f90ea1fd": {
     "firstPerformanceExact": "1601",
     "publicationExact": "1602",
-    "hasBookTitle": " Satiromastix",
+    "hasBookTitle": "Satiromastix, or the Untrussing",
     "hasBookInternalId": "@001304",
     "sql": 552
   },
@@ -1176,8 +1176,8 @@
     "hasBookInternalId": "@002185",
     "sql": 554
   },
-  "ww_f06bf8f5a6fe82b1": {
-    "hasBookTitle": "Hiren and the Fair Greek",
+  "ww_bfd585bf4722cd6e": {
+    "hasBookTitle": "Hiren or The Fair Greek",
     "hasBookInternalId": "@005021",
     "sql": 555
   },
@@ -1456,10 +1456,10 @@
     "hasBookInternalId": "@002224",
     "sql": 623
   },
-  "ww_b70c78ad34ac9ba9": {
+  "ww_78fb77b735ac6bb6": {
     "firstPerformanceExact": "1613",
     "publicationExact": "1632",
-    "hasBookTitle": "The Iron Age Part 1",
+    "hasBookTitle": "Iron Age Part 1",
     "hasBookInternalId": "@001704",
     "sql": 625
   },
@@ -1473,10 +1473,10 @@
     "hasBookInternalId": "@005057",
     "sql": 627
   },
-  "ww_239f79324311ed6d": {
+  "ww_9e016d955f51c36d": {
     "firstPerformanceExact": "1604",
     "publicationExact": "1604",
-    "hasBookTitle": "The Honest Whore Part 1",
+    "hasBookTitle": "Honest Whore Part 1",
     "hasBookInternalId": "@001431",
     "sql": 628
   },
@@ -1772,8 +1772,8 @@
     "hasBookInternalId": "@005103",
     "sql": 700
   },
-  "ww_4e30495f083be9bb": {
-    "hasBookTitle": "Nature's Assize",
+  "ww_4d2f808478509eec": {
+    "hasBookTitle": "Four Sermons (Abbot)",
     "hasBookInternalId": "@005104",
     "sql": 701
   },
@@ -2864,8 +2864,8 @@
     "hasBookInternalId": "@005208",
     "sql": 919
   },
-  "ww_af880e8f7295425b": {
-    "hasBookTitle": "The Art of Love",
+  "ww_98be366c6d37d39b": {
+    "hasBookTitle": "Art of Love",
     "hasBookInternalId": "@005209",
     "sql": 920
   },
@@ -2886,8 +2886,8 @@
     "hasBookInternalId": "@005212",
     "sql": 926
   },
-  "ww_011582fbd0033576": {
-    "hasBookTitle": "Songs (Dowland)",
+  "ww_d173027b939e13b9": {
+    "hasBookTitle": "Second Book of Songs and Airs",
     "hasBookInternalId": "@005213",
     "sql": 930
   },
@@ -3030,6 +3030,7 @@
     "sql": 1050
   },
   "ww_25bdf8f2be97605a": {
+    "firstPerformanceExact": "1663",
     "publicationExact": "1669",
     "hasBookTitle": "The Wild Gallant",
     "hasBookInternalId": "@005234",
@@ -3041,6 +3042,7 @@
     "sql": 1052
   },
   "ww_c3d54a5f865059b5": {
+    "firstPerformanceExact": "1673",
     "publicationExact": "1672",
     "hasBookTitle": "Marriage \u00e0 la mode",
     "hasBookInternalId": "@005236",
@@ -3064,6 +3066,7 @@
     "sql": 1056
   },
   "ww_4ef25325fe69770e": {
+    "firstPerformanceExact": "1670",
     "publicationExact": "1671",
     "hasBookTitle": "The Forced Marriage",
     "hasBookInternalId": "@005240",
@@ -3114,6 +3117,7 @@
     "sql": 1065
   },
   "ww_42fc9529a30868d6": {
+    "firstPerformanceExact": "1671",
     "hasBookTitle": "The Amorous Prince",
     "hasBookInternalId": "@005487",
     "sql": 1066
@@ -3150,6 +3154,8 @@
     "sql": 1072
   },
   "ww_0965950ce24023d7": {
+    "firstPerformanceExact": "1678",
+    "publicationExact": "1679",
     "hasBookTitle": "The Destruction of Troy",
     "hasBookInternalId": "@005256",
     "sql": 1073
@@ -3177,13 +3183,13 @@
     "hasBookInternalId": "@001609",
     "sql": 1077
   },
-  "ww_65f5a5c2d35873da": {
+  "ww_960bb255634b772b": {
     "hasBookTitle": "Satires (Horace)",
-    "hasBookInternalId": "@005256",
+    "hasBookInternalId": "@005606",
     "sql": 1078
   },
-  "ww_29a7aed47efc7627": {
-    "hasBookTitle": "Nine Sermons",
+  "ww_b8a7ed227a1b2bdc": {
+    "hasBookTitle": "Nine Sermons (Chillingworth)",
     "hasBookInternalId": "@005261",
     "sql": 1079
   },
@@ -3192,8 +3198,8 @@
     "hasBookInternalId": "@005262",
     "sql": 1080
   },
-  "ww_4302758d2974714e": {
-    "hasBookTitle": "Twenty-Eight Sermons",
+  "ww_b80283db89dd64ed": {
+    "hasBookTitle": "Twenty-Eight Sermons (Taylor)",
     "hasBookInternalId": "@005265",
     "sql": 1081
   },
@@ -3234,8 +3240,8 @@
     "hasBookInternalId": "@005272",
     "sql": 1094
   },
-  "ww_89a19198251c8ab9": {
-    "hasBookTitle": "The Poetical Works of Thomas Traherne",
+  "ww_0df3a1b983ee5f02": {
+    "hasBookTitle": "Poems (Traherne)",
     "hasBookInternalId": "@005273",
     "sql": 1095
   },
@@ -3295,8 +3301,8 @@
     "hasBookInternalId": "@005280",
     "sql": 1122
   },
-  "ww_07718f964e530931": {
-    "hasBookTitle": "The Metamorphosis of Pygmalion and Certain Satires",
+  "ww_d4eb54b8ede0c19d": {
+    "hasBookTitle": "Metamorphosis of Pygmalion and Certain Satires",
     "hasBookInternalId": "@005281",
     "sql": 1123
   },
@@ -3415,10 +3421,10 @@
     "hasBookInternalId": "@005294",
     "sql": 1189
   },
-  "ww_865a64d707b92ef1": {
+  "ww_0a9479f842b8956b": {
     "firstPerformanceExact": "1582",
     "publicationExact": "1584",
-    "hasBookTitle": "A The Three Ladies of London",
+    "hasBookTitle": "A Three Ladies of London",
     "hasBookInternalId": "@000700",
     "sql": 1193
   },
@@ -3574,7 +3580,6 @@
     "sql": 1239
   },
   "ww_2e9c883e42921910": {
-    "firstPerformanceExact": "1662",
     "hasBookTitle": "History of the Worthies of England",
     "hasBookInternalId": "@005321",
     "sql": 1240
@@ -3629,8 +3634,8 @@
     "hasBookInternalId": "@005331",
     "sql": 1251
   },
-  "ww_e0b2f58414b83d96": {
-    "hasBookTitle": "Eleven Sermons",
+  "ww_4d056d7fd34aa699": {
+    "hasBookTitle": "Eleven Sermons (Baxter)",
     "hasBookInternalId": "@005332",
     "sql": 1252
   },
@@ -4077,13 +4082,13 @@
     "hasBookInternalId": "@001456",
     "sql": 1390
   },
-  "ww_ef9d6966eb3e1e89": {
-    "hasBookTitle": "The Essays of Montaigne",
+  "ww_291b898175b4f9ec": {
+    "hasBookTitle": "Montaignes Essays",
     "hasBookInternalId": "@005362",
     "sql": 1391
   },
-  "ww_ac7804b1f05f7a9a": {
-    "hasBookTitle": "Pharsalia",
+  "ww_9c8aff178153b988": {
+    "hasBookTitle": "Pharsalia (May translation)",
     "hasBookInternalId": "@005363",
     "sql": 1392
   },
@@ -4118,8 +4123,8 @@
     "hasBookInternalId": "@000954",
     "sql": 1400
   },
-  "ww_e62ad1ec83f708f6": {
-    "hasBookTitle": "Dido (Edward Halliwell)",
+  "ww_e187c66aba7e1b3c": {
+    "hasBookTitle": "The Tragedy of Dido",
     "hasBookInternalId": "@000383",
     "sql": 1402
   },
@@ -4175,8 +4180,8 @@
     "hasBookInternalId": "@001715",
     "sql": 1420
   },
-  "ww_11ddcfb68649cc88": {
-    "hasBookTitle": "A Short Introduction of Grammar",
+  "ww_0e4e7873a529f4d1": {
+    "hasBookTitle": "Short Introduction of Grammar",
     "hasBookInternalId": "@005370",
     "sql": 1421
   },
@@ -4241,8 +4246,8 @@
     "hasBookInternalId": "@005379",
     "sql": 1447
   },
-  "ww_eeeb686fa7dc93ab": {
-    "hasBookTitle": "Lamentations",
+  "ww_1a44fafb1bc8de97": {
+    "hasBookTitle": "Tristia",
     "hasBookInternalId": "@005380",
     "sql": 1448
   },
@@ -4414,14 +4419,16 @@
     "sql": 1489
   },
   "ww_2693826b3a63bb48": {
+    "firstPerformanceExact": "1638",
+    "publicationExact": "1639",
     "hasBookTitle": "The Lady's Trial",
     "hasBookInternalId": "@005404",
     "sql": 1490
   },
-  "ww_43f94b12a1b8034c": {
+  "ww_b46c001d1a69f97d": {
     "firstPerformanceExact": "1606",
     "publicationExact": "1606",
-    "hasBookTitle": "The Isle of Gulls",
+    "hasBookTitle": "Isle of Gulls",
     "hasBookInternalId": "@001491",
     "sql": 1491
   },
@@ -4541,8 +4548,8 @@
     "hasBookInternalId": "@005421",
     "sql": 1523
   },
-  "ww_8d943f3bdea5ca1b": {
-    "hasBookTitle": "The Gallic War",
+  "ww_fe3a2d7a7a1201e5": {
+    "hasBookTitle": "Gallic War",
     "hasBookInternalId": "@005422",
     "sql": 1525
   },
@@ -4570,8 +4577,8 @@
     "hasBookInternalId": "@000969",
     "sql": 1581
   },
-  "ww_50160011e9071ca3": {
-    "hasBookTitle": "Rosamond",
+  "ww_f000d9db9075efb8": {
+    "hasBookTitle": "The Complaint of Rosamond",
     "hasBookInternalId": "@005425",
     "sql": 1583
   },
@@ -4617,10 +4624,10 @@
     "hasBookInternalId": "@005431",
     "sql": 1599
   },
-  "ww_bbe95c2adf8e27c8": {
+  "ww_61e4f6078d8aca89": {
     "firstPerformanceExact": "1613",
     "publicationExact": "1632",
-    "hasBookTitle": "The Iron Age Part 2",
+    "hasBookTitle": "Iron Age Part 2",
     "hasBookInternalId": "@001709",
     "sql": 1603
   },
@@ -4642,9 +4649,9 @@
     "hasBookInternalId": "@005432",
     "sql": 1612
   },
-  "ww_b79481dbe3689394": {
+  "ww_1f17bc167071d20b": {
     "firstPerformanceExact": "1597",
-    "hasBookTitle": "The Isle of Dogs",
+    "hasBookTitle": "Isle of Dogs",
     "hasBookInternalId": "@001081",
     "sql": 1617
   },
@@ -4741,8 +4748,8 @@
     "hasBookInternalId": "@001943",
     "sql": 1641
   },
-  "ww_b85ae99abc6ac4bd": {
-    "hasBookTitle": "In Commendation of Music",
+  "ww_65426c390fcc76f3": {
+    "hasBookTitle": "The Paradise of Dainty Devices",
     "hasBookInternalId": "@005438",
     "sql": 1642
   },
@@ -4823,8 +4830,8 @@
     "hasBookInternalId": "@000822",
     "sql": 1666
   },
-  "ww_3769da4365745c94": {
-    "hasBookTitle": "The Famous History of Friar Bacon",
+  "ww_9287249fc5946a4f": {
+    "hasBookTitle": "Famous History of Friar Bacon",
     "hasBookInternalId": "@005443",
     "sql": 1669
   },
@@ -4951,8 +4958,8 @@
     "hasBookInternalId": "@005449",
     "sql": 1697
   },
-  "ww_3d125d5731c4e765": {
-    "hasBookTitle": "The Orator",
+  "ww_1801a45e082f17db": {
+    "hasBookTitle": "Orator",
     "hasBookInternalId": "@005450",
     "sql": 1698
   },
@@ -4982,8 +4989,8 @@
     "hasBookInternalId": "@005456",
     "sql": 1715
   },
-  "ww_d3f6836bc1e3fde1": {
-    "hasBookTitle": "The Courtier",
+  "ww_5d0ffcffb7e2d3d1": {
+    "hasBookTitle": "Courtier",
     "hasBookInternalId": "@005457",
     "sql": 1716
   },
@@ -5039,8 +5046,8 @@
     "hasBookInternalId": "@005465",
     "sql": 1735
   },
-  "ww_ba3e2acea041f8e8": {
-    "hasBookTitle": "The Sick Mans Salve",
+  "ww_450bd503e88c2e64": {
+    "hasBookTitle": "Sick Mans Salve",
     "hasBookInternalId": "@005466",
     "sql": 1736
   },
@@ -5087,6 +5094,7 @@
     "sql": 1746
   },
   "ww_54892c15481fbe29": {
+    "firstPerformanceExact": "1583",
     "publicationExact": "1584",
     "hasBookTitle": "Campaspe",
     "hasBookInternalId": "@000746",
@@ -5109,7 +5117,6 @@
     "sql": 1750
   },
   "ww_791480eabf7d614b": {
-    "publicationExact": "1651",
     "hasBookTitle": "The Distracted State",
     "hasBookInternalId": "@005476",
     "sql": 1751
@@ -5209,8 +5216,8 @@
     "hasBookInternalId": "@005523",
     "sql": 1787
   },
-  "ww_b141fbe45559d315": {
-    "hasBookTitle": "The Republic (Plato)",
+  "ww_83b86f828b260dc5": {
+    "hasBookTitle": "The Republic",
     "hasBookInternalId": "@005524",
     "sql": 1788
   },
@@ -5264,8 +5271,8 @@
     "hasBookInternalId": "@005545",
     "sql": 1801
   },
-  "ww_1281e6930612aaca": {
-    "hasBookTitle": "The Book of Martyrs (Fox)",
+  "ww_2a1c092f55f7c6df": {
+    "hasBookTitle": "Book of Martyrs",
     "hasBookInternalId": "@005547",
     "sql": 1803
   },
@@ -5273,5 +5280,403 @@
     "hasBookTitle": "Venice Preserved",
     "hasBookInternalId": "@005548",
     "sql": 1804
+  },
+  "ww_1d008e14789110e2": {
+    "hasBookTitle": "Richard III or the English Prophet",
+    "hasBookInternalId": "@005550",
+    "sql": 1806
+  },
+  "ww_2c12ccca4f4847d3": {
+    "firstPerformanceExact": "1602",
+    "hasBookTitle": "[Judas]",
+    "hasBookInternalId": "@001316",
+    "sql": 1807
+  },
+  "ww_bf32d2a076bae888": {
+    "hasBookTitle": "Oedipus (Seneca)",
+    "hasBookInternalId": "@005552",
+    "sql": 1809
+  },
+  "ww_bd343152688d476e": {
+    "hasBookTitle": "Love&#039;s Dominion",
+    "hasBookInternalId": "@005553",
+    "sql": 1810
+  },
+  "ww_7b33a39b551701b7": {
+    "hasBookTitle": "Myrrha the Mother of Adonis",
+    "hasBookInternalId": "@005554",
+    "sql": 1811
+  },
+  "ww_c704e5165fb26055": {
+    "publicationExact": "1597",
+    "hasBookTitle": "The Woman in the Moon",
+    "hasBookInternalId": "@000819",
+    "sql": 1812
+  },
+  "ww_7332a4d4be03b6a5": {
+    "hasBookTitle": "On Ends",
+    "hasBookInternalId": "@005555",
+    "sql": 1813
+  },
+  "ww_d871fbb65121d9df": {
+    "hasBookTitle": "Pharsalia",
+    "hasBookInternalId": "@005556",
+    "sql": 1814
+  },
+  "ww_717f38ba4b749b0d": {
+    "hasBookTitle": "Poems (Cleveland)",
+    "hasBookInternalId": "@005557",
+    "sql": 1815
+  },
+  "ww_4f2e29f95b6f9b56": {
+    "hasBookTitle": "Confusion of Babel",
+    "hasBookInternalId": "@005558",
+    "sql": 1816
+  },
+  "ww_9d01295c62ba2918": {
+    "hasBookTitle": "The Virtuoso",
+    "hasBookInternalId": "@005559",
+    "sql": 1817
+  },
+  "ww_f18d9da682065ea5": {
+    "hasBookTitle": "Hang Pinching",
+    "hasBookInternalId": "@005560",
+    "sql": 1818
+  },
+  "ww_9d3901e079dd0bcf": {
+    "hasBookTitle": "The Jovial Crew, or The Devil Turned Ranter",
+    "hasBookInternalId": "@005561",
+    "sql": 1819
+  },
+  "ww_8f05772c51ee3463": {
+    "hasBookTitle": "The False Count",
+    "hasBookInternalId": "@005562",
+    "sql": 1820
+  },
+  "ww_ada059d584934fc1": {
+    "hasBookTitle": "Tom Nashes Ghost",
+    "hasBookInternalId": "@005563",
+    "sql": 1821
+  },
+  "ww_9f1e8e1627264915": {
+    "hasBookTitle": "Against Verres",
+    "hasBookInternalId": "@005564",
+    "sql": 1822
+  },
+  "ww_e9da19d5c8c9ac28": {
+    "hasBookTitle": "Acolastus",
+    "hasBookInternalId": "@005565",
+    "sql": 1823
+  },
+  "ww_2c5a747f3bf4685d": {
+    "hasBookTitle": "Acolastus (Palsgrave)",
+    "hasBookInternalId": "@005566",
+    "sql": 1824
+  },
+  "ww_00e61112f9dd7397": {
+    "hasBookTitle": "Der bestrafte Brudermord",
+    "hasBookInternalId": "@005567",
+    "sql": 1825
+  },
+  "ww_0405f8fdc622085f": {
+    "hasBookTitle": "Annals (Tacitus)",
+    "hasBookInternalId": "@005568",
+    "sql": 1826
+  },
+  "ww_763df850d16acb71": {
+    "firstPerformanceExact": "1602",
+    "hasBookTitle": "Richard Crookback",
+    "hasBookInternalId": "@001337",
+    "sql": 1827
+  },
+  "ww_6415f44fff4757f5": {
+    "hasBookTitle": "Cratylus",
+    "hasBookInternalId": "@005569",
+    "sql": 1828
+  },
+  "ww_5bd2db652b139754": {
+    "hasBookTitle": "Lexiphanes",
+    "hasBookInternalId": "@005570",
+    "sql": 1829
+  },
+  "ww_c24d0fb3f246039b": {
+    "hasBookTitle": "Oh Read Over Doctor John Bridges",
+    "hasBookInternalId": "@005571",
+    "sql": 1830
+  },
+  "ww_b0b5c33c2edd61b5": {
+    "hasBookTitle": "Love&#039;s Martyr",
+    "hasBookInternalId": "@005573",
+    "sql": 1832
+  },
+  "ww_f66f7d795fe26cb1": {
+    "hasBookTitle": "The Whipping of the Satire",
+    "hasBookInternalId": "@005574",
+    "sql": 1833
+  },
+  "ww_a4ad53d475ecee4b": {
+    "hasBookTitle": "Epigrams (Weever)",
+    "hasBookInternalId": "@005575",
+    "sql": 1834
+  },
+  "ww_be5de4f191e546cd": {
+    "hasBookTitle": "Affaniae",
+    "hasBookInternalId": "@005576",
+    "sql": 1835
+  },
+  "ww_b86a44e3407e771f": {
+    "hasBookTitle": "Kempe's Jig",
+    "hasBookInternalId": "@004488",
+    "sql": 1836
+  },
+  "ww_7792501c9cf0a6da": {
+    "firstPerformanceExact": "1639",
+    "hasBookTitle": "Dido and Aeneas (1639)",
+    "hasBookInternalId": "@005578",
+    "sql": 1838
+  },
+  "ww_e28b682229bef268": {
+    "firstPerformanceExact": "1598",
+    "hasBookTitle": "Dido and Aeneas (1598)",
+    "hasBookInternalId": "@001100",
+    "sql": 1839
+  },
+  "ww_81cac3b7ec3e1b41": {
+    "firstPerformanceExact": "1600",
+    "hasBookTitle": "Damon and Pythias (Chettle)",
+    "hasBookInternalId": "@001245",
+    "sql": 1840
+  },
+  "ww_e7145d6c2f80b5a9": {
+    "firstPerformanceExact": "1607",
+    "hasBookTitle": "Tragedy of Aeneas and Dido",
+    "hasBookInternalId": "@001530",
+    "sql": 1841
+  },
+  "ww_00ff9b2d2ab145d9": {
+    "firstPerformanceExact": "1611",
+    "hasBookTitle": "Richard II (Anon)",
+    "hasBookInternalId": "@001635",
+    "sql": 1842
+  },
+  "ww_1205022c2e72b9ac": {
+    "firstPerformanceExact": "1605",
+    "hasBookTitle": "Lucretia",
+    "hasBookInternalId": "@001458",
+    "sql": 1843
+  },
+  "ww_a08a5c4b63622917": {
+    "firstPerformanceExact": "1598",
+    "hasBookTitle": "Love's Labours Won",
+    "hasBookInternalId": "@001109",
+    "sql": 1844
+  },
+  "ww_54e845a3b1eaf294": {
+    "publicationExact": "1590",
+    "hasBookTitle": "The Three Lords and Three Ladies of London",
+    "hasBookInternalId": "@000821",
+    "sql": 1846
+  },
+  "ww_9312781f524d6890": {
+    "hasBookTitle": "The Careless Shepherdess",
+    "hasBookInternalId": "@005581",
+    "sql": 1847
+  },
+  "ww_2f11c4e48954503d": {
+    "hasBookTitle": "The Ruins of Rome by Bellay",
+    "hasBookInternalId": "@005582",
+    "sql": 1848
+  },
+  "ww_783f7ea39e75856f": {
+    "hasBookTitle": "Love in a Tub",
+    "hasBookInternalId": "@005583",
+    "sql": 1849
+  },
+  "ww_d35f03e159a79746": {
+    "firstPerformanceExact": "1624",
+    "hasBookTitle": "The Way to Content All Women",
+    "hasBookInternalId": "@002089",
+    "sql": 1850
+  },
+  "ww_492eb3f8c72a9066": {
+    "hasBookTitle": "A Christian Legacy",
+    "hasBookInternalId": "@005586",
+    "sql": 1853
+  },
+  "ww_8dad7e0f8bddbaff": {
+    "firstPerformanceExact": "1620",
+    "publicationExact": "1647",
+    "hasBookTitle": "Women Pleased",
+    "hasBookInternalId": "@001965",
+    "sql": 1854
+  },
+  "ww_7dbc3769ee16671d": {
+    "hasBookTitle": "Conversation",
+    "hasBookInternalId": "@005588",
+    "sql": 1855
+  },
+  "ww_d0975739ea3e4583": {
+    "hasBookTitle": "Palmerin of England",
+    "hasBookInternalId": "@005589",
+    "sql": 1856
+  },
+  "ww_cc50d3819a6714cb": {
+    "hasBookTitle": "Palladine of England",
+    "hasBookInternalId": "@005590",
+    "sql": 1857
+  },
+  "ww_d450ac7f63e00fe8": {
+    "hasBookTitle": "Don Quijote de la Mancha",
+    "hasBookInternalId": "@005591",
+    "sql": 1858
+  },
+  "ww_ed894440c1d054cc": {
+    "firstPerformanceExact": "1613",
+    "hasBookTitle": "The History of Cardenio",
+    "hasBookInternalId": "@001684",
+    "sql": 1859
+  },
+  "ww_6bc1c3e8bb9e9c25": {
+    "hasBookTitle": "The Rival Queens",
+    "hasBookInternalId": "@005592",
+    "sql": 1860
+  },
+  "ww_c3c7fe410670dce6": {
+    "firstPerformanceExact": "1611",
+    "hasBookTitle": "Tragedy of a Tyrant and a Lady",
+    "hasBookInternalId": "@001655",
+    "sql": 1861
+  },
+  "ww_68f2c63c66cc156e": {
+    "firstPerformanceExact": "1613",
+    "publicationExact": "1613",
+    "hasBookTitle": "Wit at Several Weapons",
+    "hasBookInternalId": "@001729",
+    "sql": 1862
+  },
+  "ww_2bce3b453c6aff07": {
+    "hasBookTitle": "Gargantua et Pantagruel",
+    "hasBookInternalId": "@005594",
+    "sql": 1863
+  },
+  "ww_cc6497bf7af7c769": {
+    "hasBookTitle": "The Pleasures of Matrimony",
+    "hasBookInternalId": "@005595",
+    "sql": 1864
+  },
+  "ww_7224080d519938ca": {
+    "hasBookTitle": "Don Quixote (English)",
+    "hasBookInternalId": "@005596",
+    "sql": 1865
+  },
+  "ww_6d23f17e2e4cda85": {
+    "hasBookTitle": "Medea (Seneca)",
+    "hasBookInternalId": "@005597",
+    "sql": 1866
+  },
+  "ww_e52e0edd3111650a": {
+    "hasBookTitle": "Cause and Cure of a Wounded Conscience",
+    "hasBookInternalId": "@005599",
+    "sql": 1868
+  },
+  "ww_a9cd887275d1ec36": {
+    "hasBookTitle": "The Tragedy of Cleopatra",
+    "hasBookInternalId": "@005600",
+    "sql": 1869
+  },
+  "ww_f7e0a6e1e081592d": {
+    "hasBookTitle": "Book of Airs",
+    "hasBookInternalId": "@005602",
+    "sql": 1871
+  },
+  "ww_75b0d27999619c79": {
+    "firstPerformanceExact": "1632",
+    "hasBookTitle": "The Magnetic Lady",
+    "hasBookInternalId": "@002385",
+    "sql": 1872
+  },
+  "ww_a108cb1811c0fa5f": {
+    "hasBookTitle": "Jack of Newbury",
+    "hasBookInternalId": "@005604",
+    "sql": 1874
+  },
+  "ww_06ddb7a5f2f28c1c": {
+    "hasBookTitle": "Utopia",
+    "hasBookInternalId": "@005607",
+    "sql": 1875
+  },
+  "ww_b21552fd59a62819": {
+    "hasBookTitle": "Espejo de pr\u00edncipes y caballeros",
+    "hasBookInternalId": "@005608",
+    "sql": 1876
+  },
+  "ww_ba815d05e65c9709": {
+    "hasBookTitle": "The Mirror of Princely Deeds and Knighthood",
+    "hasBookInternalId": "@005609",
+    "sql": 1877
+  },
+  "ww_393b81fb3067ccb0": {
+    "hasBookTitle": "Principal Navigations",
+    "hasBookInternalId": "@005610",
+    "sql": 1878
+  },
+  "ww_bed88b2057bef07f": {
+    "hasBookTitle": "Palmerin de la Inglaterra",
+    "hasBookInternalId": "@005611",
+    "sql": 1879
+  },
+  "ww_9b7fbbee353c70cb": {
+    "hasBookTitle": "Gammer Gurton's Needle",
+    "hasBookInternalId": "@000253",
+    "sql": 1880
+  },
+  "ww_5f7e073c62294f59": {
+    "hasBookTitle": "Richard Whittington",
+    "hasBookInternalId": "@001430",
+    "sql": 1881
+  },
+  "ww_5066b323c5b3ffb6": {
+    "hasBookTitle": "Essay Concerning Human Understanding",
+    "hasBookInternalId": "@005612",
+    "sql": 1882
+  },
+  "ww_063b2be5d0f14d7e": {
+    "hasBookTitle": "A New Discovery by Sea",
+    "hasBookInternalId": "@005645",
+    "sql": 1915
+  },
+  "ww_70544a548ae7a473": {
+    "firstPerformanceExact": "1636",
+    "publicationExact": "1640",
+    "hasBookTitle": "The Hollander",
+    "hasBookInternalId": "@001111",
+    "sql": 1917
+  },
+  "ww_6abf36c87e8442f8": {
+    "firstPerformanceExact": "1638",
+    "publicationExact": "1639",
+    "hasBookTitle": "Argalus and Parthenia",
+    "hasBookInternalId": "@005599",
+    "sql": 1918
+  },
+  "ww_9f920132e7058dcf": {
+    "hasBookTitle": "The Disobedient Child",
+    "hasBookInternalId": "@000001",
+    "sql": 1923
+  },
+  "ww_7a97b63d64ef56b4": {
+    "hasBookTitle": "History of the Reign of Henry VII",
+    "hasBookInternalId": "@005657",
+    "sql": 1930
+  },
+  "ww_620b14c64fd894d6": {
+    "hasBookTitle": "King John (Bale)",
+    "hasBookInternalId": "@000064",
+    "sql": 1932
+  },
+  "ww_8df276db6b5a45fc": {
+    "hasBookTitle": "An Answer to Misled Doctor Fearne",
+    "hasBookInternalId": "@005671",
+    "sql": 1946
   }
 }

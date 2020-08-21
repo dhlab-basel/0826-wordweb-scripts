@@ -75,13 +75,6 @@
             }
           },
           {
-            "name": "Italian",
-            "labels": {
-              "de": "Italienisch",
-              "en": "Italian"
-            }
-          },
-          {
             "name": "Eastern and Northern European",
             "labels": {
               "de": "???",
@@ -110,24 +103,24 @@
             }
           },
           {
-            "name": "Hebrew",
+            "name": "Italian",
             "labels": {
-              "de": "Hebräisch",
-              "en": "Hebrew"
+              "de": "Italienisch",
+              "en": "Italian"
             }
           },
           {
-            "name": "Portuguese and Spanish",
+            "name": "Portuguese",
             "labels": {
-              "de": "Portugiesisch und Spanisch",
-              "en": "Portuguese and Spanish"
+              "de": "Portugisisch",
+              "en": "Portuguese"
             }
           },
           {
-            "name": "New Testament Greek",
+            "name": "Spanish",
             "labels": {
-              "de": "Neues Testament Griechisch",
-              "en": "New Testament Greek"
+              "de": "Spanisch",
+              "en": "Spanish"
             }
           }
         ]
@@ -1076,6 +1069,20 @@
                       "de": "Allgemein",
                       "en": "Prose unspecified"
                     }
+                  },
+                  {
+                    "name": "Science fiction or fantasy",
+                    "labels": {
+                      "de": "Science fiction oder Fantasy",
+                      "en": "Science fiction or fantasy"
+                    }
+                  },
+                  {
+                    "name": "Romance (prose)",
+                    "labels": {
+                      "de": "Romance (Prosa)",
+                      "en": "Romance (prose)"
+                    }
                   }
                 ]
               },
@@ -1256,6 +1263,13 @@
             },
             "nodes": [
               {
+                "name": "Instrumental music",
+                "labels": {
+                  "de": "Instrumental music",
+                  "en": "Instrumentale Music"
+                }
+              },
+              {
                 "name": "Fulltext database",
                 "labels": {
                   "de": "Volltext Datenbank",
@@ -1351,10 +1365,10 @@
             }
           },
           {
-            "name": "Sociology, society, lifestyle",
+            "name": "Sociology, lifestyle, travel",
             "labels": {
-              "de": "Soziologie, Gesellschaft, Lifestyle",
-              "en": "Sociology, society, lifestyle"
+              "de": "Soziologie, Lifestyle, Reisen",
+              "en": "Sociology, lifestyle, travel"
             }
           },
           {
@@ -1619,6 +1633,20 @@
                   "de": "Middle Temple",
                   "en": "Middle Temple"
                 }
+              },
+              {
+                "name": "Dorset Garden Theatre",
+                "labels": {
+                  "de": "Dorset Garden Theatre",
+                  "en": "Dorset Garden Theatre"
+                }
+              },
+              {
+                "name": "The Theatre Royal",
+                "labels": {
+                  "de": "The Theatre Royal",
+                  "en": "The Theatre Royal"
+                }
               }
             ]
           },
@@ -1671,6 +1699,13 @@
                 "labels": {
                   "de": "Christ Church",
                   "en": "Christ Church"
+                }
+              },
+              {
+                "name": "St Johns College",
+                "labels": {
+                  "de": "St Johns College",
+                  "en": "St Johns College"
                 }
               }
             ]
@@ -1987,6 +2022,23 @@
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
+            },
+            {
+              "name": "hasPersonExtraInfo",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Extra info for person",
+                "de": "Zusatzinfo für Person"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=128"
+              ],
+              "cardinality": "0-1"
             }
           ]
         },
@@ -2213,6 +2265,23 @@
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
+            },
+            {
+              "name": "hasBookExtraInfo",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Extra info for book",
+                "de": "Zusatzinfo für Buch"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=128"
+              ],
+              "cardinality": "0-1"
             }
           ]
         },
@@ -2446,6 +2515,23 @@
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
+            },
+            {
+              "name": "hasPassageExtraInfo",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Extra info for passage",
+                "de": "Zusatzinfo für Passage"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=128"
+              ],
+              "cardinality": "0-1"
             }
           ]
         },
@@ -2543,6 +2629,23 @@
                 "hlist=image"
               ],
               "cardinality": "0-n"
+            },
+            {
+              "name": "hasLexiaExtraInfo",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Extra info for lexia",
+                "de": "Zusatzinfo für Lexia"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=128"
+              ],
+              "cardinality": "0-1"
             }
           ]
         },
@@ -2617,6 +2720,23 @@
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
+            },
+            {
+              "name": "hasCompanyExtraInfo",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Extra info for company",
+                "de": "Zusatzinfo für Theatergruppe"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=128"
+              ],
+              "cardinality": "0-1"
             }
           ]
         },
@@ -2677,6 +2797,23 @@
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"
+            },
+            {
+              "name": "hasVenueExtraInfo",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Extra info for venue",
+                "de": "Zusatzinfo für Aufführungsort"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=128"
+              ],
+              "cardinality": "0-1"
             }
           ]
         }

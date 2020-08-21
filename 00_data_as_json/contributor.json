@@ -30,99 +30,106 @@
   "ww_e3d06d88eb4427b0": {
     "hasFirstName": "Nickie",
     "hasLastName": "Tryfona",
-    "hasPersonInternalId": "#007164",
+    "hasPersonInternalId": "#007166",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_6202c1bb6957c9cc": {
     "hasFirstName": "Martin",
     "hasLastName": "Danneck",
-    "hasPersonInternalId": "#007188",
+    "hasPersonInternalId": "#007190",
     "hasGender": "male",
     "hasDescription": "_"
   },
   "ww_b98e7021b3193ae3": {
     "hasFirstName": "Stefan",
     "hasLastName": "Kristmann",
-    "hasPersonInternalId": "#007201",
+    "hasPersonInternalId": "#007202",
     "hasGender": "male",
     "hasDescription": "_"
   },
   "ww_b05ab3db9fd9054a": {
     "hasFirstName": "Christian",
     "hasLastName": "Gebhard",
-    "hasPersonInternalId": "#007217",
+    "hasPersonInternalId": "#007219",
     "hasGender": "male",
     "hasDescription": "Swiss journalist"
   },
   "ww_5fbb1eab1b30dfee": {
     "hasFirstName": "Sixta",
     "hasLastName": "Quassdorf",
-    "hasPersonInternalId": "#007246",
+    "hasPersonInternalId": "#007252",
     "hasGender": "female",
     "hasDescription": "German academic b. 1964"
   },
   "ww_bff7390e4e734f4c": {
     "hasFirstName": "Olivia",
     "hasLastName": "Rottmann",
-    "hasPersonInternalId": "#007255",
+    "hasPersonInternalId": "#007261",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_6965a91ff78934d7": {
     "hasFirstName": "Rene",
     "hasLastName": "Wallrodt",
-    "hasPersonInternalId": "#007256",
+    "hasPersonInternalId": "#007262",
     "hasGender": "male",
     "hasDescription": "_"
   },
   "ww_d5030ba888f64f29": {
     "hasFirstName": "Gustavo",
     "hasLastName": "Grandi de Souza",
-    "hasPersonInternalId": "#007338",
+    "hasPersonInternalId": "#007346",
     "hasGender": "male",
     "hasDescription": "_"
   },
   "ww_72ab59d77214a6f8": {
     "hasFirstName": "Chantal",
     "hasLastName": "Battilana",
-    "hasPersonInternalId": "#007348",
+    "hasPersonInternalId": "#007356",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_caa8f9e4a628f638": {
     "hasFirstName": "Balz",
     "hasLastName": "Engler B.",
-    "hasPersonInternalId": "#007406",
+    "hasPersonInternalId": "#007422",
     "hasGender": "male",
     "hasDescription": "Swiss academic b. 1944"
   },
   "ww_89c0be6dd7262995": {
     "hasFirstName": "Vea-Murguia",
     "hasLastName": "Thomson",
-    "hasPersonInternalId": "#007435",
+    "hasPersonInternalId": "#007451",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_ad4ed5850132d51e": {
     "hasFirstName": "Eftychia",
     "hasLastName": "Fountoulakis",
-    "hasPersonInternalId": "#007463",
+    "hasPersonInternalId": "#007482",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_f4d0b9d33729f20b": {
     "hasFirstName": "Elisabeth",
     "hasLastName": "M\u00e4der",
-    "hasPersonInternalId": "#007540",
+    "hasPersonInternalId": "#007561",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_35a6e7ed40edeab8": {
     "hasFirstName": "Carol",
     "hasLastName": "Leininger",
-    "hasPersonInternalId": "#007668",
+    "hasPersonInternalId": "#007691",
     "hasGender": "female",
     "hasDescription": "_"
+  },
+  "ww_a5962aa0a9c6e2a9": {
+    "hasFirstName": "Alessandro",
+    "hasLastName": "Lattanzi",
+    "hasPersonInternalId": "#007824",
+    "hasGender": "male",
+    "hasDescription": "Italian scholar"
   }
 }

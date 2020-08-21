@@ -1,8 +1,7 @@
 {
   "ww_5fb3825d93e43c10": {
     "hasVenueInternalId": "#008000",
-    "hasPlaceVenue": "Unknown venue",
-    "isLexiaVenue": "ww_32d7424369ba7f28"
+    "hasPlaceVenue": "Unknown venue"
   },
   "ww_c741d607338b9c9f": {
     "hasVenueInternalId": "#008002",
@@ -71,6 +70,10 @@
     "hasVenueInternalId": "#008008",
     "hasPlaceVenue": "Salisbury Court"
   },
+  "ww_1d4f8bd2f7d212cc": {
+    "hasVenueInternalId": "#008044",
+    "hasPlaceVenue": "Dorset Garden Theatre"
+  },
   "ww_f2d84cad074a045d": {
     "hasVenueInternalId": "#008017",
     "hasPlaceVenue": "The Swan Theatre"
@@ -119,9 +122,17 @@
     "hasVenueInternalId": "#008035",
     "hasPlaceVenue": "Middle Temple"
   },
+  "ww_c1c8db7cb45339ac": {
+    "hasVenueInternalId": "#008041",
+    "hasPlaceVenue": "St Johns College"
+  },
   "ww_6f09b13a5da5097f": {
     "hasVenueInternalId": "#008033",
     "hasPlaceVenue": "Ashby de la Zouch Castle"
+  },
+  "ww_e5b694cfdd28f611": {
+    "hasVenueInternalId": "#008043",
+    "hasPlaceVenue": "The Theatre Royal"
   },
   "ww_0ba761f4e861d087": {
     "hasVenueInternalId": "#008021",
