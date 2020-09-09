@@ -140,9 +140,9 @@ def create_author(auth_id):
                                                           allAuthors[auth_id]["deathEnd"])
 
     if "activeExact" in allAuthors[auth_id]:
-        person["activeDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["activeExact"])
+        person["hasActiveDate"] = "GREGORIAN:{}".format(allAuthors[auth_id]["activeExact"])
     elif "activeStart" in allAuthors[auth_id]:
-        person["activeDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["activeStart"],
+        person["hasActiveDate"] = "GREGORIAN:{}:{}".format(allAuthors[auth_id]["activeStart"],
                                                         allAuthors[auth_id]["activeEnd"])
 
     # Adding the new author to the list of authors
