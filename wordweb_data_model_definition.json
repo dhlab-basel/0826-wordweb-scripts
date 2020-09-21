@@ -68,27 +68,6 @@
             }
           },
           {
-            "name": "Russian",
-            "labels": {
-              "de": "Russisch",
-              "en": "Russian"
-            }
-          },
-          {
-            "name": "Eastern and Northern European",
-            "labels": {
-              "de": "???",
-              "en": "Eastern and Northern European"
-            }
-          },
-          {
-            "name": "Asian",
-            "labels": {
-              "de": "Asiatisch",
-              "en": "Asian"
-            }
-          },
-          {
             "name": "Latin",
             "labels": {
               "de": "Latein",
