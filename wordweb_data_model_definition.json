@@ -1231,6 +1231,13 @@
                   "de": "Allgemein",
                   "en": "Bildung"
                 }
+              },
+              {
+                "name": "Scholarly database",
+                "labels": {
+                  "de": "Wissenschaftliche Datenbank",
+                  "en": "Scholarly database"
+                }
               }
             ]
           },
@@ -1274,13 +1281,6 @@
                 "labels": {
                   "de": "Bibel",
                   "en": "Bible"
-                }
-              },
-              {
-                "name": "Scholarly database",
-                "labels": {
-                  "de": "Wissenschaftliche Datenbank",
-                  "en": "Scholarly database"
                 }
               }
             ]
