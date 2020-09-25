@@ -46,7 +46,6 @@ import prep_venues
 # export_7.csv is from Act 4, Scene 6, line "bound for England; if your name be Horatio, as I am"
 # export_8.csv is from Act 4, Scene 6, line "let to know it is."
 # export_9.csv is from Act 4, Scene 6, line "[Reads] 'Horatio, when thou shalt have overlooked."
-# export_10.csv is from Act 4, Scene 6, line "they have letters for him. Ere we were two days old."
 csv_files = [
     "01_prepare_scripts/csv/export_1.csv",
     "01_prepare_scripts/csv/export_2.csv",
@@ -56,8 +55,7 @@ csv_files = [
     "01_prepare_scripts/csv/export_6.csv",
     "01_prepare_scripts/csv/export_7.csv",
     "01_prepare_scripts/csv/export_8.csv",
-    "01_prepare_scripts/csv/export_9.csv",
-    "01_prepare_scripts/csv/export_10.csv"
+    "01_prepare_scripts/csv/export_9.csv"
 ]
 
 # Every object contains all the resources of the same type which occurs in HyperHamlet.
@@ -648,7 +646,7 @@ def start():
                 for row in csv_reader:
 
                     # Skip first row with column title
-                    if line is not 0:
+                    if line != 0:
 
                         # ---------- AUTHOR
                         # Multiple names of authors
@@ -837,7 +835,7 @@ def start():
                             for comp_ven_name in comp_ven_names:
                                 comp_ven_data, type_1 = comp_ven.info(comp_ven_name, line, csv_file)
 
-                                if type_1 is "venue":
+                                if type_1 == "venue":
                                     unique_key = "{} {}".format(comp_ven_data["hasVenueInternalId"],
                                                                 comp_ven_data["hasPlaceVenue"])
 
@@ -852,7 +850,7 @@ def start():
                                     # Updates the venue reference
                                     update_book(book_id, None, None, venue_id, None, None, None, None, None)
 
-                                elif type_1 is "company":
+                                elif type_1 == "company":
                                     company_id = id.generate(comp_ven_data["hasCompanyInternalId"])
 
                                     if company_id not in allCompanies:
@@ -938,7 +936,7 @@ def start():
             for row in csv_reader:
 
                 # Skip first row with column title
-                if line2 is not 0:
+                if line2 != 0:
 
                     # Multiple names of authors
                     names = row[2].split(" / ")
@@ -977,14 +975,14 @@ def start():
             for row in csv_reader:
 
                 # Skip first row with column title
-                if line3 is not 0:
+                if line3 != 0:
 
                     ven_names = row[12].split(" / ")
 
                     for ven_name in ven_names:
                         ven_data, type_2 = comp_ven.info(ven_name, line3, non_venues)
 
-                        if type_2 is "venue":
+                        if type_2 == "venue":
                             unique_key = "{} {}".format(ven_data["hasVenueInternalId"],
                                                         ven_data["hasPlaceVenue"])
 
@@ -1016,7 +1014,7 @@ def start():
             for row in csv_reader:
 
                 # Skip first row with column title
-                if line4 is not 0:
+                if line4 != 0:
 
                     # Generates id for human
                     human_id = id.generate(row[2])
@@ -1031,7 +1029,7 @@ def start():
                     for comp_name in comp_names:
                         comp_data, type_3 = comp_ven.info(comp_name, line, human_company)
 
-                        if type_3 is "company":
+                        if type_3 == "company":
 
                             # Generates id for company
                             company_id = id.generate(comp_data["hasCompanyInternalId"])
