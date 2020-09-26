@@ -126,13 +126,13 @@
     "hasLexiaInternalId": "#030016",
     "hasLexiaTitle": "Hamlet",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Hamlet"
+    "hasLexiaDisplayedTitle": "#Hamlet"
   },
   "ww_1ca21660bbd37a24": {
     "hasLexiaInternalId": "#030017",
     "hasLexiaTitle": "Ophelia",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Ophelia"
+    "hasLexiaDisplayedTitle": "#Ophelia"
   },
   "ww_456c372407eb2a42": {
     "hasLexiaInternalId": "#030018",
@@ -219,7 +219,7 @@
     "hasLexiaInternalId": "#030031",
     "hasLexiaTitle": "Ghost of Hamlet",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Ghost_of_Hamlet"
+    "hasLexiaDisplayedTitle": "#Ghost_of_Hamlet"
   },
   "ww_7b4cb5bbc724729f": {
     "hasLexiaInternalId": "#030032",
@@ -233,11 +233,11 @@
     "hasFormalClass": "Book title",
     "hasLexiaDisplayedTitle": "#Spanish_Tragedy"
   },
-  "ww_a8bcc301dd3f9ceb": {
+  "ww_e82ad91dabc8b003": {
     "hasLexiaInternalId": "#030033",
-    "hasLexiaTitle": "Andreaa ghost in Spanish Tragedy",
+    "hasLexiaTitle": "Andreas ghost Spanish Tragedy",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Andreaa_ghost_in_Spanish_Tragedy"
+    "hasLexiaDisplayedTitle": "#Andreas_ghost_Spanish_Tragedy"
   },
   "ww_4fe9e33e79436cbe": {
     "hasLexiaInternalId": "#030034",
@@ -255,26 +255,26 @@
     "hasLexiaInternalId": "#030036",
     "hasLexiaTitle": "Lear",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Lear"
+    "hasLexiaDisplayedTitle": "#Lear"
   },
   "ww_8c85d3a3d85a504d": {
     "hasLexiaInternalId": "#030037",
     "hasLexiaTitle": "Othello",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Othello"
+    "hasLexiaDisplayedTitle": "#Othello"
   },
   "ww_88fe6d3e5637ed36": {
     "hasLexiaInternalId": "#030038",
     "hasLexiaTitle": "Hieronimo",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Hieronimo"
+    "hasLexiaDisplayedTitle": "#Hieronimo"
   },
   "ww_ac919f8fc45d26c9": {
     "hasLexiaInternalId": "#030040",
     "hasLexiaTitle": "girl distributing flowers",
     "hasImage": [
-      "Women",
-      "Plants"
+      "Plants",
+      "Women"
     ],
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#girl_distributing_flowers"
@@ -340,7 +340,7 @@
       "Animals"
     ],
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_cat_Tybalt_or_Tybert"
+    "hasLexiaDisplayedTitle": "#cat_Tybalt_or_Tybert"
   },
   "ww_7dab51ab4c4b0e0f": {
     "hasLexiaInternalId": "#030050",
@@ -510,11 +510,11 @@
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#leap_into_grave"
   },
-  "ww_7e89dfa693ba9f85": {
+  "ww_404c25df1d57358f": {
     "hasLexiaInternalId": "#030076",
-    "hasLexiaTitle": "he is dead he is gone",
+    "hasLexiaTitle": "he is dead and gone",
     "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#he_is_dead_he_is_gone"
+    "hasLexiaDisplayedTitle": "#he_is_dead_and_gone"
   },
   "ww_f189c8d837374348": {
     "hasLexiaInternalId": "#030077",
@@ -586,8 +586,8 @@
     "hasLexiaInternalId": "#030087",
     "hasLexiaTitle": "undiscovered country",
     "hasImage": [
-      "Landscape",
-      "Death"
+      "Death",
+      "Landscape"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#undiscovered_country"
@@ -1112,7 +1112,7 @@
     "hasLexiaInternalId": "#030161",
     "hasLexiaTitle": "Oberon",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Oberon"
+    "hasLexiaDisplayedTitle": "#Oberon"
   },
   "ww_e47359bee8c2524e": {
     "hasLexiaInternalId": "#030162",
@@ -1244,7 +1244,7 @@
     "hasLexiaInternalId": "#030181",
     "hasLexiaTitle": "Polonius",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Polonius"
+    "hasLexiaDisplayedTitle": "#Polonius"
   },
   "ww_405f3aabc0fe3ed1": {
     "hasLexiaInternalId": "#030182",
@@ -1826,8 +1826,8 @@
     "hasLexiaInternalId": "#032026",
     "hasLexiaTitle": "fruit ripened by sun",
     "hasImage": [
-      "Sky and wether",
-      "Plants"
+      "Plants",
+      "Sky and wether"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#fruit_ripened_by_sun"
@@ -2182,7 +2182,7 @@
     "hasLexiaInternalId": "#032071",
     "hasLexiaTitle": "ONeill",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_ONeill"
+    "hasLexiaDisplayedTitle": "#ONeill"
   },
   "ww_5f931056fe6e05dc": {
     "hasLexiaInternalId": "#032072",
@@ -2242,7 +2242,7 @@
     "hasLexiaInternalId": "#032081",
     "hasLexiaTitle": "Tisiphone",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Tisiphone"
+    "hasLexiaDisplayedTitle": "#Tisiphone"
   },
   "ww_3a351d770c50cc66": {
     "hasLexiaInternalId": "#031147",
@@ -3205,11 +3205,11 @@
     "hasFormalClass": "Word",
     "hasLexiaDisplayedTitle": "#honorificabilitudinitatibus"
   },
-  "ww_fae7ab63375f24fb": {
+  "ww_69ed2541335ce63f": {
     "hasLexiaInternalId": "#089041",
-    "hasLexiaTitle": "he knows thy thought",
+    "hasLexiaTitle": "knows thy thought",
     "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#he_knows_thy_thought"
+    "hasLexiaDisplayedTitle": "#knows_thy_thought"
   },
   "ww_e95d9cd5132e8f69": {
     "hasLexiaInternalId": "#660042",
@@ -3625,11 +3625,11 @@
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#clothes_spread_wide"
   },
-  "ww_6afa76895451302c": {
+  "ww_8f0726071f4ceaa2": {
     "hasLexiaInternalId": "#030711",
-    "hasLexiaTitle": "Adam dig Gentleman",
+    "hasLexiaTitle": "Adam dig gentleman",
     "hasFormalClass": "Motif with name",
-    "hasLexiaDisplayedTitle": "#Adam_dig_Gentleman"
+    "hasLexiaDisplayedTitle": "#Adam_dig_gentleman"
   },
   "ww_4b82d20cf899db8f": {
     "hasLexiaInternalId": "#030267",
@@ -3725,7 +3725,7 @@
     "hasLexiaInternalId": "#005086",
     "hasLexiaTitle": "Borachio",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Borachio"
+    "hasLexiaDisplayedTitle": "#Borachio"
   },
   "ww_68e869de51aedea1": {
     "hasLexiaInternalId": "#005087",
@@ -3752,8 +3752,8 @@
     "hasLexiaInternalId": "#005090",
     "hasLexiaTitle": "mandragora syrup",
     "hasImage": [
-      "medicine",
-      "Plants"
+      "Plants",
+      "medicine"
     ],
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#mandragora_syrup"
@@ -3776,11 +3776,11 @@
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#exit_pursued_by_bear"
   },
-  "ww_256b5161befc012f": {
+  "ww_a62dd4348032e652": {
     "hasLexiaInternalId": "#005095",
-    "hasLexiaTitle": "parting good wishes after explanation",
+    "hasLexiaTitle": "good parting after explanation",
     "hasFormalClass": "Plot element",
-    "hasLexiaDisplayedTitle": "#parting_good_wishes_after_explanation"
+    "hasLexiaDisplayedTitle": "#good_parting_after_explanation"
   },
   "ww_95ea291572c702c6": {
     "hasLexiaInternalId": "#005096",
@@ -3831,8 +3831,8 @@
     "hasLexiaInternalId": "#230165",
     "hasLexiaTitle": "marry old woman for money",
     "hasImage": [
-      "Women",
-      "Marriage"
+      "Marriage",
+      "Women"
     ],
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#marry_old_woman_for_money"
@@ -3841,7 +3841,7 @@
     "hasLexiaInternalId": "#005103",
     "hasLexiaTitle": "Altofronto",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Altofronto"
+    "hasLexiaDisplayedTitle": "#Altofronto"
   },
   "ww_c1403625e7de5dec": {
     "hasLexiaInternalId": "#230169",
@@ -3873,11 +3873,11 @@
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#murdering_someone_at_prayer"
   },
-  "ww_e66b5ac4ea005321": {
+  "ww_56c41e3dabc4407b": {
     "hasLexiaInternalId": "#031173",
-    "hasLexiaTitle": "talking to ghost of ones victim",
+    "hasLexiaTitle": "talking to victims ghost",
     "hasFormalClass": "Plot element",
-    "hasLexiaDisplayedTitle": "#talking_to_ghost_of_ones_victim"
+    "hasLexiaDisplayedTitle": "#talking_to_victims_ghost"
   },
   "ww_58a063dbcb44ed1f": {
     "hasLexiaInternalId": "#031174",
@@ -3958,8 +3958,8 @@
     "hasLexiaInternalId": "#030770",
     "hasLexiaTitle": "death as arrest",
     "hasImage": [
-      "war, combat",
-      "Death"
+      "Death",
+      "war, combat"
     ],
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#death_as_arrest"
@@ -4099,11 +4099,11 @@
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#still_effects_murder"
   },
-  "ww_cdcb3d44ec5393ae": {
+  "ww_3987fcd1e47ed26c": {
     "hasLexiaInternalId": "#032029",
-    "hasLexiaTitle": "kill him drunk so hell go to hell",
+    "hasLexiaTitle": "kill him drunk so goes to hell",
     "hasFormalClass": "Plot element",
-    "hasLexiaDisplayedTitle": "#kill_him_drunk_so_hell_go_to_hell"
+    "hasLexiaDisplayedTitle": "#kill_him_drunk_so_goes_to_hell"
   },
   "ww_d41ed6f817622294": {
     "hasLexiaInternalId": "#030766",
@@ -4231,11 +4231,11 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#my_councils_consistory"
   },
-  "ww_33b07075a4793d18": {
+  "ww_7e0ba3cc21834472": {
     "hasLexiaInternalId": "#230061",
-    "hasLexiaTitle": "he stirreth not",
+    "hasLexiaTitle": "stirreth not",
     "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#he_stirreth_not"
+    "hasLexiaDisplayedTitle": "#stirreth_not"
   },
   "ww_3508032ab952ca6f": {
     "hasLexiaInternalId": "#032132",
@@ -4487,20 +4487,20 @@
     "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#nails_anchored_in_eyes"
   },
-  "ww_b5d72480cffadc4b": {
+  "ww_1916ffc856891d51": {
     "hasLexiaInternalId": "#230198",
-    "hasLexiaTitle": "cast of chaste lips of Diana",
+    "hasLexiaTitle": "cast of Dianas chaste lips",
     "hasFormalClass": "Motif with name",
-    "hasLexiaDisplayedTitle": "#cast_of_chaste_lips_of_Diana"
+    "hasLexiaDisplayedTitle": "#cast_of_Dianas_chaste_lips"
   },
-  "ww_e01bdcaf4f3d4d54": {
+  "ww_6426b29388ec3ea9": {
     "hasLexiaInternalId": "#230100",
-    "hasLexiaTitle": "love will creep where cannot go",
+    "hasLexiaTitle": "love creeps where cannot go",
     "hasImage": [
       "Love"
     ],
     "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#love_will_creep_where_cannot_go"
+    "hasLexiaDisplayedTitle": "#love_creeps_where_cannot_go"
   },
   "ww_b60dd6825f46aa92": {
     "hasLexiaInternalId": "#730206",
@@ -4514,14 +4514,14 @@
     "hasFormalClass": "Name of real person",
     "hasLexiaDisplayedTitle": "#Geoffrey_Chaucer"
   },
-  "ww_da1584b2d5486213": {
+  "ww_1252b369d9505d07": {
     "hasLexiaInternalId": "#030000",
-    "hasLexiaTitle": "bowels of harmless earth",
+    "hasLexiaTitle": "harmless earths bowels",
     "hasImage": [
       "Landscape"
     ],
     "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#bowels_of_harmless_earth"
+    "hasLexiaDisplayedTitle": "#harmless_earths_bowels"
   },
   "ww_120a92667c07fcd7": {
     "hasLexiaInternalId": "#005135",
@@ -4575,7 +4575,7 @@
     "hasLexiaInternalId": "#830219",
     "hasLexiaTitle": "Gertrude",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Gertrude"
+    "hasLexiaDisplayedTitle": "#Gertrude"
   },
   "ww_6a8c286f6b6cf4e6": {
     "hasLexiaInternalId": "#038223",
@@ -4716,7 +4716,7 @@
     "hasLexiaInternalId": "#032259",
     "hasLexiaTitle": "Falstaff",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Falstaff"
+    "hasLexiaDisplayedTitle": "#Falstaff"
   },
   "ww_c57a04f19eaa0d57": {
     "hasLexiaInternalId": "#008023",
@@ -4963,7 +4963,7 @@
     "hasLexiaInternalId": "#032271",
     "hasLexiaTitle": "Midsummer Nights Dream mechanics",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Midsummer_Nights_Dream_mechanics"
+    "hasLexiaDisplayedTitle": "#Midsummer_Nights_Dream_mechanics"
   },
   "ww_181f9a210f685f06": {
     "hasLexiaInternalId": "#032272",
@@ -5082,11 +5082,11 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#brothers_murder"
   },
-  "ww_7af03c75f649989e": {
+  "ww_77a0931dda7cb9a4": {
     "hasLexiaInternalId": "#005183",
-    "hasLexiaTitle": "hoist with his own petard",
+    "hasLexiaTitle": "hoist with own petard",
     "hasFormalClass": "Plot element",
-    "hasLexiaDisplayedTitle": "#hoist_with_his_own_petard"
+    "hasLexiaDisplayedTitle": "#hoist_with_own_petard"
   },
   "ww_a0dd17f1e9aff32f": {
     "hasLexiaInternalId": "#032286",
@@ -5109,15 +5109,15 @@
     "hasFormalClass": "Word",
     "hasLexiaDisplayedTitle": "#muddied"
   },
-  "ww_16cd01e351f712c8": {
+  "ww_870ae817006955d2": {
     "hasLexiaInternalId": "@001303",
-    "hasLexiaTitle": "How a Man May Choose a Good Wife",
+    "hasLexiaTitle": "How a Man May Choose",
     "hasImage": [
-      "Men",
-      "Marriage"
+      "Marriage",
+      "Men"
     ],
     "hasFormalClass": "Book title",
-    "hasLexiaDisplayedTitle": "#How_a_Man_May_Choose_a_Good_Wife"
+    "hasLexiaDisplayedTitle": "#How_a_Man_May_Choose"
   },
   "ww_b9481a200520e69d": {
     "hasLexiaInternalId": "#032289",
@@ -5446,11 +5446,11 @@
     "hasFormalClass": "Passage",
     "hasLexiaDisplayedTitle": "#PASSAGE_graceful_brow_Jove_Mars"
   },
-  "ww_5da7aa5064d2e595": {
+  "ww_8b2f7eb2cb1315a4": {
     "hasLexiaInternalId": "#230134",
-    "hasLexiaTitle": "murder has no tongue will speak",
+    "hasLexiaTitle": "tongueless murder will speak",
     "hasFormalClass": "Keywords",
-    "hasLexiaDisplayedTitle": "#murder_has_no_tongue_will_speak"
+    "hasLexiaDisplayedTitle": "#tongueless_murder_will_speak"
   },
   "ww_183e6433d2e33ead": {
     "hasLexiaInternalId": "#032231",
@@ -5492,43 +5492,43 @@
     "hasLexiaInternalId": "#032236",
     "hasLexiaTitle": "Damon and Pythias",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Damon_and_Pythias"
+    "hasLexiaDisplayedTitle": "#Damon_and_Pythias"
   },
   "ww_32b456c8fe5ec0d8": {
     "hasLexiaInternalId": "#032237",
     "hasLexiaTitle": "Jove Jupiter Zeus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Jove_Jupiter_Zeus"
+    "hasLexiaDisplayedTitle": "#Jove_Jupiter_Zeus"
   },
   "ww_56c2eaa8dcd113a6": {
     "hasLexiaInternalId": "#032238",
     "hasLexiaTitle": "Venus Aphrodite",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Venus_Aphrodite"
+    "hasLexiaDisplayedTitle": "#Venus_Aphrodite"
   },
   "ww_c57fda58123d5514": {
     "hasLexiaInternalId": "#032239",
     "hasLexiaTitle": "Aeneas",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Aeneas"
+    "hasLexiaDisplayedTitle": "#Aeneas"
   },
   "ww_980d02471351eb54": {
     "hasLexiaInternalId": "#032240",
     "hasLexiaTitle": "Dido",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Dido"
+    "hasLexiaDisplayedTitle": "#Dido"
   },
   "ww_b316c74c9610a315": {
     "hasLexiaInternalId": "#032241",
     "hasLexiaTitle": "Atlas",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Atlas"
+    "hasLexiaDisplayedTitle": "#Atlas"
   },
   "ww_1d4a0f31a173a525": {
     "hasLexiaInternalId": "#032242",
     "hasLexiaTitle": "Niobe",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Niobe"
+    "hasLexiaDisplayedTitle": "#Niobe"
   },
   "ww_cc15a5505a947cf7": {
     "hasLexiaInternalId": "#032243",
@@ -5612,19 +5612,19 @@
     "hasLexiaInternalId": "#032255",
     "hasLexiaTitle": "Jephthah",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Jephthah"
+    "hasLexiaDisplayedTitle": "#Jephthah"
   },
   "ww_990e2ba9997b8047": {
     "hasLexiaInternalId": "#032256",
     "hasLexiaTitle": "Cain",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Cain"
+    "hasLexiaDisplayedTitle": "#Cain"
   },
   "ww_3faba707550370ba": {
     "hasLexiaInternalId": "#032257",
     "hasLexiaTitle": "Abel",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Abel"
+    "hasLexiaDisplayedTitle": "#Abel"
   },
   "ww_80145935a19b6012": {
     "hasLexiaInternalId": "#032258",
@@ -5642,73 +5642,73 @@
     "hasLexiaInternalId": "#034000",
     "hasLexiaTitle": "Samson",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Samson"
+    "hasLexiaDisplayedTitle": "#Samson"
   },
   "ww_95357a7a37a06557": {
     "hasLexiaInternalId": "#004001",
     "hasLexiaTitle": "Diana or Artemis or Phoebe",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Diana_or_Artemis_or_Phoebe"
+    "hasLexiaDisplayedTitle": "#Diana_or_Artemis_or_Phoebe"
   },
   "ww_07fa5fc3c8999260": {
     "hasLexiaInternalId": "#004002",
     "hasLexiaTitle": "Thetis",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Thetis"
+    "hasLexiaDisplayedTitle": "#Thetis"
   },
   "ww_9c6bb0cc80ef79ae": {
     "hasLexiaInternalId": "#004003",
     "hasLexiaTitle": "Pyramus and Thisbe",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Pyramus_and_Thisbe"
+    "hasLexiaDisplayedTitle": "#Pyramus_and_Thisbe"
   },
   "ww_4a57f932b0043c50": {
     "hasLexiaInternalId": "#004004",
     "hasLexiaTitle": "Lethe",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Lethe"
+    "hasLexiaDisplayedTitle": "#Lethe"
   },
   "ww_22a1d3ab78bfd3d6": {
     "hasLexiaInternalId": "#004005",
     "hasLexiaTitle": "Romeo",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Romeo"
+    "hasLexiaDisplayedTitle": "#Romeo"
   },
   "ww_8cdcc1a6d3496e2a": {
     "hasLexiaInternalId": "#004006",
     "hasLexiaTitle": "Juliet",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Juliet"
+    "hasLexiaDisplayedTitle": "#Juliet"
   },
   "ww_04fcaca6b29c70f4": {
     "hasLexiaInternalId": "#004407",
     "hasLexiaTitle": "Alcides",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Alcides"
+    "hasLexiaDisplayedTitle": "#Alcides"
   },
   "ww_32d1c1fa5e4c5204": {
     "hasLexiaInternalId": "#004008",
     "hasLexiaTitle": "Rosalind",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Rosalind"
+    "hasLexiaDisplayedTitle": "#Rosalind"
   },
   "ww_caa46bc85bf7fa22": {
     "hasLexiaInternalId": "#004009",
     "hasLexiaTitle": "Vulcan or Hephaistos",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Vulcan_or_Hephaistos"
+    "hasLexiaDisplayedTitle": "#Vulcan_or_Hephaistos"
   },
   "ww_ce02181b494f7125": {
     "hasLexiaInternalId": "#004010",
     "hasLexiaTitle": "Adam",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Adam"
+    "hasLexiaDisplayedTitle": "#Adam"
   },
   "ww_8554fdb015a50447": {
     "hasLexiaInternalId": "#004011",
     "hasLexiaTitle": "Eve",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Eve"
+    "hasLexiaDisplayedTitle": "#Eve"
   },
   "ww_ac7b6cb8053184e6": {
     "hasLexiaInternalId": "#004013",
@@ -5726,31 +5726,31 @@
     "hasLexiaInternalId": "#004015",
     "hasLexiaTitle": "Nemesis",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Nemesis"
+    "hasLexiaDisplayedTitle": "#Nemesis"
   },
   "ww_b41236fc23c613b1": {
     "hasLexiaInternalId": "#004016",
     "hasLexiaTitle": "Leander",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Leander"
+    "hasLexiaDisplayedTitle": "#Leander"
   },
   "ww_308d3d02502dfe97": {
     "hasLexiaInternalId": "#004017",
     "hasLexiaTitle": "Phoebus Apollo",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Phoebus_Apollo"
+    "hasLexiaDisplayedTitle": "#Phoebus_Apollo"
   },
   "ww_5ad2788c07029fb5": {
     "hasLexiaInternalId": "#004018",
     "hasLexiaTitle": "Agamemnon",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Agamemnon"
+    "hasLexiaDisplayedTitle": "#Agamemnon"
   },
   "ww_768dad127dd32881": {
     "hasLexiaInternalId": "#004019",
     "hasLexiaTitle": "Menelaus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Menelaus"
+    "hasLexiaDisplayedTitle": "#Menelaus"
   },
   "ww_241a1f52b3c9aa3a": {
     "hasLexiaInternalId": "#008039",
@@ -5762,49 +5762,49 @@
     "hasLexiaInternalId": "#004021",
     "hasLexiaTitle": "Iago",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Iago"
+    "hasLexiaDisplayedTitle": "#Iago"
   },
   "ww_9212d81d8fc56a12": {
     "hasLexiaInternalId": "#004022",
     "hasLexiaTitle": "King Arthur",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_King_Arthur"
+    "hasLexiaDisplayedTitle": "#King_Arthur"
   },
   "ww_e7f7551e95210d6c": {
     "hasLexiaInternalId": "#004023",
     "hasLexiaTitle": "Narcissus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Narcissus"
+    "hasLexiaDisplayedTitle": "#Narcissus"
   },
-  "ww_3262891890826790": {
+  "ww_df6ba23b07af9ca3": {
     "hasLexiaInternalId": "#007050",
-    "hasLexiaTitle": "Henry V Prince Hal",
+    "hasLexiaTitle": "Henry V",
     "hasFormalClass": "Name of real person",
-    "hasLexiaDisplayedTitle": "#Henry_V_Prince_Hal"
+    "hasLexiaDisplayedTitle": "#Henry_V"
   },
   "ww_485cdbd905cdde76": {
     "hasLexiaInternalId": "#004025",
     "hasLexiaTitle": "Neptune Poseidon",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Neptune_Poseidon"
+    "hasLexiaDisplayedTitle": "#Neptune_Poseidon"
   },
   "ww_075224012f64273c": {
     "hasLexiaInternalId": "#004027",
     "hasLexiaTitle": "Pluto Hades Dis",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Pluto_Hades_Dis"
+    "hasLexiaDisplayedTitle": "#Pluto_Hades_Dis"
   },
   "ww_909f362b254539ca": {
     "hasLexiaInternalId": "#004028",
     "hasLexiaTitle": "Erebus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Erebus"
+    "hasLexiaDisplayedTitle": "#Erebus"
   },
   "ww_19d57f5249f32fe5": {
     "hasLexiaInternalId": "#004029",
     "hasLexiaTitle": "Tamburlaine",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Tamburlaine"
+    "hasLexiaDisplayedTitle": "#Tamburlaine"
   },
   "ww_f240682e1f011efb": {
     "hasLexiaInternalId": "#004030",
@@ -5831,8 +5831,8 @@
     "hasLexiaInternalId": "#004034",
     "hasLexiaTitle": "chastity womans dowry",
     "hasImage": [
-      "Women",
-      "Marriage"
+      "Marriage",
+      "Women"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#chastity_womans_dowry"
@@ -6074,20 +6074,20 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#no_beast_so_fierce"
   },
-  "ww_6e0dfe2edf465334": {
+  "ww_48450fd12c3c278e": {
     "hasLexiaInternalId": "#004071",
-    "hasLexiaTitle": "thanks as exchequer of poor",
+    "hasLexiaTitle": "thanks exchequer of poor",
     "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#thanks_as_exchequer_of_poor"
+    "hasLexiaDisplayedTitle": "#thanks_exchequer_of_poor"
   },
-  "ww_c340f579ddb2411d": {
+  "ww_7322f17008b22a87": {
     "hasLexiaInternalId": "#004072",
-    "hasLexiaTitle": "raven doth not hatch lark",
+    "hasLexiaTitle": "raven not hatch lark",
     "hasImage": [
       "Birds"
     ],
     "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#raven_doth_not_hatch_lark"
+    "hasLexiaDisplayedTitle": "#raven_not_hatch_lark"
   },
   "ww_dd5015fa2e8c90b5": {
     "hasLexiaInternalId": "#004073",
@@ -6247,7 +6247,7 @@
     "hasLexiaInternalId": "#004101",
     "hasLexiaTitle": "Ixion",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Ixion"
+    "hasLexiaDisplayedTitle": "#Ixion"
   },
   "ww_f809914ab2b641e1": {
     "hasLexiaInternalId": "#004102",
@@ -6415,7 +6415,7 @@
     "hasLexiaInternalId": "#004130",
     "hasLexiaTitle": "Hecuba",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Hecuba"
+    "hasLexiaDisplayedTitle": "#Hecuba"
   },
   "ww_dc9bd039cd85de9b": {
     "hasLexiaInternalId": "#004131",
@@ -6709,8 +6709,8 @@
     "hasLexiaInternalId": "#004162",
     "hasLexiaTitle": "quarries move with song",
     "hasImage": [
-      "Music, dance, song",
-      "Landscape"
+      "Landscape",
+      "Music, dance, song"
     ],
     "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#quarries_move_with_song"
@@ -6719,13 +6719,13 @@
     "hasLexiaInternalId": "#004163",
     "hasLexiaTitle": "Orpheus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Orpheus"
+    "hasLexiaDisplayedTitle": "#Orpheus"
   },
   "ww_6bbe16c4a309d959": {
     "hasLexiaInternalId": "#004164",
     "hasLexiaTitle": "Amphion",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Amphion"
+    "hasLexiaDisplayedTitle": "#Amphion"
   },
   "ww_382a5651db98b5e4": {
     "hasLexiaInternalId": "#004166",
@@ -6751,7 +6751,7 @@
   "ww_2bcf8314a75e632c": {
     "hasLexiaInternalId": "#006981",
     "hasLexiaTitle": "London",
-    "hasFormalClass": "Word",
+    "hasFormalClass": "Venue or place",
     "hasLexiaDisplayedTitle": "#London"
   },
   "ww_d2d205537c65cce5": {
@@ -6776,7 +6776,7 @@
     "hasLexiaInternalId": "#004171",
     "hasLexiaTitle": "Juno Hera",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Juno_Hera"
+    "hasLexiaDisplayedTitle": "#Juno_Hera"
   },
   "ww_99493cf6e7d26ba9": {
     "hasLexiaInternalId": "#008025",
@@ -6800,7 +6800,7 @@
     "hasLexiaInternalId": "#004172",
     "hasLexiaTitle": "Quicksilver",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Quicksilver"
+    "hasLexiaDisplayedTitle": "#Quicksilver"
   },
   "ww_ae759252fca56252": {
     "hasLexiaInternalId": "#004173",
@@ -6830,13 +6830,13 @@
     "hasLexiaInternalId": "#004173",
     "hasLexiaTitle": "Helen of Troy",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Helen_of_Troy"
+    "hasLexiaDisplayedTitle": "#Helen_of_Troy"
   },
   "ww_479bc01efeee617a": {
     "hasLexiaInternalId": "#004174",
     "hasLexiaTitle": "Cressida",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Cressida"
+    "hasLexiaDisplayedTitle": "#Cressida"
   },
   "ww_161b2d064d238a64": {
     "hasLexiaInternalId": "#004178",
@@ -6848,13 +6848,13 @@
     "hasLexiaInternalId": "#004179",
     "hasLexiaTitle": "Mars Ares",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Mars_Ares"
+    "hasLexiaDisplayedTitle": "#Mars_Ares"
   },
   "ww_a0dd66346bf254a3": {
     "hasLexiaInternalId": "#004180",
     "hasLexiaTitle": "Mercury Hermes",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Mercury_Hermes"
+    "hasLexiaDisplayedTitle": "#Mercury_Hermes"
   },
   "ww_6ba2a2df638f3840": {
     "hasLexiaInternalId": "#004181",
@@ -6924,7 +6924,7 @@
     "hasLexiaInternalId": "#032314",
     "hasLexiaTitle": "Erictho stalking",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Erictho_stalking"
+    "hasLexiaDisplayedTitle": "#Erictho_stalking"
   },
   "ww_a9d25887fa738abd": {
     "hasLexiaInternalId": "#032308",
@@ -6978,7 +6978,7 @@
     "hasLexiaInternalId": "#004187",
     "hasLexiaTitle": "Hercules",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Hercules"
+    "hasLexiaDisplayedTitle": "#Hercules"
   },
   "ww_07c5a06342b76899": {
     "hasLexiaInternalId": "#004188",
@@ -7008,7 +7008,7 @@
     "hasLexiaInternalId": "#004192",
     "hasLexiaTitle": "Lucrece",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Lucrece"
+    "hasLexiaDisplayedTitle": "#Lucrece"
   },
   "ww_971023de2c913916": {
     "hasLexiaInternalId": "#004193",
@@ -7026,7 +7026,7 @@
     "hasLexiaInternalId": "#004195",
     "hasLexiaTitle": "Cupid Eros",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Cupid_Eros"
+    "hasLexiaDisplayedTitle": "#Cupid_Eros"
   },
   "ww_0a6473a0f8aa5c00": {
     "hasLexiaInternalId": "#004196",
@@ -7038,13 +7038,13 @@
     "hasLexiaInternalId": "#004197",
     "hasLexiaTitle": "Horatio",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Horatio"
+    "hasLexiaDisplayedTitle": "#Horatio"
   },
   "ww_49f4985e19b13e14": {
     "hasLexiaInternalId": "#004198",
     "hasLexiaTitle": "Abraham",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Abraham"
+    "hasLexiaDisplayedTitle": "#Abraham"
   },
   "ww_772cf2247d556cbb": {
     "hasLexiaInternalId": "#008038",
@@ -7056,13 +7056,13 @@
     "hasLexiaInternalId": "#004200",
     "hasLexiaTitle": "Phaethon",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Phaethon"
+    "hasLexiaDisplayedTitle": "#Phaethon"
   },
   "ww_d35db317ac6c4c05": {
     "hasLexiaInternalId": "#004201",
     "hasLexiaTitle": "Paris of Troy",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Paris_of_Troy"
+    "hasLexiaDisplayedTitle": "#Paris_of_Troy"
   },
   "ww_f1551bc3e6950f4f": {
     "hasLexiaInternalId": "#004202",
@@ -7074,7 +7074,7 @@
     "hasLexiaInternalId": "#004203",
     "hasLexiaTitle": "Adonis",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Adonis"
+    "hasLexiaDisplayedTitle": "#Adonis"
   },
   "ww_8ef9f62275e6e8bd": {
     "hasLexiaInternalId": "#004204",
@@ -7159,7 +7159,7 @@
     "hasLexiaInternalId": "#004214",
     "hasLexiaTitle": "Priam King of Troy",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Priam_King_of_Troy"
+    "hasLexiaDisplayedTitle": "#Priam_King_of_Troy"
   },
   "ww_10708fe9f3bdfc7d": {
     "hasLexiaInternalId": "#004215",
@@ -7180,7 +7180,7 @@
       "war, combat"
     ],
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Pyrrhus_Greek_warrior"
+    "hasLexiaDisplayedTitle": "#Pyrrhus_Greek_warrior"
   },
   "ww_0f0ea13086ae6847": {
     "hasLexiaInternalId": "#004218",
@@ -7210,11 +7210,11 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#wilderness_of_animals"
   },
-  "ww_8c5d6638366a7a5c": {
+  "ww_a66587e5e4ffd9c8": {
     "hasLexiaInternalId": "#004222",
-    "hasLexiaTitle": "does he excite your intellect",
+    "hasLexiaTitle": "excites your intellect",
     "hasFormalClass": "Keywords",
-    "hasLexiaDisplayedTitle": "#does_he_excite_your_intellect"
+    "hasLexiaDisplayedTitle": "#excites_your_intellect"
   },
   "ww_d506a58689dfcece": {
     "hasLexiaInternalId": "#004223",
@@ -7301,7 +7301,7 @@
     "hasLexiaInternalId": "#004228",
     "hasLexiaTitle": "Lazarus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Lazarus"
+    "hasLexiaDisplayedTitle": "#Lazarus"
   },
   "ww_1acac93c15c6a006": {
     "hasLexiaInternalId": "#004229",
@@ -7363,14 +7363,14 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#accursed_reason_how_many_eyes"
   },
-  "ww_6b1f8e375bd7a494": {
+  "ww_37c1f74ddf4b2076": {
     "hasLexiaInternalId": "#032325",
-    "hasLexiaTitle": "pleasure should have cranes long neck",
+    "hasLexiaTitle": "pleasure should have cranes neck",
     "hasImage": [
       "Birds"
     ],
     "hasFormalClass": "Idea",
-    "hasLexiaDisplayedTitle": "#pleasure_should_have_cranes_long_neck"
+    "hasLexiaDisplayedTitle": "#pleasure_should_have_cranes_neck"
   },
   "ww_949ca323c4303b34": {
     "hasLexiaInternalId": "#004236",
@@ -7406,13 +7406,13 @@
     "hasLexiaInternalId": "#004340",
     "hasLexiaTitle": "Thracian",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Thracian"
+    "hasLexiaDisplayedTitle": "#Thracian"
   },
   "ww_582034542c5886c2": {
     "hasLexiaInternalId": "#004341",
     "hasLexiaTitle": "Tarquin",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Tarquin"
+    "hasLexiaDisplayedTitle": "#Tarquin"
   },
   "ww_e217736c49277625": {
     "hasLexiaInternalId": "#000000",
@@ -7751,8 +7751,8 @@
     "hasLexiaInternalId": "#032339",
     "hasLexiaTitle": "railing War of the Theatres",
     "hasImage": [
-      "War of the Theatres",
-      "Theatre"
+      "Theatre",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#railing_War_of_the_Theatres"
@@ -7815,8 +7815,8 @@
     "hasLexiaInternalId": "#032341",
     "hasLexiaTitle": "sit on stage",
     "hasImage": [
-      "War of the Theatres",
-      "Theatre"
+      "Theatre",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#sit_on_stage"
@@ -7825,8 +7825,8 @@
     "hasLexiaInternalId": "#008003",
     "hasLexiaTitle": "The Blackfriars",
     "hasImage": [
-      "War of the Theatres",
-      "Theatre"
+      "Theatre",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Venue or place",
     "hasLexiaDisplayedTitle": "#The_Blackfriars"
@@ -7835,8 +7835,8 @@
     "hasLexiaInternalId": "#032342",
     "hasLexiaTitle": "feathers at the theatre",
     "hasImage": [
-      "War of the Theatres",
-      "Theatre"
+      "Theatre",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#feathers_at_the_theatre"
@@ -7869,7 +7869,7 @@
     "hasLexiaInternalId": "#004387",
     "hasLexiaTitle": "Basilisco",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Basilisco"
+    "hasLexiaDisplayedTitle": "#Basilisco"
   },
   "ww_3253af34563cd281": {
     "hasLexiaInternalId": "#004388",
@@ -8207,11 +8207,11 @@
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#One_woe_treads_on_anothers_heel"
   },
-  "ww_63be2e4dcb94d27d": {
+  "ww_24fb03dcffab7064": {
     "hasLexiaInternalId": "#004253",
-    "hasLexiaTitle": "evil plot falls upon perpetrators head",
+    "hasLexiaTitle": "evil plot on perpetrators head",
     "hasFormalClass": "Idea",
-    "hasLexiaDisplayedTitle": "#evil_plot_falls_upon_perpetrators_head"
+    "hasLexiaDisplayedTitle": "#evil_plot_on_perpetrators_head"
   },
   "ww_c0817d6cf329364b": {
     "hasLexiaInternalId": "#004254",
@@ -8351,17 +8351,17 @@
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#stones_will_cry"
   },
-  "ww_989ecfb238f7b2ae": {
+  "ww_796eb98884325632": {
     "hasLexiaInternalId": "#004274",
-    "hasLexiaTitle": "man and wife are one flesh",
+    "hasLexiaTitle": "man and wife one flesh",
     "hasFormalClass": "Idea",
-    "hasLexiaDisplayedTitle": "#man_and_wife_are_one_flesh"
+    "hasLexiaDisplayedTitle": "#man_and_wife_one_flesh"
   },
-  "ww_5cc1084df8a8f0c6": {
+  "ww_55bae6070ef27b0e": {
     "hasLexiaInternalId": "#004275",
-    "hasLexiaTitle": "not I do it but my madness",
+    "hasLexiaTitle": "not I but my madness",
     "hasFormalClass": "Idea",
-    "hasLexiaDisplayedTitle": "#not_I_do_it_but_my_madness"
+    "hasLexiaDisplayedTitle": "#not_I_but_my_madness"
   },
   "ww_e8ca6d6b4c2bebb8": {
     "hasLexiaInternalId": "#004276",
@@ -8369,11 +8369,11 @@
     "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#mote_or_beam_in_eye"
   },
-  "ww_6430522d7c3da971": {
+  "ww_639c84b138b4505b": {
     "hasLexiaInternalId": "#004277",
-    "hasLexiaTitle": "cannot take anything along after death",
+    "hasLexiaTitle": "cannot take things after death",
     "hasFormalClass": "Idea",
-    "hasLexiaDisplayedTitle": "#cannot_take_anything_along_after_death"
+    "hasLexiaDisplayedTitle": "#cannot_take_things_after_death"
   },
   "ww_54b4211ebb94c9ff": {
     "hasLexiaInternalId": "#004278",
@@ -8387,11 +8387,11 @@
     "hasFormalClass": "Passage",
     "hasLexiaDisplayedTitle": "#PASSAGE_outward_inward_man"
   },
-  "ww_d65e3a91a7f58f2e": {
+  "ww_87839846869fae1e": {
     "hasLexiaInternalId": "#004280",
-    "hasLexiaTitle": "discard part of yourself to save your soul",
+    "hasLexiaTitle": "discard part of yourself to save soul",
     "hasFormalClass": "Idea",
-    "hasLexiaDisplayedTitle": "#discard_part_of_yourself_to_save_your_soul"
+    "hasLexiaDisplayedTitle": "#discard_part_of_yourself_to_save_soul"
   },
   "ww_995be2f5c563c722": {
     "hasLexiaInternalId": "#004281",
@@ -8553,17 +8553,17 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#receive_it_as_your_tested_due"
   },
-  "ww_d73d4beb8c8d0dac": {
+  "ww_13b6aa18a57737a1": {
     "hasLexiaInternalId": "#004427",
-    "hasLexiaTitle": "O let him that would such passion drink",
+    "hasLexiaTitle": "O let him that would such passion",
     "hasFormalClass": "Passage",
-    "hasLexiaDisplayedTitle": "#PASSAGE_O_let_him_that_would_such_passion_drink"
+    "hasLexiaDisplayedTitle": "#PASSAGE_O_let_him_that_would_such_passion"
   },
-  "ww_9a51e2a2c617a8e7": {
+  "ww_fb0a577a84baf5dd": {
     "hasLexiaInternalId": "#004428",
-    "hasLexiaTitle": "confessing love but not saying anything",
+    "hasLexiaTitle": "confessing love but saying nothing",
     "hasFormalClass": "Idea",
-    "hasLexiaDisplayedTitle": "#confessing_love_but_not_saying_anything"
+    "hasLexiaDisplayedTitle": "#confessing_love_but_saying_nothing"
   },
   "ww_3d02321c2c4fc319": {
     "hasLexiaInternalId": "#032376",
@@ -8727,11 +8727,11 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#theres_no_such_thing"
   },
-  "ww_4ac7887b68f6aa72": {
+  "ww_4f010732f9443ccd": {
     "hasLexiaInternalId": "#004451",
-    "hasLexiaTitle": "Some men for sudden joy",
+    "hasLexiaTitle": "some men for sudden joy",
     "hasFormalClass": "Passage",
-    "hasLexiaDisplayedTitle": "#PASSAGE_Some_men_for_sudden_joy"
+    "hasLexiaDisplayedTitle": "#PASSAGE_some_men_for_sudden_joy"
   },
   "ww_addb2506e2c133d9": {
     "hasLexiaInternalId": "#004452",
@@ -8742,11 +8742,11 @@
     "hasFormalClass": "Two-word item",
     "hasLexiaDisplayedTitle": "#kings_shadow"
   },
-  "ww_f5b98097c9d54f04": {
+  "ww_18e0d9788cceb2ff": {
     "hasLexiaInternalId": "#004453",
-    "hasLexiaTitle": "wise men less wit in a year",
+    "hasLexiaTitle": "wise men less wit in year",
     "hasFormalClass": "Keywords",
-    "hasLexiaDisplayedTitle": "#wise_men_less_wit_in_a_year"
+    "hasLexiaDisplayedTitle": "#wise_men_less_wit_in_year"
   },
   "ww_15bd45b6dc6223c4": {
     "hasLexiaInternalId": "#004454",
@@ -8905,7 +8905,7 @@
     "hasLexiaInternalId": "#004468",
     "hasLexiaTitle": "Primero",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Primero"
+    "hasLexiaDisplayedTitle": "#Primero"
   },
   "ww_8d9696242f7f6617": {
     "hasLexiaInternalId": "#004469",
@@ -8925,14 +8925,14 @@
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#ghost_reports_being_poisoned"
   },
-  "ww_a96c68425b797c71": {
+  "ww_e3f6a9126b9c255c": {
     "hasLexiaInternalId": "#032386",
-    "hasLexiaTitle": "trying to grasp Gods secrets",
+    "hasLexiaTitle": "grasp Gods secrets",
     "hasImage": [
       "religion"
     ],
     "hasFormalClass": "Idea",
-    "hasLexiaDisplayedTitle": "#trying_to_grasp_Gods_secrets"
+    "hasLexiaDisplayedTitle": "#grasp_Gods_secrets"
   },
   "ww_16715d5d0ccb9698": {
     "hasLexiaInternalId": "#032387",
@@ -8985,11 +8985,11 @@
     "hasFormalClass": "Passage",
     "hasLexiaDisplayedTitle": "#PASSAGE_Sooner_hard_steel_will_melt"
   },
-  "ww_a15cd254dfb4d7e3": {
+  "ww_dce2a079ecaf0eac": {
     "hasLexiaInternalId": "#004478",
-    "hasLexiaTitle": "She that through force her limbs",
+    "hasLexiaTitle": "She that through force",
     "hasFormalClass": "Passage",
-    "hasLexiaDisplayedTitle": "#PASSAGE_She_that_through_force_her_limbs"
+    "hasLexiaDisplayedTitle": "#PASSAGE_She_that_through_force"
   },
   "ww_a2d3db969f1015d9": {
     "hasLexiaInternalId": "#004479",
@@ -9013,7 +9013,7 @@
     "hasLexiaInternalId": "#008036",
     "hasLexiaTitle": "Kent",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Kent"
+    "hasLexiaDisplayedTitle": "#Kent"
   },
   "ww_afd56e24e95818de": {
     "hasLexiaInternalId": "@005422",
@@ -9118,7 +9118,7 @@
     "hasLexiaInternalId": "#004485",
     "hasLexiaTitle": "Aeolus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Aeolus"
+    "hasLexiaDisplayedTitle": "#Aeolus"
   },
   "ww_1b6ebb6ac5fac5f7": {
     "hasLexiaInternalId": "#004486",
@@ -9196,7 +9196,7 @@
     "hasLexiaInternalId": "#004496",
     "hasLexiaTitle": "Dipsas",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Dipsas"
+    "hasLexiaDisplayedTitle": "#Dipsas"
   },
   "ww_9c293c3c776f86e0": {
     "hasLexiaInternalId": "#004497",
@@ -9208,7 +9208,7 @@
     "hasLexiaInternalId": "#004498",
     "hasLexiaTitle": "nimble innuendo",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_nimble_innuendo"
+    "hasLexiaDisplayedTitle": "#nimble_innuendo"
   },
   "ww_ca477d47405c3e72": {
     "hasLexiaInternalId": "#004499",
@@ -9301,7 +9301,7 @@
     "hasLexiaInternalId": "@006940",
     "hasLexiaTitle": "Euphues",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Euphues"
+    "hasLexiaDisplayedTitle": "#Euphues"
   },
   "ww_93f8c0ac1cabc451": {
     "hasLexiaInternalId": "#007035",
@@ -9483,7 +9483,7 @@
     "hasLexiaInternalId": "#032409",
     "hasLexiaTitle": "Crispinus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Crispinus"
+    "hasLexiaDisplayedTitle": "#Crispinus"
   },
   "ww_932f1dbd4cef3436": {
     "hasLexiaInternalId": "#032410",
@@ -9609,7 +9609,7 @@
     "hasLexiaInternalId": "#032422",
     "hasLexiaTitle": "Master Mulligrub",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Master_Mulligrub"
+    "hasLexiaDisplayedTitle": "#Master_Mulligrub"
   },
   "ww_950c0a42903c51bf": {
     "hasLexiaInternalId": "#032423",
@@ -9657,8 +9657,8 @@
     "hasLexiaInternalId": "#032428",
     "hasLexiaTitle": "Marston aka Furor Poeticus",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Marston_aka_Furor_Poeticus"
@@ -9676,8 +9676,8 @@
     "hasLexiaInternalId": "#004998",
     "hasLexiaTitle": "Marston aka Crispinus",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Marston_aka_Crispinus"
@@ -9912,14 +9912,14 @@
     "hasFormalClass": "Passage",
     "hasLexiaDisplayedTitle": "#PASSAGE_Hares_may_pull_dead_lions"
   },
-  "ww_a0fa3a43a3b3ea0b": {
+  "ww_2744c0ada09c88e2": {
     "hasLexiaInternalId": "#032448",
-    "hasLexiaTitle": "wilder than beast bird tree wall",
+    "hasLexiaTitle": "wilder than beast bird",
     "hasImage": [
       "Women"
     ],
     "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#wilder_than_beast_bird_tree_wall"
+    "hasLexiaDisplayedTitle": "#wilder_than_beast_bird"
   },
   "ww_6e54d6665ea7c390": {
     "hasLexiaInternalId": "#032449",
@@ -10000,7 +10000,7 @@
     "hasLexiaInternalId": "#006263",
     "hasLexiaTitle": "Dr Dodypoll",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Dr_Dodypoll"
+    "hasLexiaDisplayedTitle": "#Dr_Dodypoll"
   },
   "ww_cddbad141ddf3a80": {
     "hasLexiaInternalId": "#032459",
@@ -10102,7 +10102,7 @@
     "hasLexiaInternalId": "#032468",
     "hasLexiaTitle": "Soliman",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Soliman"
+    "hasLexiaDisplayedTitle": "#Soliman"
   },
   "ww_068b71dbc39243b9": {
     "hasLexiaInternalId": "#006265",
@@ -10141,19 +10141,19 @@
     "hasLexiaInternalId": "#032470",
     "hasLexiaTitle": "Pinner of Wakefield",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Pinner_of_Wakefield"
+    "hasLexiaDisplayedTitle": "#Pinner_of_Wakefield"
   },
   "ww_ea54915747e2a85f": {
     "hasLexiaInternalId": "#032471",
     "hasLexiaTitle": "George a Greene",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_George_a_Greene"
+    "hasLexiaDisplayedTitle": "#George_a_Greene"
   },
   "ww_72389e1e9c897a8a": {
     "hasLexiaInternalId": "#032472",
     "hasLexiaTitle": "speaking Brazen Head",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_speaking_Brazen_Head"
+    "hasLexiaDisplayedTitle": "#speaking_Brazen_Head"
   },
   "ww_dbfc2c3517e527c0": {
     "hasLexiaInternalId": "@000822",
@@ -10171,13 +10171,13 @@
     "hasLexiaInternalId": "#032473",
     "hasLexiaTitle": "Friar Bacon",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Friar_Bacon"
+    "hasLexiaDisplayedTitle": "#Friar_Bacon"
   },
   "ww_e6515953c96bc0cb": {
     "hasLexiaInternalId": "#032474",
     "hasLexiaTitle": "Doctor Faustus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Doctor_Faustus"
+    "hasLexiaDisplayedTitle": "#Doctor_Faustus"
   },
   "ww_3d3b0dad860168e3": {
     "hasLexiaInternalId": "#032475",
@@ -10258,7 +10258,7 @@
     "hasLexiaInternalId": "#032475",
     "hasLexiaTitle": "Muly Mahamet",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Muly_Mahamet"
+    "hasLexiaDisplayedTitle": "#Muly_Mahamet"
   },
   "ww_96f553e4153c0e59": {
     "hasLexiaInternalId": "#032476",
@@ -10294,7 +10294,7 @@
     "hasLexiaInternalId": "#032477",
     "hasLexiaTitle": "Mother Bombie",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Mother_Bombie"
+    "hasLexiaDisplayedTitle": "#Mother_Bombie"
   },
   "ww_0129d9f9397dfd5a": {
     "hasLexiaInternalId": "#006378",
@@ -10384,8 +10384,8 @@
     "hasLexiaInternalId": "#032483",
     "hasLexiaTitle": "Jonson aka Horace",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Jonson_aka_Horace"
@@ -10394,8 +10394,8 @@
     "hasLexiaInternalId": "#032484",
     "hasLexiaTitle": "Dekker aka Demetrius Fannius",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Dekker_aka_Demetrius_Fannius"
@@ -10428,8 +10428,8 @@
     "hasLexiaInternalId": "#032486",
     "hasLexiaTitle": "Should I care what every",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Passage",
     "hasLexiaDisplayedTitle": "#PASSAGE_Should_I_care_what_every"
@@ -10444,8 +10444,8 @@
     "hasLexiaInternalId": "#032487",
     "hasLexiaTitle": "light voluptuous reveller",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Passage",
     "hasLexiaDisplayedTitle": "#PASSAGE_light_voluptuous_reveller"
@@ -10454,8 +10454,8 @@
     "hasLexiaInternalId": "#032488",
     "hasLexiaTitle": "Jonson aka Criticus",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Jonson_aka_Criticus"
@@ -10473,8 +10473,8 @@
     "hasLexiaInternalId": "#032490",
     "hasLexiaTitle": "rug gown",
     "hasImage": [
-      "War of the Theatres",
-      "clothes, hair, cosmetics"
+      "clothes, hair, cosmetics",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#rug_gown"
@@ -10483,8 +10483,8 @@
     "hasLexiaInternalId": "#032491",
     "hasLexiaTitle": "Marston aka Quadratus",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Marston_aka_Quadratus"
@@ -10493,8 +10493,8 @@
     "hasLexiaInternalId": "#032492",
     "hasLexiaTitle": "Jonson aka Lampatho",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Jonson_aka_Lampatho"
@@ -10503,8 +10503,8 @@
     "hasLexiaInternalId": "#032493",
     "hasLexiaTitle": "Jonson aka Asper",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Jonson_aka_Asper"
@@ -10513,14 +10513,14 @@
     "hasLexiaInternalId": "#032494",
     "hasLexiaTitle": "Mephistophilis",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Mephistophilis"
+    "hasLexiaDisplayedTitle": "#Mephistophilis"
   },
   "ww_8db3d5974900188e": {
     "hasLexiaInternalId": "#032495",
     "hasLexiaTitle": "insulting clothing",
     "hasImage": [
-      "War of the Theatres",
-      "clothes, hair, cosmetics"
+      "clothes, hair, cosmetics",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Passage",
     "hasLexiaDisplayedTitle": "#PASSAGE_insulting_clothing"
@@ -10529,15 +10529,15 @@
     "hasLexiaInternalId": "#032496",
     "hasLexiaTitle": "King Gorboduc",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_King_Gorboduc"
+    "hasLexiaDisplayedTitle": "#King_Gorboduc"
   },
   "ww_6cd51c1e53374a39": {
     "hasLexiaInternalId": "#032497",
     "hasLexiaTitle": "plagiarism",
     "hasImage": [
-      "Persons",
+      "Theatre",
       "War of the Theatres",
-      "Theatre"
+      "Persons"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#plagiarism"
@@ -10546,9 +10546,9 @@
     "hasLexiaInternalId": "#032498",
     "hasLexiaTitle": "Jonson slow writer",
     "hasImage": [
-      "Persons",
+      "Theatre",
       "War of the Theatres",
-      "Theatre"
+      "Persons"
     ],
     "hasFormalClass": "Motif with name",
     "hasLexiaDisplayedTitle": "#Jonson_slow_writer"
@@ -10626,8 +10626,8 @@
     "hasLexiaInternalId": "#006885",
     "hasLexiaTitle": "Jonson aka Brabant Senior",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Jonson_aka_Brabant_Senior"
@@ -10636,8 +10636,8 @@
     "hasLexiaInternalId": "#006886",
     "hasLexiaTitle": "Jonson aka Chrysogonus",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Jonson_aka_Chrysogonus"
@@ -10646,14 +10646,14 @@
     "hasLexiaInternalId": "#006888",
     "hasLexiaTitle": "Chrysogonus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Chrysogonus"
+    "hasLexiaDisplayedTitle": "#Chrysogonus"
   },
   "ww_c8d8bd42925e3573": {
     "hasLexiaInternalId": "#006887",
     "hasLexiaTitle": "Marston aka Mellidus",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Marston_aka_Mellidus"
@@ -10662,14 +10662,14 @@
     "hasLexiaInternalId": "#006889",
     "hasLexiaTitle": "Mellida",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Mellida"
+    "hasLexiaDisplayedTitle": "#Mellida"
   },
   "ww_21fb69da2f345029": {
     "hasLexiaInternalId": "#006899",
     "hasLexiaTitle": "Dekker aka Decius",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Dekker_aka_Decius"
@@ -10678,7 +10678,7 @@
     "hasLexiaInternalId": "#006890",
     "hasLexiaTitle": "Tucca",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Tucca"
+    "hasLexiaDisplayedTitle": "#Tucca"
   },
   "ww_7b7a8596d05358c1": {
     "hasLexiaInternalId": "@001216",
@@ -10696,7 +10696,7 @@
     "hasLexiaInternalId": "#032505",
     "hasLexiaTitle": "Belimperia",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Belimperia"
+    "hasLexiaDisplayedTitle": "#Belimperia"
   },
   "ww_6c044cf65ccf6dc9": {
     "hasLexiaInternalId": "#032506",
@@ -10717,7 +10717,7 @@
     "hasLexiaInternalId": "#032508",
     "hasLexiaTitle": "Maid Marian",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Maid_Marian"
+    "hasLexiaDisplayedTitle": "#Maid_Marian"
   },
   "ww_71d4e376055ed988": {
     "hasLexiaInternalId": "#008022",
@@ -10741,7 +10741,7 @@
     "hasLexiaInternalId": "#006894",
     "hasLexiaTitle": "Sejanus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Sejanus"
+    "hasLexiaDisplayedTitle": "#Sejanus"
   },
   "ww_2a0ed9ca076532f0": {
     "hasLexiaInternalId": "#032510",
@@ -10900,8 +10900,8 @@
     "hasLexiaInternalId": "#006907",
     "hasLexiaTitle": "Munday aka Nuntius",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Munday_aka_Nuntius"
@@ -10940,7 +10940,7 @@
     "hasLexiaInternalId": "#006903",
     "hasLexiaTitle": "Actaeon",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Actaeon"
+    "hasLexiaDisplayedTitle": "#Actaeon"
   },
   "ww_3023f0e383a0ffb3": {
     "hasLexiaInternalId": "#006904",
@@ -10970,8 +10970,8 @@
     "hasLexiaInternalId": "#006909",
     "hasLexiaTitle": "Marston aka Playwright",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Marston_aka_Playwright"
@@ -10992,7 +10992,7 @@
     "hasLexiaInternalId": "#006910",
     "hasLexiaTitle": "Ferneze",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Ferneze"
+    "hasLexiaDisplayedTitle": "#Ferneze"
   },
   "ww_a288086bffbccc39": {
     "hasLexiaInternalId": "#006911",
@@ -11082,7 +11082,7 @@
     "hasLexiaInternalId": "#006916",
     "hasLexiaTitle": "Campaspe",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Campaspe"
+    "hasLexiaDisplayedTitle": "#Campaspe"
   },
   "ww_b6daf63a1e12783d": {
     "hasLexiaInternalId": "#006917",
@@ -11133,8 +11133,8 @@
     "hasLexiaInternalId": "#006924",
     "hasLexiaTitle": "Jonson aka Moltecarni",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Jonson_aka_Moltecarni"
@@ -11248,13 +11248,13 @@
     "hasLexiaInternalId": "#006934",
     "hasLexiaTitle": "Orestes",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Orestes"
+    "hasLexiaDisplayedTitle": "#Orestes"
   },
   "ww_958fe05c641edbf8": {
     "hasLexiaInternalId": "#006935",
     "hasLexiaTitle": "Portia",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Portia"
+    "hasLexiaDisplayedTitle": "#Portia"
   },
   "ww_80298d6f4cc5a6c0": {
     "hasLexiaInternalId": "#006936",
@@ -11268,17 +11268,17 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#respice_finem"
   },
-  "ww_9aed600563e0c111": {
+  "ww_7beb28a7e0ff9b30": {
     "hasLexiaInternalId": "#006938",
-    "hasLexiaTitle": "green skin and pointy nose announce death",
+    "hasLexiaTitle": "green skin pointy nose",
     "hasFormalClass": "Idea",
-    "hasLexiaDisplayedTitle": "#green_skin_and_pointy_nose_announce_death"
+    "hasLexiaDisplayedTitle": "#green_skin_pointy_nose"
   },
-  "ww_fc29367127c470f5": {
+  "ww_d211f2d4c6247eb5": {
     "hasLexiaInternalId": "#006939",
-    "hasLexiaTitle": "Rarus enim ferme",
+    "hasLexiaTitle": "rarus enim ferme",
     "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#Rarus_enim_ferme"
+    "hasLexiaDisplayedTitle": "#rarus_enim_ferme"
   },
   "ww_fed3c695bc84cfbb": {
     "hasLexiaInternalId": "#006941",
@@ -11296,7 +11296,7 @@
     "hasLexiaInternalId": "#006943",
     "hasLexiaTitle": "Richard III",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Richard_III"
+    "hasLexiaDisplayedTitle": "#Richard_III"
   },
   "ww_caf8fd224d9f19ef": {
     "hasLexiaInternalId": "#006944",
@@ -11332,13 +11332,13 @@
     "hasLexiaInternalId": "#006947",
     "hasLexiaTitle": "Montagues and Capulets",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Montagues_and_Capulets"
+    "hasLexiaDisplayedTitle": "#Montagues_and_Capulets"
   },
   "ww_e08f65a666648dc3": {
     "hasLexiaInternalId": "#006948",
     "hasLexiaTitle": "Daniel",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Daniel"
+    "hasLexiaDisplayedTitle": "#Daniel"
   },
   "ww_4dd39e29e75e2c0f": {
     "hasLexiaInternalId": "#006949",
@@ -11356,7 +11356,7 @@
     "hasLexiaInternalId": "#006950",
     "hasLexiaTitle": "Hero",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Hero"
+    "hasLexiaDisplayedTitle": "#Hero"
   },
   "ww_49667f50f6240aa6": {
     "hasLexiaInternalId": "#006951",
@@ -11386,7 +11386,7 @@
     "hasLexiaInternalId": "#006954",
     "hasLexiaTitle": "Gonzago",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Gonzago"
+    "hasLexiaDisplayedTitle": "#Gonzago"
   },
   "ww_7c0c30a871e649e6": {
     "hasLexiaInternalId": "#006955",
@@ -11404,7 +11404,7 @@
     "hasLexiaInternalId": "#006957",
     "hasLexiaTitle": "Judas",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Judas"
+    "hasLexiaDisplayedTitle": "#Judas"
   },
   "ww_74c99e8a1be527e4": {
     "hasLexiaInternalId": "#006958",
@@ -11422,7 +11422,7 @@
     "hasLexiaInternalId": "#006960",
     "hasLexiaTitle": "Semele",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Semele"
+    "hasLexiaDisplayedTitle": "#Semele"
   },
   "ww_81169125af046cb4": {
     "hasLexiaInternalId": "#006961",
@@ -11536,7 +11536,7 @@
     "hasLexiaInternalId": "@006972",
     "hasLexiaTitle": "Touchstone",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Touchstone"
+    "hasLexiaDisplayedTitle": "#Touchstone"
   },
   "ww_a67cad5838b86ad5": {
     "hasLexiaInternalId": "#006973",
@@ -11548,19 +11548,19 @@
     "hasLexiaInternalId": "#006974",
     "hasLexiaTitle": "Acolastus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Acolastus"
+    "hasLexiaDisplayedTitle": "#Acolastus"
   },
   "ww_5f986708ad14a6fb": {
     "hasLexiaInternalId": "#006975",
     "hasLexiaTitle": "Cynthia",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Cynthia"
+    "hasLexiaDisplayedTitle": "#Cynthia"
   },
-  "ww_f75762c49c3d0ed2": {
+  "ww_afe423b6b7a7dc84": {
     "hasLexiaInternalId": "#006976",
-    "hasLexiaTitle": "woman man in moon",
+    "hasLexiaTitle": "man in the moon",
     "hasFormalClass": "Keywords",
-    "hasLexiaDisplayedTitle": "#woman_man_in_moon"
+    "hasLexiaDisplayedTitle": "#man_in_the_moon"
   },
   "ww_b8b83b96232829b1": {
     "hasLexiaInternalId": "#006977",
@@ -11572,8 +11572,8 @@
     "hasLexiaInternalId": "#006978",
     "hasLexiaTitle": "Marston aka Lampatho",
     "hasImage": [
-      "Persons",
-      "War of the Theatres"
+      "War of the Theatres",
+      "Persons"
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Marston_aka_Lampatho"
@@ -11666,19 +11666,19 @@
     "hasLexiaInternalId": "#006990",
     "hasLexiaTitle": "Troilus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Troilus"
+    "hasLexiaDisplayedTitle": "#Troilus"
   },
   "ww_ebabc692b544cf74": {
     "hasLexiaInternalId": "#006991",
     "hasLexiaTitle": "Bacchus Dionysos",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Bacchus_Dionysos"
+    "hasLexiaDisplayedTitle": "#Bacchus_Dionysos"
   },
   "ww_5545b5cbd200bc2c": {
     "hasLexiaInternalId": "#006692",
     "hasLexiaTitle": "Icarus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Icarus"
+    "hasLexiaDisplayedTitle": "#Icarus"
   },
   "ww_b2f4c9cd8d118b06": {
     "hasLexiaInternalId": "#006693",
@@ -11708,7 +11708,7 @@
     "hasLexiaInternalId": "#006697",
     "hasLexiaTitle": "Dogberry and Verges",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Dogberry_and_Verges"
+    "hasLexiaDisplayedTitle": "#Dogberry_and_Verges"
   },
   "ww_6cee5d4f7868ddc8": {
     "hasLexiaInternalId": "#006698",
@@ -11720,7 +11720,7 @@
     "hasLexiaInternalId": "#006699",
     "hasLexiaTitle": "Daedalus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Daedalus"
+    "hasLexiaDisplayedTitle": "#Daedalus"
   },
   "ww_4de2675236843b7a": {
     "hasLexiaInternalId": "#006001",
@@ -11762,19 +11762,19 @@
     "hasLexiaInternalId": "@005590",
     "hasLexiaTitle": "Sir Lancelot",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Sir_Lancelot"
+    "hasLexiaDisplayedTitle": "#Sir_Lancelot"
   },
   "ww_c72d89cd19c28bb3": {
     "hasLexiaInternalId": "@005591",
     "hasLexiaTitle": "Sir Tristram",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Sir_Tristram"
+    "hasLexiaDisplayedTitle": "#Sir_Tristram"
   },
   "ww_65f3e5ab152fe0ec": {
     "hasLexiaInternalId": "@005592",
     "hasLexiaTitle": "Cardenio",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Cardenio"
+    "hasLexiaDisplayedTitle": "#Cardenio"
   },
   "ww_acef1319cf145107": {
     "hasLexiaInternalId": "@005593",
@@ -11795,7 +11795,7 @@
     "hasLexiaInternalId": "#005595",
     "hasLexiaTitle": "Ulysses Odysseus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Ulysses_Odysseus"
+    "hasLexiaDisplayedTitle": "#Ulysses_Odysseus"
   },
   "ww_04f13fa1081c1212": {
     "hasLexiaInternalId": "#005596",
@@ -11837,13 +11837,13 @@
     "hasLexiaInternalId": "#006008",
     "hasLexiaTitle": "Antonio",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Antonio"
+    "hasLexiaDisplayedTitle": "#Antonio"
   },
   "ww_9ea69b0ef6ee0055": {
     "hasLexiaInternalId": "#006009",
     "hasLexiaTitle": "Catzo",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Catzo"
+    "hasLexiaDisplayedTitle": "#Catzo"
   },
   "ww_e2384bdccc30bae9": {
     "hasLexiaInternalId": "#006010",
@@ -11855,7 +11855,7 @@
     "hasLexiaInternalId": "#006011",
     "hasLexiaTitle": "Lorenzo",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Lorenzo"
+    "hasLexiaDisplayedTitle": "#Lorenzo"
   },
   "ww_95f6468ec43abce6": {
     "hasLexiaInternalId": "#006012",
@@ -11885,7 +11885,7 @@
     "hasLexiaInternalId": "#006015",
     "hasLexiaTitle": "Knight of the Sun",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Knight_of_the_Sun"
+    "hasLexiaDisplayedTitle": "#Knight_of_the_Sun"
   },
   "ww_836684205e8635c9": {
     "hasLexiaInternalId": "#006016",
@@ -11903,7 +11903,7 @@
     "hasLexiaInternalId": "#006018",
     "hasLexiaTitle": "Palmerin",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Palmerin"
+    "hasLexiaDisplayedTitle": "#Palmerin"
   },
   "ww_1535c104e5ff6f4f": {
     "hasLexiaInternalId": "#006019",
@@ -11933,13 +11933,13 @@
     "hasLexiaInternalId": "#006022",
     "hasLexiaTitle": "Lady Ramsey",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Lady_Ramsey"
+    "hasLexiaDisplayedTitle": "#Lady_Ramsey"
   },
   "ww_82e72f19f2c4e4a8": {
     "hasLexiaInternalId": "#006023",
     "hasLexiaTitle": "Dick Whittington",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Dick_Whittington"
+    "hasLexiaDisplayedTitle": "#Dick_Whittington"
   },
   "ww_a3e6e33fbf17dda2": {
     "hasLexiaInternalId": "#006024",
@@ -11957,7 +11957,7 @@
     "hasLexiaInternalId": "#006025",
     "hasLexiaTitle": "Proteus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Proteus"
+    "hasLexiaDisplayedTitle": "#Proteus"
   },
   "ww_b268158e3b666b54": {
     "hasLexiaInternalId": "#006026",
@@ -11975,7 +11975,7 @@
     "hasLexiaInternalId": "#006028",
     "hasLexiaTitle": "Perseus",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Perseus"
+    "hasLexiaDisplayedTitle": "#Perseus"
   },
   "ww_11a0deee28c72d94": {
     "hasLexiaInternalId": "#006028",
@@ -12011,7 +12011,7 @@
     "hasLexiaInternalId": "#006031",
     "hasLexiaTitle": "Lady Guinevere",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Lady_Guinevere"
+    "hasLexiaDisplayedTitle": "#Lady_Guinevere"
   },
   "ww_e99e02891da67570": {
     "hasLexiaInternalId": "#006032",
@@ -12047,7 +12047,7 @@
     "hasLexiaInternalId": "#006037",
     "hasLexiaTitle": "Sir Politic WouldBe",
     "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#NAME_Sir_Politic_WouldBe"
+    "hasLexiaDisplayedTitle": "#Sir_Politic_WouldBe"
   },
   "ww_e29560fce7d49727": {
     "hasLexiaInternalId": "#006038",
@@ -12060,5 +12060,231 @@
     "hasLexiaTitle": "John Sinklo",
     "hasFormalClass": "Name of real person",
     "hasLexiaDisplayedTitle": "#John_Sinklo"
+  },
+  "ww_f38f960b82920867": {
+    "hasLexiaInternalId": "#006039",
+    "hasLexiaTitle": "model of heaven",
+    "hasFormalClass": "Passage",
+    "hasLexiaDisplayedTitle": "#PASSAGE_model_of_heaven"
+  },
+  "ww_714755b4a315a318": {
+    "hasLexiaInternalId": "#006040",
+    "hasLexiaTitle": "solitary place fancy",
+    "hasFormalClass": "Passage",
+    "hasLexiaDisplayedTitle": "#PASSAGE_solitary_place_fancy"
+  },
+  "ww_137d4d11e9b849ab": {
+    "hasLexiaInternalId": "#006041",
+    "hasLexiaTitle": "plotting former lovers murder",
+    "hasFormalClass": "Plot element",
+    "hasLexiaDisplayedTitle": "#plotting_former_lovers_murder"
+  },
+  "ww_ef413c65c00b08f2": {
+    "hasLexiaInternalId": "#006042",
+    "hasLexiaTitle": "pretended confessional",
+    "hasFormalClass": "Plot element",
+    "hasLexiaDisplayedTitle": "#pretended_confessional"
+  },
+  "ww_3e3be80f132de213": {
+    "hasLexiaInternalId": "#006043",
+    "hasLexiaTitle": "burr sticking to nap",
+    "hasFormalClass": "Keywords",
+    "hasLexiaDisplayedTitle": "#burr_sticking_to_nap"
+  },
+  "ww_8c5dd25935451001": {
+    "hasLexiaInternalId": "#006044",
+    "hasLexiaTitle": "die as your wife",
+    "hasFormalClass": "Idea",
+    "hasLexiaDisplayedTitle": "#die_as_your_wife"
+  },
+  "ww_f3ab608726ecc396": {
+    "hasLexiaInternalId": "#006045",
+    "hasLexiaTitle": "crime through crime",
+    "hasFormalClass": "Idea",
+    "hasLexiaDisplayedTitle": "#crime_through_crime"
+  },
+  "ww_3786287e8d62826b": {
+    "hasLexiaInternalId": "#006046",
+    "hasLexiaTitle": "join beds",
+    "hasFormalClass": "Idea",
+    "hasLexiaDisplayedTitle": "#join_beds"
+  },
+  "ww_5cba519088908fa7": {
+    "hasLexiaInternalId": "#006047",
+    "hasLexiaTitle": "Cupid and Psyche",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Cupid_and_Psyche"
+  },
+  "ww_77e4e5c815f925ae": {
+    "hasLexiaInternalId": "#006048",
+    "hasLexiaTitle": "Oedipus",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Oedipus"
+  },
+  "ww_316d8fb56e94b201": {
+    "hasLexiaInternalId": "#008048",
+    "hasLexiaTitle": "Aldgate",
+    "hasFormalClass": "Venue or place",
+    "hasLexiaDisplayedTitle": "#Aldgate"
+  },
+  "ww_67997a54246cc858": {
+    "hasLexiaInternalId": "#006049",
+    "hasLexiaTitle": "Hymen",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Hymen"
+  },
+  "ww_9573b5f2aa526b1b": {
+    "hasLexiaInternalId": "#006050",
+    "hasLexiaTitle": "cross-dressing girls tale ",
+    "hasFormalClass": "Plot element",
+    "hasLexiaDisplayedTitle": "#cross-dressing_girls_tale_"
+  },
+  "ww_3fadf53db3b0506e": {
+    "hasLexiaInternalId": "#006051",
+    "hasLexiaTitle": "island noises",
+    "hasFormalClass": "Keywords",
+    "hasLexiaDisplayedTitle": "#island_noises"
+  },
+  "ww_f54cf2c5fcf9f51c": {
+    "hasLexiaInternalId": "#006052",
+    "hasLexiaTitle": "where is the music",
+    "hasFormalClass": "Keywords",
+    "hasLexiaDisplayedTitle": "#where_is_the_music"
+  },
+  "ww_6947979315a1cb7f": {
+    "hasLexiaInternalId": "#006053",
+    "hasLexiaTitle": "thought is free",
+    "hasFormalClass": "Phrase",
+    "hasLexiaDisplayedTitle": "#thought_is_free"
+  },
+  "ww_e166cbce39b5bf7a": {
+    "hasLexiaInternalId": "#006054",
+    "hasLexiaTitle": "maid as wonder",
+    "hasFormalClass": "Keywords",
+    "hasLexiaDisplayedTitle": "#maid_as_wonder"
+  },
+  "ww_1a4e8bbef4fe708a": {
+    "hasLexiaInternalId": "@001652",
+    "hasLexiaTitle": "The Tempest",
+    "hasFormalClass": "Book title",
+    "hasLexiaDisplayedTitle": "#The_Tempest"
+  },
+  "ww_182bf9b087efd766": {
+    "hasLexiaInternalId": "@001646",
+    "hasLexiaTitle": "Catilines Conspiracy",
+    "hasFormalClass": "Book title",
+    "hasLexiaDisplayedTitle": "#Catilines_Conspiracy"
+  },
+  "ww_75ff40f8291d0ada": {
+    "hasLexiaInternalId": "#006055",
+    "hasLexiaTitle": "Macduff",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Macduff"
+  },
+  "ww_b6fa1230f439abd1": {
+    "hasLexiaInternalId": "#006056",
+    "hasLexiaTitle": "wind sits fair depart",
+    "hasFormalClass": "Keywords",
+    "hasLexiaDisplayedTitle": "#wind_sits_fair_depart"
+  },
+  "ww_68679e11d325c76b": {
+    "hasLexiaInternalId": "#006057",
+    "hasLexiaTitle": "worse than weeds",
+    "hasFormalClass": "Keywords",
+    "hasLexiaDisplayedTitle": "#worse_than_weeds"
+  },
+  "ww_c75883138ff6ffae": {
+    "hasLexiaInternalId": "#006058",
+    "hasLexiaTitle": "beat on idea",
+    "hasFormalClass": "Phrase",
+    "hasLexiaDisplayedTitle": "#beat_on_idea"
+  },
+  "ww_9ece0ab167570a07": {
+    "hasLexiaInternalId": "#006059",
+    "hasLexiaTitle": "Clove",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Clove"
+  },
+  "ww_e3fffd83d7f19d5c": {
+    "hasLexiaInternalId": "#006060",
+    "hasLexiaTitle": "Bobadill",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Bobadill"
+  },
+  "ww_1c2bd859757546c6": {
+    "hasLexiaInternalId": "#006061",
+    "hasLexiaTitle": "Tamar Chams beard"
+  },
+  "ww_2f6dff076cc1b342": {
+    "hasLexiaInternalId": "#008049",
+    "hasLexiaTitle": "Islington",
+    "hasFormalClass": "Venue or place",
+    "hasLexiaDisplayedTitle": "#Islington"
+  },
+  "ww_7df9b0ffe13b1aec": {
+    "hasLexiaInternalId": "#006062",
+    "hasLexiaTitle": "Spanish play title",
+    "hasFormalClass": "Phrase",
+    "hasLexiaDisplayedTitle": "#Spanish_play_title"
+  },
+  "ww_101b38b427537534": {
+    "hasLexiaInternalId": "#006063",
+    "hasLexiaTitle": "precipitation in affairs",
+    "hasFormalClass": "Passage",
+    "hasLexiaDisplayedTitle": "#PASSAGE_precipitation_in_affairs"
+  },
+  "ww_77bb04e7d877a5ee": {
+    "hasLexiaInternalId": "#006064",
+    "hasLexiaTitle": "Switzers",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Switzers"
+  },
+  "ww_2b48494090167d8b": {
+    "hasLexiaInternalId": "#008052",
+    "hasLexiaTitle": "Abingdon",
+    "hasFormalClass": "Venue or place",
+    "hasLexiaDisplayedTitle": "#Abingdon"
+  },
+  "ww_8516ea90af13c671": {
+    "hasLexiaInternalId": "@001151",
+    "hasLexiaTitle": "The Two Angry Women of Abingdon",
+    "hasFormalClass": "Book title",
+    "hasLexiaDisplayedTitle": "#The_Two_Angry_Women_of_Abingdon"
+  },
+  "ww_7469764d62a20a90": {
+    "hasLexiaInternalId": "#006065",
+    "hasLexiaTitle": "Pandarus",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Pandarus"
+  },
+  "ww_ab0fb49de0c4c105": {
+    "hasLexiaInternalId": "#006066",
+    "hasLexiaTitle": "true love speaks little",
+    "hasFormalClass": "Idea",
+    "hasLexiaDisplayedTitle": "#true_love_speaks_little"
+  },
+  "ww_f44d569a3156de49": {
+    "hasLexiaInternalId": "#006067",
+    "hasLexiaTitle": "quos aequus amavit Jupiter",
+    "hasFormalClass": "Phrase",
+    "hasLexiaDisplayedTitle": "#quos_aequus_amavit_Jupiter"
+  },
+  "ww_202b010836e5f3ee": {
+    "hasLexiaInternalId": "#006068",
+    "hasLexiaTitle": "literary scraps",
+    "hasFormalClass": "Phrase",
+    "hasLexiaDisplayedTitle": "#literary_scraps"
+  },
+  "ww_76ebee471510cf52": {
+    "hasLexiaInternalId": "#006069",
+    "hasLexiaTitle": "Penelope",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Penelope"
+  },
+  "ww_6dd19c179062e8b9": {
+    "hasLexiaInternalId": "#006070",
+    "hasLexiaTitle": "Medea",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Medea"
   }
 }

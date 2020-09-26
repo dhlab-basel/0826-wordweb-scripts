@@ -76,7 +76,7 @@ def prepare_csv():
             for row in csv_reader:
 
                 # Skip first row with column title
-                if line is not 0:
+                if line != 0:
                     sec_book = {}
 
                     sec_books = re.search("(@\d{6})\sSEC\s\-\s(.*)", row[13])

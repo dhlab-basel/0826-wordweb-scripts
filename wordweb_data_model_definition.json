@@ -8,12 +8,13 @@
     "shortname": "ww",
     "longname": "WordWeb",
     "descriptions": {
-      "en": "This is a first version of the WordWeb.",
-      "de": "Dies ist die erste Version von WordWeb"
+      "en": "This is a test version of the WordWeb",
+      "de": "Dies ist eine Testversion von WordWeb"
     },
     "keywords": [
       "intertextuality",
-      "shakespeare"
+      "shakespeare",
+      "wordweb"
     ],
     "lists": [
       {
@@ -1036,10 +1037,10 @@
             },
             "nodes": [
               {
-                "name": "Prose",
+                "name": "ALL PROSE FICTION",
                 "labels": {
-                  "de": "Prosa",
-                  "en": "Prose"
+                  "de": "ALL PROSE FICTION",
+                  "en": "ALL PROSE FICTION"
                 },
                 "nodes": [
                   {
@@ -1048,28 +1049,14 @@
                       "de": "Allgemein",
                       "en": "Prose unspecified"
                     }
-                  },
-                  {
-                    "name": "Science fiction or fantasy",
-                    "labels": {
-                      "de": "Science fiction oder Fantasy",
-                      "en": "Science fiction or fantasy"
-                    }
-                  },
-                  {
-                    "name": "Romance (prose)",
-                    "labels": {
-                      "de": "Romance (Prosa)",
-                      "en": "Romance (prose)"
-                    }
                   }
                 ]
               },
               {
-                "name": "Poetry",
+                "name": "ALL POETRY",
                 "labels": {
-                  "de": "Lyrik",
-                  "en": "Poetry including songs"
+                  "de": "ALL POETRY",
+                  "en": "ALL POETRY"
                 },
                 "nodes": [
                   {
@@ -1103,10 +1090,10 @@
                 ]
               },
               {
-                "name": "Drama (Theatre)",
+                "name": "ALL DRAMA",
                 "labels": {
-                  "de": "Drama",
-                  "en": "Drama (Theatre)"
+                  "de": "ALL DRAMA",
+                  "en": "ALL DRAMA"
                 },
                 "nodes": [
                   {
@@ -1124,10 +1111,10 @@
                     }
                   },
                   {
-                    "name": "History",
+                    "name": "History (play)",
                     "labels": {
-                      "de": "Historie",
-                      "en": "History"
+                      "de": "History (play)",
+                      "en": "History (play)"
                     }
                   },
                   {
@@ -1156,10 +1143,10 @@
             ]
           },
           {
-            "name": "Nonfiction",
+            "name": "NONFICTION",
             "labels": {
-              "de": "Sachbuch",
-              "en": "Nonfiction"
+              "de": "NONFICTION",
+              "en": "NONFICTION"
             },
             "nodes": [
               {
@@ -1184,6 +1171,13 @@
                 }
               },
               {
+                "name": "Diary",
+                "labels": {
+                  "de": "Tagebuch",
+                  "en": "Diary"
+                }
+              },
+              {
                 "name": "Essay",
                 "labels": {
                   "de": "Essay",
@@ -1198,10 +1192,10 @@
                 }
               },
               {
-                "name": "Speech or lecture or sermon",
+                "name": "Speech or sermon",
                 "labels": {
-                  "de": "Rede, Predigt, Vorlesung",
-                  "en": "Speech or lecture or sermon"
+                  "de": "Rede, Predigt",
+                  "en": "Speech or sermon"
                 }
               },
               {
@@ -1212,10 +1206,10 @@
                 }
               },
               {
-                "name": "Nonfiction unspecified",
+                "name": "Other nonfiction",
                 "labels": {
-                  "de": "???",
-                  "en": "Nonfiction unspecified"
+                  "de": "Other nonfiction",
+                  "en": "Other nonfiction"
                 }
               },
               {
@@ -1242,17 +1236,17 @@
             ]
           },
           {
-            "name": "Other genre",
+            "name": "OTHER GENRES",
             "labels": {
-              "de": "Anderes Genre",
-              "en": "Other genre"
+              "de": "OTHER GENRES",
+              "en": "OTHER GENRES"
             },
             "nodes": [
               {
-                "name": "Instrumental music",
+                "name": "Music",
                 "labels": {
-                  "de": "Instrumental music",
-                  "en": "Instrumentale Music"
+                  "de": "Musik",
+                  "en": "Music"
                 }
               },
               {
@@ -1279,8 +1273,8 @@
               {
                 "name": "The Bible",
                 "labels": {
-                  "de": "Bibel",
-                  "en": "Bible"
+                  "de": "Die Bibel",
+                  "en": "The Bible"
                 }
               }
             ]
@@ -1353,7 +1347,7 @@
           {
             "name": "TO BE EDITED",
             "labels": {
-              "de": "???",
+              "de": "TO BE EDITED",
               "en": "TO BE EDITED"
             }
           },
@@ -1381,22 +1375,22 @@
           {
             "name": "AFTER TRANSFER FIX BIBLIO OR GENRE",
             "labels": {
-              "de": "???",
+              "de": "Fixing after transfer",
               "en": "Fixing after transfer"
             }
           },
           {
             "name": "HISTORICAL PAGE",
             "labels": {
-              "de": "???",
+              "de": "HISTORICAL PAGE",
               "en": "HISTORICAL PAGE"
             }
           },
           {
             "name": "Classical Studies",
             "labels": {
-              "de": "???",
-              "en": "???"
+              "de": "Classical Studies",
+              "en": "Classical Studies"
             }
           }
         ]
@@ -1593,10 +1587,10 @@
                 }
               },
               {
-                "name": "Gray's Inn at Greenwich Palace",
+                "name": "Greenwich Palace",
                 "labels": {
-                  "de": "Gray's Inn at Greenwich Palace",
-                  "en": "Gray's Inn at Greenwich Palace"
+                  "de": "Greenwich Palace",
+                  "en": "Greenwich Palace"
                 }
               },
               {
@@ -1625,6 +1619,13 @@
                 "labels": {
                   "de": "The Theatre Royal",
                   "en": "The Theatre Royal"
+                }
+              },
+              {
+                "name": "St. Paul's Playhouse",
+                "labels": {
+                  "de": "St. Paul's Playhouse",
+                  "en": "St. Paul's Playhouse"
                 }
               }
             ]
@@ -1685,6 +1686,13 @@
                 "labels": {
                   "de": "St Johns College",
                   "en": "St Johns College"
+                }
+              },
+              {
+                "name": "Unknown location",
+                "labels": {
+                  "de": "Unknown location",
+                  "en": "Unknown location"
                 }
               }
             ]

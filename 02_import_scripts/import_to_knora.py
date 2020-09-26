@@ -4,7 +4,7 @@ from pprint import pprint
 import argparse
 import json
 from jsonschema import validate
-from knora import KnoraError, Knora, BulkImport
+from knora import Knora, BulkImport
 import requests
 
 

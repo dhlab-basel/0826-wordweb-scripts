@@ -98,14 +98,14 @@
     "hasCreationDate": "GREGORIAN:1779:1779",
     "hasPublicationDate": "GREGORIAN:1779:1779",
     "hasGenre": [
-      "Nonfiction unspecified"
+      "Other nonfiction"
     ],
     "hasSubject": [
       "Politics, law, economics",
       "Sociology, lifestyle, travel"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_e634fc6e0c2437db": {
@@ -276,9 +276,9 @@
   "ww_eca8baf5514ac72b": {
     "hasBookInternalId": "@005499",
     "hasBookTitle": "New Particulars Regarding the Works of Shakespeare",
-    "hasDisplayedTitle": "New particulars regarding the works of Shakespeare",
+    "hasDisplayedTitle": "New Particulars Regarding the Works of Shakespeare",
     "hasLanguage": "English",
-    "pubInfo": "<i>New particulars regarding the works of Shakespeare. In a letter to the Rev. A. Dyce ... from J. Payne Collier, F.S.A. </i>London: Thomas Rodd, 1836.",
+    "pubInfo": "<i>New particulars regarding the works of Shakespeare. In a letter to the Rev. A. Dyce from J. Payne Collier, F.S.A. </i>London: Thomas Rodd, 1836.",
     "hasCreationDate": "GREGORIAN:1836:1836",
     "hasPublicationDate": "GREGORIAN:1836:1836",
     "hasGenre": [
@@ -294,7 +294,7 @@
   "ww_9d75b3d3235b2834": {
     "hasBookInternalId": "@010100",
     "hasBookTitle": "Farther Particulars Regarding Shakespeare",
-    "hasDisplayedTitle": "Farther Particulars regarding Shakespeare and His Works",
+    "hasDisplayedTitle": "Farther Particulars Regarding Shakespeare and His Works",
     "hasLanguage": "English",
     "pubInfo": "<i>Farther Particulars regarding Shakespeare and His Works. In A Letter to The Rev. Joseph Hunter, F.S.A. [...]. </i>London: Thomas Rodd, 1839.",
     "hasCreationDate": "GREGORIAN:1839:1839",
@@ -386,7 +386,7 @@
   "ww_58010b3b68506440": {
     "hasBookInternalId": "@006225",
     "hasBookTitle": "Shakespeare's Knowledge and Use of the Bible",
-    "hasDisplayedTitle": "Shakespeares Knowledge and Use of the Bible",
+    "hasDisplayedTitle": "Shakespeare's Knowledge and Use of the Bible",
     "hasLanguage": "English",
     "pubInfo": "<i>Shakespeare's Knowledge and Use of the Bible. </i>London: Smith, Elder and Co., 1864.",
     "hasCreationDate": "GREGORIAN:1864:1864",
@@ -408,25 +408,6 @@
     "hasDisplayedTitle": "The Works of John Ford (Gifford edition)",
     "hasLanguage": "English",
     "pubInfo": "eds. John Ford. Works. With Additions by Alex. Dyce. 3 vols. London: J. Toovey, 1869. ",
-    "hasCreationDate": "GREGORIAN:1869:1869",
-    "hasPublicationDate": "GREGORIAN:1869:1869",
-    "hasGenre": [
-      "Annotated edition"
-    ],
-    "hasSubject": [
-      "Literature and theatre"
-    ],
-    "authors": [
-      "Alexander Dyce",
-      "William Gifford"
-    ]
-  },
-  "ww_583b8947cac49cf4": {
-    "hasBookInternalId": "@005614",
-    "hasBookTitle": "The Works of John Ford",
-    "hasDisplayedTitle": "The Works of John Ford",
-    "hasLanguage": "English",
-    "pubInfo": "eds. The Works of John Ford With Additions by Alexander Dyce. 3 vols. London: J. Toovey, 1869. ",
     "hasCreationDate": "GREGORIAN:1869:1869",
     "hasPublicationDate": "GREGORIAN:1869:1869",
     "hasGenre": [
@@ -548,7 +529,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_8df60ecbbf55982d": {
@@ -584,7 +565,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_cd4449a9f288f0d1": {
@@ -725,7 +706,7 @@
     "hasCreationDate": "GREGORIAN:1881:1881",
     "hasPublicationDate": "GREGORIAN:1881:1881",
     "hasGenre": [
-      "Academic"
+      "Annotated edition"
     ],
     "hasSubject": [
       "Literature and theatre"
@@ -819,7 +800,8 @@
       "Academic"
     ],
     "hasSubject": [
-      "Literature and theatre"
+      "Literature and theatre",
+      "Shakespeare"
     ],
     "authors": [
       "Frederick James Furnivall"
@@ -895,6 +877,26 @@
     ],
     "authors": [
       "Philipp Aronstein"
+    ]
+  },
+  "ww_b2ec8152ccda8760": {
+    "hasBookInternalId": "@005688",
+    "hasBookTitle": "Das Verhaltnis von &quot;Antony and Cleopatra&quot",
+    "hasDisplayedTitle": "Das Verh\u00e4ltnis von Shakespeare's Antony and Cleopatra zu Plutarch's Biographie des Antonius",
+    "hasLanguage": "English",
+    "pubInfo": "Das Verh\u00e4ltniss von Shakespeare's Antony and Cleopatra zu Plutarch's Biographie des Antonius. Weimar: Wagner, 1895. <br>",
+    "hasCreationDate": "GREGORIAN:1895:1895",
+    "hasPublicationDate": "GREGORIAN:1895:1895",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare",
+      "Classical Studies"
+    ],
+    "authors": [
+      "Fritz Adler"
     ]
   },
   "ww_376041155cee86ea": {
@@ -1024,6 +1026,44 @@
     ],
     "authors": [
       "G. H. E. Kopplow"
+    ]
+  },
+  "ww_82bcd1c8b988454f": {
+    "hasBookInternalId": "@005677",
+    "hasBookTitle": "The Stolen Heiress und The Heir von Thomas May",
+    "hasDisplayedTitle": "S. Centlivre's Lustspiel \"The Stolen Heiress\" und sein Verha\u0308ltnis zu \"The Heir\" von Thomas May",
+    "hasLanguage": "English",
+    "pubInfo": "S. Centlivre's lustspiel \"The stolen heiress\" und sein verha\u0308ltniss zu \"The heir\" von Thomas May. Nebst anhang: May und Shakespeare.",
+    "hasCreationDate": "GREGORIAN:1900:1900",
+    "hasPublicationDate": "GREGORIAN:1900:1900",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Hans Daniel Strube"
+    ]
+  },
+  "ww_73a666aabbb3d710": {
+    "hasBookInternalId": "@005710",
+    "hasBookTitle": "A Possible Source of Benedick and Beatrice",
+    "hasDisplayedTitle": "The Book of the Courtyer: A Possible Source of Benedick and Beatrice",
+    "hasLanguage": "English",
+    "pubInfo": "\"The Book of the Courtyer: A Possible Source of Benedick and Beatrice,\" PMLA 16 (1901): 475-502. ",
+    "hasCreationDate": "GREGORIAN:1901:1901",
+    "hasPublicationDate": "GREGORIAN:1901:1901",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "WOMAN WRITER",
+      "Shakespeare"
+    ],
+    "authors": [
+      "Mary Augusta Scott"
     ]
   },
   "ww_1bd7b3ed94bc4c5b": {
@@ -1190,7 +1230,7 @@
       "Shakespeare"
     ],
     "authors": [
-      "tbe (male) Author"
+      "tbe Author"
     ]
   },
   "ww_a8abcb46bdb829e4": {
@@ -1213,8 +1253,8 @@
   },
   "ww_9aa3c52b34a0da4d": {
     "hasBookInternalId": "@005501",
-    "hasBookTitle": "John Wilsons Dramen: Eine Quellenstudie",
-    "hasDisplayedTitle": "John Wilsons Dramen: Eine Quellenstudie",
+    "hasBookTitle": "John Wilsons Dramen",
+    "hasDisplayedTitle": "John Wilsons Dramen",
     "hasLanguage": "English",
     "pubInfo": "<i>John Wilsons Dramen: Eine Quellenstudie. </i>[PhD supervised by Emil Koeppel]. Wiesbaden: C. Ritter, 1904.",
     "hasCreationDate": "GREGORIAN:1904:1904",
@@ -1297,7 +1337,8 @@
     ],
     "hasSubject": [
       "Literature and theatre",
-      "Shakespeare"
+      "Shakespeare",
+      "Classical Studies"
     ],
     "authors": [
       "Heinrich R. D. Anders"
@@ -1371,6 +1412,7 @@
       "Academic"
     ],
     "hasSubject": [
+      "Literature and theatre",
       "Shakespeare"
     ],
     "authors": [
@@ -1543,10 +1585,10 @@
   },
   "ww_e0057dd241a90d8f": {
     "hasBookInternalId": "@005660",
-    "hasBookTitle": "Shakespeare Allusions (14-07-1906)",
-    "hasDisplayedTitle": "Shakespeare Allusions (14-07-1906)",
+    "hasBookTitle": "Shakespeare Allusions (1906-07-14)",
+    "hasDisplayedTitle": "Shakespeare Allusions (1906-07-14)",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries (14 July 1906): 27.",
+    "pubInfo": "\"Shakespeare Allusions.\" <i>Notes and Queries </i>(14 July 1906): 27.",
     "hasCreationDate": "GREGORIAN:1906:1906",
     "hasPublicationDate": "GREGORIAN:1906:1906",
     "hasGenre": [
@@ -1572,6 +1614,7 @@
       "Academic"
     ],
     "hasSubject": [
+      "Literature and theatre",
       "Shakespeare"
     ],
     "authors": [
@@ -1596,6 +1639,24 @@
       "Charles A. Herpich"
     ]
   },
+  "ww_20ccef9d32f7b119": {
+    "hasBookInternalId": "@005717",
+    "hasBookTitle": "Die Technik der Sprache",
+    "hasDisplayedTitle": "Die Technik der Sprache in den Trag\u00f6dien John Marstons",
+    "hasLanguage": "German",
+    "pubInfo": "<i>Die Technik der Sprache in den Trag\u00f6dien John Marstons. </i>Halle: Kaemmerer, 1907.",
+    "hasCreationDate": "GREGORIAN:1907:1907",
+    "hasPublicationDate": "GREGORIAN:1907:1907",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Franz Helmecke"
+    ]
+  },
   "ww_0d50a253f7b3947a": {
     "hasBookInternalId": "@006212",
     "hasBookTitle": "Cambridge History English and American Literature",
@@ -1611,7 +1672,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_527e897a9caf7a0c": {
@@ -1668,6 +1729,25 @@
     ],
     "authors": [
       "Hans Scherer"
+    ]
+  },
+  "ww_6e0313cc93ad7fd3": {
+    "hasBookInternalId": "@005695",
+    "hasBookTitle": "Die lateinischen Zitate in den Vorg\u00e4ngern Shakespe",
+    "hasDisplayedTitle": "Die lateinischen Zitate in den Dramen der wichtigsten Vorg\u00e4nger Shakespeares",
+    "hasLanguage": "German",
+    "pubInfo": "Die lateinischen Zitate in den Dramen der wichtigsten Vorg\u00e4nger Shakespeares. PhD, Strassburg 1907.",
+    "hasCreationDate": "GREGORIAN:1907:1907",
+    "hasPublicationDate": "GREGORIAN:1907:1907",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Classical Studies"
+    ],
+    "authors": [
+      "tbe Author"
     ]
   },
   "ww_94f936c71eb30d28": {
@@ -1786,25 +1866,6 @@
       "George Thorn-Drury"
     ]
   },
-  "ww_a019c81a4bde6ab2": {
-    "hasBookInternalId": "@005661",
-    "hasBookTitle": "Shakespeare Allusions (11-12-1909)",
-    "hasDisplayedTitle": "Shakespeare Allusiosn (11-12-1909)",
-    "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries (11 December 1909): 465-466.",
-    "hasCreationDate": "GREGORIAN:1909:1909",
-    "hasPublicationDate": "GREGORIAN:1909:1909",
-    "hasGenre": [
-      "Academic"
-    ],
-    "hasSubject": [
-      "Literature and theatre",
-      "Shakespeare"
-    ],
-    "authors": [
-      "George Thorn-Drury"
-    ]
-  },
   "ww_094dde0bbfc7c97a": {
     "hasBookInternalId": "@006470",
     "hasBookTitle": "Shakespeare and his Ridicule of \"Cambyses\"",
@@ -1836,6 +1897,7 @@
       "Academic"
     ],
     "hasSubject": [
+      "Literature and theatre",
       "Shakespeare",
       "Classical Studies"
     ],
@@ -1937,12 +1999,12 @@
       "George Thorn-Drury"
     ]
   },
-  "ww_9f8bdf477085b43c": {
-    "hasBookInternalId": "@005662",
-    "hasBookTitle": "Shakespeare Allusions (29-10-1910)",
-    "hasDisplayedTitle": "Shakespeare Allusions (29-10-1910)",
+  "ww_c4309ddafeddce0e": {
+    "hasBookInternalId": "@005706",
+    "hasBookTitle": "Shakespearian Parallels",
+    "hasDisplayedTitle": "Shakespearian Parallels",
     "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries (29 October 1910): 344-345. ",
+    "pubInfo": "\"Shakespearian Parallels.\" <i>Notes and Queries </i>(29 October 1910): 345.",
     "hasCreationDate": "GREGORIAN:1910:1910",
     "hasPublicationDate": "GREGORIAN:1910:1910",
     "hasGenre": [
@@ -1953,7 +2015,7 @@
       "Shakespeare"
     ],
     "authors": [
-      "George Thorn-Drury"
+      "P. A. McElwaine"
     ]
   },
   "ww_5603853ee308e6b5": {
@@ -1990,25 +2052,6 @@
     ],
     "authors": [
       "W. W. Greg"
-    ]
-  },
-  "ww_3377e50adaefb0cb": {
-    "hasBookInternalId": "@005663",
-    "hasBookTitle": "Shakespeare Allusions (22-04-1911)",
-    "hasDisplayedTitle": "Shakespeare Allusions (22-04-1911)",
-    "hasLanguage": "English",
-    "pubInfo": "\"Shakespeare Allusions.\" Notes and Queries (22 April 1911): 305. ",
-    "hasCreationDate": "GREGORIAN:1911:1911",
-    "hasPublicationDate": "GREGORIAN:1911:1911",
-    "hasGenre": [
-      "Academic"
-    ],
-    "hasSubject": [
-      "Literature and theatre",
-      "Shakespeare"
-    ],
-    "authors": [
-      "George Thorn-Drury"
     ]
   },
   "ww_2b1fa1c2d65b5c55": {
@@ -2232,6 +2275,25 @@
       "George Thorn-Drury"
     ]
   },
+  "ww_a7c50cab4515e597": {
+    "hasBookInternalId": "@005684",
+    "hasBookTitle": "Gesta Grayorum (Greg edition)",
+    "hasDisplayedTitle": "Gesta Grayorum (Greg edition)",
+    "hasLanguage": "English",
+    "pubInfo": "ed. Gesta Grayorum, 1688. Malone Society 40 (1915).",
+    "hasCreationDate": "GREGORIAN:1915:1915",
+    "hasPublicationDate": "GREGORIAN:1915:1915",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ],
+    "authors": [
+      "W. W. Greg"
+    ]
+  },
   "ww_7f32d70d1cbf7626": {
     "hasBookInternalId": "@006120",
     "hasBookTitle": "Shakespeare Allusions (1915-06-12)",
@@ -2342,7 +2404,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "tbe (male) Author"
+      "tbe Author"
     ]
   },
   "ww_cdfc6bccbe0a53c6": {
@@ -2402,6 +2464,24 @@
       "Jesse Franklin Bradley"
     ]
   },
+  "ww_a9f2d75a5ae329ec": {
+    "hasBookInternalId": "@005693",
+    "hasBookTitle": "The Elizabethan Stage",
+    "hasDisplayedTitle": "The Elizabethan Stage",
+    "hasLanguage": "English",
+    "pubInfo": "<i>The Elizabethan Stage</i>. Oxford: Clarendon Press, 1923.",
+    "hasCreationDate": "GREGORIAN:1923:1923",
+    "hasPublicationDate": "GREGORIAN:1923:1923",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Edward Kerchever Chambers"
+    ]
+  },
   "ww_aee75c33920a3b79": {
     "hasBookInternalId": "@010008",
     "hasBookTitle": "More Seventeenth-Century Allusions to Shakespeare ",
@@ -2458,6 +2538,44 @@
     ],
     "authors": [
       "George Coffin Taylor"
+    ]
+  },
+  "ww_020cef2d8734b608": {
+    "hasBookInternalId": "@005686",
+    "hasBookTitle": "Some Literary Allusions in Henry the Fourth",
+    "hasDisplayedTitle": "Some Literary Allusions in Henry the Fourth",
+    "hasLanguage": "English",
+    "pubInfo": "\"Some Literary Allusions in Henry the Fourth.\" The Times Literary Supplement (26 March 1925): 222.",
+    "hasCreationDate": "GREGORIAN:1925:1925",
+    "hasPublicationDate": "GREGORIAN:1925:1925",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ],
+    "authors": [
+      "Richard Paper Cowl"
+    ]
+  },
+  "ww_957129dc9ec2a504": {
+    "hasBookInternalId": "@005685",
+    "hasBookTitle": "Echoes of Henry the Fourth in Elizabethan Drama",
+    "hasDisplayedTitle": "Echoes of Henry the Fourth in Elizabethan Drama",
+    "hasLanguage": "English",
+    "pubInfo": "\"Echoes of Henry the Fourth in Elizabethan Drama.\" The Times Literary Supplement (22 October 1925).",
+    "hasCreationDate": "GREGORIAN:1925:1925",
+    "hasPublicationDate": "GREGORIAN:1925:1925",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ],
+    "authors": [
+      "Richard Paper Cowl"
     ]
   },
   "ww_ed063fa003bdcfdd": {
@@ -2624,6 +2742,25 @@
     ],
     "authors": [
       "Edward Kerchever Chambers"
+    ]
+  },
+  "ww_166d465ba302f224": {
+    "hasBookInternalId": "@005692",
+    "hasBookTitle": "Shakespeare Allusions and Parallels",
+    "hasDisplayedTitle": "Shakespeare Allusions and Parallels",
+    "hasLanguage": "English",
+    "pubInfo": "<i<>Shakespeare Allusions and Parallels. </i>Bethlehem: Lehigh University Publications, 1931.<br>",
+    "hasCreationDate": "GREGORIAN:1931:1931",
+    "hasPublicationDate": "GREGORIAN:1931:1931",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ],
+    "authors": [
+      "tbe Author"
     ]
   },
   "ww_6f8bba60983f33d9": {
@@ -3143,6 +3280,24 @@
       "Frank Percy Wilson"
     ]
   },
+  "ww_e7354fadf0a6bab2": {
+    "hasBookInternalId": "@005709",
+    "hasBookTitle": "The Sources of Massinger&#039;s Emperour of the Ea",
+    "hasDisplayedTitle": "The Sources of Massinger's Emperour of the East",
+    "hasLanguage": "English",
+    "pubInfo": "\"The Sources of Massinger's Emperour of the East.\" PMLA 65:4 (June 1950): 473-482.",
+    "hasCreationDate": "GREGORIAN:1950:1950",
+    "hasPublicationDate": "GREGORIAN:1950:1950",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Peter G. Phialas"
+    ]
+  },
   "ww_df2b8c2f18df151a": {
     "hasBookInternalId": "@010049",
     "hasBookTitle": "The Plays of Nathan Field",
@@ -3386,6 +3541,43 @@
       "R. H. Bowers"
     ]
   },
+  "ww_661827227e244dd5": {
+    "hasBookInternalId": "@005681",
+    "hasBookTitle": "Nashe and the Dram of Eale",
+    "hasDisplayedTitle": "Nashe and the Dram of Eale",
+    "hasLanguage": "English",
+    "pubInfo": "\"Nashe and the Dram of Eale.\" Notes and Queries 198 (1953): 377-378.<br>",
+    "hasCreationDate": "GREGORIAN:1953:1953",
+    "hasPublicationDate": "GREGORIAN:1953:1953",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ],
+    "authors": [
+      "G. Blakemore Evans"
+    ]
+  },
+  "ww_38d1973f181dc8fb": {
+    "hasBookInternalId": "@005682",
+    "hasBookTitle": "Early Echoes of Shakespeare's Sonnets",
+    "hasDisplayedTitle": "Early Echoes of Shakespeare's Sonnets and Passionate Pilgrim",
+    "hasLanguage": "English",
+    "pubInfo": "\"Early Echoes of Shakespeare's Sonnets and Passionate Pilgrim.\" Notes and Queries 198 (September 1953): 370.",
+    "hasCreationDate": "GREGORIAN:1953:1953",
+    "hasPublicationDate": "GREGORIAN:1953:1953",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Charles O. Fox"
+    ]
+  },
   "ww_c8b9905743513fbf": {
     "hasBookInternalId": "@010222",
     "hasBookTitle": "Shakespeare and Nashe's \"Pierce Pennilesse\" 1",
@@ -3417,6 +3609,7 @@
       "Academic"
     ],
     "hasSubject": [
+      "Literature and theatre",
       "Shakespeare"
     ],
     "authors": [
@@ -3740,6 +3933,24 @@
       "Kenneth Arthur Muir"
     ]
   },
+  "ww_f3bfe6a1e14d963a": {
+    "hasBookInternalId": "@005694",
+    "hasBookTitle": "English Folly and Italian Vice",
+    "hasDisplayedTitle": " English Folly and Italian Vice",
+    "hasLanguage": "English",
+    "pubInfo": "<i>English Folly and Italian Vice.</i> Jacobean Theatre. Ed.Brown and Harris. 1960. N.p.",
+    "hasCreationDate": "GREGORIAN:1960:1960",
+    "hasPublicationDate": "GREGORIAN:1960:1960",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "George K. Hunter"
+    ]
+  },
   "ww_0c5550692d30fd91": {
     "hasBookInternalId": "@005194",
     "hasBookTitle": "The Poems of John Marston (Davenport edition)",
@@ -4018,6 +4229,42 @@
       "David L. Frost"
     ]
   },
+  "ww_c2f0e42f45c2067f": {
+    "hasBookInternalId": "@005689",
+    "hasBookTitle": "Antonio and Mellida (Hunter edition)",
+    "hasDisplayedTitle": "Antonio and Mellida (Hunter edition)",
+    "hasLanguage": "English",
+    "pubInfo": "ed. John Marston. <i>Antonio and Mellida: The first part. </i>Regents Renaissance Drama Series. London: Edward Arnold, 1965.",
+    "hasCreationDate": "GREGORIAN:1965:1965",
+    "hasPublicationDate": "GREGORIAN:1965:1965",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "George K. Hunter"
+    ]
+  },
+  "ww_2b073791ac789b50": {
+    "hasBookInternalId": "@005691",
+    "hasBookTitle": "The Fawn (Smith edition)",
+    "hasDisplayedTitle": "The Fawn (Smith edition)",
+    "hasLanguage": "English",
+    "pubInfo": "ed. John Marston. <i>The Fawn. </i>Regents Renaissance Drama Series. London: Edward Arnold, 1965. ",
+    "hasCreationDate": "GREGORIAN:1965:1965",
+    "hasPublicationDate": "GREGORIAN:1965:1965",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "tbe Author"
+    ]
+  },
   "ww_fb0a6631637015d5": {
     "hasBookInternalId": "@006282",
     "hasBookTitle": "Dramatic Works in the Beaumont and Fletcher Canon",
@@ -4052,6 +4299,24 @@
     ],
     "authors": [
       "Lawrence J. Ross"
+    ]
+  },
+  "ww_0286570c6d39daaa": {
+    "hasBookInternalId": "@005690",
+    "hasBookTitle": "Antonio's Revenge (Hunter edition)",
+    "hasDisplayedTitle": "Antonio's Revenge (Hunter edition)",
+    "hasLanguage": "English",
+    "pubInfo": "ed. John Marston. Antonio's Revenge: The second part of Antonio and Mellida. London: Edward Arnold, 1966.",
+    "hasCreationDate": "GREGORIAN:1966:1966",
+    "hasPublicationDate": "GREGORIAN:1966:1966",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "George K. Hunter"
     ]
   },
   "ww_2fa5a9bb2a67257a": {
@@ -4103,6 +4368,7 @@
       "Academic"
     ],
     "hasSubject": [
+      "Literature and theatre",
       "Shakespeare"
     ],
     "authors": [
@@ -4537,7 +4803,7 @@
   "ww_007f5df132cfba12": {
     "hasBookInternalId": "@006186",
     "hasBookTitle": "\"The Taming of the Shrew\" - Notes",
-    "hasDisplayedTitle": "The Taming of the Shrew: Notes on Some Classical Allusions",
+    "hasDisplayedTitle": "The Taming of the Shrew - Notes on Some Classical Allusions",
     "hasLanguage": "English",
     "pubInfo": "\"The Taming of the Shrew: Notes on Some Classical Allusions.\" <i>Hermathena </i>129 \"In honor of William Bedell Stanford\" (Winter 1980): 23-28.",
     "hasCreationDate": "GREGORIAN:1980:1980",
@@ -4602,6 +4868,7 @@
       "Academic"
     ],
     "hasSubject": [
+      "Literature and theatre",
       "Shakespeare"
     ],
     "authors": [
@@ -5482,7 +5749,7 @@
       "History, (auto-)biography"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_444e694490140e28": {
@@ -5558,6 +5825,26 @@
     ],
     "authors": [
       "Linda M. Charnes"
+    ]
+  },
+  "ww_54f47f3e59d43774": {
+    "hasBookInternalId": "@005713",
+    "hasBookTitle": "Jonson, Shakespeare, and early modern Virgil",
+    "hasDisplayedTitle": "Jonson, Shakespeare, and early modern Virgil",
+    "hasLanguage": "English",
+    "pubInfo": "<i>Jonson, Shakespeare, and early modern Virgil.</i> Cambridge: Cambridge University Press, 1998.",
+    "hasCreationDate": "GREGORIAN:1998:1998",
+    "hasPublicationDate": "GREGORIAN:1998:1998",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "WOMAN WRITER",
+      "Shakespeare"
+    ],
+    "authors": [
+      "Margaret Tudeau-Clayton"
     ]
   },
   "ww_1397c4b67db5b86a": {
@@ -5700,6 +5987,9 @@
     "hasGenre": [
       "Academic"
     ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
     "authors": [
       "Charles Cathcart"
     ]
@@ -5755,7 +6045,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_73cdd390f6e92cbe": {
@@ -5892,7 +6182,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_68caf0be92d6d9a9": {
@@ -5930,7 +6220,7 @@
       "History, (auto-)biography"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_a1f6192e21fb6a9b": {
@@ -6064,6 +6354,25 @@
       "Charles Cathcart"
     ]
   },
+  "ww_bc9ad18fd3996ba4": {
+    "hasBookInternalId": "@005680",
+    "hasBookTitle": "An Unacknowledged Debt to Seneca",
+    "hasDisplayedTitle": "An Unacknowledged Debt to Seneca in the Sejanus Quarto",
+    "hasLanguage": "English",
+    "pubInfo": "\"An Unacknowledged Debt to Seneca in the Sejanus Quarto.\" Notes and Queries 248 (2003): 427.",
+    "hasCreationDate": "GREGORIAN:2003:2003",
+    "hasPublicationDate": "GREGORIAN:2003:2003",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Classical Studies"
+    ],
+    "authors": [
+      "Brock Cameron MacLeod"
+    ]
+  },
   "ww_941ab0dde5725680": {
     "hasBookInternalId": "@005531",
     "hasBookTitle": "\"Histriomastix\" and \"Quintessence of Duckes\"",
@@ -6195,7 +6504,7 @@
       "History, (auto-)biography"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_d50c2ba82fdc30ae": {
@@ -6214,7 +6523,26 @@
       "History, (auto-)biography"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
+    ]
+  },
+  "ww_571b38c003122c7b": {
+    "hasBookInternalId": "@005683",
+    "hasBookTitle": "More Jibes at Shakespeare in 1606",
+    "hasDisplayedTitle": "More Jibes at Shakespeare in 1606",
+    "hasLanguage": "English",
+    "pubInfo": "\"More Jibes at Shakespeare in 1606, and the date of Antony and Cleopatra.\" Notes and Queries 250 (2005): 207-208.",
+    "hasCreationDate": "GREGORIAN:2005:2005",
+    "hasPublicationDate": "GREGORIAN:2005:2005",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ],
+    "authors": [
+      "Richard Levin"
     ]
   },
   "ww_e9b2a04d2a7fd579": {
@@ -6252,7 +6580,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_1b231152ba6c63ce": {
@@ -6587,7 +6915,7 @@
       "Philosophy, religion"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_6a0b1e5914da6bee": {
@@ -7089,6 +7417,7 @@
       "Literature and theatre"
     ],
     "authors": [
+      "Catherine Richardson",
       "Martin Wiggins"
     ]
   },
@@ -7158,6 +7487,7 @@
       "Academic"
     ],
     "hasSubject": [
+      "Literature and theatre",
       "Shakespeare"
     ],
     "authors": [
@@ -7570,6 +7900,7 @@
       "Academic"
     ],
     "hasSubject": [
+      "Literature and theatre",
       "Shakespeare"
     ],
     "authors": [
@@ -7649,6 +7980,24 @@
       "James P. Bednarz"
     ]
   },
+  "ww_f385ff7a08eee527": {
+    "hasBookInternalId": "@005679",
+    "hasBookTitle": "Quoting Shakespeare",
+    "hasDisplayedTitle": "Quoting Shakespeare",
+    "hasLanguage": "English",
+    "pubInfo": "\"Quoting Shakespeare.\" Shakespeare and Quotation. Eds. Julie Maxwell and Kate Rumbold. Cambridge: Cambridge University Press, 2018. 72-86.",
+    "hasCreationDate": "GREGORIAN:2018:2018",
+    "hasPublicationDate": "GREGORIAN:2018:2018",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Douglas Bruster"
+    ]
+  },
   "ww_45eefbefad8ac804": {
     "hasBookInternalId": "@006331",
     "hasBookTitle": "Shakespeare and Quotation",
@@ -7688,6 +8037,44 @@
       "James P. Bednarz"
     ]
   },
+  "ww_63da1a1209b7faac": {
+    "hasBookInternalId": "@005707",
+    "hasBookTitle": "Shakespeares Early Readers",
+    "hasDisplayedTitle": "Shakespeare's Early Readers",
+    "hasLanguage": "English",
+    "pubInfo": "<i>Shakespeare's Early Readers: A Cultural History from 1590 to 1800. </i>Cambridge: Cambridge University Press, 2018.",
+    "hasCreationDate": "GREGORIAN:2018:2018",
+    "hasPublicationDate": "GREGORIAN:2018:2018",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ],
+    "authors": [
+      "Jean-Christophe Mayer"
+    ]
+  },
+  "ww_eef9abd2847ca90d": {
+    "hasBookInternalId": "@005716",
+    "hasBookTitle": "Imitating Authors",
+    "hasDisplayedTitle": "Imitating Authors",
+    "hasLanguage": "English",
+    "pubInfo": "<i>Imitating Authors: Plato to Futurity. </i>Oxford: Oxford University Press, 2019.",
+    "hasCreationDate": "GREGORIAN:2019:2019",
+    "hasPublicationDate": "GREGORIAN:2019:2019",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Classical Studies"
+    ],
+    "authors": [
+      "Colin Burrow"
+    ]
+  },
   "ww_c5c377e66380ce71": {
     "hasBookInternalId": "@005640",
     "hasBookTitle": "Du Bartas Semaines and John Marstons Malcontent",
@@ -7721,7 +8108,7 @@
       "Classical Studies"
     ],
     "authors": [
-      "_ Anon."
+      "_ Anonymous"
     ]
   },
   "ww_88191e3f93faf319": {

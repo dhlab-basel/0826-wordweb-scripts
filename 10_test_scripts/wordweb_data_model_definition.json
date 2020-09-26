@@ -8,12 +8,13 @@
     "shortname": "ww",
     "longname": "WordWeb",
     "descriptions": {
-      "en": "This is a first version of the WordWeb.",
-      "de": "Dies ist die erste Version von WordWeb"
+      "en": "This is a test version of the WordWeb",
+      "de": "Dies ist eine Testversion von WordWeb"
     },
     "keywords": [
       "intertextuality",
-      "shakespeare"
+      "shakespeare",
+      "wordweb"
     ],
     "lists": [
       {
@@ -65,27 +66,6 @@
             "labels": {
               "de": "Französisch",
               "en": "French"
-            }
-          },
-          {
-            "name": "Russian",
-            "labels": {
-              "de": "Russisch",
-              "en": "Russian"
-            }
-          },
-          {
-            "name": "Eastern and Northern European",
-            "labels": {
-              "de": "???",
-              "en": "Eastern and Northern European"
-            }
-          },
-          {
-            "name": "Asian",
-            "labels": {
-              "de": "Asiatisch",
-              "en": "Asian"
             }
           },
           {
@@ -1057,10 +1037,10 @@
             },
             "nodes": [
               {
-                "name": "Prose",
+                "name": "ALL PROSE FICTION",
                 "labels": {
-                  "de": "Prosa",
-                  "en": "Prose"
+                  "de": "ALL PROSE FICTION",
+                  "en": "ALL PROSE FICTION"
                 },
                 "nodes": [
                   {
@@ -1069,28 +1049,14 @@
                       "de": "Allgemein",
                       "en": "Prose unspecified"
                     }
-                  },
-                  {
-                    "name": "Science fiction or fantasy",
-                    "labels": {
-                      "de": "Science fiction oder Fantasy",
-                      "en": "Science fiction or fantasy"
-                    }
-                  },
-                  {
-                    "name": "Romance (prose)",
-                    "labels": {
-                      "de": "Romance (Prosa)",
-                      "en": "Romance (prose)"
-                    }
                   }
                 ]
               },
               {
-                "name": "Poetry",
+                "name": "ALL POETRY",
                 "labels": {
-                  "de": "Lyrik",
-                  "en": "Poetry including songs"
+                  "de": "ALL POETRY",
+                  "en": "ALL POETRY"
                 },
                 "nodes": [
                   {
@@ -1124,10 +1090,10 @@
                 ]
               },
               {
-                "name": "Drama (Theatre)",
+                "name": "ALL DRAMA",
                 "labels": {
-                  "de": "Drama",
-                  "en": "Drama (Theatre)"
+                  "de": "ALL DRAMA",
+                  "en": "ALL DRAMA"
                 },
                 "nodes": [
                   {
@@ -1145,10 +1111,10 @@
                     }
                   },
                   {
-                    "name": "History",
+                    "name": "History play",
                     "labels": {
                       "de": "Historie",
-                      "en": "History"
+                      "en": "History play"
                     }
                   },
                   {
@@ -1159,10 +1125,10 @@
                     }
                   },
                   {
-                    "name": "Romance",
+                    "name": "Romance (drama)",
                     "labels": {
                       "de": "Romanze",
-                      "en": "Romance"
+                      "en": "Romance (drama)"
                     }
                   },
                   {
@@ -1177,10 +1143,10 @@
             ]
           },
           {
-            "name": "Nonfiction",
+            "name": "NONFICTION",
             "labels": {
-              "de": "Sachbuch",
-              "en": "Nonfiction"
+              "de": "NONFICTION",
+              "en": "NONFICTION"
             },
             "nodes": [
               {
@@ -1219,10 +1185,10 @@
                 }
               },
               {
-                "name": "Speech or lecture or sermon",
+                "name": "Speech or sermon",
                 "labels": {
-                  "de": "Rede, Predigt, Vorlesung",
-                  "en": "Speech or lecture or sermon"
+                  "de": "Rede, Predigt",
+                  "en": "Speech or sermon"
                 }
               },
               {
@@ -1233,10 +1199,10 @@
                 }
               },
               {
-                "name": "Nonfiction unspecified",
+                "name": "Other nonfiction",
                 "labels": {
-                  "de": "???",
-                  "en": "Nonfiction unspecified"
+                  "de": "Other nonfiction",
+                  "en": "Other nonfiction"
                 }
               },
               {
@@ -1252,21 +1218,28 @@
                   "de": "Allgemein",
                   "en": "Bildung"
                 }
+              },
+              {
+                "name": "Scholarly database",
+                "labels": {
+                  "de": "Wissenschaftliche Datenbank",
+                  "en": "Scholarly database"
+                }
               }
             ]
           },
           {
-            "name": "Other genre",
+            "name": "OTHER GENRES",
             "labels": {
-              "de": "Anderes Genre",
-              "en": "Other genre"
+              "de": "OTHER GENRES",
+              "en": "OTHER GENRES"
             },
             "nodes": [
               {
-                "name": "Instrumental music",
+                "name": "Music",
                 "labels": {
-                  "de": "Instrumental music",
-                  "en": "Instrumentale Music"
+                  "de": "Musik",
+                  "en": "Music"
                 }
               },
               {
@@ -1293,15 +1266,8 @@
               {
                 "name": "The Bible",
                 "labels": {
-                  "de": "Bibel",
-                  "en": "Bible"
-                }
-              },
-              {
-                "name": "Scholarly database",
-                "labels": {
-                  "de": "Wissenschaftliche Datenbank",
-                  "en": "Scholarly database"
+                  "de": "Die Bibel",
+                  "en": "The Bible"
                 }
               }
             ]
@@ -1374,7 +1340,7 @@
           {
             "name": "TO BE EDITED",
             "labels": {
-              "de": "???",
+              "de": "TO BE EDITED",
               "en": "TO BE EDITED"
             }
           },
@@ -1402,22 +1368,22 @@
           {
             "name": "AFTER TRANSFER FIX BIBLIO OR GENRE",
             "labels": {
-              "de": "???",
+              "de": "Fixing after transfer",
               "en": "Fixing after transfer"
             }
           },
           {
             "name": "HISTORICAL PAGE",
             "labels": {
-              "de": "???",
+              "de": "HISTORICAL PAGE",
               "en": "HISTORICAL PAGE"
             }
           },
           {
             "name": "Classical Studies",
             "labels": {
-              "de": "???",
-              "en": "???"
+              "de": "Classical Studies",
+              "en": "Classical Studies"
             }
           }
         ]
@@ -1614,10 +1580,10 @@
                 }
               },
               {
-                "name": "Gray's Inn at Greenwich Palace",
+                "name": "Greenwich Palace",
                 "labels": {
-                  "de": "Gray's Inn at Greenwich Palace",
-                  "en": "Gray's Inn at Greenwich Palace"
+                  "de": "Greenwich Palace",
+                  "en": "Greenwich Palace"
                 }
               },
               {
@@ -1646,6 +1612,13 @@
                 "labels": {
                   "de": "The Theatre Royal",
                   "en": "The Theatre Royal"
+                }
+              },
+              {
+                "name": "St. Paul's Playhouse",
+                "labels": {
+                  "de": "St. Paul's Playhouse",
+                  "en": "St. Paul's Playhouse"
                 }
               }
             ]
@@ -1706,6 +1679,13 @@
                 "labels": {
                   "de": "St Johns College",
                   "en": "St Johns College"
+                }
+              },
+              {
+                "name": "Unknown location",
+                "labels": {
+                  "de": "Unknown location",
+                  "en": "Unknown location"
                 }
               }
             ]
@@ -1882,7 +1862,10 @@
         "familyName": "Hohl",
         "password": "tbontbtitq",
         "lang": "en",
-        "groups": [":ww-admin", ":ww-editor"]
+        "groups": [
+          ":ww-admin",
+          ":ww-editor"
+        ]
       },
       {
         "username": "Student1",
@@ -1890,972 +1873,979 @@
         "familyName": "",
         "password": "ww1234",
         "lang": "en",
-        "groups": [":ww-editor"]
+        "groups": [
+          ":ww-editor"
+        ]
       }
     ],
-    "ontology": {
-      "name": "teimww",
-      "label": "Test Import WordWeb",
-      "properties": [
-            {
-              "name": "hasPersonInternalId",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Internal ID",
-                "de": "Interne ID"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": {
-                "size": 24,
-                "maxlength": 64
-              }
+    "ontologies": [
+      {
+        "name": "teimww",
+        "label": "WordWeb ontology",
+        "properties": [
+          {
+            "name": "hasPersonInternalId",
+            "super": [
+              "hasValue"
+            ],
+            "object": "TextValue",
+            "labels": {
+              "en": "Internal ID",
+              "de": "Interne ID"
             },
-            {
-              "name": "hasFirstName",
-              "super": [
-                "hasValue",
-                "foaf:givenName"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "First name",
-                "de": "Vorname"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": {
-                "size": 24,
-                "maxlength": 64
-              },
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasLastName",
-              "super": [
-                "hasValue",
-                "foaf:familyName"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Last name",
-                "de": "Nachname"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": {
-                "size": 24,
-                "maxlength": 64
-              },
-              "cardinality": "1"
-            },
-            {
-              "name": "hasDescription",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Description",
-                "de": "Beschreibung"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": {
-                "size": 32,
-                "maxlength": 128
-              },
-              "cardinality": "1"
-            },
-            {
-              "name": "hasBirthDate",
-              "super": [
-                "hasValue"
-              ],
-              "object": "DateValue",
-              "labels": {
-                "en": "Birth date",
-                "de": "Geburtsdatum"
-              },
-              "gui_element": "Date",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasDeathDate",
-              "super": [
-                "hasValue"
-              ],
-              "object": "DateValue",
-              "labels": {
-                "en": "Death date",
-                "de": "Todesdatum"
-              },
-              "gui_element": "Date",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasActiveDate",
-              "super": [
-                "hasValue"
-              ],
-              "object": "DateValue",
-              "labels": {
-                "en": "Active date",
-                "de": "Aktives Datum"
-              },
-              "gui_element": "Date",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasGender",
-              "super": [
-                "hasValue",
-                "foaf:gender"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Gender",
-                "de": "Geschlecht"
-              },
-              "gui_element": "Pulldown",
-              "gui_attributes": {
-                "hlist": "gender",
-                "maxlength": 64
-              },
-              "cardinality": "1"
-            },
-            {
-              "name": "isLexiaPerson",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:lexia",
-              "labels": {
-                "en": "is Lexia person",
-                "de": "ist Lexia Person"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "personPerformedIn",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:book",
-              "labels": {
-                "en": "performed in",
-                "de": "spielte mit in"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "hasPersonExtraInfo",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Extra info for person",
-                "de": "Zusatzinfo für Person"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=128"
-              ],
-              "cardinality": "0-1"
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "size": 24,
+              "maxlength": 64
             }
-          ],
-      "resources": [
-        {
-          "name": "person",
-          "super": "Resource",
-          "labels": {
-            "en": "Person",
-            "de": "Person"
           },
-          "comments": {
-            "en": "Represents a person",
-            "de": "Repräsentiert eine Person"
+          {
+            "name": "hasFirstName",
+            "super": [
+              "hasValue",
+              "foaf:givenName"
+            ],
+            "object": "TextValue",
+            "labels": {
+              "en": "First name",
+              "de": "Vorname"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "size": 24,
+              "maxlength": 64
+            },
+            "cardinality": "0-1"
+          },
+          {
+            "name": "hasLastName",
+            "super": [
+              "hasValue",
+              "foaf:familyName"
+            ],
+            "object": "TextValue",
+            "labels": {
+              "en": "Last name",
+              "de": "Nachname"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "size": 24,
+              "maxlength": 64
+            },
+            "cardinality": "1"
+          },
+          {
+            "name": "hasDescription",
+            "super": [
+              "hasValue"
+            ],
+            "object": "TextValue",
+            "labels": {
+              "en": "Description",
+              "de": "Beschreibung"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": {
+              "size": 32,
+              "maxlength": 128
+            },
+            "cardinality": "1"
+          },
+          {
+            "name": "hasBirthDate",
+            "super": [
+              "hasValue"
+            ],
+            "object": "DateValue",
+            "labels": {
+              "en": "Birth date",
+              "de": "Geburtsdatum"
+            },
+            "gui_element": "Date",
+            "cardinality": "0-1"
+          },
+          {
+            "name": "hasDeathDate",
+            "super": [
+              "hasValue"
+            ],
+            "object": "DateValue",
+            "labels": {
+              "en": "Death date",
+              "de": "Todesdatum"
+            },
+            "gui_element": "Date",
+            "cardinality": "0-1"
+          },
+          {
+            "name": "hasActiveDate",
+            "super": [
+              "hasValue"
+            ],
+            "object": "DateValue",
+            "labels": {
+              "en": "Active date",
+              "de": "Aktives Datum"
+            },
+            "gui_element": "Date",
+            "cardinality": "0-1"
+          },
+          {
+            "name": "hasGender",
+            "super": [
+              "hasValue",
+              "foaf:gender"
+            ],
+            "object": "ListValue",
+            "labels": {
+              "en": "Gender",
+              "de": "Geschlecht"
+            },
+            "gui_element": "Pulldown",
+            "gui_attributes": {
+              "hlist": "gender",
+              "maxlength": 64
+            },
+            "cardinality": "1"
+          },
+          {
+            "name": "isLexiaPerson",
+            "super": [
+              "hasLinkTo"
+            ],
+            "object": "teimww:lexia",
+            "labels": {
+              "en": "is Lexia person",
+              "de": "ist Lexia Person"
+            },
+            "gui_element": "Searchbox",
+            "cardinality": "0-n"
+          },
+          {
+            "name": "personPerformedIn",
+            "super": [
+              "hasLinkTo"
+            ],
+            "object": "teimww:book",
+            "labels": {
+              "en": "performed in",
+              "de": "spielte mit in"
+            },
+            "gui_element": "Searchbox",
+            "cardinality": "0-n"
+          },
+          {
+            "name": "hasPersonExtraInfo",
+            "super": [
+              "hasValue"
+            ],
+            "object": "TextValue",
+            "labels": {
+              "en": "Extra info for person",
+              "de": "Zusatzinfo für Person"
+            },
+            "gui_element": "SimpleText",
+            "gui_attributes": [
+              "size=24",
+              "maxlength=128"
+            ],
+            "cardinality": "0-1"
           }
-        },
-        {
-          "name": "book",
-          "super": "Resource",
-          "labels": {
-            "en": "Book",
-            "de": "Buch"
+        ],
+        "resources": [
+          {
+            "name": "person",
+            "super": "Resource",
+            "labels": {
+              "en": "Person",
+              "de": "Person"
+            },
+            "cardinalities": [
+              {
+                "propname": ":hasPersonInternalId",
+                "gui_order": 1,
+                "cardinality": "1"
+              }
+            ]
           },
-          "comments": {
-            "en": "Represents a book",
-            "de": "Repräsentiert ein Buch"
+          {
+            "name": "book",
+            "super": "Resource",
+            "labels": {
+              "en": "Book",
+              "de": "Buch"
+            },
+            "comments": {
+              "en": "Represents a book",
+              "de": "Repräsentiert ein Buch"
+            },
+            "properties": [
+              {
+                "name": "hasBookInternalId",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Internal Id",
+                  "de": "Interne Id"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "1"
+              },
+              {
+                "name": "hasBookTitle",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Book title",
+                  "de": "Buchtitel"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "1"
+              },
+              {
+                "name": "hasEdition",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Edition (normalized)",
+                  "de": "Edition (normalisiert)"
+                },
+                "gui_element": "Textarea",
+                "cardinality": "1"
+              },
+              {
+                "name": "hasEditionHist",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Edition (historical)",
+                  "de": "Edition (historisch)"
+                },
+                "gui_element": "Textarea",
+                "cardinality": "0-1"
+              },
+              {
+                "name": "hasLanguage",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "ListValue",
+                "labels": {
+                  "en": "Language",
+                  "de": "Sprache"
+                },
+                "gui_element": "Pulldown",
+                "gui_attributes": [
+                  "hlist=language"
+                ],
+                "cardinality": "1"
+              },
+              {
+                "name": "hasGenre",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "ListValue",
+                "labels": {
+                  "en": "Genre",
+                  "de": "Genre"
+                },
+                "gui_element": "Pulldown",
+                "gui_attributes": [
+                  "hlist=genre"
+                ],
+                "cardinality": "1-n"
+              },
+              {
+                "name": "hasSubject",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "ListValue",
+                "labels": {
+                  "en": "Subject",
+                  "de": "Thema"
+                },
+                "gui_element": "Pulldown",
+                "gui_attributes": [
+                  "hlist=subject"
+                ],
+                "cardinality": "0-n"
+              },
+              {
+                "name": "hasCreationDate",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "DateValue",
+                "labels": {
+                  "en": "Creation date",
+                  "de": "Erstellungsdatum"
+                },
+                "gui_element": "Date",
+                "cardinality": "1"
+              },
+              {
+                "name": "hasPublicationDate",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "DateValue",
+                "labels": {
+                  "en": "Publication date",
+                  "de": "Veröffentlichungsdatum"
+                },
+                "gui_element": "Date",
+                "cardinality": "0-1"
+              },
+              {
+                "name": "hasFirstPerformanceDate",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "DateValue",
+                "labels": {
+                  "en": "First performance date",
+                  "de": "Erstaufführungsdatum"
+                },
+                "gui_element": "Date",
+                "cardinality": "0-1"
+              },
+              {
+                "name": "hasBookComment",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Book comment",
+                  "de": "Buchkommentar"
+                },
+                "gui_element": "Textarea",
+                "cardinality": "0-1"
+              },
+              {
+                "name": "isWrittenBy",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:person",
+                "labels": {
+                  "en": "is written by",
+                  "de": "wurde geschrieben von"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "1-n"
+              },
+              {
+                "name": "performedBy",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:company",
+                "labels": {
+                  "en": "performed by",
+                  "de": "gespielt von"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "0-n"
+              },
+              {
+                "name": "performedIn",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:venue",
+                "labels": {
+                  "en": "performed in",
+                  "de": "gespielt in"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "0-n"
+              },
+              {
+                "name": "isLexiaBook",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:lexia",
+                "labels": {
+                  "en": "lexia book",
+                  "de": "Lexia Buch"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "0-n"
+              },
+              {
+                "name": "hasBookExtraInfo",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Extra info for book",
+                  "de": "Zusatzinfo für Buch"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=128"
+                ],
+                "cardinality": "0-1"
+              }
+            ]
           },
-          "properties": [
-            {
-              "name": "hasBookInternalId",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Internal Id",
-                "de": "Interne Id"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "1"
+          {
+            "name": "passage",
+            "super": "Resource",
+            "labels": {
+              "en": "Passage",
+              "de": "Passage"
             },
-            {
-              "name": "hasBookTitle",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Book title",
-                "de": "Buchtitel"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "1"
+            "comments": {
+              "en": "Represents a passage from a book",
+              "de": "Repräsentiert eine Passage aus einem Buch"
             },
-            {
-              "name": "hasEdition",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Edition (normalized)",
-                "de": "Edition (normalisiert)"
+            "properties": [
+              {
+                "name": "hasText",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Text",
+                  "de": "Text"
+                },
+                "gui_element": "Textarea",
+                "cardinality": "1"
               },
-              "gui_element": "Textarea",
-              "cardinality": "1"
-            },
-            {
-              "name": "hasEditionHist",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Edition (historical)",
-                "de": "Edition (historisch)"
+              {
+                "name": "hasTextHist",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Historical text",
+                  "de": "Historischer Text"
+                },
+                "gui_element": "Textarea",
+                "cardinality": "0-1"
               },
-              "gui_element": "Textarea",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasLanguage",
-              "super": [
-                "hasValue"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Language",
-                "de": "Sprache"
+              {
+                "name": "hasDisplayedTitle",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Displayed title",
+                  "de": "Angezeigter Title"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "1"
               },
-              "gui_element": "Pulldown",
-              "gui_attributes": [
-                "hlist=language"
-              ],
-              "cardinality": "1"
-            },
-            {
-              "name": "hasGenre",
-              "super": [
-                "hasValue"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Genre",
-                "de": "Genre"
+              {
+                "name": "hasPage",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Page",
+                  "de": "Seitenzahl"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "0-1"
               },
-              "gui_element": "Pulldown",
-              "gui_attributes": [
-                "hlist=genre"
-              ],
-              "cardinality": "1-n"
-            },
-            {
-              "name": "hasSubject",
-              "super": [
-                "hasValue"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Subject",
-                "de": "Thema"
+              {
+                "name": "hasPageHist",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Page (historical)",
+                  "de": "Seitenzahl (historisch)"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "0-1"
               },
-              "gui_element": "Pulldown",
-              "gui_attributes": [
-                "hlist=subject"
-              ],
-              "cardinality": "0-n"
-            },
-            {
-              "name": "hasCreationDate",
-              "super": [
-                "hasValue"
-              ],
-              "object": "DateValue",
-              "labels": {
-                "en": "Creation date",
-                "de": "Erstellungsdatum"
+              {
+                "name": "hasResearchField",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "ListValue",
+                "labels": {
+                  "en": "Research field",
+                  "de": "Research field"
+                },
+                "gui_element": "Pulldown",
+                "gui_attributes": [
+                  "hlist=researchField"
+                ],
+                "cardinality": "1"
               },
-              "gui_element": "Date",
-              "cardinality": "1"
-            },
-            {
-              "name": "hasPublicationDate",
-              "super": [
-                "hasValue"
-              ],
-              "object": "DateValue",
-              "labels": {
-                "en": "Publication date",
-                "de": "Veröffentlichungsdatum"
+              {
+                "name": "hasFunctionVoice",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "ListValue",
+                "labels": {
+                  "en": "Function voice",
+                  "de": "Funktion"
+                },
+                "gui_element": "Pulldown",
+                "gui_attributes": [
+                  "hlist=functionVoice"
+                ],
+                "cardinality": "1-n"
               },
-              "gui_element": "Date",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasFirstPerformanceDate",
-              "super": [
-                "hasValue"
-              ],
-              "object": "DateValue",
-              "labels": {
-                "en": "First performance date",
-                "de": "Erstaufführungsdatum"
+              {
+                "name": "hasMarking",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "ListValue",
+                "labels": {
+                  "en": "Marking",
+                  "de": "Markierung"
+                },
+                "gui_element": "Pulldown",
+                "gui_attributes": [
+                  "hlist=marking"
+                ],
+                "cardinality": "1-n"
               },
-              "gui_element": "Date",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasBookComment",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Book comment",
-                "de": "Buchkommentar"
+              {
+                "name": "hasStatus",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "ListValue",
+                "labels": {
+                  "en": "Status",
+                  "de": "Status"
+                },
+                "gui_element": "Pulldown",
+                "gui_attributes": [
+                  "hlist=status"
+                ],
+                "cardinality": "1"
               },
-              "gui_element": "Textarea",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "isWrittenBy",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:person",
-              "labels": {
-                "en": "is written by",
-                "de": "wurde geschrieben von"
+              {
+                "name": "hasInternalComment",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Internal comment",
+                  "de": "Interner Kommentar"
+                },
+                "gui_element": "Textarea",
+                "cardinality": "0-1"
               },
-              "gui_element": "Searchbox",
-              "cardinality": "1-n"
-            },
-            {
-              "name": "performedBy",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:company",
-              "labels": {
-                "en": "performed by",
-                "de": "gespielt von"
+              {
+                "name": "hasPassageComment",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Passage comment",
+                  "de": "Passage Kommentar"
+                },
+                "gui_element": "Textarea",
+                "cardinality": "0-1"
               },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "performedIn",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:venue",
-              "labels": {
-                "en": "performed in",
-                "de": "gespielt in"
+              {
+                "name": "occursIn",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:book",
+                "labels": {
+                  "en": "occurs in",
+                  "de": "kommt vor in"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "1-n"
               },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "isLexiaBook",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:lexia",
-              "labels": {
-                "en": "lexia book",
-                "de": "Lexia Buch"
+              {
+                "name": "isMentionedIn",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:passage",
+                "labels": {
+                  "en": "mentioned in",
+                  "de": "erwähnt in"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "0-n"
               },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "hasBookExtraInfo",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Extra info for book",
-                "de": "Zusatzinfo für Buch"
+              {
+                "name": "wasContributedBy",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:person",
+                "labels": {
+                  "en": "was contributed by",
+                  "de": "mitgewirkt von"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "1"
               },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=128"
-              ],
-              "cardinality": "0-1"
-            }
-          ]
-        },
-        {
-          "name": "passage",
-          "super": "Resource",
-          "labels": {
-            "en": "Passage",
-            "de": "Passage"
+              {
+                "name": "contains",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:lexia",
+                "labels": {
+                  "en": "contains",
+                  "de": "beinhaltet"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "0-n"
+              },
+              {
+                "name": "hasPassageExtraInfo",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Extra info for passage",
+                  "de": "Zusatzinfo für Passage"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=128"
+                ],
+                "cardinality": "0-1"
+              }
+            ]
           },
-          "comments": {
-            "en": "Represents a passage from a book",
-            "de": "Repräsentiert eine Passage aus einem Buch"
+          {
+            "name": "lexia",
+            "super": "Resource",
+            "labels": {
+              "en": "Lexia",
+              "de": "Lexia"
+            },
+            "comments": {
+              "en": "Represents a lexia",
+              "de": "Repräsentiert eine Lexia"
+            },
+            "properties": [
+              {
+                "name": "hasLexiaInternalId",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Internal Id",
+                  "de": "Interne Id"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "1"
+              },
+              {
+                "name": "hasLexiaTitle",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Lexia title",
+                  "de": "Lexiatitel"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "1"
+              },
+              {
+                "name": "hasLexiaDisplayedTitle",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Displayed lexia title",
+                  "de": "Angezeigter lexia Title"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "0-1"
+              },
+              {
+                "name": "hasFormalClass",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "ListValue",
+                "labels": {
+                  "en": "Formal class",
+                  "de": "Formale Klasse"
+                },
+                "gui_element": "Pulldown",
+                "gui_attributes": [
+                  "hlist=formalClass"
+                ],
+                "cardinality": "1-n"
+              },
+              {
+                "name": "hasImage",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "ListValue",
+                "labels": {
+                  "en": "Image",
+                  "de": "Bilder"
+                },
+                "gui_element": "Pulldown",
+                "gui_attributes": [
+                  "hlist=image"
+                ],
+                "cardinality": "0-n"
+              },
+              {
+                "name": "hasLexiaExtraInfo",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Extra info for lexia",
+                  "de": "Zusatzinfo für Lexia"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=128"
+                ],
+                "cardinality": "0-1"
+              }
+            ]
           },
-          "properties": [
-            {
-              "name": "hasText",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Text",
-                "de": "Text"
-              },
-              "gui_element": "Textarea",
-              "cardinality": "1"
+          {
+            "name": "company",
+            "super": "Resource",
+            "labels": {
+              "en": "Company",
+              "de": "Theatergruppe"
             },
-            {
-              "name": "hasTextHist",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Historical text",
-                "de": "Historischer Text"
-              },
-              "gui_element": "Textarea",
-              "cardinality": "0-1"
+            "comments": {
+              "en": "Represents a company",
+              "de": "Repräsentiert eine Theatergruppe"
             },
-            {
-              "name": "hasDisplayedTitle",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Displayed title",
-                "de": "Angezeigter Title"
+            "properties": [
+              {
+                "name": "hasCompanyInternalId",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Internal Id",
+                  "de": "Interne Id"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "1"
               },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "1"
-            },
-            {
-              "name": "hasPage",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Page",
-                "de": "Seitenzahl"
+              {
+                "name": "hasCompanyTitle",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Company title",
+                  "de": "Theatergruppentitel"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "1"
               },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasPageHist",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Page (historical)",
-                "de": "Seitenzahl (historisch)"
+              {
+                "name": "hasMember",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:person",
+                "labels": {
+                  "en": "Member",
+                  "de": "Mitglieder"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "0-n"
               },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasResearchField",
-              "super": [
-                "hasValue"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Research field",
-                "de": "Research field"
+              {
+                "name": "isLexiaCompany",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:lexia",
+                "labels": {
+                  "en": "Lexia company",
+                  "de": "Lexia Theatergruppe"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "0-n"
               },
-              "gui_element": "Pulldown",
-              "gui_attributes": [
-                "hlist=researchField"
-              ],
-              "cardinality": "1"
-            },
-            {
-              "name": "hasFunctionVoice",
-              "super": [
-                "hasValue"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Function voice",
-                "de": "Funktion"
-              },
-              "gui_element": "Pulldown",
-              "gui_attributes": [
-                "hlist=functionVoice"
-              ],
-              "cardinality": "1-n"
-            },
-            {
-              "name": "hasMarking",
-              "super": [
-                "hasValue"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Marking",
-                "de": "Markierung"
-              },
-              "gui_element": "Pulldown",
-              "gui_attributes": [
-                "hlist=marking"
-              ],
-              "cardinality": "1-n"
-            },
-            {
-              "name": "hasStatus",
-              "super": [
-                "hasValue"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Status",
-                "de": "Status"
-              },
-              "gui_element": "Pulldown",
-              "gui_attributes": [
-                "hlist=status"
-              ],
-              "cardinality": "1"
-            },
-            {
-              "name": "hasInternalComment",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Internal comment",
-                "de": "Interner Kommentar"
-              },
-              "gui_element": "Textarea",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasPassageComment",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Passage comment",
-                "de": "Passage Kommentar"
-              },
-              "gui_element": "Textarea",
-              "cardinality": "0-1"
-            },
-            {
-              "name": "occursIn",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:book",
-              "labels": {
-                "en": "occurs in",
-                "de": "kommt vor in"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "1-n"
-            },
-            {
-              "name": "isMentionedIn",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:passage",
-              "labels": {
-                "en": "mentioned in",
-                "de": "erwähnt in"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "wasContributedBy",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:person",
-              "labels": {
-                "en": "was contributed by",
-                "de": "mitgewirkt von"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "1"
-            },
-            {
-              "name": "contains",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:lexia",
-              "labels": {
-                "en": "contains",
-                "de": "beinhaltet"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "hasPassageExtraInfo",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Extra info for passage",
-                "de": "Zusatzinfo für Passage"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=128"
-              ],
-              "cardinality": "0-1"
-            }
-          ]
-        },
-        {
-          "name": "lexia",
-          "super": "Resource",
-          "labels": {
-            "en": "Lexia",
-            "de": "Lexia"
+              {
+                "name": "hasCompanyExtraInfo",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Extra info for company",
+                  "de": "Zusatzinfo für Theatergruppe"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=128"
+                ],
+                "cardinality": "0-1"
+              }
+            ]
           },
-          "comments": {
-            "en": "Represents a lexia",
-            "de": "Repräsentiert eine Lexia"
-          },
-          "properties": [
-            {
-              "name": "hasLexiaInternalId",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Internal Id",
-                "de": "Interne Id"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "1"
+          {
+            "name": "venue",
+            "super": "Resource",
+            "labels": {
+              "en": "Venue",
+              "de": "Aufführungsort"
             },
-            {
-              "name": "hasLexiaTitle",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Lexia title",
-                "de": "Lexiatitel"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "1"
+            "comments": {
+              "en": "Represents a venue",
+              "de": "Repräsentiert einen Aufführungsort"
             },
-            {
-              "name": "hasLexiaDisplayedTitle",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Displayed lexia title",
-                "de": "Angezeigter lexia Title"
+            "properties": [
+              {
+                "name": "hasVenueInternalId",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Internal Id",
+                  "de": "Interne Id"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=64"
+                ],
+                "cardinality": "1"
               },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "0-1"
-            },
-            {
-              "name": "hasFormalClass",
-              "super": [
-                "hasValue"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Formal class",
-                "de": "Formale Klasse"
+              {
+                "name": "hasPlaceVenue",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "ListValue",
+                "labels": {
+                  "en": "Place Venue",
+                  "de": "Aufführungsort"
+                },
+                "gui_element": "Pulldown",
+                "gui_attributes": [
+                  "hlist=placeVenue"
+                ],
+                "cardinality": "1"
               },
-              "gui_element": "Pulldown",
-              "gui_attributes": [
-                "hlist=formalClass"
-              ],
-              "cardinality": "1-n"
-            },
-            {
-              "name": "hasImage",
-              "super": [
-                "hasValue"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Image",
-                "de": "Bilder"
+              {
+                "name": "isLexiaVenue",
+                "super": [
+                  "hasLinkTo"
+                ],
+                "object": "teimww:lexia",
+                "labels": {
+                  "en": "Lexia venue",
+                  "de": "Lexia Aufführungsort"
+                },
+                "gui_element": "Searchbox",
+                "cardinality": "0-n"
               },
-              "gui_element": "Pulldown",
-              "gui_attributes": [
-                "hlist=image"
-              ],
-              "cardinality": "0-n"
-            },
-            {
-              "name": "hasLexiaExtraInfo",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Extra info for lexia",
-                "de": "Zusatzinfo für Lexia"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=128"
-              ],
-              "cardinality": "0-1"
-            }
-          ]
-        },
-        {
-          "name": "company",
-          "super": "Resource",
-          "labels": {
-            "en": "Company",
-            "de": "Theatergruppe"
-          },
-          "comments": {
-            "en": "Represents a company",
-            "de": "Repräsentiert eine Theatergruppe"
-          },
-          "properties": [
-            {
-              "name": "hasCompanyInternalId",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Internal Id",
-                "de": "Interne Id"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "1"
-            },
-            {
-              "name": "hasCompanyTitle",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Company title",
-                "de": "Theatergruppentitel"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "1"
-            },
-            {
-              "name": "hasMember",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:person",
-              "labels": {
-                "en": "Member",
-                "de": "Mitglieder"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "isLexiaCompany",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:lexia",
-              "labels": {
-                "en": "Lexia company",
-                "de": "Lexia Theatergruppe"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "hasCompanyExtraInfo",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Extra info for company",
-                "de": "Zusatzinfo für Theatergruppe"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=128"
-              ],
-              "cardinality": "0-1"
-            }
-          ]
-        },
-        {
-          "name": "venue",
-          "super": "Resource",
-          "labels": {
-            "en": "Venue",
-            "de": "Aufführungsort"
-          },
-          "comments": {
-            "en": "Represents a venue",
-            "de": "Repräsentiert einen Aufführungsort"
-          },
-          "properties": [
-            {
-              "name": "hasVenueInternalId",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Internal Id",
-                "de": "Interne Id"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=64"
-              ],
-              "cardinality": "1"
-            },
-            {
-              "name": "hasPlaceVenue",
-              "super": [
-                "hasValue"
-              ],
-              "object": "ListValue",
-              "labels": {
-                "en": "Place Venue",
-                "de": "Aufführungsort"
-              },
-              "gui_element": "Pulldown",
-              "gui_attributes": [
-                "hlist=placeVenue"
-              ],
-              "cardinality": "1"
-            },
-            {
-              "name": "isLexiaVenue",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:lexia",
-              "labels": {
-                "en": "Lexia venue",
-                "de": "Lexia Aufführungsort"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
-              "name": "hasVenueExtraInfo",
-              "super": [
-                "hasValue"
-              ],
-              "object": "TextValue",
-              "labels": {
-                "en": "Extra info for venue",
-                "de": "Zusatzinfo für Aufführungsort"
-              },
-              "gui_element": "SimpleText",
-              "gui_attributes": [
-                "size=24",
-                "maxlength=128"
-              ],
-              "cardinality": "0-1"
-            }
-          ]
-        }
-      ]
-    }
+              {
+                "name": "hasVenueExtraInfo",
+                "super": [
+                  "hasValue"
+                ],
+                "object": "TextValue",
+                "labels": {
+                  "en": "Extra info for venue",
+                  "de": "Zusatzinfo für Aufführungsort"
+                },
+                "gui_element": "SimpleText",
+                "gui_attributes": [
+                  "size=24",
+                  "maxlength=128"
+                ],
+                "cardinality": "0-1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 }

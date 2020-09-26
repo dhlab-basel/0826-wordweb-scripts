@@ -123,9 +123,9 @@
     "venueInternalId": "#008031",
     "hasPlaceVenue": "Capitol"
   },
-  "ww_e66b9e6d4b5ab378": {
+  "ww_4ba7f896189dc42b": {
     "venueInternalId": "#008032",
-    "hasPlaceVenue": "Gray's Inn at Greenwich Palace"
+    "hasPlaceVenue": "Greenwich Palace"
   },
   "ww_6f09b13a5da5097f": {
     "venueInternalId": "#008033",
@@ -182,5 +182,25 @@
   "ww_f69737d3276ca2cf": {
     "venueInternalId": "#008047",
     "hasPlaceVenue": "Thomas Cranmers House"
+  },
+  "ww_33a07aeb4029717d": {
+    "venueInternalId": "#008048",
+    "hasPlaceVenue": "Aldgate"
+  },
+  "ww_31a7f12aa61db89b": {
+    "venueInternalId": "#008049",
+    "hasPlaceVenue": "Islington"
+  },
+  "ww_746dc249e1606dc9": {
+    "venueInternalId": "#008050",
+    "hasPlaceVenue": "Unknown location"
+  },
+  "ww_641ee71af888ad03": {
+    "venueInternalId": "#008051",
+    "hasPlaceVenue": "St. Paul's Playhouse"
+  },
+  "ww_cd9e1015cb68a181": {
+    "venueInternalId": "#008052",
+    "hasPlaceVenue": "Abingdon"
   }
 }
