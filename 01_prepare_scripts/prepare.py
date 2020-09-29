@@ -916,6 +916,9 @@ def start():
                                 # Checks if author_id is valid
                                 if actor_id in allAuthors:
                                     update_actor(actor_id, book_id)
+                                else:
+                                    print("FAIL Actor", actor_id, actor, row[14])
+                                    raise SystemExit(0)
 
                     line += 1
 
