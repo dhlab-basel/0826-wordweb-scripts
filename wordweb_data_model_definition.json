@@ -1410,24 +1410,10 @@
             }
           },
           {
-            "name": "check",
+            "name": "public",
             "labels": {
-              "de": "???",
-              "en": "check"
-            }
-          },
-          {
-            "name": "weak",
-            "labels": {
-              "de": "???",
-              "en": "weak"
-            }
-          },
-          {
-            "name": "plausible",
-            "labels": {
-              "de": "???",
-              "en": "plausible"
+              "de": "öffentlich",
+              "en": "public"
             }
           }
         ]
