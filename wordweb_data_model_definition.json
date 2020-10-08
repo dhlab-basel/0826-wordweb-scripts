@@ -37,6 +37,13 @@
               "de": "Weiblich",
               "en": "Female"
             }
+          },
+          {
+            "name": "not specified",
+            "labels": {
+              "de": "Nicht spezifiziert",
+              "en": "not specified"
+            }
           }
         ]
       },
