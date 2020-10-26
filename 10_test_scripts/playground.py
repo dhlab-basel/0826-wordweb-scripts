@@ -2,13 +2,15 @@
 
 import random
 import re
-import sys
+# import sys
 # defining path for module imports
-sys.path.append("modules/")
+# sys.path.append("modules/")
 # preparation for lexias
 # import prep_lexias
 
-
+# import sys
+# sys.path.append("01_prepare_scripts/modules/")
+# import json_handler as json
 
 # import prep_edition
 
@@ -128,8 +130,42 @@ sys.path.append("modules/")
 
 # -----------------
 
-start = 7100
+# start = 7100
+#
+# id = "&00" + str(start + 1)
+#
+# print(id, type(id), type(start))
 
-id = "&00" + str(start + 1)
+# ----------------- Search for passages with more than one lexia
 
-print(id, type(id), type(start))
+# allPassages = {}
+# allLexias = {}
+#
+# passages = []
+#
+# try:
+#     with open('../00_data_as_json/passage.json') as passages_file:
+#         allPassages = json.load(passages_file)
+#
+#     with open('../00_data_as_json/lexia.json') as lexias_file:
+#         allLexias = json.load(lexias_file)
+#
+#     counter = 0
+#     for passage_id in allPassages:
+#         if "contains" in allPassages[passage_id]:
+#             # print(passages[passage_id]["contains"])
+#             if len(allPassages[passage_id]["contains"]) > 1:
+#                 passage = {}
+#                 print(allPassages[passage_id]["hasText"])
+#                 counter = counter + 1
+#                 passage["text"] = allPassages[passage_id]["hasText"]
+#
+#                 passages.append(passage)
+#
+#                 json.save("passages_with_lexias.json", passages)
+#
+#     print(counter)
+#
+# except Exception as err:
+#     print(err, "Import Fail")
+#     raise SystemExit(0)
