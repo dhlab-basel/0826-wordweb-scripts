@@ -9,6 +9,8 @@ import csv
 import helper_edition as ed
 # my id generator
 import id_generator as id
+# prefix of title
+import helper_prefix as pref
 
 
 def prepare():
@@ -39,7 +41,7 @@ def prepare():
                     # id of the linecategory row in table
                     # print("SEC ID: " + books.group(1) + " | SEC TITLE: " + sec.group(1))
                     book["hasBookInternalId"] = books.group(1)
-                    book["hasBookTitle"] = sec.group(1)
+                    book = pref.get_prefix_book(sec.group(1), book)
 
                     # Create a key which has the following format {internalID}
                     unique_key = book["hasBookInternalId"]
@@ -82,9 +84,11 @@ def prepare_csv():
                     sec_books = re.search("(@\d{6})\sSEC\s\-\s(.*)", row[13])
                     if sec_books:
                         sec_book["hasBookInternalId"] = sec_books.group(1)
-                        sec_book["hasBookTitle"] = sec_books.group(2)
-                        sec_book["hasDisplayedTitle"] = row[3]
                         sec_book["hasLanguage"] = row[9]
+                        # Gets book title and its prefix
+                        sec_book = pref.get_prefix_book(sec_books.group(2), sec_book)
+                        # Gets displayed title and its prefix (-> for all the sec passages the same)
+                        sec_book = pref.get_prefix_passage(row[3], sec_book)
 
                         s = ed.info(row[4])
                         sec_book["pubInfo"] = s["pubInfo"]

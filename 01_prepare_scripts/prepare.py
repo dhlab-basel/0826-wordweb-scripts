@@ -17,6 +17,8 @@ import helper_comp_venue as comp_ven
 import helper_passage as pas
 # helper for comments
 import helper_comment as comment
+# prefix of title
+import helper_prefix as pref
 # my id generator
 import id_generator as id
 # my json handler
@@ -171,6 +173,9 @@ def create_book(b_id, data_row, pub_info, pub_or_info, dates):
         "hasLanguage": data_row[9]
     }
 
+    if "hasPrefixBookTitle" in allBooks[b_id]:
+        book["hasPrefixBookTitle"] = allBooks[b_id]["hasPrefixBookTitle"]
+
     if data_row[5] and data_row[6]:
         if int(data_row[5]) < 1000:
             book["hasCreationDate"] = "GREGORIAN:1000:1000"
@@ -269,6 +274,9 @@ def create_sec_book(sec_b_id, pub_info):
         "hasLanguage": pub_info["hasLanguage"]
     }
 
+    if "hasPrefixBookTitle" in allSecBooks[sec_b_id]:
+        book["hasPrefixBookTitle"] = allSecBooks[sec_b_id]["hasPrefixBookTitle"]
+
     if "hasCreationDate" in pub_info and "hasPublicationDate" in pub_info:
         book["hasCreationDate"] = pub_info["hasCreationDate"]
         book["hasPublicationDate"] = pub_info["hasPublicationDate"]
@@ -308,7 +316,10 @@ def create_passage(pa_id, dis_tit, text, text_or, pub, pub_or):
     }
 
     if dis_tit:
-        passage["hasDisplayedTitle"] = dis_tit
+        passage["hasDisplayedTitle"] = dis_tit["hasDisplayedTitle"]
+
+        if "hasPrefixDisplayedTitle" in dis_tit:
+            passage["hasPrefixDisplayedTitle"] = dis_tit["hasPrefixDisplayedTitle"]
 
     if text_or:
         passage["hasTextHist"] = text_or
@@ -365,10 +376,10 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, mar
             passages[pa_id]["hasPassageComment"] = com["hasPassageComment"]
 
 
-def create_sec_passage(sec_pa_id, pag, dis_tit):
+def create_sec_passage(sec_pa_id, pag, sec_bo):
     passage = {
         "hasText": "-",
-        "hasDisplayedTitle": dis_tit,
+        "hasDisplayedTitle": sec_bo["hasDisplayedTitle"],
         "hasPage": pag,
         "hasResearchField": ["Reading"],
         "hasFunctionVoice": ["Not defined"],
@@ -376,6 +387,9 @@ def create_sec_passage(sec_pa_id, pag, dis_tit):
         "hasStatus": "public",
         "occursIn": []
     }
+
+    if "hasPrefixDisplayedTitle" in sec_bo:
+        passage["hasPrefixDisplayedTitle"] = sec_bo["hasPrefixDisplayedTitle"]
 
     # Set Regula Hohl as default contributor
     id_rh = id.generate("Hohl Regula")
@@ -696,12 +710,22 @@ def start():
                         update_book(book_id, names, publication, None, None, row[18], None, None, comments)
 
                         # ------------- PASSAGE
-                        # generates passage id
-                        passage_id = id.generate(row[10])
+
+                        # ##### Variant 1 (old) #####
+                        # Generates passage id
+                        # passage_id = id.generate(row[10])
+
+                        # ##### Variant 2 (new) #####
+                        # Generates passage id with random generator
+                        unique_key = random.randint(1000000, 9999999)
+                        passage_id = id.generate(str(unique_key))
+
+                        # Extracts displayed title and prefix
+                        pass_title = pref.get_prefix_passage(row[3], {})
 
                         # Creates the passage and updates the edition reference
                         if passage_id not in passages:
-                            create_passage(passage_id, row[3], row[10], row[25], publication, publication_original)
+                            create_passage(passage_id, pass_title, row[10], row[25], publication, publication_original)
 
                         # Updates the book reference and passage comment
                         update_passage(passage_id, book_id, None, None, None, None, None, None, comments)
@@ -811,7 +835,7 @@ def start():
                             unique_key = random.randint(100000, 999999)
                             sec_passage_id = id.generate(str(unique_key))
 
-                            create_sec_passage(sec_passage_id, sec_book["page"], s_book["hasDisplayedTitle"])
+                            create_sec_passage(sec_passage_id, sec_book["page"], s_book)
                             update_sec_passage(sec_passage_id, sec_book_id)
                             update_passage(passage_id, None, None, sec_passage_id, None, None, None, None, None)
 

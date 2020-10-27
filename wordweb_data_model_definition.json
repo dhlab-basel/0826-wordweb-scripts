@@ -2148,6 +2148,23 @@
               "cardinality": "1"
             },
             {
+              "name": "hasPrefixBookTitle",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Prefix book title",
+                "de": "Präfix Buchtitel"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=32"
+              ],
+              "cardinality": "0-1"
+            },
+            {
               "name": "hasEdition",
               "super": [
                 "hasValue"
@@ -2398,6 +2415,23 @@
                 "maxlength=64"
               ],
               "cardinality": "1"
+            },
+            {
+              "name": "hasPrefixDisplayedTitle",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Prefix displayed title",
+                "de": "Präfix des angezeigten Titels"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=32"
+              ],
+              "cardinality": "0-1"
             },
             {
               "name": "hasPage",
