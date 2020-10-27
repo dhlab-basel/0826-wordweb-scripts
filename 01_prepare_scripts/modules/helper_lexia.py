@@ -12,7 +12,7 @@ formClass_structure = {
             "Pu": "Pun",
             "Sn": "Snowclone",
             "Kw": "Keywords",
-            "Sp": "Setpiece"
+            "Cl": "Cluster"
         }
     },
     "Na": {
@@ -33,19 +33,7 @@ formClass_structure = {
             "Id": "Idea",
             "Me": "Plot element",
             "Mi": "Visual motif",
-            "Pl": "Complete plot",
             "Sc": "Scene"
-        }
-    },
-    "Cu": {
-        "value": "Cluster",
-        "child": {
-            "Ti": "Tiger cluster",
-            "Do": "Dog cluster",
-            "Pi": "Pillow cluster",
-            "Bt": "Blot cluster",
-            "Ki": "Kite cluster",
-            "Wa": "Wax cluster"
         }
     }
 }

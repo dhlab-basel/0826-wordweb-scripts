@@ -1164,6 +1164,13 @@
     "hasGender": "male",
     "sql": 986
   },
+  "ww_c7fa9dbc969a5ed4": {
+    "hasFirstName": "_",
+    "hasLastName": "Augustus_",
+    "hasDescription": "Roman emperor 63 BC-14 AD",
+    "hasGender": "male",
+    "sql": 4700
+  },
   "ww_ab4b799342981207": {
     "hasFirstName": "Joseph",
     "hasLastName": "Auslander",
@@ -2676,13 +2683,6 @@
     "hasDescription": "U.S. theologian",
     "hasGender": "male",
     "sql": 1805
-  },
-  "ww_2044141f05be1d1c": {
-    "hasFirstName": "Philippe de",
-    "hasLastName": "B\u00e9thune",
-    "hasDescription": "French diplomat 1566\u20131649",
-    "hasGender": "male",
-    "sql": 4418
   },
   "ww_48af69f0100590df": {
     "hasFirstName": "Don",
@@ -10991,7 +10991,7 @@
     "hasFirstName": "Herbert",
     "hasLastName": "Fritsch",
     "birthExact": "1951",
-    "hasDescription": "German actor and Shakespeare devotee",
+    "hasDescription": "German actor",
     "hasGender": "male",
     "sql": 38
   },
@@ -11133,14 +11133,6 @@
     "hasDescription": "English (?) anthologist",
     "hasGender": "male",
     "sql": 4416
-  },
-  "ww_cb5d9718ccb90165": {
-    "hasFirstName": "E.",
-    "hasLastName": "G.",
-    "activeExact": "1634",
-    "hasDescription": "English (?) translator",
-    "hasGender": "male",
-    "sql": 4419
   },
   "ww_ed92f06d21f166e9": {
     "hasFirstName": "_",
@@ -11353,15 +11345,6 @@
     "hasDescription": "U.S. novelist and dramatist",
     "hasGender": "male",
     "sql": 4090
-  },
-  "ww_f0a6ced69b05e50a": {
-    "hasFirstName": "George",
-    "hasLastName": "Gascoigne",
-    "birthExact": "1535",
-    "deathExact": "1577",
-    "hasDescription": "English poet",
-    "hasGender": "male",
-    "sql": 4374
   },
   "ww_7239cbf52fc53e3f": {
     "hasFirstName": "Peter",
@@ -13010,7 +12993,7 @@
     "hasLastName": "Halliday",
     "birthExact": "1903",
     "deathExact": "1982",
-    "hasDescription": "English academic and Shakespeare specialist",
+    "hasDescription": "English academic",
     "hasGender": "male",
     "sql": 1353
   },
@@ -13027,7 +13010,7 @@
     "hasFirstName": "Geri",
     "hasLastName": "Halliwell",
     "birthExact": "1972",
-    "hasDescription": "English pop singer , real name Geraldine Estelle Halliwell",
+    "hasDescription": "English pop singer , full name Geraldine Estelle Halliwell",
     "hasGender": "male",
     "sql": 2262
   },
@@ -13036,7 +13019,7 @@
     "hasLastName": "Halliwell-Phillipps",
     "birthExact": "1820",
     "deathExact": "1889",
-    "hasDescription": "English Shakespeare scholar",
+    "hasDescription": "English scholar",
     "hasGender": "male",
     "sql": 4118
   },
@@ -16149,15 +16132,6 @@
     "hasGender": "male",
     "sql": 15
   },
-  "ww_80a6c20cb9aa13fb": {
-    "hasFirstName": "Richard",
-    "hasLastName": "Johnson",
-    "birthExact": "1573",
-    "deathExact": "1659",
-    "hasDescription": "English romance writer",
-    "hasGender": "male",
-    "sql": 4417
-  },
   "ww_94b5311511aea44d": {
     "hasFirstName": "Nicholas",
     "hasLastName": "Johnson",
@@ -16186,7 +16160,7 @@
     "hasFirstName": "Robin",
     "hasLastName": "Johnson",
     "activeExact": "2003",
-    "hasDescription": "Scottish programmer and Shakespeare devotee",
+    "hasDescription": "Scottish programmer",
     "hasGender": "male",
     "sql": 1018
   },
@@ -16388,6 +16362,15 @@
     "hasDescription": "English dramatist and poet",
     "hasGender": "male",
     "sql": 300
+  },
+  "ww_ebace5dedf2fba51": {
+    "hasFirstName": "Thomas",
+    "hasLastName": "Jordan",
+    "birthExact": "1612",
+    "deathExact": "1683",
+    "hasDescription": "English dramatist and poet",
+    "hasGender": "male",
+    "sql": 4698
   },
   "ww_ea90e1c76029f901": {
     "hasFirstName": "Robert",
@@ -19894,6 +19877,15 @@
     "hasGender": "male",
     "sql": 2217
   },
+  "ww_b06a0000dc2566c3": {
+    "hasFirstName": "Thomas",
+    "hasLastName": "Malory",
+    "birthExact": "1415",
+    "deathExact": "1471",
+    "hasDescription": "English novelist",
+    "hasGender": "male",
+    "sql": 4699
+  },
   "ww_46ee624c65988530": {
     "hasFirstName": "Eric Lawson",
     "hasLastName": "Malpass",
@@ -20441,7 +20433,7 @@
   "ww_61be1f51760786a4": {
     "hasFirstName": "_",
     "hasLastName": "Maximianus",
-    "hasDescription": "Roman elegiac poet fl. 550",
+    "hasDescription": "Roman elegiac poet fl. 550 AD",
     "hasGender": "male",
     "sql": 4581
   },
@@ -23372,6 +23364,15 @@
     "hasGender": "male",
     "sql": 2851
   },
+  "ww_3f7dd36c08e6f322": {
+    "hasFirstName": "Samuel",
+    "hasLastName": "Palmer",
+    "birthExact": "1805",
+    "deathExact": "1881",
+    "hasDescription": "English painter",
+    "hasGender": "male",
+    "sql": 4697
+  },
   "ww_2673790d9dfba787": {
     "hasFirstName": "John, Jun.",
     "hasLastName": "Palmer",
@@ -24243,6 +24244,13 @@
     "hasDescription": "English composer and actor",
     "hasGender": "male",
     "sql": 348
+  },
+  "ww_1747b083068a0521": {
+    "hasFirstName": "_",
+    "hasLastName": "Pindar",
+    "hasDescription": "Greek poet 518BC-438 BC",
+    "hasGender": "male",
+    "sql": 4704
   },
   "ww_32832daa1648f725": {
     "hasFirstName": "Peter",
@@ -26695,6 +26703,13 @@
     "hasGender": "male",
     "sql": 3903
   },
+  "ww_38d785683133bbfe": {
+    "hasFirstName": "Gaius ",
+    "hasLastName": "Sallustius Crispus",
+    "hasDescription": "Roman 86-35 BC)",
+    "hasGender": "male",
+    "sql": 4701
+  },
   "ww_0a2f0e0d624145be": {
     "hasFirstName": "Matthew",
     "hasLastName": "Salsberg",
@@ -28438,6 +28453,15 @@
     "hasGender": "male",
     "sql": 3678
   },
+  "ww_ef61a579c907bbed": {
+    "hasFirstName": "John",
+    "hasLastName": "Smith",
+    "birthExact": "1580",
+    "deathExact": "1631",
+    "hasDescription": "English explorer",
+    "hasGender": "male",
+    "sql": 4709
+  },
   "ww_c84b4959dfc08d04": {
     "hasFirstName": "James",
     "hasLastName": "Smith",
@@ -28547,8 +28571,8 @@
     "hasGender": "male",
     "sql": 1773
   },
-  "ww_ef61a579c907bbed": {
-    "hasFirstName": "John",
+  "ww_7c274a58689a8e21": {
+    "hasFirstName": "John2",
     "hasLastName": "Smith",
     "birthExact": "1618",
     "deathExact": "1652",
@@ -29431,6 +29455,16 @@
     "hasGender": "male",
     "sql": 2027
   },
+  "ww_7a90ce93deecfece": {
+    "hasFirstName": "John",
+    "hasLastName": "Stow",
+    "birthStart": "1524",
+    "birthEnd": "1525",
+    "deathExact": "1605",
+    "hasDescription": "English historian",
+    "hasGender": "male",
+    "sql": 4708
+  },
   "ww_ac2b4aff2c8bf568": {
     "hasFirstName": "Harriet Beecher",
     "hasLastName": "Stowe",
@@ -29439,6 +29473,15 @@
     "hasDescription": "U.S. novelist",
     "hasGender": "male",
     "sql": 2966
+  },
+  "ww_d1feae78d60ed580": {
+    "hasFirstName": "William",
+    "hasLastName": "Strachey",
+    "birthExact": "1572",
+    "deathExact": "1621",
+    "hasDescription": "English writer",
+    "hasGender": "male",
+    "sql": 4707
   },
   "ww_6187a7b9e102100a": {
     "hasFirstName": "J. Michael",
@@ -30176,6 +30219,13 @@
     "hasDescription": "English dramatist",
     "hasGender": "male",
     "sql": 1162
+  },
+  "ww_8c83d48eb57721b4": {
+    "hasFirstName": "_",
+    "hasLastName": "Theocritus",
+    "hasDescription": "Sicilian-born Greek poet b. 300 BC",
+    "hasGender": "male",
+    "sql": 4705
   },
   "ww_5c457a80146e915d": {
     "hasFirstName": "Angela",
@@ -31235,6 +31285,23 @@
     "hasGender": "male",
     "sql": 2848
   },
+  "ww_90cec0c5872ecefc": {
+    "hasFirstName": "Alden T.",
+    "hasLastName": "Vaughan",
+    "birthExact": "1929",
+    "hasDescription": "U.S. historian",
+    "hasGender": "male",
+    "sql": 4702
+  },
+  "ww_658813ed197adee6": {
+    "hasFirstName": "Virginia Mason",
+    "hasLastName": "Vaughan",
+    "birthStart": "1944",
+    "birthEnd": "1948",
+    "hasDescription": "U.S. academic",
+    "hasGender": "female",
+    "sql": 4703
+  },
   "ww_b853634806a1c06b": {
     "hasFirstName": "Tom",
     "hasLastName": "Vaughan",
@@ -32017,6 +32084,14 @@
     "hasDescription": "Austrian-U.S. psychologist",
     "hasGender": "male",
     "sql": 152
+  },
+  "ww_efccd2be473c2748": {
+    "hasFirstName": "William",
+    "hasLastName": "Webbe",
+    "activeExact": "1568",
+    "hasDescription": "English critic and translator \u20131591",
+    "hasGender": "male",
+    "sql": 4706
   },
   "ww_4ad51cec1296670d": {
     "hasFirstName": "Joan",

@@ -30,65 +30,79 @@
   "ww_e3d06d88eb4427b0": {
     "hasFirstName": "Nickie",
     "hasLastName": "Tryfona",
-    "hasPersonInternalId": "#007166",
+    "hasPersonInternalId": "#007168",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_6202c1bb6957c9cc": {
     "hasFirstName": "Martin",
     "hasLastName": "Danneck",
-    "hasPersonInternalId": "#007190",
+    "hasPersonInternalId": "#007192",
     "hasGender": "male",
     "hasDescription": "_"
   },
   "ww_b98e7021b3193ae3": {
     "hasFirstName": "Stefan",
     "hasLastName": "Kristmann",
-    "hasPersonInternalId": "#007202",
+    "hasPersonInternalId": "#007204",
     "hasGender": "male",
     "hasDescription": "_"
   },
   "ww_b05ab3db9fd9054a": {
     "hasFirstName": "Christian",
     "hasLastName": "Gebhard",
-    "hasPersonInternalId": "#007219",
+    "hasPersonInternalId": "#007221",
     "hasGender": "male",
     "hasDescription": "Swiss journalist"
   },
   "ww_5fbb1eab1b30dfee": {
     "hasFirstName": "Sixta",
     "hasLastName": "Quassdorf",
-    "hasPersonInternalId": "#007252",
+    "hasPersonInternalId": "#007254",
     "hasGender": "female",
     "hasDescription": "German academic b. 1964"
   },
   "ww_bff7390e4e734f4c": {
     "hasFirstName": "Olivia",
     "hasLastName": "Rottmann",
-    "hasPersonInternalId": "#007261",
+    "hasPersonInternalId": "#007263",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_6965a91ff78934d7": {
     "hasFirstName": "Rene",
     "hasLastName": "Wallrodt",
-    "hasPersonInternalId": "#007262",
+    "hasPersonInternalId": "#007264",
     "hasGender": "male",
     "hasDescription": "_"
   },
   "ww_d5030ba888f64f29": {
     "hasFirstName": "Gustavo",
     "hasLastName": "Grandi de Souza",
-    "hasPersonInternalId": "#007347",
+    "hasPersonInternalId": "#007345",
     "hasGender": "male",
+    "hasDescription": "_"
+  },
+  "ww_ed301e67a0aa3373": {
+    "hasFirstName": "Sidi",
+    "hasLastName": "Feng",
+    "hasPersonInternalId": "#007346",
+    "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_72ab59d77214a6f8": {
     "hasFirstName": "Chantal",
     "hasLastName": "Battilana",
-    "hasPersonInternalId": "#007357",
+    "hasPersonInternalId": "#007356",
     "hasGender": "female",
     "hasDescription": "_"
+  },
+  "ww_7583407a4cfdb115": {
+    "hasFirstName": "L\u00e9a",
+    "hasLastName": "Gb\u00e9assor",
+    "hasPersonInternalId": "#007410",
+    "hasGender": "female",
+    "hasDescription": "-"
   },
   "ww_caa8f9e4a628f638": {
     "hasFirstName": "Balz",
@@ -97,39 +111,151 @@
     "hasGender": "male",
     "hasDescription": "Swiss academic b. 1944"
   },
+  "ww_ee1caaaccfc8dc13": {
+    "hasFirstName": "Philipp",
+    "hasLastName": "Makowski",
+    "hasPersonInternalId": "#007450",
+    "hasGender": "male",
+    "hasDescription": "-"
+  },
   "ww_89c0be6dd7262995": {
     "hasFirstName": "Vea-Murguia",
     "hasLastName": "Thomson",
-    "hasPersonInternalId": "#007452",
+    "hasPersonInternalId": "#007454",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_ad4ed5850132d51e": {
     "hasFirstName": "Eftychia",
     "hasLastName": "Fountoulakis",
-    "hasPersonInternalId": "#007483",
+    "hasPersonInternalId": "#007485",
     "hasGender": "female",
     "hasDescription": "_"
+  },
+  "ww_66ce392812a6d055": {
+    "hasFirstName": "Jitesh",
+    "hasLastName": "Patel",
+    "hasPersonInternalId": "#007487",
+    "hasGender": "male",
+    "hasDescription": "-"
   },
   "ww_f4d0b9d33729f20b": {
     "hasFirstName": "Elisabeth",
     "hasLastName": "M\u00e4der",
-    "hasPersonInternalId": "#007563",
+    "hasPersonInternalId": "#007567",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_35a6e7ed40edeab8": {
     "hasFirstName": "Carol",
     "hasLastName": "Leininger",
-    "hasPersonInternalId": "#007693",
+    "hasPersonInternalId": "#007696",
     "hasGender": "female",
     "hasDescription": "_"
+  },
+  "ww_54240ea41b863ac9": {
+    "hasFirstName": "Noa",
+    "hasLastName": "Br\u00fctsch",
+    "hasPersonInternalId": "#007729",
+    "hasGender": "male",
+    "hasDescription": "-"
+  },
+  "ww_3c6c9544e15931d4": {
+    "hasFirstName": "Marina",
+    "hasLastName": "Haq",
+    "hasPersonInternalId": "#007737",
+    "hasGender": "female",
+    "hasDescription": "-"
+  },
+  "ww_5b53b7e86f008542": {
+    "hasFirstName": "Michelle",
+    "hasLastName": "Bernet",
+    "hasPersonInternalId": "#007765",
+    "hasGender": "female",
+    "hasDescription": "-"
+  },
+  "ww_460bf43737c05835": {
+    "hasFirstName": "Karin",
+    "hasLastName": "Putzi",
+    "hasPersonInternalId": "#007791",
+    "hasGender": "female",
+    "hasDescription": "-"
+  },
+  "ww_144b2da3b1a4e4c7": {
+    "hasFirstName": "Beatrice",
+    "hasLastName": "Montedoro",
+    "hasPersonInternalId": "#007820",
+    "hasGender": "female",
+    "hasDescription": "Swiss scholar"
+  },
+  "ww_1b1cfd8559965631": {
+    "hasFirstName": "Ivana",
+    "hasLastName": "Brocic",
+    "hasPersonInternalId": "#007826",
+    "hasGender": "female",
+    "hasDescription": "-"
+  },
+  "ww_1667af16dcfce610": {
+    "hasFirstName": "Lisa",
+    "hasLastName": "Grauso",
+    "hasPersonInternalId": "#007827",
+    "hasGender": "female",
+    "hasDescription": "-"
   },
   "ww_a5962aa0a9c6e2a9": {
     "hasFirstName": "Alessandro",
     "hasLastName": "Lattanzi",
-    "hasPersonInternalId": "#007834",
+    "hasPersonInternalId": "#007841",
     "hasGender": "male",
     "hasDescription": "Italian scholar"
+  },
+  "ww_ab6afc5fe52259f6": {
+    "hasFirstName": "Simon",
+    "hasLastName": "Schweingruber",
+    "hasPersonInternalId": "#007846",
+    "hasGender": "male",
+    "hasDescription": "-"
+  },
+  "ww_772eceda8fd03212": {
+    "hasFirstName": "Livia",
+    "hasLastName": "Fietz",
+    "hasPersonInternalId": "#007857",
+    "hasGender": "female",
+    "hasDescription": "-"
+  },
+  "ww_cce0e99216f5775f": {
+    "hasFirstName": "Debora",
+    "hasLastName": "Vukovic",
+    "hasPersonInternalId": "#007858",
+    "hasGender": "female",
+    "hasDescription": "-"
+  },
+  "ww_7f016c1e026aa296": {
+    "hasFirstName": "Kim",
+    "hasLastName": "N\u00fcesch",
+    "hasPersonInternalId": "#007863",
+    "hasGender": "female",
+    "hasDescription": "-"
+  },
+  "ww_6a4bbb5b543e10bd": {
+    "hasFirstName": "Yves",
+    "hasLastName": "Lamparsky",
+    "hasPersonInternalId": "#007864",
+    "hasGender": "male",
+    "hasDescription": "-"
+  },
+  "ww_882bd06aacc37064": {
+    "hasFirstName": "Caroline",
+    "hasLastName": "Kaufmann",
+    "hasPersonInternalId": "#007865",
+    "hasGender": "female",
+    "hasDescription": "_"
+  },
+  "ww_75bcfa3c88e7d34f": {
+    "hasFirstName": "Adriana",
+    "hasLastName": "Pillmann",
+    "hasPersonInternalId": "#007867",
+    "hasGender": "female",
+    "hasDescription": "-"
   }
 }

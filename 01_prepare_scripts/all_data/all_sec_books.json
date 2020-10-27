@@ -4,7 +4,7 @@
     "hasBookTitle": "A Select Collection of Old Plays",
     "hasDisplayedTitle": "A Select Collection of Old Plays",
     "hasLanguage": "English",
-    "pubInfo": "ed. <i>A Select Collection of Old Plays in Twelve Volumes. </i>London: Septimus Prowett, 1825.",
+    "pubInfo": "ed. <i>A Select Collection of Old Plays in Twelve Volumes. </i>London: Dodsley, 1744.",
     "hasCreationDate": "GREGORIAN:1744:1744",
     "hasPublicationDate": "GREGORIAN:1744:1744",
     "hasGenre": [
@@ -237,7 +237,7 @@
   },
   "ww_9412fba12ddffaa6": {
     "hasBookInternalId": "@010156",
-    "hasBookTitle": "Plays and Poems of Shakespeare (Malone edition)",
+    "hasBookTitle": "Plays and Poems of Shakespeare (EdM edition)",
     "hasDisplayedTitle": "Plays and Poems of William Shakespeare",
     "hasLanguage": "English",
     "pubInfo": "<i>The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators : comprehending a life of the poet, and an enlarged history of the stage, by the late Edmond Malone, with a new glossarial index. </i>London: F.C. and J. Rivington 1821.",
@@ -809,7 +809,7 @@
   },
   "ww_bcc975a9199bde49": {
     "hasBookInternalId": "@010199",
-    "hasBookTitle": "The Works of John Marston (Bullen edition)",
+    "hasBookTitle": "The Works of John Marston (HBu edition)",
     "hasDisplayedTitle": "The Works of John Marston (Bullen edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>The Works of John Marston. </i>3 vols. London: Nimmo, 1887.",
@@ -1086,7 +1086,7 @@
   },
   "ww_2e08ba1bdf49c8dc": {
     "hasBookInternalId": "@010105",
-    "hasBookTitle": "Old Fortunatus (Schere edition)",
+    "hasBookTitle": "Old Fortunatus (HSc edition)",
     "hasDisplayedTitle": "The Pleasant Comedie of old Fortunatus (Scherer edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>Thomas Dekker. The Pleasant Comedie of old Fortunatus. </i>Erlangen and Leipzig: 1901.",
@@ -1142,7 +1142,7 @@
   },
   "ww_99fa34d7db7066f7": {
     "hasBookInternalId": "@006220",
-    "hasBookTitle": "Shakespeare's Juliet Capulet und Chaucer's Troylus",
+    "hasBookTitle": "Shp's Juliet Capulet und Chc's Troylus",
     "hasDisplayedTitle": "Shakespeares Juliet Capulet und Chaucers Troylus",
     "hasLanguage": "German",
     "pubInfo": "\"Shakespeares Juliet Capulet und Chaucers Troylus.\" <i>Jahrbuch der Deutschen Shakespeare-Gesellschaft </i> (1902): 238-239.",
@@ -1402,7 +1402,7 @@
   },
   "ww_12b8cda82738e9e2": {
     "hasBookInternalId": "@010006",
-    "hasBookTitle": "Sir William D'Avenant's Relation to Shakespeare",
+    "hasBookTitle": "WdA's Relation to Shp",
     "hasDisplayedTitle": "Sir William Davenant's Relation to Shakespeare",
     "hasLanguage": "English",
     "pubInfo": "<i>Sir William Davenant's Relation to Shakespeare. With an Analysis of the Chief Characters of Davenant's Plays. </i>PhD [supervised by Emil Koeppel], Strasbourg 1905.",
@@ -1512,7 +1512,7 @@
   },
   "ww_b2a9fb91061ee2ff": {
     "hasBookInternalId": "@006445",
-    "hasBookTitle": "Poetaster (Mallory edition)",
+    "hasBookTitle": "Poetaster (HeM edition)",
     "hasDisplayedTitle": "Poetaster (Mallory edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>Ben Jonson. Poetaster. Edited with Introduction, Notes and Glossary. </i>New York: Henry Holt, 1905.",
@@ -1715,7 +1715,7 @@
   },
   "ww_c01ad6e0012b6bb0": {
     "hasBookInternalId": "@006444",
-    "hasBookTitle": "Satiromastix (Scherer edition)",
+    "hasBookTitle": "Satiromastix (HSc edition)",
     "hasDisplayedTitle": "Satiromastix (Scherer edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>Thomas Dekker. Satiro-Mastix or The Vntrvssing of the Humorous Poet. </i>Louvain: A. Uytpruyst, 1907.",
@@ -2112,7 +2112,7 @@
   },
   "ww_9ec767d44e3a36f8": {
     "hasBookInternalId": "@010032",
-    "hasBookTitle": "The Fleire (Nibbe edition)",
+    "hasBookTitle": "The Fleire (HNi edition)",
     "hasDisplayedTitle": "The Fleire (Nibbe edition)",
     "hasLanguage": "German",
     "pubInfo": "ed. <i>The Fleire by Edward Sharpham nach der Quarto 1607 herausgegeben. </i>Louvain: A. Uystpruyst, 1912. Print edition of Hunold Nibbe, ed. <i>The Fleire by Edward Sharpham: kritische Neuausgabe mit Einleitung und Anmerkungen. </i>PhD [supervised by Emil Koeppel], Strasbourg 1911. ",
@@ -2130,7 +2130,7 @@
   },
   "ww_c376526546624e12": {
     "hasBookInternalId": "@010155",
-    "hasBookTitle": "How a Man May Choose a Good Wife (Swaen edition)",
+    "hasBookTitle": "How a Man May Choose a Good Wife (ASw edition)",
     "hasDisplayedTitle": "How a Man May Choose a Good Wife (Swaen edition)",
     "hasLanguage": "German",
     "pubInfo": "ed. <i>How a Man May Choose a Good Wife from a Bad von Thomas Heywood nach der Quarto 1608 herausgegeben. </i>Louvain: A. Uystpruyst, 1912.",
@@ -2240,7 +2240,7 @@
   },
   "ww_84a8155c55c3c1e2": {
     "hasBookInternalId": "@010009",
-    "hasBookTitle": "The Vow-Breaker (Wallrath edition)",
+    "hasBookTitle": "The Vow-Breaker (HaW edition)",
     "hasDisplayedTitle": "The Vow-Breaker (Wallrath edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>William Sampson's The Vow-Breaker. </i>Louvain: A. Uytpruyst, 1914.",
@@ -2709,7 +2709,7 @@
   },
   "ww_4e091746c9370e38": {
     "hasBookInternalId": "@010061",
-    "hasBookTitle": "The Life of Marlowe",
+    "hasBookTitle": "The Life of Mlw",
     "hasDisplayedTitle": "The Life of Marlowe",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>The Life of Marlowe and The Tragedy of Dido Queen of Carthage. </i>London: Methuen and Co., 1930.",
@@ -2783,7 +2783,7 @@
   },
   "ww_a3cda7e114a57aa4": {
     "hasBookInternalId": "@010017",
-    "hasBookTitle": "Edward II (Charlton edition)",
+    "hasBookTitle": "Edward II (HBC edition)",
     "hasDisplayedTitle": "Edward II (Charlton edition)",
     "hasLanguage": "English",
     "pubInfo": "eds. <i>Edward II by Christopher Marlowe. </i>London: Methuen, 1933.",
@@ -2821,7 +2821,7 @@
   },
   "ww_5af91280461707f1": {
     "hasBookInternalId": "@005134",
-    "hasBookTitle": "The Plays of John Marston (Wood edition)",
+    "hasBookTitle": "The Plays of John Marston (HWo edition)",
     "hasDisplayedTitle": "The Plays of John Marston (Wood edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>The Plays of John Marston in Three Volumes. </i>Edinburgh and London: Oliver and Boyd, 1934-1939.",
@@ -2893,7 +2893,7 @@
   },
   "ww_19f62f745f6222da": {
     "hasBookInternalId": "@006211",
-    "hasBookTitle": "Marlowe's Role in Borrowed Lines",
+    "hasBookTitle": "Mlw's Role in Borrowed Lines",
     "hasDisplayedTitle": "Marlowe's Role in Borrowed Lines",
     "hasLanguage": "English",
     "pubInfo": "\"Marlowe's Role in Borrowed Lines.\" <i>PMLA </i>52 (1937): 902-903.",
@@ -2952,11 +2952,11 @@
     "hasBookTitle": "Poems and Dramas of Fulke Greville",
     "hasDisplayedTitle": "Poems and Dramas of Fulke Greville",
     "hasLanguage": "English",
-    "pubInfo": "ed. Poems and Dramas of Fulke Greville. 2 vols. Edinburgh and London, 1938. ",
+    "pubInfo": "ed. <i>Poems and Dramas of Fulke Greville. </i>2 vols. Edinburgh and London, 1938. ",
     "hasCreationDate": "GREGORIAN:1938:1938",
     "hasPublicationDate": "GREGORIAN:1938:1938",
     "hasGenre": [
-      "Academic"
+      "Annotated edition"
     ],
     "hasSubject": [
       "Literature and theatre"
@@ -2967,7 +2967,7 @@
   },
   "ww_7375c13ad18fcffa": {
     "hasBookInternalId": "@006448",
-    "hasBookTitle": "Hamlet, Three Notes (Baker)",
+    "hasBookTitle": "Hamlet - Three Notes (KHB)",
     "hasDisplayedTitle": "Hamlet, Three Notes [Baker]",
     "hasLanguage": "English",
     "pubInfo": "\"Hamlet, Three Notes [Baker].\" <i>Notes and Queries </i>(27 August 1938): 158.",
@@ -3040,7 +3040,7 @@
   },
   "ww_0f2b8e1e06f7bc1a": {
     "hasBookInternalId": "@006108",
-    "hasBookTitle": "\"Hamlet\" - Three Notes",
+    "hasBookTitle": "Hamlet - Three Notes (TCC)",
     "hasDisplayedTitle": "\"Hamlet\" - Three Notes",
     "hasLanguage": "English",
     "pubInfo": "\"Hamlet. Three Notes.\" <i>Notes and Queries </i>175 (1938): 114.",
@@ -3282,7 +3282,7 @@
   },
   "ww_e7354fadf0a6bab2": {
     "hasBookInternalId": "@005709",
-    "hasBookTitle": "The Sources of Massinger&#039;s Emperour of the Ea",
+    "hasBookTitle": "Sources of Massinger's Emperour of the East",
     "hasDisplayedTitle": "The Sources of Massinger's Emperour of the East",
     "hasLanguage": "English",
     "pubInfo": "\"The Sources of Massinger's Emperour of the East.\" PMLA 65:4 (June 1950): 473-482.",
@@ -3674,7 +3674,7 @@
   },
   "ww_86629e52b080d62e": {
     "hasBookInternalId": "@005673",
-    "hasBookTitle": "Dramatic Works of Thomas Dekker (Bowers editio",
+    "hasBookTitle": "Dramatic Works of TDe (FBo editio",
     "hasDisplayedTitle": "The Dramatic Works of Thomas Dekker (Bowers edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>The Dramatic Works of Thomas Dekker. </i>4 vols. Cambridge: Cambridge University Press, 1955.",
@@ -3953,7 +3953,7 @@
   },
   "ww_0c5550692d30fd91": {
     "hasBookInternalId": "@005194",
-    "hasBookTitle": "The Poems of John Marston (Davenport edition)",
+    "hasBookTitle": "The Poems of John Marston (ADa)",
     "hasDisplayedTitle": "The Poems of John Marston (Davenport edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>The Poems of John Marston. </i>Liverpool University Press 1961.",
@@ -4065,7 +4065,7 @@
   },
   "ww_10d1735a57c373ef": {
     "hasBookInternalId": "@010141",
-    "hasBookTitle": "The Works of Cyril Tourneur (Nicholl edition)",
+    "hasBookTitle": "The Works of Cyril Tourneur (JNi edition)",
     "hasDisplayedTitle": "The Works of Cyril Tourneur (Nicholl edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>The Works of Cyril Tourneur.</i> New York: Russell and Russell, 1963.",
@@ -4119,7 +4119,7 @@
   },
   "ww_5eeeb3e78e8b0bc3": {
     "hasBookInternalId": "@010002",
-    "hasBookTitle": "The Atheist's Tragedy (Ribner edition)",
+    "hasBookTitle": "The Atheist's Tragedy (IRi edition)",
     "hasDisplayedTitle": "The Atheist's Tragedy (Ribner edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. Cyril Tourneur. <i>The Atheist's Tragedy, or The Honest Man's Revenge. </i>London: The Broadwater Press, 1964.",
@@ -4231,7 +4231,7 @@
   },
   "ww_c2f0e42f45c2067f": {
     "hasBookInternalId": "@005689",
-    "hasBookTitle": "Antonio and Mellida (Hunter edition)",
+    "hasBookTitle": "Antonio and Mellida (GHu edition)",
     "hasDisplayedTitle": "Antonio and Mellida (Hunter edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. John Marston. <i>Antonio and Mellida: The first part. </i>Regents Renaissance Drama Series. London: Edward Arnold, 1965.",
@@ -4303,7 +4303,7 @@
   },
   "ww_0286570c6d39daaa": {
     "hasBookInternalId": "@005690",
-    "hasBookTitle": "Antonio's Revenge (Hunter edition)",
+    "hasBookTitle": "Antonio's Revenge (GHu edition)",
     "hasDisplayedTitle": "Antonio's Revenge (Hunter edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. John Marston. Antonio's Revenge: The second part of Antonio and Mellida. London: Edward Arnold, 1966.",
@@ -4377,7 +4377,7 @@
   },
   "ww_57b895420c0ddd3e": {
     "hasBookInternalId": "@010042",
-    "hasBookTitle": "Shakespeare and the Classical Tradition",
+    "hasBookTitle": "Shp and the Classical Tradition",
     "hasDisplayedTitle": "Shakespeare and the Classical Tradition",
     "hasLanguage": "English",
     "pubInfo": "<i>Shakespeare and the Classical Tradition. A Critical Guide to Commentary, 1660-1960. </i>Minneapolis: University of Minnesota Press, 1968.",
@@ -4526,7 +4526,7 @@
   },
   "ww_b448a8b1df6fffa0": {
     "hasBookInternalId": "@005699",
-    "hasBookTitle": "The Malcontent (Hunter edition)",
+    "hasBookTitle": "The Malcontent (GHu edition)",
     "hasDisplayedTitle": "The Malcontent (Hunter edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>The Malcontent. </i>Manchester: Manchester University Press, 1975, repr. 1999.",
@@ -4601,7 +4601,7 @@
   },
   "ww_ed01cbe7150757c0": {
     "hasBookInternalId": "@006450",
-    "hasBookTitle": "Antony and Cleopatra (Jones edition)",
+    "hasBookTitle": "Antony and Cleopatra (EJo)",
     "hasDisplayedTitle": "Antony and Cleopatra (Jones edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. William Shakespeare. <i>Antony and Cleopatra.</i> Harmondsworth: Penguin, 1977.",
@@ -4694,7 +4694,7 @@
   },
   "ww_7ad6024748f5b7ef": {
     "hasBookInternalId": "@005698",
-    "hasBookTitle": "Parasitaster (Blostein edition)",
+    "hasBookTitle": "Parasitaster (DBl)",
     "hasDisplayedTitle": "Parasitaster (Blostein edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. Parasitaster or The Fawn. Manchester: Manchester University Press, 1978.",
@@ -4712,7 +4712,7 @@
   },
   "ww_e9dd31d2f114bcc9": {
     "hasBookInternalId": "@010038",
-    "hasBookTitle": "Antonio's Revenge (Gair edition)",
+    "hasBookTitle": "Antonio's Revenge (RGa edition)",
     "hasDisplayedTitle": "Antonio's Revenge (Gair edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. John Marston. <i>Antonio's Revenge. </i>The Revels Plays. Manchester: Manchester University Press, 1978, repr. 1999.",
@@ -4748,7 +4748,7 @@
   },
   "ww_38319ddb82fae050": {
     "hasBookInternalId": "@010018",
-    "hasBookTitle": "Eastward Ho (Van Fossen edition)",
+    "hasBookTitle": "Eastward Ho (VFo edition)",
     "hasDisplayedTitle": "Eastward Ho (Van Fossen edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. <i>Eastward Ho. </i>Manchester: Manchester University Press, 1979, repr. 1999.",
@@ -4784,7 +4784,7 @@
   },
   "ww_841e89ba43cd414c": {
     "hasBookInternalId": "@005247",
-    "hasBookTitle": "The Broken Heart (Spencer edition)",
+    "hasBookTitle": "The Broken Heart (TCS edition)",
     "hasDisplayedTitle": "The Broken Heart (Spencer edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. John Ford. <i>The Broken Heart.</i> Manchester: Manchester University Press, 1980.",
@@ -4858,7 +4858,7 @@
   },
   "ww_2f767c233db0ba89": {
     "hasBookInternalId": "@010012",
-    "hasBookTitle": "Congreve as a Shakespearean",
+    "hasBookTitle": "Congreve as a Shpean",
     "hasDisplayedTitle": "Congreve as a Shakespearean",
     "hasLanguage": "English",
     "pubInfo": "\"Congreve as a Shakespearean.\" <i>Poetry and Drama 1570-1700: Essays in Honour of Harold F. Brooks. </i>Eds. Antony Coleman and Antony Hammond. London and New York: Methuen, 1981. 186-199.",
@@ -4895,7 +4895,7 @@
   },
   "ww_a3bdfb5ec0f62f6f": {
     "hasBookInternalId": "@020005",
-    "hasBookTitle": "Hamlet (Jenkins edition)",
+    "hasBookTitle": "Hamlet (HaJ edition)",
     "hasDisplayedTitle": "Hamlet (Jenkins edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. William Shakespeare. <i>Hamlet. </i>New Arden Shakespeare. London: Methuen, 1982.",
@@ -4933,7 +4933,7 @@
   },
   "ww_e38a56a7efbf9723": {
     "hasBookInternalId": "@005700",
-    "hasBookTitle": "The Insatiate Countess (Melchiori edition)",
+    "hasBookTitle": "The Insatiate Countess (GMe)",
     "hasDisplayedTitle": "The Insatiate Countess (Melchiori edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. John Marston. <i>The Insatiate Countess. </i>Manchester: Manchester University Press, 1984.",
@@ -5025,7 +5025,7 @@
   },
   "ww_b6abed27ab365296": {
     "hasBookInternalId": "@006441",
-    "hasBookTitle": "The Cardinal (Yearling edition)",
+    "hasBookTitle": "The Cardinal (EMY edition)",
     "hasDisplayedTitle": "The Cardinal (Yearling edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. James Shirley. <i>The Cardinal. </i>Manchester: Manchester University Press, 1986.",
@@ -5135,7 +5135,7 @@
   },
   "ww_db0e9fa009aad7b3": {
     "hasBookInternalId": "@010070",
-    "hasBookTitle": "Word and Image Clusters in Shakespeare",
+    "hasBookTitle": "Word and Image Clusters in Shp",
     "hasDisplayedTitle": "Word and Image Clusters in Shakespeare",
     "hasLanguage": "English",
     "pubInfo": "\"Word and Image Clusters in Shakespeare.\" <i>Swiss Papers in English Language and Literature (SPELL) 3 The Structure of Texts </i>(1987): 133-157. https://www.e-periodica.ch/cntmng?pid=spe-001:1987:3::281.",
@@ -5211,7 +5211,7 @@
   },
   "ww_bc577a06e5bb54c7": {
     "hasBookInternalId": "@010021",
-    "hasBookTitle": "The Works of Thomas Southerne (Jordan edition)",
+    "hasBookTitle": "The Works of Thomas Southerne (RJo edition)",
     "hasDisplayedTitle": "The Works of Thomas Southerne (Jordan edition)",
     "hasLanguage": "English",
     "pubInfo": "eds. <i>The Works of Thomas Southerne. </i>2 vols. Oxford: Clarendon Press, 1988.",
@@ -5626,7 +5626,7 @@
   },
   "ww_3065791692a89822": {
     "hasBookInternalId": "@006342",
-    "hasBookTitle": "Poetaster (Cain Edition)",
+    "hasBookTitle": "Poetaster (TGC edition)",
     "hasDisplayedTitle": "Poetaster (Cain Edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. Ben Jonson. <i>Poetaster. </i>Manchester: Manchester University Press 1995.",
@@ -5773,7 +5773,7 @@
   },
   "ww_268e430c690f89be": {
     "hasBookInternalId": "@006210",
-    "hasBookTitle": "Marlowe's \"Tamburlaine\" in Early Shakespeare",
+    "hasBookTitle": "Mlw's Role in Early Shakespeare",
     "hasDisplayedTitle": "The Voice of Marlowe's Tamburlaine in early Shakespeare",
     "hasLanguage": "English",
     "pubInfo": "\"The Voice of Marlowe's Tamburlaine in early Shakespeare.\" <i>Comparative Drama </i>31.2 (Summer 1997): 213-223.",
@@ -6030,6 +6030,24 @@
       "Gail Kern Paster"
     ]
   },
+  "ww_04e1e147cd4f74b3": {
+    "hasBookInternalId": "@005725",
+    "hasBookTitle": "Varieties of Fantasy in What You Will",
+    "hasDisplayedTitle": "Varieties of Fantasy in What You Will",
+    "hasLanguage": "English",
+    "pubInfo": "\"Varieties of Fantasy in <i>What You Will</i>.\" <i>The Drama of John Marston: Critical Re-Visions.</i> Ed. T.F. Wharton. Cambridge: Cambridge University Press, 2000. 45-59.",
+    "hasCreationDate": "GREGORIAN:2000:2000",
+    "hasPublicationDate": "GREGORIAN:2000:2000",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Matthew Steggle"
+    ]
+  },
   "ww_f0b8d4220bfdd308": {
     "hasBookInternalId": "@010077",
     "hasBookTitle": "The Oxford English Dictionary (OED)",
@@ -6083,6 +6101,24 @@
     ],
     "authors": [
       "Gary Taylor"
+    ]
+  },
+  "ww_cdef34a4bf3a320a": {
+    "hasBookInternalId": "@005750",
+    "hasBookTitle": "Every Man in His Humour (Miola edition)",
+    "hasDisplayedTitle": "Every Man in His Humour (Miola edition)",
+    "hasLanguage": "English",
+    "pubInfo": "<i>Every Man in His Humour.</i> Revels Plays edition. Manchester: Manchester University Press, 2000.",
+    "hasCreationDate": "GREGORIAN:2000:2000",
+    "hasPublicationDate": "GREGORIAN:2000:2000",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "tbe Author"
     ]
   },
   "ww_60b7dc46c7190afc": {
@@ -6356,7 +6392,7 @@
   },
   "ww_bc9ad18fd3996ba4": {
     "hasBookInternalId": "@005680",
-    "hasBookTitle": "An Unacknowledged Debt to Seneca",
+    "hasBookTitle": "An Unacknowledged Debt",
     "hasDisplayedTitle": "An Unacknowledged Debt to Seneca in the Sejanus Quarto",
     "hasLanguage": "English",
     "pubInfo": "\"An Unacknowledged Debt to Seneca in the Sejanus Quarto.\" Notes and Queries 248 (2003): 427.",
@@ -6420,7 +6456,7 @@
     "hasCreationDate": "GREGORIAN:2004:2004",
     "hasPublicationDate": "GREGORIAN:2004:2004",
     "hasGenre": [
-      "Academic"
+      "Annotated edition"
     ],
     "hasSubject": [
       "Literature and theatre"
@@ -7365,6 +7401,27 @@
       "Lisa Hopkins"
     ]
   },
+  "ww_ff9f3261a368ba9d": {
+    "hasBookInternalId": "@005726",
+    "hasBookTitle": "The Tempest (ATV edition)",
+    "hasDisplayedTitle": "The Tempest (Vaughan edition)",
+    "hasLanguage": "English",
+    "pubInfo": "William Shakespeare.<i> The Tempest. </i>London: Bloomsbury, 2011.",
+    "hasCreationDate": "GREGORIAN:2011:2011",
+    "hasPublicationDate": "GREGORIAN:2011:2011",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "WOMAN WRITER",
+      "Shakespeare"
+    ],
+    "authors": [
+      "Alden T. Vaughan",
+      "Virginia Mason Vaughan"
+    ]
+  },
   "ww_0a299f4a7aded36a": {
     "hasBookInternalId": "@010096",
     "hasBookTitle": "Fictions of Collaboration",
@@ -7414,7 +7471,8 @@
       "Academic"
     ],
     "hasSubject": [
-      "Literature and theatre"
+      "Literature and theatre",
+      "WOMAN WRITER"
     ],
     "authors": [
       "Catherine Richardson",
@@ -7666,7 +7724,7 @@
   },
   "ww_baeec3438e0eab76": {
     "hasBookInternalId": "@005670",
-    "hasBookTitle": "Chaucer and Shakespeare The Merchants Tale",
+    "hasBookTitle": "Chc and Shp The Merchants Tale",
     "hasDisplayedTitle": "Chaucer and Shakesepare: The Merchant's Tale Connection",
     "hasLanguage": "English",
     "pubInfo": "\"Chaucer and Shakespeare:: The Merchant's Tale Connection.\" <i>The Chaucer Review </i>48:2 (2013): 222-237.",
@@ -7704,7 +7762,7 @@
   },
   "ww_97955539c83b9cc3": {
     "hasBookInternalId": "@010029",
-    "hasBookTitle": "The Marlowe-Shakespeare Continuum",
+    "hasBookTitle": "The Mlw-Shp Continuum",
     "hasDisplayedTitle": "The Marlowe-Shakespeare Continuum",
     "hasLanguage": "English",
     "pubInfo": "<i>The Marlowe-Shakespeare Continuum: Christopher Marlowe, Thomas Nashe, and Authorship of Early Shakespeare and Anonymous Plays. </i>Newcastle, 2013.",
@@ -7909,7 +7967,7 @@
   },
   "ww_241ea5ff49764ee4": {
     "hasBookInternalId": "@006340",
-    "hasBookTitle": "David and Bathsheba (Martin edition)",
+    "hasBookTitle": "David and Bathsheba (MaM edition)",
     "hasDisplayedTitle": "David and Bathsheba (Martin edition)",
     "hasLanguage": "English",
     "pubInfo": "ed. George Peele. <i>David and Bathsheba. </i>Manchester: Manchester University Press, 2018.",
@@ -8164,6 +8222,25 @@
     ],
     "authors": [
       "Holger Schott Syme"
+    ]
+  },
+  "ww_8f75c655bdfcf5b2": {
+    "hasBookInternalId": "@005734",
+    "hasBookTitle": "From Tragicomedy to Opera?",
+    "hasDisplayedTitle": "From Tragicomedy to Opera?",
+    "hasLanguage": "English",
+    "pubInfo": "\"From Tragicomedy to Opera? John Marston's <i>Antonio and Mellida</i>.\" <i>The Edinburgh Companion to Literature and Music</i>. Ed. Delia da Sousa Correa. Edinburgh: Edinburgh University Press, 2020. 219-233.",
+    "hasCreationDate": "GREGORIAN:2020:2020",
+    "hasPublicationDate": "GREGORIAN:2020:2020",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Art, architecture, music",
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Ros King"
     ]
   }
 }

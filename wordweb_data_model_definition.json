@@ -1271,10 +1271,10 @@
                 }
               },
               {
-                "name": "Commonplace book",
+                "name": "Manuscript miscellany",
                 "labels": {
-                  "de": "Kollektanee",
-                  "en": "Commonplace book"
+                  "de": "Manuscript miscellany",
+                  "en": "Manuscript miscellany"
                 }
               },
               {
@@ -1440,17 +1440,17 @@
             },
             "nodes": [
               {
-                "name": "The Globe Theatre",
+                "name": "Globe Theatre",
                 "labels": {
-                  "de": "The Globe Theatre",
-                  "en": "The Globe Theatre"
+                  "de": "Globe Theatre",
+                  "en": "Globe Theatre"
                 }
               },
               {
-                "name": "The Blackfriars",
+                "name": "Blackfriars",
                 "labels": {
-                  "de": "The Blackfriars",
-                  "en": "The Blackfriars"
+                  "de": "Blackfriars",
+                  "en": "Blackfriars"
                 }
               },
               {
@@ -1468,45 +1468,45 @@
                 }
               },
               {
-                "name": "The Curtain",
+                "name": "Curtain Theatre",
                 "labels": {
-                  "de": "The Curtain",
-                  "en": "The Curtain"
+                  "de": "Curtain Theatre",
+                  "en": "Curtain Theatre"
                 }
               },
               {
-                "name": "The Whitefriars",
+                "name": "Whitefriars",
                 "labels": {
-                  "de": "The Whitefriars",
-                  "en": "The Whitefriars"
+                  "de": "Whitefriars",
+                  "en": "Whitefriars"
                 }
               },
               {
-                "name": "The Red Bull",
+                "name": "Red Bull",
                 "labels": {
-                  "de": "The Red Bull",
-                  "en": "The Red Bull"
+                  "de": "Red Bull",
+                  "en": "Red Bull"
                 }
               },
               {
-                "name": "Unknown venue",
+                "name": "Unknown London venue",
                 "labels": {
-                  "de": "Unbekanntes Theater",
-                  "en": "Unknown venue"
+                  "de": "Unbekanntes London Theater",
+                  "en": "Unknown London venue"
                 }
               },
               {
-                "name": "The Rose Theatre",
+                "name": "Rose Theatre",
                 "labels": {
-                  "de": "The Rose Theatre",
-                  "en": "The Rose Theatre"
+                  "de": "Rose Theatre",
+                  "en": "Rose Theatre"
                 }
               },
               {
-                "name": "The Fortune Playhouse",
+                "name": "Fortune Playhouse",
                 "labels": {
-                  "de": "The Fortune Playhouse",
-                  "en": "The Fortune Playhouse"
+                  "de": "Fortune Playhouse",
+                  "en": "Fortune Playhouse"
                 }
               },
               {
@@ -1524,31 +1524,31 @@
                 }
               },
               {
-                "name": "Banqueting House",
+                "name": "Banqueting House, London",
                 "labels": {
-                  "de": "Banqueting House",
-                  "en": "Banqueting House"
+                  "de": "Banqueting House, London",
+                  "en": "Banqueting House, London"
                 }
               },
               {
-                "name": "Archbishops Palace",
+                "name": "Archbishop's Palace, London",
                 "labels": {
-                  "de": "Archbishops Palace",
-                  "en": "Archbishops Palace"
+                  "de": "Archbishop's Palace, London",
+                  "en": "Archbishop's Palace, London"
                 }
               },
               {
-                "name": "Boars Head",
+                "name": "Boar's Head",
                 "labels": {
-                  "de": "Boars Head",
-                  "en": "Boars Head"
+                  "de": "Boar's Head",
+                  "en": "Boar's Head"
                 }
               },
               {
-                "name": "The Swan Theatre",
+                "name": "Swan Theatre",
                 "labels": {
-                  "de": "The Swan Theatre",
-                  "en": "The Swan Theatre"
+                  "de": "Swan Theatre",
+                  "en": "Swan Theatre"
                 }
               },
               {
@@ -1587,10 +1587,10 @@
                 }
               },
               {
-                "name": "Banqueting House, Whitehall",
+                "name": "Whitehall Palace",
                 "labels": {
-                  "de": "Banqueting House, Whitehall",
-                  "en": "Banqueting House, Whitehall"
+                  "de": "Whitehall Palace",
+                  "en": "Whitehall Palace"
                 }
               },
               {
@@ -1601,6 +1601,27 @@
                 }
               },
               {
+                "name": "Isle of Dogs",
+                "labels": {
+                  "de": "Isle of Dogs",
+                  "en": "Isle of Dogs"
+                }
+              },
+              {
+                "name": "Cuckolds Haven",
+                "labels": {
+                  "de": "Cuckolds Haven",
+                  "en": "Cuckolds Haven"
+                }
+              },
+              {
+                "name": "Theatre Royal",
+                "labels": {
+                  "de": "Theatre Royal",
+                  "en": "Theatre Royal"
+                }
+              },
+              {
                 "name": "Dorset Garden Theatre",
                 "labels": {
                   "de": "Dorset Garden Theatre",
@@ -1608,10 +1629,24 @@
                 }
               },
               {
-                "name": "The Theatre Royal",
+                "name": "Thomas Cranmers House",
                 "labels": {
-                  "de": "The Theatre Royal",
-                  "en": "The Theatre Royal"
+                  "de": "Thomas Cranmers House",
+                  "en": "Thomas Cranmers House"
+                }
+              },
+              {
+                "name": "Aldgate",
+                "labels": {
+                  "de": "Aldgate",
+                  "en": "Aldgate"
+                }
+              },
+              {
+                "name": "Islington",
+                "labels": {
+                  "de": "Islington",
+                  "en": "Islington"
                 }
               },
               {
@@ -1619,6 +1654,20 @@
                 "labels": {
                   "de": "St. Paul's Playhouse",
                   "en": "St. Paul's Playhouse"
+                }
+              },
+              {
+                "name": "Rotten Row",
+                "labels": {
+                  "de": "Rotten Row",
+                  "en": "Rotten Row"
+                }
+              },
+              {
+                "name": "Newgate Prison",
+                "labels": {
+                  "de": "Newgate Prison",
+                  "en": "Newgate Prison"
                 }
               }
             ]
@@ -1631,24 +1680,31 @@
             },
             "nodes": [
               {
-                "name": "Trinity College",
+                "name": "Trinity College, Cambridge",
                 "labels": {
-                  "de": "Trinity College",
-                  "en": "Trinity College"
+                  "de": "Trinity College, Cambridge",
+                  "en": "Trinity College, Cambridge"
                 }
               },
               {
-                "name": "St John's College",
+                "name": "St John's College, Cambridge",
                 "labels": {
-                  "de": "St John's College",
-                  "en": "St John's College"
+                  "de": "St John's College, Cambridge",
+                  "en": "St John's College, Cambridge"
                 }
               },
               {
-                "name": "King's College",
+                "name": "King's College, Cambridge",
                 "labels": {
-                  "de": "King's College",
-                  "en": "King's College"
+                  "de": "King's College, Cambridge",
+                  "en": "King's College, Cambridge"
+                }
+              },
+              {
+                "name": "Christ's College, Cambridge",
+                "labels": {
+                  "de": "Christ's College, Cambridge",
+                  "en": "Christ's College, Cambridge"
                 }
               }
             ]
@@ -1661,31 +1717,31 @@
             },
             "nodes": [
               {
-                "name": "TrinityCollege",
+                "name": "Trinity College, Oxford",
                 "labels": {
-                  "de": "TrinityCollege",
-                  "en": "TrinityCollege"
+                  "de": "Trinity College, Oxford",
+                  "en": "Trinity College, Oxford"
                 }
               },
               {
-                "name": "Christ Church",
+                "name": "Christ Church College, Oxford",
                 "labels": {
-                  "de": "Christ Church",
-                  "en": "Christ Church"
+                  "de": "Christ Church College, Oxford",
+                  "en": "Christ Church College, Oxford"
                 }
               },
               {
-                "name": "St Johns College",
+                "name": "St Johns College, Oxford",
                 "labels": {
-                  "de": "St Johns College",
-                  "en": "St Johns College"
+                  "de": "St Johns College, Oxford",
+                  "en": "St Johns College, Oxford"
                 }
               },
               {
-                "name": "Unknown location",
+                "name": "Unknown Oxford location",
                 "labels": {
-                  "de": "Unknown location",
-                  "en": "Unknown location"
+                  "de": "Unknown Oxford location",
+                  "en": "Unknown Oxford location"
                 }
               }
             ]
@@ -1813,6 +1869,13 @@
                   "de": "Philippi",
                   "en": "Philippi"
                 }
+              },
+              {
+                "name": "Hellespont",
+                "labels": {
+                  "de": "Hellespont",
+                  "en": "Hellespont"
+                }
               }
             ]
           },
@@ -1828,6 +1891,22 @@
                 "labels": {
                   "de": "Callipolis",
                   "en": "Callipolis"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Syria",
+            "labels": {
+              "de": "Syrien",
+              "en": "Syria"
+            },
+            "nodes": [
+              {
+                "name": "Aleppo",
+                "labels": {
+                  "de": "Aleppo",
+                  "en": "Aleppo"
                 }
               }
             ]

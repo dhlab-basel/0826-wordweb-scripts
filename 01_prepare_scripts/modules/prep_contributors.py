@@ -29,12 +29,12 @@ def prepare():
             contributor = {
                 "hasFirstName": row["firstname"].strip(),
                 "hasLastName": row["lastname"].strip(),
-                "hasGender" : "male"
+                "hasGender": "male"
             }
 
             # Email is assigned to description after '*' is removed from string
             if row["email"]:
-                contributor["hasDescription"] = row["email"].replace('*','')
+                contributor["hasDescription"] = row["email"].replace('*', '')
 
                 # Sets the gender of to female
                 female = re.search("(\*)(.*)", row["email"])

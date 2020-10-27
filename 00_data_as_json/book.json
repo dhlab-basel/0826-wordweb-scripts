@@ -271,9 +271,9 @@
     "hasBookTitle": "HyperHamlet",
     "hasEdition": "HyperHamlet. 2005-2020. www.hyperhamlet.unibas.ch.",
     "isWrittenBy": [
-      "ww_bb31be82453ea0c7",
+      "ww_8f10037a060488a1",
       "ww_312d8dbdee09bbef",
-      "ww_8f10037a060488a1"
+      "ww_bb31be82453ea0c7"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2005:2020",
@@ -349,9 +349,9 @@
       "Literature and theatre"
     ]
   },
-  "ww_be5bd3da0398568d": {
+  "ww_bbca43db79d35252": {
     "hasBookInternalId": "@005037",
-    "hasBookTitle": "Homilies (Jewel)",
+    "hasBookTitle": "The Two Books of Homilies",
     "isWrittenBy": [
       "ww_20c2963f1665d325"
     ],
@@ -398,8 +398,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Politics, law, economics"
     ]
   },
   "ww_86c04fca29c8a3aa": {
@@ -495,12 +495,12 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_97955539c83b9cc3": {
     "hasBookInternalId": "@010029",
-    "hasBookTitle": "The Marlowe-Shakespeare Continuum",
+    "hasBookTitle": "The Mlw-Shp Continuum",
     "hasEdition": "<i>The Marlowe-Shakespeare Continuum: Christopher Marlowe, Thomas Nashe, and Authorship of Early Shakespeare and Anonymous Plays. </i>Newcastle, 2013.",
     "isWrittenBy": [
       "ww_0dc9b239be063569"
@@ -532,7 +532,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_1b231152ba6c63ce": {
@@ -588,7 +588,7 @@
       "ww_98586949857a29e9"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_de6299bae9b985ee": {
@@ -629,7 +629,7 @@
       "ww_98586949857a29e9"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_8dce43c17b4fa85b": {
@@ -652,7 +652,7 @@
       "ww_98586949857a29e9"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_4e5c1c1959818562": {
@@ -670,12 +670,12 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_5eeeb3e78e8b0bc3": {
     "hasBookInternalId": "@010002",
-    "hasBookTitle": "The Atheist's Tragedy (Ribner edition)",
+    "hasBookTitle": "The Atheist's Tragedy (IRi edition)",
     "hasEdition": "ed. Cyril Tourneur. <i>The Atheist's Tragedy, or The Honest Man's Revenge. </i>London: The Broadwater Press, 1964.",
     "isWrittenBy": [
       "ww_66491a37dd339103"
@@ -706,12 +706,12 @@
     ],
     "hasBookComment": "This tragedy was first published in 1592.",
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_a3cda7e114a57aa4": {
     "hasBookInternalId": "@010017",
-    "hasBookTitle": "Edward II (Charlton edition)",
+    "hasBookTitle": "Edward II (HBC edition)",
     "hasEdition": "eds. <i>Edward II by Christopher Marlowe. </i>London: Methuen, 1933.",
     "isWrittenBy": [
       "ww_40af4fdaa8bf7a1d",
@@ -778,7 +778,7 @@
       "ww_2f9e30089f2fa1c1"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_362b7083bdbd48df": {
@@ -797,27 +797,6 @@
       "History (play)"
     ]
   },
-  "ww_1140c36ab545b6d8": {
-    "hasBookInternalId": "@010000",
-    "hasBookTitle": "The Shakspere Allusion Book",
-    "hasEdition": "<i>The Shakspere Allusion Book. A Collection of Allusions to Shakspere from 1591 to 1700 [...]. </i>London: Chatto and Windus; New York: Duffield and Co., 1909.",
-    "isWrittenBy": [
-      "ww_26c25538fa69a566",
-      "ww_fb550941e6e9db62",
-      "ww_4c146e6d2ef23a03",
-      "ww_a60ff4964db613ee"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1909:1909",
-    "hasPublicationDate": "GREGORIAN:1909:1909",
-    "hasGenre": [
-      "Academic"
-    ],
-    "hasSubject": [
-      "Literature and theatre",
-      "Shakespeare"
-    ]
-  },
   "ww_898b0b7ff390f5fb": {
     "hasBookInternalId": "@000888",
     "hasBookTitle": "Henry VI Part 2",
@@ -828,7 +807,7 @@
     "hasCreationDate": "GREGORIAN:1591:1591",
     "hasFirstPerformanceDate": "GREGORIAN:1591",
     "hasPublicationDate": "GREGORIAN:1623",
-    "hasEdition": "Henry VI Part 2.",
+    "hasEdition": "Hnery VI Party 1.",
     "hasGenre": [
       "Tragedy",
       "History (play)"
@@ -837,7 +816,49 @@
       "ww_2f9e30089f2fa1c1"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
+    ]
+  },
+  "ww_55bc1a3b04bf8a8d": {
+    "hasBookInternalId": "@010084",
+    "hasBookTitle": "FDT (Folger Digital Texts)",
+    "hasEdition": "eds. <i>FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts. </i>2010. https://www.folgerdigitaltexts.org.",
+    "isWrittenBy": [
+      "ww_386448c09c02ba3f",
+      "ww_4d01a832f50d804e",
+      "ww_c8fa0de8d0fc2fc4",
+      "ww_55f5e9f5fe14853f"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:2010:2010",
+    "hasPublicationDate": "GREGORIAN:2010:2010",
+    "hasGenre": [
+      "Fulltext database"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ]
+  },
+  "ww_1140c36ab545b6d8": {
+    "hasBookInternalId": "@010000",
+    "hasBookTitle": "The Shakspere Allusion Book",
+    "hasEdition": "<i>The Shakspere Allusion Book. A Collection of Allusions to Shakspere from 1591 to 1700 [...]. </i>London: Chatto and Windus; New York: Duffield and Co., 1909.",
+    "isWrittenBy": [
+      "ww_26c25538fa69a566",
+      "ww_4c146e6d2ef23a03",
+      "ww_a60ff4964db613ee",
+      "ww_fb550941e6e9db62"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1909:1909",
+    "hasPublicationDate": "GREGORIAN:1909:1909",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
     ]
   },
   "ww_df2aeae89c9940b5": {
@@ -855,7 +876,7 @@
       "History (play)"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ],
     "isLexiaBook": "ww_5c9ea4c25b49b096"
   },
@@ -878,7 +899,7 @@
       "ww_2f9e30089f2fa1c1"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10",
+      "ww_78c9c657a6d6a82c",
       "ww_c741d607338b9c9f"
     ]
   },
@@ -898,7 +919,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ],
     "isLexiaBook": "ww_30f1eb33468c8c81"
   },
@@ -923,7 +944,7 @@
   },
   "ww_e9dd31d2f114bcc9": {
     "hasBookInternalId": "@010038",
-    "hasBookTitle": "Antonio's Revenge (Gair edition)",
+    "hasBookTitle": "Antonio's Revenge (RGa edition)",
     "hasEdition": "ed. John Marston. <i>Antonio's Revenge. </i>The Revels Plays. Manchester: Manchester University Press, 1978, repr. 1999.",
     "isWrittenBy": [
       "ww_d20c9849f2078d70"
@@ -956,7 +977,7 @@
       "ww_2f9e30089f2fa1c1"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_a70c78f7c2563c1d": {
@@ -978,8 +999,8 @@
       "ww_2f923c7f18095fc0"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232",
-      "ww_5fb3825d93e43c10"
+      "ww_0ee31c6b9440b9ca",
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_d96cf3715d049fff": {
@@ -1001,7 +1022,7 @@
   },
   "ww_5af91280461707f1": {
     "hasBookInternalId": "@005134",
-    "hasBookTitle": "The Plays of John Marston (Wood edition)",
+    "hasBookTitle": "The Plays of John Marston (HWo edition)",
     "hasEdition": "ed. <i>The Plays of John Marston in Three Volumes. </i>Edinburgh and London: Oliver and Boyd, 1934-1939.",
     "isWrittenBy": [
       "ww_a943388f673c7fa4"
@@ -1033,7 +1054,27 @@
       "ww_06311c47190f2d0a"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
+    ]
+  },
+  "ww_ff9f3261a368ba9d": {
+    "hasBookInternalId": "@005726",
+    "hasBookTitle": "The Tempest (ATV edition)",
+    "hasEdition": "William Shakespeare.<i> The Tempest. </i>London: Bloomsbury, 2011.",
+    "isWrittenBy": [
+      "ww_90cec0c5872ecefc",
+      "ww_658813ed197adee6"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:2011:2011",
+    "hasPublicationDate": "GREGORIAN:2011:2011",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "WOMAN WRITER",
+      "Shakespeare"
     ]
   },
   "ww_8cb76d5682717af8": {
@@ -1088,7 +1129,7 @@
   },
   "ww_12b8cda82738e9e2": {
     "hasBookInternalId": "@010006",
-    "hasBookTitle": "Sir William D'Avenant's Relation to Shakespeare",
+    "hasBookTitle": "WdA's Relation to Shp",
     "hasEdition": "<i>Sir William Davenant's Relation to Shakespeare. With an Analysis of the Chief Characters of Davenant's Plays. </i>PhD [supervised by Emil Koeppel], Strasbourg 1905.",
     "isWrittenBy": [
       "ww_5d19ae76208b92a9"
@@ -1122,27 +1163,6 @@
       "Shakespeare"
     ]
   },
-  "ww_55bc1a3b04bf8a8d": {
-    "hasBookInternalId": "@010084",
-    "hasBookTitle": "FDT (Folger Digital Texts)",
-    "hasEdition": "eds. <i>FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts. </i>2010. https://www.folgerdigitaltexts.org.",
-    "isWrittenBy": [
-      "ww_386448c09c02ba3f",
-      "ww_55f5e9f5fe14853f",
-      "ww_c8fa0de8d0fc2fc4",
-      "ww_4d01a832f50d804e"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:2010:2010",
-    "hasPublicationDate": "GREGORIAN:2010:2010",
-    "hasGenre": [
-      "Fulltext database"
-    ],
-    "hasSubject": [
-      "Literature and theatre",
-      "Shakespeare"
-    ]
-  },
   "ww_a97f692ed045759b": {
     "hasBookInternalId": "@000952",
     "hasBookTitle": "The Reign of Edward III",
@@ -1159,7 +1179,7 @@
       "History (play)"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_7c6dc2f52fef22bc": {
@@ -1177,7 +1197,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_25455f7805208571": {
@@ -1196,7 +1216,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_df2b8c2f18df151a": {
@@ -1245,8 +1265,7 @@
     "hasEdition": "Lucrece.",
     "hasGenre": [
       "Epic and verse narrative"
-    ],
-    "isLexiaBook": "ww_309f9bd20a654154"
+    ]
   },
   "ww_ed188855bd6c9ad0": {
     "hasBookInternalId": "@001012",
@@ -1287,14 +1306,13 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_c741d607338b9c9f"
-    ],
-    "isLexiaBook": "ww_99983faa64efde57"
+      "ww_c741d607338b9c9f",
+      "ww_09472844a3558c55"
+    ]
   },
   "ww_bcc975a9199bde49": {
     "hasBookInternalId": "@010199",
-    "hasBookTitle": "The Works of John Marston (Bullen edition)",
+    "hasBookTitle": "The Works of John Marston (HBu edition)",
     "hasEdition": "ed. <i>The Works of John Marston. </i>3 vols. London: Nimmo, 1887.",
     "isWrittenBy": [
       "ww_4ea15fc920a6e8b6"
@@ -1472,14 +1490,15 @@
     "hasPublicationDate": "GREGORIAN:1598",
     "hasEdition": "Love's Labour's Lost.",
     "hasGenre": [
-      "Comedy"
+      "Comedy",
+      "History (play)"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_c741d607338b9c9f",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_c741d607338b9c9f"
     ]
   },
   "ww_56f51ee20f36f654": {
@@ -1542,7 +1561,7 @@
     ],
     "performedIn": [
       "ww_c741d607338b9c9f",
-      "ww_55be081be74d2855"
+      "ww_0085b41dfd1f874e"
     ]
   },
   "ww_5196ea0769532431": {
@@ -1564,7 +1583,7 @@
     ],
     "performedIn": [
       "ww_c741d607338b9c9f",
-      "ww_55be081be74d2855"
+      "ww_0085b41dfd1f874e"
     ]
   },
   "ww_0f0f2ccb24fa3b96": {
@@ -1602,7 +1621,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_e81f44945dfa651c": {
@@ -1658,7 +1677,7 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_55be081be74d2855"
+      "ww_0085b41dfd1f874e"
     ]
   },
   "ww_35b0a93761cb3765": {
@@ -1694,12 +1713,12 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
-  "ww_689b8b48fc8ec4c0": {
+  "ww_a5eeb79de226192a": {
     "hasBookInternalId": "@001151",
-    "hasBookTitle": "The Two Angry Women of Abingdon",
+    "hasBookTitle": "Two Angry Women of Abingdon",
     "isWrittenBy": [
       "ww_ce94987303de0652"
     ],
@@ -1716,9 +1735,9 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ],
-    "isLexiaBook": "ww_8516ea90af13c671"
+    "isLexiaBook": "ww_d451742ef7d1980f"
   },
   "ww_cf54c5dadfb6dc04": {
     "hasBookInternalId": "@001188",
@@ -1739,7 +1758,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_3c135d434850a738": {
@@ -1761,7 +1780,7 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_0c928f9e751dabbf": {
@@ -1782,7 +1801,7 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_55be081be74d2855"
+      "ww_0085b41dfd1f874e"
     ]
   },
   "ww_4a0afee9ece50ddb": {
@@ -1805,13 +1824,13 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ],
     "isLexiaBook": "ww_851be631e44e400f"
   },
   "ww_2e08ba1bdf49c8dc": {
     "hasBookInternalId": "@010105",
-    "hasBookTitle": "Old Fortunatus (Schere edition)",
+    "hasBookTitle": "Old Fortunatus (HSc edition)",
     "hasEdition": "ed. <i>Thomas Dekker. The Pleasant Comedie of old Fortunatus. </i>Erlangen and Leipzig: 1901.",
     "isWrittenBy": [
       "ww_a3b3b053205764b1"
@@ -1862,9 +1881,8 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
-    ],
-    "isLexiaBook": "ww_4f503e64dbefd059"
+      "ww_09472844a3558c55"
+    ]
   },
   "ww_5c3ae833a8aaf03d": {
     "hasBookInternalId": "@001237",
@@ -1884,7 +1902,7 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ],
     "isLexiaBook": "ww_ad2a7b8ba9d5c705"
   },
@@ -1924,6 +1942,23 @@
       "Shakespeare"
     ]
   },
+  "ww_643078306021b32a": {
+    "hasBookInternalId": "@006090",
+    "hasBookTitle": "An Humorous Day's Mirth (Edelman edition)",
+    "hasEdition": "ed. George Chapman. <i>An Humorous Day's Mirth. </i>The Revels Plays. Manchester: Manchester University Press, 2010. ",
+    "isWrittenBy": [
+      "ww_904a3011a92fb67c"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:2010:2010",
+    "hasPublicationDate": "GREGORIAN:2010:2010",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ]
+  },
   "ww_4899784ecc7f3845": {
     "hasBookInternalId": "@010031",
     "hasBookTitle": "Shakspere's Silences",
@@ -1961,7 +1996,7 @@
   },
   "ww_b448a8b1df6fffa0": {
     "hasBookInternalId": "@005699",
-    "hasBookTitle": "The Malcontent (Hunter edition)",
+    "hasBookTitle": "The Malcontent (GHu edition)",
     "hasEdition": "ed. <i>The Malcontent. </i>Manchester: Manchester University Press, 1975, repr. 1999.",
     "isWrittenBy": [
       "ww_b03485399e74fd98"
@@ -2139,8 +2174,8 @@
     "hasBookInternalId": "@005041",
     "hasBookTitle": "Belvedere",
     "isWrittenBy": [
-      "ww_7b88afb3c96d748f",
-      "ww_20d6b3bf3fdfeac2"
+      "ww_20d6b3bf3fdfeac2",
+      "ww_7b88afb3c96d748f"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1600:1600",
@@ -2153,12 +2188,12 @@
     "hasBookInternalId": "@005221",
     "hasBookTitle": "Acolastus' Afterwit",
     "isWrittenBy": [
-      "ww_7e08b5fab4c10b55",
-      "ww_1c3ea6e0cd221163"
+      "ww_1c3ea6e0cd221163",
+      "ww_7e08b5fab4c10b55"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1600:1600",
-    "hasEdition": "<i>Acolastvs; His Afterwitte. By S. N. </i>London: Iohn Baylie, 1600.",
+    "hasEdition": "<i>Acolastvs; His Afterwitte. By S. N. </i>London: John Bayly, 1600.",
     "hasEditionHist": "<i>Acolastvs; His Afterwitte. By S. N. </i>London: Iohn Baylie, 1600.",
     "hasGenre": [
       "Poetry unspecified"
@@ -2166,11 +2201,11 @@
   },
   "ww_bc577a06e5bb54c7": {
     "hasBookInternalId": "@010021",
-    "hasBookTitle": "The Works of Thomas Southerne (Jordan edition)",
+    "hasBookTitle": "The Works of Thomas Southerne (RJo edition)",
     "hasEdition": "eds. <i>The Works of Thomas Southerne. </i>2 vols. Oxford: Clarendon Press, 1988.",
     "isWrittenBy": [
-      "ww_ea90e1c76029f901",
-      "ww_c11600e212e4417a"
+      "ww_c11600e212e4417a",
+      "ww_ea90e1c76029f901"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1988:1988",
@@ -2201,12 +2236,12 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_38319ddb82fae050": {
     "hasBookInternalId": "@010018",
-    "hasBookTitle": "Eastward Ho (Van Fossen edition)",
+    "hasBookTitle": "Eastward Ho (VFo edition)",
     "hasEdition": "ed. <i>Eastward Ho. </i>Manchester: Manchester University Press, 1979, repr. 1999.",
     "isWrittenBy": [
       "ww_37083d29746e75d4"
@@ -2237,16 +2272,14 @@
     ],
     "isLexiaBook": "ww_f5b1e42b1240b2c4"
   },
-  "ww_b641a216f90ea1fd": {
+  "ww_42335f87b7f01426": {
     "hasBookInternalId": "@001304",
-    "hasBookTitle": "Satiromastix, or the Untrussing",
+    "hasBookTitle": "Satiromastix, or the Untrussing of the Humorous Poet",
     "isWrittenBy": [
       "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1601:1601",
-    "hasFirstPerformanceDate": "GREGORIAN:1601",
-    "hasPublicationDate": "GREGORIAN:1602",
     "hasEdition": "\"Satiromastix.\" The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 1, 308-385.",
     "hasEditionHist": "\"Satiromastix.\" The Dramatic Works of Thomas Dekker. Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 1, 308-385.",
     "hasGenre": [
@@ -2257,7 +2290,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_ce8da2e3a260a394": {
@@ -2316,7 +2349,7 @@
   },
   "ww_c01ad6e0012b6bb0": {
     "hasBookInternalId": "@006444",
-    "hasBookTitle": "Satiromastix (Scherer edition)",
+    "hasBookTitle": "Satiromastix (HSc edition)",
     "hasEdition": "ed. <i>Thomas Dekker. Satiro-Mastix or The Vntrvssing of the Humorous Poet. </i>Louvain: A. Uytpruyst, 1907.",
     "isWrittenBy": [
       "ww_a3b3b053205764b1"
@@ -2348,12 +2381,12 @@
       "Literature and theatre"
     ]
   },
-  "ww_71f96878131c4709": {
+  "ww_8195b4a4a6863ab4": {
     "hasBookInternalId": "@001296",
-    "hasBookTitle": "Poetaster",
+    "hasBookTitle": "Poetaster, or the Arraignment",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_9b2d545e20d62482"
+      "ww_9b2d545e20d62482",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1601:1601",
@@ -2368,9 +2401,8 @@
       "ww_eb1d4988fa5b0fe5"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
-    ],
-    "isLexiaBook": "ww_914c1861890bba1b"
+      "ww_f4835626deff2681"
+    ]
   },
   "ww_2d3c33d5ceeb1a1c": {
     "hasBookInternalId": "@001311",
@@ -2391,9 +2423,8 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
-    ],
-    "isLexiaBook": "ww_87550fe03ffafee6"
+      "ww_78c9c657a6d6a82c"
+    ]
   },
   "ww_573381af1170e2c9": {
     "hasBookInternalId": "@001325",
@@ -2413,7 +2444,7 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_3b149092050ca583": {
@@ -2434,13 +2465,13 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2a8ba047639efe35"
+      "ww_3edf5a982d0a86b2"
     ],
     "hasEdition": "<i>A Pleasant Comedie, Called Wily Begvilde. The Chiefe Actors be these: A poore Scholler, a rich Foole, and a Knaue at a shifte. </i>London: H. L. for Clement Knight, 1606."
   },
   "ww_7ad6024748f5b7ef": {
     "hasBookInternalId": "@005698",
-    "hasBookTitle": "Parasitaster (Blostein edition)",
+    "hasBookTitle": "Parasitaster (DBl)",
     "hasEdition": "ed. Parasitaster or The Fawn. Manchester: Manchester University Press, 1978.",
     "isWrittenBy": [
       "ww_924e9d6c1a0abf2b"
@@ -2471,24 +2502,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
-    ]
-  },
-  "ww_643078306021b32a": {
-    "hasBookInternalId": "@006090",
-    "hasBookTitle": "An Humorous Day's Mirth (Edelman edition)",
-    "hasEdition": "ed. George Chapman. <i>An Humorous Day's Mirth. </i>The Revels Plays. Manchester: Manchester University Press, 2010. ",
-    "isWrittenBy": [
-      "ww_904a3011a92fb67c"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:2010:2010",
-    "hasPublicationDate": "GREGORIAN:2010:2010",
-    "hasGenre": [
-      "Annotated edition"
-    ],
-    "hasSubject": [
-      "Literature and theatre"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_bb90da7c699e38e8": {
@@ -2504,26 +2518,26 @@
     "hasEdition": "\"The Four Apprentices in London.\" The Dramatic Works, Now First Collected with Illustrative Notes and A Memoir of the Author in Six Volumes. London: John Pearson, 1874. Vol. 2, 159-254.",
     "hasEditionHist": "\"The Four Apprentices in London.\" The Dramatic Works, Now First Collected with Illustrative Notes and A Memoir of the Author in Six Volumes. London: John Pearson, 1874. Vol. 2, 159-254.",
     "hasGenre": [
-      "Romance",
-      "Tragedy"
+      "Tragedy",
+      "Romance"
     ],
     "performedBy": [
       "ww_cf1e1a78f52e58d7",
       "ww_f31f247137fcb48d"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232",
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5",
+      "ww_0ee31c6b9440b9ca"
     ]
   },
   "ww_ae241404822b51fa": {
     "hasBookInternalId": "@001369",
     "hasBookTitle": "Sir Thomas Wyatt",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
       "ww_d78940f8a8554ca3",
-      "ww_f10aec8cfe5ff90d",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_87dbd52f1c5b813b",
+      "ww_f10aec8cfe5ff90d"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1602:1602",
@@ -2535,7 +2549,7 @@
       "History (play)"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_aff3e1e0ec71023e": {
@@ -2556,12 +2570,12 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
-  "ww_125d2bab64edf79d": {
+  "ww_8783bacaced334e1": {
     "hasBookInternalId": "@005000",
-    "hasBookTitle": "Sonnets (Shakespeare)",
+    "hasBookTitle": "Sonnets (WSh)",
     "isWrittenBy": [
       "ww_684176b58bc762f6"
     ],
@@ -2571,7 +2585,7 @@
     "hasGenre": [
       "Poetry unspecified"
     ],
-    "hasEdition": "<i>Sonnets.</i>"
+    "hasEdition": "<i>Sonnets.</i>."
   },
   "ww_9b67ca7f120fc425": {
     "hasBookInternalId": "@001437",
@@ -2591,15 +2605,15 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
-  "ww_ad7af8eb91622840": {
+  "ww_41b526d2aa2e24a0": {
     "hasBookInternalId": "@001450",
-    "hasBookTitle": "Westward Ho",
+    "hasBookTitle": "Westward Ho!",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1604:1604",
@@ -2609,8 +2623,7 @@
     "hasEditionHist": "\"Westward Ho.\" <i>The Dramatic Works of Thomas Dekker. </i>Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 2, 318-393.",
     "hasGenre": [
       "Comedy"
-    ],
-    "isLexiaBook": "ww_6c42ba79c3406f1f"
+    ]
   },
   "ww_5896eae0c8ad61ac": {
     "hasBookInternalId": "@001428",
@@ -2630,7 +2643,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_7ce8c060adcb001c": {
@@ -2652,7 +2665,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_9878ac4728900ba4": {
@@ -2674,7 +2687,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_2904e9f7b34ab517": {
@@ -2696,8 +2709,8 @@
       "ww_b92cc9cd25fb9404"
     ],
     "performedIn": [
-      "ww_82d728884af7f25a",
-      "ww_55be081be74d2855"
+      "ww_6f45f31857387ead",
+      "ww_0085b41dfd1f874e"
     ]
   },
   "ww_c7017a2fd4b1ff37": {
@@ -2719,7 +2732,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_454a9a7cc83a8748": {
@@ -2740,12 +2753,12 @@
       "Shakespeare"
     ]
   },
-  "ww_9e016d955f51c36d": {
+  "ww_239f79324311ed6d": {
     "hasBookInternalId": "@001431",
-    "hasBookTitle": "Honest Whore Part 1",
+    "hasBookTitle": "The Honest Whore Part 1",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1604:1604",
@@ -2760,9 +2773,8 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2a8ba047639efe35"
-    ],
-    "isLexiaBook": "ww_f69f350a11066b30"
+      "ww_3edf5a982d0a86b2"
+    ]
   },
   "ww_a9ac3afc4eca7d49": {
     "hasBookInternalId": "@001486",
@@ -2782,7 +2794,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_9010922e52e83dc1": {
@@ -2799,13 +2811,13 @@
       "Poetry unspecified"
     ]
   },
-  "ww_c021f9c6c9cb807d": {
+  "ww_064c7201491b534b": {
     "hasBookInternalId": "@001473",
-    "hasBookTitle": "Eastward Ho",
+    "hasBookTitle": "Eastward Ho!",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
+      "ww_8501ec457f433848",
       "ww_9b2d545e20d62482",
-      "ww_8501ec457f433848"
+      "ww_ad03d7c87e5b9c24"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1605:1605",
@@ -2820,7 +2832,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_68caf0be92d6d9a9": {
@@ -2859,12 +2871,12 @@
       "Shakespeare"
     ]
   },
-  "ww_2f9b1b0a9d86ff6d": {
+  "ww_b6a3b13f425d159b": {
     "hasBookInternalId": "@001483",
-    "hasBookTitle": "Northward Ho",
+    "hasBookTitle": "Northward Ho!",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1605:1605",
@@ -2879,7 +2891,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_9ccfd1aca399310c": {
@@ -2900,7 +2912,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_61872493594a73aa": {
@@ -2919,8 +2931,8 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_c1d1a1abcb442546",
-      "ww_2ac44791912e7737"
+      "ww_b00be8347d0cb16d",
+      "ww_25bb6c5b90a2e2fe"
     ],
     "performedBy": [
       "ww_271a9756145ec962"
@@ -2944,7 +2956,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_7c3febaec4e5aacf": {
@@ -3021,7 +3033,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_376041155cee86ea": {
@@ -3041,9 +3053,9 @@
       "Literature and theatre"
     ]
   },
-  "ww_3ef4bad0a15f47c1": {
+  "ww_e47749f03b5fb074": {
     "hasBookInternalId": "@001517",
-    "hasBookTitle": "Antony and Cleopatra (Shakespeare)",
+    "hasBookTitle": "Antony and Cleopatra",
     "isWrittenBy": [
       "ww_684176b58bc762f6"
     ],
@@ -3069,19 +3081,19 @@
     "hasEdition": "Lingva. Or The Combat of the Tongue, And the fiue Senses For Superiority. A pleasant Comoedie. London: G. Eld for Simon Waterson, 1607.",
     "hasEditionHist": "Lingva: Or The Combat of the Tongue, And the fiue Senses For Superiority. A pleasant Comoedie. First Edition. London: G. Eld, for Simon Waterson, 1607.",
     "hasGenre": [
-      "Masque or other",
-      "Comedy"
+      "Comedy",
+      "Masque or other"
     ],
     "performedIn": [
-      "ww_2ac44791912e7737"
+      "ww_25bb6c5b90a2e2fe"
     ]
   },
   "ww_b8eaca27cf9698df": {
     "hasBookInternalId": "@001555",
     "hasBookTitle": "Pericles",
     "isWrittenBy": [
-      "ww_684176b58bc762f6",
-      "ww_986dd93d2d794ff5"
+      "ww_986dd93d2d794ff5",
+      "ww_684176b58bc762f6"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1607:1607",
@@ -3095,7 +3107,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_6129dfa4528ff009": {
@@ -3116,7 +3128,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_68adf3e0b397cc5a": {
@@ -3138,7 +3150,7 @@
       "ww_6266d7737104fccc"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_52ec9da7e11bfdb0": {
@@ -3160,7 +3172,7 @@
       "ww_b92cc9cd25fb9404"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232"
+      "ww_0ee31c6b9440b9ca"
     ]
   },
   "ww_ad347c17c733512d": {
@@ -3182,7 +3194,7 @@
       "ww_6266d7737104fccc"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_1bfa3812390e9c05": {
@@ -3203,8 +3215,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_e40171df17c362c2": {
@@ -3243,7 +3255,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_d07c9febda3841a4": {
@@ -3265,7 +3277,7 @@
       "ww_6266d7737104fccc"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ],
     "isLexiaBook": "ww_991149b9f44774b5"
   },
@@ -3288,7 +3300,7 @@
       "ww_b103d94d309afeef"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_5030bdc99433873e": {
@@ -3324,7 +3336,7 @@
       "ww_40dbf7972330f98d"
     ],
     "performedIn": [
-      "ww_6aa5aa597850d3c1"
+      "ww_711c5ee27a4eef5d"
     ]
   },
   "ww_d0062b214b9d3402": {
@@ -3394,7 +3406,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_0103dc75cd6d8928": {
@@ -3415,8 +3427,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_90bb6791f9507246": {
@@ -3438,7 +3450,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_bc22dc3e273c91d4": {
@@ -3507,8 +3519,8 @@
     "hasEdition": "<i>The scourge of folly consisting of satyricall epigramms, and others in honor of many noble and worthy persons of our land. Together, with a pleasant (thought discordant) descant vpon most English prouerbes: and others. </i>London: Edward Allde for Richard Redmer, 1611.",
     "hasEditionHist": "The scourge of folly consisting of satyricall epigramms, and others in honor of many noble and worthy persons of our land. Together, with a pleasant (thought discordant) descant vpon most English prouerbes: and others. London: Edward Allde for Richard Redmer, 1611.",
     "hasGenre": [
-      "Verse satire",
-      "Poetry unspecified"
+      "Poetry unspecified",
+      "Verse satire"
     ]
   },
   "ww_0466ed69bf4a50be": {
@@ -3529,9 +3541,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
-    ],
-    "isLexiaBook": "ww_1a4e8bbef4fe708a"
+      "ww_f4835626deff2681"
+    ]
   },
   "ww_a88d7234bfd9a771": {
     "hasBookInternalId": "@001631",
@@ -3551,8 +3562,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_5350aa8f1cdc7d01": {
@@ -3574,7 +3585,7 @@
       "ww_b92cc9cd25fb9404"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232"
+      "ww_0ee31c6b9440b9ca"
     ]
   },
   "ww_867a24037de71368": {
@@ -3596,7 +3607,7 @@
       "ww_b92cc9cd25fb9404"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232"
+      "ww_0ee31c6b9440b9ca"
     ]
   },
   "ww_51a308c9b1ba699d": {
@@ -3618,8 +3629,8 @@
     "hasBookInternalId": "@001674",
     "hasBookTitle": "Henry VIII",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1612:1612",
@@ -3630,9 +3641,9 @@
       "History (play)"
     ]
   },
-  "ww_f388f19fd5c866a9": {
+  "ww_dae26dc00e067d83": {
     "hasBookInternalId": "@015167",
-    "hasBookTitle": "Annals (Hayward)",
+    "hasBookTitle": "Annals (JHay)",
     "isWrittenBy": [
       "ww_7c9389d75703bf3a"
     ],
@@ -3666,15 +3677,15 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_384598056518c080": {
     "hasBookInternalId": "@001724",
     "hasBookTitle": "The Two Noble Kinsmen",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1613:1613",
@@ -3776,8 +3787,8 @@
     "hasBookInternalId": "@001911",
     "hasBookTitle": "The Custom of the Country",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1619:1619",
@@ -3792,8 +3803,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_e7c84f709b583d5f": {
@@ -3813,7 +3824,7 @@
       "ww_ae42ffd9324d5246"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232"
+      "ww_0ee31c6b9440b9ca"
     ],
     "hasGenre": [
       "Tragedy"
@@ -3837,8 +3848,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_793656d1383624b3": {
@@ -3861,8 +3872,8 @@
     "hasBookInternalId": "@002013",
     "hasBookTitle": "The Prophetess",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1622:1622",
@@ -3877,8 +3888,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_791d02b9b4f75414": {
@@ -3966,8 +3977,8 @@
     "hasBookInternalId": "@002186",
     "hasBookTitle": "Appius and Virginia",
     "isWrittenBy": [
-      "ww_f10aec8cfe5ff90d",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_f10aec8cfe5ff90d"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1626:1626",
@@ -4001,7 +4012,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_c0565d6dc5476bc1": {
@@ -4020,7 +4031,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ],
     "hasGenre": [
       "Tragedy"
@@ -4045,7 +4056,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_cde6c9bb00f512f1": {
@@ -4085,8 +4096,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_0a181b40f9edb85e": {
@@ -4108,7 +4119,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_b36965708055a175": {
@@ -4151,7 +4162,7 @@
   },
   "ww_84a8155c55c3c1e2": {
     "hasBookInternalId": "@010009",
-    "hasBookTitle": "The Vow-Breaker (Wallrath edition)",
+    "hasBookTitle": "The Vow-Breaker (HaW edition)",
     "hasEdition": "ed. <i>William Sampson's The Vow-Breaker. </i>Louvain: A. Uytpruyst, 1914.",
     "isWrittenBy": [
       "ww_1d9ffbd1fde1bb58"
@@ -4222,7 +4233,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_485a54b3b41dff9b": {
@@ -4244,8 +4255,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_cf1407d337262e2b": {
@@ -4261,7 +4272,7 @@
     "hasEdition": "\"The Jealous Lovers.\" The Poetical and Dramatic Works of Thomas Randolph [...] First Collected and Edited from the Early Copies and for MSS with some Account of the Author and Occasional notes. Ed. W. Carew Hazlitt. London: Reeves and Turner, 1875. 51-172.",
     "hasEditionHist": "The Jealous Lovers. A Comedie presented to their gracious Majesties at Cambridge, by the Students of Trinity-Colledge. Cambridge: University Printers, 1632.",
     "performedIn": [
-      "ww_2ac44791912e7737"
+      "ww_25bb6c5b90a2e2fe"
     ],
     "hasGenre": [
       "Comedy"
@@ -4303,8 +4314,8 @@
       "ww_fb09029608b37502"
     ],
     "performedIn": [
-      "ww_c2cdd6ec99df368c",
-      "ww_ce4161054e738f9e"
+      "ww_ce4161054e738f9e",
+      "ww_c2cdd6ec99df368c"
     ],
     "hasBookComment": "It was written by the son of Shakespeare's fellow actor and editor John Hemings."
   },
@@ -4403,8 +4414,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_cbaaf055faeea9bc": {
@@ -4608,7 +4619,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_c354c8aa7bc6d63e": {
@@ -4630,7 +4641,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_3f5747bce6d798fe": {
@@ -4649,7 +4660,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_a6e17ea1c0063cc4": {
@@ -4777,9 +4788,9 @@
       "History, (auto-)biography"
     ]
   },
-  "ww_469781d15b89c310": {
+  "ww_fb61dcab58c94e2d": {
     "hasBookInternalId": "@005239",
-    "hasBookTitle": "Pompey",
+    "hasBookTitle": "Pompey (KaPh)",
     "isWrittenBy": [
       "ww_023482909a532caf"
     ],
@@ -4807,9 +4818,9 @@
       "Comedy"
     ]
   },
-  "ww_4c39d1027373f11b": {
+  "ww_eaaa23253b8a2271": {
     "hasBookInternalId": "@005252",
-    "hasBookTitle": "Macbeth, A Tragedy (D'Avenant)",
+    "hasBookTitle": "Macbeth, A Tragedy (WdA)",
     "isWrittenBy": [
       "ww_d8f1d08e1ca080b7"
     ],
@@ -4982,12 +4993,12 @@
       "Comedy"
     ]
   },
-  "ww_dea5c38da7ea3cc1": {
+  "ww_65e099a63ccd8105": {
     "hasBookInternalId": "@005483",
-    "hasBookTitle": "Oedipus (Dryden and Lee)",
+    "hasBookTitle": "Oedipus (JDr)",
     "isWrittenBy": [
-      "ww_12f7d2e19bfcb92f",
-      "ww_ed5b7d7b5b4ff788"
+      "ww_ed5b7d7b5b4ff788",
+      "ww_12f7d2e19bfcb92f"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1678:1678",
@@ -5028,8 +5039,8 @@
     "hasBookInternalId": "@005019",
     "hasBookTitle": "The Duke of Guise",
     "isWrittenBy": [
-      "ww_12f7d2e19bfcb92f",
-      "ww_ed5b7d7b5b4ff788"
+      "ww_ed5b7d7b5b4ff788",
+      "ww_12f7d2e19bfcb92f"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1682:1682",
@@ -5252,7 +5263,7 @@
       "ww_8e7721de65bda5cd"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_bc0274e2c05d0e3c": {
@@ -5270,7 +5281,7 @@
     ],
     "hasBookComment": "The complete text is lost.",
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_f4b1a8fa8f784028": {
@@ -5356,7 +5367,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_e4e891d7d35c5676"
+      "ww_bbc60e095377316e"
     ]
   },
   "ww_cab45865f23c0801": {
@@ -5424,7 +5435,7 @@
       "ww_06311c47190f2d0a"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_9d970ff943635312": {
@@ -5439,7 +5450,8 @@
     "hasEditionHist": "<i>Groatsworth of Wit. </i>London: William Wright, 1592.",
     "hasGenre": [
       "Other nonfiction"
-    ]
+    ],
+    "isLexiaBook": "ww_2e6cd33807650bcb"
   },
   "ww_8d0a36ff29bd92f4": {
     "hasBookInternalId": "@005026",
@@ -5473,8 +5485,8 @@
     "hasBookInternalId": "@005006",
     "hasBookTitle": "Hero and Leander",
     "isWrittenBy": [
-      "ww_63d5fe36ffac5d32",
-      "ww_8501ec457f433848"
+      "ww_8501ec457f433848",
+      "ww_63d5fe36ffac5d32"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1593:1593",
@@ -5532,7 +5544,7 @@
   },
   "ww_4e091746c9370e38": {
     "hasBookInternalId": "@010061",
-    "hasBookTitle": "The Life of Marlowe",
+    "hasBookTitle": "The Life of Mlw",
     "hasEdition": "ed. <i>The Life of Marlowe and The Tragedy of Dido Queen of Carthage. </i>London: Methuen and Co., 1930.",
     "isWrittenBy": [
       "ww_b33f1194b1177f69"
@@ -5594,7 +5606,7 @@
   },
   "ww_9ec767d44e3a36f8": {
     "hasBookInternalId": "@010032",
-    "hasBookTitle": "The Fleire (Nibbe edition)",
+    "hasBookTitle": "The Fleire (HNi edition)",
     "hasEdition": "ed. <i>The Fleire by Edward Sharpham nach der Quarto 1607 herausgegeben. </i>Louvain: A. Uystpruyst, 1912. Print edition of Hunold Nibbe, ed. <i>The Fleire by Edward Sharpham: kritische Neuausgabe mit Einleitung und Anmerkungen. </i>PhD [supervised by Emil Koeppel], Strasbourg 1911. ",
     "isWrittenBy": [
       "ww_2c045bd15b626e88"
@@ -5628,7 +5640,7 @@
   },
   "ww_268e430c690f89be": {
     "hasBookInternalId": "@006210",
-    "hasBookTitle": "Marlowe's \"Tamburlaine\" in Early Shakespeare",
+    "hasBookTitle": "Mlw's Role in Early Shakespeare",
     "hasEdition": "\"The Voice of Marlowe's Tamburlaine in early Shakespeare.\" <i>Comparative Drama </i>31.2 (Summer 1997): 213-223.",
     "isWrittenBy": [
       "ww_4c5ba5318216a043"
@@ -5649,9 +5661,9 @@
     "hasBookTitle": "The Lost Plays Database",
     "hasEdition": "eds. The Lost Plays Database. 2009. https://lostplays.folger.edu.",
     "isWrittenBy": [
-      "ww_9b31ef6bda9ca82e",
+      "ww_6eecb90205e22797",
       "ww_fc5d42be67d5a977",
-      "ww_6eecb90205e22797"
+      "ww_9b31ef6bda9ca82e"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2009:2009",
@@ -5693,7 +5705,7 @@
   },
   "ww_0c5550692d30fd91": {
     "hasBookInternalId": "@005194",
-    "hasBookTitle": "The Poems of John Marston (Davenport edition)",
+    "hasBookTitle": "The Poems of John Marston (ADa)",
     "hasEdition": "ed. <i>The Poems of John Marston. </i>Liverpool University Press 1961.",
     "isWrittenBy": [
       "ww_4aad8076b21701ae"
@@ -5762,7 +5774,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_0d47d04341ff3e0d": {
@@ -5784,7 +5796,7 @@
       "ww_2f923c7f18095fc0"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_ce9e48c1ecd24728": {
@@ -5842,7 +5854,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_01a2557ffc81f6ca": {
@@ -5904,8 +5916,8 @@
     "hasBookTitle": "The Madrigal, the Lute and Elizabethan Politics",
     "hasEdition": "\"The Madrigal, the Lute Song and Elizabethan Politics.\" <i>Past and Present </i>44 (August 1969): 3-51.",
     "isWrittenBy": [
-      "ww_9d448942a16583fe",
-      "ww_c961f8c651ae6763"
+      "ww_c961f8c651ae6763",
+      "ww_9d448942a16583fe"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1969:1969",
@@ -5937,7 +5949,7 @@
   },
   "ww_e38a56a7efbf9723": {
     "hasBookInternalId": "@005700",
-    "hasBookTitle": "The Insatiate Countess (Melchiori edition)",
+    "hasBookTitle": "The Insatiate Countess (GMe)",
     "hasEdition": "ed. John Marston. <i>The Insatiate Countess. </i>Manchester: Manchester University Press, 1984.",
     "isWrittenBy": [
       "ww_e651195b0e2d0014"
@@ -6005,24 +6017,6 @@
       "Shakespeare"
     ]
   },
-  "ww_2f767c233db0ba89": {
-    "hasBookInternalId": "@010012",
-    "hasBookTitle": "Congreve as a Shakespearean",
-    "hasEdition": "\"Congreve as a Shakespearean.\" <i>Poetry and Drama 1570-1700: Essays in Honour of Harold F. Brooks. </i>Eds. Antony Coleman and Antony Hammond. London and New York: Methuen, 1981. 186-199.",
-    "isWrittenBy": [
-      "ww_abd8a246fb849431"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1981:1981",
-    "hasPublicationDate": "GREGORIAN:1981:1981",
-    "hasGenre": [
-      "Academic"
-    ],
-    "hasSubject": [
-      "Literature and theatre",
-      "Shakespeare"
-    ]
-  },
   "ww_c4dd28c52431d7a3": {
     "hasBookInternalId": "@010041",
     "hasBookTitle": "Shakespeare and Jonson among the Pamphleteers",
@@ -6061,7 +6055,7 @@
   },
   "ww_db0e9fa009aad7b3": {
     "hasBookInternalId": "@010070",
-    "hasBookTitle": "Word and Image Clusters in Shakespeare",
+    "hasBookTitle": "Word and Image Clusters in Shp",
     "hasEdition": "\"Word and Image Clusters in Shakespeare.\" <i>Swiss Papers in English Language and Literature (SPELL) 3 The Structure of Texts </i>(1987): 133-157. https://www.e-periodica.ch/cntmng?pid=spe-001:1987:3::281.",
     "isWrittenBy": [
       "ww_86c92244655c7f75"
@@ -6114,8 +6108,9 @@
       "ww_eb1d4988fa5b0fe5"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
-    ]
+      "ww_f4835626deff2681"
+    ],
+    "isLexiaBook": "ww_41ede034f612c386"
   },
   "ww_f6685305b5e15919": {
     "hasBookInternalId": "@010014",
@@ -6244,7 +6239,7 @@
   },
   "ww_a3bdfb5ec0f62f6f": {
     "hasBookInternalId": "@020005",
-    "hasBookTitle": "Hamlet (Jenkins edition)",
+    "hasBookTitle": "Hamlet (HaJ edition)",
     "hasEdition": "ed. William Shakespeare. <i>Hamlet. </i>New Arden Shakespeare. London: Methuen, 1982.",
     "isWrittenBy": [
       "ww_5630a28303424aa1"
@@ -6385,8 +6380,8 @@
     "hasBookInternalId": "@001391",
     "hasBookTitle": "The Malcontent",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_ad03d7c87e5b9c24"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1603:1603",
@@ -6401,7 +6396,7 @@
       "ww_eb1d4988fa5b0fe5"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_75ea66b2f428cc3e": {
@@ -6470,7 +6465,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_2541cf2e131d78f8": {
@@ -6492,7 +6487,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_aba8d90916ae3714": {
@@ -6514,7 +6509,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_d5621f1c0c233899": {
@@ -6563,7 +6558,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_4c03575c94189fa0": {
@@ -6585,43 +6580,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
-    ]
-  },
-  "ww_4ecd91ff283420a1": {
-    "hasBookInternalId": "@010126",
-    "hasBookTitle": "Collected Works Thomas Middleton (Taylor edition)",
-    "hasEdition": "eds. <i>The Collected Works of Thomas Middleton.</i> Oxford: Clarendon Press, 2007.",
-    "isWrittenBy": [
-      "ww_d97781c5821c201b",
-      "ww_b29f022218b6d47d"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:2007:2007",
-    "hasPublicationDate": "GREGORIAN:2007:2007",
-    "hasGenre": [
-      "Annotated edition"
-    ],
-    "hasSubject": [
-      "Literature and theatre"
-    ]
-  },
-  "ww_0dd45e53b3b0b09c": {
-    "hasBookInternalId": "@010124",
-    "hasBookTitle": "Acting and Violence",
-    "hasEdition": "\"Acting and Violence: The Revenger's Tragedy and Its Departures from Hamlet.\" <i>Studies in English Literature 1500-1900</i> 24:2 (Spring 1984): 275-291.",
-    "isWrittenBy": [
-      "ww_fac481b50f8ffd3a"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1984:1984",
-    "hasPublicationDate": "GREGORIAN:1984:1984",
-    "hasGenre": [
-      "Academic"
-    ],
-    "hasSubject": [
-      "Literature and theatre",
-      "Shakespeare"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_65a8b466f961261c": {
@@ -6642,7 +6601,7 @@
       "ww_6266d7737104fccc"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_214548c1fe400f28": {
@@ -6677,7 +6636,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ],
     "performedBy": [
       "ww_6266d7737104fccc"
@@ -6704,9 +6663,9 @@
     "hasBookInternalId": "@001605",
     "hasBookTitle": "The Insatiate Countess",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
+      "ww_4165dddf64bc6da3",
       "ww_18abf85e413e5632",
-      "ww_4165dddf64bc6da3"
+      "ww_ad03d7c87e5b9c24"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1610:1610",
@@ -6720,7 +6679,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_20ccef9d32f7b119": {
@@ -6759,7 +6718,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_aae46d6606af08c5": {
@@ -6781,7 +6740,7 @@
       "ww_b92cc9cd25fb9404"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232"
+      "ww_0ee31c6b9440b9ca"
     ]
   },
   "ww_468d7e5b9078fb34": {
@@ -6838,8 +6797,8 @@
       "ww_dfe3ddd6db3b2f36"
     ],
     "performedIn": [
-      "ww_f2d84cad074a045d",
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b",
+      "ww_619f41052f26be98"
     ]
   },
   "ww_bbe95c2adf8e27c8": {
@@ -6922,7 +6881,7 @@
       "ww_ae42ffd9324d5246"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232"
+      "ww_0ee31c6b9440b9ca"
     ]
   },
   "ww_ae445c827885ad63": {
@@ -7025,8 +6984,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_ae5a361b7f786e79": {
@@ -7087,9 +7046,9 @@
       "ww_c2cdd6ec99df368c"
     ]
   },
-  "ww_d1d68853548c173b": {
+  "ww_e221a57b9aa00b38": {
     "hasBookInternalId": "@002421",
-    "hasBookTitle": "The Wits (D'Avenant)",
+    "hasBookTitle": "The Wits (WdA)",
     "isWrittenBy": [
       "ww_d8f1d08e1ca080b7"
     ],
@@ -7105,7 +7064,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_f46dacc14c087bc2": {
@@ -7127,7 +7086,7 @@
       "ww_cf1e1a78f52e58d7"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_55ab4059c87d0c3d": {
@@ -7171,7 +7130,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_60a60dc6ecad70c0": {
@@ -7286,7 +7245,7 @@
     ],
     "hasBookComment": "This tragedy is Nr. 1165 in the DEEP database.",
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_c3d54a5f865059b5": {
@@ -7358,9 +7317,9 @@
       "Tragedy"
     ]
   },
-  "ww_cad6a8eeedbab769": {
+  "ww_a8cc0707baa8dbcc": {
     "hasBookInternalId": "@005255",
-    "hasBookTitle": "Titus Andronicus, or The Rape of Lavinia (Ravenscroft)",
+    "hasBookTitle": "Titus Andronicus, or The Rape of Lavinia (ERav)",
     "isWrittenBy": [
       "ww_99b03817dc566412"
     ],
@@ -7379,12 +7338,12 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1552:1552",
-    "hasEdition": "</i>Ralph Roister Doister. </i>Ed. Walter Wilson Greg. London: Malone Society, 1935. Quoted in: Sayre Greenfield. \"Quoting Hamlet in the Early Seventeenth Century.\" Modern Philology 105.3 (2008) 510-534.",
+    "hasEdition": "<i>Ralph Roister Doister.</i> Ed Clarence Griffin Child. Boston and New York: Houghton Mifflin Company, 1912.",
     "hasGenre": [
       "Comedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ],
     "isLexiaBook": "ww_c330cac7aada8e26"
   },
@@ -7409,8 +7368,8 @@
     "hasBookInternalId": "@005030",
     "hasBookTitle": "Those Five Questions (Tusculanae)",
     "isWrittenBy": [
-      "ww_2328c74af1f27243",
-      "ww_6b7b6aabda5c7c6b"
+      "ww_6b7b6aabda5c7c6b",
+      "ww_2328c74af1f27243"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1561:1561",
@@ -7445,7 +7404,7 @@
   },
   "ww_57b895420c0ddd3e": {
     "hasBookInternalId": "@010042",
-    "hasBookTitle": "Shakespeare and the Classical Tradition",
+    "hasBookTitle": "Shp and the Classical Tradition",
     "hasEdition": "<i>Shakespeare and the Classical Tradition. A Critical Guide to Commentary, 1660-1960. </i>Minneapolis: University of Minnesota Press, 1968.",
     "isWrittenBy": [
       "ww_9653a2d84d605ab3"
@@ -7513,9 +7472,9 @@
       "Classical Studies"
     ]
   },
-  "ww_24c859273eeee6ec": {
+  "ww_58cbf722dd96204e": {
     "hasBookInternalId": "@005044",
-    "hasBookTitle": "Sermons (Smith)",
+    "hasBookTitle": "Sermons (HSm)",
     "isWrittenBy": [
       "ww_0b287f59292b10a7"
     ],
@@ -7543,24 +7502,6 @@
       "Masque or other"
     ]
   },
-  "ww_26d7297a6051272d": {
-    "hasBookInternalId": "@000426",
-    "hasBookTitle": "Hercules Oetaeus",
-    "isWrittenBy": [
-      "ww_4620a1299d58ff72",
-      "ww_a00dfc9e63a5d0fe"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1566:1566",
-    "hasEdition": "187 recto-217 verso.",
-    "hasEditionHist": "187 recto-217 verso.",
-    "hasGenre": [
-      "Tragedy"
-    ],
-    "performedIn": [
-      "ww_5fb3825d93e43c10"
-    ]
-  },
   "ww_1591fb6e3ba12647": {
     "hasBookInternalId": "@005032",
     "hasBookTitle": "The Palace of Pleasure",
@@ -7573,6 +7514,21 @@
     "hasEditionHist": "The Palace of Pleasure: Beautified, adorned and well furnished, with Pleasaunt Histories and excellent Nouelles, selected out of diuers good and commendable Authors. London: Henry Denham for Richard Tottell and William Iones, 1566. 251-277.",
     "hasGenre": [
       "Prose unspecified"
+    ]
+  },
+  "ww_26d7297a6051272d": {
+    "hasBookInternalId": "@000426",
+    "hasBookTitle": "Hercules Oetaeus",
+    "isWrittenBy": [
+      "ww_4620a1299d58ff72",
+      "ww_a00dfc9e63a5d0fe"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1566:1566",
+    "hasEdition": "187 recto-217 verso.",
+    "hasEditionHist": "\"Hercules Oetaeus.\" Seneca. His Tenne Tragedies. Translated into Englysh.",
+    "hasGenre": [
+      "Tragedy"
     ]
   },
   "ww_7c79793591d10a0c": {
@@ -7593,12 +7549,12 @@
       "Shakespeare"
     ]
   },
-  "ww_f12103a17b6b776b": {
+  "ww_388d5bb101f97899": {
     "hasBookInternalId": "@005282",
-    "hasBookTitle": "Ovid's Metamorphoses",
+    "hasBookTitle": "Ovid's Metamorphoses (ArG)",
     "isWrittenBy": [
-      "ww_0adab3e3a15ca99c",
-      "ww_ead92b40726b9049"
+      "ww_ead92b40726b9049",
+      "ww_0adab3e3a15ca99c"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1567:1567",
@@ -7610,7 +7566,7 @@
   },
   "ww_19f62f745f6222da": {
     "hasBookInternalId": "@006211",
-    "hasBookTitle": "Marlowe's Role in Borrowed Lines",
+    "hasBookTitle": "Mlw's Role in Borrowed Lines",
     "hasEdition": "\"Marlowe's Role in Borrowed Lines.\" <i>PMLA </i>52 (1937): 902-903.",
     "isWrittenBy": [
       "ww_088c813d347a6ab3"
@@ -7640,9 +7596,9 @@
       "Poetry unspecified"
     ]
   },
-  "ww_1edfc9b636aaf41c": {
+  "ww_6d97db72979aef16": {
     "hasBookInternalId": "@005094",
-    "hasBookTitle": "Poems (Queen Elizabeth I)",
+    "hasBookTitle": "Poems (QE1)",
     "isWrittenBy": [
       "ww_d100f2a347f6233f"
     ],
@@ -7834,16 +7790,16 @@
     "hasBookInternalId": "@005080",
     "hasBookTitle": "The Civil Conversation",
     "isWrittenBy": [
-      "ww_504c9c25bd694690",
-      "ww_9fc186f153594d59"
+      "ww_9fc186f153594d59",
+      "ww_504c9c25bd694690"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1581:1581",
     "hasEdition": "<i>The ciuile conuersation of M. Steeuen Guazzo written first in Italian, and nowe translated out of French by George Pettie, deuided into foure bookes. [...]. </i>London: Richard Watkins, 1581.",
     "hasEditionHist": "5 verso.",
     "hasGenre": [
-      "Other nonfiction",
-      "Pamphlet or liturgical text"
+      "Pamphlet or liturgical text",
+      "Other nonfiction"
     ],
     "hasSubject": [
       "Sociology, lifestyle, travel"
@@ -7867,9 +7823,9 @@
       "Sociology, lifestyle, travel"
     ]
   },
-  "ww_76f884ee20961cab": {
+  "ww_065a6197580e3de2": {
     "hasBookInternalId": "@005293",
-    "hasBookTitle": "Ovid's Elegies (Marlowe)",
+    "hasBookTitle": "Ovid's Elegies",
     "isWrittenBy": [
       "ww_63d5fe36ffac5d32"
     ],
@@ -8049,8 +8005,8 @@
     "hasCreationDate": "GREGORIAN:1585:1585",
     "hasEdition": "<i>A Sinfull Mans Solace. </i>London: Richard Jones, 1585.",
     "hasGenre": [
-      "Other nonfiction",
-      "Pamphlet or liturgical text"
+      "Pamphlet or liturgical text",
+      "Other nonfiction"
     ],
     "hasSubject": [
       "Philosophy, religion"
@@ -8099,11 +8055,12 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1586:1586",
-    "hasEdition": "The Countesse of Pembrokes Arcadia. Written by Sir Philip Sidney Knight. Now since the first edition augmented and ended. London: John Windet for William Ponsonbie, 1593.",
     "hasEditionHist": "<i>The Countesse of Pembrokes Arcadia. Written by Sir Philip Sidney Knight. Now since the first edition augmented and ended. </i>London: John Windet for William Ponsonbie, 1593.",
     "hasGenre": [
+      "Epic and verse narrative",
       "Prose unspecified"
-    ]
+    ],
+    "hasEdition": "<i>The Countesse of Pembrokes Arcadia, written by Sir Philippe Sidnei. </i>London: John Windet for William Ponsonby, 1590."
   },
   "ww_7952766b7ca73ee0": {
     "hasBookInternalId": "@005034",
@@ -8140,7 +8097,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862",
+      "ww_99cb897ff63313b5",
       "ww_c741d607338b9c9f"
     ]
   },
@@ -8174,8 +8131,8 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10",
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5",
+      "ww_78c9c657a6d6a82c"
     ],
     "hasEdition": "\"The First Part of Tamburlaine The Great.\" The Complete Plays. Ed. J. B. Steane. London: Penguin 1986. 101-178.",
     "hasGenre": [
@@ -8217,7 +8174,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ],
     "hasBookComment": "This highly influential tragedy, which shares basic plot elements with <i>Hamlet</i>, is the only earlier revenge tragedy extant."
   },
@@ -8292,7 +8249,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_f052ab291abd7898": {
@@ -8346,7 +8303,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ],
     "isLexiaBook": "ww_94212d2dcb92bac0"
   },
@@ -8358,7 +8315,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1588:1588",
-    "hasEdition": "<i>The Turkish Muhammad and the Irene [Hiren] The Fair Greek. </i>1588.",
+    "hasEdition": "<i>The Turkish Muhammad and Irene [Hiren] The Fair Greek. </i>1588.",
     "hasGenre": [
       "Tragedy"
     ],
@@ -8434,8 +8391,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Politics, law, economics"
     ]
   },
   "ww_bc9316cd3fd58b2a": {
@@ -8530,7 +8487,7 @@
       "Romance"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ],
     "hasBookComment": "This romance has been controversially attributed to William Shakespeare, George Peele, Robert Greene and Thomas Lodge. "
   },
@@ -8562,8 +8519,8 @@
     "hasEdition": "<i>Florios second frutes to be gathered of twelue trees, of diuers but delightsome tastes to the tongues of Italians and Englishmen. To which is annexed his Gardine of recreation yeelding six thousand Italian prouerbs. </i>London: T. Orwin for Thomas Woodcock, 1591.",
     "hasEditionHist": "<i>Florios second frutes to be gathered of twelue trees, of diuers but delightsome tastes to the tongues of Italians and Englishmen. To which is annexed his Gardine of recreation yeelding six thousand Italian prouerbs. </i>London: T. Orwin for Thomas Woodcock, 1591.",
     "hasGenre": [
-      "Other nonfiction",
-      "Anthology"
+      "Anthology",
+      "Other nonfiction"
     ]
   },
   "ww_1406e63807fff1e7": {
@@ -8865,6 +8822,28 @@
       "Shakespeare"
     ]
   },
+  "ww_2142e70b669fb640": {
+    "hasBookInternalId": "@001143",
+    "hasBookTitle": "Every Man In His Humour",
+    "isWrittenBy": [
+      "ww_9b2d545e20d62482"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1599:1599",
+    "hasFirstPerformanceDate": "GREGORIAN:1598",
+    "hasPublicationDate": "GREGORIAN:1601",
+    "hasGenre": [
+      "Comedy"
+    ],
+    "performedBy": [
+      "ww_dc6a53fb57f6bea7"
+    ],
+    "performedIn": [
+      "ww_0085b41dfd1f874e"
+    ],
+    "isLexiaBook": "ww_8f82a21af04083e6",
+    "hasEdition": "<i>Euery man in his humor As it hath beene sundry times publickly acted by the right Honorable the Lord Chamberlaine his seruants. Written by Ben. Iohnson.</i> London: S.Stafford for Walter Burr, 1601. "
+  },
   "ww_e6a3f2e9feabd882": {
     "hasBookInternalId": "@001208",
     "hasBookTitle": "The Weakest Goeth To The Wall ",
@@ -8884,7 +8863,7 @@
       "ww_32677fe04c4e3a16"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_d173027b939e13b9": {
@@ -8961,9 +8940,9 @@
     "hasBookTitle": "The Collected Works of Abraham Cowley",
     "hasEdition": "eds. <i>The Collected Works of Abraham Cowley. </i>3 vols. Newark: University of Delaware Press, 1989.",
     "isWrittenBy": [
-      "ww_0ec070acc1a8c693",
       "ww_d5b779fffbf80505",
-      "ww_02df784376aa9b65"
+      "ww_02df784376aa9b65",
+      "ww_0ec070acc1a8c693"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1989:1989",
@@ -9102,8 +9081,8 @@
     "hasBookInternalId": "@005020",
     "hasBookTitle": "A Summary Answer to All the Material Points",
     "isWrittenBy": [
-      "ww_6189bca8bbb55fc5",
-      "ww_3fd2c4fdb8a41f86"
+      "ww_3fd2c4fdb8a41f86",
+      "ww_6189bca8bbb55fc5"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1601:1601",
@@ -9118,7 +9097,7 @@
   },
   "ww_c376526546624e12": {
     "hasBookInternalId": "@010155",
-    "hasBookTitle": "How a Man May Choose a Good Wife (Swaen edition)",
+    "hasBookTitle": "How a Man May Choose a Good Wife (ASw edition)",
     "hasEdition": "ed. <i>How a Man May Choose a Good Wife from a Bad von Thomas Heywood nach der Quarto 1608 herausgegeben. </i>Louvain: A. Uystpruyst, 1912.",
     "isWrittenBy": [
       "ww_4eb3d59f66c6b3a5"
@@ -9151,7 +9130,7 @@
   },
   "ww_841e89ba43cd414c": {
     "hasBookInternalId": "@005247",
-    "hasBookTitle": "The Broken Heart (Spencer edition)",
+    "hasBookTitle": "The Broken Heart (TCS edition)",
     "hasEdition": "ed. John Ford. <i>The Broken Heart.</i> Manchester: Manchester University Press, 1980.",
     "isWrittenBy": [
       "ww_db0f93eb54e77e5f"
@@ -9169,7 +9148,7 @@
   "ww_6298ea6e6b038e90": {
     "hasBookInternalId": "@006257",
     "hasBookTitle": "A Select Collection of Old Plays",
-    "hasEdition": "ed. <i>A Select Collection of Old Plays in Twelve Volumes. </i>London: Septimus Prowett, 1825.",
+    "hasEdition": "ed. <i>A Select Collection of Old Plays in Twelve Volumes. </i>London: Dodsley, 1744.",
     "isWrittenBy": [
       "ww_d6027c22c7d70b16"
     ],
@@ -9250,9 +9229,9 @@
       "History (play)"
     ]
   },
-  "ww_c67f882098eb9a7a": {
+  "ww_3270e9ef89054e03": {
     "hasBookInternalId": "@005214",
-    "hasBookTitle": "Induction to \"The Malcontent\"",
+    "hasBookTitle": "Induction to The Malcontent",
     "isWrittenBy": [
       "ww_9594c85bc48d3759"
     ],
@@ -9264,13 +9243,30 @@
       "Tragicomedy"
     ]
   },
+  "ww_cdef34a4bf3a320a": {
+    "hasBookInternalId": "@005750",
+    "hasBookTitle": "Every Man in His Humour (Miola edition)",
+    "hasEdition": "<i>Every Man in His Humour.</i> Revels Plays edition. Manchester: Manchester University Press, 2000.",
+    "isWrittenBy": [
+      "ww_e898f938921f2a9e"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:2000:2000",
+    "hasPublicationDate": "GREGORIAN:2000:2000",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ]
+  },
   "ww_88191e3f93faf319": {
     "hasBookInternalId": "@006121",
     "hasBookTitle": "DEx (Dramatic Extracts)",
     "hasEdition": "Dramatic Extracts. https://dex.itercommunity.org/.",
     "isWrittenBy": [
-      "ww_dbf15ae40aa8f01d",
-      "ww_0dcc7c7b0e0a7ba2"
+      "ww_0dcc7c7b0e0a7ba2",
+      "ww_dbf15ae40aa8f01d"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2019:2019",
@@ -9315,7 +9311,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_d4412fbd862e35de": {
@@ -9350,12 +9346,12 @@
       "Philosophy, religion"
     ]
   },
-  "ww_6e39d1dd51672f8a": {
+  "ww_cc822907a2bf276a": {
     "hasBookInternalId": "@001459",
-    "hasBookTitle": "Honest Whore Part 2",
+    "hasBookTitle": "The Honest Whore Part 2",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1605:1605",
@@ -9369,9 +9365,8 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2a8ba047639efe35"
-    ],
-    "isLexiaBook": "ww_e3416301f35fecd1"
+      "ww_3edf5a982d0a86b2"
+    ]
   },
   "ww_180d7fcf961a85ac": {
     "hasBookInternalId": "@006070",
@@ -9428,7 +9423,7 @@
       "ww_6266d7737104fccc"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_0b22e381b7c31b93": {
@@ -9451,8 +9446,8 @@
     "hasBookInternalId": "@001598",
     "hasBookTitle": "The Coxcomb",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_ecd33a52caec339f"
+      "ww_ecd33a52caec339f",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1609:1609",
@@ -9467,8 +9462,8 @@
       "ww_b103d94d309afeef"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10",
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b",
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_1e80f9a92e3a09cc": {
@@ -9490,15 +9485,15 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_78616e66e6b9adab": {
     "hasBookInternalId": "@001626",
     "hasBookTitle": "The Scornful Lady",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_ecd33a52caec339f"
+      "ww_ecd33a52caec339f",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1610:1610",
@@ -9513,7 +9508,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_24f03874ffc84068"
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_c94b6adc809cb229": {
@@ -9566,10 +9561,10 @@
     "hasBookInternalId": "@001719",
     "hasBookTitle": "The Honest Man's Fortune",
     "isWrittenBy": [
-      "ww_ba2bed49492fef13",
-      "ww_3cc0cce5b6bf554a",
+      "ww_cbc2c3284144573a",
       "ww_8926bbeaa7c56023",
-      "ww_cbc2c3284144573a"
+      "ww_ba2bed49492fef13",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1613:1613",
@@ -9583,7 +9578,7 @@
       "ww_dfe3ddd6db3b2f36"
     ],
     "performedIn": [
-      "ww_f2d84cad074a045d"
+      "ww_619f41052f26be98"
     ]
   },
   "ww_e2819daa76aa8c10": {
@@ -9601,26 +9596,6 @@
     ],
     "hasSubject": [
       "Sociology, lifestyle, travel"
-    ]
-  },
-  "ww_5fcbfedb0c0f2d4f": {
-    "hasBookInternalId": "@005458",
-    "hasBookTitle": "Every Man In His Humour (1616 Folio)",
-    "isWrittenBy": [
-      "ww_9b2d545e20d62482"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1616:1616",
-    "hasEdition": "\"Every Man In His Humour: the Revised Version from the Folio of 1616.\" <i>The Works of Ben Jonson. </i>Eds. C. H. Herford Percy and Evelyn Simpson. 11 vols. Oxford: Clarendon Press, 1925-1975. Vol. 3, 291-402.",
-    "hasEditionHist": "\"Every Man In His Humour: the Revised Version from the Folio of 1616.\" <i>The Works of Ben Jonson. </i>Eds. C. H. Herford Percy and Evelyn Simpson. 11 vols. Oxford: Clarendon Press, 1925-1975. Vol. 3, 291-402.",
-    "hasGenre": [
-      "Comedy"
-    ],
-    "performedBy": [
-      "ww_dc6a53fb57f6bea7"
-    ],
-    "performedIn": [
-      "ww_55be081be74d2855"
     ]
   },
   "ww_906c0b694038ccee": {
@@ -9643,9 +9618,9 @@
     "hasBookInternalId": "@005060",
     "hasBookTitle": "A Help to Discourse",
     "isWrittenBy": [
+      "ww_39384a524a7bafbe",
       "ww_060fb51fdafb3cc5",
-      "ww_02a32352c63afb30",
-      "ww_39384a524a7bafbe"
+      "ww_02a32352c63afb30"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1619:1619",
@@ -9691,15 +9666,15 @@
       "ww_39c5a740f44cabb9"
     ],
     "performedIn": [
-      "ww_55be081be74d2855"
+      "ww_0085b41dfd1f874e"
     ]
   },
   "ww_ba33ed8c6b004bed": {
     "hasBookInternalId": "@002020",
     "hasBookTitle": "The Sea Voyage",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1622:1622",
@@ -9714,8 +9689,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_0e02025dae34b353": {
@@ -9737,15 +9712,15 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_2fef8cbb19898a1d": {
     "hasBookInternalId": "@002251",
     "hasBookTitle": "The Witty Fair One",
     "isWrittenBy": [
-      "ww_68dae2dd3ee5eaa3",
-      "ww_93d58b4d5fed41d9"
+      "ww_93d58b4d5fed41d9",
+      "ww_68dae2dd3ee5eaa3"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1628:1628",
@@ -9781,7 +9756,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_22a60674e16fe4b0": {
@@ -9801,7 +9776,7 @@
     ],
     "hasBookComment": "The author of this tragedy was the son of Shakespeare's fellow actor and editor John Heminge.",
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_ada3895646f810c7": {
@@ -9839,9 +9814,9 @@
       "Philosophy, religion"
     ]
   },
-  "ww_da6ff3f49412d5de": {
+  "ww_6db63bed313c62e3": {
     "hasBookInternalId": "@005056",
-    "hasBookTitle": "Poems Divine, Moral and Satyrical (Richards)",
+    "hasBookTitle": "Poems Divine, Moral and Satyrical",
     "isWrittenBy": [
       "ww_7179a7437437988e"
     ],
@@ -9872,7 +9847,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_d3b2c348c5704261": {
@@ -9984,7 +9959,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ],
     "isLexiaBook": "ww_5a206a0ebae0e5a0"
   },
@@ -10002,8 +9977,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "History, (auto-)biography",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "History, (auto-)biography"
     ]
   },
   "ww_69e5d93a704cabe0": {
@@ -10079,9 +10054,9 @@
       "Comedy"
     ]
   },
-  "ww_49aa03ab648e6881": {
+  "ww_f973986ef13fbff6": {
     "hasBookInternalId": "@005012",
-    "hasBookTitle": "English and Scottish Ballads",
+    "hasBookTitle": "Popular English or Scottish ballad",
     "isWrittenBy": [
       "ww_93d58b4d5fed41d9"
     ],
@@ -10110,9 +10085,9 @@
     "hasBookInternalId": "@005370",
     "hasBookTitle": "Short Introduction of Grammar",
     "isWrittenBy": [
-      "ww_9a8e158285763a3c",
       "ww_2527046b014ff66d",
-      "ww_4f4a27981f1d2a14"
+      "ww_4f4a27981f1d2a14",
+      "ww_9a8e158285763a3c"
     ],
     "hasLanguage": "Latin",
     "hasCreationDate": "GREGORIAN:1515:1515",
@@ -10339,9 +10314,9 @@
       "Masque or other"
     ]
   },
-  "ww_2a7355107c888169": {
+  "ww_1424a24e369823c8": {
     "hasBookInternalId": "@005163",
-    "hasBookTitle": "Poems (Donne)",
+    "hasBookTitle": "Poems (JDo)",
     "isWrittenBy": [
       "ww_16c1195bda020eff"
     ],
@@ -10381,6 +10356,24 @@
     "hasLanguage": "German",
     "hasCreationDate": "GREGORIAN:1920:1920",
     "hasPublicationDate": "GREGORIAN:1920:1920",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ]
+  },
+  "ww_311698f5acfa012c": {
+    "hasBookInternalId": "@006473",
+    "hasBookTitle": "Shakespeare&#039;s Imagination",
+    "hasEdition": "<i>Shakespeare's Imagination: A Study of the Psychology of Association and Inspiration. </i>London: Lindsay Drummond, 1946.",
+    "isWrittenBy": [
+      "ww_0b3f42903f22bd0c"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1946:1946",
+    "hasPublicationDate": "GREGORIAN:1946:1946",
     "hasGenre": [
       "Academic"
     ],
@@ -10582,8 +10575,11 @@
     "hasEdition": "<i>Palladis Tamia. Wits Treasury, being the second part of Wits common wealth. By Francis Meres Maister of Artes of both Vniuersities. </i>London: P. Short for Cuthbert Burbie, 1598.",
     "hasEditionHist": "<i>Palladis Tamia. Wits Treasury, being the second part of Wits common wealth. By Francis Meres Maister of Artes of both Vniuersities. </i>London: P. Short for Cuthbert Burbie, 1598.",
     "hasGenre": [
-      "Other nonfiction",
-      "Anthology"
+      "Anthology",
+      "Other nonfiction"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
     ]
   },
   "ww_35cb5ce0c10c8240": {
@@ -10623,7 +10619,7 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_e1163a5a6085f4ed": {
@@ -10643,9 +10639,9 @@
       "Literature and theatre"
     ]
   },
-  "ww_866f74f68f4adc8c": {
+  "ww_fa63c18f39e77c1f": {
     "hasBookInternalId": "@005364",
-    "hasBookTitle": "The First Book of Songs and Airs",
+    "hasBookTitle": "The First Book of Songs and Airs (Jones)",
     "isWrittenBy": [
       "ww_bd0d630b9238458a"
     ],
@@ -10661,9 +10657,9 @@
     "hasBookInternalId": "@001235",
     "hasBookTitle": "The Spanish Moor's Tragedy, or Lust's Dominion",
     "isWrittenBy": [
-      "ww_947a2e721f016a03",
+      "ww_d888f97beb7a5e1c",
       "ww_87dbd52f1c5b813b",
-      "ww_d888f97beb7a5e1c"
+      "ww_947a2e721f016a03"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1600:1600",
@@ -10677,7 +10673,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_1b6d72e6dad2320f": {
@@ -10704,12 +10700,30 @@
     "hasBookTitle": "British Drama 1533-1642: A Catalogue",
     "hasEdition": "<i>British Drama 1533-1642: A Catalogue. </i>Oxford: Oxford University Press, 2012-2020.",
     "isWrittenBy": [
-      "ww_cb6eb801a79f94db",
-      "ww_d33ff057947952f2"
+      "ww_d33ff057947952f2",
+      "ww_cb6eb801a79f94db"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2012:2020",
     "hasPublicationDate": "GREGORIAN:2012:2020",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "WOMAN WRITER"
+    ]
+  },
+  "ww_04e1e147cd4f74b3": {
+    "hasBookInternalId": "@005725",
+    "hasBookTitle": "Varieties of Fantasy in What You Will",
+    "hasEdition": "\"Varieties of Fantasy in <i>What You Will</i>.\" <i>The Drama of John Marston: Critical Re-Visions.</i> Ed. T.F. Wharton. Cambridge: Cambridge University Press, 2000. 45-59.",
+    "isWrittenBy": [
+      "ww_9b31ef6bda9ca82e"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:2000:2000",
+    "hasPublicationDate": "GREGORIAN:2000:2000",
     "hasGenre": [
       "Academic"
     ],
@@ -10731,9 +10745,9 @@
       "Poetry unspecified"
     ]
   },
-  "ww_291b898175b4f9ec": {
+  "ww_cae08eeca74d6e6b": {
     "hasBookInternalId": "@005362",
-    "hasBookTitle": "Montaignes Essays",
+    "hasBookTitle": "Montaigne's Essays",
     "isWrittenBy": [
       "ww_8cd4ce85e656c7f9",
       "ww_788d53fded4c5751"
@@ -10747,8 +10761,7 @@
     ],
     "hasSubject": [
       "Philosophy, religion"
-    ],
-    "isLexiaBook": "ww_5b0f8c50d3c583b3"
+    ]
   },
   "ww_e9a54aab3c4c1154": {
     "hasBookInternalId": "@010169",
@@ -10804,7 +10817,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_c76f0a7727954582": {
@@ -10825,7 +10838,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_13a6e692c80949e4": {
@@ -10842,8 +10855,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "History, (auto-)biography",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "History, (auto-)biography"
     ]
   },
   "ww_45707432cc4f2876": {
@@ -10866,7 +10879,7 @@
   },
   "ww_ed01cbe7150757c0": {
     "hasBookInternalId": "@006450",
-    "hasBookTitle": "Antony and Cleopatra (Jones edition)",
+    "hasBookTitle": "Antony and Cleopatra (EJo)",
     "hasEdition": "ed. William Shakespeare. <i>Antony and Cleopatra.</i> Harmondsworth: Penguin, 1977.",
     "isWrittenBy": [
       "ww_66dcdecd1b5852ed"
@@ -10989,9 +11002,9 @@
       "Masque or other"
     ]
   },
-  "ww_4ca5f798a9f7a433": {
+  "ww_5062f7c02d8ab4f6": {
     "hasBookInternalId": "@001647",
-    "hasBookTitle": "[Tragedy of Thomas of Woodstock]",
+    "hasBookTitle": "Tragedy of Thomas of Woodstock",
     "isWrittenBy": [
       "ww_93d58b4d5fed41d9"
     ],
@@ -11035,7 +11048,7 @@
       "Masque or other"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_6561f118f91b93be": {
@@ -11057,8 +11070,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_9ca416c28c50bd0a": {
@@ -11094,8 +11107,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_230aee05b30db1d4": {
@@ -11117,15 +11130,15 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_4689b1e5e51660e5": {
     "hasBookInternalId": "@001841",
     "hasBookTitle": "Rollo, Duke of Normandy or The Bloody Brother",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1617:1617",
@@ -11140,8 +11153,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_e338c676c3d6f0db": {
@@ -11174,7 +11187,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_0265eab7aea021a5"
+      "ww_a0fafa12a8a05945"
     ]
   },
   "ww_6d9c7b949ddfa1d8": {
@@ -11195,8 +11208,8 @@
     "hasBookInternalId": "@001866",
     "hasBookTitle": "The Elder Brother",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1618:1618",
@@ -11227,8 +11240,8 @@
     "hasBookInternalId": "@001941",
     "hasBookTitle": "The Little French Lawyer",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1620:1620",
@@ -11243,16 +11256,16 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_e75a31f6badbafe7": {
     "hasBookInternalId": "@001948",
     "hasBookTitle": "The False One",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1620:1620",
@@ -11264,9 +11277,9 @@
       "Tragedy"
     ]
   },
-  "ww_008cc3fc2aaa52cb": {
+  "ww_7df67e4a75f208b9": {
     "hasBookInternalId": "@001981",
-    "hasBookTitle": "Women, Beware Women",
+    "hasBookTitle": "Women Beware Women",
     "isWrittenBy": [
       "ww_c298754546b2500e"
     ],
@@ -11349,7 +11362,7 @@
       "Masque or other"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
   "ww_8732be209e0db3a3": {
@@ -11441,19 +11454,18 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1630:1630",
-    "hasEdition": "Manuscript commonplace book. British Library Additional MS 10309.",
-    "hasEditionHist": "Manuscript commonplace book. British Library Additional MS 10309.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
-    "hasBookComment": "This manuscript volume contains 4 extracts from Ben Jonson's <i>Epicoene</i> and <i>Volpone</i> as well as Thomas Middleton's <i>The Widow</i>."
+    "hasBookComment": "This manuscript volume contains 4 extracts from Ben Jonson's <i>Epicoene</i> and <i>Volpone</i> as well as Thomas Middleton's <i>The Widow</i>.",
+    "hasEdition": "Manuscript miscellany. British Library Additional MS 10309."
   },
-  "ww_9c8aff178153b988": {
+  "ww_9fb0d574962f84a1": {
     "hasBookInternalId": "@005363",
-    "hasBookTitle": "Pharsalia (May translation)",
+    "hasBookTitle": "Pharsalia (May)",
     "isWrittenBy": [
-      "ww_219cd36657c56d00",
-      "ww_0ca6a30387f03401"
+      "ww_0ca6a30387f03401",
+      "ww_219cd36657c56d00"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1631:1631",
@@ -11529,7 +11541,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_6a37747966566799": {
@@ -11583,8 +11595,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_912d163a1800321f": {
@@ -11802,8 +11814,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Politics, law, economics"
     ]
   },
   "ww_181ef6725169549f": {
@@ -11824,7 +11836,7 @@
     "hasBookInternalId": "@005312",
     "hasBookTitle": "Select Discourses",
     "isWrittenBy": [
-      "ww_ef61a579c907bbed"
+      "ww_7c274a58689a8e21"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1652:1652",
@@ -11911,9 +11923,9 @@
       "Epic and verse narrative"
     ]
   },
-  "ww_b08f513e43ba9b45": {
+  "ww_991b1e04671adcb6": {
     "hasBookInternalId": "@005126",
-    "hasBookTitle": "Poems (Cowley)",
+    "hasBookTitle": "Poems (AbC)",
     "isWrittenBy": [
       "ww_e491214ca0e29ca0"
     ],
@@ -12024,8 +12036,8 @@
     "hasBookInternalId": "@005203",
     "hasBookTitle": "Wit Restored",
     "isWrittenBy": [
-      "ww_b8575522cc823b1b",
-      "ww_c84b4959dfc08d04"
+      "ww_c84b4959dfc08d04",
+      "ww_b8575522cc823b1b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1658:1658",
@@ -12073,7 +12085,6 @@
     "hasCreationDate": "GREGORIAN:1660:1669",
     "hasEdition": "<i>The diary of Samuel Pepys [...] for the first time fully transcribed from teh shorthand manuscript [...] by the Rev. Mynors Bright [...] with additions by Henry B. Wheatley. 8 vols. </i>New York: Croscup and Sterling Company, 1895.",
     "hasGenre": [
-      "Letter",
       "Diary"
     ]
   },
@@ -12118,8 +12129,8 @@
     "hasBookTitle": "Diary of Samuel Pepys (Latham edition)",
     "hasEdition": "eds. <i>The Diary of Samuel Pepys.</i> 11 vols. London: G. Bell and Sons, 1970-1983.",
     "isWrittenBy": [
-      "ww_7eeba8f5c3297504",
-      "ww_993c302bdd89aa39"
+      "ww_993c302bdd89aa39",
+      "ww_7eeba8f5c3297504"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1970:1983",
@@ -12240,9 +12251,9 @@
     "hasBookInternalId": "@005278",
     "hasBookTitle": "The New Academy of Compliments",
     "isWrittenBy": [
-      "ww_7dc9f7dd1b39e216",
+      "ww_88d6e36f66df2b22",
       "ww_d8f1d08e1ca080b7",
-      "ww_88d6e36f66df2b22"
+      "ww_7dc9f7dd1b39e216"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1669:1669",
@@ -12307,9 +12318,9 @@
       "Comedy"
     ]
   },
-  "ww_01600d9d03dc0cc1": {
+  "ww_5dad47d9d3791b80": {
     "hasBookInternalId": "@005475",
-    "hasBookTitle": "Antony and Cleopatra (Sedley)",
+    "hasBookTitle": "Antony and Cleopatra (Sdy)",
     "isWrittenBy": [
       "ww_7dc9f7dd1b39e216"
     ],
@@ -12405,18 +12416,18 @@
       "Poetry unspecified"
     ]
   },
-  "ww_41d4b0edb2a9fd18": {
+  "ww_39a094eea977cd25": {
     "hasBookInternalId": "@005482",
-    "hasBookTitle": "Aeneis",
+    "hasBookTitle": "Aeneid",
     "isWrittenBy": [
       "ww_81a0be98745dd98b"
     ],
     "hasLanguage": "Latin",
     "hasCreationDate": "GREGORIAN:1000:1000",
-    "hasEdition": "\"Aeneid.\"",
     "hasGenre": [
       "Epic and verse narrative"
-    ]
+    ],
+    "hasEdition": "\"Aeneid.\" 2 vols. Vol. 1: <i>Eclogues. Georgics. Aeneid: Books 1-6. </i>Trans. H. Rushton Fairclough. Rev. G. P. Goold. Loeb Classical Library 63. Cambridge, MA: Harvard University Press, 1916. 261-597. Vol. 2: <i>Aeneid Books 7-12. Appendix Vergiliana. </i>Trans. H. Rushton Fairclough. Loeb Classical Library 64. Cambridge (MA): Harvard University Press, 1918."
   },
   "ww_fe0e6cba86e07b48": {
     "hasBookInternalId": "@005651",
@@ -12435,9 +12446,9 @@
       "Literature and theatre"
     ]
   },
-  "ww_a8bfe36f70d1910e": {
+  "ww_2559b05319193611": {
     "hasBookInternalId": "@005496",
-    "hasBookTitle": "The Heptameron (Navarre)",
+    "hasBookTitle": "The Heptameron",
     "isWrittenBy": [
       "ww_51b35f130eed9684"
     ],
@@ -12463,9 +12474,9 @@
       "Poetry unspecified"
     ]
   },
-  "ww_450bd503e88c2e64": {
+  "ww_ba3e2acea041f8e8": {
     "hasBookInternalId": "@005466",
-    "hasBookTitle": "Sick Mans Salve",
+    "hasBookTitle": "The Sick Mans Salve",
     "isWrittenBy": [
       "ww_5cd005af5468bfdc"
     ],
@@ -12474,17 +12485,16 @@
     "hasEdition": "<i>The syckmans' salue. </i>London: John Daye, 1560.",
     "hasGenre": [
       "Pamphlet or liturgical text"
-    ],
-    "isLexiaBook": "ww_66b54fe566d3c288"
+    ]
   },
   "ww_1e27cf15097b1228": {
     "hasBookInternalId": "@005467",
     "hasBookTitle": "The Cambridge Edition of the Works of Ben Jonson",
     "hasEdition": "eds. <i>The Cambridge Edition of the Works of Ben Jonson. </i>6 vols. Cambridge: Cambridge University Press, 2012. ",
     "isWrittenBy": [
-      "ww_8c7910f3d7e53686",
       "ww_e31526b71399652f",
-      "ww_1dc363175af9132f"
+      "ww_1dc363175af9132f",
+      "ww_8c7910f3d7e53686"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2012:2012",
@@ -12569,7 +12579,7 @@
   },
   "ww_9412fba12ddffaa6": {
     "hasBookInternalId": "@010156",
-    "hasBookTitle": "Plays and Poems of Shakespeare (Malone edition)",
+    "hasBookTitle": "Plays and Poems of Shakespeare (EdM edition)",
     "hasEdition": "<i>The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators : comprehending a life of the poet, and an enlarged history of the stage, by the late Edmond Malone, with a new glossarial index. </i>London: F.C. and J. Rivington 1821.",
     "isWrittenBy": [
       "ww_e212a52f4b94ffc2"
@@ -12815,7 +12825,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_5073b6fd3b39a4db"
+      "ww_8240574032bbe0c1"
     ]
   },
   "ww_c520e88100e50603": {
@@ -13007,8 +13017,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "History, (auto-)biography",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "History, (auto-)biography"
     ]
   },
   "ww_66a6ac3682353123": {
@@ -13030,12 +13040,12 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_10d1735a57c373ef": {
     "hasBookInternalId": "@010141",
-    "hasBookTitle": "The Works of Cyril Tourneur (Nicholl edition)",
+    "hasBookTitle": "The Works of Cyril Tourneur (JNi edition)",
     "hasEdition": "ed. <i>The Works of Cyril Tourneur.</i> New York: Russell and Russell, 1963.",
     "isWrittenBy": [
       "ww_34db9be0ab5f2a5a"
@@ -13064,7 +13074,8 @@
     "hasGenre": [
       "Comedy"
     ],
-    "hasEdition": "\"Volpone.\" <i>The Cambridge Edition of the Works of Ben Jonson. </i>Gen. eds. David Bevington, Martin Butler and Ian Donaldson. Cambridge: Cambridge University Press, 2012. Vol. 3, 23-187."
+    "hasEdition": "\"Volpone.\" <i>The Cambridge Edition of the Works of Ben Jonson. </i>Gen. eds. David Bevington, Martin Butler and Ian Donaldson. Cambridge: Cambridge University Press, 2012. Vol. 3, 23-187.",
+    "isLexiaBook": "ww_e6f813e6baed3eab"
   },
   "ww_240fe112fc84b4c0": {
     "hasBookInternalId": "@005217",
@@ -13221,7 +13232,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_26792e96d3db61ef": {
@@ -13308,7 +13319,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_8fdf12a4e58ee88f": {
@@ -13358,11 +13369,12 @@
     "hasEditionHist": "\"Catiline his Conspiracy.\" <i>The Workes of Beniamin Jonson. </i>London: Will Stansby, 1616. 679-764.",
     "hasGenre": [
       "Tragedy"
-    ]
+    ],
+    "isLexiaBook": "ww_8c7b95535017a041"
   },
   "ww_0f2b8e1e06f7bc1a": {
     "hasBookInternalId": "@006108",
-    "hasBookTitle": "\"Hamlet\" - Three Notes",
+    "hasBookTitle": "Hamlet - Three Notes (TCC)",
     "hasEdition": "\"Hamlet. Three Notes.\" <i>Notes and Queries </i>175 (1938): 114.",
     "isWrittenBy": [
       "ww_5c38d09ce4cf7dac"
@@ -13382,8 +13394,8 @@
     "hasBookInternalId": "@001633",
     "hasBookTitle": "The Roaring Girl",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1611:1611",
@@ -13489,12 +13501,12 @@
       "Romance"
     ],
     "performedIn": [
-      "ww_5fb3825d93e43c10"
+      "ww_78c9c657a6d6a82c"
     ]
   },
-  "ww_f01c67016840aab6": {
+  "ww_dc8672861c0e9a52": {
     "hasBookInternalId": "@005171",
-    "hasBookTitle": "The Philosopher's Banquet (First Edition)",
+    "hasBookTitle": "The Philosopher's Banquet",
     "isWrittenBy": [
       "ww_e92e9dc9d65ade56",
       "ww_87547eb3eadc52d8"
@@ -13822,8 +13834,8 @@
     "hasBookInternalId": "@002025",
     "hasBookTitle": "The Spanish Curate",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1622:1622",
@@ -13851,9 +13863,9 @@
       "Tragedy"
     ]
   },
-  "ww_b201bcfa90a0d6b8": {
+  "ww_0087027327e745b4": {
     "hasBookInternalId": "@005130",
-    "hasBookTitle": "Poems (Drummond)",
+    "hasBookTitle": "Poems (WDr)",
     "isWrittenBy": [
       "ww_692583e31a7d1b6e"
     ],
@@ -13901,8 +13913,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_1c0ea61d45f98ff1": {
@@ -13937,9 +13949,9 @@
       "Comedy"
     ]
   },
-  "ww_290f7a8c014087cd": {
+  "ww_d54a050c797d5a37": {
     "hasBookInternalId": "@005184",
-    "hasBookTitle": "Poems (Randolph)",
+    "hasBookTitle": "Poems (TRa)",
     "isWrittenBy": [
       "ww_96f70a96968da33d"
     ],
@@ -14001,8 +14013,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ],
     "hasEdition": "\"The staple of News.\" Bartholmew fayre: a comedie, acted in the yeare, 1614 by the Lady Elizabeths seruants, and then dedicated to King Iames, of most blessed memorie; The diuell is an asse: a comedie acted in the yeare, 1616, by His Maiesties seruants; The staple of newes: a comedie acted in the yeare, 1625, by His Maiesties seruants by the author, Beniamin Iohnson. London: I. B. for Robert Allot, 1631. 1-76."
   },
@@ -14063,8 +14075,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "History, (auto-)biography",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "History, (auto-)biography"
     ]
   },
   "ww_84cb213d01f296b9": {
@@ -14084,9 +14096,9 @@
       "History, (auto-)biography"
     ]
   },
-  "ww_022bb1cb1d5a1e23": {
+  "ww_65126aeae58afd88": {
     "hasBookInternalId": "@005121",
-    "hasBookTitle": "Poems (Milton)",
+    "hasBookTitle": "Poems (JMi)",
     "isWrittenBy": [
       "ww_4972531db9405dfc"
     ],
@@ -14209,13 +14221,13 @@
     ],
     "hasBookComment": "This journal describes the story of the Pilgrims from 1608, when they settled in the Netherlands, through the 1620 Mayflower voyage to 1647.",
     "hasSubject": [
-      "History, (auto-)biography",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "History, (auto-)biography"
     ]
   },
-  "ww_8ae453164428b04f": {
+  "ww_5651876f6b3fcf5e": {
     "hasBookInternalId": "@005138",
-    "hasBookTitle": "Sermons (Donne)",
+    "hasBookTitle": "Sermons (JDo)",
     "isWrittenBy": [
       "ww_16c1195bda020eff"
     ],
@@ -14409,9 +14421,9 @@
       "Tragicomedy"
     ]
   },
-  "ww_8712d4137e130f5f": {
+  "ww_b7878c62295b348f": {
     "hasBookInternalId": "@005127",
-    "hasBookTitle": "Letters (Suckling)",
+    "hasBookTitle": "Letters (JSu)",
     "isWrittenBy": [
       "ww_c7aba3767191c872"
     ],
@@ -14453,9 +14465,9 @@
       "Tragicomedy"
     ]
   },
-  "ww_8ef29143b2eb8f1b": {
+  "ww_c2605c47dfb043dd": {
     "hasBookInternalId": "@005124",
-    "hasBookTitle": "Cupid and Psyche (Marmion)",
+    "hasBookTitle": "Cupid and Psyche (SMa)",
     "isWrittenBy": [
       "ww_cc76df07de512c5c"
     ],
@@ -14628,7 +14640,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_a325bf6f6d6d9c3b": {
@@ -14655,15 +14667,15 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1640:1640",
-    "hasEdition": "<i>A Nights Search Part I. </i>London: R. Bishop for L. B., 1640.",
-    "hasEditionHist": "A Nights Search, Part I. London: R. Bishop for L. B., 1640.",
+    "hasEdition": "<i>A nights search\u00b7 Discovering the nature and condition of all sorts of night-walkers; with their associates. As also, the life and death of many of them. Together with divers fearfull and strange accidents, occasioned by such ill livers. Digested into a poeme by Humphry Mill.</i> London: Richard Bishop for Laurence Blaicklock, 1640.",
+    "hasEditionHist": "<i>A nights search\u00b7 Discovering the nature and condition of all sorts of night-walkers; with their associates. As also, the life and death of many of them. Together with divers fearfull and strange accidents, occasioned by such ill livers. Digested into a poeme by Humphry Mill.</i> London: Richard Bishop for Laurence Blaicklock, 1640.",
     "hasGenre": [
       "Poetry unspecified"
     ]
   },
-  "ww_2e4c0e83000259e0": {
+  "ww_4e044305c9b10e03": {
     "hasBookInternalId": "@005117",
-    "hasBookTitle": "Poems (Carew)",
+    "hasBookTitle": "Poems (RCa)",
     "isWrittenBy": [
       "ww_da6e68ba08980e73"
     ],
@@ -14772,8 +14784,8 @@
     ],
     "hasBookComment": "An attack on the Puritan William Prynne.",
     "hasSubject": [
-      "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Politics, law, economics"
     ]
   },
   "ww_9e376d8ef4109ae7": {
@@ -14790,8 +14802,8 @@
     ],
     "hasBookComment": "This book is also known as <i>Vulgar Errors</i>. ",
     "hasSubject": [
-      "Sciences, engineering, IT",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Sciences, engineering, IT"
     ]
   },
   "ww_aac5276a35fb97c8": {
@@ -14808,8 +14820,8 @@
       "Journalism"
     ],
     "hasSubject": [
-      "History, (auto-)biography",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "History, (auto-)biography"
     ]
   },
   "ww_bcc4c1fa80f2a797": {
@@ -14934,9 +14946,9 @@
     ],
     "hasBookComment": "This tragicomedy is Nr. 1063 in the DEEP database."
   },
-  "ww_14cfc68fa73ed8f1": {
+  "ww_c7029e4878ab0b8a": {
     "hasBookInternalId": "@005185",
-    "hasBookTitle": "Divine Poems (Washbourne)",
+    "hasBookTitle": "Divine Poems (HWa)",
     "isWrittenBy": [
       "ww_9cffd1fbe1ed0eeb"
     ],
@@ -15000,7 +15012,6 @@
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1671:1679",
     "hasEdition": "\"Christian Morals.\" <i>The Works of Sir Thomas Browne.</i> Ed. Geoffrey Keynes. 4 vols. London: Faber and Faber, 1964. Vol. 1, 239-295.",
-    "hasEditionHist": "\"Christian Morals.\" The Works of Sir Thomas Browne. Ed. Geoffrey Keynes. 4 vols. London: Faber and Faber, 1964. Vol. 1, 239-295.",
     "hasGenre": [
       "Other nonfiction"
     ],
@@ -15054,9 +15065,9 @@
       "Other nonfiction"
     ]
   },
-  "ww_0df3a1b983ee5f02": {
+  "ww_31d65f612bfcaa90": {
     "hasBookInternalId": "@005273",
-    "hasBookTitle": "Poems (Traherne)",
+    "hasBookTitle": "Poems (TTr)",
     "isWrittenBy": [
       "ww_cb32b8fb06a862d3"
     ],
@@ -15088,8 +15099,8 @@
     "hasBookInternalId": "@005330",
     "hasBookTitle": "An Essay Upon Satire",
     "isWrittenBy": [
-      "ww_1883a4c627df62dd",
-      "ww_ed5b7d7b5b4ff788"
+      "ww_ed5b7d7b5b4ff788",
+      "ww_1883a4c627df62dd"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1675:1675",
@@ -15397,9 +15408,9 @@
       "Poetry unspecified"
     ]
   },
-  "ww_ac2f593c2288a4bd": {
+  "ww_fe7ab9ec8ee67f27": {
     "hasBookInternalId": "@005343",
-    "hasBookTitle": "Poems on Several Occasions (Cotton)",
+    "hasBookTitle": "Poems on Several Occasions",
     "isWrittenBy": [
       "ww_e79ccfafeaebc91d"
     ],
@@ -15455,7 +15466,7 @@
   },
   "ww_99fa34d7db7066f7": {
     "hasBookInternalId": "@006220",
-    "hasBookTitle": "Shakespeare's Juliet Capulet und Chaucer's Troylus",
+    "hasBookTitle": "Shp's Juliet Capulet und Chc's Troylus",
     "hasEdition": "\"Shakespeares Juliet Capulet und Chaucers Troylus.\" <i>Jahrbuch der Deutschen Shakespeare-Gesellschaft </i> (1902): 238-239.",
     "isWrittenBy": [
       "ww_71c35dc91de8b585"
@@ -15569,8 +15580,8 @@
     "hasBookInternalId": "@005376",
     "hasBookTitle": "The Fourth Book of Virgil",
     "isWrittenBy": [
-      "ww_bdbfa9c1a1292b22",
-      "ww_81a0be98745dd98b"
+      "ww_81a0be98745dd98b",
+      "ww_bdbfa9c1a1292b22"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1554:1554",
@@ -15610,11 +15621,11 @@
     "hasBookInternalId": "@005406",
     "hasBookTitle": "The Geneva Bible",
     "isWrittenBy": [
+      "ww_8370026ebdec73ae",
+      "ww_5e5e8f5620d2719a",
+      "ww_d6693f3e9bbd4cc4",
       "ww_76f7ad166cf8422f",
       "ww_5c83686b70be658b",
-      "ww_d6693f3e9bbd4cc4",
-      "ww_5e5e8f5620d2719a",
-      "ww_8370026ebdec73ae",
       "ww_240a0754bd0ee196"
     ],
     "hasLanguage": "English",
@@ -15632,8 +15643,8 @@
     "hasBookInternalId": "@000330",
     "hasBookTitle": "Thyestes",
     "isWrittenBy": [
-      "ww_64c0a6cc1ab8e355",
-      "ww_a00dfc9e63a5d0fe"
+      "ww_a00dfc9e63a5d0fe",
+      "ww_64c0a6cc1ab8e355"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1560:1560",
@@ -15664,8 +15675,8 @@
     "hasBookInternalId": "@000342",
     "hasBookTitle": "Hercules Furens (Studley)",
     "isWrittenBy": [
-      "ww_64c0a6cc1ab8e355",
-      "ww_a00dfc9e63a5d0fe"
+      "ww_a00dfc9e63a5d0fe",
+      "ww_64c0a6cc1ab8e355"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1561:1561",
@@ -15689,7 +15700,7 @@
     ],
     "hasBookComment": "The text is lost.",
     "performedIn": [
-      "ww_1b18c73c1b772771"
+      "ww_0b8fb34fd58acb3a"
     ]
   },
   "ww_9a76625cd3620368": {
@@ -15727,20 +15738,6 @@
       "Philosophy, religion"
     ]
   },
-  "ww_691cdc865941ddc0": {
-    "hasBookInternalId": "@005494",
-    "hasBookTitle": "The Steel-Glass",
-    "isWrittenBy": [
-      "ww_f0a6ced69b05e50a"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1576:1576",
-    "hasEdition": "<i>The steele glas A satyre compiled by George Gascoigne Esquire. Togither with The complainte of Phylomene. An elegie deuised by the same author. </i>London: Henrie Binneman for Richard Smith, 1576.",
-    "hasEditionHist": "<i>The steele glas A satyre compiled by George Gascoigne Esquire. Togither with The complainte of Phylomene. An elegie deuised by the same author.</i>London: Henrie Binneman for Richard Smith, 1576.",
-    "hasGenre": [
-      "Verse satire"
-    ]
-  },
   "ww_4b7b1e2c00c602f2": {
     "hasBookInternalId": "@000631",
     "hasBookTitle": "[Royal Entertainment at Wanstead or] The Lady of May",
@@ -15771,6 +15768,20 @@
     "hasEdition": "<i>Dido. </i>Manuscript British Library, Add. MS 22583. 34verso-44recto; Oxford Christ Church MS 468.",
     "hasGenre": [
       "Tragedy"
+    ]
+  },
+  "ww_9a20870c8b381f6d": {
+    "hasBookInternalId": "@005724",
+    "hasBookTitle": "The Countess of Pembroke's Arcadia (1593 edition)",
+    "isWrittenBy": [
+      "ww_4d90bb08c3de976b"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1586:1586",
+    "hasEdition": "The Countesse of Pembrokes Arcadia. Written by Sir Philip Sidney Knight. Now since the first edition augmented and ended. London: John Windet for William Ponsonbie, 1593.",
+    "hasEditionHist": "The Countesse of Pembrokes Arcadia. Written by Sir Philip Sidney Knight. Now since the first edition augmented and ended. London: John Windet for William Ponsonbie, 1593.",
+    "hasGenre": [
+      "Prose unspecified"
     ]
   },
   "ww_7e5d55fe6e594ea8": {
@@ -15878,7 +15889,7 @@
   },
   "ww_7375c13ad18fcffa": {
     "hasBookInternalId": "@006448",
-    "hasBookTitle": "Hamlet, Three Notes (Baker)",
+    "hasBookTitle": "Hamlet - Three Notes (KHB)",
     "hasEdition": "\"Hamlet, Three Notes [Baker].\" <i>Notes and Queries </i>(27 August 1938): 158.",
     "isWrittenBy": [
       "ww_40612cea4f2781e7"
@@ -15969,10 +15980,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1594:1603",
-    "hasEdition": "Manuscript commonplace book. British Library Additional MS 64078.",
-    "hasEditionHist": "Manuscript commonplace Book. British Library Additional MS 64078.",
+    "hasEdition": "Manuscript miscellany. British Library Additional MS 64078.",
+    "hasEditionHist": "Manuscript miscellany. British Library Additional MS 64078.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript commonplace book contains 20 extracts from plays by William Shakespeare."
   },
@@ -15987,7 +15998,7 @@
     "hasCreationDate": "GREGORIAN:2004:2004",
     "hasPublicationDate": "GREGORIAN:2004:2004",
     "hasGenre": [
-      "Academic"
+      "Annotated edition"
     ],
     "hasSubject": [
       "Literature and theatre"
@@ -16044,28 +16055,14 @@
       "Sociology, lifestyle, travel"
     ]
   },
-  "ww_40a5415dd848b09b": {
-    "hasBookInternalId": "@005410",
-    "hasBookTitle": "The History of the Seven Champions of Christendom",
-    "isWrittenBy": [
-      "ww_80a6c20cb9aa13fb"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1596:1596",
-    "hasEdition": "<i>The most famous history of the seauen champions of Christendome Saint George of England, Saint Dennis of Fraunce, Saint Iames of Spaine, Saint Anthonie of Italie, Saint Andrew of Scotland, Saint Pattricke of Ireland, and Saint Dauid of Wales. Shewing their honorable battailes by sea and land: their tilts, iousts, and turnaments for ladies: their combats with giants, monsters, and dragons: their aduentures in forraine nations; their inchauntments in the holie land: their knighthoods, prowesse, and chiualrie, in Europe, Affrica, and Asia, with their victories against the enemies of Christ. </i>London: J. Danter for Cuthbert Burbie, 1596.",
-    "hasEditionHist": "<i>The most famous history of the seauen champions of Christendome Saint George of England, Saint Dennis of Fraunce, Saint Iames of Spaine, Saint Anthonie of Italie, Saint Andrew of Scotland, Saint Pattricke of Ireland, and Saint Dauid of Wales. Shewing their honorable battailes by sea and land: their tilts, iousts, and turnaments for ladies: their combats with giants, monsters, and dragons: their aduentures in forraine nations; their inchauntments in the holie land: their knighthoods, prowesse, and chiualrie, in Europe, Affrica, and Asia, with their victories against the enemies of Christ. </i>London: J. Danter for Cuthbert Burbie, 1596.",
-    "hasGenre": [
-      "Prose unspecified"
-    ]
-  },
   "ww_7df4bb9ecab02367": {
     "hasBookInternalId": "@006133",
     "hasBookTitle": "The Works of John Webster (Cambridge edition)",
     "hasEdition": "eds. <i>The Works of John Webster. </i>4 vols. Cambridge: Cambridge University Press, 1995-2007.",
     "isWrittenBy": [
-      "ww_155a667b93f423ae",
       "ww_fdae751b03274cac",
-      "ww_5a83fee722a1938b"
+      "ww_5a83fee722a1938b",
+      "ww_155a667b93f423ae"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1995:2007",
@@ -16096,7 +16093,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_5497d539f4829a14": {
@@ -16137,10 +16134,10 @@
     "hasBookInternalId": "@001211",
     "hasBookTitle": "Sir John Oldcastle",
     "isWrittenBy": [
-      "ww_67b55376bb1d282e",
+      "ww_8c5ba897096c644c",
       "ww_25e6fd889f1e2401",
       "ww_20d6b3bf3fdfeac2",
-      "ww_8c5ba897096c644c"
+      "ww_67b55376bb1d282e"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1599:1599",
@@ -16155,7 +16152,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_b65e9cb67da1f591": {
@@ -16196,8 +16193,8 @@
     "hasBookInternalId": "@001298",
     "hasBookTitle": "Il pastor fido (The Faithful Shepherd)",
     "isWrittenBy": [
-      "ww_fa33bc038c964640",
-      "ww_94ba32e6686923a7"
+      "ww_94ba32e6686923a7",
+      "ww_fa33bc038c964640"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1601:1601",
@@ -16210,7 +16207,7 @@
   },
   "ww_3065791692a89822": {
     "hasBookInternalId": "@006342",
-    "hasBookTitle": "Poetaster (Cain Edition)",
+    "hasBookTitle": "Poetaster (TGC edition)",
     "hasEdition": "ed. Ben Jonson. <i>Poetaster. </i>Manchester: Manchester University Press 1995.",
     "isWrittenBy": [
       "ww_0cc81a10de8c5114"
@@ -16230,8 +16227,8 @@
     "hasBookTitle": "The Jonson Allusion Book",
     "hasEdition": "eds. <i>The Jonson Allusion Book: A Collection of Allusions to Ben Jonson from 1597 to 1700. </i>New Haven, Yale University Press, 1922.",
     "isWrittenBy": [
-      "ww_47820cd2dd54c97e",
-      "ww_b32bc514b340f073"
+      "ww_b32bc514b340f073",
+      "ww_47820cd2dd54c97e"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1922:1922",
@@ -16251,12 +16248,11 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1601:1607",
-    "hasEdition": "Manuscript commonplace book. British Library Additional MS 15227.",
-    "hasEditionHist": "Commonplace book. British Library Additional MS 15227.",
     "hasGenre": [
       "Anthology",
-      "Commonplace book"
-    ]
+      "Manuscript miscellany"
+    ],
+    "hasEdition": "Manuscript miscellany. British Library Additional MS 15227."
   },
   "ww_db5e201cbfc68107": {
     "hasBookInternalId": "@001340",
@@ -16268,7 +16264,6 @@
     "hasCreationDate": "GREGORIAN:1602:1602",
     "hasFirstPerformanceDate": "GREGORIAN:1602",
     "hasPublicationDate": "GREGORIAN:1606",
-    "hasEdition": "\"Sir Giles Goosecap, Knight.\" <i>The Plays of George Chapman. </i>Ed. Thomas Marc Parrott. 4 vols. New York: Russell and Russell, 1961. The Comedies, Vol. 2, 607-670.",
     "hasGenre": [
       "Comedy"
     ],
@@ -16276,7 +16271,25 @@
       "ww_eb1d4988fa5b0fe5"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
+    ],
+    "hasEdition": "<i>Sir Gyles Goosecappe Knight A comedie presented by the Chil: of the Chappell.</i> London: John Windet for Edward Blunt, 1606."
+  },
+  "ww_ed063fa003bdcfdd": {
+    "hasBookInternalId": "@005650",
+    "hasBookTitle": "Eastward Ho (Harris edition)",
+    "hasEdition": "ed. Eastward Hoe by Chapman, Jonson, and Marston. Edited with Introduction, Notes, and Glossary. New Haven: Yale University Press, 1926.",
+    "isWrittenBy": [
+      "ww_d594633e1908b202"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1926:1926",
+    "hasPublicationDate": "GREGORIAN:1926:1926",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
     ]
   },
   "ww_69232e6a17860e63": {
@@ -16298,7 +16311,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ],
     "isLexiaBook": "ww_9fea480498d2703d"
   },
@@ -16320,8 +16333,9 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
-    ]
+      "ww_f4835626deff2681"
+    ],
+    "isLexiaBook": "ww_1512273f36f53d29"
   },
   "ww_766649ffac6f189a": {
     "hasBookInternalId": "@005398",
@@ -16331,10 +16345,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1604:1609",
-    "hasEdition": "Manuscript commonplace book. Shakespeare Birthplace Trust Record Office ER 82.",
-    "hasEditionHist": "Shakespeare Birthplace Trust Record Office ER 82.",
+    "hasEdition": "Manuscript miscellany. Shakespeare Birthplace Trust Record Office ER 82.",
+    "hasEditionHist": "Manuscript miscellany., Shakespeare Birthplace Trust Record Office ER 82.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript volume contains 160 other extracts from early modern plays, most of them by William Shakespeare and Thomas Dekker."
   },
@@ -16372,7 +16386,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ],
     "isLexiaBook": "ww_4f66bc6d0849b290"
   },
@@ -16427,7 +16441,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_f16c81a2cc0f5847": {
@@ -16438,7 +16452,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1609:1609",
-    "hasEdition": "<i>The Gull's Hornbook. Originally published in London: 1609. </i>Ed. McKerrow, Ronald Brunlees. New York: 1904, reprint 1971.",
+    "hasEdition": "<i>The guls horne-booke: By T. Deckar.</i> London: Nicholas Okes for R. S., 1609.",
     "hasGenre": [
       "Prose unspecified"
     ]
@@ -16469,10 +16483,10 @@
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1611:1630",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
-    "hasEdition": "Commonplace book. William Salt Library MS 308-40.",
-    "hasBookComment": "This manuscript volume contains 32 extracts from John Marston's <i>The Dutch Courtesan</i> as well as Shakespeare's <i> Merchant of Venice</i> and <i>Richard II</i>."
+    "hasBookComment": "This manuscript volume contains 32 extracts from John Marston's <i>The Dutch Courtesan</i> as well as Shakespeare's <i> Merchant of Venice</i> and <i>Richard II</i>.",
+    "hasEdition": "Manuscript miscellany. William Salt Library MS 308-40."
   },
   "ww_a3324690d01c80a5": {
     "hasBookInternalId": "@001715",
@@ -16492,7 +16506,7 @@
       "ww_dfe3ddd6db3b2f36"
     ],
     "performedIn": [
-      "ww_f2d84cad074a045d"
+      "ww_619f41052f26be98"
     ]
   },
   "ww_85fe9d709a4d3739": {
@@ -16652,7 +16666,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_3720118d22ded9c4": {
@@ -16676,9 +16690,9 @@
     "hasBookInternalId": "@002169",
     "hasBookTitle": "The Fair Maid of the Inn",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
       "ww_9594c85bc48d3759",
       "ww_0f4ea2cf65a83ca8",
+      "ww_3cc0cce5b6bf554a",
       "ww_cbc2c3284144573a"
     ],
     "hasLanguage": "English",
@@ -16694,8 +16708,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_c6dd0a2e6316a63e": {
@@ -16713,7 +16727,7 @@
       "Masque or other"
     ],
     "performedIn": [
-      "ww_2ac44791912e7737"
+      "ww_25bb6c5b90a2e2fe"
     ]
   },
   "ww_020e436d23650eeb": {
@@ -16752,18 +16766,18 @@
       "Masque or other"
     ]
   },
-  "ww_1127cfca59ab6fd2": {
+  "ww_08e86b8470e0c830": {
     "hasBookInternalId": "@005386",
-    "hasBookTitle": "Bodleian Library MS \"English Poetry e 14\"",
+    "hasBookTitle": "Bodleian Library MS English Poetry e 14",
     "isWrittenBy": [
       "ww_93d58b4d5fed41d9"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1630:1639",
-    "hasEdition": "Manuscript commonplace book. Bodleian Library MS English poetry e. 14.",
-    "hasEditionHist": "Manuscript commonplace book. Bodleian Library MS English poetry e. 14.",
+    "hasEdition": "Manuscript miscellany. Bodleian Library MS English poetry e. 14.",
+    "hasEditionHist": "Manuscript miscellany. Bodleian Library MS English poetry e. 14.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript commonplace book contains four extracts from plays by Ben Jonson and one from Francius Beaumont's <i>Nice Valour</i>"
   },
@@ -16775,10 +16789,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1630:1649",
-    "hasEdition": "Manuscript commonplace book. Bodleian Library MS Rawlinson poetry 142.",
-    "hasEditionHist": "Manuscript commonplace book. Bodleian Library MS Rawlinson poetry 142.",
+    "hasEdition": "Manuscript miscellany. Bodleian Library MS Rawlinson poetry 142.",
+    "hasEditionHist": "Manuscript miscellany. Bodleian Library MS Rawlinson poetry 142.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript commonplace volume contains six extracts from plays by Ben Jonson."
   },
@@ -16790,10 +16804,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1630:1640",
-    "hasEdition": "Commonplace book. Harvard MS Fr 487.",
-    "hasEditionHist": "Commonplace book. Harvard MS Fr 487.",
+    "hasEdition": "Manuscript miscellany. Harvard MS Fr 487.",
+    "hasEditionHist": "Manuscript miscellany. Harvard MS Fr 487.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ]
   },
   "ww_a8bc692ee3415e67": {
@@ -16871,7 +16885,7 @@
       "ww_e19a2b6adb3b9951"
     ],
     "performedIn": [
-      "ww_2a8ba047639efe35",
+      "ww_3edf5a982d0a86b2",
       "ww_ce4161054e738f9e"
     ]
   },
@@ -16914,27 +16928,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
-    ]
-  },
-  "ww_495d2b54f473d287": {
-    "hasBookInternalId": "@005412",
-    "hasBookTitle": "The Counsellor of Estate",
-    "isWrittenBy": [
-      "ww_2044141f05be1d1c",
-      "ww_cb5d9718ccb90165"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1634:1634",
-    "hasEdition": "<i>The counsellor of estate Contayning the greates and most remarkeable considerations seruing for the managing of publicke affaires. Diuided into three parts. The first contaynes the meanes to settle an estate. The secund, the meanes to perserue it. And the third, the meanes to encrease it. Written in French by one of the ancient counsellors to the most Christian kings, Henry the Fourth, and Lewis the thirteenth. </i>London: Nicholas Okes, 1634.",
-    "hasEditionHist": "<i>The counsellor of estate Contayning the greates and most remarkeable considerations seruing for the managing of publicke affaires. Diuided into three parts. The first contaynes the meanes to settle an estate. The secund, the meanes to perserue it. And the third, the meanes to encrease it. Written in French by one of the ancient counsellors to the most Christian kings, Henry the Fourth, and Lewis the thirteenth. </i>London: Nicholas Okes, 1634.",
-    "hasGenre": [
-      "Other nonfiction"
-    ],
-    "hasSubject": [
-      "Politics, law, economics",
-      "Sociology, lifestyle, travel"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_bc242f0ffab9d459": {
@@ -16974,7 +16969,7 @@
       "Tragicomedy"
     ],
     "performedIn": [
-      "ww_0265eab7aea021a5"
+      "ww_a0fafa12a8a05945"
     ]
   },
   "ww_3d63135b244a134f": {
@@ -17026,10 +17021,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1640:1693",
-    "hasEdition": "Manuscript commonplace book. Bodleian Library MS Sancroft 18.",
-    "hasEditionHist": "Commonplace book. Bodleian Library MS Sancroft 18.",
+    "hasEdition": "Manuscript miscellany. Bodleian Library MS Sancroft 18.",
+    "hasEditionHist": "Manuscript miscellany. Bodleian Library MS Sancroft 18.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ]
   },
   "ww_dc91ec87ef0ac573": {
@@ -17079,7 +17074,7 @@
     "hasEditionHist": "<i>The Sophy. </i>London: Richard Hearne for Thomas Walkley, 1642.",
     "hasGenre": [
       "Tragedy",
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -17125,11 +17120,11 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1650:1650",
-    "hasEdition": "Manuscript commonplace book. Folger MS V.a.87.",
-    "hasEditionHist": "Manuscript commonplace book. Folger MS V.a.87.",
+    "hasEdition": "Manuscript miscellany. Folger MS V.a.87.",
+    "hasEditionHist": "Manuscript miscellay. Folger MS V.a.87.",
     "hasGenre": [
       "Anthology",
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript volume contains over 700 other extracts from plays by William Shakespeare and his contemporaries."
   },
@@ -17141,11 +17136,11 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1650:1650",
-    "hasEdition": "Commonplace book. British Library Additional MS 22608.",
-    "hasEditionHist": "Commonplace book. British Library Additional MS 22608.",
+    "hasEdition": "Manuscript miscellany. British Library Additional MS 22608.",
+    "hasEditionHist": "Manuscript miscellany., British Library Additional MS 22608.",
     "hasGenre": [
       "Anthology",
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript commonplace book contains more than 900 dramatic extracts, including Ben Jonson (125), William Shakespeare (140) and James Shirley (327)."
   },
@@ -17158,7 +17153,7 @@
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1650:1650",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasEdition": "Commonplace book. Bodleian Library MS Rawlinson poetry 117.",
     "hasBookComment": "This manuscript contains 45 extracts from plays by William Shakespeare, Thomas Middleton, John Marston, Ben Jonson and Sameul Daniel."
@@ -17171,10 +17166,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1650:1650",
-    "hasEdition": "Commonplace book. British Library Additional MS 41063.",
-    "hasEditionHist": "Commonplace book. British Library Additional MS 41063.",
+    "hasEdition": "Manuscript miscellany. British Library Additional MS 41063.",
+    "hasEditionHist": "Manuscript miscellany. British Library Additional MS 41063.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript volume contains 11 other Shakespeare passages."
   },
@@ -17238,12 +17233,11 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1660:1693",
-    "hasEdition": "Commonplace book. Bodleian Library MS Sancroft 29.",
-    "hasEditionHist": "Commonplace book. Bodleian Library MS Sancroft 29.",
+    "hasEdition": "Manuscript miscellany. Bodleian Library MS Sancroft 29.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
-    "hasBookComment": "This manuscript commonplace book kept by Archbishop Wiliam Sancroft contains more than a thousand dramatic extracts, including 703 items from plays by William Shakespeare."
+    "hasBookComment": "This manuscript miscellany kept by Archbishop Wiliam Sancroft contains more than a thousand dramatic extracts, including 703 items from plays by William Shakespeare."
   },
   "ww_8692dbb8902a7db6": {
     "hasBookInternalId": "@005385",
@@ -17253,10 +17247,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1660:1687",
-    "hasEdition": "Manuscript Commonplace book. Folger MS V.a.226 vol. 1.",
-    "hasEditionHist": "Manuscript Commonplace book. Folger MS V.a.226 vol. 1.",
+    "hasEdition": "Manuscript miscellany. Folger MS V.a.226 vol. 1.",
+    "hasEditionHist": "Manuscript miscellany. Folger MS V.a.226 vol. 1.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ]
   },
   "ww_d83afe0cf7125603": {
@@ -17267,10 +17261,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1660:-1687",
-    "hasEdition": "Commonplace book. British Library Lansdowne MS 1185.",
-    "hasEditionHist": "Commonplace book. British Library Lansdowne MS 1185.",
+    "hasEdition": "Manuscript miscellany. British Library Lansdowne MS 1185.",
+    "hasEditionHist": "Manuscript miscellany. British Library Lansdowne MS 1185.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript volume contains 326 Shakespeare extracts."
   },
@@ -17282,10 +17276,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1660:1693",
-    "hasEdition": "Commonplace book. Bodleian Library MS Sancroft 97.",
+    "hasEdition": "Manuscript miscellany. Bodleian Library MS Sancroft 97.",
     "hasEditionHist": "Commonplace book. Bodleian Library MS Sancroft 97.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ]
   },
   "ww_f132e3ce43b5e9aa": {
@@ -17310,24 +17304,24 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1662:1662",
-    "hasEdition": "Commonplace book. British Library Additional MS 18044.",
-    "hasEditionHist": "Commonplace book. British Library Additional MS 18044.",
+    "hasEdition": "Manuscript miscellany. British Library Additional MS 18044.",
+    "hasEditionHist": "Manuscript miscellany. British Library Additional MS 18044.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ]
   },
-  "ww_af578b982bb3e378": {
+  "ww_3c7c08177175ac6c": {
     "hasBookInternalId": "@005381",
-    "hasBookTitle": "Bodleian Library MS \"Don e 6\"",
+    "hasBookTitle": "Bodleian Library MS Don e 6",
     "isWrittenBy": [
       "ww_93d58b4d5fed41d9"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1667:1682",
-    "hasEdition": "Commonplace book. Bodleian Library MS Don. e. 6.",
-    "hasEditionHist": "Commonplace book. Bodleian Library MS Don. e. 6.",
+    "hasEdition": "Manuscript miscellany. Bodleian Library MS Don. e. 6. 1667-1682.",
+    "hasEditionHist": "Manuscript miscellany. Bodleian Library MS Don. e. 6. 1667-1682.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ]
   },
   "ww_c9bd0f933f90d9fa": {
@@ -17341,7 +17335,7 @@
     "hasEdition": "British Library Sloane MS 161.",
     "hasEditionHist": "British Library Sloane MS 161.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript commonplace book contains 24 extracts from plays by Ben Jonson and 2 from Sir Philip Sidney's <i>Lady May</i>"
   },
@@ -17353,10 +17347,9 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1674:1684",
-    "hasEdition": "Commonplace book. University of Chicago MS 824.",
-    "hasEditionHist": "Commonplace book. University of Chicago MS 824.",
+    "hasEdition": "Manuscript miscellany. University of Chicago MS 824.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ]
   },
   "ww_dab53692f2f827b6": {
@@ -17367,10 +17360,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1682:1691",
-    "hasEdition": "Commonplace book. Bodleian Library MS Sancroft 53.",
-    "hasEditionHist": "Commonplace book. Bodleian Library MS Sancroft 53.",
+    "hasEdition": "Manuscript miscellany. Bodleian Library MS Sancroft 53.",
+    "hasEditionHist": "Manuscript miscellany. Bodleian Library MS Sancroft 53.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ]
   },
   "ww_510b917385889107": {
@@ -17395,10 +17388,10 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1687:1688",
-    "hasEdition": "Commonplace book. Bodleian Library MS English miscellaneous c. 34.",
-    "hasEditionHist": "Commonplace book. Bodleian Library MS English miscellaneous c. 34.",
+    "hasEdition": "Manuscript miscellany. Bodleian Library MS English miscellaneous c. 34.",
+    "hasEditionHist": "Manuscript miscellany. Bodleian Library MS English miscellaneous c. 34.",
     "hasGenre": [
-      "Commonplace book"
+      "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript commonplace book contains 15 extracts from plays by William Shakespeare (15 entries), Ben Jonson and Sir John Suckling."
   },
@@ -17438,8 +17431,8 @@
     "hasBookInternalId": "@005031",
     "hasBookTitle": "Sententiae Pueriles",
     "isWrittenBy": [
-      "ww_129a8fe47c034804",
-      "ww_7cd5ba90f47f0576"
+      "ww_7cd5ba90f47f0576",
+      "ww_129a8fe47c034804"
     ],
     "hasLanguage": "Latin",
     "hasCreationDate": "GREGORIAN:1540:1540",
@@ -17449,9 +17442,9 @@
     ],
     "hasBookComment": "This popular collection of practice sentences for schoolchildren was first published (in Latin only) in 1540."
   },
-  "ww_9287249fc5946a4f": {
+  "ww_65acffd0ebaeef21": {
     "hasBookInternalId": "@005443",
-    "hasBookTitle": "Famous History of Friar Bacon",
+    "hasBookTitle": "The Fmaous HIstory of Friar Bacon",
     "isWrittenBy": [
       "ww_93d58b4d5fed41d9"
     ],
@@ -17461,15 +17454,14 @@
     "hasEditionHist": "The famous historie of Fryer Bacon Containing the wonderfull things that he did in his life: also the manner of his death; with the liues and deaths of the two coniurors, Bungye and Vandermast. Very pleasant and delightfull to be read. London: G. Purslowe for F. Grove, 1627.",
     "hasGenre": [
       "Prose unspecified"
-    ],
-    "isLexiaBook": "ww_d059e35f496d1d15"
+    ]
   },
   "ww_bdd3508670de242e": {
     "hasBookInternalId": "@005472",
     "hasBookTitle": "Marcus Tullius Cicero's Three Books of Duties",
     "isWrittenBy": [
-      "ww_2328c74af1f27243",
-      "ww_780e677ed1d8302b"
+      "ww_780e677ed1d8302b",
+      "ww_2328c74af1f27243"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1556:1556",
@@ -17599,9 +17591,9 @@
       "Literature and theatre"
     ]
   },
-  "ww_3f01aa1717dd9422": {
+  "ww_07f1d4030cc99b5f": {
     "hasBookInternalId": "@005114",
-    "hasBookTitle": "The Counsellor (Goslicius)",
+    "hasBookTitle": "The Counsellor",
     "isWrittenBy": [
       "ww_2b5b422d9bd3e711"
     ],
@@ -17665,7 +17657,7 @@
   },
   "ww_241ea5ff49764ee4": {
     "hasBookInternalId": "@006340",
-    "hasBookTitle": "David and Bathsheba (Martin edition)",
+    "hasBookTitle": "David and Bathsheba (MaM edition)",
     "hasEdition": "ed. George Peele. <i>David and Bathsheba. </i>Manchester: Manchester University Press, 2018.",
     "isWrittenBy": [
       "ww_babcc6d1406df869"
@@ -17820,7 +17812,7 @@
       "ww_27246da03bb6da5b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ],
     "hasGenre": [
       "Romance"
@@ -17837,7 +17829,6 @@
     "hasFirstPerformanceDate": "GREGORIAN:1591",
     "hasPublicationDate": "GREGORIAN:1594",
     "hasEdition": "\"Orlando.\" <i>The Life and Complete Works of Robert Greene [...]. For the First Time Collected and Edited with Notes and Illustrations etc. </i>15 vols. Ed. Alexander B. Grosart. Printed for Private Circulation Only. 1881-1886. Vol. 13, 111-198.",
-    "hasEditionHist": "\"Orlando.\" <i>The Life and Complete Works of Robert Greene [...]. For the First Time Collected and Edited with Notes and Illustrations etc. </i>15 vols. Ed. Alexander B. Grosart. Printed for Private Circulation Only. 1881-1886. Vol. 13, 111-198.",
     "hasGenre": [
       "Romance"
     ],
@@ -17964,7 +17955,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_ebe87869f058a66e": {
@@ -17985,7 +17976,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_1f17bc167071d20b": {
@@ -18007,7 +17998,7 @@
       "ww_2f9e30089f2fa1c1"
     ],
     "performedIn": [
-      "ww_f2d84cad074a045d"
+      "ww_619f41052f26be98"
     ],
     "isLexiaBook": "ww_79c439779818d086"
   },
@@ -18121,7 +18112,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_5073b6fd3b39a4db"
+      "ww_8240574032bbe0c1"
     ],
     "hasEdition": "\"The Return from Parnassus Part 1.\" <i>The Pilgrimage to Parnassus with the Two Parts of The Return from Parnassus. </i>Ed. Dunn Macray, William. Oxford: Clarendon Press 1886. 25-75."
   },
@@ -18179,8 +18170,8 @@
     "hasBookInternalId": "@001250",
     "hasBookTitle": "The Blind Beggar of Bethnal Green",
     "isWrittenBy": [
-      "ww_947a2e721f016a03",
-      "ww_d78940f8a8554ca3"
+      "ww_d78940f8a8554ca3",
+      "ww_947a2e721f016a03"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1600:1600",
@@ -18195,12 +18186,12 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_b2a9fb91061ee2ff": {
     "hasBookInternalId": "@006445",
-    "hasBookTitle": "Poetaster (Mallory edition)",
+    "hasBookTitle": "Poetaster (HeM edition)",
     "hasEdition": "ed. <i>Ben Jonson. Poetaster. Edited with Introduction, Notes and Glossary. </i>New York: Henry Holt, 1905.",
     "isWrittenBy": [
       "ww_f8cbd52e681000c6"
@@ -18389,9 +18380,9 @@
     "hasBookInternalId": "@001534",
     "hasBookTitle": "The Travels of the Three English Brothers",
     "isWrittenBy": [
-      "ww_947a2e721f016a03",
+      "ww_986dd93d2d794ff5",
       "ww_5cb3d6fa23800e74",
-      "ww_986dd93d2d794ff5"
+      "ww_947a2e721f016a03"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1607:1607",
@@ -18405,15 +18396,15 @@
       "ww_b92cc9cd25fb9404"
     ],
     "performedIn": [
-      "ww_55be081be74d2855"
+      "ww_0085b41dfd1f874e"
     ]
   },
   "ww_c4a7af722ca2a357": {
     "hasBookInternalId": "@001624",
     "hasBookTitle": "The Bloody Banquet",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1610:1610",
@@ -18444,8 +18435,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_27c24271dfff0dba": {
@@ -18467,7 +18458,7 @@
       "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_bf4da010b6ad6774": {
@@ -18488,7 +18479,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_75f8ef9b10827f90": {
@@ -18505,7 +18496,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_2ac44791912e7737"
+      "ww_25bb6c5b90a2e2fe"
     ],
     "hasEdition": "<i>Albvmazar. </i>London: Nicholas Okes, 1634."
   },
@@ -18528,8 +18519,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d",
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681",
+      "ww_09472844a3558c55"
     ]
   },
   "ww_98bb61f41b7690f0": {
@@ -18551,7 +18542,7 @@
       "ww_ae42ffd9324d5246"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232"
+      "ww_0ee31c6b9440b9ca"
     ]
   },
   "ww_c21f747d7c019e7e": {
@@ -18572,7 +18563,7 @@
       "ww_ae42ffd9324d5246"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232"
+      "ww_0ee31c6b9440b9ca"
     ]
   },
   "ww_c10610592cd6ab80": {
@@ -18618,16 +18609,16 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_c93a05958948886b": {
     "hasBookInternalId": "@002049",
     "hasBookTitle": "The Spanish Gypsy",
     "isWrittenBy": [
+      "ww_c298754546b2500e",
       "ww_87dbd52f1c5b813b",
       "ww_5cb3d6fa23800e74",
-      "ww_c298754546b2500e",
       "ww_0f4ea2cf65a83ca8"
     ],
     "hasLanguage": "English",
@@ -18660,7 +18651,7 @@
       "Masque or other"
     ],
     "performedIn": [
-      "ww_2ac44791912e7737"
+      "ww_25bb6c5b90a2e2fe"
     ]
   },
   "ww_e3f39d091f3022fe": {
@@ -18739,7 +18730,7 @@
   },
   "ww_b6abed27ab365296": {
     "hasBookInternalId": "@006441",
-    "hasBookTitle": "The Cardinal (Yearling edition)",
+    "hasBookTitle": "The Cardinal (EMY edition)",
     "hasEdition": "ed. James Shirley. <i>The Cardinal. </i>Manchester: Manchester University Press, 1986.",
     "isWrittenBy": [
       "ww_ec4b473a59bd7928"
@@ -18764,7 +18755,7 @@
     "hasCreationDate": "GREGORIAN:1633:1633",
     "hasFirstPerformanceDate": "GREGORIAN:1633",
     "hasPublicationDate": "GREGORIAN:1640",
-    "hasEdition": "<i>The Rebellion: a Tragedy: As It Was Acted Nine Dayes Together, and Divers Times Since With Good Applause, By His Majesties Company Of Revells. </i>London: I. Okes for Daniell Frere 1640.",
+    "hasEdition": "<i>The Rebellion: a Tragedy: As It Was Acted Nine Dayes Together, and Divers Times Since With Good Applause, By His Majesties Company Of Revells. </i>London: I. Okes for Daniel Frere, 1640.",
     "hasEditionHist": "<i>The Rebellion: a Tragedy: As It Was Acted Nine Dayes Together, and Divers Times Since With Good Applause, By His Majesties Company Of Revells. L</i>ondon: I. Okes for Daniell Frere 1640.",
     "hasGenre": [
       "Tragedy"
@@ -18773,7 +18764,7 @@
       "ww_e19a2b6adb3b9951"
     ],
     "performedIn": [
-      "ww_2a8ba047639efe35",
+      "ww_3edf5a982d0a86b2",
       "ww_ce4161054e738f9e"
     ]
   },
@@ -18868,8 +18859,8 @@
       "ww_60234f6bf9418d3b"
     ],
     "performedIn": [
-      "ww_c2cdd6ec99df368c",
-      "ww_a8b0dec20bddad7c"
+      "ww_a8b0dec20bddad7c",
+      "ww_c2cdd6ec99df368c"
     ]
   },
   "ww_3656b083a8f65c70": {
@@ -18910,7 +18901,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_d6dfaaba1a7a3d53": {
@@ -18931,7 +18922,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_791480eabf7d614b": {
@@ -19097,9 +19088,9 @@
       "Prose unspecified"
     ]
   },
-  "ww_ff873bfcd4a0a954": {
+  "ww_1297e062d265bfef": {
     "hasBookInternalId": "@005228",
-    "hasBookTitle": "Odes (Horace)",
+    "hasBookTitle": "Odes (QHF)",
     "isWrittenBy": [
       "ww_61c49b5f6ed43c33"
     ],
@@ -19136,9 +19127,9 @@
       "Comedy"
     ]
   },
-  "ww_9c89091d8ee9fa6e": {
+  "ww_67f64d964d8071ad": {
     "hasBookInternalId": "@005277",
-    "hasBookTitle": "Satires (Persius)",
+    "hasBookTitle": "Satires (Prs)",
     "isWrittenBy": [
       "ww_a13b3e03a47fb65d"
     ],
@@ -19199,9 +19190,9 @@
       "Classical Studies"
     ]
   },
-  "ww_960bb255634b772b": {
+  "ww_82016acc20d12095": {
     "hasBookInternalId": "@005606",
-    "hasBookTitle": "Satires (Horace)",
+    "hasBookTitle": "Satires (QHF)",
     "isWrittenBy": [
       "ww_61c49b5f6ed43c33"
     ],
@@ -19398,8 +19389,8 @@
     "hasBookInternalId": "@005457",
     "hasBookTitle": "The Courtier",
     "isWrittenBy": [
-      "ww_e0e03b9e0321b98f",
-      "ww_1ea74cc5c803af41"
+      "ww_1ea74cc5c803af41",
+      "ww_e0e03b9e0321b98f"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1561:1561",
@@ -19712,7 +19703,8 @@
     "hasEdition": "\"The Ruins of Rome.\" Complaints Containing sundrie small poemes of the worlds vanitie. VVhereof the next page maketh mention. By Ed. Sp. London: William Ponsonbie, 1591. R1 recto-S4 verso.",
     "hasEditionHist": "\"The Ruins of Rome.\" Complaints Containing sundrie small poemes of the worlds vanitie. VVhereof the next page maketh mention. By Ed. Sp. London: William Ponsonbie, 1591. R1 recto-S4 verso.",
     "hasGenre": [
-      "Poetry unspecified"
+      "Poetry unspecified",
+      "Epic and verse narrative"
     ],
     "hasBookComment": "Translation of a sonnet cycle by Joachim Du Bellay (1522-1560)."
   },
@@ -19816,12 +19808,12 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
-  "ww_a08a5c4b63622917": {
+  "ww_7e2c8ce1f087ae51": {
     "hasBookInternalId": "@001109",
-    "hasBookTitle": "Love's Labours Won",
+    "hasBookTitle": "Love's Labour's Won",
     "isWrittenBy": [
       "ww_684176b58bc762f6"
     ],
@@ -19882,19 +19874,33 @@
       "Verse satire"
     ]
   },
-  "ww_2142e70b669fb640": {
-    "hasBookInternalId": "@001143",
-    "hasBookTitle": "Every Man In His Humour",
+  "ww_2a60fa93bdb7510b": {
+    "hasBookInternalId": "@006461",
+    "hasBookTitle": "Marston's Subversion of Jonson",
+    "hasEdition": "\"Marston's Subversion of Shakespeare and Jonson.\" <i>Medieval and Renaissance Drama in England </i>6 (1993): 103-128.",
+    "isWrittenBy": [
+      "ww_336aec1c9fce85a0"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1993:1993",
+    "hasPublicationDate": "GREGORIAN:1993:1993",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ]
+  },
+  "ww_5fcbfedb0c0f2d4f": {
+    "hasBookInternalId": "@005458",
+    "hasBookTitle": "Every Man In His Humour (1616 Folio)",
     "isWrittenBy": [
       "ww_9b2d545e20d62482"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1599:1599",
-    "hasFirstPerformanceDate": "GREGORIAN:1598",
-    "hasPublicationDate": "GREGORIAN:1601",
-    "hasEdition": "\"Every Man In His Humour.\" <i>The workes of Beniamin Ionson. </i>London: William Stansby, 1616.",
-    "hasEditionHist": "\"Every Man In His Humour.\" <i>The workes of Beniamin Ionson. </i>London: William Stansby, 1616.",
-    "isLexiaBook": "ww_8f82a21af04083e6",
+    "hasEdition": "\"Every Man In His Humour.\" <i>The Workes of Beniamin Jonson. </i>London: Will Stansby, 1616. 3-72.",
     "hasGenre": [
       "Comedy"
     ]
@@ -19918,7 +19924,7 @@
       "ww_2f923c7f18095fc0"
     ],
     "performedIn": [
-      "ww_82d728884af7f25a"
+      "ww_6f45f31857387ead"
     ]
   },
   "ww_81cac3b7ec3e1b41": {
@@ -19939,7 +19945,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_366e4c396cb500e5": {
@@ -20035,8 +20041,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1601:1601",
-    "hasEdition": "Love's Martyr, or Rosamond's Complaint with Its Supplements. Ed. Alexander Grosart. London: Tr\u00fcbner and Co., 1878.",
-    "hasEditionHist": "Love's Martyr, or Rosamond's Complaint with Its Supplements. Ed. Alexander Grosart. London: Tr\u00fcbner and Co., 1878.",
+    "hasEdition": "<i>Loves martyr: or, Rosalins complaint. Allegorically shadowing the truth of loue, in the constant fate of the ph\u0153nix and turtle. A poeme enterlaced with much varietie and raritie; now first translated out of the venerable Italian Torquato C\u00e6liano, by Robert Chester [...].</i> London:",
     "hasGenre": [
       "Poetry unspecified"
     ]
@@ -20116,7 +20121,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2a8ba047639efe35"
+      "ww_3edf5a982d0a86b2"
     ]
   },
   "ww_2c12ccca4f4847d3": {
@@ -20137,7 +20142,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2a8ba047639efe35"
+      "ww_3edf5a982d0a86b2"
     ]
   },
   "ww_fe044a6549cd7d99": {
@@ -20172,23 +20177,6 @@
       "Shakespeare"
     ]
   },
-  "ww_ed063fa003bdcfdd": {
-    "hasBookInternalId": "@005650",
-    "hasBookTitle": "Eastward Ho (Harris edition)",
-    "hasEdition": "ed. Eastward Hoe by Chapman, Jonson, and Marston. Edited with Introduction, Notes, and Glossary. New Haven: Yale University Press, 1926.",
-    "isWrittenBy": [
-      "ww_d594633e1908b202"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1926:1926",
-    "hasPublicationDate": "GREGORIAN:1926:1926",
-    "hasGenre": [
-      "Annotated edition"
-    ],
-    "hasSubject": [
-      "Literature and theatre"
-    ]
-  },
   "ww_5f7e073c62294f59": {
     "hasBookInternalId": "@001430",
     "hasBookTitle": "Richard Whittington",
@@ -20206,7 +20194,7 @@
       "ww_3a4f63b2c3388685"
     ],
     "performedIn": [
-      "ww_2a8ba047639efe35"
+      "ww_3edf5a982d0a86b2"
     ]
   },
   "ww_1205022c2e72b9ac": {
@@ -20218,13 +20206,13 @@
     "hasLanguage": "Latin",
     "hasCreationDate": "GREGORIAN:1605:1605",
     "hasFirstPerformanceDate": "GREGORIAN:1605",
-    "hasEdition": "The tragoedy of Lucretia publickly acted xjth of ffebruary with good commedacon And dyverse strangers interteyned in respect thereof.",
+    "hasEdition": "<i>The tragoedy of Lucretia publickly acted xjth of ffebruary with good commedacon And dyverse strangers interteyned in respect thereof.",
     "hasGenre": [
       "Tragedy"
     ],
     "hasBookComment": "The text is lost.",
     "performedIn": [
-      "ww_c1c8db7cb45339ac"
+      "ww_975440f5d6d132f3"
     ]
   },
   "ww_1accaec99641f25e": {
@@ -20310,24 +20298,6 @@
     ],
     "hasBookComment": "The text is lost."
   },
-  "ww_311698f5acfa012c": {
-    "hasBookInternalId": "@006473",
-    "hasBookTitle": "Shakespeare&#039;s Imagination",
-    "hasEdition": "<i>Shakespeare's Imagination: A Study of the Psychology of Association and Inspiration. </i>London: Lindsay Drummond, 1946.",
-    "isWrittenBy": [
-      "ww_0b3f42903f22bd0c"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1946:1946",
-    "hasPublicationDate": "GREGORIAN:1946:1946",
-    "hasGenre": [
-      "Academic"
-    ],
-    "hasSubject": [
-      "Literature and theatre",
-      "Shakespeare"
-    ]
-  },
   "ww_7b33a39b551701b7": {
     "hasBookInternalId": "@005554",
     "hasBookTitle": "Myrrha the Mother of Adonis",
@@ -20377,7 +20347,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_c3c7fe410670dce6": {
@@ -20397,15 +20367,15 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_ed894440c1d054cc": {
     "hasBookInternalId": "@001684",
     "hasBookTitle": "The History of Cardenio",
     "isWrittenBy": [
-      "ww_3cc0cce5b6bf554a",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1612:1612",
@@ -20419,7 +20389,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_5a98d0da26d3a72d"
+      "ww_09472844a3558c55"
     ]
   },
   "ww_68f2c63c66cc156e": {
@@ -20441,7 +20411,7 @@
       "ww_39c5a740f44cabb9"
     ],
     "performedIn": [
-      "ww_55be081be74d2855"
+      "ww_0085b41dfd1f874e"
     ]
   },
   "ww_3a7cc204d838953f": {
@@ -20461,27 +20431,9 @@
       "Literature and theatre"
     ]
   },
-  "ww_2a60fa93bdb7510b": {
-    "hasBookInternalId": "@006461",
-    "hasBookTitle": "Marston's Subversion of Jonson",
-    "hasEdition": "\"Marston's Subversion of Shakespeare and Jonson.\" <i>Medieval and Renaissance Drama in England </i>6 (1993): 103-128.",
-    "isWrittenBy": [
-      "ww_336aec1c9fce85a0"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1993:1993",
-    "hasPublicationDate": "GREGORIAN:1993:1993",
-    "hasGenre": [
-      "Academic"
-    ],
-    "hasSubject": [
-      "Literature and theatre",
-      "Shakespeare"
-    ]
-  },
-  "ww_3011b68aeed5a4b0": {
+  "ww_76153dbbb164ce93": {
     "hasBookInternalId": "@005454",
-    "hasBookTitle": "Epigrams (Jonson)",
+    "hasBookTitle": "Epigrams (BJe)",
     "isWrittenBy": [
       "ww_9b2d545e20d62482"
     ],
@@ -20561,7 +20513,7 @@
     ],
     "hasBookComment": "The text is lost.",
     "performedIn": [
-      "ww_2a8ba047639efe35"
+      "ww_3edf5a982d0a86b2"
     ]
   },
   "ww_3dbdcf4ddd2ed788": {
@@ -20681,7 +20633,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_f18d9da682065ea5": {
@@ -20864,7 +20816,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1664:1664",
-    "hasEdition": "\"Thomaso, or The Wanderer, a Comedy.\" <i>Comedis and TRagedies written by Thomas Killigrew [...]. </i>London: Henry Herringman, 1664. 313-464.",
+    "hasEdition": "\"Thomaso, or The Wanderer, a Comedy.\" <i>Comedis and Tragedies written by Thomas Killigrew [...]. </i>London: Henry Herringman, 1664. 313-464.",
     "hasGenre": [
       "Comedy"
     ]
@@ -20926,7 +20878,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_e5b694cfdd28f611"
+      "ww_76d5a21e77e56c02"
     ]
   },
   "ww_cea852d0fb37d984": {
@@ -21119,9 +21071,9 @@
       "Prose unspecified"
     ]
   },
-  "ww_85a4f5bec1f98c34": {
+  "ww_e28f65c05ce30369": {
     "hasBookInternalId": "@005304",
-    "hasBookTitle": "Epistles",
+    "hasBookTitle": "Epistles (Snc)",
     "isWrittenBy": [
       "ww_a00dfc9e63a5d0fe"
     ],
@@ -21134,6 +21086,19 @@
       "Philosophy, religion"
     ],
     "hasEdition": "Epistles. Trans. Richard M. Gummere. Loeb Classical Library 76. Cambridge (MA): Harvard University Press, 1920. Vol. 2, 54; \"Epistula 69\", section 6."
+  },
+  "ww_52b753c4556bb471": {
+    "hasBookInternalId": "@005753",
+    "hasBookTitle": "Eclogues",
+    "isWrittenBy": [
+      "ww_81a0be98745dd98b"
+    ],
+    "hasLanguage": "Latin",
+    "hasCreationDate": "GREGORIAN:1000:1000",
+    "hasEdition": "\"Eclogues.\" <i>Eclogues. Georgics. Aeneid: Books 1-6. </i>Trans. H. Rushton Fairclough. Loeb Classical Library 63. Cambridge (MA): Harvard University Press, 1916. 23-96.",
+    "hasGenre": [
+      "Epic and verse narrative"
+    ]
   },
   "ww_8ab92ce35c976cf6": {
     "hasBookInternalId": "@005431",
@@ -21229,6 +21194,19 @@
       "Other nonfiction"
     ]
   },
+  "ww_c6b759fecca3298c": {
+    "hasBookInternalId": "@005597",
+    "hasBookTitle": "Medea",
+    "isWrittenBy": [
+      "ww_a00dfc9e63a5d0fe"
+    ],
+    "hasLanguage": "Latin",
+    "hasCreationDate": "GREGORIAN:1000:1000",
+    "hasEdition": "\"Medea.\" <i>Tragedies, Volume I: Hercules. Trojan Women. Phoenician Women. Medea. Phaedra. </i>Ed. and trans. John G. Fitch. Loeb Classical Library 62. Cambridge (MA): Harvard University Press, 2018. 316-406.",
+    "hasGenre": [
+      "Tragedy"
+    ]
+  },
   "ww_ecb26653586c4fb8": {
     "hasBookInternalId": "@005426",
     "hasBookTitle": "The Loves",
@@ -21256,8 +21234,7 @@
     ],
     "hasSubject": [
       "Linguistics"
-    ],
-    "isLexiaBook": "ww_329a3bc4a3e54d21"
+    ]
   },
   "ww_54f47f3e59d43774": {
     "hasBookInternalId": "@005713",
@@ -21305,22 +21282,9 @@
       "Prose unspecified"
     ]
   },
-  "ww_6d23f17e2e4cda85": {
-    "hasBookInternalId": "@005597",
-    "hasBookTitle": "Medea (Seneca)",
-    "isWrittenBy": [
-      "ww_a00dfc9e63a5d0fe"
-    ],
-    "hasLanguage": "Latin",
-    "hasCreationDate": "GREGORIAN:1000:1000",
-    "hasEdition": "\"Medea.\" <i>Tragedies, Volume I: Hercules. Trojan Women. Phoenician Women. Medea. Phaedra. </i>Ed. and trans. John G. Fitch. Loeb Classical Library 62. Cambridge (MA): Harvard University Press, 2018. 316-406.",
-    "hasGenre": [
-      "Tragedy"
-    ]
-  },
-  "ww_f3bbdd3002eb32d7": {
+  "ww_fbc926f636dba8dd": {
     "hasBookInternalId": "@005718",
-    "hasBookTitle": "Medea",
+    "hasBookTitle": "Medea (Erp)",
     "isWrittenBy": [
       "ww_b74f71cb58df01d0"
     ],
@@ -21406,9 +21370,9 @@
       "History, (auto-)biography"
     ]
   },
-  "ww_c97b83bae111c785": {
+  "ww_79ceae67b3827214": {
     "hasBookInternalId": "@005465",
-    "hasBookTitle": "Electra (Sophocles)",
+    "hasBookTitle": "Electra (Spc)",
     "isWrittenBy": [
       "ww_92e914f022cfa0ff"
     ],
@@ -21487,8 +21451,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Politics, law, economics"
     ]
   },
   "ww_3481db647d6db365": {
@@ -21517,9 +21481,9 @@
       "Tragedy"
     ]
   },
-  "ww_0ab5c9c1965477c2": {
+  "ww_6b0ee328f4fcf56d": {
     "hasBookInternalId": "@005373",
-    "hasBookTitle": "Epigrams (Martial)",
+    "hasBookTitle": "Epigrams (Mrt)",
     "isWrittenBy": [
       "ww_55e223d807f3a1ad"
     ],
@@ -21573,9 +21537,9 @@
       "Speech or sermon"
     ]
   },
-  "ww_19c26297e431ff30": {
+  "ww_28c50123c0dc2469": {
     "hasBookInternalId": "@005297",
-    "hasBookTitle": "Orestes (Euripides)",
+    "hasBookTitle": "Orestes (Erp)",
     "isWrittenBy": [
       "ww_b74f71cb58df01d0"
     ],
@@ -21586,15 +21550,15 @@
       "Tragedy"
     ]
   },
-  "ww_21d67ea0f5f0995a": {
+  "ww_cf5323184016b74f": {
     "hasBookInternalId": "@005528",
-    "hasBookTitle": "Elegies (Maximianus)",
+    "hasBookTitle": "Elegiarum Liber",
     "isWrittenBy": [
       "ww_61be1f51760786a4"
     ],
     "hasLanguage": "Latin",
     "hasCreationDate": "GREGORIAN:1000:1000",
-    "hasEdition": "<i>Elegiarum Liber. </i> \"Elegy 1.\" Lines 179-180. Quoted from www.thelatinlibrary.com. Last accessed 28 April 2020.",
+    "hasEdition": "\"Elegy 1.\" <i>Elegiarum Liber. </i> Lines 179-180. Quoted from www.thelatinlibrary.com. Last accessed 28 April 2020.",
     "hasGenre": [
       "Poetry unspecified"
     ],
@@ -21617,9 +21581,9 @@
     ],
     "isLexiaBook": "ww_afd56e24e95818de"
   },
-  "ww_46be7ebae06b8bbb": {
+  "ww_822457712988f470": {
     "hasBookInternalId": "@005372",
-    "hasBookTitle": "Letters (St Jerome)",
+    "hasBookTitle": "Letters (SJe)",
     "isWrittenBy": [
       "ww_866452f5d0d913c3"
     ],
@@ -21643,14 +21607,14 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Politics, law, economics",
       "Philosophy, religion",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "Politics, law, economics"
     ]
   },
-  "ww_60378d4b785f0984": {
+  "ww_8d5d7363e7fada6c": {
     "hasBookInternalId": "@005350",
-    "hasBookTitle": "The Suppliants (Euripides)",
+    "hasBookTitle": "The Suppliants (Erp)",
     "isWrittenBy": [
       "ww_b74f71cb58df01d0"
     ],
@@ -21674,9 +21638,35 @@
     ],
     "hasEdition": "<i>Moral Essays, Volume III: De Beneficiis.</i> Trans. John W. Basore. Loeb Classical Library 310. Cambridge (MA): Harvard University Press, 1935."
   },
-  "ww_08c3ab699b77a2cc": {
+  "ww_787644ae9731c436": {
+    "hasBookInternalId": "@005302",
+    "hasBookTitle": "Poems (Catullus)",
+    "isWrittenBy": [
+      "ww_5543dbfff599bfd5"
+    ],
+    "hasLanguage": "Latin",
+    "hasCreationDate": "GREGORIAN:1000:1000",
+    "hasGenre": [
+      "Poetry unspecified"
+    ],
+    "hasEdition": "Pervigilium Veneris. Trans. F. W. Cornish, J. P. Postgate and J. W. Mackail. Loeb Classical Library 6. Cambridge (MA): Harvard University Press, 1913."
+  },
+  "ww_621ba8cba1970b7e": {
+    "hasBookInternalId": "@005461",
+    "hasBookTitle": "The Iliad",
+    "isWrittenBy": [
+      "ww_57122403518a9d68"
+    ],
+    "hasLanguage": "Classical Greek",
+    "hasCreationDate": "GREGORIAN:1000:1000",
+    "hasEdition": "<i>Iliad, Volume I: Books 1-12. </i>Trans. A. T. Murray. Loeb Classical Library 170. Cambridge (MA): Harvard University Press, 1924.",
+    "hasGenre": [
+      "Epic and verse narrative"
+    ]
+  },
+  "ww_e3ca3441d198f691": {
     "hasBookInternalId": "@005375",
-    "hasBookTitle": "The Persian (Plautus)",
+    "hasBookTitle": "The Persian (Plt)",
     "isWrittenBy": [
       "ww_fd2bbed82dcb70a3"
     ],
@@ -21700,9 +21690,9 @@
       "Tragedy"
     ]
   },
-  "ww_0746c46257dd9476": {
+  "ww_0e5a89f5709a6568": {
     "hasBookInternalId": "@005697",
-    "hasBookTitle": "Agamemnon (Seneca)",
+    "hasBookTitle": "Agamemnon (LAS)",
     "isWrittenBy": [
       "ww_a00dfc9e63a5d0fe"
     ],
@@ -21711,19 +21701,6 @@
     "hasEdition": "\"Agamemnon.\" Tragedies, Volume II: Oedipus. Agamemnon. Thyestes. Hercules on Oeta. Octavia. Edited and translated by John G. Fitch. Loeb Classical Library 78. Cambridge, MA: Harvard University Press, 2018. 128-218.",
     "hasGenre": [
       "Tragedy"
-    ]
-  },
-  "ww_621ba8cba1970b7e": {
-    "hasBookInternalId": "@005461",
-    "hasBookTitle": "The Iliad",
-    "isWrittenBy": [
-      "ww_57122403518a9d68"
-    ],
-    "hasLanguage": "Classical Greek",
-    "hasCreationDate": "GREGORIAN:1000:1000",
-    "hasEdition": "<i>Iliad, Volume I: Books 1-12. </i>Trans. A. T. Murray. Loeb Classical Library 170. Cambridge (MA): Harvard University Press, 1924.",
-    "hasGenre": [
-      "Epic and verse narrative"
     ]
   },
   "ww_28048938154e4b77": {
@@ -21739,13 +21716,13 @@
       "Comedy"
     ]
   },
-  "ww_bf32d2a076bae888": {
+  "ww_ae8430cf5e86c8d1": {
     "hasBookInternalId": "@005552",
-    "hasBookTitle": "Oedipus (Seneca)",
+    "hasBookTitle": "Oedipus (Snc)",
     "isWrittenBy": [
       "ww_a00dfc9e63a5d0fe"
     ],
-    "hasLanguage": "English",
+    "hasLanguage": "Latin",
     "hasCreationDate": "GREGORIAN:1000:1000",
     "hasEdition": "\"Oedipus.\" Tragedies, Volume II: Oedipus. Agamemnon. Thyestes. Hercules on Oeta. Octavia. Ed. and trans. John G. Fitch. Loeb Classical Library 78. Cambridge (MA): Harvard University Press, 2018. 18-115.",
     "hasGenre": [
@@ -21781,9 +21758,9 @@
       "Linguistics"
     ]
   },
-  "ww_e82216f1b0b7325e": {
+  "ww_5805311ea9ac80e8": {
     "hasBookInternalId": "@005464",
-    "hasBookTitle": "Heracles (Euripides)",
+    "hasBookTitle": "Heracles (Erp)",
     "isWrittenBy": [
       "ww_b74f71cb58df01d0"
     ],
@@ -21794,9 +21771,9 @@
       "Tragedy"
     ]
   },
-  "ww_ce0170cb8f7be724": {
+  "ww_77467ae789365cf6": {
     "hasBookInternalId": "@005298",
-    "hasBookTitle": "Andromache (Euripides)",
+    "hasBookTitle": "Andromache (Erp)",
     "isWrittenBy": [
       "ww_b74f71cb58df01d0"
     ],
@@ -21849,22 +21826,9 @@
       "History, (auto-)biography"
     ]
   },
-  "ww_787644ae9731c436": {
-    "hasBookInternalId": "@005302",
-    "hasBookTitle": "Poems (Catullus)",
-    "isWrittenBy": [
-      "ww_5543dbfff599bfd5"
-    ],
-    "hasLanguage": "Latin",
-    "hasCreationDate": "GREGORIAN:1000:1000",
-    "hasEdition": "Pervigilium Veneris. Trans. F. W. Cornish, J. P. Postgate and J. W. Mackail. Loeb Classical Library 6. Cambridge (MA): Harvard University Press, 1913.",
-    "hasGenre": [
-      "Poetry unspecified"
-    ]
-  },
-  "ww_26d3b9566e22db2a": {
+  "ww_4c8e281b2559dd06": {
     "hasBookInternalId": "@005292",
-    "hasBookTitle": "Tusculanae Disputationes",
+    "hasBookTitle": "Tusculan Disputations",
     "isWrittenBy": [
       "ww_2328c74af1f27243"
     ],
@@ -21924,9 +21888,9 @@
       "Classical Studies"
     ]
   },
-  "ww_d871fbb65121d9df": {
+  "ww_af1f4969f6550df2": {
     "hasBookInternalId": "@005556",
-    "hasBookTitle": "Pharsalia",
+    "hasBookTitle": "Pharsalia (Lucan)",
     "isWrittenBy": [
       "ww_0ca6a30387f03401"
     ],
@@ -22000,6 +21964,19 @@
       "Shakespeare"
     ]
   },
+  "ww_33c090c6d5751381": {
+    "hasBookInternalId": "@005722",
+    "hasBookTitle": "Le Morte d'Arthur",
+    "isWrittenBy": [
+      "ww_b06a0000dc2566c3"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1485:1485",
+    "hasEdition": "<i>Le Morte d'Arthur.</i> Ed. Janet Cowen and John Lawlor. 2 vols. Harmondsworth: Penguin, 1986.",
+    "hasGenre": [
+      "Prose unspecified"
+    ]
+  },
   "ww_620b14c64fd894d6": {
     "hasBookInternalId": "@000064",
     "hasBookTitle": "King John (Bale)",
@@ -22045,6 +22022,20 @@
       "Shakespeare"
     ]
   },
+  "ww_9149c0ecc8845878": {
+    "hasBookInternalId": "@000429",
+    "hasBookTitle": "Palamon and Arcite (REd)",
+    "isWrittenBy": [
+      "ww_aba2dac8cd69353f"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1566:1566",
+    "hasEdition": "<i>Palamon and Arcite.</i>",
+    "hasGenre": [
+      "Romance"
+    ],
+    "hasBookComment": "The text of this play is lost."
+  },
   "ww_794da2545b932c5f": {
     "hasBookInternalId": "@005711",
     "hasBookTitle": "The Story of Samson",
@@ -22086,6 +22077,41 @@
       "Educational"
     ]
   },
+  "ww_19ed55f36dbca806": {
+    "hasBookInternalId": "@005728",
+    "hasBookTitle": "Physic against Fortune",
+    "isWrittenBy": [
+      "ww_a5663d4a9069f35d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1579:1579",
+    "hasEdition": "133verso [normalized spelling].",
+    "hasGenre": [
+      "Other nonfiction"
+    ],
+    "hasSubject": [
+      "Philosophy, religion",
+      "Psychology, medicine, health"
+    ]
+  },
+  "ww_ad6a1b5613863830": {
+    "hasBookInternalId": "@000692",
+    "hasBookTitle": "Pompey",
+    "isWrittenBy": [
+      "ww_93d58b4d5fed41d9"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1580:1581",
+    "hasFirstPerformanceDate": "GREGORIAN:1581",
+    "hasEdition": "<i>Pompey.</i>",
+    "hasGenre": [
+      "History (play)"
+    ],
+    "hasBookComment": "The text is lost.",
+    "performedBy": [
+      "ww_2eb6b7cad6584184"
+    ]
+  },
   "ww_f2506a98623ea193": {
     "hasBookInternalId": "@000699",
     "hasBookTitle": "Cupid and Psyche",
@@ -22106,9 +22132,9 @@
       "ww_641ee71af888ad03"
     ]
   },
-  "ww_287bf1ab75ae74c0": {
+  "ww_03ddd6218716355a": {
     "hasBookInternalId": "@000721",
-    "hasBookTitle": "The Tragedy of Oedipus (Gager)",
+    "hasBookTitle": "The Tragedy of Oedipus (WGa)",
     "isWrittenBy": [
       "ww_c711dcfe1549c7c3"
     ],
@@ -22121,7 +22147,7 @@
     ],
     "hasBookComment": "The text of this play is lost.",
     "performedIn": [
-      "ww_0265eab7aea021a5"
+      "ww_a0fafa12a8a05945"
     ]
   },
   "ww_2d850fe0d1285f1e": {
@@ -22162,9 +22188,96 @@
       "ww_4ba7f896189dc42b"
     ]
   },
-  "ww_e162011f5869881b": {
+  "ww_ee4801b24c0c763a": {
+    "hasBookInternalId": "@005744",
+    "hasBookTitle": "A Discourse of English Poetry",
+    "isWrittenBy": [
+      "ww_efccd2be473c2748"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1586:1586",
+    "hasEdition": "<i>A discourse of English poetrie Together, with the authors iudgment, touching the reformation of our English verse. By William Webbe. Craduate.</i> London: John Charlewood for Robert Walley, 1586.",
+    "hasGenre": [
+      "Other nonfiction"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ]
+  },
+  "ww_720a83b98567547c": {
+    "hasBookInternalId": "@005772",
+    "hasBookTitle": "Alphonsus",
+    "isWrittenBy": [
+      "ww_ce2fb5bd491a4d2e"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1587:1587",
+    "hasEdition": "<i>Alphonsus.</i>",
+    "hasGenre": [
+      "Masque or other"
+    ]
+  },
+  "ww_b2f0d2951eba9fc7": {
+    "hasBookInternalId": "@005721",
+    "hasBookTitle": "Oh read over Dr John Bridges",
+    "isWrittenBy": [
+      "ww_94d6a078036e4a49"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1588:1588",
+    "hasEdition": "<i>Oh read ouer D. Iohn Bridges, for it is worthy worke: or an epitome of the fyrste booke, of that right worshipfull volume, written against the puritanes, in the defence of the noble cleargie, by as worshipfull a prieste, Iohn Bridges, presbyter, priest or elder, doctor of Diuillitie, and Deane of Sarum </i>Fawsley: Printed on the other hand of some of the priests by Robert Waldegrave, 1588.",
+    "hasGenre": [
+      "Pamphlet or liturgical text"
+    ]
+  },
+  "ww_272016737234385e": {
+    "hasBookInternalId": "@005755",
+    "hasBookTitle": "The Turkish Muhammad and Irene The Fair Greek",
+    "isWrittenBy": [
+      "ww_7468c79b15d734b3"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1588:1588",
+    "hasEdition": "<i>The Turkish Muhammad and Irene [Hiren] The Fair Greek. </i>1588.",
+    "hasGenre": [
+      "Masque or other"
+    ],
+    "hasBookComment": "The text of this romantic tragedy is lost."
+  },
+  "ww_43ab6b2dee6427c0": {
+    "hasBookInternalId": "@005658",
+    "hasBookTitle": "Shakespeares King John und seine Quelle",
+    "hasEdition": "Shakespeares \"King John\" und seine Quelle. Kiel: P. Peters, 1900. ",
+    "isWrittenBy": [
+      "ww_2afd95cd0c18d4d1"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1900:1900",
+    "hasPublicationDate": "GREGORIAN:1900:1900",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Shakespeare"
+    ]
+  },
+  "ww_bde63564bf0b04f2": {
+    "hasBookInternalId": "@005745",
+    "hasBookTitle": "Catharos",
+    "isWrittenBy": [
+      "ww_31ef7df7935b492f"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1591:1591",
+    "hasEdition": "<i>Catharos. Diogenes in his singularitie Wherein is comprehended his merrie baighting fit for all mens benefits: christened by him, a nettle for nice noses. By T.L. of Lincolns Inne, Gent: 1591.</i> London: William Hoskins and John Danter, for John Busby, 1591.",
+    "hasGenre": [
+      "Other nonfiction"
+    ]
+  },
+  "ww_09ec58f884fdab62": {
     "hasBookInternalId": "@000960",
-    "hasBookTitle": "Tamar Cham 1",
+    "hasBookTitle": "Tamar Cham Part 1",
     "isWrittenBy": [
       "ww_93d58b4d5fed41d9"
     ],
@@ -22180,12 +22293,12 @@
       "ww_06311c47190f2d0a"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
-  "ww_f26759a861ece79c": {
+  "ww_7878ee706810c48b": {
     "hasBookInternalId": "@000925",
-    "hasBookTitle": "Tamar Cham 2",
+    "hasBookTitle": "Tamar Cham Part 2",
     "isWrittenBy": [
       "ww_93d58b4d5fed41d9"
     ],
@@ -22200,7 +22313,50 @@
       "ww_06311c47190f2d0a"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
+    ]
+  },
+  "ww_d34d1fd90938e237": {
+    "hasBookInternalId": "@000966",
+    "hasBookTitle": "Palamon and Arcite",
+    "isWrittenBy": [
+      "ww_93d58b4d5fed41d9"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1594:1594",
+    "hasFirstPerformanceDate": "GREGORIAN:1594",
+    "hasEdition": "<i>Palamon and Arcite.</i>",
+    "hasGenre": [
+      "Tragedy"
+    ],
+    "performedIn": [
+      "ww_99cb897ff63313b5"
+    ]
+  },
+  "ww_e541547cb470fe97": {
+    "hasBookInternalId": "@005754",
+    "hasBookTitle": "Ulysses upon Ajax",
+    "isWrittenBy": [
+      "ww_a53df3a5d7417bd6"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1596:1596",
+    "hasEdition": "<i>Vlysses vpon Aiax. Written by Misodiaboles to his friend Philaretes.</i> London: R. Robinson for Thomas Gubbins, 1596.",
+    "hasGenre": [
+      "Prose unspecified"
+    ]
+  },
+  "ww_361f3479aec2b8bc": {
+    "hasBookInternalId": "@005727",
+    "hasBookTitle": "The First Book of Songs or Airs in Four Parts (JoD)",
+    "isWrittenBy": [
+      "ww_8ff183e9c3dd0d6b"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1597:1597",
+    "hasEdition": "The first booke of songes or ayres of fowre partes with tableture for the lute so made that all the partes together, or either of them seuerally may be song to the lute, orpherian or viol de gambo. Composed by Iohn Dowland lutenist and Batcheler of musicke in both the vniversities. Also an inuention by the sayd author for two to playe vpon one lute. London: Peter Short, 1597.",
+    "hasGenre": [
+      "Song or ballad"
     ]
   },
   "ww_14b443ca01e5ef12": {
@@ -22221,6 +22377,45 @@
       "ww_312616f20d6e5e9b"
     ]
   },
+  "ww_c002e2c5882f7457": {
+    "hasBookInternalId": "@005273",
+    "hasBookTitle": "The Iliad (GCh)",
+    "isWrittenBy": [
+      "ww_8501ec457f433848"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1598:1609",
+    "hasEdition": "<i>The Iliads of Homer prince of poets Neuer before in any languag truely translated. With a comment vppon some of his chiefe places; donne according to the Greeke by Geo: Chapman.</i> London: Richard Field for Nathaniel Butter, 1611.",
+    "hasGenre": [
+      "Epic and verse narrative"
+    ]
+  },
+  "ww_ad7155d7af80f8af": {
+    "hasBookInternalId": "@005748",
+    "hasBookTitle": "A Survey of London",
+    "isWrittenBy": [
+      "ww_7a90ce93deecfece"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1598:1598",
+    "hasEdition": "<i>The survey of London contayning the originall, increase, moderne estate, and government of that city, methodically set downe. With a memoriall of those famouser acts of charity, which for publicke and pious vses have beene bestowed by many worshipfull citizens and benefactors. As also all the ancient and moderne monuments [...]</i> London: Elizabeth Purslow for Nicholas Bourne, 1633.",
+    "hasGenre": [
+      "Other nonfiction"
+    ]
+  },
+  "ww_cd5340da03fe59c7": {
+    "hasBookInternalId": "@005751",
+    "hasBookTitle": "Nashe's Lenten Stuff",
+    "isWrittenBy": [
+      "ww_9e2e58504b5d3de8"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1599:1599",
+    "hasEdition": "<i>Nashes Lenten stuffe containing, the description and first procreation and increase of the towne of Great Yarmouth in Norffolke: with a new play neuer played before, of the praise of the red herring. Fitte of all clearkes of noblemens kitchins to be read: and not vnnecessary by all seruing men that haue short boord-wages, to be remembered.</i> London: Thomas Judson and Valentine Simms for Nicholas Ling and Cuthbert Burby, 1599.",
+    "hasGenre": [
+      "Other nonfiction"
+    ]
+  },
   "ww_7b1fa55aae78437d": {
     "hasBookInternalId": "@001179",
     "hasBookTitle": "The Two Merry Women of Abingdon",
@@ -22238,15 +22433,15 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
-  "ww_a0820c33ae2e4e91": {
+  "ww_b46809474a38c080": {
     "hasBookInternalId": "@001186",
-    "hasBookTitle": "Agamemnon (Dekker and Chettle)",
+    "hasBookTitle": "Agamemnon (DCh)",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_d78940f8a8554ca3"
+      "ww_d78940f8a8554ca3",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1599:1599",
@@ -22263,8 +22458,8 @@
     "hasBookInternalId": "@005703",
     "hasBookTitle": "Orestes Furies",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_d78940f8a8554ca3"
+      "ww_d78940f8a8554ca3",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1599:1599",
@@ -22277,7 +22472,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
   "ww_c4309ddafeddce0e": {
@@ -22298,12 +22493,12 @@
       "Shakespeare"
     ]
   },
-  "ww_ce79dde151459857": {
+  "ww_3380b6aa7ddd3e43": {
     "hasBookInternalId": "@001182",
-    "hasBookTitle": "Troilus and Cressida (Chettle and Dekker)",
+    "hasBookTitle": "Troilus and Cressida (ChDk)",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_d78940f8a8554ca3"
+      "ww_d78940f8a8554ca3",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1599:1599",
@@ -22317,12 +22512,28 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2f802a7252e16862"
+      "ww_99cb897ff63313b5"
     ]
   },
-  "ww_421b5cf3b472d000": {
+  "ww_81d0c68b844a7db2": {
+    "hasBookInternalId": "@005729",
+    "hasBookTitle": "Pasquill&#039;s Fool&#039;s Cap",
+    "isWrittenBy": [
+      "ww_071e99e8524a8184"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1600:1600",
+    "hasEdition": "<i>Pasquils fooles-cap sent to such (to keepe their weake braines warme) as are not able to conceiue aright of his mad-cap. With Pasquils passion for the worlds waywardnesse. Begun by himselfe, and finished by his friend Morphorius.</i> London: R. Braddock for Thomas Jones, 1600.",
+    "hasGenre": [
+      "Pamphlet or liturgical text"
+    ],
+    "hasSubject": [
+      "Philosophy, religion"
+    ]
+  },
+  "ww_2b8fe128de29324a": {
     "hasBookInternalId": "@011112",
-    "hasBookTitle": "Antony and Cleopatra (Greville)",
+    "hasBookTitle": "Antony and Cleopatra (FuG)",
     "isWrittenBy": [
       "ww_47048440e7b06685"
     ],
@@ -22333,6 +22544,19 @@
       "Tragedy"
     ],
     "hasBookComment": "The text is lost."
+  },
+  "ww_d78451f8421ae07e": {
+    "hasBookInternalId": "@005731",
+    "hasBookTitle": "How to Drive the Cold Winter Away",
+    "isWrittenBy": [
+      "ww_93d58b4d5fed41d9"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1601:1640",
+    "hasEdition": "\"A Pleasant Countrey new Ditty: Merrily shewing how To drive the cold Winter away.\" Broadsie ballad in the Pepys collection of Magdalene College, Pepys Ballads 1.186-187.",
+    "hasGenre": [
+      "Song or ballad"
+    ]
   },
   "ww_60950905bb0da02d": {
     "hasBookInternalId": "@001319",
@@ -22351,7 +22575,7 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2a8ba047639efe35"
+      "ww_3edf5a982d0a86b2"
     ]
   },
   "ww_843c7a5355365e7f": {
@@ -22373,12 +22597,12 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_2a8ba047639efe35"
+      "ww_3edf5a982d0a86b2"
     ]
   },
-  "ww_26ee78c78b91da06": {
+  "ww_b3de5bececbaa4cd": {
     "hasBookInternalId": "@001405",
-    "hasBookTitle": "Medea (Hobbes)",
+    "hasBookTitle": "Medea (ThHo)",
     "isWrittenBy": [
       "ww_7b09cc53f410fd7f"
     ],
@@ -22442,6 +22666,20 @@
       "ww_58b17c98fafa10ae"
     ]
   },
+  "ww_cd8938625aa1204d": {
+    "hasBookInternalId": "@005746",
+    "hasBookTitle": "On Seianus",
+    "isWrittenBy": [
+      "ww_d1feae78d60ed580"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1605:1605",
+    "hasEdition": "\"Upon Sejanus.\" <i>Seianus his fall. VVritten by Ben: Ionson. </i>London: G. Elld for Thomas Thorpe, 1605.",
+    "hasEditionHist": "\"Upon Sejanus.\" <i>Seianus his fall. VVritten by Ben: Ionson. </i>London: G. Elld for Thomas Thorpe, 1605.",
+    "hasGenre": [
+      "Poetry unspecified"
+    ]
+  },
   "ww_1b43f507b5d89e6e": {
     "hasBookInternalId": "@005647",
     "hasBookTitle": "The Works of John Day",
@@ -22457,6 +22695,22 @@
     ],
     "hasSubject": [
       "Literature and theatre"
+    ]
+  },
+  "ww_bbbeb4647ac8a26f": {
+    "hasBookInternalId": "@005749",
+    "hasBookTitle": "A True Relation of Virginia",
+    "isWrittenBy": [
+      "ww_ef61a579c907bbed"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1608:1608",
+    "hasEdition": "N.p.",
+    "hasGenre": [
+      "Other nonfiction"
+    ],
+    "hasSubject": [
+      "Sociology, lifestyle, travel"
     ]
   },
   "ww_0ea32ca06ff3f508": {
@@ -22502,7 +22756,7 @@
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1620:1620",
     "hasFirstPerformanceDate": "GREGORIAN:1639",
-    "hasEdition": "Antonio and Vallia. 1620.",
+    "hasEdition": "<i>Antonio and Vallia. </i>1620.",
     "hasGenre": [
       "Tragedy"
     ],
@@ -22589,16 +22843,16 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_373e8bfcb09cb0d6": {
     "hasBookInternalId": "@002127",
     "hasBookTitle": "A Wedding, or A Cure for a Cuckold",
     "isWrittenBy": [
-      "ww_5cb3d6fa23800e74",
       "ww_f10aec8cfe5ff90d",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_5cb3d6fa23800e74"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1624:1624",
@@ -22612,7 +22866,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f1820ea946f27232"
+      "ww_0ee31c6b9440b9ca"
     ]
   },
   "ww_4aec3f1b5500e89e": {
@@ -22632,7 +22886,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_c81a2cfecc5ff6d8": {
@@ -22653,7 +22907,7 @@
   },
   "ww_e7354fadf0a6bab2": {
     "hasBookInternalId": "@005709",
-    "hasBookTitle": "The Sources of Massinger&#039;s Emperour of the Ea",
+    "hasBookTitle": "Sources of Massinger's Emperour of the East",
     "hasEdition": "\"The Sources of Massinger's Emperour of the East.\" PMLA 65:4 (June 1950): 473-482.",
     "isWrittenBy": [
       "ww_fe3502833055e60c"
@@ -22682,8 +22936,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Psychology, medicine, health",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "Psychology, medicine, health"
     ]
   },
   "ww_3df89d4f6483db2b": {
@@ -22700,7 +22954,7 @@
     ],
     "hasBookComment": "The text is lost.",
     "performedIn": [
-      "ww_746dc249e1606dc9"
+      "ww_ce5d3be654f51de8"
     ]
   },
   "ww_413388e9f2321107": {
@@ -22720,7 +22974,7 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_500401fd932fe553"
+      "ww_f4835626deff2681"
     ]
   },
   "ww_69db32158650f0d4": {
@@ -22736,6 +22990,21 @@
       "Comedy"
     ],
     "hasBookComment": "The text of this comedy is lost."
+  },
+  "ww_054d59d382c13b5c": {
+    "hasBookInternalId": "@002508",
+    "hasBookTitle": "Jupiter and Io",
+    "isWrittenBy": [
+      "ww_f10aec8cfe5ff90d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1635:1635",
+    "hasPublicationDate": "GREGORIAN:1637",
+    "hasEdition": "<i>Jupiter and Io.</i>",
+    "hasGenre": [
+      "Masque or other"
+    ],
+    "hasBookComment": "The text of this play is lost."
   },
   "ww_382e731f595f571b": {
     "hasBookInternalId": "@002536",
@@ -22821,15 +23090,30 @@
     ],
     "hasBookComment": "The text of this play is lost."
   },
-  "ww_735d3cb2459d44bb": {
-    "hasBookInternalId": "@111111",
+  "ww_d0305fac916ef07b": {
+    "hasBookInternalId": "@003800",
     "hasBookTitle": "The Variety",
     "isWrittenBy": [
       "ww_9830d46f027273df"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1641:1641",
+    "hasFirstPerformanceDate": "GREGORIAN:1641",
+    "hasPublicationDate": "GREGORIAN:1649",
     "hasEdition": "<i>The country captaine and the Varietie, two comedies written by a person of honor; lately presented by His Majesties servants at the Black-Fryars. </i>London: Humphrey Robinson and Humphrey Moseley, 1649. 72; act 5, scene 1 [normalized spelling].",
+    "hasGenre": [
+      "Comedy"
+    ]
+  },
+  "ww_9b1d9904b7860dba": {
+    "hasBookInternalId": "@005720",
+    "hasBookTitle": "The Tricks of Youth",
+    "isWrittenBy": [
+      "ww_ebace5dedf2fba51"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1641:1641",
+    "hasEdition": "<i>Tricks of youth, or, The walks of Islington and Hogsdon with the humours of Woodstreet-compter a comedy, as it was publickly acted nineteen dayes together with extraordinary applause written by Tho. Jordan, Gent. </i>London: Printed by Authority for the use of the author, 1663.",
     "hasGenre": [
       "Comedy"
     ]
@@ -22847,8 +23131,21 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Politics, law, economics",
-      "Philosophy, religion"
+      "Philosophy, religion",
+      "Politics, law, economics"
+    ]
+  },
+  "ww_24c12e6171e91f51": {
+    "hasBookInternalId": "@005732",
+    "hasBookTitle": "Marcus Tullius Cicero",
+    "isWrittenBy": [
+      "ww_93d58b4d5fed41d9"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1651:1651",
+    "hasEdition": "<i>The Tragedy Of That Famous Roman Oratovr Marcus Tullius Cicero. </i>London: Richard Cotes, for John Sweeting, 1651. ",
+    "hasGenre": [
+      "Tragedy"
     ]
   },
   "ww_ec3d1d69c84a4226": {
@@ -22862,6 +23159,33 @@
     "hasEdition": "Upon the Most Execrable Murder of Mr. Clun [...]. Broadside sheet, 1664.",
     "hasGenre": [
       "Song or ballad"
+    ]
+  },
+  "ww_2a7a0bbd7835535e": {
+    "hasBookInternalId": "@005730",
+    "hasBookTitle": "The Plain Dealer",
+    "isWrittenBy": [
+      "ww_f308f1a285323ed9"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1676:1676",
+    "hasEdition": "<i>The plain-dealer a comedy, as it is acted at the Theatre Royal written by Mr. Wycherley. </i>London: T.N. for James Magnes and Richard Bentley, 1677.",
+    "hasGenre": [
+      "Comedy"
+    ],
+    "hasBookComment": "This comedy was first performed on 11 December 1676."
+  },
+  "ww_c420433706020de5": {
+    "hasBookInternalId": "@005733",
+    "hasBookTitle": "Squire Oldsapp",
+    "isWrittenBy": [
+      "ww_b2f00cf3ae93a32b"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1679:1679",
+    "hasEdition": "<i>Squire Oldsapp, or, The night-adventurers a comedy, as it is acted at His Royal Highness the Duke's Theatre written by Tho. Durfey, Gent.</i> London: James Magnes and Richard Bentley, 1679.",
+    "hasGenre": [
+      "Comedy"
     ]
   },
   "ww_c552229d091a7fab": {

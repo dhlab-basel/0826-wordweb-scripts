@@ -7,7 +7,8 @@
     "hasCompanyInternalId": "#009008",
     "hasCompanyTitle": "Pembroke's Men",
     "hasMember": [
-      "ww_2b461dcf3b8b54e7"
+      "ww_2b461dcf3b8b54e7",
+      "ww_852c7c260688c7cd"
     ]
   },
   "ww_2f923c7f18095fc0": {
@@ -18,60 +19,93 @@
     "hasCompanyInternalId": "#009002",
     "hasCompanyTitle": "Lord Chamberlain's (Lord Hunsdon's) Men",
     "hasMember": [
+      "ww_410b3b18358b9b9b",
       "ww_2b461dcf3b8b54e7",
-      "ww_684176b58bc762f6",
-      "ww_93188e55a4159eb0"
+      "ww_93188e55a4159eb0",
+      "ww_852c7c260688c7cd",
+      "ww_d57002bb2284405d",
+      "ww_684176b58bc762f6"
     ]
   },
   "ww_312616f20d6e5e9b": {
     "hasCompanyInternalId": "#009003",
     "hasCompanyTitle": "Admiral's Men",
     "hasMember": [
-      "ww_2b461dcf3b8b54e7",
       "ww_9b2d545e20d62482",
-      "ww_aa9d769d4c22a17a",
-      "ww_d868186812544aa2"
+      "ww_2137c7711450f157",
+      "ww_2b461dcf3b8b54e7",
+      "ww_d868186812544aa2",
+      "ww_453fcb35c1de3a58",
+      "ww_aa9d769d4c22a17a"
     ]
   },
   "ww_2eb6b7cad6584184": {
     "hasCompanyInternalId": "#009005",
-    "hasCompanyTitle": "Children of Pauls",
-    "isLexiaCompany": "ww_2b9998e8c558ae5f"
+    "hasCompanyTitle": "Children of Pauls"
   },
   "ww_eb1d4988fa5b0fe5": {
     "hasCompanyInternalId": "#009011",
     "hasCompanyTitle": "Children of the Chapel Royal",
-    "isLexiaCompany": "ww_4b09201daecca6f2"
+    "isLexiaCompany": "ww_4b09201daecca6f2",
+    "hasMember": [
+      "ww_3bbb9662acf999fa",
+      "ww_8099c312d6f14f7c",
+      "ww_6e23936f08509ef5"
+    ]
   },
   "ww_f31f247137fcb48d": {
     "hasCompanyInternalId": "#009019",
-    "hasCompanyTitle": "Worcester's Men"
+    "hasCompanyTitle": "Worcester's Men",
+    "hasMember": [
+      "ww_e04e16bd7cb52044"
+    ]
   },
   "ww_58b17c98fafa10ae": {
     "hasCompanyInternalId": "#009001",
     "hasCompanyTitle": "King's Men",
     "hasMember": [
-      "ww_684176b58bc762f6",
-      "ww_dd9a684dcb872564",
-      "ww_e97f8919dc99b209",
-      "ww_8926bbeaa7c56023",
-      "ww_392b079084ecbf38",
-      "ww_aa9d769d4c22a17a",
-      "ww_4af69e0a9632326b",
-      "ww_93188e55a4159eb0",
-      "ww_5350e0c0cddb3400",
+      "ww_e5da26b835422397",
+      "ww_8099c312d6f14f7c",
       "ww_2b461dcf3b8b54e7",
-      "ww_535dbb6e2fbfea98"
+      "ww_93188e55a4159eb0",
+      "ww_e04e16bd7cb52044",
+      "ww_535dbb6e2fbfea98",
+      "ww_8926bbeaa7c56023",
+      "ww_5350e0c0cddb3400",
+      "ww_9acbe54c44792595",
+      "ww_dd9a684dcb872564",
+      "ww_2b9db3a71c232d4f",
+      "ww_9ccd42bf68e83cf2",
+      "ww_4fdaef848b2cf826",
+      "ww_684176b58bc762f6",
+      "ww_5fe98d25e4d26727",
+      "ww_410b3b18358b9b9b",
+      "ww_852c7c260688c7cd",
+      "ww_0222ba91a76da157",
+      "ww_723943f0c5dcde08",
+      "ww_3bbb9662acf999fa",
+      "ww_463b20e6963d2636",
+      "ww_bbc0cf35a4cbd541",
+      "ww_4af69e0a9632326b",
+      "ww_392b079084ecbf38",
+      "ww_6e1087d978c55da7",
+      "ww_6e23936f08509ef5",
+      "ww_aa9d769d4c22a17a"
     ]
   },
   "ww_b92cc9cd25fb9404": {
     "hasCompanyInternalId": "#009014",
-    "hasCompanyTitle": "Queen Anne's Men"
+    "hasCompanyTitle": "Queen Anne's Men",
+    "hasMember": [
+      "ww_9ccd42bf68e83cf2",
+      "ww_4fdaef848b2cf826"
+    ]
   },
   "ww_271a9756145ec962": {
     "hasCompanyInternalId": "#009010",
     "hasCompanyTitle": "Children of the Queen's Revels",
     "hasMember": [
+      "ww_4165dddf64bc6da3",
       "ww_8926bbeaa7c56023"
     ]
   },
@@ -89,7 +123,14 @@
   },
   "ww_fb09029608b37502": {
     "hasCompanyInternalId": "#009009",
-    "hasCompanyTitle": "Queen Henrietta's Men"
+    "hasCompanyTitle": "Queen Henrietta's Men",
+    "hasMember": [
+      "ww_9acbe54c44792595",
+      "ww_2b9db3a71c232d4f",
+      "ww_9ccd42bf68e83cf2",
+      "ww_384c38a8c5407382",
+      "ww_4fdaef848b2cf826"
+    ]
   },
   "ww_ae42ffd9324d5246": {
     "hasCompanyInternalId": "#009015",
@@ -97,7 +138,13 @@
   },
   "ww_dfe3ddd6db3b2f36": {
     "hasCompanyInternalId": "#009012",
-    "hasCompanyTitle": "Lady Elizabeth's Men"
+    "hasCompanyTitle": "Lady Elizabeth's Men",
+    "hasMember": [
+      "ww_3bbb9662acf999fa",
+      "ww_463b20e6963d2636",
+      "ww_bbc0cf35a4cbd541",
+      "ww_16d6bd30a8c9da6a"
+    ]
   },
   "ww_8e7721de65bda5cd": {
     "hasCompanyInternalId": "#009030",
@@ -107,8 +154,10 @@
     "hasCompanyInternalId": "#009020",
     "hasCompanyTitle": "Lord Strange's Men",
     "hasMember": [
+      "ww_e5da26b835422397",
       "ww_392b079084ecbf38",
-      "ww_2b461dcf3b8b54e7"
+      "ww_2b461dcf3b8b54e7",
+      "ww_852c7c260688c7cd"
     ]
   },
   "ww_cf1e1a78f52e58d7": {
@@ -133,7 +182,11 @@
   },
   "ww_39c5a740f44cabb9": {
     "hasCompanyInternalId": "#009017",
-    "hasCompanyTitle": "Prince Charles' (Duke of York's) Men"
+    "hasCompanyTitle": "Prince Charles' (Duke of York's) Men",
+    "hasMember": [
+      "ww_3bbb9662acf999fa",
+      "ww_2137c7711450f157"
+    ]
   },
   "ww_7761ba34a55175dc": {
     "hasCompanyInternalId": "#009016",
@@ -141,7 +194,10 @@
   },
   "ww_83b481f6562ee0fc": {
     "hasCompanyInternalId": "#009025",
-    "hasCompanyTitle": "Leicester's Men"
+    "hasCompanyTitle": "Leicester's Men",
+    "hasMember": [
+      "ww_25e6fd889f1e2401"
+    ]
   },
   "ww_60234f6bf9418d3b": {
     "hasCompanyInternalId": "#009023",
@@ -153,7 +209,10 @@
   },
   "ww_e19a2b6adb3b9951": {
     "hasCompanyInternalId": "#009026",
-    "hasCompanyTitle": "King's Revels Company"
+    "hasCompanyTitle": "King's Revels Company",
+    "hasMember": [
+      "ww_9acbe54c44792595"
+    ]
   },
   "ww_27246da03bb6da5b": {
     "hasCompanyInternalId": "#009028",
