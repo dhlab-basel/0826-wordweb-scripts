@@ -169,3 +169,15 @@ import re
 # except Exception as err:
 #     print(err, "Import Fail")
 #     raise SystemExit(0)
+
+# -----------------
+word = "the name"
+def_article = re.search("^([Tt]he)\s(.*)", word)
+undef_article = re.search("^([Aa])\s(.*)", word)
+
+if def_article:
+    print(def_article.group(1), def_article.group(2))
+elif undef_article:
+    print(undef_article.group(1), undef_article.group(2))
+else:
+    print("NOT FOUND")
