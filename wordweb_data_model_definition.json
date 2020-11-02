@@ -694,33 +694,12 @@
         },
         "nodes": [
           {
-            "name": "CHARACTERNAME",
-            "labels": {
-              "de": "Charaktername",
-              "en": "Charactername"
-            }
-          },
-          {
-            "name": "TITLE",
-            "labels": {
-              "de": "Titel",
-              "en": "Title"
-            }
-          },
-          {
             "name": "BODY OF TEXT",
             "labels": {
               "de": "???",
               "en": "Body of text"
             },
             "nodes": [
-              {
-                "name": "Narrator",
-                "labels": {
-                  "de": "???",
-                  "en": "Narrator"
-                }
-              },
               {
                 "name": "Dialogue",
                 "labels": {
@@ -729,10 +708,10 @@
                 }
               },
               {
-                "name": "Interior monologue",
+                "name": "Narrator",
                 "labels": {
                   "de": "???",
-                  "en": "Interior monologue"
+                  "en": "Narrator"
                 }
               },
               {
@@ -748,21 +727,21 @@
                   "de": "???",
                   "en": "Fictional letter or diary"
                 }
-              },
-              {
-                "name": "Not defined",
-                "labels": {
-                  "de": "Nicht definiert",
-                  "en": "Not defined"
-                }
               }
             ]
           },
           {
-            "name": "EPIGRAPH",
+            "name": "CHARACTERNAME",
             "labels": {
-              "de": "???",
-              "en": "Epigraph"
+              "de": "Charaktername",
+              "en": "Charactername"
+            }
+          },
+          {
+            "name": "TITLE",
+            "labels": {
+              "de": "Titel",
+              "en": "Title"
             }
           },
           {
@@ -777,13 +756,6 @@
             "labels": {
               "de": "???",
               "en": "Complete text"
-            }
-          },
-          {
-            "name": "FOOTNOTE OR OTHER",
-            "labels": {
-              "de": "???",
-              "en": "Footnote or other"
             }
           },
           {
