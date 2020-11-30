@@ -1016,6 +1016,57 @@
             },
             "nodes": [
               {
+                "name": "ALL DRAMA",
+                "labels": {
+                  "de": "ALL DRAMA",
+                  "en": "ALL DRAMA"
+                },
+                "nodes": [
+                  {
+                    "name": "Tragedy",
+                    "labels": {
+                      "de": "Tragödie",
+                      "en": "Tragedy"
+                    }
+                  },
+                  {
+                    "name": "Comedy",
+                    "labels": {
+                      "de": "Komödie",
+                      "en": "Comedy"
+                    }
+                  },
+                  {
+                    "name": "History play",
+                    "labels": {
+                      "de": "History play",
+                      "en": "History play"
+                    }
+                  },
+                  {
+                    "name": "Tragicomedy",
+                    "labels": {
+                      "de": "Tragikomödie",
+                      "en": "Tragicomedy"
+                    }
+                  },
+                  {
+                    "name": "Romance",
+                    "labels": {
+                      "de": "Romanze",
+                      "en": "Romance"
+                    }
+                  },
+                  {
+                    "name": "Masque or other",
+                    "labels": {
+                      "de": "Maskenspiel oder anderes",
+                      "en": "Masque or other"
+                    }
+                  }
+                ]
+              },
+              {
                 "name": "ALL PROSE FICTION",
                 "labels": {
                   "de": "ALL PROSE FICTION",
@@ -1064,57 +1115,6 @@
                     "labels": {
                       "de": "Satire",
                       "en": "Verse satire"
-                    }
-                  }
-                ]
-              },
-              {
-                "name": "ALL DRAMA",
-                "labels": {
-                  "de": "ALL DRAMA",
-                  "en": "ALL DRAMA"
-                },
-                "nodes": [
-                  {
-                    "name": "Tragedy",
-                    "labels": {
-                      "de": "Tragödie",
-                      "en": "Tragedy"
-                    }
-                  },
-                  {
-                    "name": "Comedy",
-                    "labels": {
-                      "de": "Komödie",
-                      "en": "Comedy"
-                    }
-                  },
-                  {
-                    "name": "History play",
-                    "labels": {
-                      "de": "History play",
-                      "en": "History play"
-                    }
-                  },
-                  {
-                    "name": "Tragicomedy",
-                    "labels": {
-                      "de": "Tragikomödie",
-                      "en": "Tragicomedy"
-                    }
-                  },
-                  {
-                    "name": "Romance",
-                    "labels": {
-                      "de": "Romanze",
-                      "en": "Romance"
-                    }
-                  },
-                  {
-                    "name": "Masque or other",
-                    "labels": {
-                      "de": "Maskenspiel oder anderes",
-                      "en": "Masque or other"
                     }
                   }
                 ]
