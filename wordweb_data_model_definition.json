@@ -727,6 +727,13 @@
                   "de": "???",
                   "en": "Fictional letter or diary"
                 }
+              },
+              {
+                "name": "Not defined",
+                "labels": {
+                  "de": "Nicht definiert",
+                  "en": "Not defined"
+                }
               }
             ]
           },
@@ -2540,7 +2547,7 @@
                 "de": "kommt vor in"
               },
               "gui_element": "Searchbox",
-              "cardinality": "1-n"
+              "cardinality": "1"
             },
             {
               "name": "isMentionedIn",

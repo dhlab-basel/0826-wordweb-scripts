@@ -19,24 +19,24 @@
     "hasCompanyInternalId": "#009002",
     "hasCompanyTitle": "Lord Chamberlain's (Lord Hunsdon's) Men",
     "hasMember": [
+      "ww_2b461dcf3b8b54e7",
       "ww_93188e55a4159eb0",
-      "ww_684176b58bc762f6",
-      "ww_d57002bb2284405d",
-      "ww_410b3b18358b9b9b",
       "ww_852c7c260688c7cd",
-      "ww_2b461dcf3b8b54e7"
+      "ww_684176b58bc762f6",
+      "ww_410b3b18358b9b9b",
+      "ww_d57002bb2284405d"
     ]
   },
   "ww_312616f20d6e5e9b": {
     "hasCompanyInternalId": "#009003",
     "hasCompanyTitle": "Admiral's Men",
     "hasMember": [
-      "ww_d868186812544aa2",
+      "ww_2b461dcf3b8b54e7",
       "ww_9b2d545e20d62482",
       "ww_aa9d769d4c22a17a",
       "ww_453fcb35c1de3a58",
-      "ww_2137c7711450f157",
-      "ww_2b461dcf3b8b54e7"
+      "ww_d868186812544aa2",
+      "ww_2137c7711450f157"
     ]
   },
   "ww_2eb6b7cad6584184": {
@@ -48,9 +48,9 @@
     "hasCompanyTitle": "Children of the Chapel Royal",
     "isLexiaCompany": "ww_4b09201daecca6f2",
     "hasMember": [
+      "ww_8099c312d6f14f7c",
       "ww_6e23936f08509ef5",
-      "ww_3bbb9662acf999fa",
-      "ww_8099c312d6f14f7c"
+      "ww_3bbb9662acf999fa"
     ]
   },
   "ww_f31f247137fcb48d": {
@@ -64,33 +64,33 @@
     "hasCompanyInternalId": "#009001",
     "hasCompanyTitle": "King's Men",
     "hasMember": [
-      "ww_bbc0cf35a4cbd541",
-      "ww_e04e16bd7cb52044",
       "ww_8926bbeaa7c56023",
-      "ww_410b3b18358b9b9b",
-      "ww_535dbb6e2fbfea98",
-      "ww_723943f0c5dcde08",
-      "ww_6e1087d978c55da7",
       "ww_2b9db3a71c232d4f",
-      "ww_2b461dcf3b8b54e7",
-      "ww_392b079084ecbf38",
-      "ww_93188e55a4159eb0",
-      "ww_0222ba91a76da157",
-      "ww_dd9a684dcb872564",
-      "ww_684176b58bc762f6",
+      "ww_535dbb6e2fbfea98",
       "ww_6e23936f08509ef5",
-      "ww_4af69e0a9632326b",
-      "ww_852c7c260688c7cd",
       "ww_463b20e6963d2636",
+      "ww_9ccd42bf68e83cf2",
+      "ww_852c7c260688c7cd",
+      "ww_4af69e0a9632326b",
       "ww_e5da26b835422397",
       "ww_5fe98d25e4d26727",
-      "ww_5350e0c0cddb3400",
-      "ww_9acbe54c44792595",
-      "ww_9ccd42bf68e83cf2",
-      "ww_4fdaef848b2cf826",
-      "ww_3bbb9662acf999fa",
+      "ww_6e1087d978c55da7",
+      "ww_93188e55a4159eb0",
+      "ww_2b461dcf3b8b54e7",
+      "ww_dd9a684dcb872564",
+      "ww_392b079084ecbf38",
+      "ww_723943f0c5dcde08",
       "ww_aa9d769d4c22a17a",
-      "ww_8099c312d6f14f7c"
+      "ww_684176b58bc762f6",
+      "ww_0222ba91a76da157",
+      "ww_bbc0cf35a4cbd541",
+      "ww_9acbe54c44792595",
+      "ww_3bbb9662acf999fa",
+      "ww_5350e0c0cddb3400",
+      "ww_8099c312d6f14f7c",
+      "ww_410b3b18358b9b9b",
+      "ww_4fdaef848b2cf826",
+      "ww_e04e16bd7cb52044"
     ]
   },
   "ww_b92cc9cd25fb9404": {
@@ -126,10 +126,10 @@
     "hasCompanyTitle": "Queen Henrietta's Men",
     "hasMember": [
       "ww_9ccd42bf68e83cf2",
-      "ww_4fdaef848b2cf826",
-      "ww_384c38a8c5407382",
       "ww_9acbe54c44792595",
-      "ww_2b9db3a71c232d4f"
+      "ww_2b9db3a71c232d4f",
+      "ww_384c38a8c5407382",
+      "ww_4fdaef848b2cf826"
     ]
   },
   "ww_ae42ffd9324d5246": {
@@ -140,10 +140,10 @@
     "hasCompanyInternalId": "#009012",
     "hasCompanyTitle": "Lady Elizabeth's Men",
     "hasMember": [
-      "ww_bbc0cf35a4cbd541",
+      "ww_16d6bd30a8c9da6a",
       "ww_463b20e6963d2636",
-      "ww_3bbb9662acf999fa",
-      "ww_16d6bd30a8c9da6a"
+      "ww_bbc0cf35a4cbd541",
+      "ww_3bbb9662acf999fa"
     ]
   },
   "ww_8e7721de65bda5cd": {
@@ -155,8 +155,8 @@
     "hasCompanyTitle": "Lord Strange's Men",
     "hasMember": [
       "ww_852c7c260688c7cd",
-      "ww_e5da26b835422397",
       "ww_392b079084ecbf38",
+      "ww_e5da26b835422397",
       "ww_2b461dcf3b8b54e7"
     ]
   },
@@ -184,8 +184,8 @@
     "hasCompanyInternalId": "#009017",
     "hasCompanyTitle": "Prince Charles' (Duke of York's) Men",
     "hasMember": [
-      "ww_3bbb9662acf999fa",
-      "ww_2137c7711450f157"
+      "ww_2137c7711450f157",
+      "ww_3bbb9662acf999fa"
     ]
   },
   "ww_7761ba34a55175dc": {

@@ -311,8 +311,8 @@
     "hasGender": "male",
     "sql": 730
   },
-  "ww_b85b5bffc57af7f3": {
-    "hasFirstName": "G. P. V. ",
+  "ww_653fa09878f7f2f8": {
+    "hasFirstName": "G. P. V.",
     "hasLastName": "Akrigg",
     "activeExact": "1958",
     "hasDescription": "British (?) scholar",
@@ -4507,8 +4507,8 @@
     "hasGender": "male",
     "sql": 3963
   },
-  "ww_4ea15fc920a6e8b6": {
-    "hasFirstName": "A. H. ",
+  "ww_e7e97b08c2569bbe": {
+    "hasFirstName": "A. H.",
     "hasLastName": "Bullen",
     "birthExact": "1857",
     "deathExact": "1920",
@@ -9947,6 +9947,13 @@
     "hasGender": "male",
     "sql": 3651
   },
+  "ww_91f16cfbb41e4460": {
+    "hasFirstName": "Brian",
+    "hasLastName": "Fairfax",
+    "hasDescription": "English anthologist 1633\u20131711",
+    "hasGender": "male",
+    "sql": 4713
+  },
   "ww_6582ed5e5417c87d": {
     "hasFirstName": "William Blennerhassett",
     "hasLastName": "Fairman",
@@ -12839,6 +12846,22 @@
     "hasGender": "male",
     "sql": 1547
   },
+  "ww_ec32b0214cd5c5d8": {
+    "hasFirstName": "Ina",
+    "hasLastName": "Habermann",
+    "hasDescription": "German academic",
+    "hasGender": "female",
+    "sql": 4714
+  },
+  "ww_36da2cc5f24e0bcc": {
+    "hasFirstName": "William",
+    "hasLastName": "Habington",
+    "birthExact": "1605",
+    "deathExact": "1654",
+    "hasDescription": "English poet",
+    "hasGender": "male",
+    "sql": 4711
+  },
   "ww_12a99b6732c34b80": {
     "hasFirstName": "Heather",
     "hasLastName": "Hach",
@@ -14657,9 +14680,9 @@
     "hasGender": "male",
     "sql": 222
   },
-  "ww_8f10037a060488a1": {
+  "ww_af36f0470a7070bf": {
     "hasFirstName": "Regula",
-    "hasLastName": "Hohl Trillini",
+    "hasLastName": "Hohl-Trillini",
     "birthExact": "1964",
     "hasDescription": "Swiss scholar",
     "hasGender": "female",
@@ -25975,6 +25998,13 @@
     "hasGender": "male",
     "sql": 1605
   },
+  "ww_826291b228bf166e": {
+    "hasFirstName": "Marilynne",
+    "hasLastName": "Robinson",
+    "hasDescription": "U.S. novelist 1943",
+    "hasGender": "male",
+    "sql": 4710
+  },
   "ww_b9df357fab2d91a3": {
     "hasFirstName": "Jeffrey C.",
     "hasLastName": "Robinson",
@@ -26284,6 +26314,15 @@
     "hasDescription": "English (?) film director",
     "hasGender": "male",
     "sql": 791
+  },
+  "ww_bd14d532352e018f": {
+    "hasFirstName": "Philip",
+    "hasLastName": "Rosseter",
+    "birthExact": "1568",
+    "deathExact": "1623",
+    "hasDescription": "English poet and composer",
+    "hasGender": "male",
+    "sql": 4712
   },
   "ww_d5c2a825aa92c135": {
     "hasFirstName": "Dante Gabriel",
@@ -26703,8 +26742,8 @@
     "hasGender": "male",
     "sql": 3903
   },
-  "ww_38d785683133bbfe": {
-    "hasFirstName": "Gaius ",
+  "ww_8f2e3c33e8ba7b93": {
+    "hasFirstName": "Gaius",
     "hasLastName": "Sallustius Crispus",
     "hasDescription": "Roman 86-35 BC)",
     "hasGender": "male",

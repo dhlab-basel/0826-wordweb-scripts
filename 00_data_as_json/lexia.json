@@ -180,8 +180,8 @@
     "hasLexiaInternalId": "#230104",
     "hasLexiaTitle": "cedar and kingly eagle",
     "hasImage": [
-      "Court, monarchy",
-      "Plants"
+      "Plants",
+      "Court, monarchy"
     ],
     "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#cedar_and_kingly_eagle"
@@ -361,10 +361,10 @@
     "hasLexiaInternalId": "#030207",
     "hasLexiaTitle": "taming a woman like a bird of prey",
     "hasImage": [
-      "Birds",
-      "Women"
+      "Women",
+      "Birds"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#taming_a_woman_like_a_bird_of_prey"
   },
   "ww_1d5d472accff74cf": {
@@ -811,7 +811,7 @@
     "hasImage": [
       "Animals"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#animal_entering_man's_soul"
   },
   "ww_850406cebe1e8ee3": {
@@ -1033,7 +1033,7 @@
     "hasImage": [
       "Animals"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#lion_will_not_hurt_true_prince"
   },
   "ww_28cd88f5800d3b4b": {
@@ -1456,6 +1456,12 @@
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#boy_like_a_voracious_whale"
   },
+  "ww_c4462b39dc42d5a4": {
+    "hasLexiaInternalId": "#006229",
+    "hasLexiaTitle": "A die, a drab...",
+    "hasFormalClass": "Passage",
+    "hasLexiaDisplayedTitle": "#PASSAGE_A_die,_a_drab..."
+  },
   "ww_e5a9c76542aa5cb0": {
     "hasLexiaInternalId": "#030260",
     "hasLexiaTitle": "read on this book",
@@ -1522,7 +1528,7 @@
   "ww_74c62f155d04566d": {
     "hasLexiaInternalId": "#004035",
     "hasLexiaTitle": "trust like snake",
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#trust_like_snake"
   },
   "ww_b18bbd0ed29e58e7": {
@@ -1585,11 +1591,11 @@
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#woman_offering_sex_for_brother's_life"
   },
-  "ww_e6275b54ae889f8f": {
+  "ww_610e4fb1e580602e": {
     "hasLexiaInternalId": "#030422",
-    "hasLexiaTitle": "Nature falling in love with own work",
+    "hasLexiaTitle": "Nature falling in love with her own work",
     "hasFormalClass": "Plot element",
-    "hasLexiaDisplayedTitle": "#Nature_falling_in_love_with_own_work"
+    "hasLexiaDisplayedTitle": "#Nature_falling_in_love_with_her_own_work"
   },
   "ww_f3f0d123c66d1d47": {
     "hasLexiaInternalId": "#004402",
@@ -1982,11 +1988,11 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#springes_to_catch_woodcocks"
   },
-  "ww_e28af2591ca53b3b": {
+  "ww_2056ac0f2b148176": {
     "hasLexiaInternalId": "#230074",
-    "hasLexiaTitle": "fools paradise",
+    "hasLexiaTitle": "fool's paradise",
     "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#fools_paradise"
+    "hasLexiaDisplayedTitle": "#fool's_paradise"
   },
   "ww_0e1b40d31680e25a": {
     "hasLexiaInternalId": "#030774",
@@ -2247,7 +2253,7 @@
     "hasImage": [
       "Animals"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#go_backwards_like_crab"
   },
   "ww_c6738a5a46eb8afc": {
@@ -2659,6 +2665,12 @@
     "hasFormalClass": "Venue or place",
     "hasLexiaDisplayedTitle": "#Mount_Ossa"
   },
+  "ww_ab64d44c92513db2": {
+    "hasLexiaInternalId": "#006230",
+    "hasLexiaTitle": "Boreas",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Boreas"
+  },
   "ww_9e68614a45dbfe2d": {
     "hasLexiaInternalId": "#230111",
     "hasLexiaTitle": "set down honorable load",
@@ -3016,7 +3028,7 @@
     "hasImage": [
       "Sky and wether"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#blaming_tears_on_wind"
   },
   "ww_7f06ea79079446da": {
@@ -3043,11 +3055,11 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#dry_sorrow_drinks_blood"
   },
-  "ww_a2cf6e8c3b685755": {
+  "ww_c9960398d6b7b70b": {
     "hasLexiaInternalId": "#032117",
-    "hasLexiaTitle": "go by go by",
-    "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#go_by_go_by"
+    "hasLexiaTitle": "Hieronimo go by",
+    "hasFormalClass": "Motif with name",
+    "hasLexiaDisplayedTitle": "#Hieronimo_go_by"
   },
   "ww_984b9e9af4741885": {
     "hasLexiaInternalId": "#032118",
@@ -3073,7 +3085,7 @@
   "ww_ff511598da2f7a54": {
     "hasLexiaInternalId": "#032121",
     "hasLexiaTitle": "sycophant as sponge",
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#sycophant_as_sponge"
   },
   "ww_78f4d398d0a74b2b": {
@@ -3949,7 +3961,7 @@
     "hasImage": [
       "religion"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#hell_bottomless_pit"
   },
   "ww_7b83b997f43938e9": {
@@ -4157,8 +4169,8 @@
     "hasLexiaInternalId": "#005090",
     "hasLexiaTitle": "mandragora syrup",
     "hasImage": [
-      "medicine",
-      "Plants"
+      "Plants",
+      "medicine"
     ],
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#mandragora_syrup"
@@ -4278,8 +4290,8 @@
     "hasLexiaInternalId": "#230165",
     "hasLexiaTitle": "marry old woman for money",
     "hasImage": [
-      "Marriage",
-      "Women"
+      "Women",
+      "Marriage"
     ],
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#marry_old_woman_for_money"
@@ -4819,7 +4831,7 @@
     "hasImage": [
       "Women"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#bright_fair_eyes_lamps_of_heaven"
   },
   "ww_88fe6d3e5637ed36": {
@@ -5047,7 +5059,7 @@
   "ww_3dce137c5dabc4bd": {
     "hasLexiaInternalId": "#030111",
     "hasLexiaTitle": "hair on end",
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#hair_on_end"
   },
   "ww_212fd7dc2934664a": {
@@ -5343,8 +5355,8 @@
     "hasLexiaInternalId": "#035261",
     "hasLexiaTitle": "women making monsters of men",
     "hasImage": [
-      "Men",
-      "Women"
+      "Women",
+      "Men"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#women_making_monsters_of_men"
@@ -5488,8 +5500,8 @@
     "hasLexiaInternalId": "#004282",
     "hasLexiaTitle": "doomsday solar eclipse",
     "hasImage": [
-      "religion",
-      "Sky and wether"
+      "Sky and wether",
+      "religion"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#doomsday_solar_eclipse"
@@ -5540,8 +5552,8 @@
     "hasLexiaInternalId": "@001303",
     "hasLexiaTitle": "How a Man May Choose",
     "hasImage": [
-      "Men",
-      "Marriage"
+      "Marriage",
+      "Men"
     ],
     "hasFormalClass": "Book title",
     "hasLexiaDisplayedTitle": "#How_a_Man_May_Choose"
@@ -5613,8 +5625,8 @@
     "hasLexiaInternalId": "#008003",
     "hasLexiaTitle": "Blackfriars Theatre",
     "hasImage": [
-      "War of the Theatres",
-      "Theatre"
+      "Theatre",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Venue or place",
     "hasLexiaDisplayedTitle": "#Blackfriars_Theatre"
@@ -5623,8 +5635,8 @@
     "hasLexiaInternalId": "#032342",
     "hasLexiaTitle": "feathers at the theatre",
     "hasImage": [
-      "War of the Theatres",
-      "Theatre"
+      "Theatre",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#feathers_at_the_theatre"
@@ -5743,7 +5755,7 @@
     "hasImage": [
       "Time"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#whips_of_time"
   },
   "ww_05bcdd2693a64957": {
@@ -5885,8 +5897,8 @@
     "hasLexiaInternalId": "#030040",
     "hasLexiaTitle": "girl distributing flowers",
     "hasImage": [
-      "Plants",
-      "Women"
+      "Women",
+      "Plants"
     ],
     "hasFormalClass": "Plot element",
     "hasLexiaDisplayedTitle": "#girl_distributing_flowers"
@@ -6092,7 +6104,7 @@
     "hasImage": [
       "Plants"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#cypress_for_death"
   },
   "ww_8d21fa39d37b5a66": {
@@ -6311,11 +6323,11 @@
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#gnats_and_eagles"
   },
-  "ww_bf10bfd23389cc90": {
+  "ww_f9220ce34797d871": {
     "hasLexiaInternalId": "#004056",
-    "hasLexiaTitle": "who is Silvia",
+    "hasLexiaTitle": "Silvia who is she",
     "hasFormalClass": "Motif with name",
-    "hasLexiaDisplayedTitle": "#who_is_Silvia"
+    "hasLexiaDisplayedTitle": "#Silvia_who_is_she"
   },
   "ww_b6b0bfd846e31b79": {
     "hasLexiaInternalId": "#230136",
@@ -6370,6 +6382,12 @@
     "hasLexiaTitle": "Hero",
     "hasFormalClass": "Name of fictional character",
     "hasLexiaDisplayedTitle": "#Hero"
+  },
+  "ww_52951f15f9cb29e0": {
+    "hasLexiaInternalId": "#006232",
+    "hasLexiaTitle": "Laura",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Laura"
   },
   "ww_cdb07610484fbae2": {
     "hasLexiaInternalId": "#030059",
@@ -6674,13 +6692,13 @@
   "ww_01289e649afcfcb5": {
     "hasLexiaInternalId": "#004124",
     "hasLexiaTitle": "grace sits on brow",
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#grace_sits_on_brow"
   },
   "ww_a1aeafcce5e527a2": {
     "hasLexiaInternalId": "#004140",
     "hasLexiaTitle": "morning like winged man",
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#morning_like_winged_man"
   },
   "ww_0f2ccdaaa22e6ea7": {
@@ -6737,8 +6755,8 @@
     "hasLexiaTitle": "plagiarism",
     "hasImage": [
       "Persons",
-      "War of the Theatres",
-      "Theatre"
+      "Theatre",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#plagiarism"
@@ -6991,8 +7009,8 @@
     "hasLexiaInternalId": "#032303",
     "hasLexiaTitle": "useless women burnt",
     "hasImage": [
-      "war, combat",
-      "Women"
+      "Women",
+      "war, combat"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#useless_women_burnt"
@@ -7287,7 +7305,7 @@
     "hasImage": [
       "Sky and wether"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#scared_river_runs_backwards"
   },
   "ww_f3679d95d64459b5": {
@@ -7482,6 +7500,12 @@
     "hasFormalClass": "Two-word item",
     "hasLexiaDisplayedTitle": "#chafed_and_boar"
   },
+  "ww_98d7c40df2c8f0ac": {
+    "hasLexiaInternalId": "#006228",
+    "hasLexiaTitle": "For where Love reigns",
+    "hasFormalClass": "Passage",
+    "hasLexiaDisplayedTitle": "#PASSAGE_For_where_Love_reigns"
+  },
   "ww_b061e2fe51590d95": {
     "hasLexiaInternalId": "#004149",
     "hasLexiaTitle": "Blot Cluster: winter",
@@ -7593,7 +7617,7 @@
   "ww_9b793ad39a3c5e16": {
     "hasLexiaInternalId": "#006883",
     "hasLexiaTitle": "let them go if they won't stand",
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#let_them_go_if_they_won't_stand"
   },
   "ww_80145935a19b6012": {
@@ -7633,8 +7657,8 @@
     "hasLexiaInternalId": "#004034",
     "hasLexiaTitle": "chastity is a woman's dowry",
     "hasImage": [
-      "Marriage",
-      "Women"
+      "Women",
+      "Marriage"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#chastity_is_a_woman's_dowry"
@@ -7912,7 +7936,7 @@
   "ww_8d66a242d46d13cb": {
     "hasLexiaInternalId": "#032246",
     "hasLexiaTitle": "morning air chases away ghosts",
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#morning_air_chases_away_ghosts"
   },
   "ww_46333127f02e8a68": {
@@ -8014,7 +8038,7 @@
   "ww_8defbfadf1cfec83": {
     "hasLexiaInternalId": "#032415",
     "hasLexiaTitle": "Shakespeare sweet or friendly",
-    "hasFormalClass": "Motif with name",
+    "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Shakespeare_sweet_or_friendly"
   },
   "ww_5fe38868e11c2e2f": {
@@ -8089,6 +8113,12 @@
     "hasFormalClass": "Motif with name",
     "hasLexiaDisplayedTitle": "#Hiren_the_Fair_Greek"
   },
+  "ww_35e26a39685d38eb": {
+    "hasLexiaInternalId": "#005061",
+    "hasLexiaTitle": "lovers must part at dawn",
+    "hasFormalClass": "Plot element",
+    "hasLexiaDisplayedTitle": "#lovers_must_part_at_dawn"
+  },
   "ww_f5a12c8142a206cc": {
     "hasLexiaInternalId": "#008053",
     "hasLexiaTitle": "Rotten Row",
@@ -8100,6 +8130,12 @@
     "hasLexiaTitle": "Theocritus",
     "hasFormalClass": "Name of real person",
     "hasLexiaDisplayedTitle": "#Theocritus"
+  },
+  "ww_9d993ebdae73ee2e": {
+    "hasLexiaInternalId": "#007054",
+    "hasLexiaTitle": "Pliny",
+    "hasFormalClass": "Name of real person",
+    "hasLexiaDisplayedTitle": "#Pliny"
   },
   "ww_38204bbaaca680fd": {
     "hasLexiaInternalId": "#032203",
@@ -8121,12 +8157,6 @@
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Shakespeare_aka_Terence"
-  },
-  "ww_35e26a39685d38eb": {
-    "hasLexiaInternalId": "#005061",
-    "hasLexiaTitle": "lovers must part at dawn",
-    "hasFormalClass": "Plot element",
-    "hasLexiaDisplayedTitle": "#lovers_must_part_at_dawn"
   },
   "ww_49658e1b9c76a7ba": {
     "hasLexiaInternalId": "#006966",
@@ -8552,7 +8582,7 @@
     "hasImage": [
       "Plants"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#willow_for_forsaken_lover"
   },
   "ww_412379db643b6536": {
@@ -8810,7 +8840,7 @@
     "hasImage": [
       "War of the Theatres"
     ],
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#lashing_with_whip"
   },
   "ww_9062c29c0fef8d8a": {
@@ -8826,8 +8856,8 @@
     "hasLexiaInternalId": "#032339",
     "hasLexiaTitle": "War of the Theatres: railing",
     "hasImage": [
-      "War of the Theatres",
-      "Theatre"
+      "Theatre",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#War_of_the_Theatres:_railing"
@@ -8974,8 +9004,8 @@
     "hasLexiaTitle": "Jonson slow writer",
     "hasImage": [
       "Persons",
-      "War of the Theatres",
-      "Theatre"
+      "Theatre",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Motif with name",
     "hasLexiaDisplayedTitle": "#Jonson_slow_writer"
@@ -9017,8 +9047,8 @@
     "hasLexiaInternalId": "#032408",
     "hasLexiaTitle": "envy like attacking snake",
     "hasImage": [
-      "War of the Theatres",
-      "Animals"
+      "Animals",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#envy_like_attacking_snake"
@@ -9078,8 +9108,8 @@
     "hasLexiaInternalId": "#032341",
     "hasLexiaTitle": "sit on stage",
     "hasImage": [
-      "War of the Theatres",
-      "Theatre"
+      "Theatre",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#sit_on_stage"
@@ -9703,12 +9733,6 @@
     "hasFormalClass": "Passage",
     "hasLexiaDisplayedTitle": "#PASSAGE_she_that_through_force"
   },
-  "ww_958fe05c641edbf8": {
-    "hasLexiaInternalId": "#006935",
-    "hasLexiaTitle": "Portia",
-    "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#Portia"
-  },
   "ww_7794fd94e7923467": {
     "hasLexiaInternalId": "#006936",
     "hasLexiaTitle": "Portia's suicide by coals",
@@ -9727,14 +9751,14 @@
     "hasFormalClass": "Passage",
     "hasLexiaDisplayedTitle": "#PASSAGE_favours_writ_in_dust"
   },
-  "ww_bc04ed83a76875e7": {
+  "ww_167deff77975ccc5": {
     "hasLexiaInternalId": "#032391",
-    "hasLexiaTitle": "written in sand water",
+    "hasLexiaTitle": "written in sand or water",
     "hasImage": [
       "Landscape"
     ],
-    "hasFormalClass": "Visual motif",
-    "hasLexiaDisplayedTitle": "#written_in_sand_water"
+    "hasFormalClass": "Keywords",
+    "hasLexiaDisplayedTitle": "#written_in_sand_or_water"
   },
   "ww_b1323958c2b47861": {
     "hasLexiaInternalId": "#004472",
@@ -9793,11 +9817,11 @@
     "hasFormalClass": "Passage",
     "hasLexiaDisplayedTitle": "#PASSAGE_eternal_substance"
   },
-  "ww_949e49e80f1a5f4c": {
+  "ww_a236b3e9423c616e": {
     "hasLexiaInternalId": "#004238",
-    "hasLexiaTitle": "Lazarus and dives",
+    "hasLexiaTitle": "Lazarus and Dives",
     "hasFormalClass": "Motif with name",
-    "hasLexiaDisplayedTitle": "#Lazarus_and_dives"
+    "hasLexiaDisplayedTitle": "#Lazarus_and_Dives"
   },
   "ww_932f1dbd4cef3436": {
     "hasLexiaInternalId": "#032410",
@@ -10200,8 +10224,8 @@
     "hasLexiaInternalId": "#032440",
     "hasLexiaTitle": "Helen sweet stars",
     "hasImage": [
-      "Sky and wether",
-      "Women"
+      "Women",
+      "Sky and wether"
     ],
     "hasFormalClass": "Motif with name",
     "hasLexiaDisplayedTitle": "#Helen_sweet_stars"
@@ -10292,6 +10316,12 @@
     "hasLexiaTitle": "Thetis",
     "hasFormalClass": "Name of fictional character",
     "hasLexiaDisplayedTitle": "#Thetis"
+  },
+  "ww_3a0bd7da9447d507": {
+    "hasLexiaInternalId": "#006233",
+    "hasLexiaTitle": "go to thy cold bed and warm thee",
+    "hasFormalClass": "Phrase",
+    "hasLexiaDisplayedTitle": "#go_to_thy_cold_bed_and_warm_thee"
   },
   "ww_8c52ea9de0b6dcaf": {
     "hasLexiaInternalId": "#004495",
@@ -10422,6 +10452,12 @@
     "hasFormalClass": "Keywords",
     "hasLexiaDisplayedTitle": "#lemons_as_cosmetics"
   },
+  "ww_94df802648a212b1": {
+    "hasLexiaInternalId": "#006220",
+    "hasLexiaTitle": "more fools yet",
+    "hasFormalClass": "Phrase",
+    "hasLexiaDisplayedTitle": "#more_fools_yet"
+  },
   "ww_af985d026f4e234d": {
     "hasLexiaInternalId": "#032421",
     "hasLexiaTitle": "audience judging plays",
@@ -10472,12 +10508,6 @@
     "hasLexiaTitle": "Tamburlaine",
     "hasFormalClass": "Name of fictional character",
     "hasLexiaDisplayedTitle": "#Tamburlaine"
-  },
-  "ww_94df802648a212b1": {
-    "hasLexiaInternalId": "#006220",
-    "hasLexiaTitle": "more fools yet",
-    "hasFormalClass": "Phrase",
-    "hasLexiaDisplayedTitle": "#more_fools_yet"
   },
   "ww_b4aa3eb7489de8aa": {
     "hasLexiaInternalId": "@005075",
@@ -10630,8 +10660,8 @@
     "hasLexiaInternalId": "#032407",
     "hasLexiaTitle": "goat armholes",
     "hasImage": [
-      "War of the Theatres",
-      "Animals"
+      "Animals",
+      "War of the Theatres"
     ],
     "hasFormalClass": "Two-word item",
     "hasLexiaDisplayedTitle": "#goat_armholes"
@@ -11159,12 +11189,6 @@
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#sun_not_set_over_anger"
   },
-  "ww_e08f65a666648dc3": {
-    "hasLexiaInternalId": "#006948",
-    "hasLexiaTitle": "Daniel",
-    "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#Daniel"
-  },
   "ww_e2c121a9279c96ab": {
     "hasLexiaInternalId": "#006949",
     "hasLexiaTitle": "Daniel in lion's den",
@@ -11357,6 +11381,12 @@
     "hasFormalClass": "Two-word item",
     "hasLexiaDisplayedTitle": "#Jacob's_staff"
   },
+  "ww_958fe05c641edbf8": {
+    "hasLexiaInternalId": "#006935",
+    "hasLexiaTitle": "Portia",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Portia"
+  },
   "ww_8a4e4e6fdd380831": {
     "hasLexiaInternalId": "#006003",
     "hasLexiaTitle": "blind beggar",
@@ -11493,7 +11523,7 @@
   "ww_8c275c3acb495bef": {
     "hasLexiaInternalId": "#004113",
     "hasLexiaTitle": "sallets spice up speech",
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#sallets_spice_up_speech"
   },
   "ww_ad2a7b8ba9d5c705": {
@@ -11544,7 +11574,7 @@
   "ww_3239fe48127a8e80": {
     "hasLexiaInternalId": "#004129",
     "hasLexiaTitle": "won't embarrass friend by praise",
-    "hasFormalClass": "Visual motif",
+    "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#won't_embarrass_friend_by_praise"
   },
   "ww_6dc9566f5990b09f": {
@@ -11668,11 +11698,11 @@
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#arise_echo"
   },
-  "ww_d751988e7482fa73": {
-    "hasLexiaInternalId": "#006957",
-    "hasLexiaTitle": "Judas",
-    "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#Judas"
+  "ww_8c3e66dfcd08559c": {
+    "hasLexiaInternalId": "#006239",
+    "hasLexiaTitle": "Judas&#039; kiss",
+    "hasFormalClass": "Motif with name",
+    "hasLexiaDisplayedTitle": "#Judas&#039;_kiss"
   },
   "ww_f5b1e42b1240b2c4": {
     "hasLexiaInternalId": "@001297",
@@ -11712,6 +11742,12 @@
     ],
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Marston_aka_Ovid"
+  },
+  "ww_d751988e7482fa73": {
+    "hasLexiaInternalId": "#006957",
+    "hasLexiaTitle": "Judas",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Judas"
   },
   "ww_a35a727a5db6340f": {
     "hasLexiaInternalId": "#006978",
@@ -12007,8 +12043,8 @@
     "hasFormalClass": "Name of fictional character",
     "hasLexiaDisplayedTitle": "#Oedipus"
   },
-  "ww_f8ac6da73ee8fa1e": {
-    "hasLexiaInternalId": "@006110",
+  "ww_c0a0168a87b68f45": {
+    "hasLexiaInternalId": "#006110",
     "hasLexiaTitle": "I know her by her gait",
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#I_know_her_by_her_gait"
@@ -12037,8 +12073,8 @@
     "hasFormalClass": "Name of fictional character",
     "hasLexiaDisplayedTitle": "#Holofernes"
   },
-  "ww_d5a175e53ebca940": {
-    "hasLexiaInternalId": "@006112",
+  "ww_76af83e902806cbb": {
+    "hasLexiaInternalId": "#006112",
     "hasLexiaTitle": "forgive to be forgiven",
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#forgive_to_be_forgiven"
@@ -12085,6 +12121,18 @@
     "hasFormalClass": "Epithet for real person",
     "hasLexiaDisplayedTitle": "#Elizabeth_I_aka_Gloriana"
   },
+  "ww_c007c4e543b1aabf": {
+    "hasLexiaInternalId": "#006234",
+    "hasLexiaTitle": "Jove&#039;s tree",
+    "hasFormalClass": "Motif with name",
+    "hasLexiaDisplayedTitle": "#Jove&#039;s_tree"
+  },
+  "ww_250a9d0f8f0657cc": {
+    "hasLexiaInternalId": "#006235",
+    "hasLexiaTitle": "Aeneas",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Aeneas"
+  },
   "ww_3020b7a82edb34f6": {
     "hasLexiaInternalId": "#006121",
     "hasLexiaTitle": "Bianca",
@@ -12115,6 +12163,12 @@
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#hands_for_friendship"
   },
+  "ww_4d4406020f7971f8": {
+    "hasLexiaInternalId": "#006227",
+    "hasLexiaTitle": "Ajax aka Jaques or jakes",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Ajax_aka_Jaques_or_jakes"
+  },
   "ww_cbd76f11eaf2caf5": {
     "hasLexiaInternalId": "#006219",
     "hasLexiaTitle": "witches have beards",
@@ -12133,24 +12187,6 @@
     "hasFormalClass": "Venue or place",
     "hasLexiaDisplayedTitle": "#Islington"
   },
-  "ww_d451742ef7d1980f": {
-    "hasLexiaInternalId": "@001151",
-    "hasLexiaTitle": "Two Angry Women of Abingdon",
-    "hasFormalClass": "Book title",
-    "hasLexiaDisplayedTitle": "#Two_Angry_Women_of_Abingdon"
-  },
-  "ww_b36a524a5fd6e66e": {
-    "hasLexiaInternalId": "#006115",
-    "hasLexiaTitle": "monster with eyes in wrong place",
-    "hasFormalClass": "Idea",
-    "hasLexiaDisplayedTitle": "#monster_with_eyes_in_wrong_place"
-  },
-  "ww_8fd09735b8088a4c": {
-    "hasLexiaInternalId": "#006061",
-    "hasLexiaTitle": "Tamburlaine's aka Tamar Cham's beard",
-    "hasFormalClass": "Motif with name",
-    "hasLexiaDisplayedTitle": "#Tamburlaine's_aka_Tamar_Cham's_beard"
-  },
   "ww_705e85ccaf81d102": {
     "hasLexiaInternalId": "#006123",
     "hasLexiaTitle": "Hannibal",
@@ -12162,6 +12198,12 @@
     "hasLexiaTitle": "herring the king of fish",
     "hasFormalClass": "Idea",
     "hasLexiaDisplayedTitle": "#herring_the_king_of_fish"
+  },
+  "ww_d451742ef7d1980f": {
+    "hasLexiaInternalId": "@001151",
+    "hasLexiaTitle": "Two Angry Women of Abingdon",
+    "hasFormalClass": "Book title",
+    "hasLexiaDisplayedTitle": "#Two_Angry_Women_of_Abingdon"
   },
   "ww_a45d6b22e7cdae31": {
     "hasLexiaInternalId": "#006222",
@@ -12181,11 +12223,35 @@
     "hasFormalClass": "Word",
     "hasLexiaDisplayedTitle": "#desperviews"
   },
-  "ww_21d884d63aaf0532": {
-    "hasLexiaInternalId": "@006109",
+  "ww_6e21944eb8abbafd": {
+    "hasLexiaInternalId": "#006109",
     "hasLexiaTitle": "Prospero",
     "hasFormalClass": "Name of fictional character",
     "hasLexiaDisplayedTitle": "#Prospero"
+  },
+  "ww_b36a524a5fd6e66e": {
+    "hasLexiaInternalId": "#006115",
+    "hasLexiaTitle": "monster with eyes in wrong place",
+    "hasFormalClass": "Idea",
+    "hasLexiaDisplayedTitle": "#monster_with_eyes_in_wrong_place"
+  },
+  "ww_e3fffd83d7f19d5c": {
+    "hasLexiaInternalId": "#006060",
+    "hasLexiaTitle": "Bobadill",
+    "hasFormalClass": "Name of fictional character",
+    "hasLexiaDisplayedTitle": "#Bobadill"
+  },
+  "ww_8fd09735b8088a4c": {
+    "hasLexiaInternalId": "#006061",
+    "hasLexiaTitle": "Tamburlaine's aka Tamar Cham's beard",
+    "hasFormalClass": "Motif with name",
+    "hasLexiaDisplayedTitle": "#Tamburlaine's_aka_Tamar_Cham's_beard"
+  },
+  "ww_97d283a06d6057ac": {
+    "hasLexiaInternalId": "#006236",
+    "hasLexiaTitle": "dildo song",
+    "hasFormalClass": "Passage",
+    "hasLexiaDisplayedTitle": "#PASSAGE_dildo_song"
   },
   "ww_b6fa1230f439abd1": {
     "hasLexiaInternalId": "#006056",
@@ -12199,14 +12265,14 @@
     "hasFormalClass": "Name of fictional character",
     "hasLexiaDisplayedTitle": "#Clove"
   },
-  "ww_e3fffd83d7f19d5c": {
-    "hasLexiaInternalId": "#006060",
-    "hasLexiaTitle": "Bobadill",
-    "hasFormalClass": "Name of fictional character",
-    "hasLexiaDisplayedTitle": "#Bobadill"
+  "ww_dc1e176da72c4259": {
+    "hasLexiaInternalId": "#006231",
+    "hasLexiaTitle": "nay, but swear",
+    "hasFormalClass": "Phrase",
+    "hasLexiaDisplayedTitle": "#nay,_but_swear"
   },
-  "ww_ae7d0657c98ee287": {
-    "hasLexiaInternalId": "@006111",
+  "ww_d68f2a6b0624069a": {
+    "hasLexiaInternalId": "#006111",
     "hasLexiaTitle": "thousand thousand",
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#thousand_thousand"
@@ -12241,6 +12307,12 @@
     "hasFormalClass": "Venue or place",
     "hasLexiaDisplayedTitle": "#Aldgate"
   },
+  "ww_d110d7addc103134": {
+    "hasLexiaInternalId": "#006237",
+    "hasLexiaTitle": "epilogue passage",
+    "hasFormalClass": "Passage",
+    "hasLexiaDisplayedTitle": "#PASSAGE_epilogue_passage"
+  },
   "ww_fb4997d896b114ba": {
     "hasLexiaInternalId": "#007067",
     "hasLexiaTitle": "Paracelsus",
@@ -12265,8 +12337,8 @@
     "hasFormalClass": "Name of fictional character",
     "hasLexiaDisplayedTitle": "#Sir_Politic_WouldBe"
   },
-  "ww_518631071ce742d0": {
-    "hasLexiaInternalId": "@006113",
+  "ww_4eabbea8728fbfdc": {
+    "hasLexiaInternalId": "#006113",
     "hasLexiaTitle": "storm bursting itself",
     "hasFormalClass": "Phrase",
     "hasLexiaDisplayedTitle": "#storm_bursting_itself"

@@ -1372,9 +1372,9 @@
     "hasBookInternalId": "@005031",
     "sql": 574
   },
-  "ww_1591fb6e3ba12647": {
+  "ww_5ff9f02d735d0c01": {
     "hasPrefixBookTitle": "The",
-    "hasBookTitle": "Palace of Pleasure",
+    "hasBookTitle": "Palace of Pleasure Part 1",
     "hasBookInternalId": "@005032",
     "sql": 575
   },
@@ -1961,9 +1961,9 @@
     "hasBookInternalId": "@000439",
     "sql": 713
   },
-  "ww_659b24d8b7482800": {
+  "ww_b55e6b942fb39e3d": {
     "hasPrefixBookTitle": "The",
-    "hasBookTitle": "Palace of Pleasure 2",
+    "hasBookTitle": "Palace of Pleasure Part 2",
     "hasBookInternalId": "@005112",
     "sql": 714
   },
@@ -2013,8 +2013,8 @@
     "hasBookInternalId": "@005116",
     "sql": 723
   },
-  "ww_4e044305c9b10e03": {
-    "hasBookTitle": "Poems (RCa)",
+  "ww_95ec828cb579b1a6": {
+    "hasBookTitle": "Poems (TCa)",
     "hasBookInternalId": "@005117",
     "sql": 724
   },
@@ -3470,8 +3470,8 @@
     "hasBookInternalId": "@001609",
     "sql": 1077
   },
-  "ww_82016acc20d12095": {
-    "hasBookTitle": "Satires (QHF)",
+  "ww_960bb255634b772b": {
+    "hasBookTitle": "Satires (Horace)",
     "hasBookInternalId": "@005606",
     "sql": 1078
   },
@@ -3965,8 +3965,8 @@
     "hasBookInternalId": "@005333",
     "sql": 1253
   },
-  "ww_d169621f37616109": {
-    "hasBookTitle": "Hudibras",
+  "ww_b6ca5588934ec4bb": {
+    "hasBookTitle": "Hudibras Part 3",
     "hasBookInternalId": "@005334",
     "sql": 1254
   },
@@ -4426,8 +4426,8 @@
     "hasBookInternalId": "@001917",
     "sql": 1385
   },
-  "ww_a5c27a5490f5e5d9": {
-    "hasBookTitle": "Georgica",
+  "ww_f83eeb2a0d378331": {
+    "hasBookTitle": "Georgics",
     "hasBookInternalId": "@005361",
     "sql": 1389
   },
@@ -4449,14 +4449,14 @@
     "hasBookInternalId": "@005363",
     "sql": 1392
   },
-  "ww_fa63c18f39e77c1f": {
+  "ww_afb2c5502b2d830a": {
     "hasPrefixBookTitle": "The",
-    "hasBookTitle": "First Book of Songs and Airs (Jones)",
+    "hasBookTitle": "First Book of Songs and Airs (Jon)",
     "hasBookInternalId": "@005364",
     "sql": 1395
   },
-  "ww_a3935ed4e0529cdd": {
-    "hasBookTitle": "Damon and Pythias (Edwards)",
+  "ww_107cdc5dfa5f0f85": {
+    "hasBookTitle": "Damon and Pythias (Edw)",
     "hasBookInternalId": "@000389",
     "sql": 1396
   },
@@ -5878,9 +5878,9 @@
     "hasBookInternalId": "@001100",
     "sql": 1839
   },
-  "ww_81cac3b7ec3e1b41": {
+  "ww_0bc78d29342e4aee": {
     "firstPerformanceExact": "1600",
-    "hasBookTitle": "Damon and Pythias (Chettle)",
+    "hasBookTitle": "Damon and Pythias (HCh)",
     "hasBookInternalId": "@001245",
     "sql": 1840
   },
@@ -6122,8 +6122,8 @@
     "hasBookInternalId": "@005657",
     "sql": 1930
   },
-  "ww_620b14c64fd894d6": {
-    "hasBookTitle": "King John (Bale)",
+  "ww_116bdd6cb31356b9": {
+    "hasBookTitle": "King John (JBa)",
     "hasBookInternalId": "@000064",
     "sql": 1932
   },
@@ -6341,7 +6341,7 @@
     "sql": 2007
   },
   "ww_d0305fac916ef07b": {
-    "firstPerformanceExact": "1641",
+    "firstPerformanceExact": "1640",
     "publicationExact": "1649",
     "hasPrefixBookTitle": "The",
     "hasBookTitle": "Variety",
@@ -6431,9 +6431,9 @@
     "hasBookInternalId": "@005724",
     "sql": 2027
   },
-  "ww_361f3479aec2b8bc": {
+  "ww_626cda2e8353165a": {
     "hasPrefixBookTitle": "The",
-    "hasBookTitle": "First Book of Songs or Airs in Four Parts (JoD)",
+    "hasBookTitle": "First Book of Songs or Airs (Dow)",
     "hasBookInternalId": "@005727",
     "sql": 2031
   },
@@ -6484,12 +6484,6 @@
     "hasBookInternalId": "@005746",
     "sql": 2042
   },
-  "ww_dcb4099d61f425d4": {
-    "hasPrefixBookTitle": "A",
-    "hasBookTitle": "True Repertory",
-    "hasBookInternalId": "@005747",
-    "sql": 2043
-  },
   "ww_ad7155d7af80f8af": {
     "hasPrefixBookTitle": "A",
     "hasBookTitle": "Survey of London",
@@ -6507,9 +6501,10 @@
     "hasBookInternalId": "@005751",
     "sql": 2048
   },
-  "ww_720a83b98567547c": {
+  "ww_47c267b9fcefe68c": {
+    "publicationExact": "1599",
     "hasBookTitle": "Alphonsus",
-    "hasBookInternalId": "@005772",
+    "hasBookInternalId": "@000788",
     "sql": 2049
   },
   "ww_52b753c4556bb471": {
@@ -6522,10 +6517,64 @@
     "hasBookInternalId": "@005754",
     "sql": 2051
   },
-  "ww_272016737234385e": {
+  "ww_2613cc5d0aa7e958": {
     "hasPrefixBookTitle": "The",
     "hasBookTitle": "Turkish Muhammad and Irene The Fair Greek",
-    "hasBookInternalId": "@005755",
+    "hasBookInternalId": "@000803",
     "sql": 2052
+  },
+  "ww_33c14a8a077f5fa9": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Phoenix and the Turtle",
+    "hasBookInternalId": "@005756",
+    "sql": 2054
+  },
+  "ww_135548d40357c5d8": {
+    "hasBookTitle": "Hudibras Part 2",
+    "hasBookInternalId": "@005757",
+    "sql": 2055
+  },
+  "ww_e7a89305b05c5c04": {
+    "hasBookTitle": "Hero and Leander in Burlesque",
+    "hasBookInternalId": "@005768",
+    "sql": 2057
+  },
+  "ww_bb5e97b5a8778a03": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Queen&#039;s Masques",
+    "hasBookInternalId": "@005770",
+    "sql": 2059
+  },
+  "ww_603ddba61cbc7495": {
+    "hasBookTitle": "Poems (Hab)",
+    "hasBookInternalId": "@005771",
+    "sql": 2060
+  },
+  "ww_b43d2d269649ad23": {
+    "hasBookTitle": "Observations in the Art of English Poesy",
+    "hasBookInternalId": "@005772",
+    "sql": 2061
+  },
+  "ww_7ed8a7a586e1299b": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Book of Airs (Ross)",
+    "hasBookInternalId": "@005773",
+    "sql": 2062
+  },
+  "ww_d0262fb1c9a513e1": {
+    "hasBookTitle": "British Library MS Add 22582",
+    "hasBookInternalId": "@005774",
+    "sql": 2063
+  },
+  "ww_de945431fe9aef84": {
+    "hasBookTitle": "Wann denkt Shakespeare an Ovid?",
+    "hasBookInternalId": "@005775",
+    "sql": 2064
+  },
+  "ww_779a88af78361bdc": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Defense of Poesy",
+    "hasBookInternalId": "@005776",
+    "sql": 2065
   }
 }

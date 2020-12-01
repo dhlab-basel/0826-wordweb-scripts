@@ -1,4 +1,24 @@
 {
+  "ww_d53e99ab0eb706de": {
+    "hasBookInternalId": "@005769",
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Works of Benjamin Jonson",
+    "hasPrefixDisplayedTitle": "The",
+    "hasDisplayedTitle": "Works of Benjamin Jonson",
+    "pubInfo": "<i>The Workes of Beniamin Jonson.</i> London: Will Stansby, 1616.",
+    "hasCreationDate": "GREGORIAN:1616:1616",
+    "hasPublicationDate": "GREGORIAN:1616:1616",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Ben Jonson"
+    ]
+  },
   "ww_6298ea6e6b038e90": {
     "hasBookInternalId": "@006257",
     "hasLanguage": "English",
@@ -695,7 +715,7 @@
     "hasBookTitle": "Life and Complete Works of Robert Greene",
     "hasPrefixDisplayedTitle": "The",
     "hasDisplayedTitle": "Life and Complete Works of Robert Greene",
-    "pubInfo": "ed. The Life and Complete Works of Robert Greene [\u2026]. For the First Time Collected and Edited with Notes and Illustrations etc. Printed for Private Circulation Only. 1881-1886. ",
+    "pubInfo": "ed. <i>The Life and Complete Works of Robert Greene [\u2026]. For the First Time Collected and Edited with Notes and Illustrations etc. </i>Printed for Private Circulation Only. 1881-1886. ",
     "hasCreationDate": "GREGORIAN:1881:1886",
     "hasPublicationDate": "GREGORIAN:1881:1886",
     "hasGenre": [
@@ -744,7 +764,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "A. H.  Bullen"
+      "A. H. Bullen"
     ]
   },
   "ww_1f60ad7a3367e515": {
@@ -858,7 +878,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "A. H.  Bullen"
+      "A. H. Bullen"
     ]
   },
   "ww_4cb4223c78bb761b": {
@@ -1108,7 +1128,7 @@
   "ww_1bd7b3ed94bc4c5b": {
     "hasBookInternalId": "@006456",
     "hasLanguage": "English",
-    "hasBookTitle": "Spenser, \"Locrine\" and \"Selimus\"",
+    "hasBookTitle": "Spenser, Locrine and Selimus",
     "hasDisplayedTitle": "Edmund Spenser, \"Locrine\" and \"Selimus\"",
     "pubInfo": "\"Edmund Spenser, 'Locrine' and 'Selimus'.\" <i>Notes and Queries </i>(16 March 1901): 203.",
     "hasCreationDate": "GREGORIAN:1901:1901",
@@ -1582,7 +1602,7 @@
   "ww_2ac0bf246129bafd": {
     "hasBookInternalId": "@006266",
     "hasLanguage": "German",
-    "hasBookTitle": "Ben Jonson's ",
+    "hasBookTitle": "Ben Jonson's The Case Is Altered und seine Quellen",
     "hasDisplayedTitle": "Ben Jonson's \"The Case Is Altered\" und seine Quellen",
     "pubInfo": "\"The Case Is Altered\" und seine Quellen. </i>Halle: Kaemmerer, 1905.",
     "hasCreationDate": "GREGORIAN:1905:1905",
@@ -3094,7 +3114,7 @@
     "hasBookTitle": "Mind's Eye (G. G. L.)",
     "hasPrefixDisplayedTitle": "The",
     "hasDisplayedTitle": "Mind's Eye",
-    "pubInfo": "\"The Mind's Eye.\" Notes and Queries (10 September 1938): 191.",
+    "pubInfo": "\"The Mind's Eye.\" <i>Notes and Queries </i>(10 September 1938): 191.",
     "hasCreationDate": "GREGORIAN:1938:1938",
     "hasPublicationDate": "GREGORIAN:1938:1938",
     "hasGenre": [
@@ -3988,7 +4008,7 @@
       "Shakespeare"
     ],
     "authors": [
-      "G. P. V.  Akrigg"
+      "G. P. V. Akrigg"
     ]
   },
   "ww_ce6d233a20f2b70f": {
@@ -4849,7 +4869,7 @@
     "hasLanguage": "English",
     "hasBookTitle": "Parasitaster (DBl)",
     "hasDisplayedTitle": "Parasitaster (Blostein edition)",
-    "pubInfo": "ed. Parasitaster or The Fawn. Manchester: Manchester University Press, 1978.",
+    "pubInfo": "ed. <i>Parasitaster or The Fawn. </i>Manchester: Manchester University Press, 1978.",
     "hasCreationDate": "GREGORIAN:1978:1978",
     "hasPublicationDate": "GREGORIAN:1978:1978",
     "hasGenre": [
@@ -6305,7 +6325,7 @@
   "ww_cdef34a4bf3a320a": {
     "hasBookInternalId": "@005750",
     "hasLanguage": "English",
-    "hasBookTitle": "Every Man in His Humour (Miola edition)",
+    "hasBookTitle": "Every Man in His Humour (Mio edition)",
     "hasDisplayedTitle": "Every Man in His Humour (Miola edition)",
     "pubInfo": "<i>Every Man in His Humour.</i> Revels Plays edition. Manchester: Manchester University Press, 2000.",
     "hasCreationDate": "GREGORIAN:2000:2000",
@@ -6654,6 +6674,24 @@
       "James Hirsh"
     ]
   },
+  "ww_5f3f388884e9f879": {
+    "hasBookInternalId": "@005755",
+    "hasLanguage": "English",
+    "hasBookTitle": "Dictionary of National Biography",
+    "hasDisplayedTitle": "Dictionary of National Biography",
+    "pubInfo": "<i>Dictionary of National Biography.</i> Oxford: Oxford University Press. Online edition. ",
+    "hasCreationDate": "GREGORIAN:2004:2004",
+    "hasPublicationDate": "GREGORIAN:2004:2004",
+    "hasGenre": [
+      "Anthology"
+    ],
+    "hasSubject": [
+      "History, (auto-)biography"
+    ],
+    "authors": [
+      "_ Anonymous"
+    ]
+  },
   "ww_368021d2e7cf2fc3": {
     "hasBookInternalId": "@006173",
     "hasLanguage": "English",
@@ -6731,7 +6769,7 @@
     ],
     "authors": [
       "Balz Engler",
-      "Regula Hohl Trillini",
+      "Regula Hohl-Trillini",
       "Sixta Qua\u00dfdorf"
     ]
   },
@@ -7063,7 +7101,7 @@
     "hasLanguage": "English",
     "hasBookTitle": "Shakespeare's Marlowe",
     "hasDisplayedTitle": "Shakespeare's Marlowe",
-    "pubInfo": "Shakespeare's Marlowe: The Influence of Christopher Marlowe on Shakespeare' Artistry. Aldershot: Ashgate, 2007.",
+    "pubInfo": "<i>Shakespeare's Marlowe: The Influence of Christopher Marlowe on Shakespeare' Artistry. </i>Aldershot: Ashgate, 2007.",
     "hasCreationDate": "GREGORIAN:2007:2007",
     "hasPublicationDate": "GREGORIAN:2007:2007",
     "hasGenre": [
@@ -7358,7 +7396,7 @@
       "Shakespeare"
     ],
     "authors": [
-      "Regula Hohl Trillini"
+      "Regula Hohl-Trillini"
     ]
   },
   "ww_ee037c24035063ca": {
@@ -7440,7 +7478,7 @@
     "hasBookTitle": "Lost Plays Database",
     "hasPrefixDisplayedTitle": "The",
     "hasDisplayedTitle": "Lost Plays Database",
-    "pubInfo": "eds. The Lost Plays Database. 2009. https://lostplays.folger.edu.",
+    "pubInfo": "eds. <i>The Lost Plays Database. </i>2009. https://lostplays.folger.edu.",
     "hasCreationDate": "GREGORIAN:2009:2009",
     "hasPublicationDate": "GREGORIAN:2009:2009",
     "hasGenre": [
@@ -7472,7 +7510,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "Regula Hohl Trillini",
+      "Regula Hohl-Trillini",
       "Sixta Qua\u00dfdorf"
     ]
   },
@@ -7966,7 +8004,7 @@
     "hasBookInternalId": "@005670",
     "hasLanguage": "English",
     "hasBookTitle": "Chc and Shp The Merchants Tale",
-    "hasDisplayedTitle": "Chaucer and Shakesepare: The Merchant's Tale Connection",
+    "hasDisplayedTitle": "Chaucer and Shakespeare",
     "pubInfo": "\"Chaucer and Shakespeare:: The Merchant's Tale Connection.\" <i>The Chaucer Review </i>48:2 (2013): 222-237.",
     "hasCreationDate": "GREGORIAN:2013:2013",
     "hasPublicationDate": "GREGORIAN:2013:2013",
@@ -7978,6 +8016,25 @@
     ],
     "authors": [
       "Peter Brown"
+    ]
+  },
+  "ww_dc91915b91c78a25": {
+    "hasBookInternalId": "@005775",
+    "hasLanguage": "German",
+    "hasBookTitle": "Wann denkt Shakespeare an Ovid?",
+    "hasDisplayedTitle": "Wann denkt Shakespeare an Ovid?",
+    "pubInfo": "\"Wann denkt Shakespeare an Ovid?\" <i>Carmen Perpetuum: Ovids Metamorphosen in der Weltliteratur.</i> Basel: Schwabe, 2013. 149-163.",
+    "hasCreationDate": "GREGORIAN:2013:2013",
+    "hasPublicationDate": "GREGORIAN:2013:2013",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "Classical Studies"
+    ],
+    "authors": [
+      "Ina Habermann"
     ]
   },
   "ww_b908ae26c4f3afcf": {
@@ -8243,7 +8300,7 @@
       "Shakespeare"
     ],
     "authors": [
-      "Regula Hohl Trillini"
+      "Regula Hohl-Trillini"
     ]
   },
   "ww_a81631b9c792bfee": {

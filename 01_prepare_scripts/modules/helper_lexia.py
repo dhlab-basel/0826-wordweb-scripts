@@ -32,7 +32,6 @@ formClass_structure = {
         "child": {
             "Id": "Idea",
             "Me": "Plot element",
-            "Mi": "Visual motif",
             "Sc": "Scene"
         }
     }

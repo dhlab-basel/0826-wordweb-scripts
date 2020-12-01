@@ -48,6 +48,7 @@ import prep_venues
 # export_7.csv is from Act 4, Scene 6, line "bound for England; if your name be Horatio, as I am"
 # export_8.csv is from Act 4, Scene 6, line "let to know it is."
 # export_9.csv is from Act 4, Scene 6, line "[Reads] 'Horatio, when thou shalt have overlooked."
+# export_10.csv is from Act 4, Scene 6, line "this, give these fellows some means to the king:"
 csv_files = [
     "01_prepare_scripts/csv/export_1.csv",
     "01_prepare_scripts/csv/export_2.csv",
@@ -58,6 +59,7 @@ csv_files = [
     "01_prepare_scripts/csv/export_7.csv",
     "01_prepare_scripts/csv/export_8.csv",
     "01_prepare_scripts/csv/export_9.csv"
+    # "01_prepare_scripts/csv/export_10.csv"
 ]
 
 # Every object contains all the resources of the same type which occurs in HyperHamlet.
@@ -335,9 +337,7 @@ def create_passage(pa_id, dis_tit, text, text_or, pub, pub_or):
 
 def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, mark, com):
     if bo_id:
-        temp = set(passages[pa_id]["occursIn"])
-        temp.add(bo_id)
-        passages[pa_id]["occursIn"] = list(temp)
+        passages[pa_id]["occursIn"] = bo_id
 
     if co_or_id:
         passages[pa_id]["wasContributedBy"] = co_or_id
@@ -391,8 +391,8 @@ def create_sec_passage(sec_pa_id, pag, sec_bo):
     if "hasPrefixDisplayedTitle" in sec_bo:
         passage["hasPrefixDisplayedTitle"] = sec_bo["hasPrefixDisplayedTitle"]
 
-    # Set Regula Hohl as default contributor
-    id_rh = id.generate("Hohl Regula")
+    # Set Regula Hohl Trillini as default contributor
+    id_rh = id.generate("Hohl Trillini Regula")
     if id_rh in allContributors:
         passage["wasContributedBy"] = id_rh
 
@@ -760,8 +760,8 @@ def start():
                         author_value = "Author unmarked" if not row[17] else row[17]
 
                         if (work_value == "Work unmarked" and author_value == "Author unmarked" and not row[22]) or (
-                                work_value == "Work unmarked" and author_value == "Author unmarked" and row[
-                            22] == "Local reference"):
+                                work_value == "Work unmarked" and author_value == "Author unmarked" and
+                                row[22] == "Local reference"):
                             update_passage(passage_id, None, None, None, None, None, None, "Unmarked", None)
                         else:
 
