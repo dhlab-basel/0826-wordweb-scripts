@@ -2049,19 +2049,6 @@
               "cardinality": "0-n"
             },
             {
-              "name": "personPerformedIn",
-              "super": [
-                "hasLinkTo"
-              ],
-              "object": "teimww:book",
-              "labels": {
-                "en": "performed in",
-                "de": "spielte mit in"
-              },
-              "gui_element": "Searchbox",
-              "cardinality": "0-n"
-            },
-            {
               "name": "hasPersonExtraInfo",
               "super": [
                 "hasValue"
@@ -2291,6 +2278,19 @@
               "labels": {
                 "en": "performed by",
                 "de": "gespielt von"
+              },
+              "gui_element": "Searchbox",
+              "cardinality": "0-n"
+            },
+            {
+              "name": "performedByActor",
+              "super": [
+                "hasLinkTo"
+              ],
+              "object": "teimww:person",
+              "labels": {
+                "en": "performed by actor",
+                "de": "gespielt von Schauspieler"
               },
               "gui_element": "Searchbox",
               "cardinality": "0-n"

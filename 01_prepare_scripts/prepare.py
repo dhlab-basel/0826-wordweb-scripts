@@ -164,7 +164,12 @@ def update_actor(act_id, book_id):
     if act_id not in authors:
         create_author(act_id)
 
-    authors[act_id]["personPerformedIn"] = book_id
+    if "performedByActor" not in books[book_id]:
+        books[book_id]["performedByActor"] = []
+
+    temp = set(books[book_id]["performedByActor"])
+    temp.add(act_id)
+    books[book_id]["performedByActor"] = list(temp)
 
 
 def create_book(b_id, data_row, pub_info, pub_or_info, dates):
