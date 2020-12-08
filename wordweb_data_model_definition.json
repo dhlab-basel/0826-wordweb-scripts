@@ -1097,13 +1097,6 @@
                 },
                 "nodes": [
                   {
-                    "name": "Poetry unspecified",
-                    "labels": {
-                      "de": "Allgemein",
-                      "en": "Poetry unspecified"
-                    }
-                  },
-                  {
                     "name": "Song or ballad",
                     "labels": {
                       "de": "Lied oder Ballade",
@@ -1122,6 +1115,13 @@
                     "labels": {
                       "de": "Satire",
                       "en": "Verse satire"
+                    }
+                  },
+                  {
+                    "name": "Poetry unspecified",
+                    "labels": {
+                      "de": "Allgemein",
+                      "en": "Poetry unspecified"
                     }
                   }
                 ]
@@ -1229,24 +1229,10 @@
             },
             "nodes": [
               {
-                "name": "Music",
+                "name": "The Bible",
                 "labels": {
-                  "de": "Musik",
-                  "en": "Music"
-                }
-              },
-              {
-                "name": "Fulltext database",
-                "labels": {
-                  "de": "Volltext Datenbank",
-                  "en": "Fulltext Database"
-                }
-              },
-              {
-                "name": "Conversation",
-                "labels": {
-                  "de": "Gespräch",
-                  "en": "Conversation"
+                  "de": "Die Bibel",
+                  "en": "The Bible"
                 }
               },
               {
@@ -1257,10 +1243,24 @@
                 }
               },
               {
-                "name": "The Bible",
+                "name": "Music",
                 "labels": {
-                  "de": "Die Bibel",
-                  "en": "The Bible"
+                  "de": "Musik",
+                  "en": "Music"
+                }
+              },
+              {
+                "name": "Conversation",
+                "labels": {
+                  "de": "Gespräch",
+                  "en": "Conversation"
+                }
+              },
+              {
+                "name": "Fulltext database",
+                "labels": {
+                  "de": "Volltext Datenbank",
+                  "en": "Fulltext Database"
                 }
               }
             ]
