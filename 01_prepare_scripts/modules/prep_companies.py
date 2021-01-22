@@ -7,6 +7,8 @@ import json
 
 # my id generator
 import id_generator as id
+# Root node "Name (Company)"
+root_node_id = 4
 
 
 def prepare():
@@ -25,7 +27,7 @@ def prepare():
         all_companies = {}
 
         for row in results:
-            if row["parent"] is 4:
+            if row["parent"] == root_node_id:
 
                 companies = re.search("^(#\d{6})\s(.*)", row["name"])
 

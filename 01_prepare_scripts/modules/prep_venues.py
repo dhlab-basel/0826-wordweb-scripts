@@ -7,6 +7,8 @@ import json
 
 # my id generator
 import id_generator as id
+# Root node "The play (Venue: Theatre)"
+root_node_id = 182
 
 
 def prepare():
@@ -25,8 +27,8 @@ def prepare():
         all_venues = {}
 
         for row in results:
-            # Making sure all the nodes are venues by checking the parent with the ID 182 (look up in the database)
-            if row["parent"] is 182:
+
+            if row["parent"] == root_node_id:
 
                 venues = re.search("^(#\d{6})\s(.*)_(.*)", row["name"])
 
