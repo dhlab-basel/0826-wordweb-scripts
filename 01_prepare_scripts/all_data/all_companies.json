@@ -9,7 +9,7 @@
   },
   "ww_2eb6b7cad6584184": {
     "hasCompanyInternalId": "#009005",
-    "hasCompanyTitle": "Children of Pauls"
+    "hasCompanyTitle": "Children of Paul's"
   },
   "ww_eb1d4988fa5b0fe5": {
     "hasCompanyInternalId": "#009011",
@@ -121,14 +121,18 @@
   },
   "ww_2d9d73da6661c303": {
     "hasCompanyInternalId": "#009031",
-    "hasCompanyTitle": "The King's Company"
+    "hasCompanyTitle": "King's Company"
   },
   "ww_0516ed981977925e": {
     "hasCompanyInternalId": "#009032",
-    "hasCompanyTitle": "The Duke&#039;s Company"
+    "hasCompanyTitle": "Duke's Company"
   },
   "ww_3a4f63b2c3388685": {
     "hasCompanyInternalId": "#009033",
-    "hasCompanyTitle": "The Prince&#039;s Men"
+    "hasCompanyTitle": "Prince's Men"
+  },
+  "ww_e92a7a29221d76ef": {
+    "hasCompanyInternalId": "#009034",
+    "hasCompanyTitle": "Red Bull Company"
   }
 }

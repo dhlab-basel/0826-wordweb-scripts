@@ -58,8 +58,8 @@ csv_files = [
     "01_prepare_scripts/csv/export_6.csv",
     "01_prepare_scripts/csv/export_7.csv",
     "01_prepare_scripts/csv/export_8.csv",
-    "01_prepare_scripts/csv/export_9.csv"
-    # "01_prepare_scripts/csv/export_10.csv"
+    "01_prepare_scripts/csv/export_9.csv",
+    "01_prepare_scripts/csv/export_10.csv"
 ]
 
 # Every object contains all the resources of the same type which occurs in HyperHamlet.
@@ -385,7 +385,6 @@ def create_sec_passage(sec_pa_id, pag, sec_bo):
     passage = {
         "hasText": "-",
         "hasDisplayedTitle": sec_bo["hasDisplayedTitle"],
-        "hasPage": pag,
         "hasResearchField": ["Reading"],
         "hasFunctionVoice": ["Not defined"],
         "hasMarking": ["Unmarked"],
@@ -393,11 +392,14 @@ def create_sec_passage(sec_pa_id, pag, sec_bo):
         "occursIn": []
     }
 
+    if pag:
+        passage["hasPage"] = pag
+
     if "hasPrefixDisplayedTitle" in sec_bo:
         passage["hasPrefixDisplayedTitle"] = sec_bo["hasPrefixDisplayedTitle"]
 
     # Set Regula Hohl Trillini as default contributor
-    id_rh = id.generate("Hohl Trillini Regula")
+    id_rh = id.generate("Hohl-Trillini Regula")
     if id_rh in allContributors:
         passage["wasContributedBy"] = id_rh
 

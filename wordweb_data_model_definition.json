@@ -611,13 +611,6 @@
                     }
                   },
                   {
-                    "name": "Work title wrong",
-                    "labels": {
-                      "de": "???",
-                      "en": "Work title wrong"
-                    }
-                  },
-                  {
                     "name": "Work genre or epithet",
                     "labels": {
                       "de": "Anderes",
@@ -625,17 +618,17 @@
                     }
                   },
                   {
-                    "name": "Work bibligraphical detail",
+                    "name": "Work bibliographical information",
                     "labels": {
                       "de": "Bibliographische Angaben",
-                      "en": "Work bibligraphical detail"
+                      "en": "Work bibliographical information"
                     }
                   },
                   {
-                    "name": "Work Venue",
+                    "name": "Work by venue",
                     "labels": {
                       "de": "???",
-                      "en": "Work Venue"
+                      "en": "Work by venue"
                     }
                   },
                   {
@@ -671,13 +664,6 @@
                     "labels": {
                       "de": "???",
                       "en": "Author anonymous"
-                    }
-                  },
-                  {
-                    "name": "Author wrong",
-                    "labels": {
-                      "de": "???",
-                      "en": "Author wrong"
                     }
                   }
                 ]
@@ -1440,10 +1426,10 @@
                 }
               },
               {
-                "name": "Unknown London venue",
+                "name": "unknown venue",
                 "labels": {
-                  "de": "Unbekanntes London Theater",
-                  "en": "Unknown London venue"
+                  "de": "Unbekanntes Theater",
+                  "en": "unknown venue"
                 }
               },
               {
@@ -1475,17 +1461,17 @@
                 }
               },
               {
-                "name": "Banqueting House, London",
+                "name": "Banqueting House",
                 "labels": {
-                  "de": "Banqueting House, London",
-                  "en": "Banqueting House, London"
+                  "de": "Banqueting House",
+                  "en": "Banqueting House"
                 }
               },
               {
-                "name": "Archbishop's Palace, London",
+                "name": "Archbishop's Palace",
                 "labels": {
-                  "de": "Archbishop's Palace, London",
-                  "en": "Archbishop's Palace, London"
+                  "de": "Archbishop's Palace",
+                  "en": "Archbishop's Palace"
                 }
               },
               {
@@ -1559,10 +1545,10 @@
                 }
               },
               {
-                "name": "Cuckolds Haven",
+                "name": "Cuckold's Haven",
                 "labels": {
-                  "de": "Cuckolds Haven",
-                  "en": "Cuckolds Haven"
+                  "de": "Cuckold's Haven",
+                  "en": "Cuckold's Haven"
                 }
               },
               {
@@ -1580,10 +1566,10 @@
                 }
               },
               {
-                "name": "Thomas Cranmers House",
+                "name": "Thomas Cranmer's House",
                 "labels": {
-                  "de": "Thomas Cranmers House",
-                  "en": "Thomas Cranmers House"
+                  "de": "Thomas Cranmer's House",
+                  "en": "Thomas Cranmer's House"
                 }
               },
               {
@@ -1620,6 +1606,20 @@
                   "de": "Newgate Prison",
                   "en": "Newgate Prison"
                 }
+              },
+              {
+                "name": "Hoxton",
+                "labels": {
+                  "de": "Hoxton",
+                  "en": "Hoxton"
+                }
+              },
+              {
+                "name": "London Bridge",
+                "labels": {
+                  "de": "London Bridge",
+                  "en": "London Bridge"
+                }
               }
             ]
           },
@@ -1631,31 +1631,31 @@
             },
             "nodes": [
               {
-                "name": "Trinity College, Cambridge",
+                "name": "Trinity College",
                 "labels": {
-                  "de": "Trinity College, Cambridge",
-                  "en": "Trinity College, Cambridge"
+                  "de": "Trinity College",
+                  "en": "Trinity College"
                 }
               },
               {
-                "name": "St John's College, Cambridge",
+                "name": "St. John's  College",
                 "labels": {
-                  "de": "St John's College, Cambridge",
-                  "en": "St John's College, Cambridge"
+                  "de": "St. John's College",
+                  "en": "St. John's College"
                 }
               },
               {
-                "name": "King's College, Cambridge",
+                "name": "King's College ",
                 "labels": {
-                  "de": "King's College, Cambridge",
-                  "en": "King's College, Cambridge"
+                  "de": "King's College ",
+                  "en": "King's College "
                 }
               },
               {
-                "name": "Christ's College, Cambridge",
+                "name": "Christ's College",
                 "labels": {
-                  "de": "Christ's College, Cambridge",
-                  "en": "Christ's College, Cambridge"
+                  "de": "Christ's College",
+                  "en": "Christ's College"
                 }
               }
             ]
@@ -1668,31 +1668,31 @@
             },
             "nodes": [
               {
-                "name": "Trinity College, Oxford",
+                "name": "Trinity College ",
                 "labels": {
-                  "de": "Trinity College, Oxford",
-                  "en": "Trinity College, Oxford"
+                  "de": "Trinity College ",
+                  "en": "Trinity College "
                 }
               },
               {
-                "name": "Christ Church College, Oxford",
+                "name": "Christ Church College",
                 "labels": {
-                  "de": "Christ Church College, Oxford",
-                  "en": "Christ Church College, Oxford"
+                  "de": "Christ Church College",
+                  "en": "Christ Church College"
                 }
               },
               {
-                "name": "St Johns College, Oxford",
+                "name": "St Johns College",
                 "labels": {
-                  "de": "St Johns College, Oxford",
-                  "en": "St Johns College, Oxford"
+                  "de": "St Johns College",
+                  "en": "St Johns College"
                 }
               },
               {
-                "name": "Unknown Oxford location",
+                "name": "unknown location",
                 "labels": {
-                  "de": "Unknown Oxford location",
-                  "en": "Unknown Oxford location"
+                  "de": "unknown location",
+                  "en": "unknown location"
                 }
               }
             ]
@@ -1858,6 +1858,22 @@
                 "labels": {
                   "de": "Aleppo",
                   "en": "Aleppo"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Italy",
+            "labels": {
+              "de": "Italien",
+              "en": "Italy"
+            },
+            "nodes": [
+              {
+                "name": "Florence",
+                "labels": {
+                  "de": "Florenz",
+                  "en": "Florence"
                 }
               }
             ]

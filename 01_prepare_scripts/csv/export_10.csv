@@ -1,22 +1,601 @@
 "Location";"Status";"Authors";"Title";"Bibliographical reference";"Composition (year_from)";"Composition (year_to)";"First publication (year_from)";"First publication (year_to)";"Language";"Text";"Comment";"General reference";"Line reference";"Overlap/Similarity";"Modifications";"Marking for work";"Marking for author";"Genre";"Subject";"Narrative voice";"Textual functions";"Intertextual relations";"Source";"Bib. ref. source";"URL";"Internal comment";"Contributor"
-" this, give these fellows some means to the king:";"unedited";"William Strachey";"";"Strachey, William.  <i>A true reportory of the wracke, and redemption of Sir THOMAS GATES Knight and at Virtual Jamestown.</span>
-";"";"";"";"";"English";"the glut of water (as if throttling the wind erewhile";"";"";"";"";"WoPh#006108 glut in a storm";"Work unmarked";"Author unmarked";"Other nonfiction";"History, (auto-)biography";"";"BODY OF TEXT";"";"";"@005726";"";"";"Brütsch Noa"
-" this, give these fellows some means to the king:";"unedited";"Sir Philip Sidney";"The Defense of Poesy";"Sidney, Sir Philip.  ""The Defense of Poesy."" <i>The Norton Anthology of English Literature. </i>Seventh Edition. Ed. M.H. Abrams and Stephen Greenblatt. New York and London: W. W. Norton, 2000. 933-954.  937.";"1580";"1580";"";"";"English";"Which in nothing he showeth so much as in poetry, when with the force of a divine breath he bringeth things forth far surpassing her doings, with no small argument to the incredulous of that first accursed <span class=""quote"">fall of Adam,</span> - since our erected wit maketh us know what perfection is, and yet <span class=""quote"">our infected will </span>keepeth us from reaching unto it. ";"";"";"@005776 The Defense of Poesy";"";"NaMa#006072 Adam old fallen sinner / WoTo#006238 affected (corrupted) will";"Work by character";"Author unmarked";"Essay";"Literature and theatre";"";"BODY OF TEXT";"";"";"@005750";"";"";"   Hohl Trillini Regula"
-" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Henry VI Part 3";"Act 5, scene 7, lines 32-35.";"1591";"1591";"";"";"English";"[Richard:] And that I love the tree from whence thou sprang’st, <br>
-Witness the loving kiss I give the fruit.<br>
-To say the truth, so <span class=""quote"">Judas kissed his master<br></span>
-And <span class=""quote"">cried ""All hail!"" </span>whenas he meant all harm.";"";"";"@000902_A91_D95 Henry VI Part 3";"";"NaMa#006239 Judas&#039; kiss / NaMa#006240 Judas hailing Jesus";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"morethanonelexia";"@010084-Last accessed 28 November 2020.";"";"";"   Hohl Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Titus Maccius Plautus";"The Captives";"Plautus, Titus Maccius.  <i>Captivi.</i>";"1000";"1000";"";"";"Latin";"<span class=""annotation"">Hegio is separated from his sons but they are reunited in the end.</span>";"";"";"@005789 The Captives";"";"SuSc#055552 long-lost sons restored to their father";"Work unmarked";"Author unmarked";"Comedy";"";"";"BODY OF TEXT";"";"";"@005786-109-110.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Publius Vergilius Maro";"Aeneis";"316; book 2, lines 3-6.";"1000";"1000";"";"";"Latin";"<span class=""quote"">""Infandum, regina, iubes renovare dolorem, <br></span>
+Troianas ut opes et lamentabile regnum <br>
+eruerint Danai, quaeque ipse miserrima vidi <br>
+et quorum pars magna fui [...].""";"Translation (p. 47 of the quited edition): When she strove to stretch out suppliant arms to Argus, she had no arms to stretch; and when she attempted to voice her complaints, she only mooed.";"";"@005482 Aeneid";"";"NaMa#004110 Aeneas telling Dido about fall of Troy (twice)";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-71.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Publius Ovidius Naso";"Metamorphoses";"46; book 1, lines 635-638-";"1000";"1000";"";"";"Latin";"illa etiam supplex Argo <span class=""quote"">cum bracchia vellet <br>
+tendere, non habuit, quae bracchia tenderet Argo, </span><br>
+conatoque queri mugitus edidit ore <br>
+pertimuitque sonos propriaque exterrita voce est.";"";"";"@005035 Metamorphoses";"";"SuId#006287 do not talk of hands";"Work unmarked";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@005778-72.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Publius Vergilius Maro";"Aeneid";"2:24; book 7, lines 310-312.";"1000";"1000";"";"";"Latin";"quod si mea numina non sunt magna satis, dubitem haud equidem implorare quod usquam est:<span class=""quote""> flectere si nequeo superos, Acheronta movebo.</span>";"Translation (p. 27 of the quoted edition:  But if my powers are not strong enough, surely I need not be slow to seek help wherever it may be; if Heaven I cannot bend, then Hell I will arouse! ";"";"@005482 Aeneid";"";"SuId#006289 if Heaven offers no justice, find hell";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-92.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Marguerite de Navarre";"Heptameron";"Navarre, Marguerite de.  <i>Heptameron or the history of the fortunate lovers; written by the most excellent and most virtuous princess, Margaret de Valoys, Queen of Navarre; published in French by the privilege and immediate approbation of the King; now made English by Robert Codrington, Master of Arts.</i> London: F. L. for Nathanael Ekins, 1654.  143.";"1540";"1549";"";"";"English";"The Lady seeming not to understand him, made answer, That God ought not in that manner to be invoked in vain, although the Poets do affirm, that <span class=""quote"">at Lovers' perjuries the Gods do laugh, </span>and that women who love their honour ought nor to be credulous or compassionate; And speaking those words, she did arise, and returned to her Lodging.";"";"";"@005796 Heptameron";"";"NaMa#031058 gods laugh at lovers' perjuries";"Work unmarked";"Author anonymous";"Prose unspecified";"";"Dialogue";"BODY OF TEXT";"";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Edmund Plowden";"Anecdote";"Plowden, Edmund.  ""[Remark during a law case.]""  Quoted from the Dictionary of National Biography, 1895 edition. https://www.oxforddnb.com/view/10.1093/odnb/9780192683120.001.0001/odnb-9780192683120-e-22389. Last accessed 4 April 2021.";"1559";"1585";"";"";"English";"<span class=""quote"">The case is altered.</span>";"Plowden was engaged in defending a gentleman who was prosecuted for hearing mass, and elicited the fact that the service had been performed by a layman, who had merely assumed the sacerdotal character and vestments for the purpose of informing against those who were present. Thereupon the acute lawyer remarked, ‘""The case is altered: no priest, no mass,"" and succeeded in obtaining the acquittal of his client.Dictionary of National Biography, 1895 edition. https://www.oxforddnb.com/view/10.1093/odnb/9780192683120.001.0001/odnb-9780192683120-e-22389. Last accessed 4 April 2021.";"";"@005787 Anecdote";"";"WoPh#001419 Case is Altered, The";"Work unmarked";"Author unmarked";"Conversation";"";"";"BODY OF TEXT";"";"";"@005786-109.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Myles Coverdale";"The Geneva Bible";"N.p.; Ecclesiastes 12:5 [normalized spelling].";"1560";"1560";"";"";"English";"Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because <span class=""quote"">man goeth to his long home, </span>and the mourners go about the streets.
+";"";"";"@005406 The Geneva Bible";"";"WoPh#006241 death as long or last home";"Work unmarked";"Author unmarked";"";"Philosophy, religion";"";"BODY OF TEXT";"";"";"@005778-9.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Myles Coverdale";"The Geneva Bible";"4 recto; Genesis 8:6-7.";"1560";"1560";"";"";"English";"So after forty days, Noah opened the window of the ark, which he had made, and <span class=""quote"">sent forth a raven, which went out going forth </span>and returning until the waters were dried upon the earth.";"";"";"@005406 The Geneva Bible";"";"NaMa#006249 Noah sending a raven from the ark";"Work by character";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@005750";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Myles Coverdale";"The Geneva Bible";"74 verso; Romans 12, 15.";"1560";"1560";"";"";"English";"Rejoice with them that rejoice and <span class=""quote"">weep with them that weep.</span>";"";"";"@005406 The Geneva Bible";"";"WoPh#006285 weep with them that weep";"Work unmarked";"Author unmarked";"";"Philosophy, religion";"";"BODY OF TEXT";"";"";"@005778-67.";"";"";"   Hohl-Trillini Regula"
+" For thou dost know, O Damon dear,";"provisional";"Thomas Twyne";"Epitaph on Richard Edwards";"Twyne, Thomas.  ""Epitaph upon the death of the worshipful Mayster Richarde Edwardes late Mayster of the Children in the queenes maiesties chapell."" <i>The Works of the English Poets from Chaucer to Cowper. </i>London: Various publishers, 1810.  Vol.2, 620; stanzas 17-19 [normalized spelling].";"1566";"1566";"";"";"English";"Thy tender tunes and Rhymes <br>
+wherein thou wont'st to play <br>
+Each princely Dame of Court and Town <br>
+shall bear in mind alway. <br><br>
+
+Thy <span class=""quote"">Damon and his Friend <br>
+Arcyte and Palemon <br></span>
+With woe full fit for Princes' ears, <br>
+though thou from earth art gone, <br><br>
+
+Shall still remain in fame, <br>
+and like so long to bide <br>
+As earthly things shall line, and God <br>
+this mortal Globe shall guide. ";"";"";"@005527 Epitaph on Richard Edwards";"";"NaCa#032236 Damon and Pythias";"Work title";"Author unmarked";"Poetry unspecified";"";"";"BODY OF TEXT";"Local reference";"Literary Studies";"";"Thy tender tunes and Rimes <br>
+wherein thou woontst to play <br>
+Eche princely Dame of Court and Towne <br>
+shall beare in minde alway. <br><br>
+
+Thy <span class=""quote"">Damon and his Friend <br>
+Arcyte and Palemon <br></span>
+With woe full fit for Princes eares, <br>
+though thou from earth art gone, <br><br>
+
+Shall still remaine in fame, <br>
+and like so long to bide <br>
+As earthly things shall line, and God <br>
+this mortall Globe shall guide. ";"Twyne, Thomas.  ""Epitaph upon the death of the worshipful Mayster Richarde Edwardes late Mayster of the Children in the queenes maiesties chapell."" The Works of the English Poets from Chaucer to Cowper. London: Various publishers, 1810.  Vol.2, 620; stanzas 17-19.";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Baldwin / Thomas Churchyard";"The Mirror for Magistrates";"Baldwin, William and Thomas Churchyard.  <i>The last part of the Mirour for magistrates wherein may be seene by examples passed in this realme, vvith howe greenous [sic] plagues, vyces are punished in great princes & magistrats, and hovv frayle and vnstable vvorldly prosperity is founde, where fortune seemeth most highly to fauour. </i>London: Thomas Marsh, 1578.  167 recto [normalized spelling].";"1578";"1578";"";"";"English";"Such is the courage of the noble heart,<br>
+Which doth despise the vile and baser sort,<br>
+He may not touch that savours of the cart,<br>
+Him listeth not with each Jack out to sport,<br>
+He lets him pass for paring of his port,<br>
+<span class=""quote"">The jolly eagles catch not little fleas,<br></span>
+The courtly silks match seld with homely frieze.";"";"";"@005779 The Mirror for Magistrates";"";"SuId#006242 eagles do not catch flies";"Work unmarked";"Author unmarked";"Poetry unspecified";"";"Narrator";"BODY OF TEXT";"";"";"@005778-99.";"Such is the courage of the noble hart,<br>
+Which doth despise the vile and baser sort,<br>
+He may not touch that sauours of the cart,<br>
+Him listeth not with ech Iacke out to sport,<br>
+He lets him passe for payring of his port,<br>
+<span class=""quote"">The iollye Egles carth not litle flees,<br></span>
+The courtly silkes match seeld with homely frees.";"Baldwin, William and Thomas Churchyard.  <i>The last part of the Mirour for magistrates wherein may be seene by examples passed in this realme, vvith howe greenous [sic] plagues, vyces are punished in great princes & magistrats, and hovv frayle and vnstable vvorldly prosperity is founde, where fortune seemeth most highly to fauour. </i>London: Thomas Marsh, 1578.  167 recto.";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Lyly";"Euphues and his England";"Lyly, John.  <i>Euphues and his England Containing his voyage and his aduentures, myxed with sundrie pretie discourses of honest loue, the discription of the countrey, the court, and the manners of that isle. Delightful to be read, and nothing hurtfull to be regarded: wherein there is small offence by lightnesse giuen to the wise, and lesse occasion of looseness proffered to the wanton. By Iohn Lyly, Maister of Arte. Commend it, or amend it.</i> London: T. East for Gabriel Cawood, 1580.  9 verso-10 recto [normalized spelling].";"1579";"1579";"1580";"1580";"English";"Shall a soldier that hath received a scar in the battle, give out that all warriors shall be maimed? Or the Merchant that hath lost by the Seas, be a cause that no other should venture, or a traveller that hath sustained harm by sinister fortune, or ben infected by his own folly, dissuade all Gentlemen to rest at their own home, till they <span class=""quote"">come to their long home</span>.";"";"";"@005076 Euphues and His England";"";"WoPh#006241 death as long or last home";"Work unmarked";"Author unmarked";"Prose unspecified";"";"Narrator";"BODY OF TEXT";"";"";"@005778-9.";"Shall a soldier that hath receiued a skarre in the battaile, giue out that all warriours shall be maymed? Or the Marchaunt that hath lost by the Seas, be a cause that no other should venture, or a trauailer that hath sustained harme by sinister fortune, or ben infected by his own folly, disswade all Gentlemē to rest at their owne home, till they <span class=""quote"">come to their long home</span>";"Lyly, John.  <i>Euphues and his England Containing his voyage and his aduentures, myxed with sundrie pretie discourses of honest loue, the discription of the countrey, the court, and the manners of that isle. Delightful to be read, and nothing hurtfull to be regarded: wherein there is small offence by lightnesse giuen to the wise, and lesse occasion of looseness proffered to the wanton. By Iohn Lyly, Maister of Arte. Commend it, or amend it.</i> London: T. East for Gabriel Cawood, 1580.  9 verso-10 recto.";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Stefano Guazzo / George Pettie";"The Civil Conversation";"Guazzo, Stefano and George Pettie.  <i>The ciuile conuersation of M. Steeuen Guazzo written first in Italian, and nowe translated out of French by George Pettie, deuided into foure bookes [...]. </i>London: Richard Watkins, 1581.  48; book 2 [normalized spelling].";"1581";"1581";"";"";"English";"[Annibale:] That is the right act of a Prince, and therefore it is well said, <span class=""quote"">That the Egle catcheth not flies.</span>";"";"";"@005080 The Civil Conversation";"";"SuId#006242 eagles do not catch flies";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"MQ_VERBAL_Say / MQ_VERBAL_Others";"";"@005778-99.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Timothy Bright";"Treatise of Melancholy";"100 [normalized spelling].";"1586";"1586";"";"";"English";"As the nature of <span class=""quote"">choler </span>is subtle, hot, bitter, and of a fretting and <span class=""quote"">biting quality, </span>both itself and the vapours that pass from it, and blood temperate, sweet, and full of cheerful and comfortable spirits.";"";"";"@005034 Treatise of Melancholy";"";"SuId#006251 devouring choler";"Work unmarked";"Author unmarked";"";"";"";"BODY OF TEXT";"";"";"@005750";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"provisional";"William Shakespeare";"Titus Andronicus";"Shakespeare, William.  Titus Andronicus.  Act 4, scene 1, lines 16-21.";"1587";"1587";"1594";"1594";"English";"[Young Lucius:] My lord, I know not, I, nor can I guess, <br>
+Unless some fit or frenzy do possess her;<br>
+For I have heard my grandsire say full oft,<br>
+Extremity of griefs would make men mad,<br>
+And I have read that <span class=""quote"">Hecuba of Troy <br>
+Ran mad for sorrow. </span>";"";"";"@000928_A92_D94 Titus Andronicus";"";"NaCa#006297 Hecuba / NaMa#006298 Hecuba maddened by grief";"Work by character";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"Local reference";"";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Kyd";"The Spanish Tragedy";"68; act 4, scene 4, lines 83-84.";"1587";"1587";"";"";"English";"[Hieronimo:] [...] No, princes, know I am Hieronimo,<br>
+<span class=""quote"">The hopeless father of a hapless son </span>[...].";"";"";"@000783_D92 The Spanish Tragedy";"";"WoKw#006300 hopeless and helpless ";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005658-50. ";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 4, scene 2, lines 30-32.";"1587";"1587";"";"";"English";"But were our witty empress well afoot,<br>
+She would applaud Andronicus' conceit.<br>
+But <span class=""quote"">let her rest in her unrest awhile. </span>";"";"";"@000928_A92_D94 Titus Andronicus";"";"WoPh#006284 rest in unrest";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-39.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Kyd";"The Spanish Tragedy";"48; act 3, scene 11, lines 29-32.";"1587";"1587";"1587";"1587";"English";"[Hieronymo:] [...] Yourselves shall find Lorenzo bathing him<br>
+In boiling lead and blood of innocents.<br>
+[First Portuguese:] Ha, ha, ha!<br>
+[Hieronymo:] <span class=""quote"">Ha, ha, ha!<br>
+Why, ha, ha, ha! Farewell, good, ha, ha, ha!</span>";"";"";"@000783_D92 The Spanish Tragedy";"";"SuMe#030058 inappropriate laughter";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@9005778-68.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 3, scene 3, lines 26-28.";"1587";"1587";"";"";"English";"[Titus:] [...]  Ah, wherefore dost thou urge the name of hands,<br>
+To bid <span class=""quote"">Aeneas tell the tale twice o'er <br>
+How Troy was burnt and he made miserable? ";"";"";"@000928_A92_D94 Titus Andronicus";"";"NaMa#004110 Aeneas telling Dido about fall of Troy (twice)";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-71.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 2, scene 3, lines 38-39.";"1587";"1587";"";"";"English";"[Arron:]  [...] And so <span class=""quote"">repose, </span>sweet gold,<span class=""quote""> for their unrest<br></span>
+That have their alms out of the Empress' chest.";"";"";"@000928_A92_D94 Titus Andronicus";"";"WoPh#006284 rest in unrest";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-39.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Kyd";"The Spanish Tragedy";"52; act 3, scene 13, line 29-30.";"1587";"1587";"";"";"English";"[Hieronimo:] [...] Thus therefore will I <span class=""quote"">rest me in unrest,</span>
+Dissembling quiet in unquietness [...].";"";"";"@000783_D92 The Spanish Tragedy";"";"WoPh#006284 rest in unrest";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-39.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Kyd";"The Spanish Tragedy";"15; act 1, scene 3, lines 5-6.";"1587";"1587";"";"";"English";"[Viceory:] <span class=""quote"">Then rest we here awhile in our unrest, <br></span>
+And feed our sorrows with some inward sighs [...].";"";"";"@000783_D92 The Spanish Tragedy";"";"WoPh#006284 rest in unrest";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-39.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 3, scene 1, lines 248-250.";"1587";"1587";"";"";"English";"[Marcus:] [...] These miseries are more than may be borne.<br> 
+<span class=""quote"">To weep with them that weep </span>doth ease some deal,<br>
+But sorrow flouted at is double death.";"";"";"@000928_A92_D94 Titus Andronicus";"";"WoPh#006285 weep with them that weep";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-67.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Kyd";"The Spanish Tragedy";"16; act 1, scene 4, lines 22-26.";"1587";"1587";"";"";"English";"[Viceroy:] [...] Such is the folly of despiteful chance!<br>
+<span class=""quote"">Fortune is blind and sees not my deserts;<br>
+So is she deaf and hears not my laments;<br>
+And could she hear, yet is she wilful mad,<br>
+And therefore wil not pity my distress.</span>";"";"";"@000783_D92 The Spanish Tragedy";"";"WoPa#006286 does not listen and not pity";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-59.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 3, scene 1, lines 33-36.";"1587";"1587";"";"";"English";"[Titus:] Why, 'tis no matter, man. <span class=""quote"">If they did hear,<br>
+They would not mark me; if they did mark,<br>
+They would not pity me.</span> Yet plead I must,<br>
+And bootless unto them. ";"";"";"@000928_A92_D94 Titus Andronicus";"";"WoPa#006286 does not listen and not pity";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-59.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 3, scene 2, lines 25-33.";"1587";"1587";"";"";"English";"[Titus:] [...] What violent hands can she lay on her life?<br>
+Ah, wherefore dost thou urge the name of hands,<br>
+To bid Aeneas tell the tale twice o’er<br>
+How Troy was burnt and he made miserable? <br>
+<span class=""quote"">O, handle not the theme, to talk of hands,<br>
+Lest we remember still that we have none. -<br>
+Fie, fie, how franticly I square my talk,<br>
+As if we should forget we had no hands<br>
+If Marcus did not name the word of hands! </span>";"";"";"@000928_A92_D94 Titus Andronicus";"";"SuId#006287 do not talk of hands";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-72.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 5, scene 2, lines 172-174.";"1587";"1587";"";"";"English";"[Titus:] [...] O villains, Chiron and Demetrius! <br>
+Here stands <span class=""quote"">the spring whom you have stained with mud,<br></span>
+This goodly summer with your winter mixed.";"";"";"@000928_A92_D94 Titus Andronicus";"";"SuId#006288 muddy not the fountain you drink from";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-116.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 4, scene 3, lines 51-53.";"1587";"1587";"";"";"English";"[Titus:] [...] And <span class=""quote"">sith there's no justice in Earth nor hell, <br>
+We will solicit heaven and move the gods<br>
+To send down Justice for to wreak our wrongs.</span>";"";"";"@000928_A92_D94 Titus Andronicus";"";"SuId#006289 if Heaven offers no justice, find hell";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-92.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 2, scene 1, lines 38-42.";"1587";"1587";"";"";"English";"[Demetrius:] Why, boy, although our mother, unadvised, <br>
+Gave you a dancing rapier by your side,<br>
+Are you so desperate grown to threat your friends?<br>
+Go to. <span class=""quote"">Have your lath glued within your sheath<br></span>
+Till you know better how to handle it.";"";"";"@000928_A92_D94 Titus Andronicus";"";"WoTo#006290 theatre dagger of lath";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@05778-31.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Lyly";"Endymion";"";"1588";"1588";"";"";"English";"<span class=""quote"">Cynthia</span>
+";"In this play, Queen Elizabeth is represented as Cynthia, the Countess of Sheffield appears as Tellus, Lettice Essex als Floscula und the Earl of Leicester as Endymion (cf. Friedrich Karl Elze. Abhandlungen zu Shakespeare. Halle: Verlag der Buchhandlung des Waisenhauses, 1877, 110).";"";"@000794_A88_D91 Endymion";"";"NaCa#006975 Cynthia the moon (may be Elizabeth I)";"Work by character";"Author unmarked";"";"";"";"CHARACTERNAME";"";"Shakespeare Studies";"@005652-110.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"George Peele";"The Troublesome Reign of King John, King of England";"F4 recto [normalized spelling].";"1589";"1589";"";"";"English";"[Arthur:] [...] Delay not Hubert, my orisons are ended,<br>
+Begin I pray thee, reave me of my sight:<br>
+But to perform a tragedy indeed,<br>
+<span class=""quote"">Conclude the period with a mortal stab.</span>";"";"";"@000824_A91_D91 The Troublesome Reign of King John";"";"WoPh#006301 end the period with a fatal stab";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005658-50. ";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"George Peele";"The Troublesome Reign of King John, King of England";"D3 verso [normalized spelling].";"1589";"1589";"";"";"English";"[Constance:] [...] 
+Poor <span class=""quote"">helpless boy, hopeless and helpless too,</span><br>
+To whom misfortune seems no yoke at all.";"";"";"@000824_A91_D91 The Troublesome Reign of King John";"";"WoKw#006300 hopeless and helpless ";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005658-50. ";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"George Peele";"The Troublesome Reign of King John, King of England";"N.p.; part 1, 10, 27-28 [spelling normalized].";"1589";"1589";"";"";"English";"Must I discourse? let <span class=""quote"">Dido sigh </span>and say<br>
+She weeps again to hear the wrack of Troy?";"";"";"@000824_A91_D91 The Troublesome Reign of King John";"";"NaCa#032240 Dido / NaMa#004110 Aeneas telling Dido about fall of Troy (twice)";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-71.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Robert Greene";"The Tragical Reign of Selimus";"207; lines 330-331.";"1591";"1591";"";"";"English";"[Selimus:] [...] If I can not, this right hand is resolved<br>
+To <span class=""quote"">end the  period with a fatal stab.</span>";"";"";"@000904_A91_D94 The Tragical Reign of Selimus";"";"WoPh#006301 end the period with a fatal stab";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005658-50. ";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Venus and Adonis";"Lines 727-733.";"1592";"1592";"";"";"English";"Now of this dark night I perceive the reason: <br>
+<span class=""quote"">Cynthia </span>for shame obscures <span class=""quote"">her silver shine<br></span>
+Till forging Nature be condemned of treason<br>
+For stealing moulds from heaven that were divine,<br>
+Wherein she framed thee, in high heaven’s despite, <br>
+To shame the sun by day and her by night.";"";"";"@005004 Venus and Adonis";"";"NaCa#006975 Cynthia the moon (may be Elizabeth I)";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"Fulltext database";"@010084-Last accessed 31 March 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"The Taming of the Shrew";"Act 1, scene 1, lines 14-16.";"1592";"1592";"";"";"English";"[Lucentio:] [...] Vincentio'son, brought up in <span class=""quote"">Florence, </span><br>
+It shall become to serve all hopes conceived <br>
+To deck his fortune with his virtuous deeds. ";"";"";"@000916_A92_D23 The Taming of the Shrew";"";"NaVn#008067 Florence";"Work by venue";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"The Taming of the Shrew";"Act 4, scene 2, limes 93-95.";"1592";"1592";"";"";"English";"[Merchant:] Alas, sir, it is worse for me than so,<br>
+For I have bills for money by exchange <br>
+From <span class=""quote"">Florence, </span>and must here deliver them.";"";"";"@000916_A92_D23 The Taming of the Shrew";"";"NaVn#008067 Florence";"Work by venue";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 4, scene 4, lines 84-89.";"1592";"1592";"";"";"English";"[Tamora:] King, be thy thoughts imperious like thy name.<br>
+<span class=""quote"">Is the sun dimmed that gnats do fly in it?<br>
+The eagle suffers little birds to sing </span><br>
+And is not careful what they mean thereby,<br>
+Knowing that with the shadow of his wings <br>
+He can at pleasure stint their melody.";"ERASMUS Adages III. ii. aquila non captat muscas, the eagle does not catch flies.
+
+
+";"";"@000928_A92_D94 Titus Andronicus";"";"SuId#006242 eagles do not catch flies";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 1, scene 1, lines 79-84.";"1592";"1592";"";"";"English";"[Titus:] [...] Romans, of five-and-twenty valiant sons,<br>
+Half of the number that King Priam had,<br>
+Behold the poor remains alive and dead. <br>
+These that survive let Rome reward with love;<br>
+These that I bring unto <span class=""quote"">their latest home,<br></span>
+With burial amongst their ancestors.";"";"";"@000928_A92_D94 Titus Andronicus";"";"WoPh#006241 death as long or last home";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-9.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 1, scene 1, lines 382-388.";"1592";"1592";"";"";"English";"[Marcus:] Suffer thy brother Marcus to inter <br>
+His noble nephew here in virtue's nest,<br>
+That died in honor and Lavinia's cause. <br>
+Thou art a Roman; be not barbarous.<br>
+The Greeks upon advice did bury <span class=""quote"">Ajax</span>,<br>
+That slew himself, and wise <span class=""quote"">Laertes' son</span><br>
+Did graciously plead for his funerals. ";"";"";"@000928_A92_D94 Titus Andronicus";"";"NaCa#005595 Ulysses Odysseus / NaCa#006244 Ajax / NaCa#006245 Laertes";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 8 December 2020.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 2, scene 3, lines 232-233.";"1592";"1592";"";"";"English";"[Martius:] [...] So pale did shine the moon on <span class=""quote"">Pyramus</span> <br>
+When he by night lay bathed in maiden blood.";"";"";"@000928_A92_D94 Titus Andronicus";"";"NaMa#004003 Pyramus and Thisbe";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 8 December 2020.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 4, scene 3, lines 45-49.";"1592";"1592";"";"";"English";"[Titus:] [...] Marcus, we are but shrubs, no cedars we,<br>
+No big-boned men framed of the <span class=""quote"">Cyclops'</span> size, <br>
+But metal, Marcus, steel to the very back,<br>
+Yet wrung with wrongs more than our backs can bear [...].";"";"";"@000928_A92_D94 Titus Andronicus";"";"NaCa#006246 Cyclops";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 8 December 2020.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 2, scene 3, lines 118-119.";"1592";"1592";"";"";"English";"[Lavinia:] Ay, come, <span class=""quote"">Semiramis, </span>nay, barbarous Tamora, <br>
+For no name fits thy nature but thy own!";"";"";"@000928_A92_D94 Titus Andronicus";"";"NaCa#006247 Semiramis";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-30.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"The Taming of the Shrew";"Induction scene 2, lines 37-40.";"1592";"1592";"";"";"English";"[Lord:] [...] Or wilt thou sleep? We'll have thee to a couch <br>
+Softer and sweeter than the lustful bed<br>
+On purpose trimmed up for <span class=""quote"">Semiramis. </span><br>
+Say thou wilt walk, we will bestrew the ground. ";"";"";"@000916_A92_D23 The Taming of the Shrew";"";"NaCa#006247 Semiramis";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 8 December 2020.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Titus Andronicus";"Act 3, scene 1, lines 205-208.";"1592";"1592";"";"";"English";"[Aaron:] [...] O, how <span class=""quote"">this villainy<br>
+Doth fat me with the very thoughts of it! </span><br>
+Let fools do good and fair men call for grace; <br>
+Aaron will have his soul black like his face.";"";"";"@000928_A92_D94 Titus Andronicus";"";"WoPh#006252 to fat with laughter";"Work unmarked";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"";"";"@010015:141.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Anonymous";"A Knack to Know a Knave";"Anon.  <i>A Knack to Know a Knave.</i> 1592.  N.p.";"1592";"1592";"";"";"English";"As <span class=""quote"">Titus </span>was unto the Roman senators<br>
+When he had made <span class=""quote"">a conquest on the Goths.</span>";"";"";"@005780 A Knack to Know a Knave";"";"NaCa#006283 Titus Andronicus the character";"Work by character";"Author unmarked";"Comedy";"";"Dialogue";"BODY OF TEXT";"MQ_VERBAL_likeas";"";"@005778-xx.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Anonymous";"A Knack to Know a Knave";"";"1592";"1592";"";"";"English";"<span class=""quote"">A Knack to Know a Knave</span>";"";"";"@005780 A Knack to Know a Knave";"";"WoPh#006282 knack to know a knave";"Work unmarked";"Author unmarked";"";"";"";"TITLE";"";"Reading";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Anonymous";"A Knack to Know an Honest Man";"";"1594";"1594";"";"";"English";"<span class=""quote"">A Knack to Know an Honest Man</span>";"";"";"@000969_A94_D96 A Knack to Know an Honest Man";"";"WoPh#006282 knack to know a knave";"Work title";"Author unmarked";"";"";"";"TITLE";"";"";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Kyd";"Cornelia, or Pompey the Great's Fair Cornelia";"B1 recto; act 2 [normalized spelling].";"1594";"1594";"";"";"English";"Accursed Captives, wretches that we are,<br>
+Perceive we not that for the fatal doom,<br>
+The Fates make hast enough: but we (by war)<br>
+Must seek in Hell to have a hapless room.<br>
+Or fast enough do foolish men not die,<br>
+But they (by murder of themselves) must hie,<br>
+<span class=""quote"">Hopeless to hide them in a hapless tomb?</span>";"";"";"@000954_A94_D94 Cornelia, or Pompey the Great's Fair Cornelia";"";"WoKw#006300 hopeless and helpless ";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005658-50.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Lucrece";"LInes 1471-";"1594";"1594";"";"";"English";"Show me the strumpet that began this stir,<br>
+That with my nails her beauty I may tear.<br>
+Thy heat of lust, fond <span class=""quote"">Paris, </span>did incur<br>
+This load of wrath that <span class=""quote"">burning Troy </span>doth bear;<br>
+Thy eye kindled the fire that burneth here, <br>
+And here in Troy, for trespass of thine eye, <br>
+The sire, the son, the dame, and daughter die.";"";"";"@005015 Lucrece";"";"NaCa#004201 Paris of Troy / NaMa#006243 The Fall of Troy";"Work by character";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@010084-Last accessed 8 December 2020.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Lucrece";"Lines 542-546.";"1594";"1594";"";"";"English";"[...] he, the picture of pure piety,<br>
+Like a white hind under the gripe’s sharp claws,<br>
+Pleads, <span class=""quote"">in a wilderness where are no laws,<br></span>
+To the rough beast that knows no gentle right<br>
+Nor aught obeys but his foul appetite.";"";"";"@005015 Lucrece";"";"WoKw#006281 lawless wilderness";"Work unmarked";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@005778-60.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Lucrece";"Lines 575-577.";"1594";"1594";"";"";"English";"Quoth she, Reward not hospitality<br>
+With such black payment as thou hast pretended;<br>
+<span class=""quote"">Mud not the fountain that gave drink to thee. </span>";"";"";"@005015 Lucrece";"";"SuId#006288 muddy not the fountain you drink from";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-116.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Romeo and Juliet";"Act 3, scene 5, lines 19-20.";"1595";"1595";"";"";"English";"[Romeo:] [...] I'll say yon gray is not the morning's eye</span>;<br>
+'Tis but the pale reflex of <span class=""quote"">Cynthia's brow.<br></span>";"";"";"@000987_A95_D99 Romeo and Juliet";"";"NaCa#006975 Cynthia the moon (may be Elizabeth I)";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"Reading";"";"";"";"   Hohl-Trillini Regula"
 " this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Richard II";"Act 3, scene 2, lines 13-16.";"1595";"1595";"";"";"English";"[Richard II:] O villains, vipers, damned without redemption!<br>
 Dogs easily won to fawn on any man!<br>
 Snakes in my heart blood warmed, that sting my heart!<br>
-<span class=""quote"">Three Judases, each one thrice worse than Judas!</span>";"";"";"@001002_A95_D97 Richard II";"";"NaCa#006957 Judas";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"Local reference";"";"@010084-Last accessed 28 November 2020.";"";"";"   Hohl Trillini Regula"
+<span class=""quote"">Three Judases, each one thrice worse than Judas!</span>";"";"";"@001002_A95_D97 Richard II";"";"NaCa#006957 Judas";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"Local reference";"";"@010084-Last accessed 28 November 2020.";"";"";"   Hohl-Trillini Regula"
 " this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Richard II";"Act 4, scene 1, lines 175-180.";"1595";"1595";"";"";"English";"[King Richard:] [...] Yet I well remember<br>
 The favors of these men. Were they not mine?<br>
 Did they not sometime cry <span class=""quote"">""All hail"" to me? <br>
 So Judas did to Christ,</span> but He in twelve <br>
-Found truth in all but one; I, in twelve thousand, none. ";"";"";"@001002_A95_D97 Richard II";"";"NaMa#006240 Judas hailing Jesus";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 28 November 2020.";"";"";"   Hohl Trillini Regula"
+Found truth in all but one; I, in twelve thousand, none. ";"";"";"@001002_A95_D97 Richard II";"";"NaMa#006240 Judas hailing Jesus";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 28 November 2020.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Ben Jonson";"Every Man in His Humour";"N.p.";"1598";"1598";"";"";"English";"[Thorello:] [...] Bane to my fortunes: <span class=""quote"">What meant I to marry?</span>";"";"";"@001143_A98_D01 Every Man In His Humour";"";"WoPh#006290 why did I marry";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005786-131.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Ben Jonson";"Every Man in His Humour";"N.p.; act 3, scene 3, lines 15-25.";"1598";"1598";"";"";"English";"[Bianca:] Sister Hesperida, I pray you, fetch down the rose-water above in the closet. [To Thorello] Sweetheart, will you come in to breakfast?<br>
+[Thorello (aside):] <span class=""quote"">An she have overheard me now!</span> [...]
+[Bianca:] What ail you, sweetheart? Are you not well? Speak, good muss.
+[Thorello:] <span class=""quote"">Troth, my head aches extremely on a sudden.</span>
+[Bianca:] O Jesu!";"";"";"@001143_A98_D01 Every Man In His Humour";"";"SuSc#006291 solicitous wife with headachey, jealous husband";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005786-131.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Ben Jonson";"Every Man in His Humour";"N.p.; act 4. scene 3, line 7.";"1598";"1598";"";"";"English";"<span class""quote"">[Prospero:] No harm done, </span>brother, I warrant you.";"";"";"@001143_A98_D01 Every Man In His Humour";"";"NaMa#006292 Prospero no harm done";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005786-132.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Marston";"The Scourge of Villainy";"C1 recto; book 1, satire  2 ""Difficile est satiram non scribere""  [normalized spelling].";"1598";"1598";"";"";"English";"<span class=""quote"">To shade rank filth, loose conscience is free,<br>
+From all conscience, what else hath liberty?<br>
+As't please the Thracian Boreas to blow,<br>
+So turnes our airy conscience, to, and fro.</span>";"";"";"@005001 The Scourge of Villainy";"";"WoPa#006303 Loose consicence is free";"Work unmarked";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Marston";"The Scourge of Villainy";"C3 verso; book 1, satire 2 ""Difficile est satiram non scribere"" [normalized spelling].";"1598";"1598";"";"";"English";"<span class=""quote"">
+When to be huge, is to be deadly sick,<br></span>
+When virtuous peasants will not spare to lick<br>
+The devil's tail for poor promotion.";"";"";"@005001 The Scourge of Villainy";"";"WoPa#006304 To be huge is to be deadly sick";"Work unmarked";"Author name";"";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE / MQ_TYPOGRAPHY_Heading";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Marston";"The Scourge of Villainy";"D5 verso; Satire 4 ""Cras"" [normalized spelling].";"1598";"1598";"";"";"English";"Without much do, or far-fetched habiture<br>
+In earnest thus, <span class=""quote"">
+it is a sacred cure<br>
+To salve the soul's dread wounds; Omnipotent<br>
+That Nature is, that cures the impotent,<br>
+Even in a moment; Sure Grace is infused<br>
+By divine fauour, not by actions used.<br>
+Which is as permanent as heaven's bliss<br>
+To them that have it, then no habit is.</span>";"";"";"@005001 The Scourge of Villainy";"";"WoPa#006305 Tis a sacred cure";"Work unmarked";"Author name";"";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE / MQ_TYPOGRAPHY_Heading";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Marston";"The Scourge of Villainy";"G5 verso [normalized spelling].";"1598";"1598";"";"";"English";"The wanton wallowing<br>
+In fond delights, and amorous dallying,<br>
+Hath dusked the fairest splendour of our soul:<br>
+Nothing now left, but carcass, loathsome, foul.<br>
+For sure, if that some sprite remained still,<br>
+Could it be subject to lewd <i>Lais's </i>will?<br>
+<span class=""quote"">Reason by prudence in her function<br>
+Had wont to tutor all our action,<br>
+Aiding with precepts of Philosophy<br>
+Our feebled natures' imbecility,<br>
+But now affection with concupiscence,<br>
+Have got our reason chief preeminence.</span>";"";"";"@005001 The Scourge of Villainy";"";"WoPa#006307 Reason by prudence";"Work unmarked";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Marston";"The Metamorphosis of Pygmalion and Certain Satires";"A3 recto; Preface ""To the world's mighty monarch, good opinion"" [normalized spelling].";"1598";"1598";"";"";"English";"TO THE WORLD'S MIGHTY MONARCH, GOOD OPINION<br>
+[...]
+<span class=""quote"">Thou soul of Pleasure, Honour's only substance,<br>
+Great Arbitrator, Umpire of the Earth,<br>
+Whom fleshly Epicures call Virtue's essence,<br>
+Thou moving Orator, whose powerful breath<br>
+Sways all men's iudgements. Great OPINION,<br>
+Vouchsafe to guild my imperfection.</span>";"";"";"@005281 The Metamorphosis of Pygmalion and Certain Satires";"";"WoPa#006308 Thou soul of pleasure";"Work unmarked";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Marston";"The Scourge of Villainy";"E3 verso [normalized spelling].";"1598";"1598";"";"";"English";"<span class=""quote"">Well plainly thus, Sleight, Force, are mighty things,<br>
+From which, much, (if not most) earth's glory springs.<br>
+If Virtue's self, were clad in human shape,<br>
+Virtue without these, might go beg and scrape.</span><br>
+The naked truth is, a well clothed lie,<br>
+A nimble quick-pate mounts to dignity.<br>
+By force, or fraud, that matters not a jot,<br>
+So massy wealth may fall unto thy lot.<br>";"";"";"@005001 The Scourge of Villainy";"";"WoPa#006309 Slight, force are mighty things / WoPa#006311 The naked truth is a well-clothed lie";"Work unmarked";"Author name";"";"";"Narrator";"BODY OF TEXT";"";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Marston";"The Scourge of Villainy";"A3 recto [normalized spelling].";"1598";"1598";"";"";"English";"To Detraction I present my Poesy.<br>
+Foul canker of fair virtuous action,<br>
+Vile blaster of the freshest blooms on earth,<br>
+Envy's abhorred child, Detraction,<br>
+I hear expose, to thy all-tainting breath<br>
+The issue of my brain, snarl, rail, bark, bite,<br>
+<span class=""quote"">
+Know that my spirit scorns Detraction's spite.</span>";"";"";"@005001 The Scourge of Villainy";"";"WoPh#006310 A sprightly wit disdains detraction";"Work unmarked";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Marston";"The Scourge of Villainy";"E2 verso [normalized spelling].";"1598";"1598";"";"";"English";"<span class=""quote"">Honour's shade, thrusts honour's substance from his place<br></span>
+'Tis strange, when shade the substance can disgrace?";"";"";"@005001 The Scourge of Villainy";"";"WoPa#006312 Honour&#039;s shade thrusts honour&#039;s substance";"Work unmarked";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Marston";"The Metamorphosis of Pygmalion's Image";"Marston, John.  <i>The metamorphosis of Pigmalions image And certaine satyres. </i>London: James Roberts for Edmond Matts, 1598.";"1598";"1598";"";"";"English";"The Metamorphosis of <span class=""quote"">Pygmalion's Image</span>";"";"";"@005281 The Metamorphosis of Pygmalion and Certain Satires";"";"NaCa#006293 Pygmalion falling in love with his work";"Work by character";"Author unmarked";"";"";"";"TITLE";"";"";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Ben Jonson";"Every Man In His Humour";"N.p.; act 5, scene 3 [normalized spelling].";"1598";"1598";"";"";"English";"[Musco:] [...] <span class=""quote"">as the raven did to the ark.</span>";"";"";"@001143_A98_D01 Every Man In His Humour";"";"NaMa#006249 Noah sending a raven from the ark";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005750";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Ben Jonson";"Every Man In His Humour";"65; act 5, scene 1 [normalized spelling].";"1598";"1598";"";"";"English";"[Clement:] I see, rank fruits of a jealous brain, mistress Kitely but, did you find your husband there, in that case, as you suspected?<br>
+[Kitely:] I found her there, sir.<br>
+[Clement:] Did you so? that <span class=""quote"">alters the case. </span>Who gave you knowledge, of your wive's being there?
+";"";"";"@001143_A98_D01 Every Man In His Humour";"";"WoPh#001419 Case is Altered, The";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005750";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Ben Jonson";"Every Man In His Humour";"50, act 4, scene 4 [normalized spelling].";"1598";"1598";"";"";"English";"[Cob:] O, must you be stabbed by a soldier? Mass, that's true! when was Bobadill here? your Captain? that rogue, that foist, <span class=""quote"">that fencing <i>Burgullian</i>? </span>I'll tickle him, i'faith.
+";"";"";"@001143_A98_D01 Every Man In His Humour";"";"NaCa#006250 Burgonian";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005750";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Marston";"The Scourge of Villainy";"N.p.; Satire 11, 63.";"1598";"1598";"";"";"English";"<span class=""quote"">Burgonian</span>";"";"";"@005001 The Scourge of Villainy";"";"NaCa#006250 Burgonian";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005750";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Ben Jonson";"Every Man In His Humour";"N.p.; act 1, scene 4.";"1598";"1598";"";"";"English";"[Thorello:] [...] <span class=""quote"">devouring choler.</span>";"";"";"@001143_A98_D01 Every Man In His Humour";"";"SuId#006251 devouring choler";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005750";"";"";"   Hohl-Trillini Regula"
 " this, give these fellows some means to the king:";"unedited";"Ben Jonson";"Every Man In His Humour";"N.p.; act 2, scene 2 [normalized spelling].";"1599";"1599";"";"";"English";"[Lorenzo Senior:] My labouring spirit being late oppressed<br>
 With my son's folly, can embrace no rest<br>
 Till it hath plotted by advice and skill,<br>
 How to reduce him from <span class=""quote"">affected will<br></span>
-To reason's manage [...].";"";"";"@001143_A98_D01 Every Man In His Humour";"";"WoTo#006238 affected (corrupted) will";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005750";"";"";"   Hohl Trillini Regula"
+To reason's manage [...].";"";"";"@001143_A98_D01 Every Man In His Humour";"";"WoTo#006238 affected (corrupted) will";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005750";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Hamlet";"Shakespeare, William.  <i>Hamlet.</i>  Act 3, scene 1, line 164.";"1600";"1600";"1600";"1600";"English";"[Ophelia:] <span class=""quote"">The courtier's, soldier's, scholar's, eye, tongue, sword </span>[...].";"";"";"@001259_A00_D23 Hamlet";"William Shakespeare";"WoSn#004154 courtier soldier scholar";"Work unmarked";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"Local reference";"Shakespeare Studies";"@010030/@010045/@010222/@010152-2:201.
+Muir, Kenneth. The Sources of Shakespeare’s Plays. London: Methuen, 1977. <br>
+Davenport, A. ""Shakespeare and Nashe's  'Pierce Pennilesse'."" Notes and Queries (September 1953): 272-274.<br>
+Shaheen, Naseeb. Biblical References in Shakespeare's Tragedies. Newark: University of Delaware Press, 1999.<br>
+Baldwin, Thomas Whitfield. William Shakspere's Small Latine and Lesse Greeke. 2 vols. Urbana: University of Illinois Press, 1944. ";"";"";"Heeg Stefanie"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Hamlet";"Act 3, scene 1, line 64.";"1600";"1600";"";"";"English";"[Hamlet:] <span class=""quote"">To be or not to be, that is the question.</span>";"";"";"@001259_A00_D23 Hamlet";"";"WoSn#030065 to be or not to be";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"Reading";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Ben Jonson";"Cynthia's Revels";"";"1600";"1600";"";"";"English";"<span class=""quote"">Cynthia's</span> Revels";"";"";"@001269_A00_D01 Cynthia's Revels";"";"NaBo@001269 Cynthia's Revels / NaCa#006975 Cynthia the moon (may be Elizabeth I)";"Work by character";"Author unmarked";"";"";"";"TITLE / CHARACTERNAME";"";"Reading";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"As You Like It";"";"1600";"1600";"";"";"English";"<span class=""quote"">Ganymede</span>";"";"";"@001237_A00_D23 As You Like It";"";"NaCa#006295 Ganymede";"Work by character";"Author unmarked";"";"";"";"CHARACTERNAME";"";"Reading";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Samuel Smithson";"The Famous History of Guy Earl of Warwick";"Smithson, Samuel.  <i>The famous history of Guy Earl of Warwick by Samuel Smithson.</i> London: F. Coles, T. Vere, J. VVright and J. Clarke, 1600.  A4 recto-A4 verso; chapter 4 [normalized spelling].";"1600";"1600";"1600";"1600";"English";"When fair Phelice found herself wounded with the golden Dart of Love, she cries, O pity me, sweet gentle  <span class=""quote"">Cupid</span>, solicit for me to thy mother,and I will offer my life as a sacrifice to her Altar: O pity her that has been too too pitiless and grace me with the favourable Bow; <span class=""quote"">the Queen of Love </span>from henceforth I'll adore, resigning all my Titles, honours, and Royal Dignities, which are unfit for me, let her be Graced with them, whilst I remain a Servant to her Love, Will and pleasure.";"";"";"@005791 Guy Earl of Warwick";"";"NaCa#032238 Venus Aphrodite Cytherea / NaCa#004195 Cupid Eros / NaMa#006965 Venus aka Queen of Love";"Work unmarked";"Author unmarked";"Prose unspecified";"";"Dialogue";"BODY OF TEXT";"";"";"@0010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Robert Allott";"England's Parnassus";"9 [normalized spelling].";"1600";"1600";"";"";"English";"ART <br>
+<span class=""quote"">Art curbeth nature, nature gildeth Art.<br></span>
+<i>J. Marston.</i>";"";"";"@005283 England's Parnassus";"";"WoPh#006302 Art curbeth nature";"Work unmarked";"Author name";"";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE / MQ_TYPOGRAPHY_Heading";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Robert Allott";"England's Parnassus";"35 [normalized spelling]. ";"1600";"1600";"";"";"English";"CONSCIENCE<br>
+<span class=""quote"">Loose Conscience is free<br>
+From all Conscience what else hath liberty:<br>
+As't pleased the Thracian Boreas to blow,<br>
+So turns our weary Conscience to and fro.<br></span>
+<i>J. Marston.</i>";"";"";"@005283 England's Parnassus";"";"WoPa#006303 Loose consicence is free";"Work unmarked";"Author name";"";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE / MQ_TYPOGRAPHY_Heading";"";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Robert Allott";"England's Parnassus";"276 [normalized spelling].";"1600";"1600";"";"";"English";"SOUL<span class=""quote""><br>
+'Tis a sacred cure<br>
+To salve the soul's dread wounds, omnipotent<br>
+That nature is, that cures the impotent<br>
+Even in a moment, sure grace is infused<br>
+By divine favour, nor by actions used:<br>
+Which is as permanent as heaven's bliss,<br>
+To them that have it, then no habit is.<br></span>
+J. Marston.
+";"";"";"@005283 England's Parnassus";"";"WoPa#006305 Tis a sacred cure";"Work unmarked";"Author name";"";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE / MQ_TYPOGRAPHY_Heading";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Robert Allott";"England's Parnassus";"250 [normalized spelling].";"1600";"1600";"";"";"English";"Reason<br>
+<span class=""quote"">Reason by prudence in her function,<br>
+Had wont to tutor all-out action,<br>
+Aiding with precepts of Philosophy<br>
+Our feebled natures' imbecility,<br>
+But now affection with concupiscence,<br>
+Have got our reason chief preeminence.<br></span>
+<i>J. Marston.</i>";"";"";"@005283 England's Parnassus";"";"WoPa#006307 Reason by prudence";"Work unmarked";"Author name";"";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE / MQ_TYPOGRAPHY_Heading";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Robert Allott";"England's Parnassus";"221 [normalized spelling].";"1600";"1600";"";"";"English";"Opinion<br><span class=""quote"">
+Thou soul of pleasure, honour's only substance,<br>
+Great arbitrator, umpire of the earth,<br>
+Whom fleshly epicures call virtue's essence<br>
+Thou moving orator, whose powerful breath<br>
+Sways all men's judgments, great opinion.<br></span>
+J. Marston.";"";"";"@005283 England's Parnassus";"";"WoPa#006308 Thou soul of pleasure";"Work unmarked";"Author name";"";"";"";"ANTHOLOGY ENTRY";"";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Robert Allott";"England's Parnassus";"202 [normalized spelling].";"1600";"1600";"";"";"English";"MIGHT<br><span class=""quote"">
+Slight, force, are mighty things,<br>
+From which, much, if not most, earth's glory springs:<br>
+If virtue's self were clad in human shape,<br>
+Virtue without these, might go beg and scrape.<br></span>
+<i>J. Marston.</i>
+";"";"";"@005283 England's Parnassus";"";"WoPa#006309 Slight, force are mighty things";"Work unmarked";"Author name";"";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE / MQ_TYPOGRAPHY_Heading";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Robert Allott";"England's Parnassus";"287-288 [normalized spelling].";"1600";"1600";"";"";"English";"TRUTH<br><span class=""quote"">
+The naked truth is a well-clothed lie,<br>
+A nimble quick pale mounts to dignitie<br>
+By force or fraud, that matters not a jot,<br>
+So massy wealth may fall unto thy lot.<br></span>
+Jo. Marston.<br><br>
+
+<span class=""quote"">
+A sprightly wit disdains detraction.<br></span>
+J. Marston.";"";"";"@005283 England's Parnassus";"";"WoPh#006310 A sprightly wit disdains detraction / WoPa#006311 The naked truth is a well-clothed lie";"Work unmarked";"Author name";"";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE / MQ_TYPOGRAPHY_Heading";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Robert Allott";"England's Parnassus";"135 [normalized spelling]. ";"1600";"1600";"";"";"English";"HONOUR<br><span class=""quote"">
+Honour's shade, thrusts honour's substance from his place.<br></span>
+<i>J. Marston.</i>
+";"";"";"@005283 England's Parnassus";"";"WoPa#006312 Honour&#039;s shade thrusts honour&#039;s substance";"Work unmarked";"Author name";"";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE / MQ_TYPOGRAPHY_Heading";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Anonymous";"The Maid's Metamorphosis";"Anon.  <i>The Maydes Metamorphosis. As it hath bene sundrie times Acted by the Children of Powles. </i>London: Thomas Creede, for Richard Olive, 1600. ";"1600";"1600";"";"";"English";"The Maid's <span class=""quote"">Metamorphosis</span>";"";"";"@001231_A00_D00 The Maid's Metamorphosis";"";"NaBo@005035 Metamorphoses";"Work unmarked";"Author unmarked";"";"";"";"TITLE";"";"";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Hamlet";"";"1600";"1600";"";"";"English";"<span class=""quote"">Laertes</span>";"";"";"@001259_A00_D23 Hamlet";"";"NaCa#006245 Laertes";"Work by character";"Author unmarked";"";"";"";"CHARACTERNAME";"";"Reading";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Hamlet";"Act 2, scene 2, lines 512-517.";"1600";"1600";"";"";"English";"[First Player:] [...] so, after Pyrrhus' pause, <br>
+Arousèd vengeance sets him new a-work,<br>
+And never did the <span class=""quote"">Cyclops'</sapn> hammers fall <br>
+On <span class=""quote"">Mars's </span>armor, forged for proof eterne, <br>
+With less remorse than Pyrrhus’ bleeding sword<br>
+Now falls on Priam. ";"";"";"@001259_A00_D23 Hamlet";"";"NaCa#004179 Mars Ares / NaCa#004214 Priam King of Troy / NaCa#006246 Cyclops";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"morethanonelexia";"@010084-Last accessed 8 December 2020.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Anonymous";"The Maid's Metamorphosis";"Anon.  <i>The Maydes Metamorphosis. As it hath bene sundrie times Acted by the Children of Powles. </i>London: Thomas Creede, for Richard Olive, 1600. ";"1600";"1600";"";"";"English";"<span class=""quote"">Apollo</span>";"";"#009005 Children of Paul's";"@001231_A00_D00 The Maid's Metamorphosis";"";"NaCa#004017 Phoebus Apollo";"Work by character";"Author unmarked";"";"";"";"CHARACTERNAME";"";"";"@005750";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Hamlet";"Act 1, scene 1, lines 176-179.";"1600";"1600";"";"";"English";"[Marcellus:] [...] And then, they say, no spirit dare stir abroad,<br>
+The nights are wholesome; then <span class=""quote"">no planets strike, <br></span>
+No fairy takes, nor witch hath power to charm,<br>
+So hallowed and so gracious is that time.";"";"";"@001259_A00_D23 Hamlet";"";"WoTo_NatSky#030143 planets strike";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-55.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Dekker";"Satiromastix, or The Untrussing of the Humorous Poet";"A3 recto [normalized spelling].";"1601";"1601";"";"";"English";"<span class=""quote"">Horace</span> hailed his Poetasters to the Bar, the Poetasters untrussed <span class=""quote"">Horace</span>: how worthily either, or how wrongfully, (World) leave it to the jury: Horace (questionless) made himself believe, that his <span class=""quote"">Burgonian</span> wit might desperately challenge all comers, and that none durst take up the foils against him: It's likely, if he had not so believed, he had not been so deceived, for he was answered at his weapon [...]. ";"";"";"@001304 Satiromastix, or the Untrussing of the Humorous Poet";"";"NaHu#007017 Horace / NaBo@001296 Poetaster / NaCa#006250 Burgonian";"Work title / Work by character";"Author name";"";"";"";"PREFACE OR DEDICATION";"";"morethanonelexia";"@005750";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Twelfth Night";"Act 4, scene 2, lines 126-33.";"1601";"1601";"";"";"English";"[Fool:] I am gone, sir, and anon, sir, I'll be with you again, <br>
+In a trice, like to the old Vice,<br>
+Your need to sustain.<br>
+Who with <span class=""quote"">dagger of lath,</span> in his rage and his wrath,<br>
+Cries ""aha!"" to the devil;>br>
+Like a mad lad, ""Pare thy nails, dad! <br>
+Adieu, goodman devil.""";"";"";"@001297_A01_D23 Twelfth Night";"";"WoTo#006290 theatre dagger of lath";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005778-31.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Troilus and Cressida";"";"1602";"1602";"";"";"English";"<span class=""quote"">Hector</span>";"";"";"@001325_A02_D09 Troilus and Cressida";"";"NaCa#006296 Hector";"Work by character";"Author unmarked";"";"";"";"CHARACTERNAME";"";"";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Troilus and Cressida";"";"1602";"1602";"";"";"English";"<span class=""quote"">Menelus</span>";"";"";"@001325_A02_D09 Troilus and Cressida";"";"NaCa#004019 Menelaus";"Work by character";"Author unmarked";"";"";"";"CHARACTERNAME";"";"";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Watson";"A Decacordon of Ten Quodlibetical Questions";"Watson, William.  <i>A decacordon of ten quodlibeticall questions concerning religion and state wherein the authour framing himfelfe [sic] a quilibet to euery quodlibet, decides an hundred crosse interrogatorie doubts, about the generall contentions betwixt the seminarie priests and Iesuits at this present.</i> London: Newly imprinted by Richard Field, 1602.  180 [normalized spelling].";"1602";"1602";"";"";"English";"Though in very deed the law primary of reason depending upon <span class=""quote"">synderisis, </span>and the Law divine, or of God <i>relatione ad creaturas, </i>and also the Law of nature, be often taken for all one: upon which conjunctions, divisions, and distinctions, I have treated at large in the answer to the first part of Parsons Doleman: and therefore thereupon we will not now stand.";"";"";"@005793 A Decacordon of Ten Quodlibetical Questions";"";"WoMo#006095 synderisis";"Work unmarked";"Author unmarked";"Pamphlet or liturgical text";"Philosophy, religion";"";"BODY OF TEXT";"";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Anonymous";"A Larum for London, or The Siege of Antwerp";"Anonymous.  <i>A Larum for London, or The Siege of Antwerpe. With the ventrous actes and valorous deeds of the lame Soldier. As it hath been playde by the right Honorable the Lord Charberlaine his Seruants.</i> London, William Ferbrand, 1602.";"1602";"1602";"";"";"English";"A Larum for <span class=""quote"">London, </span>or The Siege of Antwerp";"";"#009002 Lord Chamberlain's (Lord Hunsdon's) Men";"@005797_A99_D02 A Larum for London, or The Siege of Antwerp";"";"NaVn#006981 London / WoMo#006313 London play title";"Work by venue";"Author unmarked";"History play";"";"";"TITLE";"";"";"@006152-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Measure for Measure";"Act 3, scene 2, lines 44-48.";"1603";"1603";"";"";"English";"[Lucio:] How now, noble <span class=""quote"">Pompey? </span>What, at the <span class=""quote"">wheels of Caesar? Art thou led in triumph? </span>What, is there none of <span class=""quote"">Pygmalion's images, newly made woman, </span>to be had now, for <span class=""quote"">putting the hand in the pocket and extracting it clutched?</span>";"";"";"@001413_A03_D23 Measure for Measure";"";"NaMa#032060 Caesar parading streets / NaHu#007014 Pompey the Great / NaHu#007007 Julius Caesar / WoPh_NewWot#230130 strenuous fist of vengeance / NaCa#006293 Pygmalion falling in love with his work";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Henry Chettle / Thomas Heywood";"London Florentine";"Chettler, Henry and Thomas Heywood.  <i>London Florentine.</i> 1603.";"1603";"1603";"";"";"English";"<span class=""quote"">London Florentine</span>";"** The text is lost.";"#009003 Admiral's Men";"@005805_A03 London Florentine";"";"NaVn#006981 London / WoMo#006313 London play title / NaVn#008067 Florence";"Work by venue";"Author unmarked";"Comedy";"";"";"TITLE";"";"";"@005577-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Ben Jonson";"The Case Is Altered";"";"1604";"1604";"";"";"English";"<span class=""annotation"">Count Ferneze is separated from his sons Camillo and Paulo but they are reunited in the end.</span>";"";"";"@005789 The Captives";"";"SuSc#055552 long-lost sons restored to their father";"Work unmarked";"Author unmarked";"";"";"";"BODY OF TEXT";"";"";"@005786-109-110.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Othello";"Act 3, scene 3, lines 283-284.";"1604";"1604";"";"";"English";"[Othello:] <span class=""quote"">Why did I marry? </span>This honest creature doubtless<br>
+Sees and knows more, much more, than he unfolds.";"";"";"@001437_A06_D22 Othello";"";"WoPh#006290 why did I marry";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"Othello (3.3.283) OTHELLO: Why did I marry? This honest creature doubtless / Sees and knows more, much more, than he unfolds.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Othello";"";"1604";"1604";"";"";"English";"[Desdemona:] Why do you speak so faintly? Are you not well?<br>
+[Othello:] I have a pain upon my forehead, here.<br>
+[Desdemona:] Faith, that's with watching. 'Twill away again.<br>
+Let me but bind it hard; within this hour<br>
+It will be well.";"";"";"@001437_A06_D22 Othello";"";"SuSc#006291 solicitous wife with headachey, jealous husband";"Work unmarked";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@005786-131.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Othello";"Act 1, scene 3, lines 51-54.";"1604";"1604";"";"";"English";"[Duke:] [...] Marcus Luccicos, is not he in town?<br>
+[First Senator:] He's now in <span class=""quote"">Florence.</span><br>
+[Duke:] Write from us to him.<br>
+Post-post-haste. Dispatch.";"";"";"@001437_A06_D22 Othello";"";"NaVn#008067 Florence";"Work by venue";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"All's Well That Ends Well";"Act 1, scene 2, lines 14-15.";"1605";"1605";"";"";"English";"The Duke of <span class=""quote"">Florence</span>";"";"";"@001461_A05_D23 All's Well That Ends Well";"";"NaVn#008067 Florence";"Work by venue";"Author unmarked";"";"";"";"CHARACTERNAME";"";"";"@010084-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Middleton";"The Revenger's Tragedy";"N.p.; act 3.";"1606";"1606";"";"";"English";"'Twould put a reveller <br>
+<span class=""quote"">Out of his antic amble.</span>";"";"";"@001520_A06_D07 The Revenger's Tragedy";"";"WoTo#006253 in an antic amble";"Work unmarked";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"";"";"@010015-140.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Middleton";"The Revenger's Tragedy";"N.p.";"1606";"1606";"";"";"English";"[Vindice:] The duke's son's great concubine! <br>
+<span class=""quote"">A drab of state, </span>a cloth-o'-silver slut.";"";"";"@001520_A06_D07 The Revenger's Tragedy";"";"WoTo#006254 a drab of state";"Work unmarked";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"";"";"@010015-136.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"Pericles";"Act 2, scene 5, lines 7-12.";"1607";"1607";"";"";"English";"[Simonides:] Faith, by no means; she hath so strictly tied her <br>
+To her chamber that 'tis impossible.<br>
+One twelve moons more she'll wear <span class=""quote>Diana's livery.</span><br>
+This by <span class=""quote>""the eye of Cynthia </span>hath she vowed, <br>
+And on her virgin honour will not break it.";"";"";"@001555_A07_D09 Pericles";"";"NaCa#004001 Diana Artemis Phoebe / NaCa#006975 Cynthia the moon (may be Elizabeth I)";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"Fulltext database";"@010084-Last accessed 31 March 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Barksted";"Myrrha the Mother of Adonis";"";"1607";"1607";"";"";"English";"Myrrha the Mother of <span class=""quote"">Adonis</span>";"";"";"@005554 Myrrha the Mother of Adonis";"";"NaCa#004203 Adonis";"Work by character";"Author unmarked";"";"";"";"CHARACTERNAME";"";"Reading";"";"";"";"   Hohl-Trillini Regula"
+" For Hecuba!";"ok";"William Shakespeare";"Coriolanus";"Shakespeare, William.  Coriolanus.  Act 1, scene 3, lines 42-47.";"1608";"1608";"1623";"1623";"English";"[Volumnia:] Away, you fool! It more becomes a man <br>
+Than gilt his trophy. The breasts of <span class=""quote"">Hecuba, </span><br>
+When she did suckle <span class=""quote"">Hector, </span>looked not lovelier <br>
+Than Hector's forehead when it spit forth blood <br>
+At Grecian sword, contemning.";"";"";"@001589_A08_D23 Coriolanus";"";"NaCa#006296 Hector / NaCa#006297 Hecuba";"Work by character";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"Local reference";"";"@010084-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" For Hecuba!";"provisional";"William Shakespeare";"Cymbeline";"Shakespeare, William.  Cymbeline.  Act 4, scene 2, lines 381-389.";"1610";"1610";"1623";"1623";"English";"[Imogen:] [...] A headless man? The garments of Posthumus? <br>
+I know the shape of 's leg. This is his hand, <br>
+His foot <span class=""quote"">Mercurial, </span>his <span class=""quote"">Martial thigh,</span><br>
+The brawns of <span class=""quote"">Hercules; </span>but his <span class=""quote"">Jovial </span>face -<br>
+Murder in heaven! How? 'Tis gone. Pisanio, <br>
+All curses <span class=""quote"">madded Hecuba </span>gave the Greeks,<br>
+And mine to boot, be darted on thee! ";"";"";"@001623_A10_D23 Cymbeline";"";"NaMa#080024 Jove's front / WoCl#004092 Pillow Cluster: corpse / WoCl#004094 Pillow Cluster: unhappy wife / WoCl#004095 Pillow Cluster: violence / NaCa#004179 Mars Ares / NaCa#004180 Mercury Hermes / NaCa#006297 Hecuba / NaMa#006298 Hecuba maddened by grief";"Work by character";"Author unmarked";"Romance";"";"Dialogue";"BODY OF TEXT";"Local reference";"";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Strachey";"A True Reportory";"Strachey, William.  <i>A true reportory of the wracke, and redemption of Sir THOMAS GATES Knight and at Virtual Jamestown.</span> Quoted from http://fas-history.rutgers.edu/clemens/Jamestown/StracheyReportoryI.html. Last accessed 8 December 2020.
+";"1610";"1611";"";"";"English";"It could not be said to rain. The waters like whole rivers did flood in the air. And this I did still observe that whereas upon the land when a storm hath poured itself forth once in drifts of rain, the wind, as beaten down and vanquished therewith, not long after endureth. Here <span class=""quote"">the glut of water, as if throttling the wind erewhile, </span>was no sooner a little emptied and qualified but instantly the winds, as hav­ing gotten their mouths now free and at liberty, spake more loud, and grew more tumultuous and malignant. ";"";"";"@005777 A True Reportory";"";"WoPh#006108 glut in a storm";"Work unmarked";"Author unmarked";"Other nonfiction";"History, (auto-)biography";"";"BODY OF TEXT";"";"";"@005726";"";"";"Brütsch Noa"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"The Tempest";"Act 1, scene 2, lines-16.";"1611";"1611";"";"";"English";"[Prospero:] Be collected. <br>
+No more amazement. Tell your piteous heart <br>
+<span class=""quote"">There's no harm done.</span>";"";"";"@001652_A11_D23 The Tempest";"";"NaMa#006292 Prospero no harm done";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@005786-132.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"The Tempest";"Act 1, scene 2, lines 98-107.";"1611";"1611";"";"";"English";"[Prospero:] Being once perfected how to grant suits, <br>
+How to deny them, who t' advance, and who<br>
+To trash for overtopping, new created <br>
+The creatures that were mine, I say, or changed 'em, <br>
+Or else new formed 'em, <span class=""quote"">having both the key<br>
+Of officer and office, set all hearts i' th' state <br>
+To what tune pleased his ear, that now he was <br>
+The ivy which had hid my princely trunk <br>
+And sucked my verdure out on 't. </span>";"";"";"@001652_A11_D23 The Tempest";"";"WoPa#006306 Having both the key";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@006121-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Robert Parsons";"A Discussion of the Answer of M. William Barlow";"Parsons, Robert.  <i>A discussion of the ansvvere of M. VVilliam Barlovv, D. of Diuinity, to the booke intituled: The iudgment of a Catholike Englishman liuing in banishment for his religion &c. Concerning the apology of the new Oath of allegiance. VVritten by the R. Father, F. Robert Persons of the Society of Iesus. VVhervnto since the said Fathers death, is annexed a generall preface, laying open the insufficiency, rayling, lying, and other misdemeanour of M. Barlow in his writing.</i> Saint-Omer: the English College press. Permissu superiorum, 1612.  275 [normalized spelling].";"1612";"1612";"";"";"English";"[...] it openeth a plain way to Atheism, and overthroweth the very first moral principles of virtuous actions in us, to wit, the <span class=""quote"">Synderisis, </span>and proscript of reason itself, that God hath by nature planted in our souls, for our government and direction [...].";"";"";"@005792 A Discussion of the Answer of M. William Barlow";"";"WoMo#006095 synderisis";"Work unmarked";"Author unmarked";"Pamphlet or liturgical text";"Philosophy, religion";"";"BODY OF TEXT";"";"Fulltext database";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"The Two Noble Kinsmen";"Act 4, scene 1, lines 208-209.
+";"1613";"1613";"";"";"English";"[Daughter:] Bear for it, master. Tack about! <br>
+[sings] When <span class=""quote"">Cynthia with her borrowed light, </span>etc.";"";"";"@001724_A13_D34 The Two Noble Kinsmen";"";"NaCa#006975 Cynthia the moon (may be Elizabeth I)";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"Fulltext database";"@010084-Last accessed 31 March 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"William Shakespeare";"The Two Noble Kinsmen";"Act 4, scene 2, lines 13-20.";"1613";"1613";"";"";"English";"[Emilia:] [...] What an eye, <br>
+Of what a fiery sparkle and quick sweetness,<br>
+Has this young prince! Here Love himself sits smiling; <br>
+Just such another wanton <span class=""quote"">Ganymede<br></span>
+Set <span class=""quote"">Jove </span>afire with, and enforced the god <br>
+Snatch up the goodly boy and set him by him, <br>
+A shining constellation. ";"";"";"@001724_A13_D34 The Two Noble Kinsmen";"";"NaCa#032237 Jove Jupiter Zeus / NaCa#006295 Ganymede";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010084-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Francis Beaumont";"The Knight of the Burning Pestle";"N.p.; act 1, scene 1 [normalized spellinlg].";"1613";"1613";"";"";"English";"[Citizen:] That you have no good meaning: These seven years there hath been Plays at this House, I have observed it, you have still girds at Citizens; and now you call your Play <span class=""quote"">The London Merchant. </span>Down with your Title, Boy, down with your Title.<br>
+[Prologue:] Are you a member of the noble City?<br>
+[Citizen:] I am.<br>
+[Prologue:] And a Freeman?<br>
+[Citizen:] Yea, and a Grocer.<br>
+[Prologue:] So Grocer, then by your sweet favour, we intend no abuse to the City.";"";"";"@001562_A07_D13 The Knight of the Burning Pestle";"";"NaVn#006981 London / WoMo#006313 London play title / NaBo#002427 The London Merchant";"Work by venue";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@006166-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Wentworth Smith";"The Hector of Germany, or The Palsgrave, Prime Elector";"Smith, Wentworth.  <i>THE HECTOR OF GERMANY. OR The Palsgraue, Prime Elector. A New Play, an Honourable History. Made by W. SMITH: with new Additions. As it hath beene publickly Acted at the Red-Bull, and at the Curtayne, by a Company of Young-men of this Citie.</i>  London: Thomas Creede, 1615.";"1615";"1615";"";"";"English";"The <span class=""quote"">Hector </span>of Germany, or The Palsgrave, Prime Elector";"";"";"@005790 The Hector of Germany";"";"NaCa#006296 Hector";"Work by character";"Author unmarked";"History play";"";"";"TITLE";"Recurrent references";"Fulltext database";"@006152-Last accessed 6 April.";"";"";"   Hohl-Trillini Regula"
+" When sorrows come, they come not single spies";"provisional";"George Villiers, 2nd Duke of Buckingham";"The Buckingham Commonplace Book";"Villiers, 2nd Duke of Buckingham, George.  <i>Plays, Poems and Miscellaneous Writings [...]</i>. Es. Robert D. Hume and Harold Love. Oxford; Oxford University press, 2007. Vol. 2, 160-274.  181 [normalized spelling].";"1620";"1628";"2007";"2007";"English";"5 <span class=""quote"">Faults seldom go single but by couples at the least.</span>";"This edition mentions the presence of 8 more <i>Hamlet</i> quotations in this manuscript miscellany but without giving their text.";"";"@005783 The Buckingham Commonplace Book";"";"SuId#030698 misfortunes don't come singly";"Work unmarked";"Author unmarked";"Anthology";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE";"";"@005784-2:471.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Carew";"An Elegy upon the Death of Doctor Donne";"121-125; ""An Elegy upon the Death of Doctor Donne"" [normalized spelling].";"1620";"1640";"";"";"English";"[...] now with [later poets],<br>
+The silenced tales of the <span class=""quote""><i>Metamorphoses</i><br></span>
+Shall stuff their lines, and swell the windy page,<br>
+Till Verse, refined by thee, in this last age<br>
+Turn ballad rhyme [...].";"";"";"@005117 Poems (TCa)";"";"NaBo@005035 Metamorphoses";"Work title";"Author unmarked";"";"";"First-person narrator";"BODY OF TEXT";"";"Reading";"";"";"";"   Hohl-Trillini Regula"
+" Or to take arms against a sea of troubles,";"provisional";"Lady Mary Wroth";"Pamphilia to Amphilanthus";"Wroth, Lady Mary.  ""Pamphilia to Amphilanthus."" <i>The Countesse of Mountgomeries Urania. Written by the right honorable the Lady Mary Wroath. Daughter to the right noble Robert Earle of Leicester. And neece to the ever famous, and renowned Sr. Phillips Sidney knight. And to ye most exele[n]t Lady Mary Countesse of Pembroke late deceased. </i>London: Augustine Matthews for John Marriott and John Grismand, 1621.  25; Sonnet 47, lines 9-14.";"1621";"1621";"1621";"1621";"English";"Be ruled by me, keep all the rest in store,<br>
+Till no room is that may contain one more;<br>
+Then in <span class=""quote"">that Sea of tears </span>drown hapless me,<br><br>
+
+And I'll provide such store of sighs, as part<br>
+Shall be enough to break the strongest heart:<br>
+This done, we shall from torments freed be.
+
+";"";"";"@005785 Pamphilia to Amphilanthus";"";"WoPh#030067 sea of troubles / WoTo#006294 sea of tears";"Work unmarked";"Author unmarked";"Poetry unspecified";"";"First-person narrator";"BODY OF TEXT";"Local reference";"Fulltext database";"EEBO";"";"";"   Hohl-Trillini Regula"
+" chiefly loved: 'twas Aeneas' tale to Dido; and";"provisional";"Lady Mary Wroth";"The Countess of Montgomery's Urania";"Wroth, Lady Mary.  <i>The Countesse of Mountgomeries Urania. Written by the right honorable the Lady Mary Wroath. Daughter to the right noble Robert Earle of Leicester. And neece to the ever famous, and renowned Sr. Phillips Sidney knight. And to ye most exele[n]t Lady Mary Countesse of Pembroke late deceased. </i>London: Augustine Matthews for John Marriott and John Grismand, 1621.  418.";"1621";"1621";"1621";"1621";"English";"Especially, my ending is the less,<br>
+When I Examples see of my distress.<br>
+As <span class=""quote"">Dido, one whose misery was had<br>
+By Love, for which she in Death's robes was clad;<br></span>
+Yet lost she less then I, for I possessed<br>
+And love enjoyed, she liked, what was professed<br>
+Most cruel, and the death-likest kind of ill,<br>
+To lose the blessing of contentment's will.";"";"";"@005782 The Countess of Montgomery's Urania";"";"NaCa#032240 Dido";"Work by character";"Author unmarked";"Prose unspecified";"";"First-person narrator";"BODY OF TEXT";"Local reference";"Fulltext database";"EEBO";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Lady Mary Wroth";"The Countess of Montgomery's Urania";"303.";"1621";"1621";"";"";"English";"Infernal Spirits listen to my moans,<br>
+From cavy depths, give hearing to my groans<br>
+Great <span class=""quote"">Pluto, </span>let thy sad abiding move<br>
+With Hellish fires, to flame for fires of love;";"";"";"@005782 The Countess of Montgomery's Urania";"";"NaCa#004027 Pluto Hades Dis";"Work by character";"Author unmarked";"Prose unspecified";"";"First-person narrator";"BODY OF TEXT";"Local reference";"Fulltext database";"EEBO";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Lady Mary Wroth";"Pamphilia to Amphilanthus";"2; Sonnet 1, lines 5-8 [normalized spelling].";"1621";"1621";"";"";"English";"In sleep, a Chariot drawn by winged Desire,<br>
+I saw; where sat bright <span class=""quote"">Venus Queen of Love,<br></span>
+And at her feet her Son, still adding Fire<br>
+To burning hearts, which she did hold above [...].";"";"";"@005785 Pamphilia to Amphilanthus";"";"NaMa#006965 Venus aka Queen of Love";"Work by character";"Author unmarked";"Poetry unspecified";"";"First-person narrator";"BODY OF TEXT";"";"";"@010048-Last accessed 30 March 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Lady Mary Wroth";"The Countess of Montgomery's Urania";"4; book 1 [normalized spelling].";"1621";"1621";"";"";"English";"Sir (said she) having heard some part of your sorrows, they have not only made me truly pity you, but wonder at you; since if you have lost so great a treasure, you should not lie thus leaving her and your love unrevenged, suffering her murderers to live, while you lie here complaining; and if such perfections be dead in her, why make you not the <span class=""quote"">Phoenix </span>of your deeds live again, as to new life raised out of the revenge you should take on them? ";"";"";"@005782 The Countess of Montgomery's Urania";"";"NaCa#006103 Phoenix";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"Fulltext database";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Lady Mary Wroth";"The Countess of Montgomery's Urania";"498; book 1 [normalized spelling].";"1621";"1621";"";"";"English";"Egypt's Pyramids enclose their Kings,<br>
+But this far braver, nobler things;<br>
+Virtue, Beauty, Love, Faith, all here lie<br>
+Kept in Myra's Tomb, shut from eye:<br>
+The <span class=""quote"">Phoenix </span>dies to raise another fair,<br>
+Born of her ashes, to be heir;<br>
+So this sweet Place may claim that right in woe,<br>
+Since here she lyis, Heaven willing so.";"";"";"@005782 The Countess of Montgomery's Urania";"";"NaCa#006103 Phoenix";"Work by character";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"";"@010084-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Lady Mary Wroth";"The Countess of Montgomery's Urania";"522; book 1.";"1621";"1621";"";"";"English";"But they would not be moved for all his bawlings, nor he long endure this lonely, but violent roaring passion, so as he returned with as much fury, and shame, as <span class=""quote"">Vulcan </span>did when he saw his rival <span class=""quote"">Mars: </span>Much this night's work stuck in his stomach, but what remedy? ";"";"";"@005782 The Countess of Montgomery's Urania";"";"NaCa#004009 Vulcan Hephaistos / NaCa#004179 Mars Ares";"Work by character";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"";"Fulltext database";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" A station like the herald Mercury";"provisional";"Lady Mary Wroth";"The Countess of Montgomery's Urania";"39; book 1.";"1621";"1621";"";"";"English";"The upper Story had the Gods most fairly and richly appearing in their thrones: their proportions such as their powers, and quallities are described. As Mars in Arms, weapons of War about him, Trophies of his Victories, and many demonstrations of his warlike Godhead. <span class=""quote"">Apollo </span>with Music, <span class=""quote"">Mercury, Saturn, </span>and the rest in their kind. At the foot of this Hill ran a pleasant and sweetly passing river, over which was a bridge, on which were three towers. Upon the first was the Image of Cupid, curiously carved with his bow bent, and quiver at his back, but with his right hand pointing to the next tower, on which was a statue of white marble, representing <span class=""quote"">Venus, </span>but so richly adorned, as it might for rareness, and exquisiteness have been taken for the Goddess herself, and haue caused as strange an affection as <span class=""quote"">the image did to her maker, when he fell in love with his own work.</span>";"";"";"@005782 The Countess of Montgomery's Urania";"";"NaCa#032238 Venus Aphrodite Cytherea / NaCa#004017 Phoebus Apollo / NaCa#004180 Mercury Hermes / NaCa#004195 Cupid Eros / NaCa#006074 Saturn Kronos / NaCa#006293 Pygmalion falling in love with his work";"Work by character";"Author unmarked";"";"";"Narrator";"BODY OF TEXT";"Local reference";"";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Heywood";"The Wise Woman of Hoxton";"Heywood, Thomas.  ""The Wise Woman of Hoxton."" The Dramatic Works, Now First Collected with Illustrative Notes and A Memoir of the Author in Six Volumes. London: John Pearson, 1874. Vol. 5, 275-353.";"1623";"1623";"";"";"English";"<span class=""quote"">The Wise Woman of Hoxton</span>";"";"";"@002037_A23_D38 The Wise Woman of Hoxton";"";"NaVn#008055 Hoxton";"Work by character";"Author unmarked";"";"";"";"TITLE";"";"";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas May";"Cleopatra, Queen of Egypt";"B5 verso.";"1626";"1626";"";"";"English";"[Canidius:] [...] it was ominous<br>
+That noble Julius Caesar after all<br>
+Those foure rich triumphs which he held at Rome<br>
+When he resolved with like magnificence<br>
+To build a Temple to the Goddess Venus,<br>
+From whom his house derive their pedigree<br>
+Within his stately Temple, to express<br>
+The Image of that Goddess, he set up<br>
+Fair Cleopatra's figure in the place<br>
+Supposing her to be <span classs=""quote"">the Queen of Love.</span>";"";"";"@002188 Cleopatra, Queen of Egypt";"";"NaMa#006965 Venus aka Queen of Love";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Philip Massinger";"The Great Duke";"N.p.; act 2, scene 3 [normalized spelling].";"1627";"1627";"";"";"English";"[Carolo:] [...] great men<br>
+Till they have gained their ends are Giants in<br>
+Their promises, but those obtained, weak Pigmies<br>
+In their performance. And it is a maxim<br>
+Allowed among them, so they may deceive<br>
+They may swear anything; for <span class=""quote"">the Queen of Love<br></span>
+As they hold constantly, does never punish,<br>
+But <span class=""quote"">smile at Lovers' perjuries. </span>";"";"";"@002214_A27_D36 The Great Duke of Florence";"";"NaMa#031058 gods laugh at lovers' perjuries / NaMa#006965 Venus aka Queen of Love";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Philip Massinger";"The Great Duke of Florence";"Massinger, Philip.  ""The Great Duke of Florence."" <i>The Plays and Poems of Philip Massinger. </i>Eds. Philip Edwards and Colin Gibson. 5 vols. Oxford: Clarendon Press, 1976. Vol. 3, 101-180.";"1627";"1627";"";"";"English";"The Great Duke of <span class=""quote"">Florence</span>";"";"";"@002214_A27_D36 The Great Duke of Florence";"";"NaVn#008067 Florence";"Work by venue";"Author unmarked";"";"";"";"TITLE";"";"";"";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Dekker";"London's Tempe, or The Field of Happiness";"Dekker, Thomas.  <i>Londons Tempe, OR, The Feild of Happines. In which Feild are planted seuerall Trees of Magnificence, State and Bewty, to Celebrate the Solemnity of the Right Honorable Iames Campebell, At his Inauguration into the Honorable Office of Prætorship, or Maioralty of London, ... All the particular Inuentions, for the Pageants, Showes of Triumph, both by Water and land being here fully set downe, Written by Thoams Dekker [...]. London: Nicholas Okes, 1629.";"1629";"1629";"";"";"English";"<span class=""quote"">London's </span>Tempe, or The Field of Happiness";"** This pageant was first performed on 29 October 1629.";"";"@005798_A29_D29 London's Tempe, or The Field of Happiness";"";"NaVn#006981 London / WoMo#006313 London play title";"Work by venue";"Author unmarked";"Masque or other";"";"";"TITLE";"";"";"@006152-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Heywood";"London's Ius Honorarium";"Heywood, Thomas.  <i>Londons Ius Honorarium. Exprest in sundry Triumphs, pagiants, and shews: At the Initiation or Entrance of the Right Honourable George Whitmore, into the Maioralty of the famous and farre renouned City of London. All the charge and expence of the laborious proiects, and obiects both by Water and Land, being the sole vndertaking of the Right Worshipfull, the society of the Habburdashers.</i> London: Nicholas Okes, 1631.";"1629";"1629";"";"";"English";"<span class=""quote"">London's </span>Ius Honorarium
+";"This pageant was first performed in October 1629.";"";"@005799_A29_D31 London&#039;s Ius Honorarium";"";"NaVn#006981 London / WoMo#006313 London play title";"Work by venue";"Author unmarked";"Masque or other";"";"";"TITLE";"";"";"@006152-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Heywood";"London's Fountain of Arts and Sciences";"Heywood, Thomas.  <i>Londini Artium & Scentiarum Scaturigo. OR, Londons Fountaine of Arts and Sciences. Exprest in sundry Triumphs, Pageants, and Showes, at the Initiation of the Right Honorable Nicholas Raynton into the Maiorty of the famous and farre renowned City London. All the Charge and Expence of the laborious Proiects both by Water and Land, being the sole vndertaking of the Right Worshipfull Company of the Haberdashers.<i> London: Nicholas Okes, 1632.";"1629";"1629";"";"";"English";"<span class=""quote"">Londini </span>Artium et Scientiarum Scaturigo, or <span class=""quote"">London's </span>Fountain of Arts and Sciences";"This pageant was first performed in October 1629.";"";"@005800_A29_D32 London's Fountain of Arts and Sciences";"";"NaVn#006981 London / WoMo#006313 London play title";"Work by venue";"Author unmarked";"Masque or other";"";"";"TITLE";"";"";"@006152-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Heywood";"London's Mercatura";"Heywood, Thomas.  <i>Londini Emporia, or Londons Mercatura. Exprest in sundry Triumphs, Pageants and Showes, at the Inauguration of the Right Honorable Ralph Freeman into the Maiorty of the Famous and farre Renowned Citty London. All the Charge and Expence of the laborious Proiects, both by Water and Land, being the sole vndertaking of the Right Worshipfull Company of the Cloath-Workers.<i> London: Nicholas Okes, 1633.";"1629";"1629";"";"";"English";"<span class=""quote"">Londini </span>Emporia, or <span class=""quote"">London's </span>Mercatura";"This pageant was first performed in October 1629.";"";"@005799_A29_D33 London's Mercatura";"";"NaVn#006981 London / WoMo#006313 London play title";"Work by venue";"Author unmarked";"Masque or other";"";"";"TITLE";"";"";"@006152-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"John Ford";"'Tis Pity She's a Whore";"N.p.";"1631";"1631";"";"";"English";"[Speaker:] [...] There is the murderer forever stabbed,<br>
+Yet can he never die; <span class=""quote"">there lies the wanton<br>
+On racks of burning steel, </span>while in his soul<br>
+He feels the torment of his raging lust [...]";"";"";"@002329_A31_D33 'Tis Pity She's a Whore";"";"NaMa#006923 Ixion on wheel";"Work unmarked";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"";"Annotated edition";"@010015:13-14.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Randolph";"The Jealous Lovers";"N.p.; act 1, scene 7.";"1632";"1632";"";"";"English";"[Tyndarus:] I have lost all distrust, seal me my pardon<br>
+In a chaste turtles kisse. The doves that draw<br>
+The rosy chariot of the <span class=""quote"">Queen of love,<br></span>
+Shall not be linked in whiter yokes than we.";"";"";"@002365_A32_D32 The Jealous Lovers";"";"NaMa#006965 Venus aka Queen of Love";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Heywood";"London's Harbor of Health and Happiness";"Heywood, Thomas.  <i> Londini Sinus Salutis, or Londons Harbour of Health, and Happinesse. Epressed in sundry Triumphs, Pageants and Showes; at the Initiation of the Right Honorable, Christopher Clethrowe, Into the Maioralty of the farre Renowned City London.
+Written by Thoams Heywood. All the Charges and Expences of this present Ovation; being the sole undertaking of the Right Worshipfull Company of the Ironmongers. The 29. of October. Anno Salutis. 1635.<i> London: Robert Raworth, 1635.";"1635";"1635";"";"";"English";"<span class=""quote"">Londini </span>Sinus Salutis, or Londons Harbour of Health, and Happinesse. Epressed in sundry Triumphs, Pageants and Showes; at the Initiation of the Right Honorable, Christopher Clethrowe, Into the Maioralty of the farre Renowned City <span class=""quote"">London.</span>";"This pageant was first performed on 29 October 1635.";"";"@005802_A35_D35 London&#039;s Harbor of Health and Happiness";"";"NaVn#006981 London / WoMo#006313 London play title";"Work by venue";"Author unmarked";"Masque or other";"";"";"TITLE";"";"";"@006152-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Nathaniel Richards";"Messalina, the Roman Empress";"73; lines 1937-1940 [normalized spelling].";"1635";"1635";"";"";"English";"[Sauf] Twill be excellent, Rare, 
+<span class=""quote"">I fat with laughter at the rich conceit, </span>
+We'll play at Tennis with their maidenheads, <br>
+Fifty at a breakfast, shall not give me <br>
+Content.";"";"";"@002472_A35_D40 Messalina, the Roman Empress";"";"WoPh#006252 to fat with laughter";"Work unmarked";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"";"";"@010015-141.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Nathaniel Richards";"Messalina, the Roman Empress";"72; lines 1897-1902.";"1635";"1635";"";"";"English";"[Sauf:] What think you<br>
+Of a wooden <span class=""quote"">Cupid </span>brought in, <span class=""quote"">in <br>
+An antic amble, </span>making it wag like <br>
+The apish head of a French Fiddler, when he <br>
+Firks with his Fingers. ";"";"";"@002472_A35_D40 Messalina, the Roman Empress";"";"NaCa#004195 Cupid Eros / WoTo#006253 in an antic amble";"Work unmarked";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"";"";"@010015-140.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Nathaniel Richards";"Messalina, the Roman Empress";"68; lines 1778-1782.";"1635";"1635";"";"";"English";"[Nar:] A whore's invention, <span class=""quote"">a drab<br>
+Of state, </span>a cloth of Silver slut, the tricks<br> 
+Of a tempting Tissue Trull, to push his<br>
+Homes upon the Pikes of mine, where he<br>
+Should rot [...].";"";"";"@002472_A35_D40 Messalina, the Roman Empress";"";"WoTo#006254 a drab of state";"Work unmarked";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"";"";"@010015-136.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Nathaniel Richards";"Messalina, the Roman Empress";"57-58; lines 1460-1465.";"1635";"1635";"";"";"English";"[Mela:] [...] Thinks on his present state (whence came and must) 
+Then on that terrible Thunderer that sees,<br>
+<span class=""quote"">His actions kick at heaven;</span> he then no more <br>
+Would dare t'offend his Maker, but with tears, <br>
+Lament his soul's pollution.";"";"";"@002472_A35_D40 Messalina, the Roman Empress";"";"WoPh#006280 kick heels at heaven";"Work unmarked";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"";"";"@010015-128.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Henry Glapthorne";"Argalus and Parthenia";"N.p.; act 1, scene 1 [normalized spelling].";"1637";"1637";"";"";"English";"[Philarchus:]You'll scarce<br>
+Conquer a Lady with this stern discourse,<br>
+<span class=""quote"">Mars </span>did not woo <span class=""quote"">the Queen of Love </span>in Arms,<br>
+But wrapped his battered limbs in Persian silks,<br>
+Or costly Tyrian Purples, speak in smiles,<br>
+To win her tempting beauty.";"";"";"@002579_A38_D39 Argalus and Parthenia";"";"NaCa#004179 Mars Ares / NaMa#006965 Venus aka Queen of Love";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Heywood";"Londini Speculum or, London's Mirror";"Heywood, Thomas.  <i>Londini Speculum: or, Londons Mirror, Exprest in sundry Triumphs, Pageants, and Showes, at the Initiation of the right Honorable Richard Fenn, into the Mairolty of the Famous and farre renowned City London. Written by Tho. Heywood. All the Charge and Expence of these laborious projects both by Water and Land, being the sole undertaking of the Right Worshipful Company of the Habberdashers.</i> London: John Okes, 1637.";"1637";"1637";"";"";"English";"<span class=""quote"">Londini </span>Speculum or <span class=""quote"">London's </span>Mirror, Expressed in sundry Triumphs, Pageants, and Shows, at the Initiation of the right Honorable Richard Fenn, into the Mayoralty of the Famous and far-renowned City <span class=""quote"">London</span>";"This pageant was first performed on 30 October 1637.";"";"@005803_A37_D37 Londini Speculum or, London&#039;s Mirror";"";"NaVn#006981 London / WoMo#006313 London play title";"Work by venue";"Author unmarked";"Masque or other";"";"";"TITLE";"";"";"@006152-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Richard Brome";"The Florentine Friend";"Brome, Richard.  <i>The Florentine Friend.</i> 1638.";"1638";"1638";"";"";"English";"The <span class=""quote"">Florentine </span>Friend";"The text of this play is lost.";"#009009 Queen Henrietta's Men";"@005806 The Florentine Friend";"";"NaVn#008067 Florence";"Work by venue";"Author unmarked";"Masque or other";"";"";"TITLE";"";"";"@005577-Last accesssed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Thomas Heywood";"London's Peaceable Estate";"Heywood, Thomas.  <i>Londini Status Pacatus: OR, LONDONS Peaceable Estate. Exprest in sundry Triumphs, Pageants, and Shewes, at the Innitiation of the right Honourable Henry Garway, into the Majoralty of the Famous and farre Renowned City London. Written by Thoams Heywood. All the Charge and Expence, of the laborious Projects both by Water and Land, being the sole undertakings of the Right Worshipfull Society of Drapers.<i> London: John Okes, 1639.";"1639";"1639";"";"";"English";"<span class=""quote"">Londini Status Pacatus: or London's Peaceable Estate. Expressed in sundry Triumphs, Pageants, and Shows, at the Initiation of the right Honourable Henry Garway, into the Mayoralty of the Famous and far-renowned City <span class=""quote"">London. </span>";"This pageant was first performed on 29 October 1639.";"";"@005804_A39_D39 London&#039;s Peaceable Estate";"";"NaVn#006981 London / WoMo#006313 London play title";"Work by venue";"Author unmarked";"Masque or other";"";"";"TITLE";"";"";"@006152-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Francis Kynaston";"Leoline and Sydanis";"Kynaston, Francis.  <i>Leoline and Sydanis A romance of the amorous adventures of princes. Together, with sundry affectionate addresses to his mistresse, under the name of Cynthia. Written by Sir Fr. Kinnaston, knight, late one of the squires of the body to His Majesty.</i> London: Richard Heron, for Thomas Slater, 1646.  62 [normalized spelling].";"1646";"1646";"";"";"English";"240.<br>
+For <span class=""quote"">Jupiter </span>in lovers' witty slights,<br>
+Which they contrive and cunningly devise,<br>
+(Himself having been one) so much delights,<br>
+As that he oftentimes with them complies,<br>
+And <span class=""quote"">doth but laugh at lovers' perjuries:<br></span>
+For now Amanthis was a part to act,<br>
+Which to perform, she no invention lacked.
+";"";"";"@005794 Leoline and Sydanis";"";"NaMa#031058 gods laugh at lovers' perjuries / NaCa#032237 Jove Jupiter Zeus";"Work unmarked";"Author unmarked";"Poetry unspecified";"";"";"BODY OF TEXT";"Local reference";"";"@010048-Lats accessed 10 April.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Anonymous";"Mistress Parliament, Her Invitation of Mistress London";"Anonymous.  <i>Mrs. Parliament Her Invitation of Mrs. London, to a Thankesgiving Dinner. For the great and mighty Victorie, which Mr. Horton obtained over Major Powell in Wales. Their Discourse, Desires, Designes, as you may heare from their owne mouthes. Munday 29 of May, in the eight yeare of the Reigne of our soveraigne Lady Parliament. Mrs. Parliament, her Invitation to Mrs. London [...].<i> Publisher not given, 1648.";"1648";"1648";"";"";"English";"Mrs. Parliament Her Invitation of Mrs. <span class=""quote"">London, </span>to a Thanksgiving Dinner. For the great and mighty Victor<, which Mr. Horton obtained over Major Powell in Wales. Their Discourse, Desires, Designs, as you may hear from their own mouths. Monday 29 of May, in the eighth year of the Reign of our sovereign Lady Parliament";"";"";"@005801_A48_D48 Mistress Parliament, Her Invitation of Mistress ";"";"NaVn#006981 London / WoMo#006313 London play title";"Work by venue";"Author unmarked";"Masque or other";"";"";"TITLE";"";"";"@006152-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"Daniel Cudmore";"The History of Joseph";"Cudmore, Daniel.  <i>The history of Ioseph a poem / written by Daniel Cudmore, Gent.<i> London: T. Warren for the author, 1652.  19.";"1652";"1652";"";"";"English";"But Fear's a Pigmy dressed in Gorgons' clothes;<br>
+To gain her ends she'll break all nuptial oaths:<br>
+<span class=""quote"">On Lovers' perjuries they say Jove smiles,<br></span>
+And Love is still auspicious to such Wiles.";"";"";"@005795 The History of Joseph";"";"NaMa#031058 gods laugh at lovers' perjuries";"Work unmarked";"Author unmarked";"Epic and verse narrative";"";"Narrator";"BODY OF TEXT";"Local reference";"";"@010048-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"George Gerbier  d'Ouvilly";"The False Favourte Disgraced";"35; act 2, scene 1 [spelling normalized].";"1657";"1657";"";"";"English";"[Duke:] [...] What horrid sin, unknown to my clear soul,<br>
+Have I committed, meriting so great<br>
+A punishment? than which, none - temporal<br>
+More cruel: to love and be disdained!<br>
+[Is there prevention? she whose <span class=""quote"">sea of tears</span><br>
+(That might have melted Rocks) th'abyssus of<br>
+My greedy rigour hath caroused without<br>
+Sense of satiety; can she have left<br>
+One drop to pity me?";"";"";"@015257_D57 The False Favourite Disgraced";"";"WoTo#006294 sea of tears";"Work unmarked";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"George Gerbier  d'Ouvilly";"The False Favourite Disgraced";"24; act 1, scene 1.";"1657";"1657";"";"";"English";"Were you <span class=""quote"">Jove's Ganymede</span>? my noble anger<br>
+Would force mere attempt high-heavens invasion,<br>
+And from th'Olympic thunder's riffled arms<br>
+Throw headlong my revenge to Tartarus. ";"";"";"@015257_D57 The False Favourite Disgraced";"";"NaCa#032237 Jove Jupiter Zeus / NaCa#006295 Ganymede";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"Fulltext database";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"George Gerbier  d'Ouvilly";"The False Favourite Disgraced";"29; act 1.";"1657";"1657";"";"";"English";"[Rosania:] But the exuberance of your praise, was only due<br>
+To <span class=""quote"">Venus </span>self; and (if my memory fail me not)<br>
+The Author so intended them, in the last Court-Masque. ";"";"";"@015257_D57 The False Favourite Disgraced";"";"NaCa#032238 Venus Aphrodite Cytherea";"Work by character";"Author unmarked";"";"";"Dialogue";"BODY OF TEXT";"";"";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Anonymous";"The London Chanticleers";"Anonymous.  <i>The London Chaunticleres. A Witty Comoedy, Full of Various and Delightfull Mirth. Often Acted with Great Applause And never before Published.<i> London: Simon Miller, 1659.";"1659";"1659";"";"";"English";"The <span class=""quote"">London </span>Chanticleers";"** This comic interlude was first performed in 1659.";"";"@005808_A59_D59 The London Chanticleers";"";"NaVn#006981 London / WoMo#006313 London play title";"Work by venue";"Author unmarked";"Comedy";"";"";"TITLE";"";"";"@006152-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Anonymous";"British Library Lansdowne MS 1185";"25 verso [normalized spelling].";"1660";"1660";"";"";"English";"Of a a false<br><span class=""quote"">
+- Having both the key Of Officer and Office; set all hearts i' the state <br>
+To what Tune pleased his Ears; that now <br>
+He was the Ivy which had hid my Princely Trunk, <br>
+And sucked my virtue out on't.</span>";"";"";"@005396 British Library Lansdowne MS 1185";"";"WoPa#006306 Having both the key";"Work unmarked";"Author unmarked";"";"";"";"ANTHOLOGY ENTRY";"MQ_GENRE / MQ_TYPOGRAPHY_Heading";"";"@006121-Last accessed 10 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"_ Anonymous";"The Florentine Ladies";"Anonymous.  <i>The Florentine Ladies.</i>  1665.";"1665";"1665";"";"";"English";"The <span class=""quote"">Florentine </span>Ladies";"";"";"@005807 The Florentine Ladies";"";"NaVn#008067 Florence";"Work by venue";"Author unmarked";"Masque or other";"";"";"TITLE";"";"";"@005577-Last accessed 12 April 2021.";"";"";"   Hohl-Trillini Regula"
+" For Hecuba!";"unedited";"John Banks";"The Destruction of Troy";"John Banks.  <i>The Destruction of Troy. A Tragedy, Acted at His Royal Highness the Duke's Theatre. </i>London: A. G. and J. P., 1679.  67; act 5, scene 1.";"1678";"1678";"1678";"1678";"English";"[Cassandra (raves):] [...]  Now all the Grecians roar;<br>
+The Thunder's loud, and Pallas Temple shakes,<br>
+The Noise, <span class=""quote"">mad sleeping Hecuba </span>awakes;<br>
+Half naked, and distract along she reels,<br>
+A Tribe of ravish'd Matrons at her heels - [...].";"";"";"@005256_A78_D79 The Destruction of Troy";"";"NaCa#006297 Hecuba / NaMa#006298 Hecuba maddened by grief";"Work by character";"Author unmarked";"Tragedy";"";"Dialogue";"BODY OF TEXT";"Local reference";"";"@010048-Last accessed 6 April 2021.";"";"";"   Hohl-Trillini Regula"
+" this, give these fellows some means to the king:";"unedited";"George Villiers, 2nd Duke of Buckingham";"The Restauration";"";"1687";"1687";"";"";"English";"<span class=""quote"">Endymion</span>";"";"";"@005243 The Restauration";"";"NaCa#055551 Endymion";"Work by character";"Author unmarked";"";"";"";"CHARACTERNAME";"";"Reading";"";"";"";"   Hohl-Trillini Regula"

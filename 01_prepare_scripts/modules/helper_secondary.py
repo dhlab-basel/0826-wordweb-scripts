@@ -30,7 +30,7 @@ def info(text, line, csv_file):
         else:
             book = {
                 "id": id.group(1),
-                "page": "no page"
+                "page": None
             }
 
             books.append(book)

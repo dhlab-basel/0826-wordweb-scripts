@@ -1,7 +1,7 @@
 {
-  "ww_78c9c657a6d6a82c": {
+  "ww_5b6da0ed971ebeb7": {
     "hasVenueInternalId": "#008000",
-    "hasPlaceVenue": "Unknown London venue"
+    "hasPlaceVenue": "unknown venue"
   },
   "ww_c741d607338b9c9f": {
     "hasVenueInternalId": "#008002",
@@ -32,13 +32,13 @@
     "hasVenueInternalId": "#008016",
     "hasPlaceVenue": "Boar's Head"
   },
-  "ww_25bb6c5b90a2e2fe": {
+  "ww_2ac44791912e7737": {
     "hasVenueInternalId": "#008012",
-    "hasPlaceVenue": "Trinity College, Cambridge"
+    "hasPlaceVenue": "Trinity College"
   },
-  "ww_b00be8347d0cb16d": {
+  "ww_673528dd47ffcc8f": {
     "hasVenueInternalId": "#008010",
-    "hasPlaceVenue": "Trinity College, Oxford"
+    "hasPlaceVenue": "Trinity College "
   },
   "ww_5d0d5aee532a0b4b": {
     "hasVenueInternalId": "#008006",
@@ -48,9 +48,9 @@
     "hasVenueInternalId": "#008009",
     "hasPlaceVenue": "Red Bull"
   },
-  "ww_711c5ee27a4eef5d": {
+  "ww_6aa5aa597850d3c1": {
     "hasVenueInternalId": "#008014",
-    "hasPlaceVenue": "Banqueting House, London"
+    "hasPlaceVenue": "Banqueting House"
   },
   "ww_c2cdd6ec99df368c": {
     "hasVenueInternalId": "#008004",
@@ -60,9 +60,9 @@
     "hasVenueInternalId": "#008011",
     "hasPlaceVenue": "Inner Temple"
   },
-  "ww_bbc60e095377316e": {
+  "ww_b692201f482f8ee2": {
     "hasVenueInternalId": "#008015",
-    "hasPlaceVenue": "Archbishop's Palace, London"
+    "hasPlaceVenue": "Archbishop's Palace"
   },
   "ww_ce4161054e738f9e": {
     "hasVenueInternalId": "#008008",
@@ -80,21 +80,21 @@
     "hasVenueInternalId": "#008013",
     "hasPlaceVenue": "Ludlow Castle"
   },
-  "ww_a0fafa12a8a05945": {
+  "ww_6f622bec3fbe84db": {
     "hasVenueInternalId": "#008024",
-    "hasPlaceVenue": "Christ Church College, Oxford"
+    "hasPlaceVenue": "Christ Church College"
   },
-  "ww_8240574032bbe0c1": {
+  "ww_624980e0c706cd28": {
     "hasVenueInternalId": "#008019",
-    "hasPlaceVenue": "St John's College, Cambridge"
+    "hasPlaceVenue": "St. John's  College"
   },
   "ww_a8b0dec20bddad7c": {
     "hasVenueInternalId": "#008020",
     "hasPlaceVenue": "Werburgh Street Theatre"
   },
-  "ww_0b8fb34fd58acb3a": {
+  "ww_1f74ce94970699b1": {
     "hasVenueInternalId": "#008029",
-    "hasPlaceVenue": "King's College, Cambridge"
+    "hasPlaceVenue": "King's College "
   },
   "ww_1551f71644987dd1": {
     "hasVenueInternalId": "#008026",
@@ -120,9 +120,9 @@
     "hasVenueInternalId": "#008035",
     "hasPlaceVenue": "Middle Temple"
   },
-  "ww_975440f5d6d132f3": {
+  "ww_c1c8db7cb45339ac": {
     "hasVenueInternalId": "#008041",
-    "hasPlaceVenue": "St Johns College, Oxford"
+    "hasPlaceVenue": "St Johns College"
   },
   "ww_6f09b13a5da5097f": {
     "hasVenueInternalId": "#008033",
@@ -136,9 +136,9 @@
     "hasVenueInternalId": "#008051",
     "hasPlaceVenue": "St. Paul's Playhouse"
   },
-  "ww_ce5d3be654f51de8": {
+  "ww_0d9fb907d60020b6": {
     "hasVenueInternalId": "#008050",
-    "hasPlaceVenue": "Unknown Oxford location"
+    "hasPlaceVenue": "unknown location"
   },
   "ww_0ba761f4e861d087": {
     "hasVenueInternalId": "#008021",
@@ -176,21 +176,21 @@
     "hasVenueInternalId": "#008040",
     "hasPlaceVenue": "Isle of Dogs"
   },
-  "ww_39d2f198b2fac5e5": {
+  "ww_57a4663b626b5221": {
     "hasVenueInternalId": "#008042",
-    "hasPlaceVenue": "Cuckolds Haven"
+    "hasPlaceVenue": "Cuckold's Haven"
   },
   "ww_1b198d59e3226225": {
     "hasVenueInternalId": "#008045",
     "hasPlaceVenue": "Hellespont"
   },
-  "ww_883e765db6dada7b": {
+  "ww_a0011f949973de99": {
     "hasVenueInternalId": "#008046",
-    "hasPlaceVenue": "Christ's College, Cambridge"
+    "hasPlaceVenue": "Christ's College"
   },
-  "ww_f69737d3276ca2cf": {
+  "ww_7c02627b419b6834": {
     "hasVenueInternalId": "#008047",
-    "hasPlaceVenue": "Thomas Cranmers House"
+    "hasPlaceVenue": "Thomas Cranmer's House"
   },
   "ww_33a07aeb4029717d": {
     "hasVenueInternalId": "#008048",
@@ -207,5 +207,21 @@
   "ww_2a78aa95e29a775f": {
     "hasVenueInternalId": "#008053",
     "hasPlaceVenue": "Rotten Row"
+  },
+  "ww_198c3776106d40c9": {
+    "hasVenueInternalId": "#008054",
+    "hasPlaceVenue": "Newgate Prison"
+  },
+  "ww_219e4dd77aedb0bc": {
+    "hasVenueInternalId": "#008055",
+    "hasPlaceVenue": "Hoxton"
+  },
+  "ww_11a77302134e0f56": {
+    "hasVenueInternalId": "#008066",
+    "hasPlaceVenue": "London Bridge"
+  },
+  "ww_d8e9c5da623b8aa4": {
+    "hasVenueInternalId": "#008067",
+    "hasPlaceVenue": "Florence"
   }
 }

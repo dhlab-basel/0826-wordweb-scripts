@@ -1722,7 +1722,9 @@
   "ww_7a715a856e397a0a": {
     "hasFirstName": "Barnabe",
     "hasLastName": "Barnes",
-    "hasDescription": "English poet 1571\u20131609",
+    "birthExact": "1571",
+    "deathExact": "1609",
+    "hasDescription": "English poet",
     "hasGender": "male",
     "sql": 4317
   },
@@ -1952,6 +1954,14 @@
     "hasGender": "male",
     "sql": 3578
   },
+  "ww_d5cf4e9350102200": {
+    "hasFirstName": "Jacob",
+    "hasLastName": "Battier",
+    "deathExact": "1643",
+    "hasDescription": "Swiss clerk",
+    "hasGender": "male",
+    "sql": 4726
+  },
   "ww_0a3e1263acad1228": {
     "hasFirstName": "Charles",
     "hasLastName": "Baudelaire",
@@ -1960,6 +1970,15 @@
     "hasDescription": "French poet",
     "hasGender": "male",
     "sql": 485
+  },
+  "ww_03b313c974a2cb17": {
+    "hasFirstName": "Caspar",
+    "hasLastName": "Bauhin",
+    "birthExact": "1560",
+    "deathExact": "1624",
+    "hasDescription": "Swiss physician",
+    "hasGender": "male",
+    "sql": 4727
   },
   "ww_233549b5e20bde77": {
     "hasFirstName": "Richard",
@@ -2129,7 +2148,7 @@
     "hasLastName": "Beddoes",
     "birthExact": "1760",
     "deathExact": "1808",
-    "hasDescription": "Egnlish physician and academic",
+    "hasDescription": "English physician and academic",
     "hasGender": "male",
     "sql": 3064
   },
@@ -2307,6 +2326,8 @@
   "ww_06d91df69419f649": {
     "hasFirstName": "Margaret",
     "hasLastName": "Bellasys",
+    "activeStart": "1611",
+    "activeEnd": "1630",
     "hasDescription": "English (?) commonplace book keeper",
     "hasGender": "female",
     "sql": 4338
@@ -3556,6 +3577,22 @@
     "hasGender": "male",
     "sql": 2858
   },
+  "ww_49dc706b3064c4f7": {
+    "hasFirstName": "Richard",
+    "hasLastName": "Boyle, Earl of Cork",
+    "hasDescription": "English politician 1566\u20131643",
+    "hasGender": "male",
+    "sql": 4724
+  },
+  "ww_bb1245f214d19d72": {
+    "hasFirstName": "Richard",
+    "hasLastName": "Boyle, Earl of Dungarvan",
+    "birthExact": "1612",
+    "deathExact": "1698",
+    "hasDescription": "Anglo-Irish nobleman",
+    "hasGender": "male",
+    "sql": 4720
+  },
   "ww_1cdd74f664c0df09": {
     "hasFirstName": "John",
     "hasLastName": "Boyle, Earl of Orrery",
@@ -3633,6 +3670,14 @@
     "hasDescription": "U.S. scholar",
     "hasGender": "male",
     "sql": 4527
+  },
+  "ww_7d1b33dd6d7720ad": {
+    "hasFirstName": "Peter",
+    "hasLastName": "Bradshaw",
+    "birthExact": "1962",
+    "hasDescription": "English film critic",
+    "hasGender": "male",
+    "sql": 4723
   },
   "ww_3775f50a3fccb8f0": {
     "hasFirstName": "Kim",
@@ -4858,6 +4903,15 @@
     "hasGender": "male",
     "sql": 1188
   },
+  "ww_7c97d276ddf25e2e": {
+    "hasFirstName": "Johannes II",
+    "hasLastName": "Buxtorf",
+    "birthExact": "1599",
+    "deathExact": "1664",
+    "hasDescription": "Swiss scholar",
+    "hasGender": "male",
+    "sql": 4735
+  },
   "ww_9e888f150c2e3582": {
     "hasFirstName": "Barry",
     "hasLastName": "Buzan",
@@ -5391,7 +5445,9 @@
   "ww_235559d4361e230c": {
     "hasFirstName": "James",
     "hasLastName": "Carnegie, Earl of Southesk",
-    "hasDescription": "Scottish poet 1827\u20131905",
+    "birthExact": "1827",
+    "deathExact": "1905",
+    "hasDescription": "Scottish poet",
     "hasGender": "male",
     "sql": 1721
   },
@@ -5791,8 +5847,11 @@
   "ww_666a3a9b26c8ac7f": {
     "hasFirstName": "Susanna",
     "hasLastName": "Centlivre",
-    "hasDescription": "English dramatist [1667\u20131670]-1723",
-    "hasGender": "male",
+    "birthStart": "1667",
+    "birthEnd": "1670",
+    "deathExact": "1723",
+    "hasDescription": "English dramatist",
+    "hasGender": "female",
     "sql": 226
   },
   "ww_a3d17765faa21a91": {
@@ -5846,8 +5905,8 @@
     "hasGender": "male",
     "sql": 2481
   },
-  "ww_2eeb59f5019d3554": {
-    "hasFirstName": "James, Sir",
+  "ww_1d239deb2ec0cc83": {
+    "hasFirstName": "Sir James",
     "hasLastName": "Chamberlaine",
     "deathExact": "1699",
     "hasDescription": "English writer",
@@ -6286,7 +6345,7 @@
     "hasFirstName": "Janet",
     "hasLastName": "Clare",
     "hasDescription": "English academic",
-    "hasGender": "male",
+    "hasGender": "female",
     "sql": 4531
   },
   "ww_e4ecce9ad1ac3368": {
@@ -6407,6 +6466,15 @@
     "hasDescription": "English Royalist poet",
     "hasGender": "male",
     "sql": 4289
+  },
+  "ww_939a6ab3848dcabf": {
+    "hasFirstName": "Henry ",
+    "hasLastName": "Clifford, Earl of Cumberland",
+    "birthExact": "1592",
+    "deathExact": "1643",
+    "hasDescription": "English aristocrat",
+    "hasGender": "male",
+    "sql": 4732
   },
   "ww_41613503d349bf66": {
     "hasFirstName": "William",
@@ -7010,7 +7078,9 @@
   "ww_3bba108f51aa8607": {
     "hasFirstName": "Anthony",
     "hasLastName": "Copley",
-    "hasDescription": "English Catholic poet 1567\u20131609",
+    "birthExact": "1567",
+    "deathExact": "1609",
+    "hasDescription": "English Catholic poet",
     "hasGender": "male",
     "sql": 2987
   },
@@ -7510,6 +7580,14 @@
     "hasDescription": "English novelist , n\u00e9e Thomas",
     "hasGender": "male",
     "sql": 3986
+  },
+  "ww_215df65408d32250": {
+    "hasFirstName": "Daniel",
+    "hasLastName": "Cudmore",
+    "activeExact": "1652",
+    "hasDescription": "English poet",
+    "hasGender": "male",
+    "sql": 4745
   },
   "ww_3c2ace9c81f90cbd": {
     "hasFirstName": "George",
@@ -8626,6 +8704,15 @@
     "hasGender": "male",
     "sql": 1154
   },
+  "ww_eb1bdcfd363c15e8": {
+    "hasFirstName": "Sir Kenelm",
+    "hasLastName": "Digby",
+    "birthExact": "1603",
+    "deathExact": "1665",
+    "hasDescription": "English courtier",
+    "hasGender": "male",
+    "sql": 4734
+  },
   "ww_246e8bda427107c8": {
     "hasFirstName": "Sir Everard",
     "hasLastName": "Digby",
@@ -8646,7 +8733,9 @@
   "ww_971e0bd69e639a0c": {
     "hasFirstName": "Charles Wentworth",
     "hasLastName": "Dilke",
-    "hasDescription": "English literary critic 1789\u20131864",
+    "birthExact": "1789",
+    "deathExact": "1864",
+    "hasDescription": "English literary critic",
     "hasGender": "male",
     "sql": 4506
   },
@@ -8663,7 +8752,7 @@
     "hasLastName": "Dillon",
     "activeExact": "2000",
     "hasDescription": "U.S. academic",
-    "hasGender": "male",
+    "hasGender": "female",
     "sql": 4468
   },
   "ww_dc032ff21537fb9a": {
@@ -8832,7 +8921,9 @@
   "ww_1dc363175af9132f": {
     "hasFirstName": "Ian",
     "hasLastName": "Donaldson",
-    "hasDescription": "Scottish (?) academic",
+    "birthExact": "1935",
+    "deathExact": "2020",
+    "hasDescription": "Australian scholar",
     "hasGender": "male",
     "sql": 4550
   },
@@ -9194,6 +9285,13 @@
     "hasGender": "male",
     "sql": 2853
   },
+  "ww_773baa1624383b77": {
+    "hasFirstName": "Elizabeth, Lady",
+    "hasLastName": "Dungarvan",
+    "hasDescription": "English aristocrat",
+    "hasGender": "male",
+    "sql": 4729
+  },
   "ww_f0fad88c8f1d079c": {
     "hasFirstName": "Leslie",
     "hasLastName": "Dunkling",
@@ -9247,7 +9345,9 @@
   "ww_8e781f3f3e6e8547": {
     "hasFirstName": "Charles",
     "hasLastName": "Dunster",
-    "hasDescription": "English priest and editor 1750\u20131816",
+    "birthExact": "1750",
+    "deathExact": "1816",
+    "hasDescription": "English priest and editor",
     "hasGender": "male",
     "sql": 4198
   },
@@ -9950,7 +10050,9 @@
   "ww_91f16cfbb41e4460": {
     "hasFirstName": "Brian",
     "hasLastName": "Fairfax",
-    "hasDescription": "English anthologist 1633\u20131711",
+    "birthExact": "1633",
+    "deathExact": "1711",
+    "hasDescription": "English anthologist",
     "hasGender": "male",
     "sql": 4713
   },
@@ -10969,6 +11071,15 @@
     "hasGender": "male",
     "sql": 2205
   },
+  "ww_c813b52daf9d9164": {
+    "hasFirstName": "Johann Jacob",
+    "hasLastName": "Frey",
+    "birthExact": "1606",
+    "deathExact": "1636",
+    "hasDescription": "Swiss scholar",
+    "hasGender": "male",
+    "sql": 4719
+  },
   "ww_b1aae475343b3f91": {
     "hasFirstName": "Donna",
     "hasLastName": "Freydkin",
@@ -11176,7 +11287,9 @@
   "ww_c711dcfe1549c7c3": {
     "hasFirstName": "William",
     "hasLastName": "Gager",
-    "hasDescription": "English jurist and dramatist 1555\u20131622",
+    "birthExact": "1555",
+    "deathExact": "1622",
+    "hasDescription": "English jurist and dramatist",
     "hasGender": "male",
     "sql": 4354
   },
@@ -11714,7 +11827,9 @@
   "ww_8370026ebdec73ae": {
     "hasFirstName": "Anthony",
     "hasLastName": "Gilby",
-    "hasDescription": "English Puritan clergyman and translator 1510\u20131585",
+    "birthExact": "1510",
+    "deathExact": "1585",
+    "hasDescription": "English Puritan clergyman and translator",
     "hasGender": "male",
     "sql": 4410
   },
@@ -12000,7 +12115,9 @@
   "ww_5e5e8f5620d2719a": {
     "hasFirstName": "Christopher",
     "hasLastName": "Goodman",
-    "hasDescription": "English ecclesiastical reforming clergyman and translator 1520\u20131603",
+    "birthExact": "1520",
+    "deathExact": "1603",
+    "hasDescription": "English ecclesiastical reforming clergyman and translator",
     "hasGender": "male",
     "sql": 4409
   },
@@ -12575,7 +12692,9 @@
   "ww_780e677ed1d8302b": {
     "hasFirstName": "Nicholas",
     "hasLastName": "Grimald",
-    "hasDescription": "English poet, translator and dramatist 1519\u20131562",
+    "birthExact": "1519",
+    "deathExact": "1562",
+    "hasDescription": "English poet, translator and dramatist",
     "hasGender": "male",
     "sql": 4569
   },
@@ -12647,6 +12766,15 @@
     "hasGender": "male",
     "sql": 274
   },
+  "ww_4065f8268acb18c4": {
+    "hasFirstName": "Samuel I",
+    "hasLastName": "Grynaeus",
+    "birthExact": "1595",
+    "deathExact": "1658",
+    "hasDescription": "Swiss clergyman",
+    "hasGender": "male",
+    "sql": 4728
+  },
   "ww_aad0ef20f6babd24": {
     "hasFirstName": "Tatjana",
     "hasLastName": "Gsovsky",
@@ -12676,7 +12804,9 @@
   "ww_504c9c25bd694690": {
     "hasFirstName": "Stefano",
     "hasLastName": "Guazzo",
-    "hasDescription": "Italian writer 1530\u20131593",
+    "birthExact": "1530",
+    "deathExact": "1593",
+    "hasDescription": "Italian writer",
     "hasGender": "male",
     "sql": 4562
   },
@@ -13332,6 +13462,8 @@
   "ww_338f283904c21856": {
     "hasFirstName": "Thomas",
     "hasLastName": "Harriot",
+    "activeStart": "1694",
+    "activeEnd": "1603",
     "hasDescription": "English anthologist",
     "hasGender": "male",
     "sql": 4395
@@ -13660,7 +13792,9 @@
   "ww_9e7060a82e30e40a": {
     "hasFirstName": "Mavis Doriel",
     "hasLastName": "Hay",
-    "hasDescription": "English crime writer 1894\u20131979",
+    "birthExact": "1894",
+    "deathExact": "1979",
+    "hasDescription": "English crime writer",
     "hasGender": "male",
     "sql": 4402
   },
@@ -14680,9 +14814,9 @@
     "hasGender": "male",
     "sql": 222
   },
-  "ww_af36f0470a7070bf": {
+  "ww_8f10037a060488a1": {
     "hasFirstName": "Regula",
-    "hasLastName": "Hohl-Trillini",
+    "hasLastName": "Hohl Trillini",
     "birthExact": "1964",
     "hasDescription": "Swiss scholar",
     "hasGender": "female",
@@ -14820,7 +14954,9 @@
   "ww_995972c17ee116c0": {
     "hasFirstName": "Barten",
     "hasLastName": "Holyday",
-    "hasDescription": "English dramatist and clergyman 1593\u20131661",
+    "birthExact": "1593",
+    "deathExact": "1661",
+    "hasDescription": "English dramatist and clergyman",
     "hasGender": "male",
     "sql": 4316
   },
@@ -14904,7 +15040,9 @@
   "ww_129a8fe47c034804": {
     "hasFirstName": "Charles",
     "hasLastName": "Hoole",
-    "hasDescription": "English cleric, educationalist and translator 1610\u20131667",
+    "birthExact": "1610",
+    "deathExact": "1667",
+    "hasDescription": "English cleric, educationalist and translator",
     "hasGender": "male",
     "sql": 4555
   },
@@ -15320,6 +15458,14 @@
     "hasDescription": "Scottish philosopher, economist, and historian",
     "hasGender": "male",
     "sql": 1327
+  },
+  "ww_9685232f47f338d5": {
+    "hasFirstName": "Robert D.",
+    "hasLastName": "Hume",
+    "birthExact": "1944",
+    "hasDescription": "U.S. academic",
+    "hasGender": "male",
+    "sql": 4737
   },
   "ww_c029e8d37fdab621": {
     "hasFirstName": "David",
@@ -17767,6 +17913,13 @@
     "hasGender": "male",
     "sql": 4653
   },
+  "ww_3314713b01bb79ec": {
+    "hasFirstName": "Francis",
+    "hasLastName": "Kynaston",
+    "hasDescription": "English lawyer and poet 1587.-1642",
+    "hasGender": "male",
+    "sql": 4744
+  },
   "ww_8ba8404c1efda77b": {
     "hasFirstName": "Carl L.",
     "hasLastName": "L'Amoureux",
@@ -18571,6 +18724,14 @@
     "hasGender": "male",
     "sql": 3823
   },
+  "ww_844e2046b7a76317": {
+    "hasFirstName": "G.A. B.",
+    "hasLastName": "Leuschner",
+    "activeExact": "1903",
+    "hasDescription": "German scholar",
+    "hasGender": "male",
+    "sql": 4741
+  },
   "ww_0e82de631d672dcc": {
     "hasFirstName": "Ralph",
     "hasLastName": "Lever",
@@ -19328,6 +19489,15 @@
     "hasGender": "male",
     "sql": 3887
   },
+  "ww_064ca5cfed6ab534": {
+    "hasFirstName": "Christoph",
+    "hasLastName": "L\u00fcthard",
+    "birthExact": "1590",
+    "deathExact": "1663",
+    "hasDescription": "Swiss clergyman and scholar",
+    "hasGender": "male",
+    "sql": 4731
+  },
   "ww_3b90e00a6e5ea611": {
     "hasFirstName": "Henry",
     "hasLastName": "Luttrell",
@@ -19718,7 +19888,9 @@
   "ww_f98e324190af77e5": {
     "hasFirstName": "William Dunn",
     "hasLastName": "Macray",
-    "hasDescription": "English librarian, cleric and historian 1826\u20131916",
+    "birthExact": "1826",
+    "deathExact": "1916",
+    "hasDescription": "English librarian, cleric and historian",
     "hasGender": "male",
     "sql": 4482
   },
@@ -20481,6 +20653,14 @@
     "hasDescription": "English academic",
     "hasGender": "female",
     "sql": 4413
+  },
+  "ww_1389fc1afc8e689b": {
+    "hasFirstName": "J. C.",
+    "hasLastName": "Maxwell",
+    "activeExact": "1953",
+    "hasDescription": "British scholar",
+    "hasGender": "male",
+    "sql": 4716
   },
   "ww_4e1e711b3fb73d62": {
     "hasFirstName": "Frederick",
@@ -22604,7 +22784,9 @@
   "ww_f32bede8ddcef974": {
     "hasFirstName": "Richard",
     "hasLastName": "Niccols",
-    "hasDescription": "English poet and editor 1584\u20131616",
+    "birthExact": "1584",
+    "deathExact": "1616",
+    "hasDescription": "English poet and editor",
     "hasGender": "male",
     "sql": 3967
   },
@@ -23416,7 +23598,9 @@
   "ww_0ca4e481c61aded0": {
     "hasFirstName": "John",
     "hasLastName": "Palsgrave",
-    "hasDescription": "English brief and textbook author 1485 \u2013 1554",
+    "birthExact": "1485",
+    "deathExact": "1554",
+    "hasDescription": "English brief and textbook author",
     "hasGender": "male",
     "sql": 4604
   },
@@ -23559,7 +23743,9 @@
   "ww_8092a3bd65d9ed72": {
     "hasFirstName": "Thomas Marc",
     "hasLastName": "Parrott",
-    "hasDescription": "U.S. scholar 1866\u20131960",
+    "birthExact": "1866",
+    "deathExact": "1960",
+    "hasDescription": "U.S. scholar",
     "hasGender": "male",
     "sql": 4304
   },
@@ -23588,6 +23774,15 @@
     "hasDescription": "U.S. academic and translator",
     "hasGender": "male",
     "sql": 2397
+  },
+  "ww_ef130d60929706ab": {
+    "hasFirstName": "Robert",
+    "hasLastName": "Parsons",
+    "birthExact": "1546",
+    "deathExact": "1610",
+    "hasDescription": "English Catholic priest",
+    "hasGender": "male",
+    "sql": 4743
   },
   "ww_ee72b899c35fb267": {
     "hasFirstName": "Frances",
@@ -24256,7 +24451,9 @@
   "ww_89912aaebe63d0cd": {
     "hasFirstName": "Frederick",
     "hasLastName": "Pilon",
-    "hasDescription": "Irish actor and dramatist 1750\u20131788",
+    "birthExact": "1750",
+    "deathExact": "1788",
+    "hasDescription": "Irish actor and dramatist",
     "hasGender": "male",
     "sql": 4068
   },
@@ -24320,7 +24517,9 @@
   "ww_21bea14a9f836ddf": {
     "hasFirstName": "_",
     "hasLastName": "Piovano Arlotto",
-    "hasDescription": "Italian comic writer 1396\u20131484, real name Arlotto Mainardi",
+    "birthExact": "1396",
+    "deathExact": "1484",
+    "hasDescription": "Italian comic writer , real name Arlotto Mainardi",
     "hasGender": "male",
     "sql": 4469
   },
@@ -24387,14 +24586,16 @@
   "ww_c3592b0e6072ee4c": {
     "hasFirstName": "Sylvia",
     "hasLastName": "Plath",
-    "hasDescription": "U.S. poet 1932\u20131963",
+    "birthExact": "1932",
+    "deathExact": "1963",
+    "hasDescription": "U.S. poet",
     "hasGender": "male",
     "sql": 2900
   },
   "ww_ba6d84f2f8696411": {
     "hasFirstName": "_",
     "hasLastName": "Plato",
-    "hasDescription": "Greek philosopher [428-423] BC \u2013 [348-347] BC",
+    "hasDescription": "Greek philosopher [428-423] BC-[348-347] BC",
     "hasGender": "male",
     "sql": 4293
   },
@@ -24409,7 +24610,7 @@
   "ww_fd2bbed82dcb70a3": {
     "hasFirstName": "Titus Maccius",
     "hasLastName": "Plautus",
-    "hasDescription": "Roman dramatist 254 BC\u2013184 BC",
+    "hasDescription": "Roman dramatist 254 BC-184 BC",
     "hasGender": "male",
     "sql": 3282
   },
@@ -24431,6 +24632,15 @@
     "hasGender": "male",
     "sql": 2311
   },
+  "ww_a36762aacb8f9507": {
+    "hasFirstName": "Edmund",
+    "hasLastName": "Plowden",
+    "birthExact": "1518",
+    "deathExact": "1585",
+    "hasDescription": "English jurist",
+    "hasGender": "male",
+    "sql": 4738
+  },
   "ww_b9279061ff195fe1": {
     "hasFirstName": "Edward Hayes",
     "hasLastName": "Plumptre",
@@ -24443,7 +24653,9 @@
   "ww_6c51470ea79560d4": {
     "hasFirstName": "Anne",
     "hasLastName": "Plumptre",
-    "hasDescription": "English writer and translator 1760\u20131818",
+    "birthExact": "1760",
+    "deathExact": "1818",
+    "hasDescription": "English writer and translator",
     "hasGender": "male",
     "sql": 4000
   },
@@ -24479,6 +24691,14 @@
     "hasDescription": "U.S. journalist",
     "hasGender": "male",
     "sql": 2919
+  },
+  "ww_b431265a69de1c77": {
+    "hasFirstName": "-",
+    "hasLastName": "Pojana",
+    "activeExact": "2021",
+    "hasDescription": "Italian comedian and actor , real name Andrea Pennacchi",
+    "hasGender": "male",
+    "sql": 4721
   },
   "ww_66be1c1b0fbdc303": {
     "hasFirstName": "Joe",
@@ -24766,7 +24986,9 @@
   "ww_67028e31e9e96739": {
     "hasFirstName": "Thomas",
     "hasLastName": "Preston",
-    "hasDescription": "English dramatist 1537\u20131598",
+    "birthExact": "1537",
+    "deathExact": "1598",
+    "hasDescription": "English dramatist",
     "hasGender": "male",
     "sql": 4534
   },
@@ -24857,7 +25079,7 @@
   "ww_0958b5f3869f1a89": {
     "hasFirstName": "Syrus",
     "hasLastName": "Publilius",
-    "hasDescription": "Roman aphorist fl. 85 BC\u201343 BC",
+    "hasDescription": "Roman aphorist fl. 85 BC-43 BC",
     "hasGender": "male",
     "sql": 3889
   },
@@ -24980,7 +25202,7 @@
   "ww_5b8458bfe144b4bf": {
     "hasFirstName": "Marcus Fabius",
     "hasLastName": "Quintilianus",
-    "hasDescription": "Roman orator and rhetorician 35\u2013100",
+    "hasDescription": "Roman orator and rhetorician 35-100",
     "hasGender": "male",
     "sql": 2768
   },
@@ -25063,7 +25285,9 @@
   "ww_adbda22b051734e3": {
     "hasFirstName": "Harris",
     "hasLastName": "Rackham",
-    "hasDescription": "English scholar 1868\u20131944",
+    "birthExact": "1868",
+    "deathExact": "1944",
+    "hasDescription": "English scholar",
     "hasGender": "male",
     "sql": 4551
   },
@@ -25767,7 +25991,7 @@
     "hasFirstName": "Catherine",
     "hasLastName": "Richardson",
     "hasDescription": "British scholar",
-    "hasGender": "male",
+    "hasGender": "female",
     "sql": 4688
   },
   "ww_faa454807b72951b": {
@@ -25881,7 +26105,9 @@
   "ww_207424f444d850b4": {
     "hasFirstName": "Emma",
     "hasLastName": "Roberts",
-    "hasDescription": "English travel writer and poet 1794\u20131840",
+    "birthExact": "1794",
+    "deathExact": "1840",
+    "hasDescription": "English travel writer and poet",
     "hasGender": "male",
     "sql": 3983
   },
@@ -26037,6 +26263,15 @@
     "hasDescription": "British film director",
     "hasGender": "male",
     "sql": 468
+  },
+  "ww_3f6ef67922fb6327": {
+    "hasFirstName": "Robert",
+    "hasLastName": "Robotham",
+    "activeStart": "1577",
+    "activeEnd": "1623",
+    "hasDescription": "English clergyman",
+    "hasGender": "male",
+    "sql": 4725
   },
   "ww_872d5adf95e50bb2": {
     "hasFirstName": "Thomas",
@@ -26393,14 +26628,18 @@
   "ww_d45e9480e6e96d57": {
     "hasFirstName": "Nicholas",
     "hasLastName": "Rowe",
-    "hasDescription": "English dramatist 1674\u20131718",
+    "birthExact": "1674",
+    "deathExact": "1718",
+    "hasDescription": "English dramatist",
     "hasGender": "male",
     "sql": 3911
   },
   "ww_56706b5e10a40c89": {
     "hasFirstName": "Elizabeth Singer",
     "hasLastName": "Rowe",
-    "hasDescription": "English English poet, essayist and novelist n\u00e9e Singer, 1674\u20131737",
+    "birthExact": "1674",
+    "deathExact": "1737",
+    "hasDescription": "English English poet, essayist and novelist",
     "hasGender": "male",
     "sql": 2972
   },
@@ -26663,7 +26902,9 @@
   "ww_6a3004c0c56f329c": {
     "hasFirstName": "Vita",
     "hasLastName": "Sackville-West",
-    "hasDescription": "English novelist 1892\u20131962",
+    "birthExact": "1892",
+    "deathExact": "1962",
+    "hasDescription": "English novelist",
     "hasGender": "male",
     "sql": 1736
   },
@@ -26783,7 +27024,9 @@
   "ww_d6693f3e9bbd4cc4": {
     "hasFirstName": "Thomas",
     "hasLastName": "Sampson",
-    "hasDescription": "English Puritan theologian and translator 1517\u20131589",
+    "birthExact": "1517",
+    "deathExact": "1589",
+    "hasDescription": "English Puritan theologian and translator",
     "hasGender": "male",
     "sql": 4411
   },
@@ -27786,7 +28029,9 @@
   "ww_dad51991851a1bbf": {
     "hasFirstName": "Richard Herne",
     "hasLastName": "Shepherd",
-    "hasDescription": "English bibliographer 1842\u20131895",
+    "birthExact": "1842",
+    "deathExact": "1895",
+    "hasDescription": "English bibliographer",
     "hasGender": "male",
     "sql": 4200
   },
@@ -28032,10 +28277,21 @@
     "hasGender": "male",
     "sql": 2989
   },
+  "ww_629d20e9f3edb3a1": {
+    "hasFirstName": "Robert",
+    "hasLastName": "Sidney, Earl of Leicester",
+    "birthExact": "1595",
+    "deathExact": "1677",
+    "hasDescription": "English politician",
+    "hasGender": "male",
+    "sql": 4733
+  },
   "ww_8571d8db7d86fff6": {
     "hasFirstName": "Friedrich",
     "hasLastName": "Sieburg",
-    "hasDescription": "German journalist 1893\u20131964",
+    "birthExact": "1893",
+    "deathExact": "1964",
+    "hasDescription": "German journalist",
     "hasGender": "male",
     "sql": 3910
   },
@@ -28046,6 +28302,15 @@
     "hasDescription": "Swiss sports journalist",
     "hasGender": "male",
     "sql": 600
+  },
+  "ww_1f70919d7c8a2b46": {
+    "hasFirstName": "Clancy",
+    "hasLastName": "Sigal",
+    "birthExact": "1926",
+    "deathExact": "2017",
+    "hasDescription": "U.S. journalist and novelist",
+    "hasGender": "male",
+    "sql": 4717
   },
   "ww_9f66f252a52658ea": {
     "hasFirstName": "Lydia Howard",
@@ -28392,7 +28657,9 @@
   "ww_26c25538fa69a566": {
     "hasFirstName": "Lucy Toulmin",
     "hasLastName": "Smith",
-    "hasDescription": "Anglo-American scholar 1838\u20131911",
+    "birthExact": "1838",
+    "deathExact": "1911",
+    "hasDescription": "Anglo-American scholar",
     "hasGender": "female",
     "sql": 4112
   },
@@ -28509,6 +28776,14 @@
     "hasDescription": "English clergyman and poet",
     "hasGender": "male",
     "sql": 4480
+  },
+  "ww_2e64d602bb9b3aed": {
+    "hasFirstName": "Wentworth",
+    "hasLastName": "Smith",
+    "activeExact": "1615",
+    "hasDescription": "English (?) dramatist",
+    "hasGender": "male",
+    "sql": 4739
   },
   "ww_f31af6df8b4b0640": {
     "hasFirstName": "Charles G.",
@@ -28627,6 +28902,14 @@
     "hasDescription": "English writer",
     "hasGender": "male",
     "sql": 501
+  },
+  "ww_ef796299afbd0e9a": {
+    "hasFirstName": "Samuel",
+    "hasLastName": "Smithson",
+    "activeExact": "1600",
+    "hasDescription": "English writer",
+    "hasGender": "male",
+    "sql": 4740
   },
   "ww_b97db00a33a9fb51": {
     "hasFirstName": "Tobias",
@@ -28785,7 +29068,9 @@
   "ww_01dd633e6bd474e5": {
     "hasFirstName": "Jos\u00e9 Oswald de Andrade",
     "hasLastName": "Souza",
-    "hasDescription": "Brazilian poet and polemicist 1890\u20131954",
+    "birthExact": "1890",
+    "deathExact": "1954",
+    "hasDescription": "Brazilian poet and polemicist",
     "hasGender": "male",
     "sql": 2669
   },
@@ -28914,9 +29199,10 @@
   "ww_edc1093f53e0bc8a": {
     "hasFirstName": "Anthony",
     "hasLastName": "Stafford",
-    "birthExact": "1645",
-    "deathExact": "1660",
-    "hasDescription": "English devotional writer 1587\u2013[]",
+    "birthExact": "1587",
+    "deathStart": "1645",
+    "deathEnd": "1660",
+    "hasDescription": "English devotional writer",
     "hasGender": "male",
     "sql": 3867
   },
@@ -28964,9 +29250,9 @@
     "hasGender": "male",
     "sql": 4280
   },
-  "ww_87454cbdbea2a588": {
-    "hasFirstName": "Charles, Earl",
-    "hasLastName": "Stanhope",
+  "ww_6f881bd7dc7cf4aa": {
+    "hasFirstName": "Charles",
+    "hasLastName": "Stanhope, Earl Stanhope",
     "birthExact": "1753",
     "deathExact": "1816",
     "hasDescription": "English statesman and scientist",
@@ -29001,7 +29287,9 @@
   "ww_1a3350c92dc1c186": {
     "hasFirstName": "Richard",
     "hasLastName": "Stanyhurst",
-    "hasDescription": "Irish  translator, poet and historian 1547\u20131618",
+    "birthExact": "1547",
+    "deathExact": "1618",
+    "hasDescription": "Irish  translator, poet and historian",
     "hasGender": "male",
     "sql": 3955
   },
@@ -29024,7 +29312,9 @@
   "ww_95264414a077d158": {
     "hasFirstName": "Vincent",
     "hasLastName": "Starrett",
-    "hasDescription": "U.S. crime writer 1886\u20131974",
+    "birthExact": "1886",
+    "deathExact": "1974",
+    "hasDescription": "U.S. crime writer",
     "hasGender": "male",
     "sql": 2285
   },
@@ -30448,7 +30738,9 @@
   "ww_4cf2d2f81816aed2": {
     "hasFirstName": "George",
     "hasLastName": "Thorn-Drury",
-    "hasDescription": "English scholar 1860\u20131931",
+    "birthExact": "1860",
+    "deathExact": "1931",
+    "hasDescription": "English scholar",
     "hasGender": "male",
     "sql": 4119
   },
@@ -30896,6 +31188,15 @@
     "hasGender": "male",
     "sql": 1146
   },
+  "ww_1f467efebe3790b1": {
+    "hasFirstName": "Anne",
+    "hasLastName": "Truitt",
+    "birthExact": "1921",
+    "deathExact": "2004",
+    "hasDescription": "U.S. artist",
+    "hasGender": "male",
+    "sql": 4715
+  },
   "ww_ca4f1f8adcb5c624": {
     "hasFirstName": "John",
     "hasLastName": "Trumbull",
@@ -30945,7 +31246,7 @@
     "hasFirstName": "Margaret",
     "hasLastName": "Tudeau-Clayton",
     "hasDescription": "British-born Swiss academic",
-    "hasGender": "male",
+    "hasGender": "female",
     "sql": 4693
   },
   "ww_9e2705401492ec68": {
@@ -31091,7 +31392,7 @@
     "birthExact": "1550",
     "deathExact": "1590",
     "hasDescription": "English translator",
-    "hasGender": "male",
+    "hasGender": "female",
     "sql": 4637
   },
   "ww_e5abe23d605d3dc3": {
@@ -31220,6 +31521,15 @@
     "hasDescription": "English writer",
     "hasGender": "male",
     "sql": 3915
+  },
+  "ww_861c08969a2da48d": {
+    "hasFirstName": "James",
+    "hasLastName": "Ussher",
+    "birthExact": "1581",
+    "deathExact": "1656",
+    "hasDescription": "Irish theologian and scholar",
+    "hasGender": "male",
+    "sql": 4730
   },
   "ww_839c1512fcf20a23": {
     "hasFirstName": "David N.",
@@ -31449,9 +31759,9 @@
     "hasGender": "male",
     "sql": 1620
   },
-  "ww_ae2d914875625509": {
+  "ww_23b5e1e48168666e": {
     "hasFirstName": "George",
-    "hasLastName": "Villiers, Duke of Buckingham",
+    "hasLastName": "Villiers, 2nd Duke of Buckingham",
     "birthExact": "1628",
     "deathExact": "1687",
     "hasDescription": "English dramatist",
@@ -32012,7 +32322,9 @@
   "ww_456fe48e57236f5f": {
     "hasFirstName": "Christopher",
     "hasLastName": "Wase",
-    "hasDescription": "English scholar and translator 1627\u20131690",
+    "birthExact": "1627",
+    "deathExact": "1690",
+    "hasDescription": "English scholar and translator",
     "hasGender": "male",
     "sql": 4389
   },
@@ -32086,9 +32398,20 @@
   "ww_cab245e8a8b4f7d5": {
     "hasFirstName": "Thomas",
     "hasLastName": "Watson",
-    "hasDescription": "English poet and translator 1555\u20131592",
+    "birthExact": "1555",
+    "deathExact": "1592",
+    "hasDescription": "English poet and translator",
     "hasGender": "male",
     "sql": 4471
+  },
+  "ww_a5009b24da627f66": {
+    "hasFirstName": "William",
+    "hasLastName": "Watson",
+    "birthExact": "1559",
+    "deathExact": "1603",
+    "hasDescription": "English Catholic priest",
+    "hasGender": "male",
+    "sql": 4742
   },
   "ww_f76d344afdbe004f": {
     "hasFirstName": "Ian",
@@ -32127,8 +32450,9 @@
   "ww_efccd2be473c2748": {
     "hasFirstName": "William",
     "hasLastName": "Webbe",
-    "activeExact": "1568",
-    "hasDescription": "English critic and translator \u20131591",
+    "activeStart": "1568",
+    "activeEnd": "1591",
+    "hasDescription": "English critic and translator",
     "hasGender": "male",
     "sql": 4706
   },
@@ -32178,7 +32502,9 @@
   "ww_23758916cf4b4e59": {
     "hasFirstName": "John",
     "hasLastName": "Weever",
-    "hasDescription": "English poet 1576\u20131632",
+    "birthExact": "1576",
+    "deathExact": "1632",
+    "hasDescription": "English poet",
     "hasGender": "male",
     "sql": 4609
   },
@@ -32213,6 +32539,15 @@
     "hasDescription": "U.S. screenwriter",
     "hasGender": "male",
     "sql": 780
+  },
+  "ww_da41424f735c4c1e": {
+    "hasFirstName": "Ernst",
+    "hasLastName": "Weiss",
+    "birthExact": "1882",
+    "deathExact": "1940",
+    "hasDescription": "Austrian novelist",
+    "hasGender": "male",
+    "sql": 4718
   },
   "ww_5580b24fa635b8fc": {
     "hasFirstName": "Dorrie",
@@ -32629,7 +32964,9 @@
   "ww_76f7ad166cf8422f": {
     "hasFirstName": "William",
     "hasLastName": "Whittingham",
-    "hasDescription": "English Puritan theologian and translator 1524\u20131579",
+    "birthExact": "1524",
+    "deathExact": "1579",
+    "hasDescription": "English Puritan theologian and translator",
     "hasGender": "male",
     "sql": 4407
   },
@@ -32867,7 +33204,9 @@
   "ww_2b9ae89aab734c6a": {
     "hasFirstName": "John",
     "hasLastName": "Williams",
-    "hasDescription": "English priest 1727\u20131798",
+    "birthExact": "1727",
+    "deathExact": "1798",
+    "hasDescription": "English priest",
     "hasGender": "male",
     "sql": 1711
   },
@@ -33021,7 +33360,9 @@
   "ww_edab9e0477ad7401": {
     "hasFirstName": "Thomas",
     "hasLastName": "Wilson",
-    "hasDescription": "English diplomat and rhetorician 1524\u20131581",
+    "birthExact": "1524",
+    "deathExact": "1581",
+    "hasDescription": "English diplomat and rhetorician",
     "hasGender": "male",
     "sql": 3970
   },
@@ -33444,6 +33785,15 @@
     "hasGender": "male",
     "sql": 4386
   },
+  "ww_7574af68acba2f5d": {
+    "hasFirstName": "Lady Mary",
+    "hasLastName": "Wroth",
+    "birthExact": "1587",
+    "deathExact": "1653",
+    "hasDescription": "English poet",
+    "hasGender": "female",
+    "sql": 4736
+  },
   "ww_f308f1a285323ed9": {
     "hasFirstName": "William",
     "hasLastName": "Wycherley",
@@ -33743,5 +34093,12 @@
     "hasDescription": "Swiss (?) journalist",
     "hasGender": "male",
     "sql": 1017
+  },
+  "ww_7372a1934642788d": {
+    "hasFirstName": "Theodor",
+    "hasLastName": "Zwinger",
+    "hasDescription": "Swiss theologian 1597\u20131654",
+    "hasGender": "male",
+    "sql": 4722
   }
 }

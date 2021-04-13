@@ -625,6 +625,7 @@
     "sql": 456
   },
   "ww_801048099673b4cb": {
+    "firstPerformanceExact": "1668",
     "hasPrefixBookTitle": "The",
     "hasBookTitle": "Rivals",
     "hasBookInternalId": "@005007",
@@ -2295,11 +2296,11 @@
     "hasBookInternalId": "@005137",
     "sql": 766
   },
-  "ww_b36965708055a175": {
+  "ww_4f3a6c946a2fcd1e": {
     "firstPerformanceExact": "1627",
     "publicationExact": "1636",
     "hasPrefixBookTitle": "The",
-    "hasBookTitle": "Great Duke",
+    "hasBookTitle": "Great Duke of Florence",
     "hasBookInternalId": "@002214",
     "sql": 767
   },
@@ -4002,8 +4003,8 @@
     "hasBookInternalId": "@005340",
     "sql": 1261
   },
-  "ww_e12f22333092c222": {
-    "hasBookTitle": "Poems (Flatman)",
+  "ww_e4251f276f3525fc": {
+    "hasBookTitle": "Poems (Flt)",
     "hasBookInternalId": "@005341",
     "sql": 1262
   },
@@ -4022,8 +4023,8 @@
     "hasBookInternalId": "@005344",
     "sql": 1265
   },
-  "ww_7a1cd63b3350da5a": {
-    "hasBookTitle": "Poems (Behn)",
+  "ww_0e4654b7bc845aa2": {
+    "hasBookTitle": "Poems (Bhn)",
     "hasBookInternalId": "@005345",
     "sql": 1266
   },
@@ -5229,9 +5230,9 @@
     "hasBookInternalId": "@000822",
     "sql": 1666
   },
-  "ww_65acffd0ebaeef21": {
+  "ww_3769da4365745c94": {
     "hasPrefixBookTitle": "The",
-    "hasBookTitle": "Fmaous HIstory of Friar Bacon",
+    "hasBookTitle": "Famous History of Friar Bacon",
     "hasBookInternalId": "@005443",
     "sql": 1669
   },
@@ -5586,6 +5587,8 @@
     "sql": 1762
   },
   "ww_a9a3bee8cfa9181e": {
+    "firstPerformanceExact": "1637",
+    "publicationExact": "1659",
     "hasPrefixBookTitle": "The",
     "hasBookTitle": "Sad One",
     "hasBookInternalId": "@002371",
@@ -6025,10 +6028,9 @@
     "hasBookInternalId": "@005599",
     "sql": 1868
   },
-  "ww_a9cd887275d1ec36": {
-    "hasPrefixBookTitle": "The",
-    "hasBookTitle": "Tragedy of Cleopatra",
-    "hasBookInternalId": "@005600",
+  "ww_fd98fb75e313ae51": {
+    "hasBookTitle": "Cleopatra, Queen of Egypt",
+    "hasBookInternalId": "@002188",
     "sql": 1869
   },
   "ww_7454b01fc1c60954": {
@@ -6192,13 +6194,13 @@
     "hasBookInternalId": "@000721",
     "sql": 1979
   },
-  "ww_82617112a7c2346e": {
+  "ww_1b2266c9e21c4bd1": {
     "hasBookTitle": "Oedipus",
-    "hasBookInternalId": "@001100",
+    "hasBookInternalId": "@005436",
     "sql": 1980
   },
-  "ww_f781dcf7dbd5cc2e": {
-    "hasBookTitle": "Orestes Furies",
+  "ww_02158b88d6787481": {
+    "hasBookTitle": "Orestes' Furies",
     "hasBookInternalId": "@005703",
     "sql": 1981
   },
@@ -6233,10 +6235,10 @@
     "hasBookInternalId": "@005705",
     "sql": 1986
   },
-  "ww_65fac3fc8ba5c6b9": {
+  "ww_3bc4c3f4aed86587": {
     "firstPerformanceExact": "1639",
     "hasBookTitle": "Antonio and Vallia",
-    "hasBookInternalId": "@888888",
+    "hasBookInternalId": "@011115",
     "sql": 1988
   },
   "ww_09ec58f884fdab62": {
@@ -6295,10 +6297,10 @@
     "hasBookInternalId": "@005712",
     "sql": 1998
   },
-  "ww_3df89d4f6483db2b": {
+  "ww_f82b3afebdfeb727": {
     "hasPrefixBookTitle": "The",
     "hasBookTitle": "Spanish Tragedy (1630)",
-    "hasBookInternalId": "@505555",
+    "hasBookInternalId": "@011113",
     "sql": 1999
   },
   "ww_779e3551ae4361a7": {
@@ -6403,10 +6405,10 @@
     "hasBookInternalId": "@000429",
     "sql": 2022
   },
-  "ww_9b1d9904b7860dba": {
+  "ww_2caaa7b5ecda53ab": {
     "hasPrefixBookTitle": "The",
-    "hasBookTitle": "Tricks of Youth",
-    "hasBookInternalId": "@005720",
+    "hasBookTitle": "Walks of Islington and Hoxton",
+    "hasBookInternalId": "@002800",
     "sql": 2023
   },
   "ww_b2f0d2951eba9fc7": {
@@ -6517,12 +6519,6 @@
     "hasBookInternalId": "@005754",
     "sql": 2051
   },
-  "ww_2613cc5d0aa7e958": {
-    "hasPrefixBookTitle": "The",
-    "hasBookTitle": "Turkish Muhammad and Irene The Fair Greek",
-    "hasBookInternalId": "@000803",
-    "sql": 2052
-  },
   "ww_33c14a8a077f5fa9": {
     "hasPrefixBookTitle": "The",
     "hasBookTitle": "Phoenix and the Turtle",
@@ -6555,9 +6551,9 @@
     "hasBookInternalId": "@005772",
     "sql": 2061
   },
-  "ww_7ed8a7a586e1299b": {
+  "ww_e3209758cb77943a": {
     "hasPrefixBookTitle": "A",
-    "hasBookTitle": "Book of Airs (Ross)",
+    "hasBookTitle": "Book of Airs",
     "hasBookInternalId": "@005773",
     "sql": 2062
   },
@@ -6566,15 +6562,475 @@
     "hasBookInternalId": "@005774",
     "sql": 2063
   },
-  "ww_de945431fe9aef84": {
-    "hasBookTitle": "Wann denkt Shakespeare an Ovid?",
-    "hasBookInternalId": "@005775",
-    "sql": 2064
-  },
   "ww_779a88af78361bdc": {
     "hasPrefixBookTitle": "The",
     "hasBookTitle": "Defense of Poesy",
     "hasBookInternalId": "@005776",
     "sql": 2065
+  },
+  "ww_db13f7ebddb191c4": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "True Reportory",
+    "hasBookInternalId": "@005777",
+    "sql": 2066
+  },
+  "ww_b5ae673e33a84a6b": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Mirror for Magistrates",
+    "hasBookInternalId": "@005779",
+    "sql": 2068
+  },
+  "ww_8e53a2b265469d50": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Knack to Know a Knave",
+    "hasBookInternalId": "@005780",
+    "sql": 2069
+  },
+  "ww_9d0fe13222d0ce47": {
+    "hasBookTitle": "Fassbender and Cotillard",
+    "hasBookInternalId": "@011111",
+    "sql": 2071
+  },
+  "ww_6ea3676208916db0": {
+    "hasBookTitle": "Letter to Caspar Bauhin 1624 or earlier",
+    "hasBookInternalId": "@100001",
+    "sql": 2072
+  },
+  "ww_12f80804e857304d": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 5 March 1631 (English)",
+    "hasBookInternalId": "@100002",
+    "sql": 2073
+  },
+  "ww_9db83acc767e8e32": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 5 March 1631 (German)",
+    "hasBookInternalId": "@100003",
+    "sql": 2074
+  },
+  "ww_9447033f714bbfcd": {
+    "hasBookTitle": "Letter to the Earl of Cork 17 April 1630",
+    "hasBookInternalId": "@100004",
+    "sql": 2075
+  },
+  "ww_876f1fd62db4289f": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 23 February 1631",
+    "hasBookInternalId": "@100005",
+    "sql": 2076
+  },
+  "ww_6ab78a273ab88a29": {
+    "hasBookTitle": "Letter to Theodor Zwinger 9 May 1631",
+    "hasBookInternalId": "@100006",
+    "sql": 2078
+  },
+  "ww_a0cea2d3bd8b4033": {
+    "hasBookTitle": "Letter to Theodor Zwinger 8 August 1631",
+    "hasBookInternalId": "@100007",
+    "sql": 2079
+  },
+  "ww_44c29e42f93416fd": {
+    "hasBookTitle": "Recommendation to the University of Leyden",
+    "hasBookInternalId": "@100008",
+    "sql": 2080
+  },
+  "ww_dd71464b57f797be": {
+    "hasBookTitle": "Letter to Basel Magistrate 29 December 1631",
+    "hasBookInternalId": "@100009",
+    "sql": 2081
+  },
+  "ww_d13b65b02cb77fb4": {
+    "hasBookTitle": "Letter to Basel Magistrate 29 December 1631 (German)",
+    "hasBookInternalId": "@100010",
+    "sql": 2082
+  },
+  "ww_5c5d7a8359fb41c9": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 7 October 1631",
+    "hasBookInternalId": "@100011",
+    "sql": 2083
+  },
+  "ww_2802af4bf07c2152": {
+    "hasBookTitle": "Letter to Basel Magistrate 23 Feburary 1631 (German)",
+    "hasBookInternalId": "@100012",
+    "sql": 2084
+  },
+  "ww_4218862fa78af89a": {
+    "hasBookTitle": "Letter to Samuel Grynaeus 13 November 1632",
+    "hasBookInternalId": "@100013",
+    "sql": 2085
+  },
+  "ww_7b26b130527644a6": {
+    "hasBookTitle": "Letter to Valerius Heitzmann 16 February 1632",
+    "hasBookInternalId": "@100014",
+    "sql": 2086
+  },
+  "ww_cec973e9e0db2554": {
+    "hasBookTitle": "Letter to Theodor Zwinger 16 February 1632",
+    "hasBookInternalId": "@100015",
+    "sql": 2087
+  },
+  "ww_411293f51c012afb": {
+    "hasBookTitle": "Letter to Richard Boyle, Earl of Cork 2 August 1633",
+    "hasBookInternalId": "@100016",
+    "sql": 2088
+  },
+  "ww_88843a7c540b8b0b": {
+    "hasBookTitle": "Letter to Lady Sarah Digby 2 August 1633",
+    "hasBookInternalId": "@100017",
+    "sql": 2089
+  },
+  "ww_cf2a4fa8a0992a5e": {
+    "hasBookTitle": "Letter to Theodor Zwinger 9 August 1633",
+    "hasBookInternalId": "@100018",
+    "sql": 2090
+  },
+  "ww_c3186b8219031a3f": {
+    "hasBookTitle": "Letter to Samuel Grynaeus 12 April 1633",
+    "hasBookInternalId": "@100019",
+    "sql": 2091
+  },
+  "ww_e0e4632d7fefa141": {
+    "hasBookTitle": "Letter to Theodor Zwinger 19 January 1634",
+    "hasBookInternalId": "@100020",
+    "sql": 2092
+  },
+  "ww_ccdbcade32e8cfc6": {
+    "hasBookTitle": "Letter to Theodor Zwinger 11 February 1634",
+    "hasBookInternalId": "@100021",
+    "sql": 2093
+  },
+  "ww_7818aa3650d743ad": {
+    "hasBookTitle": "Letter to Theodor Zwinger 21 February 1634",
+    "hasBookInternalId": "@100022",
+    "sql": 2094
+  },
+  "ww_bf06a37a37afc907": {
+    "hasBookTitle": "Letter to Richard Boyle, Earl of Dungarvan October 1634",
+    "hasBookInternalId": "@100023",
+    "sql": 2095
+  },
+  "ww_d2ec46afe119c813": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 12 September 1634",
+    "hasBookInternalId": "@100024",
+    "sql": 2096
+  },
+  "ww_f339198c1609c318": {
+    "hasBookTitle": "Letter to Johann Jacob Frey January 1634",
+    "hasBookInternalId": "@100025",
+    "sql": 2097
+  },
+  "ww_b952ae258c7d3984": {
+    "hasBookTitle": "Letter to the Earl of Cork 14 April 1634",
+    "hasBookInternalId": "@100026",
+    "sql": 2098
+  },
+  "ww_b760560c301a339f": {
+    "hasBookTitle": "Letter to the Earl of Cork 26 April 1634",
+    "hasBookInternalId": "@100027",
+    "sql": 2099
+  },
+  "ww_e6e4f93f564527d6": {
+    "hasBookTitle": "Letter to Michael Castell 3 June 1636",
+    "hasBookInternalId": "@100028",
+    "sql": 2100
+  },
+  "ww_8b2de13dfb3eb92d": {
+    "hasBookTitle": "Letter to James Ussher (draft) 13 June 1636",
+    "hasBookInternalId": "@100029",
+    "sql": 2101
+  },
+  "ww_e3f9ba7c85b6df86": {
+    "hasBookTitle": "Letter to James Ussher 25 June 1635",
+    "hasBookInternalId": "@100030",
+    "sql": 2102
+  },
+  "ww_e9d805d43e3b9844": {
+    "hasBookTitle": "Letter to Philip Herbert 17 October 1635",
+    "hasBookInternalId": "@100031",
+    "sql": 2103
+  },
+  "ww_bcc08ec55c4d6f9c": {
+    "hasBookTitle": "Letter to Elizabeth, Lady Dungarvan 17 December 1635",
+    "hasBookInternalId": "@100032",
+    "sql": 2104
+  },
+  "ww_ab607c367833a3a2": {
+    "hasBookTitle": "Letter to James Ussher 17 December 1635",
+    "hasBookInternalId": "@100033",
+    "sql": 2105
+  },
+  "ww_f4ddb2935dfc59ad": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 13 January 1635",
+    "hasBookInternalId": "@100034",
+    "sql": 2106
+  },
+  "ww_66eb219609a4a7c4": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 15 February 1635",
+    "hasBookInternalId": "@100035",
+    "sql": 2107
+  },
+  "ww_3abf6bf8aa47e516": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 12 June 1635",
+    "hasBookInternalId": "@100036",
+    "sql": 2108
+  },
+  "ww_5d723bf5b72bbb06": {
+    "hasBookTitle": "Draft of a letter to James Ussher 13 June",
+    "hasBookInternalId": "@100037",
+    "sql": 2109
+  },
+  "ww_3cebb891aad347a2": {
+    "hasBookTitle": "Letter to Caspar Bauhin 30 August 1620",
+    "hasBookInternalId": "@100038",
+    "sql": 2110
+  },
+  "ww_4533f817bed2154a": {
+    "hasBookTitle": "Letter to Elizabeth Dungarvan 29 August 1632",
+    "hasBookInternalId": "@100039",
+    "sql": 2111
+  },
+  "ww_dc4e46d2f79c6eef": {
+    "hasBookTitle": "Letter to Henry Clifford 6 August 1632",
+    "hasBookInternalId": "@100040",
+    "sql": 2112
+  },
+  "ww_a87c6cf0d6127ac7": {
+    "hasBookTitle": "Letter to Louis de Dieu 9 June 1632",
+    "hasBookInternalId": "@100041",
+    "sql": 2113
+  },
+  "ww_aae28f1f625b8c95": {
+    "hasBookTitle": "Letter to the Earl of Cork 16 July 1632",
+    "hasBookInternalId": "@100042",
+    "sql": 2114
+  },
+  "ww_2c688169cb1c87f0": {
+    "hasBookTitle": "Letter to the Earl of Cork 3 October 1633",
+    "hasBookInternalId": "@100043",
+    "sql": 2115
+  },
+  "ww_928a851a1a8124dc": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 20 September 1635",
+    "hasBookInternalId": "@100044",
+    "sql": 2116
+  },
+  "ww_87c8258f804cdc7d": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 8 September 1635",
+    "hasBookInternalId": "@100045",
+    "sql": 2117
+  },
+  "ww_9f1d7efc4df82b57": {
+    "hasBookTitle": "Letter to Dungarvan 6 August 1632",
+    "hasBookInternalId": "@100046",
+    "sql": 2118
+  },
+  "ww_6004176b654b5e18": {
+    "hasBookTitle": "Letter to the Earl of Cork 19 January 1632",
+    "hasBookInternalId": "@100047",
+    "sql": 2119
+  },
+  "ww_f131f3387619dc99": {
+    "hasBookTitle": "Letter to the Earl of Cork 17 November 1632",
+    "hasBookInternalId": "@100048",
+    "sql": 2120
+  },
+  "ww_a23ebbcd2e8c7d74": {
+    "hasBookTitle": "Letter to Thomas Littell 17 December 1635",
+    "hasBookInternalId": "@100049",
+    "sql": 2121
+  },
+  "ww_ae9030c8a010c565": {
+    "hasBookTitle": "Letter to John Bramhall 17 December 1635",
+    "hasBookInternalId": "@100050",
+    "sql": 2122
+  },
+  "ww_5a68ca32865d969f": {
+    "hasBookTitle": "Letter to Oliver Fleming 23 March 1636",
+    "hasBookInternalId": "@100051",
+    "sql": 2123
+  },
+  "ww_e7fd9541de30c2ed": {
+    "hasBookTitle": "Letter to Algernon Percy 9 September 1634",
+    "hasBookInternalId": "@010052",
+    "sql": 2124
+  },
+  "ww_dda38054a442d82e": {
+    "hasBookTitle": "Letter to James Ussher 18 August 1638",
+    "hasBookInternalId": "@100053",
+    "sql": 2125
+  },
+  "ww_152e637cc4ce9e7a": {
+    "hasBookTitle": "Letter to Robert Sidney 21 June 1637",
+    "hasBookInternalId": "@100054",
+    "sql": 2126
+  },
+  "ww_14599c9e2916d38e": {
+    "hasBookTitle": "Letter to Johannes Buxtorf February 1653",
+    "hasBookInternalId": "@100055",
+    "sql": 2127
+  },
+  "ww_bde453817287cdc9": {
+    "hasBookTitle": "Letter to Johannes Buxtorf 7 February 1637",
+    "hasBookInternalId": "@100056",
+    "sql": 2128
+  },
+  "ww_33075c05acee141f": {
+    "hasBookTitle": "Letter to James Ussher 18 June 1630",
+    "hasBookInternalId": "@100057",
+    "sql": 2129
+  },
+  "ww_0bdc1f083ef81c10": {
+    "hasBookTitle": "Pamphilia to Amphilanthus",
+    "hasBookInternalId": "@005785",
+    "sql": 2130
+  },
+  "ww_eaa5593ab8590dee": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Countess of Montgomery's Urania",
+    "hasBookInternalId": "@005782",
+    "sql": 2131
+  },
+  "ww_0accdfb740df3f25": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Buckingham Commonplace Book",
+    "hasBookInternalId": "@005783",
+    "sql": 2132
+  },
+  "ww_c5279361d571ebfe": {
+    "hasBookTitle": "Anecdote",
+    "hasBookInternalId": "@005787",
+    "sql": 2136
+  },
+  "ww_a2e22751f56ca395": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Captives",
+    "hasBookInternalId": "@005789",
+    "sql": 2138
+  },
+  "ww_5f18302f34b8bed5": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Hector of Germany",
+    "hasBookInternalId": "@005790",
+    "sql": 2140
+  },
+  "ww_09a246993e38d718": {
+    "hasBookTitle": "Guy Earl of Warwick",
+    "hasBookInternalId": "@005791",
+    "sql": 2141
+  },
+  "ww_104ec4c53311c781": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Discussion of the Answer of M. William Barlow",
+    "hasBookInternalId": "@005792",
+    "sql": 2142
+  },
+  "ww_b48ff7a128a091b1": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Decacordon of Ten Quodlibetical Questions",
+    "hasBookInternalId": "@005793",
+    "sql": 2143
+  },
+  "ww_424fa4f0ac843486": {
+    "hasBookTitle": "Leoline and Sydanis",
+    "hasBookInternalId": "@005794",
+    "sql": 2144
+  },
+  "ww_e424e087ec5f80b8": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "History of Joseph",
+    "hasBookInternalId": "@005795",
+    "sql": 2145
+  },
+  "ww_e40a6fc71a55848a": {
+    "hasBookTitle": "Heptameron",
+    "hasBookInternalId": "@005796",
+    "sql": 2146
+  },
+  "ww_e9d0fbb944a5a98a": {
+    "firstPerformanceExact": "1599",
+    "publicationExact": "1602",
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Larum for London, or The Siege of Antwerp",
+    "hasBookInternalId": "@005797",
+    "sql": 2147
+  },
+  "ww_28097190d4216fda": {
+    "firstPerformanceExact": "1629",
+    "publicationExact": "1629",
+    "hasBookTitle": "London's Tempe, or The Field of Happiness",
+    "hasBookInternalId": "@005798",
+    "sql": 2148
+  },
+  "ww_ebbeed5703e63dbf": {
+    "firstPerformanceExact": "1629",
+    "publicationExact": "1631",
+    "hasBookTitle": "London&#039;s Ius Honorarium",
+    "hasBookInternalId": "@005799",
+    "sql": 2149
+  },
+  "ww_bdeef1644ff83cb2": {
+    "firstPerformanceExact": "1629",
+    "publicationExact": "1632",
+    "hasBookTitle": "London's Fountain of Arts and Sciences",
+    "hasBookInternalId": "@005800",
+    "sql": 2150
+  },
+  "ww_a654e39eb3241ea2": {
+    "firstPerformanceExact": "1629",
+    "publicationExact": "1633",
+    "hasBookTitle": "London's Mercatura",
+    "hasBookInternalId": "@005799",
+    "sql": 2151
+  },
+  "ww_7f5149d8ba51cba0": {
+    "firstPerformanceExact": "1659",
+    "publicationExact": "1659",
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "London Chanticleers",
+    "hasBookInternalId": "@005808",
+    "sql": 2152
+  },
+  "ww_728e433b5597b41f": {
+    "firstPerformanceExact": "1648",
+    "publicationExact": "1648",
+    "hasBookTitle": "Mistress Parliament, Her Invitation of Mistress ",
+    "hasBookInternalId": "@005801",
+    "sql": 2153
+  },
+  "ww_73a905b76d5cd5fd": {
+    "firstPerformanceExact": "1635",
+    "publicationExact": "1635",
+    "hasBookTitle": "London&#039;s Harbor of Health and Happiness",
+    "hasBookInternalId": "@005802",
+    "sql": 2154
+  },
+  "ww_4e2d25d58595b98d": {
+    "firstPerformanceExact": "1637",
+    "publicationExact": "1637",
+    "hasBookTitle": "Londini Speculum or, London&#039;s Mirror",
+    "hasBookInternalId": "@005803",
+    "sql": 2155
+  },
+  "ww_001477cbe0447fe1": {
+    "firstPerformanceExact": "1639",
+    "publicationExact": "1639",
+    "hasBookTitle": "London&#039;s Peaceable Estate",
+    "hasBookInternalId": "@005804",
+    "sql": 2156
+  },
+  "ww_570ca540527a8a31": {
+    "firstPerformanceExact": "1603",
+    "hasBookTitle": "London Florentine",
+    "hasBookInternalId": "@005805",
+    "sql": 2157
+  },
+  "ww_edeeafcb29b019a1": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Florentine Friend",
+    "hasBookInternalId": "@005806",
+    "sql": 2158
+  },
+  "ww_d76b7040536b9b5b": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Florentine Ladies",
+    "hasBookInternalId": "@005807",
+    "sql": 2159
   }
 }

@@ -656,7 +656,7 @@
     "hasLanguage": "German",
     "hasBookTitle": "Abhandlungen zu Shakespeare",
     "hasDisplayedTitle": "Abhandlungen zu Shakespeare",
-    "pubInfo": "Abhandlungen zu Shakespeare. Halle: Verlag der Buchhandlung des Waisenhauses, 1877.",
+    "pubInfo": "<i>Abhandlungen zu Shakespeare. </i>Halle: Verlag der Buchhandlung des Waisenhauses, 1877.",
     "hasCreationDate": "GREGORIAN:1877:1877",
     "hasPublicationDate": "GREGORIAN:1877:1877",
     "hasGenre": [
@@ -1070,7 +1070,7 @@
     "hasLanguage": "English",
     "hasBookTitle": "Shakespeares King John und seine Quelle",
     "hasDisplayedTitle": "Shakespeares \"King John\" und seine Quelle",
-    "pubInfo": "Shakespeares \"King John\" und seine Quelle. Kiel: P. Peters, 1900. ",
+    "pubInfo": "<i>Shakespeares \"King John\" und seine Quelle. </i>Kiel: P. Peters, 1900. ",
     "hasCreationDate": "GREGORIAN:1900:1900",
     "hasPublicationDate": "GREGORIAN:1900:1900",
     "hasGenre": [
@@ -1118,7 +1118,6 @@
     ],
     "hasSubject": [
       "Literature and theatre",
-      "WOMAN WRITER",
       "Shakespeare"
     ],
     "authors": [
@@ -1287,7 +1286,7 @@
     "hasLanguage": "English",
     "hasBookTitle": "Verh\u00e4ltnis von The two Noble Kinsmen",
     "hasDisplayedTitle": "\u00dcber das Verh\u00e4ltnis von The two noble kinsmen zu Chaucer's Knightes tale",
-    "pubInfo": "\u00dcber das Verh\u00e4ltnis von The two noble kinsmen zu Chaucer's Knightes tale. Halle: Heinrich John, 1903.",
+    "pubInfo": "<'>\u00dcber das Verh\u00e4ltnis von The two noble kinsmen zu Chaucer's Knightes tale. </i>Halle: Heinrich John, 1903.",
     "hasCreationDate": "GREGORIAN:1903:1903",
     "hasPublicationDate": "GREGORIAN:1903:1903",
     "hasGenre": [
@@ -1298,7 +1297,7 @@
       "Shakespeare"
     ],
     "authors": [
-      "tbe Author"
+      "G.A. B. Leuschner"
     ]
   },
   "ww_a8abcb46bdb829e4": {
@@ -2714,7 +2713,7 @@
     "hasBookTitle": "Note on Shakespeare and Nash",
     "hasPrefixDisplayedTitle": "A",
     "hasDisplayedTitle": "Note on Shakespeare and Nash",
-    "pubInfo": "\"A Note on Shakespeare and Nash.\" <i>MOdern Language Notes</i> 42.5 (May 1927): 317-319.",
+    "pubInfo": "\"A Note on Shakespeare and Nash.\" <i>Modern Language Notes</i> 42.5 (May 1927): 317-319.",
     "hasCreationDate": "GREGORIAN:1927:1927",
     "hasPublicationDate": "GREGORIAN:1927:1927",
     "hasGenre": [
@@ -3018,7 +3017,7 @@
     "hasLanguage": "English",
     "hasBookTitle": "What Happens in Hamlet",
     "hasDisplayedTitle": "What Happens in Hamlet?",
-    "pubInfo": "<i>What Happens in Hamlet? </i>Cambridge: Cambridge University Press, 2003.",
+    "pubInfo": "<i>What Happens in </i>Hamlet</i>? Cambridge: Cambridge University Press, 2003.",
     "hasCreationDate": "GREGORIAN:1937:1937",
     "hasPublicationDate": "GREGORIAN:1937:1937",
     "hasGenre": [
@@ -4123,6 +4122,24 @@
     ],
     "authors": [
       "Thomas Marc Parrott"
+    ]
+  },
+  "ww_5a13500766c28f37": {
+    "hasBookInternalId": "@005778",
+    "hasLanguage": "English",
+    "hasBookTitle": "Titus Andronicus (mxw edition)",
+    "hasDisplayedTitle": "Titus Andronicus (mxw edition)",
+    "pubInfo": "ed. William Shakespeare. <i>Titus Andronicus.</i> Third edition. Arden edition. New York and London: Methuen, 1985.",
+    "hasCreationDate": "GREGORIAN:1961:1961",
+    "hasPublicationDate": "GREGORIAN:1961:1961",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "J. C. Maxwell"
     ]
   },
   "ww_b673b7d61539215b": {
@@ -6058,7 +6075,6 @@
     ],
     "hasSubject": [
       "Literature and theatre",
-      "WOMAN WRITER",
       "Shakespeare"
     ],
     "authors": [
@@ -6769,7 +6785,7 @@
     ],
     "authors": [
       "Balz Engler",
-      "Regula Hohl-Trillini",
+      "Regula Hohl Trillini",
       "Sixta Qua\u00dfdorf"
     ]
   },
@@ -6797,7 +6813,7 @@
     "hasLanguage": "English",
     "hasBookTitle": "BRITP (British Periodicals)",
     "hasDisplayedTitle": "BRITP - British Periodicals",
-    "pubInfo": "British Periodicals. https://search.proquest.com/britishperiodicals?accountid=14616. 2005.",
+    "pubInfo": "<i>British Periodicals. </i>https://search.proquest.com/britishperiodicals?accountid=14616. 2005.",
     "hasCreationDate": "GREGORIAN:2005:2005",
     "hasPublicationDate": "GREGORIAN:2005:2005",
     "hasGenre": [
@@ -7037,6 +7053,22 @@
     "authors": [
       "Roger Chartier",
       "Peter Stallybrass"
+    ]
+  },
+  "ww_8f94dca8f9764cd6": {
+    "hasBookInternalId": "@005784",
+    "hasLanguage": "English",
+    "hasBookTitle": "Buckingham (Hume edition)",
+    "hasPrefixDisplayedTitle": "The",
+    "hasDisplayedTitle": "Buckingham Commonplace Book (Hume edition)",
+    "pubInfo": "<i>Plays, Poems and Miscellaneous Writings [...]</i>. Es. Robert D. Hume and Harold Love. Oxford; Oxford University press, 2007. Vol. 2, 160-274.",
+    "hasCreationDate": "GREGORIAN:2007:2007",
+    "hasPublicationDate": "GREGORIAN:2007:2007",
+    "hasGenre": [
+      "Annotated edition"
+    ],
+    "authors": [
+      "Robert D. Hume"
     ]
   },
   "ww_9a76625cd3620368": {
@@ -7396,7 +7428,7 @@
       "Shakespeare"
     ],
     "authors": [
-      "Regula Hohl-Trillini"
+      "Regula Hohl Trillini"
     ]
   },
   "ww_ee037c24035063ca": {
@@ -7510,7 +7542,7 @@
       "Literature and theatre"
     ],
     "authors": [
-      "Regula Hohl-Trillini",
+      "Regula Hohl Trillini",
       "Sixta Qua\u00dfdorf"
     ]
   },
@@ -7649,6 +7681,25 @@
       "Donna Nielsen Murphy"
     ]
   },
+  "ww_bbee43a5ea038388": {
+    "hasBookInternalId": "@005786",
+    "hasLanguage": "English",
+    "hasBookTitle": "Ben Jonson - A Life",
+    "hasDisplayedTitle": "Ben Jonson - A Life",
+    "pubInfo": "<i>Ben Jonson - A Life.</i> Oxford: Oxford University Press, 2011.",
+    "hasCreationDate": "GREGORIAN:2011:2011",
+    "hasPublicationDate": "GREGORIAN:2011:2011",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "History, (auto-)biography"
+    ],
+    "authors": [
+      "Ian Donaldson"
+    ]
+  },
   "ww_d3ab2c3341d85483": {
     "hasBookInternalId": "@006089",
     "hasLanguage": "English",
@@ -7684,7 +7735,6 @@
     ],
     "hasSubject": [
       "Literature and theatre",
-      "WOMAN WRITER",
       "Shakespeare"
     ],
     "authors": [
@@ -7741,8 +7791,7 @@
       "Academic"
     ],
     "hasSubject": [
-      "Literature and theatre",
-      "WOMAN WRITER"
+      "Literature and theatre"
     ],
     "authors": [
       "Catherine Richardson",
@@ -8300,7 +8349,7 @@
       "Shakespeare"
     ],
     "authors": [
-      "Regula Hohl-Trillini"
+      "Regula Hohl Trillini"
     ]
   },
   "ww_a81631b9c792bfee": {

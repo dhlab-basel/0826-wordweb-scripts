@@ -27,9 +27,9 @@
     "venueInternalId": "#008009",
     "hasPlaceVenue": "Red Bull"
   },
-  "ww_78c9c657a6d6a82c": {
+  "ww_5b6da0ed971ebeb7": {
     "venueInternalId": "#008000",
-    "hasPlaceVenue": "Unknown London venue"
+    "hasPlaceVenue": "unknown venue"
   },
   "ww_99cb897ff63313b5": {
     "venueInternalId": "#008022",
@@ -47,21 +47,21 @@
     "venueInternalId": "#008011",
     "hasPlaceVenue": "Inner Temple"
   },
-  "ww_25bb6c5b90a2e2fe": {
+  "ww_2ac44791912e7737": {
     "venueInternalId": "#008012",
-    "hasPlaceVenue": "Trinity College, Cambridge"
+    "hasPlaceVenue": "Trinity College"
   },
   "ww_2ae1ae2f73b04c69": {
     "venueInternalId": "#008013",
     "hasPlaceVenue": "Ludlow Castle"
   },
-  "ww_711c5ee27a4eef5d": {
+  "ww_6aa5aa597850d3c1": {
     "venueInternalId": "#008014",
-    "hasPlaceVenue": "Banqueting House, London"
+    "hasPlaceVenue": "Banqueting House"
   },
-  "ww_bbc60e095377316e": {
+  "ww_b692201f482f8ee2": {
     "venueInternalId": "#008015",
-    "hasPlaceVenue": "Archbishop's Palace, London"
+    "hasPlaceVenue": "Archbishop's Palace"
   },
   "ww_6f45f31857387ead": {
     "venueInternalId": "#008016",
@@ -75,13 +75,13 @@
     "venueInternalId": "#008018",
     "hasPlaceVenue": "Hope Theatre"
   },
-  "ww_8240574032bbe0c1": {
+  "ww_624980e0c706cd28": {
     "venueInternalId": "#008019",
-    "hasPlaceVenue": "St John's College, Cambridge"
+    "hasPlaceVenue": "St. John's  College"
   },
-  "ww_b00be8347d0cb16d": {
+  "ww_673528dd47ffcc8f": {
     "venueInternalId": "#008010",
-    "hasPlaceVenue": "Trinity College, Oxford"
+    "hasPlaceVenue": "Trinity College "
   },
   "ww_a8b0dec20bddad7c": {
     "venueInternalId": "#008020",
@@ -91,9 +91,9 @@
     "venueInternalId": "#008021",
     "hasPlaceVenue": "Moorfield"
   },
-  "ww_a0fafa12a8a05945": {
+  "ww_6f622bec3fbe84db": {
     "venueInternalId": "#008024",
-    "hasPlaceVenue": "Christ Church College, Oxford"
+    "hasPlaceVenue": "Christ Church College"
   },
   "ww_1096a803d4a2e123": {
     "venueInternalId": "#008025",
@@ -111,9 +111,9 @@
     "venueInternalId": "#008028",
     "hasPlaceVenue": "Somerset House"
   },
-  "ww_0b8fb34fd58acb3a": {
+  "ww_1f74ce94970699b1": {
     "venueInternalId": "#008029",
-    "hasPlaceVenue": "King's College, Cambridge"
+    "hasPlaceVenue": "King's College "
   },
   "ww_b3259a44e5c16258": {
     "venueInternalId": "#008030",
@@ -155,13 +155,13 @@
     "venueInternalId": "#008040",
     "hasPlaceVenue": "Isle of Dogs"
   },
-  "ww_975440f5d6d132f3": {
+  "ww_c1c8db7cb45339ac": {
     "venueInternalId": "#008041",
-    "hasPlaceVenue": "St Johns College, Oxford"
+    "hasPlaceVenue": "St Johns College"
   },
-  "ww_39d2f198b2fac5e5": {
+  "ww_57a4663b626b5221": {
     "venueInternalId": "#008042",
-    "hasPlaceVenue": "Cuckolds Haven"
+    "hasPlaceVenue": "Cuckold's Haven"
   },
   "ww_76d5a21e77e56c02": {
     "venueInternalId": "#008043",
@@ -175,13 +175,13 @@
     "venueInternalId": "#008045",
     "hasPlaceVenue": "Hellespont"
   },
-  "ww_883e765db6dada7b": {
+  "ww_a0011f949973de99": {
     "venueInternalId": "#008046",
-    "hasPlaceVenue": "Christ's College, Cambridge"
+    "hasPlaceVenue": "Christ's College"
   },
-  "ww_f69737d3276ca2cf": {
+  "ww_7c02627b419b6834": {
     "venueInternalId": "#008047",
-    "hasPlaceVenue": "Thomas Cranmers House"
+    "hasPlaceVenue": "Thomas Cranmer's House"
   },
   "ww_33a07aeb4029717d": {
     "venueInternalId": "#008048",
@@ -191,9 +191,9 @@
     "venueInternalId": "#008049",
     "hasPlaceVenue": "Islington"
   },
-  "ww_ce5d3be654f51de8": {
+  "ww_0d9fb907d60020b6": {
     "venueInternalId": "#008050",
-    "hasPlaceVenue": "Unknown Oxford location"
+    "hasPlaceVenue": "unknown location"
   },
   "ww_641ee71af888ad03": {
     "venueInternalId": "#008051",
@@ -210,5 +210,57 @@
   "ww_198c3776106d40c9": {
     "venueInternalId": "#008054",
     "hasPlaceVenue": "Newgate Prison"
+  },
+  "ww_219e4dd77aedb0bc": {
+    "venueInternalId": "#008055",
+    "hasPlaceVenue": "Hoxton"
+  },
+  "ww_6e4e4eb9efedac13": {
+    "venueInternalId": "#008056",
+    "hasPlaceVenue": "Faubourg St. Germain"
+  },
+  "ww_dcf59e898ecf9e26": {
+    "venueInternalId": "#008057",
+    "hasPlaceVenue": "unknown"
+  },
+  "ww_e1dca81a12a510b2": {
+    "venueInternalId": "#008058",
+    "hasPlaceVenue": "somewhere"
+  },
+  "ww_9a24c63a39cfd8cb": {
+    "venueInternalId": "#008059",
+    "hasPlaceVenue": "someplace"
+  },
+  "ww_3e9a794a207830fd": {
+    "venueInternalId": "#008060",
+    "hasPlaceVenue": "location"
+  },
+  "ww_5f59abc2af86da28": {
+    "venueInternalId": "#008061",
+    "hasPlaceVenue": "Lismore Castle"
+  },
+  "ww_94477f3e5ce81785": {
+    "venueInternalId": "#008062",
+    "hasPlaceVenue": "place"
+  },
+  "ww_af5f5010a93d9461": {
+    "venueInternalId": "#008063",
+    "hasPlaceVenue": "Dublin Castle"
+  },
+  "ww_f2cdc3579f036200": {
+    "venueInternalId": "#008064",
+    "hasPlaceVenue": "street"
+  },
+  "ww_cd8812ad12388add": {
+    "venueInternalId": "#008065",
+    "hasPlaceVenue": "some place"
+  },
+  "ww_11a77302134e0f56": {
+    "venueInternalId": "#008066",
+    "hasPlaceVenue": "London Bridge"
+  },
+  "ww_d8e9c5da623b8aa4": {
+    "venueInternalId": "#008067",
+    "hasPlaceVenue": "Florence"
   }
 }

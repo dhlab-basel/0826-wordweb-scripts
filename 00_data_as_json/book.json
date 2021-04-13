@@ -55,7 +55,7 @@
     "hasBookTitle": "Casual Shakespeare",
     "hasEdition": "<i>Casual Shakespeare: Three Centuries of Verbal Echoes. </i>London: Routledge, 2018.",
     "isWrittenBy": [
-      "ww_af36f0470a7070bf"
+      "ww_8f10037a060488a1"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2018:2018",
@@ -131,8 +131,8 @@
     "hasEdition": "\"The Canterbury Tales.\" <i>The Riverside Chaucer. </i>Gen. ed. Larry D. Benson. Oxford: Oxford University Press; London: Humphrey Milford, 1933. 3-328.",
     "hasEditionHist": "\"The Canterbury Tales.\" <i>The Riverside Chaucer.</i> Gen. ed. Larry D. Benson. Oxford: Oxford University Press; London: Humphrey Milford, 1933. 3-328.",
     "hasGenre": [
-      "Prose unspecified",
-      "Epic and verse narrative"
+      "Epic and verse narrative",
+      "Prose unspecified"
     ]
   },
   "ww_f0b8d4220bfdd308": {
@@ -258,7 +258,7 @@
     "hasBookTitle": "\"Hamlet\" and Textual Re-Production 1550-1650",
     "hasEdition": "\"Hamlet and Textual Re-Production 1550-1650.\" <i>Swiss Papers in English Language and Literature (SPELL) 22: The Construction of Textual Identity in Medieval and Early Modern Literature. </i>Eds. Denis Renevey and Indira Ghose. T\u00fcbingen: Gunter Narr, 2009. 163-176.",
     "isWrittenBy": [
-      "ww_af36f0470a7070bf"
+      "ww_8f10037a060488a1"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2009:2009",
@@ -276,9 +276,9 @@
     "hasBookTitle": "HyperHamlet",
     "hasEdition": "HyperHamlet. 2005-2020. www.hyperhamlet.unibas.ch.",
     "isWrittenBy": [
-      "ww_bb31be82453ea0c7",
+      "ww_8f10037a060488a1",
       "ww_312d8dbdee09bbef",
-      "ww_af36f0470a7070bf"
+      "ww_bb31be82453ea0c7"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2005:2020",
@@ -371,8 +371,8 @@
       "Speech or sermon"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "Philosophy, religion"
     ]
   },
   "ww_450c8e303d46eae2": {
@@ -508,7 +508,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_97955539c83b9cc3": {
@@ -551,7 +551,7 @@
       "ww_d868186812544aa2"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_1b231152ba6c63ce": {
@@ -609,7 +609,7 @@
       "ww_98586949857a29e9"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_de6299bae9b985ee": {
@@ -643,14 +643,14 @@
     "hasEdition": "\"King Leir, or King Lear and His Three Daughters.\" A Digital Anthology of Early Modern English Drama, Folger Shakespeare Library. Eds. Meaghan Brown, Michael Poston and Elizabeth Williamson. http://emed.folger.edu. Last accessed 11 December 2019.",
     "hasEditionHist": "The True Chronicle History of King Leir, and his three daughters, Gonorill, Ragan, and Cordella. As it hath bene diuers and sundry times lately acted. London: Simon Stafford for Iohn Wright, 1605.",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_98586949857a29e9"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_8dce43c17b4fa85b": {
@@ -667,14 +667,14 @@
     "hasEdition": "The True Tragedie of Richard the third. Wherein is showne the death of Edward the fourth, with the smothering of the two yoong Princes in the Tower: With a lamentable ende of Shores wife, an example for all wicked women. And lastly, the coniunction and ioyning of the two noble Houses, Lancaster and Yorke. As it was played by the Queenes Maiesties Players. London: Thomas Creede for William Barley, 1594.",
     "hasEditionHist": "The True Tragedie of Richard the third: Wherein is showne the death of Edward the fourth, with the smothering of the two yoong Princes in the Tower: With a lamentable ende of Shores wife, an example for all wicked women. And lastly, the coniunction and ioyning of the two noble Houses, Lancaster and Yorke. As it was played by the Queenes Maiesties Players. London: Thomas Creede for William Barley, 1594.",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_98586949857a29e9"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_4e5c1c1959818562": {
@@ -693,11 +693,11 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ],
     "performedByActor": [
-      "ww_d868186812544aa2",
-      "ww_2b461dcf3b8b54e7"
+      "ww_2b461dcf3b8b54e7",
+      "ww_d868186812544aa2"
     ]
   },
   "ww_5eeeb3e78e8b0bc3": {
@@ -734,7 +734,7 @@
     ],
     "hasBookComment": "This tragedy was first published in 1592.",
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_a3cda7e114a57aa4": {
@@ -742,8 +742,8 @@
     "hasBookTitle": "Edward II (HBC edition)",
     "hasEdition": "eds. <i>Edward II by Christopher Marlowe. </i>London: Methuen, 1933.",
     "isWrittenBy": [
-      "ww_40af4fdaa8bf7a1d",
-      "ww_30995ab4792b9a3f"
+      "ww_30995ab4792b9a3f",
+      "ww_40af4fdaa8bf7a1d"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1933:1933",
@@ -759,8 +759,7 @@
     "hasBookInternalId": "@005017",
     "hasBookTitle": "Faerie Queene",
     "isWrittenBy": [
-      "ww_fb2f6ac664533d01",
-      "ww_4d90bb08c3de976b"
+      "ww_fb2f6ac664533d01"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -807,7 +806,7 @@
       "ww_2f9e30089f2fa1c1"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_362b7083bdbd48df": {
@@ -839,14 +838,14 @@
     "hasPublicationDate": "GREGORIAN:1623",
     "hasEdition": "Hnery VI Party 1.",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_2f9e30089f2fa1c1"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_55bc1a3b04bf8a8d": {
@@ -855,8 +854,8 @@
     "hasEdition": "eds. <i>FDT - Folger Shakespeare Library. Shakespeare's Plays from Folger Digital Texts. </i>2010. https://www.folgerdigitaltexts.org.",
     "isWrittenBy": [
       "ww_386448c09c02ba3f",
-      "ww_c8fa0de8d0fc2fc4",
       "ww_55f5e9f5fe14853f",
+      "ww_c8fa0de8d0fc2fc4",
       "ww_4d01a832f50d804e"
     ],
     "hasLanguage": "English",
@@ -875,10 +874,10 @@
     "hasBookTitle": "Shakspere Allusion Book",
     "hasEdition": "<i>The Shakspere Allusion Book. A Collection of Allusions to Shakspere from 1591 to 1700 [...]. </i>London: Chatto and Windus; New York: Duffield and Co., 1909.",
     "isWrittenBy": [
+      "ww_a60ff4964db613ee",
       "ww_26c25538fa69a566",
       "ww_fb550941e6e9db62",
-      "ww_4c146e6d2ef23a03",
-      "ww_a60ff4964db613ee"
+      "ww_4c146e6d2ef23a03"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -907,7 +906,7 @@
       "History play"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ],
     "isLexiaBook": "ww_5c9ea4c25b49b096"
   },
@@ -924,23 +923,23 @@
     "hasPublicationDate": "GREGORIAN:1594",
     "hasEdition": "\"Edward The Second.\" <i>The Complete Plays.</i> Ed. J. B. Steane. London: Penguin 1986. 431-533.",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_2f9e30089f2fa1c1"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c",
-      "ww_c741d607338b9c9f"
+      "ww_c741d607338b9c9f",
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_7f5e9141d1116e89": {
     "hasBookInternalId": "@000928",
     "hasBookTitle": "Titus Andronicus",
     "isWrittenBy": [
-      "ww_7468c79b15d734b3",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_7468c79b15d734b3"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1592:1592",
@@ -951,9 +950,8 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
-    ],
-    "isLexiaBook": "ww_30f1eb33468c8c81"
+      "ww_5b6da0ed971ebeb7"
+    ]
   },
   "ww_4dfc3a32aa54efd5": {
     "hasBookInternalId": "@006071",
@@ -1010,11 +1008,11 @@
       "ww_2f9e30089f2fa1c1"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ],
     "performedByActor": [
-      "ww_9b2d545e20d62482",
-      "ww_4af69e0a9632326b"
+      "ww_4af69e0a9632326b",
+      "ww_9b2d545e20d62482"
     ]
   },
   "ww_a70c78f7c2563c1d": {
@@ -1029,15 +1027,15 @@
     "hasPublicationDate": "GREGORIAN:1623",
     "hasEdition": "<i>Richard III.</i>",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_2f923c7f18095fc0"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c",
-      "ww_0ee31c6b9440b9ca"
+      "ww_0ee31c6b9440b9ca",
+      "ww_5b6da0ed971ebeb7"
     ],
     "performedByActor": [
       "ww_2b461dcf3b8b54e7"
@@ -1117,7 +1115,6 @@
     ],
     "hasSubject": [
       "Literature and theatre",
-      "WOMAN WRITER",
       "Shakespeare"
     ]
   },
@@ -1224,7 +1221,7 @@
       "History play"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_7c6dc2f52fef22bc": {
@@ -1243,7 +1240,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_25455f7805208571": {
@@ -1263,7 +1260,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_df2b8c2f18df151a": {
@@ -1358,13 +1355,13 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_c741d607338b9c9f",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_c741d607338b9c9f"
     ],
     "performedByActor": [
-      "ww_74d885ce482c10a5",
+      "ww_2b461dcf3b8b54e7",
       "ww_392b079084ecbf38",
-      "ww_2b461dcf3b8b54e7"
+      "ww_74d885ce482c10a5"
     ]
   },
   "ww_bcc975a9199bde49": {
@@ -1433,8 +1430,8 @@
     "hasPublicationDate": "GREGORIAN:1597",
     "hasEdition": "Richard II.",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1561,8 +1558,8 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_c741d607338b9c9f",
-      "ww_f4835626deff2681"
+      "ww_f4835626deff2681",
+      "ww_c741d607338b9c9f"
     ]
   },
   "ww_56f51ee20f36f654": {
@@ -1577,8 +1574,8 @@
     "hasPublicationDate": "GREGORIAN:1598",
     "hasEdition": "Henry IV Part 1.",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -1620,15 +1617,15 @@
     "hasPublicationDate": "GREGORIAN:1600",
     "hasEdition": "Henry IV Part 2.",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_c741d607338b9c9f",
-      "ww_0085b41dfd1f874e"
+      "ww_0085b41dfd1f874e",
+      "ww_c741d607338b9c9f"
     ],
     "performedByActor": [
       "ww_392b079084ecbf38"
@@ -1653,8 +1650,8 @@
       "ww_dc6a53fb57f6bea7"
     ],
     "performedIn": [
-      "ww_c741d607338b9c9f",
-      "ww_0085b41dfd1f874e"
+      "ww_0085b41dfd1f874e",
+      "ww_c741d607338b9c9f"
     ]
   },
   "ww_0f0f2ccb24fa3b96": {
@@ -1753,8 +1750,8 @@
       "ww_0085b41dfd1f874e"
     ],
     "performedByActor": [
-      "ww_dd9a684dcb872564",
-      "ww_392b079084ecbf38"
+      "ww_392b079084ecbf38",
+      "ww_dd9a684dcb872564"
     ]
   },
   "ww_35b0a93761cb3765": {
@@ -1853,8 +1850,8 @@
     "hasPublicationDate": "GREGORIAN:1623",
     "hasEdition": "Julius Caesar.",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_dc6a53fb57f6bea7"
@@ -2285,8 +2282,8 @@
     "hasBookInternalId": "@005221",
     "hasBookTitle": "Acolastus' Afterwit",
     "isWrittenBy": [
-      "ww_1c3ea6e0cd221163",
-      "ww_7e08b5fab4c10b55"
+      "ww_7e08b5fab4c10b55",
+      "ww_1c3ea6e0cd221163"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1600:1600",
@@ -2334,7 +2331,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_38319ddb82fae050": {
@@ -2387,8 +2384,8 @@
       "Comedy"
     ],
     "performedBy": [
-      "ww_2eb6b7cad6584184",
-      "ww_dc6a53fb57f6bea7"
+      "ww_dc6a53fb57f6bea7",
+      "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
       "ww_09472844a3558c55"
@@ -2487,8 +2484,8 @@
     "hasBookInternalId": "@001296",
     "hasBookTitle": "Poetaster, or the Arraignment",
     "isWrittenBy": [
-      "ww_9b2d545e20d62482",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_9b2d545e20d62482"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1601:1601",
@@ -2506,8 +2503,8 @@
       "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_8926bbeaa7c56023",
       "ww_6e23936f08509ef5",
+      "ww_8926bbeaa7c56023",
       "ww_8099c312d6f14f7c"
     ]
   },
@@ -2530,7 +2527,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_573381af1170e2c9": {
@@ -2613,7 +2610,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_bb90da7c699e38e8": {
@@ -2646,10 +2643,10 @@
     "hasBookInternalId": "@001369",
     "hasBookTitle": "Sir Thomas Wyatt",
     "isWrittenBy": [
-      "ww_d78940f8a8554ca3",
-      "ww_9594c85bc48d3759",
       "ww_87dbd52f1c5b813b",
-      "ww_f10aec8cfe5ff90d"
+      "ww_f10aec8cfe5ff90d",
+      "ww_d78940f8a8554ca3",
+      "ww_9594c85bc48d3759"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1602:1602",
@@ -2661,7 +2658,7 @@
       "History play"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_aff3e1e0ec71023e": {
@@ -2720,16 +2717,16 @@
       "ww_09472844a3558c55"
     ],
     "performedByActor": [
-      "ww_5350e0c0cddb3400",
-      "ww_2b461dcf3b8b54e7"
+      "ww_2b461dcf3b8b54e7",
+      "ww_5350e0c0cddb3400"
     ]
   },
   "ww_41b526d2aa2e24a0": {
     "hasBookInternalId": "@001450",
     "hasBookTitle": "Westward Ho!",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_9594c85bc48d3759"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1604:1604",
@@ -2759,7 +2756,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ],
     "performedByActor": [
       "ww_8926bbeaa7c56023"
@@ -2822,7 +2819,6 @@
     "hasCreationDate": "GREGORIAN:1604:1604",
     "hasFirstPerformanceDate": "GREGORIAN:1604",
     "hasPublicationDate": "GREGORIAN:1606",
-    "hasEdition": "A Memoir of the Author in Six Volumes. </i>London: John Pearson, 1874. Vol. 1, 249-352.",
     "hasEditionHist": "A Memoir of the Author in Six Volumes. London: John Pearson, 1874. Vol. 1, 249-352.",
     "hasGenre": [
       "History play"
@@ -2831,9 +2827,10 @@
       "ww_b92cc9cd25fb9404"
     ],
     "performedIn": [
-      "ww_6f45f31857387ead",
-      "ww_0085b41dfd1f874e"
-    ]
+      "ww_0085b41dfd1f874e",
+      "ww_6f45f31857387ead"
+    ],
+    "hasEdition": "A Memoir of the Author in Six Volumes. </i>London: John Pearson, 1874. Vol. 1, 249-352."
   },
   "ww_c7017a2fd4b1ff37": {
     "hasBookInternalId": "@001448",
@@ -2920,8 +2917,8 @@
       "ww_09472844a3558c55"
     ],
     "performedByActor": [
-      "ww_5350e0c0cddb3400",
-      "ww_2b461dcf3b8b54e7"
+      "ww_2b461dcf3b8b54e7",
+      "ww_5350e0c0cddb3400"
     ]
   },
   "ww_9010922e52e83dc1": {
@@ -2943,9 +2940,9 @@
     "hasBookInternalId": "@001473",
     "hasBookTitle": "Eastward Ho!",
     "isWrittenBy": [
+      "ww_8501ec457f433848",
       "ww_ad03d7c87e5b9c24",
-      "ww_9b2d545e20d62482",
-      "ww_8501ec457f433848"
+      "ww_9b2d545e20d62482"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1605:1605",
@@ -2962,6 +2959,7 @@
     "performedIn": [
       "ww_f4835626deff2681"
     ],
+    "isLexiaBook": "ww_e4ab8d457bbb7073",
     "performedByActor": [
       "ww_8926bbeaa7c56023"
     ]
@@ -3006,8 +3004,8 @@
     "hasBookInternalId": "@001483",
     "hasBookTitle": "Northward Ho!",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_9594c85bc48d3759"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1605:1605",
@@ -3022,8 +3020,9 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
-    ]
+      "ww_5b6da0ed971ebeb7"
+    ],
+    "isLexiaBook": "ww_c3ae123765875482"
   },
   "ww_9ccfd1aca399310c": {
     "hasBookInternalId": "@001479",
@@ -3044,7 +3043,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_61872493594a73aa": {
@@ -3063,8 +3062,8 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_25bb6c5b90a2e2fe",
-      "ww_b00be8347d0cb16d"
+      "ww_2ac44791912e7737",
+      "ww_673528dd47ffcc8f"
     ],
     "performedBy": [
       "ww_271a9756145ec962"
@@ -3098,8 +3097,8 @@
     "hasBookInternalId": "@001522",
     "hasBookTitle": "Woman-Hater",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -3224,15 +3223,15 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_25bb6c5b90a2e2fe"
+      "ww_2ac44791912e7737"
     ]
   },
   "ww_b8eaca27cf9698df": {
     "hasBookInternalId": "@001555",
     "hasBookTitle": "Pericles",
     "isWrittenBy": [
-      "ww_986dd93d2d794ff5",
-      "ww_684176b58bc762f6"
+      "ww_684176b58bc762f6",
+      "ww_986dd93d2d794ff5"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1607:1607",
@@ -3361,16 +3360,16 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_e40171df17c362c2": {
     "hasBookInternalId": "@001575",
     "hasBookTitle": "Conspiracy of Charles, Duke of Byron",
     "isWrittenBy": [
-      "ww_6f4a80592c6c793c",
-      "ww_8501ec457f433848"
+      "ww_8501ec457f433848",
+      "ww_6f4a80592c6c793c"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -3396,8 +3395,8 @@
     "hasEdition": "\"The Tragedy of Charles Duke of Byron.\" <i>The Plays of George Chapman. </i>Ed. Thomas Marc Parrott. 4 vols. New York: Russell and Russell, 1961. The Tragedies, Vol. 1, 209-272.",
     "hasEditionHist": "\"Tragedie of Charles Duke of Byron.\" The Conspiracie, And Tragedie of Charles Duke of Byron, Marshall of France. Acted lately in two playes, at the Black-Friers. Written by George Chapman. London: G. Eld for Thomas Thorppe, 1608.",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_271a9756145ec962"
@@ -3487,7 +3486,7 @@
       "ww_40dbf7972330f98d"
     ],
     "performedIn": [
-      "ww_711c5ee27a4eef5d"
+      "ww_6aa5aa597850d3c1"
     ]
   },
   "ww_d0062b214b9d3402": {
@@ -3558,7 +3557,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_0103dc75cd6d8928": {
@@ -3579,8 +3578,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_90bb6791f9507246": {
@@ -3593,7 +3592,6 @@
     "hasCreationDate": "GREGORIAN:1610:1610",
     "hasFirstPerformanceDate": "GREGORIAN:1610",
     "hasPublicationDate": "GREGORIAN:1618",
-    "hasEdition": "\"Amends for Ladies.\" The Plays of Nathan Field: Edited from the Original Quartos with Introduction and Notes. Ed. William Peery. Austin: The University of Texas Press, 1950. 159-236.",
     "hasEditionHist": "\"Amends for Ladies.\" The Plays of Nathan Field: Edited from the Original Quartos with Introduction and Notes. Ed. William Peery. Austin: The University of Texas Press, 1950. 159-236.",
     "hasGenre": [
       "Comedy"
@@ -3604,6 +3602,7 @@
     "performedIn": [
       "ww_5d0d5aee532a0b4b"
     ],
+    "hasEdition": "\"Amends for Ladies.\" <i>The Plays of Nathan Field: Edited from the Original Quartos with Introduction and Notes. </i>Ed. William Peery. Austin: The University of Texas Press, 1950. 159-236.",
     "performedByActor": [
       "ww_8926bbeaa7c56023"
     ]
@@ -3642,16 +3641,16 @@
       "Comedy"
     ],
     "performedByActor": [
-      "ww_8926bbeaa7c56023",
+      "ww_3bbb9662acf999fa",
       "ww_535dbb6e2fbfea98",
       "ww_410b3b18358b9b9b",
-      "ww_8099c312d6f14f7c",
-      "ww_5350e0c0cddb3400",
-      "ww_3bbb9662acf999fa",
+      "ww_bbc0cf35a4cbd541",
+      "ww_8926bbeaa7c56023",
+      "ww_4af69e0a9632326b",
       "ww_6e23936f08509ef5",
       "ww_2b461dcf3b8b54e7",
-      "ww_bbc0cf35a4cbd541",
-      "ww_4af69e0a9632326b"
+      "ww_5350e0c0cddb3400",
+      "ww_8099c312d6f14f7c"
     ]
   },
   "ww_01ddff4da654930e": {
@@ -3678,10 +3677,10 @@
       "ww_c2cdd6ec99df368c"
     ],
     "performedByActor": [
-      "ww_9ccd42bf68e83cf2",
-      "ww_2b9db3a71c232d4f",
       "ww_4fdaef848b2cf826",
-      "ww_384c38a8c5407382"
+      "ww_384c38a8c5407382",
+      "ww_9ccd42bf68e83cf2",
+      "ww_2b9db3a71c232d4f"
     ]
   },
   "ww_b66147e2b9509c51": {
@@ -3696,8 +3695,8 @@
     "hasEdition": "<i>The scourge of folly consisting of satyricall epigramms, and others in honor of many noble and worthy persons of our land. Together, with a pleasant (thought discordant) descant vpon most English prouerbes: and others. </i>London: Edward Allde for Richard Redmer, 1611.",
     "hasEditionHist": "The scourge of folly consisting of satyricall epigramms, and others in honor of many noble and worthy persons of our land. Together, with a pleasant (thought discordant) descant vpon most English prouerbes: and others. London: Edward Allde for Richard Redmer, 1611.",
     "hasGenre": [
-      "Poetry unspecified",
-      "Verse satire"
+      "Verse satire",
+      "Poetry unspecified"
     ]
   },
   "ww_0466ed69bf4a50be": {
@@ -3741,8 +3740,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ],
     "performedByActor": [
       "ww_5350e0c0cddb3400"
@@ -3869,9 +3868,9 @@
       "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_3bbb9662acf999fa",
       "ww_2b461dcf3b8b54e7",
-      "ww_8099c312d6f14f7c"
+      "ww_8099c312d6f14f7c",
+      "ww_3bbb9662acf999fa"
     ]
   },
   "ww_384598056518c080": {
@@ -3926,8 +3925,8 @@
     "hasBookInternalId": "@001798",
     "hasBookTitle": "Fair Quarrel",
     "isWrittenBy": [
-      "ww_5cb3d6fa23800e74",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_5cb3d6fa23800e74"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "A",
@@ -3972,8 +3971,8 @@
     "hasBookInternalId": "@001883",
     "hasBookTitle": "Fatal Dowry",
     "isWrittenBy": [
-      "ww_8926bbeaa7c56023",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_8926bbeaa7c56023"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -4010,23 +4009,23 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_463b20e6963d2636",
       "ww_3bbb9662acf999fa",
-      "ww_6e23936f08509ef5",
+      "ww_4af69e0a9632326b",
       "ww_bbc0cf35a4cbd541",
-      "ww_4af69e0a9632326b"
+      "ww_6e23936f08509ef5",
+      "ww_463b20e6963d2636"
     ]
   },
   "ww_e7c84f709b583d5f": {
     "hasBookInternalId": "@001957",
     "hasBookTitle": "Virgin Martyr",
     "isWrittenBy": [
-      "ww_87dbd52f1c5b813b",
-      "ww_cbc2c3284144573a"
+      "ww_cbc2c3284144573a",
+      "ww_87dbd52f1c5b813b"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -4056,7 +4055,6 @@
     "hasCreationDate": "GREGORIAN:1620:1620",
     "hasFirstPerformanceDate": "GREGORIAN:1620",
     "hasPublicationDate": "GREGORIAN:1661",
-    "hasEdition": "\"The Mayor of Queenborough.\" The Collected Works. Eds. Gary Taylor and John Lavagnino. Oxford: Clarendon Press, 2007. 1448-1487.",
     "hasGenre": [
       "Tragedy"
     ],
@@ -4064,9 +4062,10 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
-    ]
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
+    ],
+    "hasEdition": "\"The Mayor of Queenborough.\" <i>The Collected Works. </i>Eds. Gary Taylor and John Lavagnino. Oxford: Clarendon Press, 2007. 1448-1487."
   },
   "ww_793656d1383624b3": {
     "hasBookInternalId": "@005003",
@@ -4106,13 +4105,13 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ],
     "performedByActor": [
       "ww_463b20e6963d2636",
-      "ww_3bbb9662acf999fa",
-      "ww_4af69e0a9632326b"
+      "ww_4af69e0a9632326b",
+      "ww_3bbb9662acf999fa"
     ]
   },
   "ww_791d02b9b4f75414": {
@@ -4204,8 +4203,8 @@
     "hasBookInternalId": "@002186",
     "hasBookTitle": "Appius and Virginia",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_f10aec8cfe5ff90d"
+      "ww_f10aec8cfe5ff90d",
+      "ww_9594c85bc48d3759"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1626:1626",
@@ -4239,7 +4238,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_c0565d6dc5476bc1": {
@@ -4288,11 +4287,11 @@
       "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_723943f0c5dcde08",
-      "ww_5c6e0dd665217e44",
+      "ww_3bbb9662acf999fa",
       "ww_fabcdc97b91b0a87",
-      "ww_0222ba91a76da157",
-      "ww_3bbb9662acf999fa"
+      "ww_5c6e0dd665217e44",
+      "ww_723943f0c5dcde08",
+      "ww_0222ba91a76da157"
     ]
   },
   "ww_cde6c9bb00f512f1": {
@@ -4300,8 +4299,8 @@
     "hasBookTitle": "Dramatic Works of D'Avenant (Maidment edition)",
     "hasEdition": "eds. <i>The Dramatic Works of Sir William D'Avenant with prefatory memoir and notes.</i> 5 vols. Edinburgh: William Paterson, 1872-1874. Quoted from https://archive.org.",
     "isWrittenBy": [
-      "ww_879f912a1f1f2778",
-      "ww_34011c74774044d7"
+      "ww_34011c74774044d7",
+      "ww_879f912a1f1f2778"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1872:1874",
@@ -4333,8 +4332,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_0a181b40f9edb85e": {
@@ -4360,9 +4359,9 @@
       "ww_f4835626deff2681"
     ]
   },
-  "ww_b36965708055a175": {
+  "ww_4f3a6c946a2fcd1e": {
     "hasBookInternalId": "@002214",
-    "hasBookTitle": "Great Duke",
+    "hasBookTitle": "Great Duke of Florence",
     "isWrittenBy": [
       "ww_cbc2c3284144573a"
     ],
@@ -4448,8 +4447,8 @@
     "hasEdition": "\"The Maid of Honour.\" The Plays and Poems of Philip Massinger. Eds. Philip Edwards and Colin Gibson. 5 vols. Oxford: Clarendon Press, 1976. Vol. 1, 117-197.",
     "hasEditionHist": "The Maid of Honovr. As it hath beene often presented with good allowance at the Phoenix in Drvrie-Lane, by the Queenes Majesties Servants. Written by Philip Massinger. London: I. B. for Robert Allot, 1632.",
     "hasGenre": [
-      "Tragicomedy",
-      "Tragedy"
+      "Tragedy",
+      "Tragicomedy"
     ],
     "performedBy": [
       "ww_fb09029608b37502"
@@ -4503,8 +4502,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_cf1407d337262e2b": {
@@ -4521,7 +4520,7 @@
     "hasEdition": "\"The Jealous Lovers.\" The Poetical and Dramatic Works of Thomas Randolph [...] First Collected and Edited from the Early Copies and for MSS with some Account of the Author and Occasional notes. Ed. W. Carew Hazlitt. London: Reeves and Turner, 1875. 51-172.",
     "hasEditionHist": "The Jealous Lovers. A Comedie presented to their gracious Majesties at Cambridge, by the Students of Trinity-Colledge. Cambridge: University Printers, 1632.",
     "performedIn": [
-      "ww_25bb6c5b90a2e2fe"
+      "ww_2ac44791912e7737"
     ],
     "hasGenre": [
       "Comedy"
@@ -4667,8 +4666,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_cbaaf055faeea9bc": {
@@ -4825,8 +4824,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "Philosophy, religion"
     ]
   },
   "ww_fca85ff87c98f237": {
@@ -4912,8 +4911,8 @@
     "hasBookInternalId": "@002824",
     "hasBookTitle": "Revenge for Honour",
     "isWrittenBy": [
-      "ww_6f4a80592c6c793c",
-      "ww_8501ec457f433848"
+      "ww_8501ec457f433848",
+      "ww_6f4a80592c6c793c"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1642:1642",
@@ -4924,7 +4923,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_a6e17ea1c0063cc4": {
@@ -5126,6 +5125,7 @@
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1667:1667",
+    "hasFirstPerformanceDate": "GREGORIAN:1668",
     "hasEdition": "\"The Rivals.\" <i>The Dramatic Works of Sir William D'Avenant. </i>Eds. James Maidment and W. H. Logan. 5 vols. Edinburgh: William Paterson, 1872-1874. Vol. 5, 213-294.",
     "hasGenre": [
       "Tragicomedy"
@@ -5411,7 +5411,7 @@
     "hasBookInternalId": "@005243",
     "hasBookTitle": "Restauration",
     "isWrittenBy": [
-      "ww_ae2d914875625509"
+      "ww_23b5e1e48168666e"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -5492,8 +5492,8 @@
     "hasBookInternalId": "@000351",
     "hasBookTitle": "Gorboduc",
     "isWrittenBy": [
-      "ww_3d7f30bfa784adbc",
-      "ww_7af335e6c892a8d0"
+      "ww_7af335e6c892a8d0",
+      "ww_3d7f30bfa784adbc"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1562:1562",
@@ -5571,7 +5571,7 @@
     ],
     "hasBookComment": "The complete text is lost.",
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ],
     "performedByActor": [
       "ww_2b461dcf3b8b54e7"
@@ -5663,7 +5663,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_bbc60e095377316e"
+      "ww_b692201f482f8ee2"
     ]
   },
   "ww_cab45865f23c0801": {
@@ -5725,8 +5725,8 @@
     "hasPublicationDate": "GREGORIAN:1623",
     "hasEdition": "<i>Henry VI Part 1.",
     "hasGenre": [
-      "Tragedy",
-      "History play"
+      "History play",
+      "Tragedy"
     ],
     "performedBy": [
       "ww_06311c47190f2d0a"
@@ -5782,8 +5782,8 @@
     "hasBookInternalId": "@005006",
     "hasBookTitle": "Hero and Leander",
     "isWrittenBy": [
-      "ww_63d5fe36ffac5d32",
-      "ww_8501ec457f433848"
+      "ww_8501ec457f433848",
+      "ww_63d5fe36ffac5d32"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1593:1593",
@@ -5963,8 +5963,8 @@
     "hasEdition": "eds. <i>The Lost Plays Database. </i>2009. https://lostplays.folger.edu.",
     "isWrittenBy": [
       "ww_9b31ef6bda9ca82e",
-      "ww_6eecb90205e22797",
-      "ww_fc5d42be67d5a977"
+      "ww_fc5d42be67d5a977",
+      "ww_6eecb90205e22797"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -6079,7 +6079,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_0d47d04341ff3e0d": {
@@ -6102,7 +6102,7 @@
       "ww_2f923c7f18095fc0"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_ce9e48c1ecd24728": {
@@ -6160,7 +6160,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_01a2557ffc81f6ca": {
@@ -6424,8 +6424,8 @@
       "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_8926bbeaa7c56023",
-      "ww_6e23936f08509ef5"
+      "ww_6e23936f08509ef5",
+      "ww_8926bbeaa7c56023"
     ],
     "isLexiaBook": "ww_41ede034f612c386"
   },
@@ -6503,7 +6503,7 @@
   "ww_bd61ff243a1c12bf": {
     "hasBookInternalId": "@010074",
     "hasBookTitle": "What Happens in Hamlet",
-    "hasEdition": "<i>What Happens in Hamlet? </i>Cambridge: Cambridge University Press, 2003.",
+    "hasEdition": "<i>What Happens in </i>Hamlet</i>? Cambridge: Cambridge University Press, 2003.",
     "isWrittenBy": [
       "ww_e59f20507549cc08"
     ],
@@ -6570,6 +6570,23 @@
     "hasSubject": [
       "Literature and theatre",
       "Shakespeare"
+    ]
+  },
+  "ww_5a13500766c28f37": {
+    "hasBookInternalId": "@005778",
+    "hasBookTitle": "Titus Andronicus (mxw edition)",
+    "hasEdition": "ed. William Shakespeare. <i>Titus Andronicus.</i> Third edition. Arden edition. New York and London: Methuen, 1985.",
+    "isWrittenBy": [
+      "ww_1389fc1afc8e689b"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1961:1961",
+    "hasPublicationDate": "GREGORIAN:1961:1961",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
     ]
   },
   "ww_42a6c34f5f492571": {
@@ -6718,10 +6735,10 @@
       "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_5350e0c0cddb3400",
+      "ww_2b461dcf3b8b54e7",
       "ww_aa9d769d4c22a17a",
-      "ww_852c7c260688c7cd",
-      "ww_2b461dcf3b8b54e7"
+      "ww_5350e0c0cddb3400",
+      "ww_852c7c260688c7cd"
     ]
   },
   "ww_75ea66b2f428cc3e": {
@@ -6752,8 +6769,8 @@
     "hasEdition": "Daiphantus, or The Passions of Loue. Comicall to Reade, But Tragicall to Act: As full of Wit, as of Experience. London: T. Creede for William Cotton, 1604.",
     "hasEditionHist": "Daiphantus, or The Passions of Loue. Comicall to Reade, But Tragicall to Act: As full of Wit, as of Experience. London: T. Creede for William Cotton, 1604.",
     "hasGenre": [
-      "Prose unspecified",
-      "Poetry unspecified"
+      "Poetry unspecified",
+      "Prose unspecified"
     ]
   },
   "ww_c349487657677682": {
@@ -6998,8 +7015,8 @@
     "hasBookInternalId": "@001605",
     "hasBookTitle": "Insatiate Countess",
     "isWrittenBy": [
-      "ww_ad03d7c87e5b9c24",
       "ww_4165dddf64bc6da3",
+      "ww_ad03d7c87e5b9c24",
       "ww_18abf85e413e5632"
     ],
     "hasLanguage": "English",
@@ -7085,8 +7102,8 @@
     "hasBookInternalId": "@001650",
     "hasBookTitle": "Maid's Tragedy",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -7136,12 +7153,12 @@
       "Masque or other"
     ],
     "performedBy": [
-      "ww_271a9756145ec962",
-      "ww_dfe3ddd6db3b2f36"
+      "ww_dfe3ddd6db3b2f36",
+      "ww_271a9756145ec962"
     ],
     "performedIn": [
-      "ww_5d0d5aee532a0b4b",
-      "ww_619f41052f26be98"
+      "ww_619f41052f26be98",
+      "ww_5d0d5aee532a0b4b"
     ]
   },
   "ww_bbe95c2adf8e27c8": {
@@ -7209,10 +7226,10 @@
       "Comedy"
     ],
     "performedByActor": [
-      "ww_0222ba91a76da157",
-      "ww_723943f0c5dcde08",
       "ww_3bbb9662acf999fa",
-      "ww_463b20e6963d2636"
+      "ww_0222ba91a76da157",
+      "ww_463b20e6963d2636",
+      "ww_723943f0c5dcde08"
     ]
   },
   "ww_6b9bc6143aac54e5": {
@@ -7242,8 +7259,8 @@
     "hasBookInternalId": "@002069",
     "hasBookTitle": "Fortune by Land and Sea",
     "isWrittenBy": [
-      "ww_5cb3d6fa23800e74",
-      "ww_f10aec8cfe5ff90d"
+      "ww_f10aec8cfe5ff90d",
+      "ww_5cb3d6fa23800e74"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1623:1623",
@@ -7340,8 +7357,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_ae5a361b7f786e79": {
@@ -7447,7 +7464,7 @@
       "ww_cf1e1a78f52e58d7"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_55ab4059c87d0c3d": {
@@ -7605,13 +7622,13 @@
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1658:1658",
     "hasPublicationDate": "GREGORIAN:1658",
-    "hasEdition": "<i>The Tragedy of The Unhappy Fair Irene. By Gilbert Swinhoe, Esq. L</i>ondon, J. Streater, 1658.",
+    "hasEdition": "<i>The Tragedy of The Unhappy Fair Irene. By Gilbert Swinhoe, Esq. </i>London, J. Streater, 1658.",
     "hasGenre": [
       "Tragedy"
     ],
     "hasBookComment": "This tragedy is Nr. 1165 in the DEEP database.",
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_c3d54a5f865059b5": {
@@ -7634,13 +7651,13 @@
       "ww_2d9d73da6661c303"
     ],
     "performedByActor": [
-      "ww_e8a67a6ed0d4751d",
       "ww_0387fc4ac2455b69",
-      "ww_bcf89068250c325a",
-      "ww_1abe9fec4b2c00f1",
-      "ww_7b9bace64a79b6c9",
+      "ww_22b930035d1377b2",
       "ww_5e425b3500e3374c",
-      "ww_22b930035d1377b2"
+      "ww_e8a67a6ed0d4751d",
+      "ww_7b9bace64a79b6c9",
+      "ww_1abe9fec4b2c00f1",
+      "ww_bcf89068250c325a"
     ]
   },
   "ww_0965950ce24023d7": {
@@ -7721,7 +7738,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ],
     "isLexiaBook": "ww_c330cac7aada8e26"
   },
@@ -7747,8 +7764,8 @@
     "hasBookInternalId": "@005030",
     "hasBookTitle": "Those Five Questions (Tusculanae)",
     "isWrittenBy": [
-      "ww_2328c74af1f27243",
-      "ww_6b7b6aabda5c7c6b"
+      "ww_6b7b6aabda5c7c6b",
+      "ww_2328c74af1f27243"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1561:1561",
@@ -8062,20 +8079,6 @@
       "Shakespeare"
     ]
   },
-  "ww_9975ce7c0c123695": {
-    "hasBookInternalId": "@005076",
-    "hasBookTitle": "Euphues and His England",
-    "isWrittenBy": [
-      "ww_ba0230e7fbb5fd0d"
-    ],
-    "hasLanguage": "English",
-    "hasCreationDate": "GREGORIAN:1578:1578",
-    "hasEdition": "\"Euphues and His England.\" <i>The Complete Works of John Lyly. </i>Ed. Warwick Bond. 3 vols. Oxford: Clarendon Press, 1902. Vol. 2, 1-229.",
-    "hasGenre": [
-      "Prose unspecified"
-    ],
-    "isLexiaBook": "ww_9a91a2650acc30fa"
-  },
   "ww_2edf97959231c1b4": {
     "hasBookInternalId": "@005029",
     "hasBookTitle": "Euphues, The Anatomy of Wit",
@@ -8125,6 +8128,21 @@
     "hasSubject": [
       "Literature and theatre"
     ]
+  },
+  "ww_9975ce7c0c123695": {
+    "hasBookInternalId": "@005076",
+    "hasBookTitle": "Euphues and His England",
+    "isWrittenBy": [
+      "ww_ba0230e7fbb5fd0d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1579:1579",
+    "hasEdition": "<i>Euphues and his England Containing his voyage and his aduentures, myxed with sundrie pretie discourses of honest loue, the discription of the countrey, the court, and the manners of that isle. Delightful to be read, and nothing hurtfull to be regarded: wherein there is small offence by lightnesse giuen to the wise, and lesse occasion of looseness proffered to the wanton. By Iohn Lyly, Maister of Arte. Commend it, or amend it.</i> London: T. East for Gabriel Cawood, 1580.",
+    "hasEditionHist": "<i>Euphues and his England Containing his voyage and his aduentures, myxed with sundrie pretie discourses of honest loue, the discription of the countrey, the court, and the manners of that isle. Delightful to be read, and nothing hurtfull to be regarded: wherein there is small offence by lightnesse giuen to the wise, and lesse occasion of looseness proffered to the wanton. By Iohn Lyly, Maister of Arte. Commend it, or amend it.</i> London: T. East for Gabriel Cawood, 1580.",
+    "hasGenre": [
+      "Prose unspecified"
+    ],
+    "isLexiaBook": "ww_9a91a2650acc30fa"
   },
   "ww_fca7220ca2a43d7a": {
     "hasBookInternalId": "@005069",
@@ -8183,11 +8201,11 @@
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1581:1581",
-    "hasEdition": "<i>The ciuile conuersation of M. Steeuen Guazzo written first in Italian, and nowe translated out of French by George Pettie, deuided into foure bookes. [...]. </i>London: Richard Watkins, 1581.",
+    "hasEdition": "<i>The ciuile conuersation of M. Steeuen Guazzo written first in Italian, and nowe translated out of French by George Pettie, deuided into foure bookes [...]. </i>London: Richard Watkins, 1581.",
     "hasEditionHist": "5 verso.",
     "hasGenre": [
-      "Other nonfiction",
-      "Pamphlet or liturgical text"
+      "Pamphlet or liturgical text",
+      "Other nonfiction"
     ],
     "hasSubject": [
       "Sociology, lifestyle, travel"
@@ -8398,8 +8416,8 @@
     "hasCreationDate": "GREGORIAN:1585:1585",
     "hasEdition": "<i>A Sinfull Mans Solace. </i>London: Richard Jones, 1585.",
     "hasGenre": [
-      "Other nonfiction",
-      "Pamphlet or liturgical text"
+      "Pamphlet or liturgical text",
+      "Other nonfiction"
     ],
     "hasSubject": [
       "Philosophy, religion"
@@ -8452,8 +8470,8 @@
     "hasCreationDate": "GREGORIAN:1586:1586",
     "hasEditionHist": "<i>The Countesse of Pembrokes Arcadia. Written by Sir Philip Sidney Knight. Now since the first edition augmented and ended. </i>London: John Windet for William Ponsonbie, 1593.",
     "hasGenre": [
-      "Prose unspecified",
-      "Epic and verse narrative"
+      "Epic and verse narrative",
+      "Prose unspecified"
     ],
     "hasEdition": "<i>The Countesse of Pembrokes Arcadia, written by Sir Philippe Sidnei. </i>London: John Windet for William Ponsonby, 1590."
   },
@@ -8492,8 +8510,8 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_c741d607338b9c9f",
-      "ww_99cb897ff63313b5"
+      "ww_99cb897ff63313b5",
+      "ww_c741d607338b9c9f"
     ],
     "performedByActor": [
       "ww_d868186812544aa2"
@@ -8529,8 +8547,8 @@
       "ww_312616f20d6e5e9b"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c",
-      "ww_99cb897ff63313b5"
+      "ww_99cb897ff63313b5",
+      "ww_5b6da0ed971ebeb7"
     ],
     "hasEdition": "\"The First Part of Tamburlaine The Great.\" The Complete Plays. Ed. J. B. Steane. London: Penguin 1986. 101-178.",
     "hasGenre": [
@@ -8576,9 +8594,9 @@
       "Tragedy"
     ],
     "performedByActor": [
-      "ww_d868186812544aa2",
+      "ww_2b461dcf3b8b54e7",
       "ww_9b2d545e20d62482",
-      "ww_2b461dcf3b8b54e7"
+      "ww_d868186812544aa2"
     ],
     "performedIn": [
       "ww_99cb897ff63313b5"
@@ -8656,15 +8674,15 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_f052ab291abd7898": {
     "hasBookInternalId": "@000820",
     "hasBookTitle": "Dido, Queen of Carthage",
     "isWrittenBy": [
-      "ww_9e2e58504b5d3de8",
-      "ww_63d5fe36ffac5d32"
+      "ww_63d5fe36ffac5d32",
+      "ww_9e2e58504b5d3de8"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1588:1588",
@@ -8710,7 +8728,7 @@
       "Tragedy"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ],
     "performedByActor": [
       "ww_d868186812544aa2"
@@ -8903,7 +8921,7 @@
       "Romance"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ],
     "hasBookComment": "This romance has been controversially attributed to William Shakespeare, George Peele, Robert Greene and Thomas Lodge. "
   },
@@ -8936,8 +8954,8 @@
     "hasEdition": "<i>Florios second frutes to be gathered of twelue trees, of diuers but delightsome tastes to the tongues of Italians and Englishmen. To which is annexed his Gardine of recreation yeelding six thousand Italian prouerbs. </i>London: T. Orwin for Thomas Woodcock, 1591.",
     "hasEditionHist": "<i>Florios second frutes to be gathered of twelue trees, of diuers but delightsome tastes to the tongues of Italians and Englishmen. To which is annexed his Gardine of recreation yeelding six thousand Italian prouerbs. </i>London: T. Orwin for Thomas Woodcock, 1591.",
     "hasGenre": [
-      "Other nonfiction",
-      "Anthology"
+      "Anthology",
+      "Other nonfiction"
     ]
   },
   "ww_1406e63807fff1e7": {
@@ -9172,7 +9190,7 @@
   "ww_ff7c02f30a817796": {
     "hasBookInternalId": "@006294",
     "hasBookTitle": "Note on Shakespeare and Nash",
-    "hasEdition": "\"A Note on Shakespeare and Nash.\" <i>MOdern Language Notes</i> 42.5 (May 1927): 317-319.",
+    "hasEdition": "\"A Note on Shakespeare and Nash.\" <i>Modern Language Notes</i> 42.5 (May 1927): 317-319.",
     "isWrittenBy": [
       "ww_273c5758815277c8"
     ],
@@ -9199,7 +9217,7 @@
     "hasCreationDate": "GREGORIAN:1597:1597",
     "hasFirstPerformanceDate": "GREGORIAN:1597",
     "hasPublicationDate": "GREGORIAN:1599",
-    "hasEdition": "A Warning for Faire Women. As it hath beene lately diuerse times acted by the right Honorable, the Lord Chamberlaine his Seruantes. London: Valentine Sims for William Aspley, 1599.",
+    "hasEdition": "<i>A Warning for Faire Women. As it hath beene lately diuerse times acted by the right Honorable, the Lord Chamberlaine his Seruantes.</i> London: Valentine Sims for William Aspley, 1599.",
     "hasEditionHist": "A Warning for Faire Women. As it hath beene lately diuerse times acted by the right Honorable, the Lord Chamberlaine his Seruantes. London: Valentine Sims for William Aspley, 1599.",
     "hasGenre": [
       "Tragedy"
@@ -9225,10 +9243,10 @@
       "ww_0085b41dfd1f874e"
     ],
     "performedByActor": [
-      "ww_535dbb6e2fbfea98",
-      "ww_392b079084ecbf38",
       "ww_684176b58bc762f6",
+      "ww_392b079084ecbf38",
       "ww_d57002bb2284405d",
+      "ww_535dbb6e2fbfea98",
       "ww_2b461dcf3b8b54e7"
     ],
     "isLexiaBook": "ww_8f82a21af04083e6",
@@ -9258,7 +9276,7 @@
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1598:1600",
     "hasEdition": "<i>The Deplorable Life and Death of Edward the Second. </i>1628. H8 verso; stanza 491. Quoted in: Sayre Greenfield. \"Quoting Hamlet in the Early Seventeenth Century.\" <i>Modern Philology </i>105.3 (2008): 510-534.",
-    "hasEditionHist": "The Deplorable Life and Death of Edward the Second. 1628. H8 verso; stanza 491. Quoted in: Sayre Greenfield. \"Quoting Hamlet in the Early Seventeenth Century.\" Modern Philology 105.3 (2008): 510\u2013534.",
+    "hasEditionHist": "<i>The Deplorable Life and Death of Edward the Second. </i>1628. H8 verso; stanza 491. Quoted in: Sayre Greenfield. \"Quoting Hamlet in the Early Seventeenth Century.\" <i>Modern Philology </i>105.3 (2008): 510\u2013534.",
     "hasGenre": [
       "Epic and verse narrative"
     ]
@@ -9315,7 +9333,7 @@
       "ww_32677fe04c4e3a16"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_d173027b939e13b9": {
@@ -9393,9 +9411,9 @@
     "hasBookTitle": "Collected Works of Abraham Cowley",
     "hasEdition": "eds. <i>The Collected Works of Abraham Cowley. </i>3 vols. Newark: University of Delaware Press, 1989.",
     "isWrittenBy": [
-      "ww_d5b779fffbf80505",
+      "ww_02df784376aa9b65",
       "ww_0ec070acc1a8c693",
-      "ww_02df784376aa9b65"
+      "ww_d5b779fffbf80505"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -9536,8 +9554,8 @@
     "hasBookInternalId": "@005020",
     "hasBookTitle": "Summary Answer to All the Material Points",
     "isWrittenBy": [
-      "ww_6189bca8bbb55fc5",
-      "ww_3fd2c4fdb8a41f86"
+      "ww_3fd2c4fdb8a41f86",
+      "ww_6189bca8bbb55fc5"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "A",
@@ -9773,7 +9791,7 @@
       "ww_2eb6b7cad6584184"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_d4412fbd862e35de": {
@@ -9910,8 +9928,8 @@
     "hasBookInternalId": "@001598",
     "hasBookTitle": "Coxcomb",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -9927,8 +9945,8 @@
       "ww_b103d94d309afeef"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c",
-      "ww_5d0d5aee532a0b4b"
+      "ww_5d0d5aee532a0b4b",
+      "ww_5b6da0ed971ebeb7"
     ],
     "performedByActor": [
       "ww_3bbb9662acf999fa",
@@ -9958,17 +9976,17 @@
       "ww_5d0d5aee532a0b4b"
     ],
     "performedByActor": [
-      "ww_3bbb9662acf999fa",
       "ww_4165dddf64bc6da3",
-      "ww_8926bbeaa7c56023"
+      "ww_8926bbeaa7c56023",
+      "ww_3bbb9662acf999fa"
     ]
   },
   "ww_78616e66e6b9adab": {
     "hasBookInternalId": "@001626",
     "hasBookTitle": "Scornful Lady",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -10038,9 +10056,9 @@
     "hasBookInternalId": "@001719",
     "hasBookTitle": "Honest Man's Fortune",
     "isWrittenBy": [
-      "ww_ba2bed49492fef13",
-      "ww_8926bbeaa7c56023",
       "ww_cbc2c3284144573a",
+      "ww_8926bbeaa7c56023",
+      "ww_ba2bed49492fef13",
       "ww_3cc0cce5b6bf554a"
     ],
     "hasLanguage": "English",
@@ -10059,10 +10077,10 @@
       "ww_619f41052f26be98"
     ],
     "performedByActor": [
-      "ww_463b20e6963d2636",
       "ww_8926bbeaa7c56023",
-      "ww_3bbb9662acf999fa",
-      "ww_bbc0cf35a4cbd541"
+      "ww_463b20e6963d2636",
+      "ww_bbc0cf35a4cbd541",
+      "ww_3bbb9662acf999fa"
     ]
   },
   "ww_e2819daa76aa8c10": {
@@ -10178,14 +10196,14 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ],
     "performedByActor": [
+      "ww_4af69e0a9632326b",
       "ww_bbc0cf35a4cbd541",
       "ww_3bbb9662acf999fa",
-      "ww_6e23936f08509ef5",
-      "ww_4af69e0a9632326b"
+      "ww_6e23936f08509ef5"
     ]
   },
   "ww_0e02025dae34b353": {
@@ -10279,7 +10297,7 @@
     ],
     "hasBookComment": "The author of this tragedy was the son of Shakespeare's fellow actor and editor John Heminge.",
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_ada3895646f810c7": {
@@ -10467,8 +10485,8 @@
     "hasEdition": "<i>Aglaura. </i>London: John Haviland for Thomas Wackley, 1638.",
     "hasEditionHist": "Aglaura. London: John Haviland for Thomas Wackley, 1638.",
     "hasGenre": [
-      "Tragicomedy",
-      "Tragedy"
+      "Tragedy",
+      "Tragicomedy"
     ],
     "performedBy": [
       "ww_58b17c98fafa10ae"
@@ -10492,8 +10510,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "History, (auto-)biography"
+      "History, (auto-)biography",
+      "Philosophy, religion"
     ]
   },
   "ww_69e5d93a704cabe0": {
@@ -10505,7 +10523,7 @@
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1649:1649",
     "hasPublicationDate": "GREGORIAN:1649",
-    "hasEdition": "27; act 3 [normalized spelling].",
+    "hasEdition": "<i> The Famous Tragedie of King Charles I. In which is included, The several Combinations and machinations that brought that incomparable Prince to the Block, the overtures hapning at the famous Seige of Colchester, the Tragicall fals of Sir Charls Lucas and Sir George Lisle, the just reward of the Leveller Rainsborough, Hamilton and Bailies Trecheries, In delivering the late Scottish Army into the hands of Cromwell, and the designe the Rebels have, to destroy the Royal Posterity.</i>London: Unknown publisher, 1649.",
     "hasEditionHist": "The Famous Tragedie of King Charles I. In which is included, The several Combinations and machinations that brought that incomparable Prince to the Block, the overtures hapning at the famous Seige of Colchester, the Tragicall fals of Sir Charls Lucas and Sir George Lisle, the just reward of the Leveller Rainsborough, Hamilton and Bailies Trecheries, In delivering the late Scottish Army into the hands of Cromwell, and the designe the Rebels have, to destroy the Royal Posterity. London: Unknown publisher, 1649.",
     "hasGenre": [
       "Tragedy"
@@ -10608,13 +10626,13 @@
     ],
     "hasLanguage": "Latin",
     "hasCreationDate": "GREGORIAN:1515:1515",
-    "hasEdition": "A short introduction of grammar generally to be vsed: compiled and set forth for the bringing vp of all those that intend to attaine to the knowledge of the Latine tongue. Cambridge: Cantrell Legge, 1621.",
     "hasGenre": [
       "Educational"
     ],
     "hasSubject": [
       "Linguistics"
     ],
+    "hasEdition": "<i>A short introduction of grammar generally to be vsed: compiled and set forth for the bringing vp of all those that intend to attaine to the knowledge of the Latine tongue. </i>Cambridge: Cantrell Legge, 1621.",
     "hasBookComment": "The most widely used Latin school grammar of the time, also known as <i>Brevissima institutio</i>.",
     "isLexiaBook": "ww_52bf7592f00f1dc6"
   },
@@ -10776,10 +10794,10 @@
     "hasCreationDate": "GREGORIAN:1581:1581",
     "hasFirstPerformanceDate": "GREGORIAN:1582",
     "hasPublicationDate": "GREGORIAN:1584",
+    "hasEdition": "<i>A right excellent and famous Comoedy called the three Ladies of London [...]. </i>London: Roger Warde 1584.",
     "hasGenre": [
       "Masque or other"
     ],
-    "hasEdition": "A2 recto; Prologue, line 5 [normalized spelling].",
     "performedBy": [
       "ww_83b481f6562ee0fc"
     ],
@@ -10947,8 +10965,8 @@
     "hasBookTitle": "Wikipedia",
     "hasEdition": "Wikipedia. www.wikipedia.org.",
     "isWrittenBy": [
-      "ww_04e0c08510ffa9b9",
-      "ww_b958466a7328c3ef"
+      "ww_b958466a7328c3ef",
+      "ww_04e0c08510ffa9b9"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2001:2001",
@@ -11102,8 +11120,8 @@
     "hasEdition": "<i>Palladis Tamia. Wits Treasury, being the second part of Wits common wealth. By Francis Meres Maister of Artes of both Vniuersities. </i>London: P. Short for Cuthbert Burbie, 1598.",
     "hasEditionHist": "<i>Palladis Tamia. Wits Treasury, being the second part of Wits common wealth. By Francis Meres Maister of Artes of both Vniuersities. </i>London: P. Short for Cuthbert Burbie, 1598.",
     "hasGenre": [
-      "Other nonfiction",
-      "Anthology"
+      "Anthology",
+      "Other nonfiction"
     ],
     "hasSubject": [
       "Literature and theatre"
@@ -11149,10 +11167,10 @@
       "ww_09472844a3558c55"
     ],
     "performedByActor": [
-      "ww_f66ad118d0eddf94",
+      "ww_535dbb6e2fbfea98",
       "ww_aa9d769d4c22a17a",
-      "ww_93188e55a4159eb0",
-      "ww_535dbb6e2fbfea98"
+      "ww_f66ad118d0eddf94",
+      "ww_93188e55a4159eb0"
     ]
   },
   "ww_e1163a5a6085f4ed": {
@@ -11192,15 +11210,15 @@
     "hasBookTitle": "Spanish Moor's Tragedy, or Lust's Dominion",
     "isWrittenBy": [
       "ww_87dbd52f1c5b813b",
-      "ww_947a2e721f016a03",
-      "ww_d888f97beb7a5e1c"
+      "ww_d888f97beb7a5e1c",
+      "ww_947a2e721f016a03"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1600:1600",
     "hasFirstPerformanceDate": "GREGORIAN:1600",
     "hasPublicationDate": "GREGORIAN:1657",
-    "hasEdition": "217; act 5, scene 3, lines 182-183.",
+    "hasEdition": "\"Lust's Dominion.\" <i>The Dramatic Works of Thomas Dekker.</i> Ed. F. Bowers. 4 vols. Cambridge: Cambridge University Press, 1955. Vol. 4, 129-217.",
     "hasGenre": [
       "Tragedy"
     ],
@@ -11236,8 +11254,8 @@
     "hasBookTitle": "British Drama 1533-1642: A Catalogue",
     "hasEdition": "<i>British Drama 1533-1642: A Catalogue. </i>Oxford: Oxford University Press, 2012-2020.",
     "isWrittenBy": [
-      "ww_cb6eb801a79f94db",
-      "ww_d33ff057947952f2"
+      "ww_d33ff057947952f2",
+      "ww_cb6eb801a79f94db"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2012:2020",
@@ -11246,8 +11264,7 @@
       "Academic"
     ],
     "hasSubject": [
-      "Literature and theatre",
-      "WOMAN WRITER"
+      "Literature and theatre"
     ]
   },
   "ww_04e1e147cd4f74b3": {
@@ -11598,7 +11615,7 @@
       "Masque or other"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_6561f118f91b93be": {
@@ -11621,8 +11638,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_9ca416c28c50bd0a": {
@@ -11660,12 +11677,12 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_463b20e6963d2636",
-      "ww_bbc0cf35a4cbd541"
+      "ww_bbc0cf35a4cbd541",
+      "ww_463b20e6963d2636"
     ]
   },
   "ww_230aee05b30db1d4": {
@@ -11714,8 +11731,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ],
     "performedByActor": [
       "ww_5cb3d6fa23800e74"
@@ -11753,7 +11770,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_a0fafa12a8a05945"
+      "ww_6f622bec3fbe84db"
     ]
   },
   "ww_6d9c7b949ddfa1d8": {
@@ -11824,16 +11841,16 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_463b20e6963d2636",
       "ww_3bbb9662acf999fa",
-      "ww_6e23936f08509ef5",
-      "ww_e04e16bd7cb52044",
+      "ww_4af69e0a9632326b",
       "ww_bbc0cf35a4cbd541",
-      "ww_4af69e0a9632326b"
+      "ww_6e23936f08509ef5",
+      "ww_463b20e6963d2636",
+      "ww_e04e16bd7cb52044"
     ]
   },
   "ww_e75a31f6badbafe7": {
@@ -11855,9 +11872,9 @@
     ],
     "performedByActor": [
       "ww_463b20e6963d2636",
+      "ww_4af69e0a9632326b",
       "ww_3bbb9662acf999fa",
-      "ww_6e23936f08509ef5",
-      "ww_4af69e0a9632326b"
+      "ww_6e23936f08509ef5"
     ]
   },
   "ww_7df67e4a75f208b9": {
@@ -11947,7 +11964,7 @@
       "Masque or other"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_8732be209e0db3a3": {
@@ -12035,10 +12052,10 @@
       "ww_c2cdd6ec99df368c"
     ],
     "performedByActor": [
-      "ww_9ccd42bf68e83cf2",
-      "ww_2b9db3a71c232d4f",
       "ww_4fdaef848b2cf826",
-      "ww_384c38a8c5407382"
+      "ww_384c38a8c5407382",
+      "ww_9ccd42bf68e83cf2",
+      "ww_2b9db3a71c232d4f"
     ]
   },
   "ww_26a18daee1298b6f": {
@@ -12053,14 +12070,14 @@
       "Manuscript miscellany"
     ],
     "hasBookComment": "This manuscript volume contains 4 extracts from Ben Jonson's <i>Epicoene</i> and <i>Volpone</i> as well as Thomas Middleton's <i>The Widow</i>.",
-    "hasEdition": "Manuscript miscellany. British Library Additional MS 10309."
+    "hasEdition": "<i>Manuscript miscellany. British Library Additional MS 10309.</i>"
   },
   "ww_9fb0d574962f84a1": {
     "hasBookInternalId": "@005363",
     "hasBookTitle": "Pharsalia (May)",
     "isWrittenBy": [
-      "ww_219cd36657c56d00",
-      "ww_0ca6a30387f03401"
+      "ww_0ca6a30387f03401",
+      "ww_219cd36657c56d00"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1631:1631",
@@ -12193,8 +12210,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_912d163a1800321f": {
@@ -12863,9 +12880,9 @@
     "hasBookInternalId": "@005278",
     "hasBookTitle": "New Academy of Compliments",
     "isWrittenBy": [
-      "ww_d8f1d08e1ca080b7",
       "ww_7dc9f7dd1b39e216",
-      "ww_88d6e36f66df2b22"
+      "ww_88d6e36f66df2b22",
+      "ww_d8f1d08e1ca080b7"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -12990,7 +13007,7 @@
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1682:1682",
-    "hasEdition": "The London Cuckolds. A Comedy. London: Jos. Hindmarsh et al., 1682.",
+    "hasEdition": "<i>The London Cuckolds. A Comedy. </i>London: Jos. Hindmarsh et al., 1682.",
     "hasGenre": [
       "Comedy"
     ]
@@ -13026,9 +13043,9 @@
       "Epic and verse narrative"
     ]
   },
-  "ww_7a1cd63b3350da5a": {
+  "ww_0e4654b7bc845aa2": {
     "hasBookInternalId": "@005345",
-    "hasBookTitle": "Poems (Behn)",
+    "hasBookTitle": "Poems (Bhn)",
     "isWrittenBy": [
       "ww_1013ee760af86e0f"
     ],
@@ -13070,14 +13087,13 @@
       "Literature and theatre"
     ]
   },
-  "ww_2559b05319193611": {
-    "hasBookInternalId": "@005496",
+  "ww_e40a6fc71a55848a": {
+    "hasBookInternalId": "@005796",
     "hasBookTitle": "Heptameron",
     "isWrittenBy": [
       "ww_51b35f130eed9684"
     ],
     "hasLanguage": "English",
-    "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1540:1549",
     "hasEdition": "<i>The queen of Nauarres tales Containing, verie pleasant discourses of fortunate louers. Now newly translated out of French into English.</i> London: V. Simmes for John Oxenbridge, 1597.",
     "hasEditionHist": "The queen of Nauarres tales Containing, verie pleasant discourses of fortunate louers. Now newly translated out of French into English. London: V. Simmes for John Oxenbridge, 1597.",
@@ -13118,9 +13134,9 @@
     "hasBookTitle": "Cambridge Edition of the Works of Ben Jonson",
     "hasEdition": "eds. <i>The Cambridge Edition of the Works of Ben Jonson. </i>6 vols. Cambridge: Cambridge University Press, 2012. ",
     "isWrittenBy": [
-      "ww_e31526b71399652f",
       "ww_8c7910f3d7e53686",
-      "ww_1dc363175af9132f"
+      "ww_1dc363175af9132f",
+      "ww_e31526b71399652f"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -13458,7 +13474,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_8240574032bbe0c1"
+      "ww_624980e0c706cd28"
     ]
   },
   "ww_c520e88100e50603": {
@@ -13718,10 +13734,10 @@
       "Comedy"
     ],
     "performedByActor": [
-      "ww_8926bbeaa7c56023",
+      "ww_3bbb9662acf999fa",
       "ww_535dbb6e2fbfea98",
       "ww_410b3b18358b9b9b",
-      "ww_3bbb9662acf999fa",
+      "ww_8926bbeaa7c56023",
       "ww_2b461dcf3b8b54e7"
     ],
     "hasEdition": "\"Volpone.\" <i>The Cambridge Edition of the Works of Ben Jonson. </i>Gen. eds. David Bevington, Martin Butler and Ian Donaldson. Cambridge: Cambridge University Press, 2012. Vol. 3, 23-187.",
@@ -13860,7 +13876,7 @@
     "hasLanguage": "English",
     "hasPrefixBookTitle": "An",
     "hasCreationDate": "GREGORIAN:1608:1609",
-    "hasEdition": "532 [normalized spelling].",
+    "hasEdition": "<i>An Apologie for Women. Or an opposition to Mr. D. G. </i>1609. H4 recto. Quoted in: Sayre Greenfield. \"Quoting Hamlet in the Early Seventeenth Century.\" <i>Modern Philology </i>105.3 (2008): 510-534.",
     "hasEditionHist": "H4 recto. Quoted in: Sayre Greenfield. \"Quoting Hamlet in the Early Seventeenth Century.\" Modern Philology 105.3 (2008): 510-534.",
     "hasGenre": [
       "Other nonfiction"
@@ -13873,8 +13889,8 @@
     "hasBookInternalId": "@001597",
     "hasBookTitle": "Philaster",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1609:1609",
@@ -13962,8 +13978,8 @@
     "hasBookInternalId": "@001636",
     "hasBookTitle": "King And No King",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "A",
@@ -14036,15 +14052,15 @@
       "Tragedy"
     ],
     "performedByActor": [
-      "ww_723943f0c5dcde08",
-      "ww_535dbb6e2fbfea98",
-      "ww_410b3b18358b9b9b",
       "ww_8099c312d6f14f7c",
-      "ww_e04e16bd7cb52044",
-      "ww_6e23936f08509ef5",
-      "ww_2b461dcf3b8b54e7",
+      "ww_410b3b18358b9b9b",
       "ww_bbc0cf35a4cbd541",
-      "ww_4af69e0a9632326b"
+      "ww_4af69e0a9632326b",
+      "ww_723943f0c5dcde08",
+      "ww_6e23936f08509ef5",
+      "ww_e04e16bd7cb52044",
+      "ww_535dbb6e2fbfea98",
+      "ww_2b461dcf3b8b54e7"
     ],
     "isLexiaBook": "ww_8c7b95535017a041"
   },
@@ -14181,7 +14197,7 @@
       "Romance"
     ],
     "performedIn": [
-      "ww_78c9c657a6d6a82c"
+      "ww_5b6da0ed971ebeb7"
     ]
   },
   "ww_dc8672861c0e9a52": {
@@ -14203,8 +14219,8 @@
     "hasBookInternalId": "@001758",
     "hasBookTitle": "Wit without Money",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1614:1614",
@@ -14230,8 +14246,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "Philosophy, religion"
     ]
   },
   "ww_905247372343e95f": {
@@ -14255,8 +14271,8 @@
     "hasBookInternalId": "@001794",
     "hasBookTitle": "Love's Pilgrimage",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1616:1616",
@@ -14272,9 +14288,9 @@
     "hasBookInternalId": "@001848",
     "hasBookTitle": "Thierry, King of France, and His Brother",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
       "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1617:1617",
@@ -14367,8 +14383,8 @@
     "hasBookInternalId": "@001899",
     "hasBookTitle": "Old Law",
     "isWrittenBy": [
-      "ww_5cb3d6fa23800e74",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_5cb3d6fa23800e74"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "An",
@@ -14555,11 +14571,11 @@
       "Comedy"
     ],
     "performedByActor": [
-      "ww_fabcdc97b91b0a87",
-      "ww_463b20e6963d2636",
       "ww_3bbb9662acf999fa",
+      "ww_fabcdc97b91b0a87",
+      "ww_4af69e0a9632326b",
       "ww_bbc0cf35a4cbd541",
-      "ww_4af69e0a9632326b"
+      "ww_463b20e6963d2636"
     ]
   },
   "ww_90847494def7e6ae": {
@@ -14579,11 +14595,11 @@
       "Tragedy"
     ],
     "performedByActor": [
-      "ww_723943f0c5dcde08",
-      "ww_463b20e6963d2636",
       "ww_3bbb9662acf999fa",
+      "ww_4af69e0a9632326b",
+      "ww_723943f0c5dcde08",
       "ww_6e23936f08509ef5",
-      "ww_4af69e0a9632326b"
+      "ww_463b20e6963d2636"
     ]
   },
   "ww_0087027327e745b4": {
@@ -14637,16 +14653,16 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_723943f0c5dcde08",
-      "ww_5cb3d6fa23800e74",
-      "ww_463b20e6963d2636",
       "ww_3bbb9662acf999fa",
+      "ww_4af69e0a9632326b",
+      "ww_723943f0c5dcde08",
       "ww_6e23936f08509ef5",
-      "ww_4af69e0a9632326b"
+      "ww_463b20e6963d2636",
+      "ww_5cb3d6fa23800e74"
     ]
   },
   "ww_1c0ea61d45f98ff1": {
@@ -14749,8 +14765,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ],
     "hasEdition": "\"The staple of News.\" Bartholmew fayre: a comedie, acted in the yeare, 1614 by the Lady Elizabeths seruants, and then dedicated to King Iames, of most blessed memorie; The diuell is an asse: a comedie acted in the yeare, 1616, by His Maiesties seruants; The staple of newes: a comedie acted in the yeare, 1625, by His Maiesties seruants by the author, Beniamin Iohnson. London: I. B. for Robert Allot, 1631. 1-76."
   },
@@ -14813,8 +14829,8 @@
       "Pamphlet or liturgical text"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "History, (auto-)biography"
+      "History, (auto-)biography",
+      "Philosophy, religion"
     ]
   },
   "ww_84cb213d01f296b9": {
@@ -14904,8 +14920,8 @@
     "hasBookInternalId": "@005141",
     "hasBookTitle": "History of the Most Renowned Princess Elizabeth",
     "isWrittenBy": [
-      "ww_2d2d917d0e960a71",
-      "ww_7d061522518519e4"
+      "ww_7d061522518519e4",
+      "ww_2d2d917d0e960a71"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -15572,8 +15588,8 @@
       "Journalism"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "History, (auto-)biography"
+      "History, (auto-)biography",
+      "Philosophy, religion"
     ]
   },
   "ww_bcc4c1fa80f2a797": {
@@ -16052,7 +16068,7 @@
     "hasBookInternalId": "@005338",
     "hasBookTitle": "Sacred Poem, also 14 of David's Psalms Paraphased",
     "isWrittenBy": [
-      "ww_2eeb59f5019d3554"
+      "ww_1d239deb2ec0cc83"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "A",
@@ -16119,9 +16135,9 @@
       "Verse satire"
     ]
   },
-  "ww_e12f22333092c222": {
+  "ww_e4251f276f3525fc": {
     "hasBookInternalId": "@005341",
-    "hasBookTitle": "Poems (Flatman)",
+    "hasBookTitle": "Poems (Flt)",
     "isWrittenBy": [
       "ww_0e7544478bbb2de3"
     ],
@@ -16391,12 +16407,12 @@
     "hasBookInternalId": "@005406",
     "hasBookTitle": "Geneva Bible",
     "isWrittenBy": [
-      "ww_5e5e8f5620d2719a",
-      "ww_240a0754bd0ee196",
-      "ww_8370026ebdec73ae",
       "ww_5c83686b70be658b",
+      "ww_5e5e8f5620d2719a",
+      "ww_d6693f3e9bbd4cc4",
       "ww_76f7ad166cf8422f",
-      "ww_d6693f3e9bbd4cc4"
+      "ww_8370026ebdec73ae",
+      "ww_240a0754bd0ee196"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -16473,7 +16489,7 @@
     ],
     "hasBookComment": "The text is lost.",
     "performedIn": [
-      "ww_0b8fb34fd58acb3a"
+      "ww_1f74ce94970699b1"
     ]
   },
   "ww_9a76625cd3620368": {
@@ -16481,8 +16497,8 @@
     "hasBookTitle": "DEEP (Database of Early English Playbooks)",
     "hasEdition": "DEEP - Database of Early English Playbooks. http://deep.sas.upenn.edu/. 2007.",
     "isWrittenBy": [
-      "ww_371ed44cf3e4e5e4",
-      "ww_8cc851dd71197e11"
+      "ww_8cc851dd71197e11",
+      "ww_371ed44cf3e4e5e4"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:2007:2007",
@@ -16743,7 +16759,7 @@
     "hasCreationDate": "GREGORIAN:1594:1594",
     "hasFirstPerformanceDate": "GREGORIAN:1594",
     "hasPublicationDate": "GREGORIAN:1594",
-    "hasEdition": "<i>[Pompey the Great's Fair] Cornelia. </i>London: James Roberts for N. L. and John Busby, 1594.",
+    "hasEdition": "<i>[Pompey the Great's Fair] Cornelia. </i>London: James Roberts for Nicholas Ling and John Busby, 1594.",
     "hasGenre": [
       "Tragedy"
     ]
@@ -16756,7 +16772,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1594:1603",
-    "hasEdition": "Manuscript miscellany. British Library Additional MS 64078.",
+    "hasEdition": "<i>Manuscript miscellany. British Library Additional MS 64078.</i>",
     "hasEditionHist": "Manuscript miscellany. British Library Additional MS 64078.",
     "hasGenre": [
       "Manuscript miscellany"
@@ -16838,9 +16854,9 @@
     "hasBookTitle": "Works of John Webster (Cambridge edition)",
     "hasEdition": "eds. <i>The Works of John Webster. </i>4 vols. Cambridge: Cambridge University Press, 1995-2007.",
     "isWrittenBy": [
+      "ww_155a667b93f423ae",
       "ww_fdae751b03274cac",
-      "ww_5a83fee722a1938b",
-      "ww_155a667b93f423ae"
+      "ww_5a83fee722a1938b"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -16896,8 +16912,8 @@
     "hasBookInternalId": "@005405",
     "hasBookTitle": "Arts of Curious Painting, Carving and Building",
     "isWrittenBy": [
-      "ww_c652fb819f739096",
-      "ww_3a72445159b00397"
+      "ww_3a72445159b00397",
+      "ww_c652fb819f739096"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -16915,9 +16931,9 @@
     "hasBookInternalId": "@001211",
     "hasBookTitle": "Sir John Oldcastle",
     "isWrittenBy": [
-      "ww_67b55376bb1d282e",
-      "ww_20d6b3bf3fdfeac2",
       "ww_25e6fd889f1e2401",
+      "ww_20d6b3bf3fdfeac2",
+      "ww_67b55376bb1d282e",
       "ww_8c5ba897096c644c"
     ],
     "hasLanguage": "English",
@@ -16975,8 +16991,8 @@
     "hasBookInternalId": "@001298",
     "hasBookTitle": "Il pastor fido (The Faithful Shepherd)",
     "isWrittenBy": [
-      "ww_fa33bc038c964640",
-      "ww_94ba32e6686923a7"
+      "ww_94ba32e6686923a7",
+      "ww_fa33bc038c964640"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1601:1601",
@@ -17035,7 +17051,7 @@
       "Anthology",
       "Manuscript miscellany"
     ],
-    "hasEdition": "Manuscript miscellany. British Library Additional MS 15227."
+    "hasEdition": "<i>Manuscript miscellany. British Library Additional MS 15227.</i>"
   },
   "ww_db5e201cbfc68107": {
     "hasBookInternalId": "@001340",
@@ -17099,8 +17115,8 @@
     "performedByActor": [
       "ww_684176b58bc762f6",
       "ww_aa9d769d4c22a17a",
-      "ww_93188e55a4159eb0",
-      "ww_4af69e0a9632326b"
+      "ww_4af69e0a9632326b",
+      "ww_93188e55a4159eb0"
     ],
     "isLexiaBook": "ww_9fea480498d2703d"
   },
@@ -17502,10 +17518,10 @@
     "hasBookInternalId": "@002169",
     "hasBookTitle": "Fair Maid of the Inn",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_0f4ea2cf65a83ca8",
       "ww_cbc2c3284144573a",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_9594c85bc48d3759",
+      "ww_0f4ea2cf65a83ca8"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -17521,8 +17537,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_c6dd0a2e6316a63e": {
@@ -17540,7 +17556,7 @@
       "Masque or other"
     ],
     "performedIn": [
-      "ww_25bb6c5b90a2e2fe"
+      "ww_2ac44791912e7737"
     ]
   },
   "ww_020e436d23650eeb": {
@@ -17565,10 +17581,10 @@
       "ww_c2cdd6ec99df368c"
     ],
     "performedByActor": [
-      "ww_9acbe54c44792595",
       "ww_384c38a8c5407382",
-      "ww_9ccd42bf68e83cf2",
       "ww_2b9db3a71c232d4f",
+      "ww_9acbe54c44792595",
+      "ww_9ccd42bf68e83cf2",
       "ww_4fdaef848b2cf826"
     ]
   },
@@ -17710,8 +17726,8 @@
       "ww_39c5a740f44cabb9"
     ],
     "performedIn": [
-      "ww_3edf5a982d0a86b2",
-      "ww_ce4161054e738f9e"
+      "ww_ce4161054e738f9e",
+      "ww_3edf5a982d0a86b2"
     ]
   },
   "ww_598a6f57f6372907": {
@@ -17755,8 +17771,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_bc242f0ffab9d459": {
@@ -17798,7 +17814,7 @@
       "Tragicomedy"
     ],
     "performedIn": [
-      "ww_a0fafa12a8a05945"
+      "ww_6f622bec3fbe84db"
     ]
   },
   "ww_3d63135b244a134f": {
@@ -17817,8 +17833,8 @@
       "Tragicomedy"
     ],
     "performedBy": [
-      "ww_60234f6bf9418d3b",
-      "ww_fb09029608b37502"
+      "ww_fb09029608b37502",
+      "ww_60234f6bf9418d3b"
     ]
   },
   "ww_5a5eb0ed73b72a3a": {
@@ -17971,7 +17987,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1650:1650",
-    "hasEdition": "Manuscript miscellany. British Library Additional MS 22608.",
+    "hasEdition": "<i>Manuscript miscellany. British Library Additional MS 22608.</i>",
     "hasEditionHist": "Manuscript miscellany., British Library Additional MS 22608.",
     "hasGenre": [
       "Anthology",
@@ -18001,7 +18017,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1650:1650",
-    "hasEdition": "Manuscript miscellany. British Library Additional MS 41063.",
+    "hasEdition": "<i>Manuscript miscellany. British Library Additional MS 41063.</i>",
     "hasEditionHist": "Manuscript miscellany. British Library Additional MS 41063.",
     "hasGenre": [
       "Manuscript miscellany"
@@ -18057,8 +18073,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "Philosophy, religion"
     ]
   },
   "ww_d57ea57abe37e88e": {
@@ -18097,7 +18113,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1660:-1687",
-    "hasEdition": "Manuscript miscellany. British Library Lansdowne MS 1185.",
+    "hasEdition": "<i>Manuscript miscellany. British Library Lansdowne MS 1185</i>.",
     "hasEditionHist": "Manuscript miscellany. British Library Lansdowne MS 1185.",
     "hasGenre": [
       "Manuscript miscellany"
@@ -18140,7 +18156,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1662:1662",
-    "hasEdition": "Manuscript miscellany. British Library Additional MS 18044.",
+    "hasEdition": "<i>Manuscript miscellany. British Library Additional MS 18044.</i>",
     "hasEditionHist": "Manuscript miscellany. British Library Additional MS 18044.",
     "hasGenre": [
       "Manuscript miscellany"
@@ -18168,7 +18184,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1673:1673",
-    "hasEdition": "British Library Sloane MS 161.",
+    "hasEdition": "British Library Sloane MS 161.</i>",
     "hasEditionHist": "British Library Sloane MS 161.",
     "hasGenre": [
       "Manuscript miscellany"
@@ -18254,8 +18270,8 @@
     "hasBookInternalId": "@005440",
     "hasBookTitle": "Necromantia",
     "isWrittenBy": [
-      "ww_fbe3a31feec7d0bd",
-      "ww_bc20ff65060e68ce"
+      "ww_bc20ff65060e68ce",
+      "ww_fbe3a31feec7d0bd"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1512:1533",
@@ -18280,9 +18296,9 @@
     ],
     "hasBookComment": "This popular collection of practice sentences for schoolchildren was first published (in Latin only) in 1540."
   },
-  "ww_65acffd0ebaeef21": {
+  "ww_3769da4365745c94": {
     "hasBookInternalId": "@005443",
-    "hasBookTitle": "Fmaous HIstory of Friar Bacon",
+    "hasBookTitle": "Famous History of Friar Bacon",
     "isWrittenBy": [
       "ww_93d58b4d5fed41d9"
     ],
@@ -18299,8 +18315,8 @@
     "hasBookInternalId": "@005472",
     "hasBookTitle": "Marcus Tullius Cicero's Three Books of Duties",
     "isWrittenBy": [
-      "ww_2328c74af1f27243",
-      "ww_780e677ed1d8302b"
+      "ww_780e677ed1d8302b",
+      "ww_2328c74af1f27243"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1556:1556",
@@ -18683,8 +18699,8 @@
       "Romance"
     ],
     "performedBy": [
-      "ww_312616f20d6e5e9b",
-      "ww_98586949857a29e9"
+      "ww_98586949857a29e9",
+      "ww_312616f20d6e5e9b"
     ]
   },
   "ww_c947ff9a9c896f70": {
@@ -18856,6 +18872,24 @@
     ],
     "isLexiaBook": "ww_79c439779818d086"
   },
+  "ww_bbee43a5ea038388": {
+    "hasBookInternalId": "@005786",
+    "hasBookTitle": "Ben Jonson - A Life",
+    "hasEdition": "<i>Ben Jonson - A Life.</i> Oxford: Oxford University Press, 2011.",
+    "isWrittenBy": [
+      "ww_1dc363175af9132f"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:2011:2011",
+    "hasPublicationDate": "GREGORIAN:2011:2011",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre",
+      "History, (auto-)biography"
+    ]
+  },
   "ww_3bf2c81dc334b79e": {
     "hasBookInternalId": "@001064",
     "hasBookTitle": "Edmund Ironside the English King",
@@ -18969,7 +19003,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_8240574032bbe0c1"
+      "ww_624980e0c706cd28"
     ],
     "hasEdition": "\"The Return from Parnassus Part 1.\" <i>The Pilgrimage to Parnassus with the Two Parts of The Return from Parnassus. </i>Ed. Dunn Macray, William. Oxford: Clarendon Press 1886. 25-75."
   },
@@ -19029,8 +19063,8 @@
     "hasBookInternalId": "@001250",
     "hasBookTitle": "Blind Beggar of Bethnal Green",
     "isWrittenBy": [
-      "ww_d78940f8a8554ca3",
-      "ww_947a2e721f016a03"
+      "ww_947a2e721f016a03",
+      "ww_d78940f8a8554ca3"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -19190,8 +19224,8 @@
     "hasBookTitle": "Plays and Poems of Massinger (Edwards edition)",
     "hasEdition": "eds. <i>The Plays and Poems of Philip Massinger. </i>5 vols. Oxford: Clarendon Press, 1976.",
     "isWrittenBy": [
-      "ww_130467c69828affb",
-      "ww_c7f06ae8821823ae"
+      "ww_c7f06ae8821823ae",
+      "ww_130467c69828affb"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -19244,8 +19278,8 @@
     "hasBookTitle": "Travels of the Three English Brothers",
     "isWrittenBy": [
       "ww_986dd93d2d794ff5",
-      "ww_5cb3d6fa23800e74",
-      "ww_947a2e721f016a03"
+      "ww_947a2e721f016a03",
+      "ww_5cb3d6fa23800e74"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -19284,8 +19318,8 @@
     "hasBookInternalId": "@001665",
     "hasBookTitle": "Captain",
     "isWrittenBy": [
-      "ww_ecd33a52caec339f",
-      "ww_3cc0cce5b6bf554a"
+      "ww_3cc0cce5b6bf554a",
+      "ww_ecd33a52caec339f"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -19301,14 +19335,14 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_8099c312d6f14f7c",
-      "ww_535dbb6e2fbfea98",
       "ww_2b461dcf3b8b54e7",
-      "ww_410b3b18358b9b9b"
+      "ww_535dbb6e2fbfea98",
+      "ww_410b3b18358b9b9b",
+      "ww_8099c312d6f14f7c"
     ]
   },
   "ww_27c24271dfff0dba": {
@@ -19375,7 +19409,7 @@
       "Comedy"
     ],
     "performedIn": [
-      "ww_25bb6c5b90a2e2fe"
+      "ww_2ac44791912e7737"
     ],
     "hasEdition": "<i>Albvmazar. </i>London: Nicholas Okes, 1634."
   },
@@ -19399,8 +19433,8 @@
       "ww_58b17c98fafa10ae"
     ],
     "performedIn": [
-      "ww_f4835626deff2681",
-      "ww_09472844a3558c55"
+      "ww_09472844a3558c55",
+      "ww_f4835626deff2681"
     ]
   },
   "ww_98bb61f41b7690f0": {
@@ -19452,9 +19486,9 @@
     "hasBookInternalId": "@001992",
     "hasBookTitle": "Witch of Edmonton",
     "isWrittenBy": [
-      "ww_5cb3d6fa23800e74",
+      "ww_0f4ea2cf65a83ca8",
       "ww_87dbd52f1c5b813b",
-      "ww_0f4ea2cf65a83ca8"
+      "ww_5cb3d6fa23800e74"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -19477,8 +19511,8 @@
     "hasBookInternalId": "@002005",
     "hasBookTitle": "Anything for a Quiet Life",
     "isWrittenBy": [
-      "ww_9594c85bc48d3759",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_9594c85bc48d3759"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1622:1622",
@@ -19501,8 +19535,8 @@
     "isWrittenBy": [
       "ww_5cb3d6fa23800e74",
       "ww_87dbd52f1c5b813b",
-      "ww_0f4ea2cf65a83ca8",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_0f4ea2cf65a83ca8"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
@@ -19536,7 +19570,7 @@
       "Masque or other"
     ],
     "performedIn": [
-      "ww_25bb6c5b90a2e2fe"
+      "ww_2ac44791912e7737"
     ]
   },
   "ww_e3f39d091f3022fe": {
@@ -19652,8 +19686,8 @@
       "ww_e19a2b6adb3b9951"
     ],
     "performedIn": [
-      "ww_3edf5a982d0a86b2",
-      "ww_ce4161054e738f9e"
+      "ww_ce4161054e738f9e",
+      "ww_3edf5a982d0a86b2"
     ]
   },
   "ww_6449a72bce99e684": {
@@ -19747,8 +19781,8 @@
       "Comedy"
     ],
     "performedBy": [
-      "ww_60234f6bf9418d3b",
-      "ww_fb09029608b37502"
+      "ww_fb09029608b37502",
+      "ww_60234f6bf9418d3b"
     ],
     "performedIn": [
       "ww_a8b0dec20bddad7c",
@@ -19797,8 +19831,8 @@
       "ww_f4835626deff2681"
     ],
     "performedByActor": [
-      "ww_5fe98d25e4d26727",
-      "ww_3bbb9662acf999fa"
+      "ww_3bbb9662acf999fa",
+      "ww_5fe98d25e4d26727"
     ]
   },
   "ww_d6dfaaba1a7a3d53": {
@@ -20387,8 +20421,8 @@
     "hasBookInternalId": "@005449",
     "hasBookTitle": "Parallel Lives",
     "isWrittenBy": [
-      "ww_b8f362715c0c9c51",
-      "ww_051e0403c3788169"
+      "ww_051e0403c3788169",
+      "ww_b8f362715c0c9c51"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1579:1579",
@@ -20434,6 +20468,23 @@
     "hasSubject": [
       "Literature and theatre",
       "Classical Studies"
+    ]
+  },
+  "ww_779a88af78361bdc": {
+    "hasBookInternalId": "@005776",
+    "hasBookTitle": "Defense of Poesy",
+    "isWrittenBy": [
+      "ww_4d90bb08c3de976b"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1580:1580",
+    "hasEdition": "\"The Defense of Poesy.\" <i>The Norton Anthology of English Literature. </i>Seventh Edition. Ed. M.H. Abrams and Stephen Greenblatt. New York and London: W. W. Norton, 2000. 933-954.",
+    "hasGenre": [
+      "Essay"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
     ]
   },
   "ww_414f4018a5445130": {
@@ -20530,7 +20581,7 @@
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1588:1588",
     "hasPublicationDate": "GREGORIAN:1590",
-    "hasEdition": "The pleasant and Stately Morall, of the three Lordes and three Ladies of London. With the great Ioy and Pompe, Solempnized at their Mariages: Commically interlaced with much honest Mirth, for pleasure and recreation, among many Morall obseruations and other important matters of due Regard. London: R. Jones, 1590.",
+    "hasEdition": "<i>The pleasant and Stately Morall, of the three Lordes and three Ladies of London. With the great Ioy and Pompe, Solempnized at their Mariages: Commically interlaced with much honest Mirth, for pleasure and recreation, among many Morall obseruations and other important matters of due Regard. </i>London: R. Jones, 1590.",
     "hasGenre": [
       "Masque or other"
     ]
@@ -20958,7 +21009,7 @@
     ],
     "hasLanguage": "Latin",
     "hasCreationDate": "GREGORIAN:1601:1601",
-    "hasEdition": "Caroli Fitzgeofridi affaniae: sive epigrammatum libri tres ejusdem cenotaphia. Oxford: Excudebat Josephus Barnesius, 1601.",
+    "hasEdition": "<i>Caroli Fitzgeofridi affaniae: sive epigrammatum libri tres ejusdem cenotaphia.</i> Oxford: Joseph Barnes, 1601.",
     "hasGenre": [
       "Poetry unspecified"
     ]
@@ -21076,7 +21127,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1604:1604",
-    "hasEdition": "Richard Whittington.",
+    "hasEdition": "<i>Richard Whittington.</i> 1604.",
     "hasGenre": [
       "History play"
     ],
@@ -21103,7 +21154,7 @@
     ],
     "hasBookComment": "The text is lost.",
     "performedIn": [
-      "ww_975440f5d6d132f3"
+      "ww_c1c8db7cb45339ac"
     ]
   },
   "ww_1accaec99641f25e": {
@@ -21120,8 +21171,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "Philosophy, religion"
     ]
   },
   "ww_d450ac7f63e00fe8": {
@@ -21292,8 +21343,8 @@
     "hasBookInternalId": "@001729",
     "hasBookTitle": "Wit at Several Weapons",
     "isWrittenBy": [
-      "ww_20d6b3bf3fdfeac2",
-      "ww_c298754546b2500e"
+      "ww_c298754546b2500e",
+      "ww_20d6b3bf3fdfeac2"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1613:1613",
@@ -21341,9 +21392,9 @@
       "Comedy"
     ],
     "performedByActor": [
-      "ww_535dbb6e2fbfea98",
       "ww_684176b58bc762f6",
       "ww_f66ad118d0eddf94",
+      "ww_535dbb6e2fbfea98",
       "ww_aa9d769d4c22a17a",
       "ww_93188e55a4159eb0"
     ]
@@ -21389,7 +21440,7 @@
     "hasCreationDate": "GREGORIAN:1620:1620",
     "hasFirstPerformanceDate": "GREGORIAN:1620",
     "hasPublicationDate": "GREGORIAN:1647",
-    "hasEdition": "\"Women Pleased.\" The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1966. Vol. 5, 448-529.",
+    "hasEdition": "\"Women Pleased.\" <i>The Dramatic Works in the Beaumont and Fletcher Canon. </i>Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1966. Vol. 5, 448-529.",
     "hasEditionHist": "\"Women Pleased.\" The Dramatic Works in the Beaumont and Fletcher Canon. Ed. Fredson Bowers. 10 vols. Cambridge: Cambridge University Press, 1966. Vol. 5, 448-529.",
     "hasGenre": [
       "Tragicomedy"
@@ -21428,7 +21479,7 @@
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1624:1624",
     "hasFirstPerformanceDate": "GREGORIAN:1624",
-    "hasEdition": "The Way to Content All Women, or How a Man May Please His Wife.",
+    "hasEdition": "<i>The Way to Content All Women, or How a Man May Please His Wife.",
     "hasGenre": [
       "Comedy"
     ],
@@ -21454,6 +21505,19 @@
     ],
     "performedBy": [
       "ww_fb09029608b37502"
+    ]
+  },
+  "ww_fd98fb75e313ae51": {
+    "hasBookInternalId": "@002188",
+    "hasBookTitle": "Cleopatra, Queen of Egypt",
+    "isWrittenBy": [
+      "ww_219cd36657c56d00"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1626:1626",
+    "hasEdition": "<i>The Tragedie Of Cleopatra Queen Of Aegypt. By T. M. </i>London: Thomas Harper for Thomas Walkly, 1639. ",
+    "hasGenre": [
+      "Tragedy"
     ]
   },
   "ww_00e61112f9dd7397": {
@@ -21496,6 +21560,8 @@
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1632:1632",
+    "hasFirstPerformanceDate": "GREGORIAN:1637",
+    "hasPublicationDate": "GREGORIAN:1659",
     "hasEdition": "\"The Sad One.\" <i>The Last Remains Of Sir John Suckling: Being a Full Collection Of All His Poems and Letters Which Have Been So Long Expected, and Never Till Now Published. With the Licence and Approbation Of His Noble and Dearest Friends. </i>London: Humphrey Moseley, 1659.",
     "hasEditionHist": "\"The Sad One.\" <i>The Last Remains Of Sir John Suckling: Being a Full Collection Of All His Poems and Letters Which Have Been So Long Expected, and Never Till Now Published. With the Licence and Approbation Of His Noble and Dearest Friends. </i>London: Humphrey Moseley, 1659.",
     "hasGenre": [
@@ -21600,20 +21666,6 @@
       "Tragedy"
     ],
     "hasBookComment": "The text is lost. "
-  },
-  "ww_a9cd887275d1ec36": {
-    "hasBookInternalId": "@005600",
-    "hasBookTitle": "Tragedy of Cleopatra",
-    "isWrittenBy": [
-      "ww_219cd36657c56d00"
-    ],
-    "hasLanguage": "English",
-    "hasPrefixBookTitle": "The",
-    "hasCreationDate": "GREGORIAN:1639:1639",
-    "hasEdition": "<i>The Tragedie Of Cleopatra Queen Of Aegypt. By T. M. </i>London: Thomas Harper for Thomas Walkly, 1639. ",
-    "hasGenre": [
-      "Tragedy"
-    ]
   },
   "ww_ada059d584934fc1": {
     "hasBookInternalId": "@005563",
@@ -21914,8 +21966,8 @@
       "Tragedy"
     ],
     "performedByActor": [
-      "ww_df1fbf2c31ba98e6",
-      "ww_05335cc173ae4fc9"
+      "ww_05335cc173ae4fc9",
+      "ww_df1fbf2c31ba98e6"
     ]
   },
   "ww_4f2e29f95b6f9b56": {
@@ -21951,7 +22003,7 @@
   "ww_d50c2ba82fdc30ae": {
     "hasBookInternalId": "@010149",
     "hasBookTitle": "BRITP (British Periodicals)",
-    "hasEdition": "British Periodicals. https://search.proquest.com/britishperiodicals?accountid=14616. 2005.",
+    "hasEdition": "<i>British Periodicals. </i>https://search.proquest.com/britishperiodicals?accountid=14616. 2005.",
     "isWrittenBy": [
       "ww_93d58b4d5fed41d9"
     ],
@@ -21980,10 +22032,7 @@
     "hasGenre": [
       "Comedy"
     ],
-    "hasBookComment": "This comedy was first performed and published in 1696, seven years after the author's death.",
-    "hasSubject": [
-      "WOMAN WRITER"
-    ]
+    "hasBookComment": "This comedy was first performed and published in 1696, seven years after the author's death."
   },
   "ww_7224080d519938ca": {
     "hasBookInternalId": "@005596",
@@ -22098,7 +22147,7 @@
     ],
     "hasLanguage": "Classical Greek",
     "hasCreationDate": "GREGORIAN:1000:1000",
-    "hasEdition": "62.",
+    "hasEdition": "\"Cratylus.\" Cratylus. Parmenides. Greater Hippias. Lesser Hippias. Trans. Harold North Fowler. Loeb Classical Library 167. Cambridge (MA): Harvard University Press, 1926. 1-192.",
     "hasGenre": [
       "Other nonfiction"
     ],
@@ -22115,7 +22164,7 @@
     "hasLanguage": "Latin",
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1000:1000",
-    "hasEdition": "Vol. 141, 32; book 12, section 7.",
+    "hasEdition": "<i>City of God. </i>Trans. Philip Levine. Loeb Classical Library volumes 411-417. Cambridge (Mass.): Harvard University Press, 1966.",
     "hasGenre": [
       "Other nonfiction"
     ],
@@ -22194,7 +22243,6 @@
     ],
     "hasSubject": [
       "Literature and theatre",
-      "WOMAN WRITER",
       "Shakespeare"
     ]
   },
@@ -22586,9 +22634,9 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Philosophy, religion",
+      "Sociology, lifestyle, travel",
       "Politics, law, economics",
-      "Sociology, lifestyle, travel"
+      "Philosophy, religion"
     ]
   },
   "ww_8d5d7363e7fada6c": {
@@ -22654,7 +22702,7 @@
     "hasLanguage": "Latin",
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1000:1000",
-    "hasEdition": "460 [normalized spelling].",
+    "hasEdition": "<i>The Merchant. The Braggart Soldier. The Ghost. The Persian. </i>Ed. and trans. Wolfgang de Melo. Loeb Classical Library 163. Cambridge (MA): Harvard University Press, 2011. 452-558.",
     "hasGenre": [
       "Comedy"
     ]
@@ -22699,8 +22747,8 @@
       "Tragedy"
     ]
   },
-  "ww_82617112a7c2346e": {
-    "hasBookInternalId": "@001100",
+  "ww_1b2266c9e21c4bd1": {
+    "hasBookInternalId": "@005436",
     "hasBookTitle": "Oedipus",
     "isWrittenBy": [
       "ww_92e914f022cfa0ff"
@@ -22921,9 +22969,9 @@
   "ww_751de3d5a558074b": {
     "hasBookInternalId": "@005666",
     "hasBookTitle": "Verh\u00e4ltnis von The two Noble Kinsmen",
-    "hasEdition": "\u00dcber das Verh\u00e4ltnis von The two noble kinsmen zu Chaucer's Knightes tale. Halle: Heinrich John, 1903.",
+    "hasEdition": "<'>\u00dcber das Verh\u00e4ltnis von The two noble kinsmen zu Chaucer's Knightes tale. </i>Halle: Heinrich John, 1903.",
     "isWrittenBy": [
-      "ww_e898f938921f2a9e"
+      "ww_844e2046b7a76317"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1903:1903",
@@ -22971,7 +23019,7 @@
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1550:1550",
-    "hasEdition": "A pretie and Mery new Enterlude: called the Disobedient Child. Compiled by Thomas Ingelend late Student in Cambridge. London: Thomas Colwell, 1570.",
+    "hasEdition": "<i>A pretie and Mery new Enterlude: called the Disobedient Child. Compiled by Thomas Ingelend late Student in Cambridge. </i>London: Thomas Colwell, 1570.",
     "hasGenre": [
       "Masque or other"
     ]
@@ -22992,7 +23040,6 @@
     ],
     "hasSubject": [
       "Literature and theatre",
-      "WOMAN WRITER",
       "Shakespeare"
     ]
   },
@@ -23067,8 +23114,8 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Philosophy, religion",
-      "Psychology, medicine, health"
+      "Psychology, medicine, health",
+      "Philosophy, religion"
     ]
   },
   "ww_ad6a1b5613863830": {
@@ -23123,9 +23170,9 @@
     "hasGenre": [
       "Tragedy"
     ],
-    "hasBookComment": "The text of this play is lost.",
+    "hasBookComment": "The text of this tragedy is lost.",
     "performedIn": [
-      "ww_a0fafa12a8a05945"
+      "ww_6f622bec3fbe84db"
     ]
   },
   "ww_2d850fe0d1285f1e": {
@@ -23214,25 +23261,10 @@
       "Pamphlet or liturgical text"
     ]
   },
-  "ww_2613cc5d0aa7e958": {
-    "hasBookInternalId": "@000803",
-    "hasBookTitle": "Turkish Muhammad and Irene The Fair Greek",
-    "isWrittenBy": [
-      "ww_7468c79b15d734b3"
-    ],
-    "hasLanguage": "English",
-    "hasPrefixBookTitle": "The",
-    "hasCreationDate": "GREGORIAN:1588:1588",
-    "hasEdition": "<i>The Turkish Muhammad and Irene [Hiren] The Fair Greek. </i>1588.",
-    "hasGenre": [
-      "Tragedy"
-    ],
-    "hasBookComment": "The text of this romantic tragedy is lost."
-  },
   "ww_43ab6b2dee6427c0": {
     "hasBookInternalId": "@005658",
     "hasBookTitle": "Shakespeares King John und seine Quelle",
-    "hasEdition": "Shakespeares \"King John\" und seine Quelle. Kiel: P. Peters, 1900. ",
+    "hasEdition": "<i>Shakespeares \"King John\" und seine Quelle. </i>Kiel: P. Peters, 1900. ",
     "isWrittenBy": [
       "ww_2afd95cd0c18d4d1"
     ],
@@ -23485,8 +23517,8 @@
     "hasBookInternalId": "@001186",
     "hasBookTitle": "Agamemnon (DCh)",
     "isWrittenBy": [
-      "ww_d78940f8a8554ca3",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_d78940f8a8554ca3"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1599:1599",
@@ -23499,12 +23531,12 @@
       "ww_312616f20d6e5e9b"
     ]
   },
-  "ww_f781dcf7dbd5cc2e": {
+  "ww_02158b88d6787481": {
     "hasBookInternalId": "@005703",
-    "hasBookTitle": "Orestes Furies",
+    "hasBookTitle": "Orestes' Furies",
     "isWrittenBy": [
-      "ww_d78940f8a8554ca3",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_d78940f8a8554ca3"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1599:1599",
@@ -23542,8 +23574,8 @@
     "hasBookInternalId": "@001182",
     "hasBookTitle": "Troilus and Cressida (ChDk)",
     "isWrittenBy": [
-      "ww_d78940f8a8554ca3",
-      "ww_87dbd52f1c5b813b"
+      "ww_87dbd52f1c5b813b",
+      "ww_d78940f8a8554ca3"
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1599:1599",
@@ -23604,9 +23636,9 @@
       "Epic and verse narrative"
     ]
   },
-  "ww_7ed8a7a586e1299b": {
+  "ww_e3209758cb77943a": {
     "hasBookInternalId": "@005773",
-    "hasBookTitle": "Book of Airs (Ross)",
+    "hasBookTitle": "Book of Airs",
     "isWrittenBy": [
       "ww_bd14d532352e018f"
     ],
@@ -23641,7 +23673,7 @@
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1602:1602",
     "hasFirstPerformanceDate": "GREGORIAN:1602",
-    "hasEdition": "The Spanish Fig. 1602.",
+    "hasEdition": "<i>The Spanish Fig. </i>1602.",
     "hasGenre": [
       "Tragedy"
     ],
@@ -23839,7 +23871,7 @@
   "ww_0ea32ca06ff3f508": {
     "hasBookInternalId": "@005652",
     "hasBookTitle": "Abhandlungen zu Shakespeare",
-    "hasEdition": "Abhandlungen zu Shakespeare. Halle: Verlag der Buchhandlung des Waisenhauses, 1877.",
+    "hasEdition": "<i>Abhandlungen zu Shakespeare. </i>Halle: Verlag der Buchhandlung des Waisenhauses, 1877.",
     "isWrittenBy": [
       "ww_283c894f5558a430"
     ],
@@ -23871,8 +23903,8 @@
       "Literature and theatre"
     ]
   },
-  "ww_65fac3fc8ba5c6b9": {
-    "hasBookInternalId": "@888888",
+  "ww_3bc4c3f4aed86587": {
+    "hasBookInternalId": "@011115",
     "hasBookTitle": "Antonio and Vallia",
     "isWrittenBy": [
       "ww_cbc2c3284144573a"
@@ -23942,7 +23974,7 @@
     "hasLanguage": "English",
     "hasPrefixBookTitle": "The",
     "hasCreationDate": "GREGORIAN:1624:1624",
-    "hasEdition": "The Spanish Contract. 1624.",
+    "hasEdition": "<i>The Spanish Contract. </i>1624.",
     "hasGenre": [
       "Comedy"
     ],
@@ -23977,9 +24009,9 @@
     "hasBookInternalId": "@002127",
     "hasBookTitle": "Wedding, or A Cure for a Cuckold",
     "isWrittenBy": [
-      "ww_5cb3d6fa23800e74",
       "ww_f10aec8cfe5ff90d",
-      "ww_9594c85bc48d3759"
+      "ww_9594c85bc48d3759",
+      "ww_5cb3d6fa23800e74"
     ],
     "hasLanguage": "English",
     "hasPrefixBookTitle": "A",
@@ -23996,6 +24028,21 @@
     "performedIn": [
       "ww_0ee31c6b9440b9ca"
     ]
+  },
+  "ww_69db32158650f0d4": {
+    "hasBookInternalId": "@002427",
+    "hasBookTitle": "London Merchant",
+    "isWrittenBy": [
+      "ww_0f4ea2cf65a83ca8"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1624:1624",
+    "hasEdition": "<i>The London Merchant. </i>1624.",
+    "hasGenre": [
+      "Comedy"
+    ],
+    "hasBookComment": "The text of this comedy is lost."
   },
   "ww_4aec3f1b5500e89e": {
     "hasBookInternalId": "@002192",
@@ -24066,12 +24113,12 @@
       "Other nonfiction"
     ],
     "hasSubject": [
-      "Psychology, medicine, health",
-      "Sociology, lifestyle, travel"
+      "Sociology, lifestyle, travel",
+      "Psychology, medicine, health"
     ]
   },
-  "ww_3df89d4f6483db2b": {
-    "hasBookInternalId": "@505555",
+  "ww_f82b3afebdfeb727": {
+    "hasBookInternalId": "@011113",
     "hasBookTitle": "Spanish Tragedy (1630)",
     "isWrittenBy": [
       "ww_93d58b4d5fed41d9"
@@ -24085,7 +24132,7 @@
     ],
     "hasBookComment": "The text is lost.",
     "performedIn": [
-      "ww_ce5d3be654f51de8"
+      "ww_0d9fb907d60020b6"
     ]
   },
   "ww_413388e9f2321107": {
@@ -24121,21 +24168,6 @@
     "hasGenre": [
       "Poetry unspecified"
     ]
-  },
-  "ww_69db32158650f0d4": {
-    "hasBookInternalId": "@002427",
-    "hasBookTitle": "London Merchant",
-    "isWrittenBy": [
-      "ww_0f4ea2cf65a83ca8"
-    ],
-    "hasLanguage": "English",
-    "hasPrefixBookTitle": "The",
-    "hasCreationDate": "GREGORIAN:1634:1634",
-    "hasEdition": "<i>The London Merchant. </i>1624.",
-    "hasGenre": [
-      "Comedy"
-    ],
-    "hasBookComment": "The text of this comedy is lost."
   },
   "ww_054d59d382c13b5c": {
     "hasBookInternalId": "@002508",
@@ -24235,9 +24267,15 @@
     "hasCreationDate": "GREGORIAN:1639:1639",
     "hasEdition": "<i>The Spanish Purchase.</i> 1639.",
     "hasGenre": [
-      "Masque or other"
+      "Comedy"
     ],
-    "hasBookComment": "The text of this play is lost."
+    "hasBookComment": "The text of this comedy is lost.",
+    "performedBy": [
+      "ww_fb09029608b37502"
+    ],
+    "performedIn": [
+      "ww_c2cdd6ec99df368c"
+    ]
   },
   "ww_d0305fac916ef07b": {
     "hasBookInternalId": "@003800",
@@ -24255,9 +24293,9 @@
       "Comedy"
     ]
   },
-  "ww_9b1d9904b7860dba": {
-    "hasBookInternalId": "@005720",
-    "hasBookTitle": "Tricks of Youth",
+  "ww_2caaa7b5ecda53ab": {
+    "hasBookInternalId": "@002800",
+    "hasBookTitle": "Walks of Islington and Hoxton",
     "isWrittenBy": [
       "ww_ebace5dedf2fba51"
     ],
@@ -24267,6 +24305,9 @@
     "hasEdition": "<i>Tricks of youth, or, The walks of Islington and Hogsdon with the humours of Woodstreet-compter a comedy, as it was publickly acted nineteen dayes together with extraordinary applause written by Tho. Jordan, Gent. </i>London: Printed by Authority for the use of the author, 1663.",
     "hasGenre": [
       "Comedy"
+    ],
+    "performedBy": [
+      "ww_e92a7a29221d76ef"
     ]
   },
   "ww_8df276db6b5a45fc": {
@@ -24308,7 +24349,7 @@
     ],
     "hasLanguage": "English",
     "hasCreationDate": "GREGORIAN:1655:1680",
-    "hasEdition": "<i>British Library Aditional MS 22582</i>. Manuscript Miscellany.",
+    "hasEdition": "<i> Manuscript Miscellany. British Library Additional MS 22582.</i>",
     "hasEditionHist": "<i>British Library Aditional MS 22582</i>. Manuscript Miscellany.",
     "hasGenre": [
       "Manuscript miscellany"
@@ -24437,6 +24478,445 @@
     "hasEdition": "London: William Turner and John Nutt, 1703.",
     "hasGenre": [
       "Tragicomedy"
+    ]
+  },
+  "ww_a2e22751f56ca395": {
+    "hasBookInternalId": "@005789",
+    "hasBookTitle": "Captives",
+    "isWrittenBy": [
+      "ww_9b2d545e20d62482",
+      "ww_fd2bbed82dcb70a3"
+    ],
+    "hasLanguage": "Latin",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1000:1000",
+    "hasEdition": "<i>Captivi.</i>",
+    "hasGenre": [
+      "Comedy"
+    ]
+  },
+  "ww_c5279361d571ebfe": {
+    "hasBookInternalId": "@005787",
+    "hasBookTitle": "Anecdote",
+    "isWrittenBy": [
+      "ww_a36762aacb8f9507"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1559:1585",
+    "hasEdition": "\"[Remark during a law case.]\"",
+    "hasGenre": [
+      "Conversation"
+    ]
+  },
+  "ww_fad2b18c442dbc11": {
+    "hasBookInternalId": "@005527",
+    "hasBookTitle": "Epitaph on Richard Edwards",
+    "isWrittenBy": [
+      "ww_a5663d4a9069f35d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1566:1566",
+    "hasEdition": "\"Epitaph upon the death of the worshipful Mayster Richarde Edwardes late Mayster of the Children in the queenes maiesties chapell.\" <i>The Works of the English Poets from Chaucer to Cowper. </i>London: Various publishers, 1810.",
+    "hasEditionHist": "\"Epitaph upon the death of the worshipful Mayster Richarde Edwardes late Mayster of the Children in the queenes maiesties chapell.\" The Works of the English Poets from Chaucer to Cowper. London: Various publishers, 1810.",
+    "hasGenre": [
+      "Poetry unspecified"
+    ]
+  },
+  "ww_b5ae673e33a84a6b": {
+    "hasBookInternalId": "@005779",
+    "hasBookTitle": "Mirror for Magistrates",
+    "isWrittenBy": [
+      "ww_17923856f3fcac86",
+      "ww_2e80ef314f6d0fdc"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1578:1578",
+    "hasEdition": "<i>The last part of the Mirour for magistrates wherein may be seene by examples passed in this realme, vvith howe greenous [sic] plagues, vyces are punished in great princes & magistrats, and hovv frayle and vnstable vvorldly prosperity is founde, where fortune seemeth most highly to fauour. </i>London: Thomas Marsh, 1578.",
+    "hasEditionHist": "<i>The last part of the Mirour for magistrates wherein may be seene by examples passed in this realme, vvith howe greenous [sic] plagues, vyces are punished in great princes & magistrats, and hovv frayle and vnstable vvorldly prosperity is founde, where fortune seemeth most highly to fauour. </i>London: Thomas Marsh, 1578.",
+    "hasGenre": [
+      "Poetry unspecified"
+    ]
+  },
+  "ww_8e53a2b265469d50": {
+    "hasBookInternalId": "@005780",
+    "hasBookTitle": "Knack to Know a Knave",
+    "isWrittenBy": [
+      "ww_93d58b4d5fed41d9"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "A",
+    "hasCreationDate": "GREGORIAN:1592:1592",
+    "hasEdition": "<i>A Knack to Know a Knave.</i> 1592.",
+    "hasGenre": [
+      "Comedy"
+    ]
+  },
+  "ww_09a246993e38d718": {
+    "hasBookInternalId": "@005791",
+    "hasBookTitle": "Guy Earl of Warwick",
+    "isWrittenBy": [
+      "ww_ef796299afbd0e9a"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1600:1600",
+    "hasEdition": "<i>The famous history of Guy Earl of Warwick by Samuel Smithson.</i> London: F. Coles, T. Vere, J. VVright and J. Clarke, 1600.",
+    "hasGenre": [
+      "Prose unspecified"
+    ]
+  },
+  "ww_b48ff7a128a091b1": {
+    "hasBookInternalId": "@005793",
+    "hasBookTitle": "Decacordon of Ten Quodlibetical Questions",
+    "isWrittenBy": [
+      "ww_a5009b24da627f66"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "A",
+    "hasCreationDate": "GREGORIAN:1602:1602",
+    "hasEdition": "<i>A decacordon of ten quodlibeticall questions concerning religion and state wherein the authour framing himfelfe [sic] a quilibet to euery quodlibet, decides an hundred crosse interrogatorie doubts, about the generall contentions betwixt the seminarie priests and Iesuits at this present.</i> London: Newly imprinted by Richard Field, 1602.",
+    "hasGenre": [
+      "Pamphlet or liturgical text"
+    ],
+    "hasSubject": [
+      "Philosophy, religion"
+    ]
+  },
+  "ww_e9d0fbb944a5a98a": {
+    "hasBookInternalId": "@005797",
+    "hasBookTitle": "Larum for London, or The Siege of Antwerp",
+    "isWrittenBy": [
+      "ww_93d58b4d5fed41d9"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "A",
+    "hasCreationDate": "GREGORIAN:1602:1602",
+    "hasFirstPerformanceDate": "GREGORIAN:1599",
+    "hasPublicationDate": "GREGORIAN:1602",
+    "hasEdition": "<i>A Larum for London, or The Siege of Antwerpe. With the ventrous actes and valorous deeds of the lame Soldier. As it hath been playde by the right Honorable the Lord Charberlaine his Seruants.</i> London, William Ferbrand, 1602.",
+    "hasGenre": [
+      "History play"
+    ],
+    "performedBy": [
+      "ww_dc6a53fb57f6bea7"
+    ]
+  },
+  "ww_570ca540527a8a31": {
+    "hasBookInternalId": "@005805",
+    "hasBookTitle": "London Florentine",
+    "isWrittenBy": [
+      "ww_f10aec8cfe5ff90d",
+      "ww_d78940f8a8554ca3"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1603:1603",
+    "hasFirstPerformanceDate": "GREGORIAN:1603",
+    "hasEdition": "<i>London Florentine.</i> 1603.",
+    "hasGenre": [
+      "Comedy"
+    ],
+    "hasBookComment": "The text is lost.",
+    "performedBy": [
+      "ww_312616f20d6e5e9b"
+    ]
+  },
+  "ww_db13f7ebddb191c4": {
+    "hasBookInternalId": "@005777",
+    "hasBookTitle": "True Reportory",
+    "isWrittenBy": [
+      "ww_d1feae78d60ed580"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "A",
+    "hasCreationDate": "GREGORIAN:1610:1611",
+    "hasEdition": "<i>A true reportory of the wracke, and redemption of Sir THOMAS GATES Knight and at Virtual Jamestown.</span> Quoted from http://fas-history.rutgers.edu/clemens/Jamestown/StracheyReportoryI.html. Last accessed 8 December 2020.",
+    "hasGenre": [
+      "Other nonfiction"
+    ],
+    "hasSubject": [
+      "History, (auto-)biography"
+    ]
+  },
+  "ww_104ec4c53311c781": {
+    "hasBookInternalId": "@005792",
+    "hasBookTitle": "Discussion of the Answer of M. William Barlow",
+    "isWrittenBy": [
+      "ww_ef130d60929706ab"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "A",
+    "hasCreationDate": "GREGORIAN:1612:1612",
+    "hasEdition": "<i>A discussion of the ansvvere of M. VVilliam Barlovv, D. of Diuinity, to the booke intituled: The iudgment of a Catholike Englishman liuing in banishment for his religion &c. Concerning the apology of the new Oath of allegiance. VVritten by the R. Father, F. Robert Persons of the Society of Iesus. VVhervnto since the said Fathers death, is annexed a generall preface, laying open the insufficiency, rayling, lying, and other misdemeanour of M. Barlow in his writing.</i> Saint-Omer: the English College press. Permissu superiorum, 1612.",
+    "hasGenre": [
+      "Pamphlet or liturgical text"
+    ],
+    "hasSubject": [
+      "Philosophy, religion"
+    ]
+  },
+  "ww_5f18302f34b8bed5": {
+    "hasBookInternalId": "@005790",
+    "hasBookTitle": "Hector of Germany",
+    "isWrittenBy": [
+      "ww_2e64d602bb9b3aed"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1615:1615",
+    "hasEdition": "<i>THE HECTOR OF GERMANY. OR The Palsgraue, Prime Elector. A New Play, an Honourable History. Made by W. SMITH: with new Additions. As it hath beene publickly Acted at the Red-Bull, and at the Curtayne, by a Company of Young-men of this Citie.</i>",
+    "hasGenre": [
+      "History play"
+    ]
+  },
+  "ww_0accdfb740df3f25": {
+    "hasBookInternalId": "@005783",
+    "hasBookTitle": "Buckingham Commonplace Book",
+    "isWrittenBy": [
+      "ww_23b5e1e48168666e"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1620:1628",
+    "hasEdition": "<i>Plays, Poems and Miscellaneous Writings [...]</i>. Es. Robert D. Hume and Harold Love. Oxford; Oxford University press, 2007. Vol. 2, 160-274.",
+    "hasGenre": [
+      "Anthology"
+    ]
+  },
+  "ww_8f94dca8f9764cd6": {
+    "hasBookInternalId": "@005784",
+    "hasBookTitle": "Buckingham (Hume edition)",
+    "hasEdition": "<i>Plays, Poems and Miscellaneous Writings [...]</i>. Es. Robert D. Hume and Harold Love. Oxford; Oxford University press, 2007. Vol. 2, 160-274.",
+    "isWrittenBy": [
+      "ww_9685232f47f338d5"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:2007:2007",
+    "hasPublicationDate": "GREGORIAN:2007:2007",
+    "hasGenre": [
+      "Annotated edition"
+    ]
+  },
+  "ww_0bdc1f083ef81c10": {
+    "hasBookInternalId": "@005785",
+    "hasBookTitle": "Pamphilia to Amphilanthus",
+    "isWrittenBy": [
+      "ww_7574af68acba2f5d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1621:1621",
+    "hasEdition": "\"Pamphilia to Amphilanthus.\" <i>The Countesse of Mountgomeries Urania. Written by the right honorable the Lady Mary Wroath. Daughter to the right noble Robert Earle of Leicester. And neece to the ever famous, and renowned Sr. Phillips Sidney knight. And to ye most exele[n]t Lady Mary Countesse of Pembroke late deceased. </i>London: Augustine Matthews for John Marriott and John Grismand, 1621.",
+    "hasGenre": [
+      "Poetry unspecified"
+    ]
+  },
+  "ww_eaa5593ab8590dee": {
+    "hasBookInternalId": "@005782",
+    "hasBookTitle": "Countess of Montgomery's Urania",
+    "isWrittenBy": [
+      "ww_7574af68acba2f5d"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1621:1621",
+    "hasEdition": "<i>The Countesse of Mountgomeries Urania. Written by the right honorable the Lady Mary Wroath. Daughter to the right noble Robert Earle of Leicester. And neece to the ever famous, and renowned Sr. Phillips Sidney knight. And to ye most exele[n]t Lady Mary Countesse of Pembroke late deceased. </i>London: Augustine Matthews for John Marriott and John Grismand, 1621.",
+    "hasGenre": [
+      "Prose unspecified"
+    ]
+  },
+  "ww_28097190d4216fda": {
+    "hasBookInternalId": "@005798",
+    "hasBookTitle": "London's Tempe, or The Field of Happiness",
+    "isWrittenBy": [
+      "ww_87dbd52f1c5b813b"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1629:1629",
+    "hasFirstPerformanceDate": "GREGORIAN:1629",
+    "hasPublicationDate": "GREGORIAN:1629",
+    "hasEdition": "<i>Londons Tempe, OR, The Feild of Happines. In which Feild are planted seuerall Trees of Magnificence, State and Bewty, to Celebrate the Solemnity of the Right Honorable Iames Campebell, At his Inauguration into the Honorable Office of Pr\u00e6torship, or Maioralty of London, ... All the particular Inuentions, for the Pageants, Showes of Triumph, both by Water and land being here fully set downe, Written by Thoams Dekker [...]. London: Nicholas Okes, 1629.",
+    "hasGenre": [
+      "Masque or other"
+    ],
+    "hasBookComment": "This pageant was first performed on 29 October 1629."
+  },
+  "ww_ebbeed5703e63dbf": {
+    "hasBookInternalId": "@005799",
+    "hasBookTitle": "London&#039;s Ius Honorarium",
+    "isWrittenBy": [
+      "ww_f10aec8cfe5ff90d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1629:1629",
+    "hasFirstPerformanceDate": "GREGORIAN:1629",
+    "hasPublicationDate": "GREGORIAN:1631",
+    "hasEdition": "<i>Londons Ius Honorarium. Exprest in sundry Triumphs, pagiants, and shews: At the Initiation or Entrance of the Right Honourable George Whitmore, into the Maioralty of the famous and farre renouned City of London. All the charge and expence of the laborious proiects, and obiects both by Water and Land, being the sole vndertaking of the Right Worshipfull, the society of the Habburdashers.</i> London: Nicholas Okes, 1631.",
+    "hasGenre": [
+      "Masque or other"
+    ]
+  },
+  "ww_bdeef1644ff83cb2": {
+    "hasBookInternalId": "@005800",
+    "hasBookTitle": "London's Fountain of Arts and Sciences",
+    "isWrittenBy": [
+      "ww_f10aec8cfe5ff90d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1629:1629",
+    "hasFirstPerformanceDate": "GREGORIAN:1629",
+    "hasPublicationDate": "GREGORIAN:1632",
+    "hasEdition": "<i>Londini Artium & Scentiarum Scaturigo. OR, Londons Fountaine of Arts and Sciences. Exprest in sundry Triumphs, Pageants, and Showes, at the Initiation of the Right Honorable Nicholas Raynton into the Maiorty of the famous and farre renowned City London. All the Charge and Expence of the laborious Proiects both by Water and Land, being the sole vndertaking of the Right Worshipfull Company of the Haberdashers.<i> London: Nicholas Okes, 1632.",
+    "hasGenre": [
+      "Masque or other"
+    ]
+  },
+  "ww_a654e39eb3241ea2": {
+    "hasBookInternalId": "@005799",
+    "hasBookTitle": "London's Mercatura",
+    "isWrittenBy": [
+      "ww_f10aec8cfe5ff90d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1629:1629",
+    "hasFirstPerformanceDate": "GREGORIAN:1629",
+    "hasPublicationDate": "GREGORIAN:1633",
+    "hasEdition": "<i>Londini Emporia, or Londons Mercatura. Exprest in sundry Triumphs, Pageants and Showes, at the Inauguration of the Right Honorable Ralph Freeman into the Maiorty of the Famous and farre Renowned Citty London. All the Charge and Expence of the laborious Proiects, both by Water and Land, being the sole vndertaking of the Right Worshipfull Company of the Cloath-Workers.<i> London: Nicholas Okes, 1633.",
+    "hasGenre": [
+      "Masque or other"
+    ]
+  },
+  "ww_73a905b76d5cd5fd": {
+    "hasBookInternalId": "@005802",
+    "hasBookTitle": "London&#039;s Harbor of Health and Happiness",
+    "isWrittenBy": [
+      "ww_f10aec8cfe5ff90d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1635:1635",
+    "hasFirstPerformanceDate": "GREGORIAN:1635",
+    "hasPublicationDate": "GREGORIAN:1635",
+    "hasEdition": "<i> Londini Sinus Salutis, or Londons Harbour of Health, and Happinesse. Epressed in sundry Triumphs, Pageants and Showes; at the Initiation of the Right Honorable, Christopher Clethrowe, Into the Maioralty of the farre Renowned City London.",
+    "hasGenre": [
+      "Masque or other"
+    ]
+  },
+  "ww_4e2d25d58595b98d": {
+    "hasBookInternalId": "@005803",
+    "hasBookTitle": "Londini Speculum or, London&#039;s Mirror",
+    "isWrittenBy": [
+      "ww_f10aec8cfe5ff90d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1637:1637",
+    "hasFirstPerformanceDate": "GREGORIAN:1637",
+    "hasPublicationDate": "GREGORIAN:1637",
+    "hasEdition": "<i>Londini Speculum: or, Londons Mirror, Exprest in sundry Triumphs, Pageants, and Showes, at the Initiation of the right Honorable Richard Fenn, into the Mairolty of the Famous and farre renowned City London. Written by Tho. Heywood. All the Charge and Expence of these laborious projects both by Water and Land, being the sole undertaking of the Right Worshipful Company of the Habberdashers.</i> London: John Okes, 1637.",
+    "hasGenre": [
+      "Masque or other"
+    ]
+  },
+  "ww_edeeafcb29b019a1": {
+    "hasBookInternalId": "@005806",
+    "hasBookTitle": "Florentine Friend",
+    "isWrittenBy": [
+      "ww_16d6bd30a8c9da6a"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1638:1638",
+    "hasEdition": "<i>The Florentine Friend.</i> 1638.",
+    "hasGenre": [
+      "Masque or other"
+    ],
+    "performedBy": [
+      "ww_fb09029608b37502"
+    ]
+  },
+  "ww_001477cbe0447fe1": {
+    "hasBookInternalId": "@005804",
+    "hasBookTitle": "London&#039;s Peaceable Estate",
+    "isWrittenBy": [
+      "ww_f10aec8cfe5ff90d"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1639:1639",
+    "hasFirstPerformanceDate": "GREGORIAN:1639",
+    "hasPublicationDate": "GREGORIAN:1639",
+    "hasEdition": "<i>Londini Status Pacatus: OR, LONDONS Peaceable Estate. Exprest in sundry Triumphs, Pageants, and Shewes, at the Innitiation of the right Honourable Henry Garway, into the Majoralty of the Famous and farre Renowned City London. Written by Thoams Heywood. All the Charge and Expence, of the laborious Projects both by Water and Land, being the sole undertakings of the Right Worshipfull Society of Drapers.<i> London: John Okes, 1639.",
+    "hasGenre": [
+      "Masque or other"
+    ]
+  },
+  "ww_424fa4f0ac843486": {
+    "hasBookInternalId": "@005794",
+    "hasBookTitle": "Leoline and Sydanis",
+    "isWrittenBy": [
+      "ww_3314713b01bb79ec"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1646:1646",
+    "hasEdition": "<i>Leoline and Sydanis A romance of the amorous adventures of princes. Together, with sundry affectionate addresses to his mistresse, under the name of Cynthia. Written by Sir Fr. Kinnaston, knight, late one of the squires of the body to His Majesty.</i> London: Richard Heron, for Thomas Slater, 1646.",
+    "hasGenre": [
+      "Poetry unspecified"
+    ]
+  },
+  "ww_728e433b5597b41f": {
+    "hasBookInternalId": "@005801",
+    "hasBookTitle": "Mistress Parliament, Her Invitation of Mistress ",
+    "isWrittenBy": [
+      "ww_93d58b4d5fed41d9"
+    ],
+    "hasLanguage": "English",
+    "hasCreationDate": "GREGORIAN:1648:1648",
+    "hasFirstPerformanceDate": "GREGORIAN:1648",
+    "hasPublicationDate": "GREGORIAN:1648",
+    "hasEdition": "<i>Mrs. Parliament Her Invitation of Mrs. London, to a Thankesgiving Dinner. For the great and mighty Victorie, which Mr. Horton obtained over Major Powell in Wales. Their Discourse, Desires, Designes, as you may heare from their owne mouthes. Munday 29 of May, in the eight yeare of the Reigne of our soveraigne Lady Parliament. Mrs. Parliament, her Invitation to Mrs. London [...].<i> Publisher not given, 1648.",
+    "hasGenre": [
+      "Masque or other"
+    ]
+  },
+  "ww_e424e087ec5f80b8": {
+    "hasBookInternalId": "@005795",
+    "hasBookTitle": "History of Joseph",
+    "isWrittenBy": [
+      "ww_215df65408d32250"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1652:1652",
+    "hasEdition": "<i>The history of Ioseph a poem / written by Daniel Cudmore, Gent.<i> London: T. Warren for the author, 1652.",
+    "hasGenre": [
+      "Epic and verse narrative"
+    ]
+  },
+  "ww_7f5149d8ba51cba0": {
+    "hasBookInternalId": "@005808",
+    "hasBookTitle": "London Chanticleers",
+    "isWrittenBy": [
+      "ww_93d58b4d5fed41d9"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1659:1659",
+    "hasFirstPerformanceDate": "GREGORIAN:1659",
+    "hasPublicationDate": "GREGORIAN:1659",
+    "hasEdition": "<i>The London Chaunticleres. A Witty Comoedy, Full of Various and Delightfull Mirth. Often Acted with Great Applause And never before Published.<i> London: Simon Miller, 1659.",
+    "hasGenre": [
+      "Comedy"
+    ],
+    "hasBookComment": "This comic interlude was first performed in 1659."
+  },
+  "ww_d76b7040536b9b5b": {
+    "hasBookInternalId": "@005807",
+    "hasBookTitle": "Florentine Ladies",
+    "isWrittenBy": [
+      "ww_93d58b4d5fed41d9"
+    ],
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasCreationDate": "GREGORIAN:1665:1665",
+    "hasEdition": "<i>The Florentine Ladies.</i>",
+    "hasGenre": [
+      "Masque or other"
     ]
   }
 }
