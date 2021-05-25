@@ -385,7 +385,7 @@ def create_sec_passage(sec_pa_id, pag, sec_bo):
     passage = {
         "hasText": "-",
         "hasDisplayedTitle": sec_bo["hasDisplayedTitle"],
-        "hasResearchField": ["Reading"],
+        "hasResearchField": "Reading",
         "hasFunctionVoice": ["Not defined"],
         "hasMarking": ["Unmarked"],
         "hasStatus": "public",
