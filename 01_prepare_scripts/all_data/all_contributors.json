@@ -597,7 +597,7 @@
   "ww_c7e602ee1b8d425e": {
     "hasFirstName": "Eva",
     "hasLastName": "Sternk\u00fcker",
-    "hasGender": "male",
+    "hasGender": "female",
     "hasDescription": "eva.sternkueker@unibas.ch",
     "sql": 104
   },
@@ -681,14 +681,14 @@
   "ww_cb98fb2b6e4ff498": {
     "hasFirstName": "Johanna",
     "hasLastName": "Sch\u00fcpbach",
-    "hasGender": "male",
+    "hasGender": "female",
     "hasDescription": "Swiss librarian",
     "sql": 119
   },
   "ww_042d36bd70e9b725": {
     "hasFirstName": "Anna",
     "hasLastName": "Sioutis",
-    "hasGender": "male",
+    "hasGender": "female",
     "hasDescription": "annaphilia@hotmail.com",
     "sql": 120
   },
@@ -737,7 +737,7 @@
   "ww_3c4e30a8ccd848c5": {
     "hasFirstName": "Patty",
     "hasLastName": "Rich",
-    "hasGender": "male",
+    "hasGender": "female",
     "hasDescription": "patty.rich@union-psce.edu",
     "sql": 129
   },
@@ -877,7 +877,7 @@
   "ww_f633be6a5c8f747e": {
     "hasFirstName": "Susan",
     "hasLastName": "Robson",
-    "hasGender": "male",
+    "hasGender": "female",
     "hasDescription": "suze_rob@yahoo.co.uk",
     "sql": 159
   },
@@ -1111,5 +1111,19 @@
     "hasGender": "male",
     "hasDescription": "-",
     "sql": 196
+  },
+  "ww_5faa00dc451b9ce9": {
+    "hasFirstName": "Lukas",
+    "hasLastName": "Aresta",
+    "hasGender": "male",
+    "hasDescription": "_",
+    "sql": 197
+  },
+  "ww_b270e5e115c6b71f": {
+    "hasFirstName": "Philippe",
+    "hasLastName": "Schmid",
+    "hasGender": "male",
+    "hasDescription": "_",
+    "sql": 198
   }
 }

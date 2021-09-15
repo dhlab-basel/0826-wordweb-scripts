@@ -59,7 +59,8 @@ csv_files = [
     "01_prepare_scripts/csv/export_7.csv",
     "01_prepare_scripts/csv/export_8.csv",
     "01_prepare_scripts/csv/export_9.csv",
-    "01_prepare_scripts/csv/export_10.csv"
+    "01_prepare_scripts/csv/export_10.csv",
+    "01_prepare_scripts/csv/basel_britain.csv"
 ]
 
 # Every object contains all the resources of the same type which occurs in HyperHamlet.
@@ -113,6 +114,7 @@ companies = {}
 venues = {}
 
 person_id_start = 7100
+passage_internal_id_start = 0
 
 
 def create_author(auth_id):
@@ -314,7 +316,12 @@ def update_sec_book(sec_b_id, auth_names):
 
 
 def create_passage(pa_id, dis_tit, text, text_or, pub, pub_or):
+    global passage_internal_id_start
+    passage_internal_id_start = passage_internal_id_start + 1
+    pa_int_id = f'_{passage_internal_id_start:06d}'
+
     passage = {
+        "hasPassageInternalId": pa_int_id,
         "hasText": text,
         "occursIn": [],
         "contains": [],
@@ -382,7 +389,12 @@ def update_passage(pa_id, bo_id, co_or_id, sec_pa_id, lex_id, res_fi, fc_vo, mar
 
 
 def create_sec_passage(sec_pa_id, pag, sec_bo):
+    global passage_internal_id_start
+    passage_internal_id_start = passage_internal_id_start + 1
+    pa_int_id = f'_{passage_internal_id_start:06d}'
+
     passage = {
+        "hasPassageInternalId": pa_int_id,
         "hasText": "-",
         "hasDisplayedTitle": sec_bo["hasDisplayedTitle"],
         "hasResearchField": "Reading",
@@ -705,6 +717,13 @@ def start():
 
                         publication = ed.info(row[4])
                         publication_original = ed.info(row[26])
+
+                        # Change page of publication in basel_britain
+                        if csv_file == "01_prepare_scripts/csv/basel_britain.csv":
+                            if "pubInfo" not in publication:
+                                temp = {}
+                                temp["pubInfo"] = publication["page"]
+                                publication = temp
 
                         # Creates the book if its new
                         if book_id not in books:

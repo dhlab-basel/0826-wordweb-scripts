@@ -2705,10 +2705,10 @@
     "hasBookInternalId": "@005161",
     "sql": 834
   },
-  "ww_16d35c79809f11be": {
+  "ww_cecf86557b2e1312": {
     "hasPrefixBookTitle": "The",
     "hasBookTitle": "House of Correction",
-    "hasBookInternalId": "@005162",
+    "hasBookInternalId": "@005365",
     "sql": 840
   },
   "ww_ac80b76a5d2b6cef": {
@@ -4703,8 +4703,8 @@
     "hasBookInternalId": "@005397",
     "sql": 1467
   },
-  "ww_766649ffac6f189a": {
-    "hasBookTitle": "Shakespeare Birthplace Trust Record Office",
+  "ww_15984f05cea6d89a": {
+    "hasBookTitle": "Shakespeare Birthplace Trust Record Office ER 82",
     "hasBookInternalId": "@005398",
     "sql": 1468
   },
@@ -5569,12 +5569,6 @@
     "hasBookTitle": "Colloquia Familiaria",
     "hasBookInternalId": "@005495",
     "sql": 1758
-  },
-  "ww_2559b05319193611": {
-    "hasPrefixBookTitle": "The",
-    "hasBookTitle": "Heptameron",
-    "hasBookInternalId": "@005496",
-    "sql": 1759
   },
   "ww_5d7e0333ed0c4ba8": {
     "hasBookTitle": "Colin Clout",
@@ -6586,25 +6580,15 @@
     "hasBookInternalId": "@005780",
     "sql": 2069
   },
-  "ww_9d0fe13222d0ce47": {
-    "hasBookTitle": "Fassbender and Cotillard",
-    "hasBookInternalId": "@011111",
-    "sql": 2071
-  },
   "ww_6ea3676208916db0": {
     "hasBookTitle": "Letter to Caspar Bauhin 1624 or earlier",
     "hasBookInternalId": "@100001",
     "sql": 2072
   },
-  "ww_12f80804e857304d": {
-    "hasBookTitle": "Letter to Johann Jacob Frey 5 March 1631 (English)",
+  "ww_2588f44d983e76c0": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 5 March 1631",
     "hasBookInternalId": "@100002",
     "sql": 2073
-  },
-  "ww_9db83acc767e8e32": {
-    "hasBookTitle": "Letter to Johann Jacob Frey 5 March 1631 (German)",
-    "hasBookInternalId": "@100003",
-    "sql": 2074
   },
   "ww_9447033f714bbfcd": {
     "hasBookTitle": "Letter to the Earl of Cork 17 April 1630",
@@ -6636,20 +6620,10 @@
     "hasBookInternalId": "@100009",
     "sql": 2081
   },
-  "ww_d13b65b02cb77fb4": {
-    "hasBookTitle": "Letter to Basel Magistrate 29 December 1631 (German)",
-    "hasBookInternalId": "@100010",
-    "sql": 2082
-  },
   "ww_5c5d7a8359fb41c9": {
     "hasBookTitle": "Letter to Johann Jacob Frey 7 October 1631",
     "hasBookInternalId": "@100011",
     "sql": 2083
-  },
-  "ww_2802af4bf07c2152": {
-    "hasBookTitle": "Letter to Basel Magistrate 23 Feburary 1631 (German)",
-    "hasBookInternalId": "@100012",
-    "sql": 2084
   },
   "ww_4218862fa78af89a": {
     "hasBookTitle": "Letter to Samuel Grynaeus 13 November 1632",
@@ -6731,11 +6705,6 @@
     "hasBookInternalId": "@100028",
     "sql": 2100
   },
-  "ww_8b2de13dfb3eb92d": {
-    "hasBookTitle": "Letter to James Ussher (draft) 13 June 1636",
-    "hasBookInternalId": "@100029",
-    "sql": 2101
-  },
   "ww_e3f9ba7c85b6df86": {
     "hasBookTitle": "Letter to James Ussher 25 June 1635",
     "hasBookInternalId": "@100030",
@@ -6771,8 +6740,8 @@
     "hasBookInternalId": "@100036",
     "sql": 2108
   },
-  "ww_5d723bf5b72bbb06": {
-    "hasBookTitle": "Draft of a letter to James Ussher 13 June",
+  "ww_3d2c9f2717034f89": {
+    "hasBookTitle": "Letter to James Ussher 13 June 1636",
     "hasBookInternalId": "@100037",
     "sql": 2109
   },
@@ -6846,9 +6815,9 @@
     "hasBookInternalId": "@100051",
     "sql": 2123
   },
-  "ww_e7fd9541de30c2ed": {
+  "ww_d4cbcaabf425c3d9": {
     "hasBookTitle": "Letter to Algernon Percy 9 September 1634",
-    "hasBookInternalId": "@010052",
+    "hasBookInternalId": "@100052",
     "sql": 2124
   },
   "ww_dda38054a442d82e": {
@@ -6861,13 +6830,13 @@
     "hasBookInternalId": "@100054",
     "sql": 2126
   },
-  "ww_14599c9e2916d38e": {
-    "hasBookTitle": "Letter to Johannes Buxtorf February 1653",
+  "ww_53d5c65c41de236b": {
+    "hasBookTitle": "Letter to Johannes Buxtorf the Younger February 1653",
     "hasBookInternalId": "@100055",
     "sql": 2127
   },
-  "ww_bde453817287cdc9": {
-    "hasBookTitle": "Letter to Johannes Buxtorf 7 February 1637",
+  "ww_446a2e1dbd855a51": {
+    "hasBookTitle": "Letter to Johannes Buxtorf the Younger 7 February 1637",
     "hasBookInternalId": "@100056",
     "sql": 2128
   },
@@ -6965,18 +6934,18 @@
     "hasBookInternalId": "@005799",
     "sql": 2149
   },
-  "ww_bdeef1644ff83cb2": {
+  "ww_5a82466c4f46f1a8": {
     "firstPerformanceExact": "1629",
     "publicationExact": "1632",
     "hasBookTitle": "London's Fountain of Arts and Sciences",
-    "hasBookInternalId": "@005800",
+    "hasBookInternalId": "@005888",
     "sql": 2150
   },
-  "ww_a654e39eb3241ea2": {
+  "ww_9effb2e0a434c0b3": {
     "firstPerformanceExact": "1629",
     "publicationExact": "1633",
     "hasBookTitle": "London's Mercatura",
-    "hasBookInternalId": "@005799",
+    "hasBookInternalId": "@006001",
     "sql": 2151
   },
   "ww_7f5149d8ba51cba0": {
@@ -7032,5 +7001,2104 @@
     "hasBookTitle": "Florentine Ladies",
     "hasBookInternalId": "@005807",
     "sql": 2159
+  },
+  "ww_cc25ccc5067847c8": {
+    "publicationExact": "1600",
+    "hasBookTitle": "Love&#039;s Metamorphosis",
+    "hasBookInternalId": "@005809",
+    "sql": 2161
+  },
+  "ww_5edc08f04b489913": {
+    "hasBookTitle": "Letter to Lady Frances Clifford 12 September 1634",
+    "hasBookInternalId": "@100058",
+    "sql": 2162
+  },
+  "ww_945245b744c30b7d": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 9 - 19 August 1635",
+    "hasBookInternalId": "@100059",
+    "sql": 2163
+  },
+  "ww_988f0b7d6a0d45e5": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 17 September 1635 (Littell)",
+    "hasBookInternalId": "@100010",
+    "sql": 2164
+  },
+  "ww_01df45204fbb2867": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 21 March 1635",
+    "hasBookInternalId": "@100012",
+    "sql": 2165
+  },
+  "ww_e38e0989f808cabb": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 29 March 1636",
+    "hasBookInternalId": "@100003",
+    "sql": 2166
+  },
+  "ww_b05768f6948c080e": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 22 July 1635",
+    "hasBookInternalId": "@100060",
+    "sql": 2167
+  },
+  "ww_c933cf6b4cf9eb29": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 29 August 1635",
+    "hasBookInternalId": "@100061",
+    "sql": 2168
+  },
+  "ww_3d5ba4ad619566c0": {
+    "hasBookTitle": "Letter to Mayor Rhyner 13 April 1632",
+    "hasBookInternalId": "@100062",
+    "sql": 2169
+  },
+  "ww_672c5829ef2f7f76": {
+    "hasBookTitle": "Letter to William Beecher 11 January 1632",
+    "hasBookInternalId": "@100063",
+    "sql": 2170
+  },
+  "ww_c9e7d36a2ceb58bc": {
+    "hasBookTitle": "Letter to Richard Boyle, Earl of Cork 6 December 1632",
+    "hasBookInternalId": "@100064",
+    "sql": 2171
+  },
+  "ww_56fc06a8f4ed1e05": {
+    "hasBookTitle": "Letter to the Earl of Dungarvan 26 November 1",
+    "hasBookInternalId": "@100065",
+    "sql": 2172
+  },
+  "ww_ca817caaa6cda0ce": {
+    "hasBookTitle": "Letter to Lady Sarah Digby 22 July 1633",
+    "hasBookInternalId": "@100066",
+    "sql": 2173
+  },
+  "ww_76442c732f88fc38": {
+    "hasBookTitle": "Letter to Lady Sarah Digby 8 June 1633",
+    "hasBookInternalId": "@100067",
+    "sql": 2174
+  },
+  "ww_e4d2b8ff5b814c3b": {
+    "hasBookTitle": "Letter to James Ussher 26 August 1633",
+    "hasBookInternalId": "@100068",
+    "sql": 2175
+  },
+  "ww_2eca412688c93c5d": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 25 February 1634",
+    "hasBookInternalId": "@100029",
+    "sql": 2176
+  },
+  "ww_49e060b65851a9c4": {
+    "hasBookTitle": "Letter to Christoph L\u00fcthard 4 February 1636",
+    "hasBookInternalId": "@100069",
+    "sql": 2177
+  },
+  "ww_3f307522be8ade7d": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 15 October 1636",
+    "hasBookInternalId": "@100070",
+    "sql": 2178
+  },
+  "ww_8240cad2ec138011": {
+    "hasBookTitle": "Letter to William Mancknoull 18 September 1636",
+    "hasBookInternalId": "@100071",
+    "sql": 2179
+  },
+  "ww_231396d8d78f81f7": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 30 April 1636",
+    "hasBookInternalId": "@100073",
+    "sql": 2181
+  },
+  "ww_5657079c3b5766e2": {
+    "hasBookTitle": "Letter to Esther Frey-Ostein August 1636",
+    "hasBookInternalId": "@100074",
+    "sql": 2182
+  },
+  "ww_e6c29711d20e6ec1": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 12 January 1636",
+    "hasBookInternalId": "@100075",
+    "sql": 2183
+  },
+  "ww_fc98a23cac9fc7ce": {
+    "hasBookTitle": "Letter to Thomas Wentworth 19 December 1636",
+    "hasBookInternalId": "@100076",
+    "sql": 2184
+  },
+  "ww_406533592d1e5397": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 31 July 1636",
+    "hasBookInternalId": "@100077",
+    "sql": 2185
+  },
+  "ww_a566c7c08b058336": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 17 August 1635",
+    "hasBookInternalId": "@100078",
+    "sql": 2186
+  },
+  "ww_48dba3f43d95f96e": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 22 August 1635",
+    "hasBookInternalId": "@100079",
+    "sql": 2187
+  },
+  "ww_b9a1de99e8dc2ca0": {
+    "hasBookTitle": "Letter to Richard Boyle, Earl of Cork 9 December 1635",
+    "hasBookInternalId": "@100080",
+    "sql": 2188
+  },
+  "ww_dea72a04287c41b8": {
+    "hasBookTitle": "On the Late Massacre in Piedmont",
+    "hasBookInternalId": "@100081",
+    "sql": 2189
+  },
+  "ww_bbd558991db4afd9": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "History of the Waldensians",
+    "hasBookInternalId": "@100082",
+    "sql": 2190
+  },
+  "ww_499ad24c4868bf16": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 20 December 1635",
+    "hasBookInternalId": "@100083",
+    "sql": 2191
+  },
+  "ww_31f4c7df5990b17a": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 15 October 1635",
+    "hasBookInternalId": "@100084",
+    "sql": 2192
+  },
+  "ww_34efa3fcb83c5152": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 1 September 1635",
+    "hasBookInternalId": "@100085",
+    "sql": 2193
+  },
+  "ww_86fb7f2d25ec31c2": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 12 July 1635",
+    "hasBookInternalId": "@100086",
+    "sql": 2194
+  },
+  "ww_eb1173adf7942fef": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 27 September 1636",
+    "hasBookInternalId": "@100088",
+    "sql": 2196
+  },
+  "ww_fe874eac1199a835": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 6 September 1635",
+    "hasBookInternalId": "@100090",
+    "sql": 2198
+  },
+  "ww_a12e170dd0446c72": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 5 October 1635",
+    "hasBookInternalId": "@100091",
+    "sql": 2200
+  },
+  "ww_eba55cc0c7c6f787": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 8 September 1635",
+    "hasBookInternalId": "@100092",
+    "sql": 2201
+  },
+  "ww_ecef83062d94238a": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 10 July 1635",
+    "hasBookInternalId": "@100093",
+    "sql": 2202
+  },
+  "ww_72236a5d195f2dad": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 4 - 14 August 1635",
+    "hasBookInternalId": "@100094",
+    "sql": 2203
+  },
+  "ww_6017c679ef2acf4e": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 17 September 1635 (Ussher)",
+    "hasBookInternalId": "@100095",
+    "sql": 2204
+  },
+  "ww_9944d847112a7d40": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 27 April 1635",
+    "hasBookInternalId": "@100096",
+    "sql": 2205
+  },
+  "ww_c2835f8d040dbf41": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 26 March 1635",
+    "hasBookInternalId": "@100097",
+    "sql": 2206
+  },
+  "ww_f737eff545592c3c": {
+    "hasBookTitle": "Letter to Catharina Frey 17 November 1636",
+    "hasBookInternalId": "@100098",
+    "sql": 2207
+  },
+  "ww_fedfc93df9d4b7f1": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 18 February 1634",
+    "hasBookInternalId": "@100099",
+    "sql": 2208
+  },
+  "ww_1bec457171d60e3e": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 20 February 1634",
+    "hasBookInternalId": "@100100",
+    "sql": 2210
+  },
+  "ww_f0dc0a769c717d4e": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 16 August 1635",
+    "hasBookInternalId": "@100101",
+    "sql": 2211
+  },
+  "ww_f025d9a8ba816cc1": {
+    "hasBookTitle": "Entry 05 in Frey's Liber Amicorum February 1630",
+    "hasBookInternalId": "@100102",
+    "sql": 2212
+  },
+  "ww_54d1c043e742d972": {
+    "hasBookTitle": "Entry 53 in Frey's Liber Amicorum August 1625",
+    "hasBookInternalId": "@100103",
+    "sql": 2213
+  },
+  "ww_d2d0e31ed70a8b70": {
+    "hasBookTitle": "Entry 103 in Frey's Liber Amicorum 2 June 1625",
+    "hasBookInternalId": "@100104",
+    "sql": 2214
+  },
+  "ww_aafb5064333f1284": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 25 March 1635",
+    "hasBookInternalId": "@100105",
+    "sql": 2215
+  },
+  "ww_a106c6b69ba05e1b": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 1636 or earlier",
+    "hasBookInternalId": "@100106",
+    "sql": 2216
+  },
+  "ww_7396bdd528f253fc": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 4 May 1636",
+    "hasBookInternalId": "@100107",
+    "sql": 2217
+  },
+  "ww_90d8a86f5ade2853": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 4 August 1635",
+    "hasBookInternalId": "@100108",
+    "sql": 2218
+  },
+  "ww_1a0ddcf72d436e0e": {
+    "hasBookTitle": "Letter to Johann Jacob Frey DATE UNKNOWN",
+    "hasBookInternalId": "@100110",
+    "sql": 2220
+  },
+  "ww_cc0fb8c25bea8a58": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 24 August 1635",
+    "hasBookInternalId": "@100111",
+    "sql": 2221
+  },
+  "ww_ef22976b3b883658": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 4 May 1634",
+    "hasBookInternalId": "@100112",
+    "sql": 2222
+  },
+  "ww_49a702625daf34b6": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 14 January 1634",
+    "hasBookInternalId": "@100113",
+    "sql": 2223
+  },
+  "ww_3c6a1476f3459145": {
+    "hasBookTitle": "Entry 102 in Frey's Liber amicorum 2 March 1627",
+    "hasBookInternalId": "@100114",
+    "sql": 2224
+  },
+  "ww_35e4c9bdffb21322": {
+    "hasBookTitle": "Moral Essays",
+    "hasBookInternalId": "@100115",
+    "sql": 2225
+  },
+  "ww_b0b74931715d80e7": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 4 April 1635",
+    "hasBookInternalId": "@100116",
+    "sql": 2226
+  },
+  "ww_a75c1b088a89caa5": {
+    "hasPrefixBookTitle": "An",
+    "hasBookTitle": "Alarm to All Impenitent Sinners",
+    "hasBookInternalId": "@100117",
+    "sql": 2227
+  },
+  "ww_8520d54cd00b81bc": {
+    "hasBookTitle": "Letter to Johann Jacob Hoffmann 25 September 1667",
+    "hasBookInternalId": "@100118",
+    "sql": 2228
+  },
+  "ww_ccc5f083e01b924f": {
+    "hasBookTitle": "Muses' Interpreter",
+    "hasBookInternalId": "@005889",
+    "sql": 2229
+  },
+  "ww_e128886f80bd2be6": {
+    "hasBookTitle": "French Letter to Johann Jacob Frey DATE UNCLEAR 1635",
+    "hasBookInternalId": "@100120",
+    "sql": 2231
+  },
+  "ww_5e42bbbcd7739fef": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 30 July 1635",
+    "hasBookInternalId": "@100121",
+    "sql": 2232
+  },
+  "ww_755e843913986412": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 30 March 1636",
+    "hasBookInternalId": "@100122",
+    "sql": 2233
+  },
+  "ww_1c278ce41a42b2f3": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 30 December 1635",
+    "hasBookInternalId": "@100123",
+    "sql": 2234
+  },
+  "ww_9eae5ccac485370a": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 20 October 1635",
+    "hasBookInternalId": "@100124",
+    "sql": 2235
+  },
+  "ww_66a8267ebb8e13b7": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 27 July 1635",
+    "hasBookInternalId": "@100125",
+    "sql": 2236
+  },
+  "ww_11e178a66aea5f77": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 27 October 1635",
+    "hasBookInternalId": "@100126",
+    "sql": 2237
+  },
+  "ww_acc550bb05532bc9": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 28 June 1635",
+    "hasBookInternalId": "@100127",
+    "sql": 2238
+  },
+  "ww_648c920b7a93a9d6": {
+    "hasBookTitle": "Letter to Johann Caspar Bauhin 1 February 1636",
+    "hasBookInternalId": "@100128",
+    "sql": 2239
+  },
+  "ww_8adde9796153f5fe": {
+    "hasBookTitle": "Letter to Johann Caspar Bauhin 23 December 1636",
+    "hasBookInternalId": "@100129",
+    "sql": 2240
+  },
+  "ww_e189049109d92d19": {
+    "hasBookTitle": "Historie des Lebens Johannis Henrici Hummelii",
+    "hasBookInternalId": "@100130",
+    "sql": 2241
+  },
+  "ww_620bf306dcfe7c17": {
+    "hasBookTitle": "Traveller without a text",
+    "hasBookInternalId": "@111111",
+    "sql": 2242
+  },
+  "ww_09c31990aeec2ddd": {
+    "hasBookTitle": "Constitution de l'Angleterre",
+    "hasBookInternalId": "@100131",
+    "sql": 2243
+  },
+  "ww_bd908b16e9db45a3": {
+    "hasBookTitle": "Reisetagebuch durch England 1602",
+    "hasBookInternalId": "@100132",
+    "sql": 2244
+  },
+  "ww_e438e72a6a814520": {
+    "hasBookTitle": "Journal 1595-1600",
+    "hasBookInternalId": "@100134",
+    "sql": 2246
+  },
+  "ww_26ec6a151f9693c8": {
+    "hasBookTitle": "Diarium einer Reise",
+    "hasBookInternalId": "@100135",
+    "sql": 2247
+  },
+  "ww_144471e6e848cae3": {
+    "hasBookTitle": "Lettres sur les Anglais et les Francais",
+    "hasBookInternalId": "@100136",
+    "sql": 2248
+  },
+  "ww_650c736a49b6eeee": {
+    "hasBookTitle": "Entry 147 in Frey's Liber Amicorum",
+    "hasBookInternalId": "@100137",
+    "sql": 2249
+  },
+  "ww_195834cf65f2bc76": {
+    "hasBookTitle": "Abridgment of Christian Divinity",
+    "hasBookInternalId": "@100138",
+    "sql": 2250
+  },
+  "ww_2b086304a8ae5a7f": {
+    "hasBookTitle": "Itinera alpina tria",
+    "hasBookInternalId": "@100139",
+    "sql": 2251
+  },
+  "ww_6258a80f5c324af0": {
+    "hasBookTitle": "Letter to Johann Jacob Scheuchzer 1728",
+    "hasBookInternalId": "@100140",
+    "sql": 2252
+  },
+  "ww_8cbb988a4e4242a2": {
+    "hasBookTitle": "Letter to Johannes Buxtorf the Younger 28 February 1661",
+    "hasBookInternalId": "@100141",
+    "sql": 2253
+  },
+  "ww_ed428c7a7df84931": {
+    "hasBookTitle": "Letter to Johannes Buxtorf the Younger 21 July 1662",
+    "hasBookInternalId": "@100142",
+    "sql": 2254
+  },
+  "ww_5112bf1831f1535d": {
+    "hasBookTitle": "Letter to Johannes II Buxtorf 8 July 1662",
+    "hasBookInternalId": "@100143",
+    "sql": 2255
+  },
+  "ww_5e20df968b50ea2b": {
+    "hasBookTitle": "Letter to Johannes II Buxtorf 29 April 1655",
+    "hasBookInternalId": "@100144",
+    "sql": 2256
+  },
+  "ww_e4a5de3854bd6259": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 17 December 1635",
+    "hasBookInternalId": "@100145",
+    "sql": 2257
+  },
+  "ww_09870de980c87aab": {
+    "hasBookTitle": "Letter to the University of Basel 2 March 1664",
+    "hasBookInternalId": "@100146",
+    "sql": 2258
+  },
+  "ww_8425b662b966729a": {
+    "hasBookTitle": "Letter to Andr\u00e9 Wanley 20 December 1649",
+    "hasBookInternalId": "@100147",
+    "sql": 2259
+  },
+  "ww_929b0f6ef00d5b6a": {
+    "hasBookTitle": "Journal 1760-1764",
+    "hasBookInternalId": "@100148",
+    "sql": 2260
+  },
+  "ww_fdc2d1e3311519ae": {
+    "hasBookTitle": "Tageb\u00fccher \u00fcber die Amtsverrichtung",
+    "hasBookInternalId": "@100149",
+    "sql": 2262
+  },
+  "ww_1834a53398fd922f": {
+    "hasBookTitle": "Ordination document for Johann Jacob Frey",
+    "hasBookInternalId": "@100150",
+    "sql": 2263
+  },
+  "ww_23f2edf6a52bb82b": {
+    "hasBookTitle": "Letter to Caspar Bauhin 1 August 1604",
+    "hasBookInternalId": "@100151",
+    "sql": 2264
+  },
+  "ww_5ee039d778934e03": {
+    "hasBookTitle": "History of the Evangelical Churches of Piedmont",
+    "hasBookInternalId": "@100152",
+    "sql": 2265
+  },
+  "ww_c35f670981c42c37": {
+    "hasBookTitle": "Clarissa (Haller translation)",
+    "hasBookInternalId": "@100154",
+    "sql": 2267
+  },
+  "ww_d297a3f42aead717": {
+    "hasBookTitle": "Letter to Johannes II Buxtorf 6 December 1630",
+    "hasBookInternalId": "@100155",
+    "sql": 2268
+  },
+  "ww_badb08d495410155": {
+    "hasBookTitle": "Letter to Johann Caspar Bauhin 6 February 1667",
+    "hasBookInternalId": "@100156",
+    "sql": 2269
+  },
+  "ww_e79b2d33f299776b": {
+    "hasBookTitle": "Roman Antiquities",
+    "hasBookInternalId": "@100157",
+    "sql": 2270
+  },
+  "ww_adcc8eb7b6e0af13": {
+    "hasBookTitle": "Shakespeare Second Folio",
+    "hasBookInternalId": "@100156",
+    "sql": 2272
+  },
+  "ww_76f841746dc4dc50": {
+    "hasBookTitle": "Letter to Johannes II Buxtorf 1 February 1663",
+    "hasBookInternalId": "@100157",
+    "sql": 2274
+  },
+  "ww_f0cd21d3f0192985": {
+    "hasBookTitle": "Letter to Theodor Zwinger 8 August 1633",
+    "hasBookInternalId": "@100158",
+    "sql": 2275
+  },
+  "ww_0d6a8086b74a61d0": {
+    "hasBookTitle": "Akademische Reisebeschreibung",
+    "hasBookInternalId": "@100159",
+    "sql": 2276
+  },
+  "ww_37d3e51aa73850a3": {
+    "hasBookTitle": "Travel diary 1747-1751",
+    "hasBookInternalId": "@100160",
+    "sql": 2277
+  },
+  "ww_cc72300900b083df": {
+    "hasBookTitle": "Travel diary 1749",
+    "hasBookInternalId": "@100161",
+    "sql": 2278
+  },
+  "ww_8bbd4853ee3ca022": {
+    "hasBookTitle": "Kleines B\u00fcchlein von meinem ganzen Leben",
+    "hasBookInternalId": "@100162",
+    "sql": 2279
+  },
+  "ww_2fe1258530e14d05": {
+    "hasBookTitle": "Letter to Theodor Zwinger 6 June 1617",
+    "hasBookInternalId": "@100163",
+    "sql": 2280
+  },
+  "ww_03fef95a9546eccd": {
+    "hasBookTitle": "Souvenirs De Mes Voyages En Angleterre",
+    "hasBookInternalId": "@100164",
+    "sql": 2281
+  },
+  "ww_319701c60262e7c4": {
+    "hasBookTitle": "Reiseb\u00fcchlein 1676-1683",
+    "hasBookInternalId": "@100165",
+    "sql": 2282
+  },
+  "ww_9bf127b6ceaf6ba7": {
+    "hasBookTitle": "Reiseb\u00fcchlein 1705-1719",
+    "hasBookInternalId": "@100166",
+    "sql": 2283
+  },
+  "ww_d806abdd3443be7d": {
+    "hasBookTitle": "Reiseb\u00fcchlein 1614",
+    "hasBookInternalId": "@100167",
+    "sql": 2284
+  },
+  "ww_edb3c56556cb963b": {
+    "hasBookTitle": "Letter to Johann Caspar Bauhin 28 March 1669",
+    "hasBookInternalId": "@100168",
+    "sql": 2285
+  },
+  "ww_1b6c25eb03de3d8c": {
+    "hasPrefixBookTitle": "An",
+    "hasBookTitle": "Elegy on Mr. James Breitlinger",
+    "hasBookInternalId": "@100169",
+    "sql": 2286
+  },
+  "ww_5b8afefa5d5e66f1": {
+    "hasBookTitle": "Letter to Johann Caspar Bauhin 10 November 1668",
+    "hasBookInternalId": "@100170",
+    "sql": 2287
+  },
+  "ww_9a8b0a1f4c46593c": {
+    "hasBookTitle": "Letter to Johann Ludwig Frey 26 July 1716",
+    "hasBookInternalId": "@100171",
+    "sql": 2288
+  },
+  "ww_245c4201fe296464": {
+    "hasBookTitle": "Letter to Johann Jakob Hofmann 28 November 1705",
+    "hasBookInternalId": "@100172",
+    "sql": 2289
+  },
+  "ww_fb6a9c94f6421897": {
+    "hasBookTitle": "Letter to Johann Rudolf Burckhardt 10 June 1686",
+    "hasBookInternalId": "@100173",
+    "sql": 2290
+  },
+  "ww_40ce5b12b96e9a27": {
+    "hasBookTitle": "Letter to Johann Caspar Bauhin early 1625",
+    "hasBookInternalId": "@100174",
+    "sql": 2291
+  },
+  "ww_48bf586bdb9de682": {
+    "hasBookTitle": "Notes on Diogenes Laertius",
+    "hasBookInternalId": "@100175",
+    "sql": 2292
+  },
+  "ww_3d7053c6f5cfc158": {
+    "hasBookTitle": "Entry 54 in Frey's Liber Amicorum 5 August 1625",
+    "hasBookInternalId": "@100176",
+    "sql": 2293
+  },
+  "ww_a9ee8eda8125b87f": {
+    "hasBookTitle": "Entry 68 in Frey's Liber Amicorum 6 August 1625",
+    "hasBookInternalId": "@100177",
+    "sql": 2294
+  },
+  "ww_2621b59476a1b4e9": {
+    "hasBookTitle": "Letter to Sebastian Back and Theodor Zwinger 7 January 1",
+    "hasBookInternalId": "@100178",
+    "sql": 2295
+  },
+  "ww_6eb2656fba9d4d19": {
+    "hasBookTitle": "Letter to John Bramhall 31 March 1636",
+    "hasBookInternalId": "@100179",
+    "sql": 2296
+  },
+  "ww_0eda80c1176ca04f": {
+    "hasBookTitle": "Letter to George Butler 13 June 1636",
+    "hasBookInternalId": "@100181",
+    "sql": 2298
+  },
+  "ww_be4a1ddfb14bdd91": {
+    "hasBookTitle": "Letter to Basel April 1628",
+    "hasBookInternalId": "@100182",
+    "sql": 2299
+  },
+  "ww_c69feeb4e7f1d181": {
+    "hasBookTitle": "Letter to Emanuel Merian 22 April 1783",
+    "hasBookInternalId": "@100183",
+    "sql": 2300
+  },
+  "ww_b289b3fe73fcd6e2": {
+    "hasBookTitle": "Letter to Emanuel Merian 2 February 1791",
+    "hasBookInternalId": "@100184",
+    "sql": 2301
+  },
+  "ww_1d3d8872e9b65bf1": {
+    "hasBookTitle": "Letter to Emanuel Merian 16 December 1769",
+    "hasBookInternalId": "@100185",
+    "sql": 2302
+  },
+  "ww_f9038187a52bc77d": {
+    "hasBookTitle": "Letter to Emanuel Merian 21 February 1794",
+    "hasBookInternalId": "@100186",
+    "sql": 2303
+  },
+  "ww_92bc30fa1569f4d3": {
+    "hasBookTitle": "Doctrina Temporum",
+    "hasBookInternalId": "@100187",
+    "sql": 2304
+  },
+  "ww_c2d042188b929234": {
+    "hasBookTitle": "Letter to Oliver Fleming 6 / 16 July 1636",
+    "hasBookInternalId": "@100188",
+    "sql": 2305
+  },
+  "ww_bc8357234a84bf37": {
+    "hasBookTitle": "Entry 95 in Frey's Liber Amicorum August 1625",
+    "hasBookInternalId": "@100189",
+    "sql": 2307
+  },
+  "ww_03b1733e20926f19": {
+    "hasBookTitle": "Entry 50 in Johann Jacob Frey's Liber Amicorum 1625",
+    "hasBookInternalId": "@100190",
+    "sql": 2308
+  },
+  "ww_2ebfcb29b8ebd0fe": {
+    "hasBookTitle": "Letter to Cunningham 6 February 1792",
+    "hasBookInternalId": "@100191",
+    "sql": 2309
+  },
+  "ww_69a441e5e4a94e00": {
+    "hasBookTitle": "Lettres \u00e9crites de Londres sur les Anglois",
+    "hasBookInternalId": "@100192",
+    "sql": 2310
+  },
+  "ww_2f077e78ee000a57": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "English Grammar",
+    "hasBookInternalId": "@100193",
+    "sql": 2311
+  },
+  "ww_0ed3b287ee961b8d": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "New State of England",
+    "hasBookInternalId": "@100194",
+    "sql": 2312
+  },
+  "ww_a1daddd44d369687": {
+    "hasBookTitle": "Memoirs of My Life",
+    "hasBookInternalId": "@100195",
+    "sql": 2313
+  },
+  "ww_461f28b1c7a8b75a": {
+    "hasBookTitle": "Diary of His Journey to the Dordrecht Synod 1618-1619",
+    "hasBookInternalId": "@100196",
+    "sql": 2314
+  },
+  "ww_2697d96420c54751": {
+    "hasBookTitle": "Diary (John Evelyn)",
+    "hasBookInternalId": "@100197",
+    "sql": 2315
+  },
+  "ww_1e5ccd5069351c22": {
+    "hasBookTitle": "Author's Farce",
+    "hasBookInternalId": "@100198",
+    "sql": 2316
+  },
+  "ww_53e63405b425aaaf": {
+    "hasBookTitle": "Entry 106 in Frey's Liber Amicorum 17 October 1625",
+    "hasBookInternalId": "@100199",
+    "sql": 2317
+  },
+  "ww_6e34e817a55d25a4": {
+    "hasPrefixBookTitle": "An",
+    "hasBookTitle": "Account of Switzerland",
+    "hasBookInternalId": "@100200",
+    "sql": 2318
+  },
+  "ww_42978ff336fb2f5e": {
+    "hasBookTitle": "Sketches of the Natural, Political and Civil State of Sw",
+    "hasBookInternalId": "@100201",
+    "sql": 2319
+  },
+  "ww_e0b7a2470c5443cc": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 1 January 1623",
+    "hasBookInternalId": "@100202",
+    "sql": 2320
+  },
+  "ww_e9b732d9facc5c16": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 23 August 1633",
+    "hasBookInternalId": "@100203",
+    "sql": 2321
+  },
+  "ww_be624a44675f0291": {
+    "hasBookTitle": "Letter to Sebastian Beck 12 March 1634",
+    "hasBookInternalId": "@100204",
+    "sql": 2322
+  },
+  "ww_b3ddaf60c9196448": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 29 January 1634",
+    "hasBookInternalId": "@100205",
+    "sql": 2323
+  },
+  "ww_2fdfdfc0caf9bfc8": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 21 December 1634",
+    "hasBookInternalId": "@100206",
+    "sql": 2324
+  },
+  "ww_408c143dbc8e65c8": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 30 January 1630",
+    "hasBookInternalId": "@100207",
+    "sql": 2325
+  },
+  "ww_3bb913997d2097ef": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 1636 (Litt)",
+    "hasBookInternalId": "@100208",
+    "sql": 2326
+  },
+  "ww_d520cf1ef4d23d79": {
+    "hasBookTitle": "Compendium Theologiae Christianae",
+    "hasBookInternalId": "@100209",
+    "sql": 2327
+  },
+  "ww_089fe85660e0f60f": {
+    "hasBookTitle": "Oratio Panegyrica",
+    "hasBookInternalId": "@100210",
+    "sql": 2328
+  },
+  "ww_21018bb451618e7e": {
+    "hasBookTitle": "Letter to Johann Pistorius 6 June 1578",
+    "hasBookInternalId": "@100211",
+    "sql": 2330
+  },
+  "ww_4657378e5ba58d58": {
+    "hasBookTitle": "Letter to Hugh Broughton 5 November 1601",
+    "hasBookInternalId": "@100212",
+    "sql": 2331
+  },
+  "ww_d5723cd84593efe0": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 2 April 1636",
+    "hasBookInternalId": "@100213",
+    "sql": 2333
+  },
+  "ww_63180cc71e3ff19c": {
+    "hasBookTitle": "Letter to Johann Jacob Frey December 1635",
+    "hasBookInternalId": "@100214",
+    "sql": 2334
+  },
+  "ww_fbb60f804ab426c1": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 1636 (Cast)",
+    "hasBookInternalId": "@100215",
+    "sql": 2335
+  },
+  "ww_cff7e134d7601ce6": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 14 October 1635",
+    "hasBookInternalId": "@100216",
+    "sql": 2336
+  },
+  "ww_77e0713c2b4077c0": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 3 September 1635",
+    "hasBookInternalId": "@100217",
+    "sql": 2337
+  },
+  "ww_9112593e149e53f8": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 18 - 28 October 1635",
+    "hasBookInternalId": "@100218",
+    "sql": 2338
+  },
+  "ww_8248359243f20251": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 27 December 1635",
+    "hasBookInternalId": "@100219",
+    "sql": 2339
+  },
+  "ww_df93c5bff4bfac93": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 8 - 18 November 1635",
+    "hasBookInternalId": "@100220",
+    "sql": 2340
+  },
+  "ww_829b0677060e0e57": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 6 - 16 September 1635",
+    "hasBookInternalId": "@100221",
+    "sql": 2341
+  },
+  "ww_c7f5058999b339a7": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 2 December 1635",
+    "hasBookInternalId": "@100222",
+    "sql": 2342
+  },
+  "ww_a072c04c90889300": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 18 January 1636",
+    "hasBookInternalId": "@100223",
+    "sql": 2343
+  },
+  "ww_dd214f6adfea07c1": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 10 January 1636",
+    "hasBookInternalId": "@100224",
+    "sql": 2344
+  },
+  "ww_def9766d6c3b27f6": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 12 January 1636 (Bast)",
+    "hasBookInternalId": "@100225",
+    "sql": 2345
+  },
+  "ww_37abcead61427a78": {
+    "hasBookTitle": "Letter to Johann Jacob Frey September 1635",
+    "hasBookInternalId": "@100226",
+    "sql": 2346
+  },
+  "ww_c5037fa7eaf5cc64": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 25 October 1635",
+    "hasBookInternalId": "@100227",
+    "sql": 2347
+  },
+  "ww_f942b9fa9eaf2d9e": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 25 February 1635",
+    "hasBookInternalId": "@100228",
+    "sql": 2348
+  },
+  "ww_ca3ad45af7a05eef": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 3 - 13 April 1636",
+    "hasBookInternalId": "@100229",
+    "sql": 2349
+  },
+  "ww_17cc0d7d6e2e5067": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 31 January 1636",
+    "hasBookInternalId": "@100230",
+    "sql": 2350
+  },
+  "ww_e906ee5656e62a71": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 29 November 1635",
+    "hasBookInternalId": "@100231",
+    "sql": 2351
+  },
+  "ww_32bfd38594210a4e": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 4 - 14 October 1635",
+    "hasBookInternalId": "@100232",
+    "sql": 2352
+  },
+  "ww_3b35e9b9ea3ff2ed": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 11 - 22 October 1635",
+    "hasBookInternalId": "@100233",
+    "sql": 2353
+  },
+  "ww_5e899227b52251a5": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 22 November 1635",
+    "hasBookInternalId": "@100234",
+    "sql": 2354
+  },
+  "ww_c24194169c2b32e7": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 14 - 29 February 1635",
+    "hasBookInternalId": "@100235",
+    "sql": 2355
+  },
+  "ww_2faa6be5dbaeb7d6": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 1 - 11 November 1635",
+    "hasBookInternalId": "@100236",
+    "sql": 2356
+  },
+  "ww_5a2dea476b969053": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 13 - 23 September 1635",
+    "hasBookInternalId": "@100237",
+    "sql": 2357
+  },
+  "ww_e5e250a8100c97c2": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 6 December 1635",
+    "hasBookInternalId": "@100238",
+    "sql": 2358
+  },
+  "ww_80f47eea5ca6db88": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 13 February 1636",
+    "hasBookInternalId": "@100239",
+    "sql": 2359
+  },
+  "ww_ead1f4b6b0f2c7dc": {
+    "hasBookTitle": "Pemptas tetradon theorematon",
+    "hasBookInternalId": "@100240",
+    "sql": 2360
+  },
+  "ww_0fd6f402d09e8d6e": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 9 December 1635",
+    "hasBookInternalId": "@100241",
+    "sql": 2361
+  },
+  "ww_9ed8d6f0250ba853": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 11 November 1635",
+    "hasBookInternalId": "@100242",
+    "sql": 2362
+  },
+  "ww_4a9f3a0fd7a93152": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 14 September 1635",
+    "hasBookInternalId": "@100243",
+    "sql": 2364
+  },
+  "ww_03d0d435e62c7868": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 13 October 1635",
+    "hasBookInternalId": "@100244",
+    "sql": 2365
+  },
+  "ww_51feaca4c62c74ec": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 9 September 1635",
+    "hasBookInternalId": "@100246",
+    "sql": 2369
+  },
+  "ww_4f68dba133c25d37": {
+    "hasBookTitle": "Letter to Johann III Bernoulli 5 July 1776",
+    "hasBookInternalId": "@100247",
+    "sql": 2370
+  },
+  "ww_d75f8825fa4db1fe": {
+    "hasBookTitle": "Journal (Cork)",
+    "hasBookInternalId": "@100248",
+    "sql": 2371
+  },
+  "ww_7fac2cc5c4a7c746": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 7 September 1635",
+    "hasBookInternalId": "@100249",
+    "sql": 2372
+  },
+  "ww_649394200d3803e6": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 7 December 1635",
+    "hasBookInternalId": "@100250",
+    "sql": 2373
+  },
+  "ww_e7ce9abd16b89829": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 28 January 1634",
+    "hasBookInternalId": "@100251",
+    "sql": 2374
+  },
+  "ww_4a69cc722b0ce2ab": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 1 June 1636",
+    "hasBookInternalId": "@100252",
+    "sql": 2375
+  },
+  "ww_2d8ab49783a7cc90": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 6 August 1635",
+    "hasBookInternalId": "@100253",
+    "sql": 2376
+  },
+  "ww_b3da6e21df10ef35": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 17 September 1635",
+    "hasBookInternalId": "@100254",
+    "sql": 2377
+  },
+  "ww_73dba8359302da57": {
+    "hasBookTitle": "Notes and verses November 1635",
+    "hasBookInternalId": "@100255",
+    "sql": 2378
+  },
+  "ww_6e31bd69640e91c1": {
+    "hasBookTitle": "Letter to Johannes Buxtorf the Younger 23 December 1636",
+    "hasBookInternalId": "@100256",
+    "sql": 2379
+  },
+  "ww_f584172c61e515da": {
+    "hasBookTitle": "Letter to Theodor Zwinger 23 December 1636",
+    "hasBookInternalId": "@100257",
+    "sql": 2380
+  },
+  "ww_88cc6c8d1de76787": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 1636 (Duchat)",
+    "hasBookInternalId": "@100258",
+    "sql": 2381
+  },
+  "ww_5ca128796b6c663e": {
+    "hasBookTitle": "Memoirs (Ludlow)",
+    "hasBookInternalId": "@100259",
+    "sql": 2382
+  },
+  "ww_9e8c7383a5f6d042": {
+    "hasBookTitle": "Ethical Questions on Friendship",
+    "hasBookInternalId": "@100260",
+    "sql": 2383
+  },
+  "ww_f3168b02d4840521": {
+    "hasBookTitle": "Testimonial for Johann Heinrich Hummel 24 August 1635",
+    "hasBookInternalId": "@100261",
+    "sql": 2384
+  },
+  "ww_3d8cd0a343d220e5": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Danger of Vows Neglected",
+    "hasBookInternalId": "@100262",
+    "sql": 2385
+  },
+  "ww_cd4b71025df77765": {
+    "hasBookTitle": "Letter to Johannes Buxtorf the Younger 1 March 1637",
+    "hasBookInternalId": "@100263",
+    "sql": 2386
+  },
+  "ww_6265c5db006211dd": {
+    "hasBookTitle": "On Ghosts",
+    "hasBookInternalId": "@100264",
+    "sql": 2388
+  },
+  "ww_e53072c463a0c7f4": {
+    "hasBookTitle": "Ephemerides",
+    "hasBookInternalId": "@100265",
+    "sql": 2390
+  },
+  "ww_0e9ee9e81855b81c": {
+    "hasBookTitle": "Letter to Theodor Haack 24 November 1639",
+    "hasBookInternalId": "@100266",
+    "sql": 2391
+  },
+  "ww_93776f35f07fc6c9": {
+    "hasBookTitle": "Of the Thirteen Cantons of the Helvetical League",
+    "hasBookInternalId": "@100267",
+    "sql": 2392
+  },
+  "ww_c8ee318fb8d5c40b": {
+    "hasBookTitle": "Entry 47 in Frey's Liber Amicorum 4 August 1625",
+    "hasBookInternalId": "@100268",
+    "sql": 2393
+  },
+  "ww_3e0f1c44ac8fe3a0": {
+    "hasBookTitle": "Letter to Isaak Iselin 26 May 1760",
+    "hasBookInternalId": "@100269",
+    "sql": 2394
+  },
+  "ww_78bb020530e23155": {
+    "hasBookTitle": "Letter to Johann Rudolf Frey 10 July 1760",
+    "hasBookInternalId": "@100270",
+    "sql": 2395
+  },
+  "ww_bca5ed7577f21beb": {
+    "hasBookTitle": "Preface to Psalm Translation",
+    "hasBookInternalId": "@100271",
+    "sql": 2396
+  },
+  "ww_3ee4da38fa8bfec4": {
+    "hasBookTitle": "Bishop Burnet's Travels through Switzerland",
+    "hasBookInternalId": "@100272",
+    "sql": 2397
+  },
+  "ww_a159b8b8fd7640d0": {
+    "hasBookTitle": "Entry 45 in Frey's Liber Amicorum 2 July 1625",
+    "hasBookInternalId": "@100273",
+    "sql": 2398
+  },
+  "ww_cd6bb691d7cf68b8": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 12 May 1635",
+    "hasBookInternalId": "@100274",
+    "sql": 2399
+  },
+  "ww_2ea5194995c1d591": {
+    "hasBookTitle": "Letter to Jacob Battier 25 April 1638",
+    "hasBookInternalId": "@100275",
+    "sql": 2400
+  },
+  "ww_7468f53d4cc62e93": {
+    "hasBookTitle": "Letter to William Beecher 13 June 1636",
+    "hasBookInternalId": "@100276",
+    "sql": 2401
+  },
+  "ww_90b9f51220150720": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 11 August 1635",
+    "hasBookInternalId": "@100277",
+    "sql": 2402
+  },
+  "ww_de9534d2c84f00a4": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 27 November 1635",
+    "hasBookInternalId": "@100278",
+    "sql": 2403
+  },
+  "ww_06afd73ce8884a97": {
+    "hasBookTitle": "Letter to Esther Frey-Ostein 31 August 1641",
+    "hasBookInternalId": "@100279",
+    "sql": 2404
+  },
+  "ww_1bd2cc7aa4583f59": {
+    "hasBookTitle": "Letter to Esther Frey-Ostein 8 December 1636",
+    "hasBookInternalId": "@100280",
+    "sql": 2405
+  },
+  "ww_afae7c02b99dff5c": {
+    "hasBookTitle": "Letter to Esther Frey-Ostein 21 - 31 March 1637",
+    "hasBookInternalId": "@100281",
+    "sql": 2406
+  },
+  "ww_9d1e98c741d7f156": {
+    "hasBookTitle": "Letter to Esther Frey-Ostein 2 - 12 October 1638",
+    "hasBookInternalId": "@100282",
+    "sql": 2407
+  },
+  "ww_5746d93827b96eae": {
+    "hasBookTitle": "Letter to Jacob Battier January 1638",
+    "hasBookInternalId": "@100283",
+    "sql": 2408
+  },
+  "ww_3f67772df99ce51e": {
+    "hasBookTitle": "Letter to James Struga 4 May 1634",
+    "hasBookInternalId": "@100284",
+    "sql": 2409
+  },
+  "ww_bc5839b89a073d20": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 13 April 1636",
+    "hasBookInternalId": "@100286",
+    "sql": 2411
+  },
+  "ww_0d9e8cf3b5aa5c62": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 29 December 1631",
+    "hasBookInternalId": "@100287",
+    "sql": 2412
+  },
+  "ww_2c635a343ddf6546": {
+    "hasBookTitle": "Letter to Esther Frey-Ostein 9 March 1638",
+    "hasBookInternalId": "@100288",
+    "sql": 2413
+  },
+  "ww_7e0a49dbcef8b172": {
+    "hasBookTitle": "Letter to Esther Frey-Ostein 30 August 1639",
+    "hasBookInternalId": "@100289",
+    "sql": 2414
+  },
+  "ww_276dd38984c6f2a7": {
+    "hasBookTitle": "Letter to unknown 13 June 1636",
+    "hasBookInternalId": "@100290",
+    "sql": 2415
+  },
+  "ww_f2a360afd0f33d29": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 27 March 1636",
+    "hasBookInternalId": "@100291",
+    "sql": 2416
+  },
+  "ww_58c0f640b79f1220": {
+    "hasBookTitle": "Letter to Oliver Fleming 13 August 1635",
+    "hasBookInternalId": "@100292",
+    "sql": 2417
+  },
+  "ww_d1eb6c64e3cfeb23": {
+    "hasBookTitle": "Letter to Oliver Fleming 16 - 26 September 1635",
+    "hasBookInternalId": "@100293",
+    "sql": 2418
+  },
+  "ww_8c5626f67a7877bd": {
+    "hasBookTitle": "Letter to Unknown 17 December 1635",
+    "hasBookInternalId": "@100294",
+    "sql": 2419
+  },
+  "ww_3e2430590a9189ed": {
+    "hasBookTitle": "Letter to Thomas Wentworth 17 December 1635",
+    "hasBookInternalId": "@100295",
+    "sql": 2420
+  },
+  "ww_28c7e896c5da7c31": {
+    "hasBookTitle": "Letter to Esther Frey-Ostein 9 November 1641",
+    "hasBookInternalId": "@100296",
+    "sql": 2421
+  },
+  "ww_4b9fea51db8f21ac": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 21 August 1635 (?)",
+    "hasBookInternalId": "@100297",
+    "sql": 2422
+  },
+  "ww_eb8107c0fb929883": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 1636 (Bastier)",
+    "hasBookInternalId": "@100298",
+    "sql": 2423
+  },
+  "ww_f2fddb5ce0fbf3e0": {
+    "hasBookTitle": "Letter to Unknown 1637-1639",
+    "hasBookInternalId": "@100299",
+    "sql": 2425
+  },
+  "ww_a91407272ea05fc6": {
+    "hasBookTitle": "Letter to Unknown 15 June 1636",
+    "hasBookInternalId": "@100300",
+    "sql": 2426
+  },
+  "ww_127d219889db2cb0": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 16 - 26 August 1635",
+    "hasBookInternalId": "@100301",
+    "sql": 2427
+  },
+  "ww_6b5babd04e41fd8a": {
+    "hasBookTitle": "Letter to Unknown 6 July 1638",
+    "hasBookInternalId": "@100302",
+    "sql": 2428
+  },
+  "ww_1a76326dbe589060": {
+    "hasBookTitle": "Letter to Unknown 7 - 17 August 1638",
+    "hasBookInternalId": "@100303",
+    "sql": 2429
+  },
+  "ww_ab76ce39ec83d79c": {
+    "hasBookTitle": "Entry 83 in Frey's Liber Amicorum 7 April 1627",
+    "hasBookInternalId": "@100304",
+    "sql": 2430
+  },
+  "ww_ce536ffa2d0acae3": {
+    "hasBookTitle": "Funeral sermon for Johann Jacob Frey III",
+    "hasBookInternalId": "@100305",
+    "sql": 2431
+  },
+  "ww_8f75714103e09dfd": {
+    "hasBookTitle": "Animadversiones Apostolorum",
+    "hasBookInternalId": "@100306",
+    "sql": 2432
+  },
+  "ww_dc3436e1202f39bc": {
+    "hasBookTitle": "Funeral sermon for Esther Frey-Ostein",
+    "hasBookInternalId": "@100307",
+    "sql": 2433
+  },
+  "ww_eebe6b322fb173dc": {
+    "hasBookTitle": "Funeral sermon for Johann Jacob Frey II",
+    "hasBookInternalId": "@100308",
+    "sql": 2434
+  },
+  "ww_77dc9627ab813fa1": {
+    "hasBookTitle": "Die Geschichte des Leidens und Todes",
+    "hasBookInternalId": "@100309",
+    "sql": 2435
+  },
+  "ww_a16354d1d59449ab": {
+    "hasBookTitle": "Letter to Richard Boyle, Earl of Cork",
+    "hasBookInternalId": "@100310",
+    "sql": 2436
+  },
+  "ww_fe99aaf564363002": {
+    "hasBookTitle": "Devotions upon Emergent Occasions",
+    "hasBookInternalId": "@100311",
+    "sql": 2437
+  },
+  "ww_a8620637dc8c2e01": {
+    "hasBookTitle": "Letter to Johannes Buxtorf the Younger 24 April 1640",
+    "hasBookInternalId": "@100312",
+    "sql": 2438
+  },
+  "ww_7fe41b9d3c6d6b05": {
+    "hasBookTitle": "Letter to Emanuel Merian 8 February 1792",
+    "hasBookInternalId": "@100313",
+    "sql": 2439
+  },
+  "ww_213af73e7c9fc1e7": {
+    "hasBookTitle": "Letter to Cuninghame 3 October 1792",
+    "hasBookInternalId": "@100314",
+    "sql": 2440
+  },
+  "ww_c12eacb686bfc9a3": {
+    "hasBookTitle": "Entry 56 in Frey's Liber Amicorum 6 May 1626",
+    "hasBookInternalId": "@100315",
+    "sql": 2441
+  },
+  "ww_90dd68b96d2b6fd3": {
+    "hasBookTitle": "Letter to Johannes Buxtorf I 27 February 1626",
+    "hasBookInternalId": "@100316",
+    "sql": 2442
+  },
+  "ww_abdf2bae56c5e453": {
+    "hasBookTitle": "Letter to S. T. Cuninghame 20 February 1793",
+    "hasBookInternalId": "@100317",
+    "sql": 2443
+  },
+  "ww_89848a146a4dbf44": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Queen and Concubine",
+    "hasBookInternalId": "@003999",
+    "sql": 2444
+  },
+  "ww_21e2deb6f6f1cf64": {
+    "hasBookTitle": "Bodleian Library MS English poetry d. 3",
+    "hasBookInternalId": "@005924",
+    "sql": 2446
+  },
+  "ww_e25ab2556613ac85": {
+    "hasBookTitle": "Bodleian Library MS English miscellaneous d. 28",
+    "hasBookInternalId": "@005925",
+    "sql": 2447
+  },
+  "ww_5ecbbd34d0008d0b": {
+    "hasBookTitle": "Folger MS V.b.110",
+    "hasBookInternalId": "@005926",
+    "sql": 2448
+  },
+  "ww_b34d2885175cf5ca": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Martyred Soldier",
+    "hasBookInternalId": "@003997",
+    "sql": 2449
+  },
+  "ww_034bb695fc6af76d": {
+    "hasBookTitle": "Folger MS V a 226 vol 2",
+    "hasBookInternalId": "@005927",
+    "sql": 2450
+  },
+  "ww_651cbb4155489d25": {
+    "hasBookTitle": "Letter to Emanuel Merian 22 December 1792",
+    "hasBookInternalId": "@100318",
+    "sql": 2451
+  },
+  "ww_24fc95fa81ed91ea": {
+    "hasBookTitle": "Letter to the Earl of Cork 6 July 1633",
+    "hasBookInternalId": "@100319",
+    "sql": 2452
+  },
+  "ww_316321ce3a646fb2": {
+    "hasBookTitle": "Letter to Theodor Zwinger 22 January 1634",
+    "hasBookInternalId": "@100320",
+    "sql": 2453
+  },
+  "ww_0f04806bcc326dba": {
+    "hasBookTitle": "Letter to Caspar Wettstein, date unclear",
+    "hasBookInternalId": "@100321",
+    "sql": 2454
+  },
+  "ww_db322049d58f98ba": {
+    "hasBookTitle": "Letter to Johann I Bernoulli 26 June 1716",
+    "hasBookInternalId": "@100322",
+    "sql": 2455
+  },
+  "ww_7cce0f66603664e2": {
+    "hasBookTitle": "Celebratory poem on the birth of Johann Jacob Frey III",
+    "hasBookInternalId": "@100323",
+    "sql": 2456
+  },
+  "ww_6bae50528b089e43": {
+    "hasBookTitle": "Oratio de lingua graeca 18 August 1635",
+    "hasBookInternalId": "@100324",
+    "sql": 2457
+  },
+  "ww_17919a8a359c0246": {
+    "hasBookTitle": "On Being Called to Christ",
+    "hasBookInternalId": "@100325",
+    "sql": 2458
+  },
+  "ww_e0306b114b016be9": {
+    "hasBookTitle": "Divine Poems (Qua)",
+    "hasBookInternalId": "@100326",
+    "sql": 2459
+  },
+  "ww_4282f4b899ef2360": {
+    "hasBookTitle": "Marmora Arundelliana",
+    "hasBookInternalId": "@100327",
+    "sql": 2460
+  },
+  "ww_6c55ecaa48202c15": {
+    "hasBookTitle": "Der Seelen Arznei",
+    "hasBookInternalId": "@100328",
+    "sql": 2461
+  },
+  "ww_89614b6c27fc1388": {
+    "hasBookTitle": "Annales rerum Anglicarum",
+    "hasBookInternalId": "@100329",
+    "sql": 2462
+  },
+  "ww_d71cfa9e75c33f64": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "New Testament in Greek",
+    "hasBookInternalId": "@100330",
+    "sql": 2463
+  },
+  "ww_3cc021056af713cb": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Works of John Boys",
+    "hasBookInternalId": "@100331",
+    "sql": 2464
+  },
+  "ww_3db4914b90fa344f": {
+    "hasBookTitle": "Epigrammatum sacrorum liber",
+    "hasBookInternalId": "@100332",
+    "sql": 2465
+  },
+  "ww_432404f3a818da41": {
+    "hasBookTitle": "Florilegium epigrammatum Graecorum",
+    "hasBookInternalId": "@100333",
+    "sql": 2466
+  },
+  "ww_1d50727cdf689ca2": {
+    "publicationExact": "1635",
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Shepherd's Holiday",
+    "hasBookInternalId": "@003938",
+    "sql": 2467
+  },
+  "ww_c4f5c181244ac9d2": {
+    "hasBookTitle": "Sir Thomas Overbury's Wife",
+    "hasBookInternalId": "@100334",
+    "sql": 2468
+  },
+  "ww_72893dd7b2499f27": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "History of the World",
+    "hasBookInternalId": "@100335",
+    "sql": 2469
+  },
+  "ww_8c4561effd0d356c": {
+    "hasBookTitle": "Marcus Aurelius' Meditations",
+    "hasBookInternalId": "@100336",
+    "sql": 2470
+  },
+  "ww_eee0907fc5c96c9c": {
+    "hasBookTitle": "Vox Populi or News from Spain",
+    "hasBookInternalId": "@100337",
+    "sql": 2471
+  },
+  "ww_3782a9a3b33e29c9": {
+    "hasBookTitle": "Letter to Zurich 31 October 1629",
+    "hasBookInternalId": "@100338",
+    "sql": 2472
+  },
+  "ww_3a7f58cfb78ec2a0": {
+    "hasBookTitle": "Funeral sermon for Catherina Guntzer 26 August 1684",
+    "hasBookInternalId": "@100339",
+    "sql": 2473
+  },
+  "ww_33d2070ccac36e69": {
+    "hasBookTitle": "Funeral sermon for Christoph Faesch 24 October 1684",
+    "hasBookInternalId": "@100340",
+    "sql": 2474
+  },
+  "ww_547065567da6638d": {
+    "hasBookTitle": "Letter to Johann Buxtorf September 1607",
+    "hasBookInternalId": "@100341",
+    "sql": 2475
+  },
+  "ww_d8ad8134b3ef13e1": {
+    "hasBookTitle": "Letter to Basel 19 September 1629",
+    "hasBookInternalId": "@100342",
+    "sql": 2478
+  },
+  "ww_52a5bfd037cceed7": {
+    "hasBookTitle": "Letter to Jacob Burckhardt 12 - 22 April 1633",
+    "hasBookInternalId": "@100343",
+    "sql": 2479
+  },
+  "ww_bd67d67bc1a6c570": {
+    "hasBookTitle": "Letter to Unknown 2 February 1653",
+    "hasBookInternalId": "@100344",
+    "sql": 2480
+  },
+  "ww_8707e8b6f9eeafc9": {
+    "hasBookTitle": "Old Testament in Hebrew",
+    "hasBookInternalId": "@100345",
+    "sql": 2481
+  },
+  "ww_daad7e8f6b805a47": {
+    "hasBookTitle": "Letter to Switzerland 27 October 1691",
+    "hasBookInternalId": "@100346",
+    "sql": 2482
+  },
+  "ww_70616ddf89301723": {
+    "hasBookTitle": "Letter to Switzerland 5 March 1688",
+    "hasBookInternalId": "@100347",
+    "sql": 2483
+  },
+  "ww_57e333fd4f2a4c9f": {
+    "hasBookTitle": "Tombstone inscription for Johann Jacob Frey II",
+    "hasBookInternalId": "@100348",
+    "sql": 2484
+  },
+  "ww_a0464950122980c7": {
+    "hasBookTitle": "Letter to John Dury 15 October 1633",
+    "hasBookInternalId": "@100349",
+    "sql": 2485
+  },
+  "ww_ff704da8058c2c9f": {
+    "hasBookTitle": "Letter to Unknown 24 July 1633",
+    "hasBookInternalId": "@100350",
+    "sql": 2486
+  },
+  "ww_420c2038acda7763": {
+    "hasBookTitle": "Letter to Switzerland 10 March 1715",
+    "hasBookInternalId": "@100351",
+    "sql": 2487
+  },
+  "ww_3c560231f23aa088": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Earl of Strafford's Ghost",
+    "hasBookInternalId": "@100352",
+    "sql": 2488
+  },
+  "ww_e395242d7b90e401": {
+    "hasBookTitle": "Letter to Basel 10 June 1633",
+    "hasBookInternalId": "@100353",
+    "sql": 2489
+  },
+  "ww_1cabbaa434e2bd92": {
+    "hasBookTitle": "Of the Laws of Ecclesiastical Polity",
+    "hasBookInternalId": "@100354",
+    "sql": 2490
+  },
+  "ww_0bbfb0fe8b79c248": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Display of Heraldry",
+    "hasBookInternalId": "@100355",
+    "sql": 2491
+  },
+  "ww_ccc41d904f7ed7aa": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "works of Joseph Hall",
+    "hasBookInternalId": "@100356",
+    "sql": 2492
+  },
+  "ww_97e283d39d8a0514": {
+    "hasBookTitle": "Letter to Johann Ludwig Frey 7 July 1723",
+    "hasBookInternalId": "@100357",
+    "sql": 2493
+  },
+  "ww_03d01c8d2396138d": {
+    "hasBookTitle": "Letter to the Earl of Cork December 1640",
+    "hasBookInternalId": "@100358",
+    "sql": 2494
+  },
+  "ww_2834d5b7f6e6997f": {
+    "hasBookTitle": "Letter to the Earl of Cork 25 September 1632",
+    "hasBookInternalId": "@100359",
+    "sql": 2495
+  },
+  "ww_81635214b21adef1": {
+    "hasBookTitle": "Letter to Switzerland 1789",
+    "hasBookInternalId": "@100360",
+    "sql": 2496
+  },
+  "ww_fdf642ef9d3ec7e4": {
+    "hasBookTitle": "Letter to Emanuel Merian 15 August 1793",
+    "hasBookInternalId": "@100361",
+    "sql": 2497
+  },
+  "ww_5ff77326cb25acc4": {
+    "hasBookTitle": "Letter to Emanuel Merian 27 February 1793",
+    "hasBookInternalId": "@100362",
+    "sql": 2498
+  },
+  "ww_09045831cbf64407": {
+    "hasBookTitle": "Poems (Roch)",
+    "hasBookInternalId": "@100363",
+    "sql": 2499
+  },
+  "ww_8672fcf845f50222": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 14 July 1635",
+    "hasBookInternalId": "@100364",
+    "sql": 2500
+  },
+  "ww_10958b04bbc83911": {
+    "hasBookTitle": "Davide perseguitato",
+    "hasBookInternalId": "@100365",
+    "sql": 2502
+  },
+  "ww_9c6ad3c208cedbd5": {
+    "hasBookTitle": "First Epistle of Clement",
+    "hasBookInternalId": "@100366",
+    "sql": 2503
+  },
+  "ww_a6570030cb844e18": {
+    "hasBookTitle": "Menexenos",
+    "hasBookInternalId": "@100367",
+    "sql": 2504
+  },
+  "ww_52bef4880d479324": {
+    "hasBookTitle": "Hippocrates' Aphorisms",
+    "hasBookInternalId": "@100368",
+    "sql": 2505
+  },
+  "ww_10a28d0843f8499c": {
+    "hasBookTitle": "Letter to the Earl of Cork 10 May 1633",
+    "hasBookInternalId": "@100369",
+    "sql": 2506
+  },
+  "ww_ec619b1426a85c01": {
+    "hasBookTitle": "Letter to the Earl of Cork 5 June 1633",
+    "hasBookInternalId": "@100370",
+    "sql": 2507
+  },
+  "ww_bf914214634e1bc1": {
+    "hasBookTitle": "Letter to the Earl of Cork 26 June1633",
+    "hasBookInternalId": "@100371",
+    "sql": 2508
+  },
+  "ww_dc3aafe9e300e3b0": {
+    "hasBookTitle": "Letter to the Earl of Cork 30 July 1633",
+    "hasBookInternalId": "@100372",
+    "sql": 2509
+  },
+  "ww_f11cf50687cb1f56": {
+    "hasBookTitle": "Letter to the Earl of Cork 16 March 1636",
+    "hasBookInternalId": "@100373",
+    "sql": 2510
+  },
+  "ww_3dada806424ffc34": {
+    "hasBookTitle": "Letter to the Earl of Cork 5 December 1635",
+    "hasBookInternalId": "@100374",
+    "sql": 2511
+  },
+  "ww_113955e2449d5f63": {
+    "hasBookTitle": "Letter to the Earl of Cork 24 November 1636",
+    "hasBookInternalId": "@100375",
+    "sql": 2512
+  },
+  "ww_111c34f18413dd89": {
+    "hasBookTitle": "Letter to the Earl of Cork 7 June 1636",
+    "hasBookInternalId": "@100376",
+    "sql": 2513
+  },
+  "ww_6568ef2b5a2443fd": {
+    "hasBookTitle": "Letter to Lady Frances Clifford 15 December 1634",
+    "hasBookInternalId": "@100377",
+    "sql": 2514
+  },
+  "ww_b68f2226b273cf13": {
+    "hasBookTitle": "Letter to the Earl of Cork July 1634",
+    "hasBookInternalId": "@100378",
+    "sql": 2515
+  },
+  "ww_313ac75ffdb51746": {
+    "hasBookTitle": "Letter to Johann Jacob von Brunn 25 August 1634",
+    "hasBookInternalId": "@100379",
+    "sql": 2516
+  },
+  "ww_22fd5263dfa61c73": {
+    "hasBookTitle": "Letter to the Earl of Cork 23 March 1637",
+    "hasBookInternalId": "@100380",
+    "sql": 2517
+  },
+  "ww_88fd16e1320d0808": {
+    "hasBookTitle": "Letter to the Earl of Cork 30 May 1637",
+    "hasBookInternalId": "@100381",
+    "sql": 2518
+  },
+  "ww_f204c5e817fbeb21": {
+    "hasBookTitle": "Ennas triadon theorematon",
+    "hasBookInternalId": "@100382",
+    "sql": 2519
+  },
+  "ww_72d5ad0410c9a48a": {
+    "hasBookTitle": "Letter to James Ussher 2 May 1632",
+    "hasBookInternalId": "@100383",
+    "sql": 2520
+  },
+  "ww_9ff649c082d61a0b": {
+    "hasBookTitle": "Letter to Gerardus Vossius 1632",
+    "hasBookInternalId": "@100384",
+    "sql": 2521
+  },
+  "ww_59586326989eb21e": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 1636 (Dun)",
+    "hasBookInternalId": "@100385",
+    "sql": 2522
+  },
+  "ww_cf592b31be16363a": {
+    "hasBookTitle": "Letter to Johann Jacob Frey February 1635",
+    "hasBookInternalId": "@100386",
+    "sql": 2523
+  },
+  "ww_647dab16614af16b": {
+    "hasBookTitle": "Letter to the Earl of Cork April 1634",
+    "hasBookInternalId": "@100387",
+    "sql": 2524
+  },
+  "ww_650fd49af0ad4872": {
+    "hasBookTitle": "Letter to the Earl of Cork 18 October 1632",
+    "hasBookInternalId": "@100388",
+    "sql": 2525
+  },
+  "ww_2009c282b02d3a86": {
+    "hasBookTitle": "Reiseb\u00fcchlein (England before 1600)",
+    "hasBookInternalId": "@100390",
+    "sql": 2528
+  },
+  "ww_900b95dc95612378": {
+    "hasBookTitle": "Beschreibung meines Lebens und Herkommens",
+    "hasBookInternalId": "@100391",
+    "sql": 2529
+  },
+  "ww_621b4d135fa96e88": {
+    "hasBookTitle": "Letter to the Earl of Cork 1 January 1633",
+    "hasBookInternalId": "@100392",
+    "sql": 2530
+  },
+  "ww_9307fa61ecc8bdab": {
+    "hasBookTitle": "Letter to the Earl of Cork 28 July 1634",
+    "hasBookInternalId": "@100393",
+    "sql": 2531
+  },
+  "ww_7f8e896f237dfa6f": {
+    "hasBookTitle": "Letter to Johann Rudolf I Burckhardt Feburary 1667",
+    "hasBookInternalId": "@100394",
+    "sql": 2532
+  },
+  "ww_682aae58c7bf499e": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Travels of Francis Tallents, 1671-1673",
+    "hasBookInternalId": "@100395",
+    "sql": 2533
+  },
+  "ww_42464470659ed180": {
+    "hasBookTitle": "Vindiciae fidei or A Treatise of Justification by Faith",
+    "hasBookInternalId": "@100396",
+    "sql": 2534
+  },
+  "ww_6ad38bb8d683864b": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Catholic Appeal for Protestants",
+    "hasBookInternalId": "@100397",
+    "sql": 2535
+  },
+  "ww_d4b4fe4ee02df831": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Christian and Heavenly Treatise",
+    "hasBookInternalId": "@100398",
+    "sql": 2536
+  },
+  "ww_926766cd1d5529a4": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Reply to Jesuit Fisher's Answer to Certain Questi",
+    "hasBookInternalId": "@100399",
+    "sql": 2537
+  },
+  "ww_bc63761c8110d42a": {
+    "hasBookTitle": "Orthotonia",
+    "hasBookInternalId": "@100400",
+    "sql": 2538
+  },
+  "ww_d1e45a5426b8bd3a": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Commentary upon the Whole New Testament",
+    "hasBookInternalId": "@100401",
+    "sql": 2539
+  },
+  "ww_44122d3d2f6ce9b3": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Commentary or Exposition upon Amos",
+    "hasBookInternalId": "@100402",
+    "sql": 2540
+  },
+  "ww_108e4ca1dadb67bd": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Commentary upon the Whole Book of Judges",
+    "hasBookInternalId": "@100403",
+    "sql": 2541
+  },
+  "ww_73aa82201e00495d": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Defence of the Sermon Preached at the Consecration",
+    "hasBookInternalId": "@100404",
+    "sql": 2542
+  },
+  "ww_704046a44a87a8ea": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Plain Exposition",
+    "hasBookInternalId": "@100405",
+    "sql": 2543
+  },
+  "ww_b9caf0bba2a4b972": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Treatise of the Divine Essence and Attributes",
+    "hasBookInternalId": "@100406",
+    "sql": 2544
+  },
+  "ww_4e30b04fa349b35d": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Grand Sacrilege of the Church of Rome",
+    "hasBookInternalId": "@100407",
+    "sql": 2545
+  },
+  "ww_57b878ccdfe9242f": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Guide to Godliness",
+    "hasBookInternalId": "@100408",
+    "sql": 2546
+  },
+  "ww_4d61f4617a9f8914": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Key to the Key of Scripture",
+    "hasBookInternalId": "@100409",
+    "sql": 2547
+  },
+  "ww_febbcc387ff15f6d": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Works of William Cowper",
+    "hasBookInternalId": "@100410",
+    "sql": 2548
+  },
+  "ww_05d420de7cbf131b": {
+    "hasBookTitle": "Lectiones Decem",
+    "hasBookInternalId": "@100411",
+    "sql": 2549
+  },
+  "ww_15203cd5aef268b4": {
+    "hasBookTitle": "Microcosmography",
+    "hasBookInternalId": "@100412",
+    "sql": 2550
+  },
+  "ww_3127fb22cd0c9be9": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "view of society and manners in France, Switzerland and",
+    "hasBookInternalId": "@100413",
+    "sql": 2551
+  },
+  "ww_fe57701cfebdce1f": {
+    "hasBookTitle": "Entry in Johann Jacob Spengler's Liber Amicorum 162",
+    "hasBookInternalId": "@100414",
+    "sql": 2553
+  },
+  "ww_5e9c7edadcb07c81": {
+    "hasBookTitle": "Entry in Johann Baptist Molitor's Liber Amicorum 16",
+    "hasBookInternalId": "@100415",
+    "sql": 2554
+  },
+  "ww_ac58ea9f947b3156": {
+    "hasBookTitle": "Dicta Poetarum",
+    "hasBookInternalId": "@100416",
+    "sql": 2555
+  },
+  "ww_09085f3c64ac466d": {
+    "hasPrefixBookTitle": "An",
+    "hasBookTitle": "Exposition of The first and second Chapters",
+    "hasBookInternalId": "@100417",
+    "sql": 2556
+  },
+  "ww_18a66083c861774a": {
+    "hasPrefixBookTitle": "An",
+    "hasBookTitle": "Exposition upon the Epistle to the Colossians",
+    "hasBookInternalId": "@100418",
+    "sql": 2557
+  },
+  "ww_770f814f0d307387": {
+    "hasBookTitle": "Remains Concerning Britain",
+    "hasBookInternalId": "@100419",
+    "sql": 2558
+  },
+  "ww_b351c110d1b69674": {
+    "hasBookTitle": "Lectures Upon The Eleventh Chapter To The Romans",
+    "hasBookInternalId": "@100420",
+    "sql": 2559
+  },
+  "ww_c15c4b0b2f67b4bc": {
+    "hasBookTitle": "Via Devia - The Byway",
+    "hasBookInternalId": "@100421",
+    "sql": 2560
+  },
+  "ww_c010fcfe6bcbc34e": {
+    "hasBookTitle": "Via Tuta - The Safe Way",
+    "hasBookInternalId": "@100422",
+    "sql": 2561
+  },
+  "ww_9e5b61ee2eb79cdf": {
+    "hasBookTitle": "Of the Institution of the Sacrament",
+    "hasBookInternalId": "@100423",
+    "sql": 2562
+  },
+  "ww_29a33987ffe34255": {
+    "hasBookTitle": "Resolves",
+    "hasBookInternalId": "@100424",
+    "sql": 2563
+  },
+  "ww_9a9b5c94615996e4": {
+    "hasBookTitle": "Ruth's Recompense",
+    "hasBookInternalId": "@100425",
+    "sql": 2564
+  },
+  "ww_606316394ffbaca8": {
+    "hasBookTitle": "Seven Treatises",
+    "hasBookInternalId": "@100426",
+    "sql": 2565
+  },
+  "ww_e8571baed78a125f": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Treasury of Similes",
+    "hasBookInternalId": "@100427",
+    "sql": 2566
+  },
+  "ww_065a781a674aa231": {
+    "hasBookTitle": "Enquiries touching the diversity of Languages and Religi",
+    "hasBookInternalId": "@100428",
+    "sql": 2567
+  },
+  "ww_dcc9e21ba2fb6ac2": {
+    "hasBookTitle": "Devout Contemplations",
+    "hasBookInternalId": "@100429",
+    "sql": 2568
+  },
+  "ww_80217993d37c9233": {
+    "hasBookTitle": "Exercitations Divine",
+    "hasBookInternalId": "@100430",
+    "sql": 2569
+  },
+  "ww_7159bfd1908b5039": {
+    "hasBookTitle": "Life Eternal (1634 edition)",
+    "hasBookInternalId": "@100431",
+    "sql": 2570
+  },
+  "ww_f877d0a5e5ae4ca1": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Practice of Piety",
+    "hasBookInternalId": "@100432",
+    "sql": 2571
+  },
+  "ww_44986a45eb412d7e": {
+    "hasBookTitle": "Life Eternal (1631 edition)",
+    "hasBookInternalId": "@100433",
+    "sql": 2572
+  },
+  "ww_a032eaa2194b9b70": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Doctrine of Self-Denial",
+    "hasBookInternalId": "@100434",
+    "sql": 2573
+  },
+  "ww_cc8d66d78b8614aa": {
+    "hasPrefixBookTitle": "A",
+    "hasBookTitle": "Remedy against Covetousness",
+    "hasBookInternalId": "@100435",
+    "sql": 2574
+  },
+  "ww_7e433eacbf292c19": {
+    "hasPrefixBookTitle": "An",
+    "hasBookTitle": "Elegant and Lively Description of Spiritual Life and",
+    "hasBookInternalId": "@100436",
+    "sql": 2575
+  },
+  "ww_b190908045e8ec7e": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Works of Mr. John Wemyss",
+    "hasBookInternalId": "@100437",
+    "sql": 2576
+  },
+  "ww_cfaae5976bca2bf3": {
+    "hasBookTitle": "Letter to Thomas Wentworth 15 November 1636",
+    "hasBookInternalId": "@100438",
+    "sql": 2577
+  },
+  "ww_5c3f1a99a7b14259": {
+    "hasBookTitle": "Life of Sir Henry Wotton",
+    "hasBookInternalId": "@100439",
+    "sql": 2578
+  },
+  "ww_4ce5b79da2781836": {
+    "hasBookTitle": "Entry 64 in Frey's Liber Amicorum 4 August 1625",
+    "hasBookInternalId": "@100440",
+    "sql": 2579
+  },
+  "ww_6937a8d1ff0b7c89": {
+    "hasBookTitle": "Entry 57 in Frey's Liber Amicorum 5 August 1625",
+    "hasBookInternalId": "@100441",
+    "sql": 2580
+  },
+  "ww_ff0ee500c323d6e2": {
+    "hasBookTitle": "Entry 44 in Frey's Liber Amicorum July 1625",
+    "hasBookInternalId": "@100442",
+    "sql": 2581
+  },
+  "ww_c07a7b34de37142c": {
+    "hasBookTitle": "Entry 94 in Frey's Liber Amicorum 6 August 1625",
+    "hasBookInternalId": "@100443",
+    "sql": 2582
+  },
+  "ww_d5e13acac88ef9f3": {
+    "hasBookTitle": "Entry in Frey's Liber Amicorum 1625 or 1626",
+    "hasBookInternalId": "@100444",
+    "sql": 2583
+  },
+  "ww_decc8188312767fe": {
+    "hasBookTitle": "Entry 74 in Frey's Liber Amicorum 12 September 1625",
+    "hasBookInternalId": "@100445",
+    "sql": 2584
+  },
+  "ww_972fe9ab5d613766": {
+    "hasBookTitle": "Entry 12 in Frey's Liber Amicorum 30 March 1630",
+    "hasBookInternalId": "@100446",
+    "sql": 2585
+  },
+  "ww_f8b3318bafa6d3a5": {
+    "hasBookTitle": "Hercules Oetaeus (Elizabeth)",
+    "hasBookInternalId": "@004444",
+    "sql": 2586
+  },
+  "ww_1aefe5e732014fc3": {
+    "hasBookTitle": "Love&#039;s Victory",
+    "hasBookInternalId": "@044441",
+    "sql": 2588
+  },
+  "ww_51dfe8658a4d3837": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Tragedy of Anthony",
+    "hasBookInternalId": "@044442",
+    "sql": 2589
+  },
+  "ww_ce91729bbd89c73a": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Concealed Fancies",
+    "hasBookInternalId": "@044443",
+    "sql": 2590
+  },
+  "ww_b201e63fe5d41e4d": {
+    "hasBookTitle": "Troy&#039;s Revenge with the Tragedy of Polyphemus",
+    "hasBookInternalId": "@044444",
+    "sql": 2591
+  },
+  "ww_30e88b3ab4fd8e5d": {
+    "hasBookTitle": "Abraham and Lot",
+    "hasBookInternalId": "@044445",
+    "sql": 2592
+  },
+  "ww_f536e57ef4e6538e": {
+    "hasBookTitle": "Bear a Brain, or Better Late Than Never",
+    "hasBookInternalId": "@044446",
+    "sql": 2593
+  },
+  "ww_6c8a6e73708f70e3": {
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Bristow Merchant",
+    "hasBookInternalId": "@044447",
+    "sql": 2594
+  },
+  "ww_92ad5463826e50f5": {
+    "hasBookTitle": "Letter to Johann Jacob Frey 8 April (1635 probably)",
+    "hasBookInternalId": "@100447",
+    "sql": 2595
+  },
+  "ww_03655f2b013be99b": {
+    "hasBookTitle": "Letter to the Earl of Essex December 1594",
+    "hasBookInternalId": "@100448",
+    "sql": 2597
+  },
+  "ww_670e8a35d9ee2798": {
+    "hasBookTitle": "Table Talk (HeWo)",
+    "hasBookInternalId": "@044448",
+    "sql": 2598
+  },
+  "ww_5b3f4f8ec23e2601": {
+    "hasBookTitle": "Letter of 14 January 1636",
+    "hasBookInternalId": "@100449",
+    "sql": 2599
+  },
+  "ww_d602a3956f10cbfc": {
+    "hasBookTitle": "Letter to Francis Bacon 19 December 1620",
+    "hasBookInternalId": "@100450",
+    "sql": 2600
+  },
+  "ww_747235f27956fca0": {
+    "hasBookTitle": "Novum Organum",
+    "hasBookInternalId": "@100451",
+    "sql": 2601
+  },
+  "ww_a8e0532c23101675": {
+    "hasBookTitle": "Letter to the Earl of Cork 19 February 1636",
+    "hasBookInternalId": "@100452",
+    "sql": 2602
+  },
+  "ww_37d273d5f2cd94a0": {
+    "hasBookTitle": "Tagebuch seiner Reise zur Synode von Dordrecht (Ryhiner)",
+    "hasBookInternalId": "@100453",
+    "sql": 2603
+  },
+  "ww_984bd128d0147201": {
+    "hasBookTitle": "Tom of Bedlam",
+    "hasBookInternalId": "@888888",
+    "sql": 2604
   }
 }

@@ -83,10 +83,10 @@
             }
           },
           {
-            "name": "Classical Greek",
+            "name": "Greek",
             "labels": {
-              "de": "Griechisch ???",
-              "en": "Classical Greek"
+              "de": "Griechisch",
+              "en": "Greek"
             }
           },
           {
@@ -108,6 +108,13 @@
             "labels": {
               "de": "Spanisch",
               "en": "Spanish"
+            }
+          },
+          {
+            "name": "Hebrew",
+            "labels": {
+              "de": "Hebräisch",
+              "en": "Hebrew"
             }
           }
         ]
@@ -1051,10 +1058,17 @@
                     }
                   },
                   {
-                    "name": "Masque or other",
+                    "name": "Masque",
                     "labels": {
-                      "de": "Maskenspiel oder anderes",
-                      "en": "Masque or other"
+                      "de": "Maskenspiel",
+                      "en": "Masque"
+                    }
+                  },
+                  {
+                    "name": "Other dramatic genre",
+                    "labels": {
+                      "de": "Andere Drama Genre",
+                      "en": "Other dramatic genre"
                     }
                   }
                 ]
@@ -1164,6 +1178,13 @@
                 }
               },
               {
+                "name": "Official document",
+                "labels": {
+                  "de": "Offizielles Dokument",
+                  "en": "Official document"
+                }
+              },
+              {
                 "name": "Speech or sermon",
                 "labels": {
                   "de": "Rede, Predigt",
@@ -1171,10 +1192,10 @@
                 }
               },
               {
-                "name": "Pamphlet or liturgical text",
+                "name": "Devotional text or pamphlet",
                 "labels": {
-                  "de": "Traktat oder liturgischer Text",
-                  "en": "Pamphlet or liturgical text"
+                  "de": "Liturgischer Text oder Traktat",
+                  "en": "Devotional text or pamphlet"
                 }
               },
               {
@@ -1194,8 +1215,8 @@
               {
                 "name": "Educational",
                 "labels": {
-                  "de": "Allgemein",
-                  "en": "Bildung"
+                  "de": "Allgemeinbildung",
+                  "en": "Educational"
                 }
               },
               {
@@ -1203,6 +1224,13 @@
                 "labels": {
                   "de": "Wissenschaftliche Datenbank",
                   "en": "Scholarly database"
+                }
+              },
+              {
+                "name": "Travel writing",
+                "labels": {
+                  "de": "???",
+                  "en": "Travel writing"
                 }
               }
             ]
@@ -1236,6 +1264,13 @@
                 }
               },
               {
+                "name": "Name or anagram or other",
+                "labels": {
+                  "de": "Name oder Anagram oder sonstige",
+                  "en": "Name or anagram or other"
+                }
+              },
+              {
                 "name": "Conversation",
                 "labels": {
                   "de": "Gespräch",
@@ -1247,6 +1282,13 @@
                 "labels": {
                   "de": "Volltext Datenbank",
                   "en": "Fulltext Database"
+                }
+              },
+              {
+                "name": "Liber Amicorum",
+                "labels": {
+                  "de": "Liber Amicorum",
+                  "en": "Liber Amicorum"
                 }
               }
             ]
@@ -1370,7 +1412,426 @@
         },
         "nodes": [
           {
-            "name": "London",
+            "name": "EUROPE",
+            "labels": {
+              "de": "Europa",
+              "en": "Europe"
+            },
+            "nodes": [
+              {
+                "name": "Britain",
+                "labels": {
+                  "de": "Britain",
+                  "en": "Britain"
+                }
+              },
+              {
+                "name": "Ireland",
+                "labels": {
+                  "de": "Ireland",
+                  "en": "Ireland"
+                }
+              },
+              {
+                "name": "Switzerland",
+                "labels": {
+                  "de": "Switzerland",
+                  "en": "Switzerland"
+                }
+              },
+              {
+                "name": "France",
+                "labels": {
+                  "de": "France",
+                  "en": "France"
+                }
+              },
+              {
+                "name": "Germany",
+                "labels": {
+                  "de": "Germany",
+                  "en": "Germany"
+                }
+              },
+              {
+                "name": "Netherlands",
+                "labels": {
+                  "de": "Netherlands",
+                  "en": "Netherlands"
+                }
+              },
+              {
+                "name": "Italy",
+                "labels": {
+                  "de": "Italy",
+                  "en": "Italy"
+                }
+              },
+              {
+                "name": "Spain",
+                "labels": {
+                  "de": "Spain",
+                  "en": "Spain"
+                }
+              },
+              {
+                "name": "Denmark",
+                "labels": {
+                  "de": "Denmark",
+                  "en": "Denmark"
+                }
+              }
+            ]
+          },
+          {
+            "name": "SWITZERLAND",
+            "labels": {
+              "de": "Schweiz",
+              "en": "Switzerland"
+            },
+            "nodes": [
+              {
+                "name": "Basel",
+                "labels": {
+                  "de": "Basel",
+                  "en": "Basel"
+                }
+              },
+              {
+                "name": "Geneva",
+                "labels": {
+                  "de": "Genf",
+                  "en": "Geneva"
+                }
+              },
+              {
+                "name": "Berne",
+                "labels": {
+                  "de": "Bern",
+                  "en": "Berne"
+                }
+              },
+              {
+                "name": "Zurich",
+                "labels": {
+                  "de": "Zürich",
+                  "en": "Zurich"
+                }
+              },
+              {
+                "name": "Liestal",
+                "labels": {
+                  "de": "Liestal",
+                  "en": "Liestal"
+                }
+              },
+              {
+                "name": "Biel",
+                "labels": {
+                  "de": "Biel",
+                  "en": "Biel"
+                }
+              }
+            ]
+          },
+          {
+            "name": "GERMANY",
+            "labels": {
+              "de": "Germany",
+              "en": "Germany"
+            },
+            "nodes": [
+              {
+                "name": "Heidelberg",
+                "labels": {
+                  "de": "Heidelberg",
+                  "en": "Heidelberg"
+                }
+              },
+              {
+                "name": "Schwetzingen",
+                "labels": {
+                  "de": "Schwetzingen",
+                  "en": "Schwetzingen"
+                }
+              },
+              {
+                "name": "Heilbronn",
+                "labels": {
+                  "de": "Heilbronn",
+                  "en": "Heilbronn"
+                }
+              },
+              {
+                "name": "Frankfurt",
+                "labels": {
+                  "de": "Frankfurt",
+                  "en": "Frankfurt"
+                }
+              },
+              {
+                "name": "Kaufbeuren",
+                "labels": {
+                  "de": "Kaufbeuren",
+                  "en": "Kaufbeuren"
+                }
+              }
+            ]
+          },
+          {
+            "name": "NETHERLANDS",
+            "labels": {
+              "de": "Niederlande",
+              "en": "Netherlands"
+            },
+            "nodes": [
+              {
+                "name": "Leyden",
+                "labels": {
+                  "de": "Leyden",
+                  "en": "Leyden"
+                }
+              },
+              {
+                "name": "Dordrecht",
+                "labels": {
+                  "de": "Dordrecht",
+                  "en": "Dordrecht"
+                }
+              },
+              {
+                "name": "The Hague",
+                "labels": {
+                  "de": "Den Haag",
+                  "en": "The Hague"
+                }
+              }
+            ]
+          },
+          {
+            "name": "ITALY",
+            "labels": {
+              "de": "Italien",
+              "en": "Italy"
+            },
+            "nodes": [
+              {
+                "name": "Florence",
+                "labels": {
+                  "de": "Florenz",
+                  "en": "Florence"
+                }
+              },
+              {
+                "name": "Padua",
+                "labels": {
+                  "de": "Padua",
+                  "en": "Padua"
+                }
+              },
+              {
+                "name": "Bologna",
+                "labels": {
+                  "de": "Bologna",
+                  "en": "Bologna"
+                }
+              }
+            ]
+          },
+          {
+            "name": "FRANCE",
+            "labels": {
+              "de": "Frankreich",
+              "en": "France"
+            },
+            "nodes": [
+              {
+                "name": "Paris",
+                "labels": {
+                  "de": "Paris",
+                  "en": "Paris"
+                }
+              },
+              {
+                "name": "Lyons",
+                "labels": {
+                  "de": "Lyons",
+                  "en": "Lyons"
+                }
+              },
+              {
+                "name": "Saumur",
+                "labels": {
+                  "de": "Saumur",
+                  "en": "Saumur"
+                }
+              },
+              {
+                "name": "Montpellier",
+                "labels": {
+                  "de": "Montpellier",
+                  "en": "Montpellier"
+                }
+              },
+              {
+                "name": "Montbéliard",
+                "labels": {
+                  "de": "Montbéliard",
+                  "en": "Montbéliard"
+                }
+              },
+              {
+                "name": "Bordeaux",
+                "labels": {
+                  "de": "Bordeaux",
+                  "en": "Bordeaux"
+                }
+              },
+              {
+                "name": "Orléans",
+                "labels": {
+                  "de": "Orléans",
+                  "en": "Orléans"
+                }
+              }
+            ]
+          },
+          {
+            "name": "BRITAIN",
+            "labels": {
+              "de": "Britain",
+              "en": "Britain"
+            },
+            "nodes": [
+              {
+                "name": "London",
+                "labels": {
+                  "de": "London",
+                  "en": "London"
+                }
+              },
+              {
+                "name": "Oxford",
+                "labels": {
+                  "de": "Oxford",
+                  "en": "Oxford"
+                }
+              },
+              {
+                "name": "Hatfield",
+                "labels": {
+                  "de": "Hatfield",
+                  "en": "Hatfield"
+                }
+              },
+              {
+                "name": "Nottingham",
+                "labels": {
+                  "de": "Nottingham",
+                  "en": "Nottingham"
+                }
+              },
+              {
+                "name": "Skipton",
+                "labels": {
+                  "de": "Skipton",
+                  "en": "Skipton"
+                }
+              },
+              {
+                "name": "Cambridge",
+                "labels": {
+                  "de": "Cambridge",
+                  "en": "Cambridge"
+                }
+              },
+              {
+                "name": "Eton",
+                "labels": {
+                  "de": "Eton",
+                  "en": "Eton"
+                }
+              },
+              {
+                "name": "Munden",
+                "labels": {
+                  "de": "Munden",
+                  "en": "Munden"
+                }
+              },
+              {
+                "name": "Lewes",
+                "labels": {
+                  "de": "Lewes",
+                  "en": "Lewes"
+                }
+              }
+            ]
+          },
+          {
+            "name": "IRELAND",
+            "labels": {
+              "de": "Irland",
+              "en": "Ireland"
+            },
+            "nodes": [
+              {
+                "name": "Dublin",
+                "labels": {
+                  "de": "Dublin",
+                  "en": "Dublin"
+                }
+              },
+              {
+                "name": "Dungannon",
+                "labels": {
+                  "de": "Dungannon",
+                  "en": "Dungannon"
+                }
+              },
+              {
+                "name": "Drogheda",
+                "labels": {
+                  "de": "Drogheda",
+                  "en": "Drogheda"
+                }
+              }
+            ]
+          },
+          {
+            "name": "PARIS",
+            "labels": {
+              "de": "Paris",
+              "en": "Paris"
+            },
+            "nodes": [
+              {
+                "name": "Faubourg St. Germain",
+                "labels": {
+                  "de": "Faubourg St. Germain",
+                  "en": "Faubourg St. Germain"
+                }
+              }
+            ]
+          },
+          {
+            "name": "LISMORE",
+            "labels": {
+              "de": "Lismore",
+              "en": "Lismore"
+            },
+            "nodes": [
+              {
+                "name": "Lismore Castle",
+                "labels": {
+                  "de": "Lismore Castle",
+                  "en": "Lismore Castle"
+                }
+              }
+            ]
+          },
+          {
+            "name": "LONDON",
             "labels": {
               "de": "London",
               "en": "London"
@@ -1423,13 +1884,6 @@
                 "labels": {
                   "de": "Red Bull",
                   "en": "Red Bull"
-                }
-              },
-              {
-                "name": "unknown venue",
-                "labels": {
-                  "de": "Unbekanntes Theater",
-                  "en": "unknown venue"
                 }
               },
               {
@@ -1620,11 +2074,32 @@
                   "de": "London Bridge",
                   "en": "London Bridge"
                 }
+              },
+              {
+                "name": "Chelsea",
+                "labels": {
+                  "de": "Chelsea",
+                  "en": "Chelsea"
+                }
+              },
+              {
+                "name": "Clapham",
+                "labels": {
+                  "de": "Clapham",
+                  "en": "Clapham"
+                }
+              },
+              {
+                "name": "Rotherhithe",
+                "labels": {
+                  "de": "Rotherhithe",
+                  "en": "Rotherhithe"
+                }
               }
             ]
           },
           {
-            "name": "Cambridge",
+            "name": "CAMBRIDGE",
             "labels": {
               "de": "Cambridge",
               "en": "Cambridge"
@@ -1661,7 +2136,7 @@
             ]
           },
           {
-            "name": "Oxford",
+            "name": "OXFORD",
             "labels": {
               "de": "Oxford",
               "en": "Oxford"
@@ -1698,7 +2173,7 @@
             ]
           },
           {
-            "name": "Dublin",
+            "name": "DUBLIN",
             "labels": {
               "de": "Dublin",
               "en": "Dublin"
@@ -1710,11 +2185,18 @@
                   "de": "Werburgh Street Theatre",
                   "en": "Werburgh Street Theatre"
                 }
+              },
+              {
+                "name": "Dublin Castle",
+                "labels": {
+                  "de": "Dublin Castle",
+                  "en": "Dublin Castle"
+                }
               }
             ]
           },
           {
-            "name": "Essex",
+            "name": "ESSEX",
             "labels": {
               "de": "Essex",
               "en": "Essex"
@@ -1730,7 +2212,7 @@
             ]
           },
           {
-            "name": "Rutland",
+            "name": "RUTLAND",
             "labels": {
               "de": "Rutland",
               "en": "Rutland"
@@ -1746,7 +2228,7 @@
             ]
           },
           {
-            "name": "Shropshire",
+            "name": "SHROPSHIRE",
             "labels": {
               "de": "Shropshire",
               "en": "Shropshire"
@@ -1762,7 +2244,7 @@
             ]
           },
           {
-            "name": "Rome",
+            "name": "ROME",
             "labels": {
               "de": "Rome",
               "en": "Rome"
@@ -1785,7 +2267,7 @@
             ]
           },
           {
-            "name": "Leicestershire",
+            "name": "LEICESTERSHIRE",
             "labels": {
               "de": "Leicestershire",
               "en": "Leicestershire"
@@ -1801,7 +2283,7 @@
             ]
           },
           {
-            "name": "Greece",
+            "name": "GREECE",
             "labels": {
               "de": "Griechenland",
               "en": "Greece"
@@ -1827,11 +2309,18 @@
                   "de": "Hellespont",
                   "en": "Hellespont"
                 }
+              },
+              {
+                "name": "Parnassus",
+                "labels": {
+                  "de": "Parnassus",
+                  "en": "Parnassus"
+                }
               }
             ]
           },
           {
-            "name": "Turkey",
+            "name": "TURKEY",
             "labels": {
               "de": "Türkei",
               "en": "Turkey"
@@ -1847,7 +2336,7 @@
             ]
           },
           {
-            "name": "Syria",
+            "name": "SYRIA",
             "labels": {
               "de": "Syrien",
               "en": "Syria"
@@ -1861,29 +2350,13 @@
                 }
               }
             ]
-          },
-          {
-            "name": "Italy",
-            "labels": {
-              "de": "Italien",
-              "en": "Italy"
-            },
-            "nodes": [
-              {
-                "name": "Florence",
-                "labels": {
-                  "de": "Florenz",
-                  "en": "Florence"
-                }
-              }
-            ]
           }
         ]
       }
     ],
     "ontology": {
       "name": "teimww",
-      "label": "Test Import WordWeb",
+      "label": "WordWeb",
       "resources": [
         {
           "name": "person",
@@ -2340,6 +2813,23 @@
             "de": "Repräsentiert eine Passage aus einem Buch"
           },
           "properties": [
+            {
+              "name": "hasPassageInternalId",
+              "super": [
+                "hasValue"
+              ],
+              "object": "TextValue",
+              "labels": {
+                "en": "Internal ID",
+                "de": "Interne ID"
+              },
+              "gui_element": "SimpleText",
+              "gui_attributes": [
+                "size=24",
+                "maxlength=64"
+              ],
+              "cardinality": "0-1"
+            },
             {
               "name": "hasText",
               "super": [

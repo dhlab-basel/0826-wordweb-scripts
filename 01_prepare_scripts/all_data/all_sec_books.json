@@ -270,7 +270,7 @@
     "hasLanguage": "English",
     "hasBookTitle": "Plays and Poems of Shakespeare (EdM edition)",
     "hasDisplayedTitle": "Plays and Poems of William Shakespeare",
-    "pubInfo": "<i>The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators : comprehending a life of the poet, and an enlarged history of the stage, by the late Edmond Malone, with a new glossarial index. </i>London: F.C. and J. Rivington 1821.",
+    "pubInfo": "<i>The plays and poems of William Shakespeare, with the corrections and illustrations of various commentators: comprehending a life of the poet, and an enlarged history of the stage, by the late Edmond Malone, with a new glossarial index. </i>London: F.C. and J. Rivington 1821.",
     "hasCreationDate": "GREGORIAN:1821:1821",
     "hasPublicationDate": "GREGORIAN:1821:1821",
     "hasGenre": [
@@ -291,7 +291,7 @@
     "hasBookTitle": "Dramatic Works and Poems of James Shirley",
     "hasPrefixDisplayedTitle": "The",
     "hasDisplayedTitle": "Dramatic Works and Poems of James Shirley",
-    "pubInfo": "eds. The Dramatic Works and Poems of James Shirley : in six volumes, volume 1 containing some account of Shirley and his Writings. London: John Murray, 1833. ",
+    "pubInfo": "eds. <i>The Dramatic Works and Poems of James Shirley: in six volumes, volume 1 containing some account of Shirley and his Writings.</i> London: John Murray, 1833. ",
     "hasCreationDate": "GREGORIAN:1833:1833",
     "hasPublicationDate": "GREGORIAN:1833:1833",
     "hasGenre": [
@@ -407,7 +407,7 @@
     "hasBookTitle": "Works of John Marston (Halliwell edition)",
     "hasPrefixDisplayedTitle": "The",
     "hasDisplayedTitle": "Works of John Marston",
-    "pubInfo": "ed. The Works of John Marston, reprinted from the original editions, with notes and some account of his life and writings. 3 vols. London: John Russell Smith, 1856. archive.org<br>",
+    "pubInfo": "ed. <i>The Works of John Marston, reprinted from the original editions, with notes and some account of his life and writings. </i>3 vols. London: John Russell Smith, 1856.",
     "hasCreationDate": "GREGORIAN:1856:1856",
     "hasPublicationDate": "GREGORIAN:1856:1856",
     "hasGenre": [
@@ -940,7 +940,7 @@
     "hasLanguage": "English",
     "hasBookTitle": "Das Verhaltnis von &quot;Antony and Cleopatra&quot",
     "hasDisplayedTitle": "Das Verh\u00e4ltnis von Shakespeare's Antony and Cleopatra zu Plutarch's Biographie des Antonius",
-    "pubInfo": "Das Verh\u00e4ltniss von Shakespeare's Antony and Cleopatra zu Plutarch's Biographie des Antonius. Weimar: Wagner, 1895. <br>",
+    "pubInfo": "<i>Das Verh\u00e4ltniss von Shakespeare's Antony and Cleopatra zu Plutarch's Biographie des Antonius. </i>Weimar: Wagner, 1895.",
     "hasCreationDate": "GREGORIAN:1895:1895",
     "hasPublicationDate": "GREGORIAN:1895:1895",
     "hasGenre": [
@@ -2477,7 +2477,7 @@
     "hasBookInternalId": "@005667",
     "hasLanguage": "English",
     "hasPrefixBookTitle": "A",
-    "hasBookTitle": "Study of the Newe Metamorphosis",
+    "hasBookTitle": "Study of the New Metamorphosis",
     "hasPrefixDisplayedTitle": "A",
     "hasDisplayedTitle": "Study of the Newe Metamorphosis",
     "pubInfo": "A Study of the Newe Metamorphosis, written by J.M. Gent, 1600. [Sometimes attributed to John Marston, but here to Jervase Markham. With selections.]. New York: Columbia University Press, 1919.",
@@ -3163,6 +3163,24 @@
     ],
     "authors": [
       "T. C. C."
+    ]
+  },
+  "ww_59c9ad37cab4825f": {
+    "hasBookInternalId": "@005912",
+    "hasLanguage": "English",
+    "hasBookTitle": "Ben Jonson and the Devil Tavern",
+    "hasDisplayedTitle": "Ben Jonson and the Devil Tavern",
+    "pubInfo": "\"Ben Jonson and the Devil Tavern.\" <i>The Modern Language Review</i> 34.3 (July 1939): 367-373.",
+    "hasCreationDate": "GREGORIAN:1939:1939",
+    "hasPublicationDate": "GREGORIAN:1939:1939",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Percy Simpson"
     ]
   },
   "ww_a73157a25d7d9c1f": {
@@ -6003,6 +6021,25 @@
       "Adele Davidson"
     ]
   },
+  "ww_2e964b1c5f760d4f": {
+    "hasBookInternalId": "@044440",
+    "hasLanguage": "English",
+    "hasBookTitle": "Renaissance Drama by Women",
+    "hasDisplayedTitle": "Renaissance Drama by Women",
+    "pubInfo": "\"Hercules Oetaeus.\" <i>Renaissance Drama by Womne: Texts and Documents. </i>Eds London and New York: Routledge, 1996. 11-12.",
+    "hasCreationDate": "GREGORIAN:1996:1996",
+    "hasPublicationDate": "GREGORIAN:1996:1996",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Susan Cerasano",
+      "Marion Wynne Davies"
+    ]
+  },
   "ww_268e430c690f89be": {
     "hasBookInternalId": "@006210",
     "hasLanguage": "English",
@@ -6079,6 +6116,26 @@
     ],
     "authors": [
       "Margaret Tudeau-Clayton"
+    ]
+  },
+  "ww_e1765981fefcffe9": {
+    "hasBookInternalId": "@003998",
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Eccho of Uncertaintie",
+    "hasPrefixDisplayedTitle": "The",
+    "hasDisplayedTitle": "Eccho of Uncertaintie",
+    "pubInfo": "\"'The Eccho of Uncertaintie': Jonson, Classical Drama and the English Civil War.\" <i>Julie Sanders et al., eds. Refashioning Ben Jonson: Gender, politics and the Jonsonian Canon.</i> London: Macmillan, 1998. 208-229.",
+    "hasCreationDate": "GREGORIAN:1998:1998",
+    "hasPublicationDate": "GREGORIAN:1998:1998",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Literature and theatre"
+    ],
+    "authors": [
+      "Susan Wiseman"
     ]
   },
   "ww_1397c4b67db5b86a": {
@@ -6159,7 +6216,7 @@
     "hasLanguage": "English",
     "hasBookTitle": "Biblical References in Shakespeare's Plays",
     "hasDisplayedTitle": "Biblical References in Shakespeare's Plays",
-    "pubInfo": "<i> Biblical References in Shakespeare's Plays. </i>Newark: University of Delaware Press, 1999.",
+    "pubInfo": "<i>Biblical References in Shakespeare's Plays. </i>Newark: University of Delaware Press, 1999.",
     "hasCreationDate": "GREGORIAN:1999:1999",
     "hasPublicationDate": "GREGORIAN:1999:1999",
     "hasGenre": [
@@ -6233,7 +6290,7 @@
     "hasLanguage": "English",
     "hasBookTitle": "Theatre, Court and City, 1595-1610",
     "hasDisplayedTitle": "Theatre, Court and City, 1595-1610",
-    "pubInfo": "<i> Theatre, Court and City, 1595-1610. Drama and Social Space in London. </i>Cambridge: Cambridge University Press, 2000.",
+    "pubInfo": "<i>Theatre, Court and City, 1595-1610. Drama and Social Space in London. </i>Cambridge: Cambridge University Press, 2000.",
     "hasCreationDate": "GREGORIAN:2000:2000",
     "hasPublicationDate": "GREGORIAN:2000:2000",
     "hasGenre": [
@@ -7760,6 +7817,26 @@
       "Colin Burrow"
     ]
   },
+  "ww_0b40a3856e95619f": {
+    "hasBookInternalId": "@005800",
+    "hasLanguage": "English",
+    "hasPrefixBookTitle": "The",
+    "hasBookTitle": "Album Amicorum",
+    "hasPrefixDisplayedTitle": "The",
+    "hasDisplayedTitle": "Album Amicorum and the London of Shakespeare's Time",
+    "pubInfo": "<i>The Album Amicorum and the London of Shakespeare's Time.</i> The British Library 2011.",
+    "hasCreationDate": "GREGORIAN:2011:2011",
+    "hasPublicationDate": "GREGORIAN:2011:2011",
+    "hasGenre": [
+      "Academic"
+    ],
+    "hasSubject": [
+      "Art, architecture, music"
+    ],
+    "authors": [
+      "June Schlueter"
+    ]
+  },
   "ww_f46faf1bb85c8149": {
     "hasBookInternalId": "@006286",
     "hasLanguage": "English",
@@ -8239,6 +8316,21 @@
     ],
     "authors": [
       "Pramit Chaudhuri"
+    ]
+  },
+  "ww_5e10d079ffacef2a": {
+    "hasBookInternalId": "@005921",
+    "hasLanguage": "English",
+    "hasBookTitle": "Dramatic Extracts",
+    "hasDisplayedTitle": "Dramatic Extracts in Seventeenth-Century English Manuscripts",
+    "pubInfo": "<i>Dramatic Extracts in Seventeenth-Century English Manuscripts: Watching, Reading, Changing Plays.</i>Newark: University of Delaware Press, 2015.",
+    "hasCreationDate": "GREGORIAN:2015:2015",
+    "hasPublicationDate": "GREGORIAN:2015:2015",
+    "hasGenre": [
+      "Academic"
+    ],
+    "authors": [
+      "Laura Estill"
     ]
   },
   "ww_842318fc1c593591": {

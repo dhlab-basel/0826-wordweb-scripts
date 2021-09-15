@@ -114,35 +114,35 @@
   "ww_ee1caaaccfc8dc13": {
     "hasFirstName": "Philipp",
     "hasLastName": "Makowski",
-    "hasPersonInternalId": "#007452",
+    "hasPersonInternalId": "#007454",
     "hasGender": "male",
     "hasDescription": "-"
   },
   "ww_89c0be6dd7262995": {
     "hasFirstName": "Vea-Murguia",
     "hasLastName": "Thomson",
-    "hasPersonInternalId": "#007456",
+    "hasPersonInternalId": "#007458",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_ad4ed5850132d51e": {
     "hasFirstName": "Eftychia",
     "hasLastName": "Fountoulakis",
-    "hasPersonInternalId": "#007487",
+    "hasPersonInternalId": "#007489",
     "hasGender": "female",
     "hasDescription": "_"
   },
   "ww_66ce392812a6d055": {
     "hasFirstName": "Jitesh",
     "hasLastName": "Patel",
-    "hasPersonInternalId": "#007489",
+    "hasPersonInternalId": "#007491",
     "hasGender": "male",
     "hasDescription": "-"
   },
   "ww_f4d0b9d33729f20b": {
     "hasFirstName": "Elisabeth",
     "hasLastName": "M\u00e4der",
-    "hasPersonInternalId": "#007569",
+    "hasPersonInternalId": "#007571",
     "hasGender": "female",
     "hasDescription": "_"
   },
@@ -257,5 +257,33 @@
     "hasPersonInternalId": "#007869",
     "hasGender": "female",
     "hasDescription": "_"
+  },
+  "ww_f420b55254ab72a2": {
+    "hasFirstName": "Lena",
+    "hasLastName": "Steveker",
+    "hasPersonInternalId": "#007899",
+    "hasGender": "female",
+    "hasDescription": "German academic"
+  },
+  "ww_5faa00dc451b9ce9": {
+    "hasFirstName": "Lukas",
+    "hasLastName": "Aresta",
+    "hasPersonInternalId": "#008078",
+    "hasGender": "male",
+    "hasDescription": "_"
+  },
+  "ww_b270e5e115c6b71f": {
+    "hasFirstName": "Philippe",
+    "hasLastName": "Schmid",
+    "hasPersonInternalId": "#008089",
+    "hasGender": "male",
+    "hasDescription": "_"
+  },
+  "ww_e23ca0f27da4d625": {
+    "hasFirstName": "Ina",
+    "hasLastName": "Habermann",
+    "hasPersonInternalId": "#008101",
+    "hasGender": "female",
+    "hasDescription": "German academic"
   }
 }

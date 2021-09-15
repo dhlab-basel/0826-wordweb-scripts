@@ -1,7 +1,7 @@
 {
-  "ww_5b6da0ed971ebeb7": {
+  "ww_a949e9741914b4f5": {
     "hasVenueInternalId": "#008000",
-    "hasPlaceVenue": "unknown venue"
+    "hasPlaceVenue": "London"
   },
   "ww_c741d607338b9c9f": {
     "hasVenueInternalId": "#008002",
@@ -136,9 +136,173 @@
     "hasVenueInternalId": "#008051",
     "hasPlaceVenue": "St. Paul's Playhouse"
   },
-  "ww_0d9fb907d60020b6": {
+  "ww_4fb8c2c63c21f5b5": {
     "hasVenueInternalId": "#008050",
-    "hasPlaceVenue": "unknown location"
+    "hasPlaceVenue": "Oxford"
+  },
+  "ww_dc84757c48e402a5": {
+    "hasVenueInternalId": "#008079",
+    "hasPlaceVenue": "Britain"
+  },
+  "ww_74b2d511a8b5d4a0": {
+    "hasVenueInternalId": "#008058",
+    "hasPlaceVenue": "Basel"
+  },
+  "ww_2576604d3c0a0f45": {
+    "hasVenueInternalId": "#008114",
+    "hasPlaceVenue": "Frankfurt"
+  },
+  "ww_6f684a14818ee663": {
+    "hasVenueInternalId": "#008086",
+    "hasPlaceVenue": "France"
+  },
+  "ww_d3f2c5a4bd46fb8e": {
+    "hasVenueInternalId": "#008088",
+    "hasPlaceVenue": "Netherlands"
+  },
+  "ww_09fcbaafec550a2b": {
+    "hasVenueInternalId": "#008064",
+    "hasPlaceVenue": "Geneva"
+  },
+  "ww_a2fd6d20d7bf78f0": {
+    "hasVenueInternalId": "#008060",
+    "hasPlaceVenue": "Leyden"
+  },
+  "ww_f1d0086689287127": {
+    "hasVenueInternalId": "#008081",
+    "hasPlaceVenue": "Padua"
+  },
+  "ww_f544b5541ba67dfc": {
+    "hasVenueInternalId": "#008057",
+    "hasPlaceVenue": "Paris"
+  },
+  "ww_dcd6211fe8661e69": {
+    "hasVenueInternalId": "#008078",
+    "hasPlaceVenue": "Eton"
+  },
+  "ww_af5f5010a93d9461": {
+    "hasVenueInternalId": "#008063",
+    "hasPlaceVenue": "Dublin Castle"
+  },
+  "ww_95ad0a486b9f9b50": {
+    "hasVenueInternalId": "#008100",
+    "hasPlaceVenue": "Dordrecht"
+  },
+  "ww_232dd68c2a376858": {
+    "hasVenueInternalId": "#008059",
+    "hasPlaceVenue": "Dublin"
+  },
+  "ww_3cb0418a0a282b00": {
+    "hasVenueInternalId": "#008068",
+    "hasPlaceVenue": "Hatfield"
+  },
+  "ww_6e4e4eb9efedac13": {
+    "hasVenueInternalId": "#008056",
+    "hasPlaceVenue": "Faubourg St. Germain"
+  },
+  "ww_2e395b5cddc21404": {
+    "hasVenueInternalId": "#008109",
+    "hasPlaceVenue": "Bordeaux"
+  },
+  "ww_b1de1fe82b114c46": {
+    "hasVenueInternalId": "#008034",
+    "hasPlaceVenue": "Whitehall Palace"
+  },
+  "ww_8484d3c8f01ac6b6": {
+    "hasVenueInternalId": "#008110",
+    "hasPlaceVenue": "Heilbronn"
+  },
+  "ww_bd23171e5282361c": {
+    "hasVenueInternalId": "#008071",
+    "hasPlaceVenue": "Zurich"
+  },
+  "ww_48cf428bd4eb1e9c": {
+    "hasVenueInternalId": "#008111",
+    "hasPlaceVenue": "Orl\u00e9ans"
+  },
+  "ww_bb0adbb8ff6911ea": {
+    "hasVenueInternalId": "#008072",
+    "hasPlaceVenue": "Saumur"
+  },
+  "ww_5a63c918a3a8be11": {
+    "hasVenueInternalId": "#008062",
+    "hasPlaceVenue": "Lyons"
+  },
+  "ww_47d409dfcaa19bbc": {
+    "hasVenueInternalId": "#008104",
+    "hasPlaceVenue": "Liestal"
+  },
+  "ww_5f59abc2af86da28": {
+    "hasVenueInternalId": "#008061",
+    "hasPlaceVenue": "Lismore Castle"
+  },
+  "ww_1485be70c8960f57": {
+    "hasVenueInternalId": "#008073",
+    "hasPlaceVenue": "Skipton"
+  },
+  "ww_b179097419086e1c": {
+    "hasVenueInternalId": "#008065",
+    "hasPlaceVenue": "Berne"
+  },
+  "ww_489ac69123c684e1": {
+    "hasVenueInternalId": "#008116",
+    "hasPlaceVenue": "Chelsea"
+  },
+  "ww_536afab58267e50f": {
+    "hasVenueInternalId": "#008105",
+    "hasPlaceVenue": "The Hague"
+  },
+  "ww_c6d700c1f0230031": {
+    "hasVenueInternalId": "#008075",
+    "hasPlaceVenue": "Drogheda"
+  },
+  "ww_149fd0e9b04a97b7": {
+    "hasVenueInternalId": "#008103",
+    "hasPlaceVenue": "Rotherhithe"
+  },
+  "ww_232bc7b949125c00": {
+    "hasVenueInternalId": "#008074",
+    "hasPlaceVenue": "Dungannon"
+  },
+  "ww_8a6168e4b09823b0": {
+    "hasVenueInternalId": "#008102",
+    "hasPlaceVenue": "Lewes"
+  },
+  "ww_cfde9497c743e2c0": {
+    "hasVenueInternalId": "#008117",
+    "hasPlaceVenue": "Clapham"
+  },
+  "ww_495a468ff880e7a3": {
+    "hasVenueInternalId": "#008070",
+    "hasPlaceVenue": "Nottingham"
+  },
+  "ww_6c8cb6b1197b8fab": {
+    "hasVenueInternalId": "#008077",
+    "hasPlaceVenue": "Cambridge"
+  },
+  "ww_d69855153d866adc": {
+    "hasVenueInternalId": "#008098",
+    "hasPlaceVenue": "Munden"
+  },
+  "ww_af2182d4ab82b28d": {
+    "hasVenueInternalId": "#008113",
+    "hasPlaceVenue": "Biel"
+  },
+  "ww_d9e82e6d59cb87fa": {
+    "hasVenueInternalId": "#008087",
+    "hasPlaceVenue": "Germany"
+  },
+  "ww_8954471d4d31352c": {
+    "hasVenueInternalId": "#008101",
+    "hasPlaceVenue": "Italy"
+  },
+  "ww_e749a2d17e2aa4b1": {
+    "hasVenueInternalId": "#008115",
+    "hasPlaceVenue": "Kaufbeuren"
+  },
+  "ww_9af1bbe6d359ff71": {
+    "hasVenueInternalId": "#008107",
+    "hasPlaceVenue": "Schwetzingen"
   },
   "ww_0ba761f4e861d087": {
     "hasVenueInternalId": "#008021",
@@ -155,10 +319,6 @@
   "ww_77efda888905f9be": {
     "hasVenueInternalId": "#008031",
     "hasPlaceVenue": "Capitol"
-  },
-  "ww_b1de1fe82b114c46": {
-    "hasVenueInternalId": "#008034",
-    "hasPlaceVenue": "Whitehall Palace"
   },
   "ww_a59ca978c81eec7f": {
     "hasVenueInternalId": "#008039",
@@ -223,5 +383,17 @@
   "ww_d8e9c5da623b8aa4": {
     "hasVenueInternalId": "#008067",
     "hasPlaceVenue": "Florence"
+  },
+  "ww_e1effaad56c03daa": {
+    "hasVenueInternalId": "#008076",
+    "hasPlaceVenue": "Parnassus"
+  },
+  "ww_4225f079ec986446": {
+    "hasVenueInternalId": "#008080",
+    "hasPlaceVenue": "Ireland"
+  },
+  "ww_738a22ef25dc569c": {
+    "hasVenueInternalId": "#008099",
+    "hasPlaceVenue": "Montb\u00e9liard"
   }
 }

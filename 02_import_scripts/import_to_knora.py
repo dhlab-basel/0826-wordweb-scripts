@@ -8,6 +8,20 @@ from knora import Knora, BulkImport
 import requests
 
 
+def test():
+    try:
+        with open('00_data_as_json/author.json') as authors_file:
+            authors = json.load(authors_file)
+
+            for author in authors:
+                if "hasDescription" not in authors[author]:
+                    print(authors[author])
+
+    except Exception as err:
+        print(err, "Import Fail")
+        raise SystemExit(0)
+
+
 def start():
     try:
         with open('00_data_as_json/author.json') as authors_file:
@@ -71,7 +85,7 @@ def start():
         ww_bulk_object.add_resource(
             "book",
             book,
-            books[book]["hasBookTitle"][:16],
+            books[book]["hasBookTitle"],
             books[book]
         )
 
@@ -79,7 +93,7 @@ def start():
         ww_bulk_object.add_resource(
             "passage",
             passage,
-            "passage",
+            passages[passage]['hasPassageInternalId'],
             passages[passage]
         )
 
@@ -87,7 +101,7 @@ def start():
         ww_bulk_object.add_resource(
             "lexia",
             lexia,
-            "L: " + lexias[lexia]["hasLexiaTitle"][:16],
+            lexias[lexia]["hasLexiaTitle"],
             lexias[lexia]
         )
 
@@ -95,7 +109,7 @@ def start():
         ww_bulk_object.add_resource(
             "company",
             company,
-            "company",
+            companies[company]["hasCompanyTitle"],
             companies[company]
         )
 
@@ -103,7 +117,7 @@ def start():
         ww_bulk_object.add_resource(
             "venue",
             venue,
-            "venue",
+            venues[venue]["hasPlaceVenue"],
             venues[venue]
         )
 
